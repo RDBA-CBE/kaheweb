@@ -1,4 +1,6 @@
-import Homepage from "@/components/00-Kahe/Homepage";
+
+import { getAllPostsMeta } from "@/mdx";
+import HomePageLayout from "../01-main-demo/(main-demo)";
 
 export const metadata = {
   title: "Histudy - Online Courses & Education NEXTJS14 Template",
@@ -6,9 +8,10 @@ export const metadata = {
 };
 
 const HomePage = async () => {
+  const blog = await getAllPostsMeta();
   return (
     <>
-      <Homepage />
+      <HomePageLayout getBlog={blog} />
     </>
   );
 };

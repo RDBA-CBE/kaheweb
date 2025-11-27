@@ -20,6 +20,14 @@ import "swiper/css/thumbs";
 // ========= Plugins CSS END =========
 
 import "../public/scss/styles.scss";
+import { Provider } from "react-redux";
+import Context from "@/context/Context";
+import Store from "@/redux/store";
+import BackToTop from "./backToTop";
+import Header from "@/components/00-Kahe/common-components/Header";
+import Footer from "@/components/00-Kahe/common-components/Footer";
+import Separator from "@/components/00-Kahe/common-components/Footer-sub-components/Seperator";
+import MobileMenu from "@/components/00-Kahe/common-components/MobileMenu";
 
 export default function RootLayout({ children }) {
   useEffect(() => {
@@ -28,7 +36,16 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en" dir="ltr">
       <body className="" suppressHydrationWarning={true}>
-        {children}
+        <Provider store={Store}>
+          <Context>
+            <MobileMenu />
+            <Header headerSticky="rbt-sticky" headerType="" />
+            {children}
+            <BackToTop />
+            <Separator />
+            <Footer />
+          </Context>
+        </Provider>
       </body>
     </html>
   );
