@@ -81,30 +81,33 @@ const HeaderTop = ({
                 <div className="header-info">
                   <ul className="rbt-secondary-menu">
                     <li>
-                      <Link href="/my-account">My Account</Link>
+                      <Link href="/my-account">Academic Calendar</Link>
                     </li>
                     <li>
-                      <Link href="#">FAQ</Link>
+                      <Link href="#">Alumni Association</Link>
                     </li>
                     <li>
-                      <Link href="/contact">Contact Us</Link>
+                      <Link href="/contact"> Student Login</Link>
                     </li>
                     <li>
-                      <Link href="/privacy-policy">Privacy Policy</Link>
+                      <Link href="/privacy-policy">Karpagam Publications</Link>
                     </li>
                     <li>
-                      <Link href="#">Terms & Condition</Link>
+                      <Link href="#">Center for ODL/DL</Link>
+                    </li>
+                    <li>
+                      <Link href="#">Admission Enquiry</Link>
                     </li>
                   </ul>
                 </div>
-                <div className="rbt-separator"></div>
-                <div className="header-info" onClick={() => setToggle(!toggle)}>
+                {/* <div className="rbt-separator"></div> */}
+                {/* <div className="header-info" onClick={() => setToggle(!toggle)}>
                   <div className="header-right-btn d-flex">
                     <Link className={`rbt-btn ${btnClass}`} href="#">
                       <span data-text={`${btnText}`}>{btnText}</span>
                     </Link>
                   </div>
-                </div>
+                </div> */}
               </div>
             </div>
           </div>

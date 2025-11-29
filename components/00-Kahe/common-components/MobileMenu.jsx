@@ -7,13 +7,15 @@ import logo from "../../../public/images/logo/logo.png";
 
 import { useAppContext } from "@/context/Context";
 import Nav from "./Header-sub-components/Nav";
+import MobileMenuNav from "./Header-sub-components/MobileMenuNav";
 
 const MobileMenu = () => {
   const { mobile, setMobile } = useAppContext();
 
+
   return (
     <>
-      <div className={`popup-mobile-menu ${mobile ? "" : "active"}`}>
+      <div className={`popup-mobile-menu kahe ${mobile ? "" : "active"}`}>
         <div className="backdrop" onClick={() => setMobile(!mobile)}></div>
         <div className="inner-wrapper">
           <div className="inner-top">
@@ -54,20 +56,11 @@ const MobileMenu = () => {
             </ul>
           </div>
 
-          <Nav />
+          <MobileMenuNav />
 
           <div className="mobile-menu-bottom">
-            <div className="rbt-btn-wrapper mb--20">
-              <Link
-                className="rbt-btn btn-border-gradient radius-round btn-sm hover-transform-none w-100 justify-content-center text-center"
-                href="#"
-              >
-                <span>Enroll Now</span>
-              </Link>
-            </div>
-
             <div className="social-share-wrapper">
-              <span className="rbt-short-title d-block">Find With Us</span>
+            
               <ul className="social-icon social-default transparent-with-border justify-content-start mt--20">
                 <li>
                   <Link href="https://www.facebook.com/">

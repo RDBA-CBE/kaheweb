@@ -115,132 +115,230 @@
 
 ***************************************************************/
 
-
-
 /**************************************
     Default Styles
 ***************************************/
-@import 'default/variables';
-@import 'default/mixins';
-@import 'default/reset';
-@import 'default/typography';
-@import 'default/extend';
-@import 'default/animations';
-@import 'default/shortcode';
-@import 'default/spacing';
-@import 'default/edu-common';
-@import 'default/forms';
-@import 'default/text-animation';
-
-
+@import "default/variables";
+@import "default/mixins";
+@import "default/reset";
+@import "default/typography";
+@import "default/extend";
+@import "default/animations";
+@import "default/shortcode";
+@import "default/spacing";
+@import "default/edu-common";
+@import "default/forms";
+@import "default/text-animation";
 
 /**************************************
 	Header Styles
 ***************************************/
 
-@import 'header/common/header-common';
-@import 'header/common/headertop';
-@import 'header/topoffer/offertopbar';
-@import 'header/headermiddle/headermid';
-@import 'header/social-share';
-@import 'header/header';
-@import 'header/nav';
-@import 'header/mega-menu';
-@import 'header/mobilemenu';
-@import 'header/offcanvas';
-@import 'header/one-page-navigation';
-
-
+@import "header/common/header-common";
+@import "header/common/headertop";
+@import "header/topoffer/offertopbar";
+@import "header/headermiddle/headermid";
+@import "header/social-share";
+@import "header/header";
+@import "header/nav";
+@import "header/mega-menu";
+@import "header/mobilemenu";
+@import "header/offcanvas";
+@import "header/one-page-navigation";
 
 /**************************************
 	Elements Styles
 ***************************************/
-@import 'elements/button';
-@import 'elements/section-title';
-@import 'elements/breadcrumb';
-@import 'elements/card';
-@import 'elements/course-meta';
-@import 'elements/service';
-@import 'elements/swiper';
-@import 'elements/feature';
-@import 'elements/about';
-@import 'elements/callto-action';
-@import 'elements/accordion';
-@import 'elements/image-gallery';
-@import 'elements/counterup';
-@import 'elements/pricingtable';
-@import 'elements/badge';
-@import 'elements/team';
-@import 'elements/social';
-@import 'elements/pagination';
-@import 'elements/backtotop';
-@import 'elements/multistepform';
-@import 'elements/newsletterform';
-@import 'elements/brand';
-@import 'elements/portfolio';
-@import 'elements/contact';
-@import 'elements/testimonial';
-@import 'elements/advance-tab';
-@import 'elements/category';
-@import 'elements/instagram';
-@import 'elements/split';
-@import 'elements/countdown';
-@import 'elements/progressbar';
-@import 'elements/category-box';
-@import 'elements/course-filter';
-@import 'elements/modal';
-@import 'elements/list';
-@import 'elements/search';
-@import 'elements/video';
-@import 'elements/switcher';
-@import 'elements/404';
+@import "elements/button";
+@import "elements/section-title";
+@import "elements/breadcrumb";
+@import "elements/card";
+@import "elements/course-meta";
+@import "elements/service";
+@import "elements/swiper";
+@import "elements/feature";
+@import "elements/about";
+@import "elements/callto-action";
+@import "elements/accordion";
+@import "elements/image-gallery";
+@import "elements/counterup";
+@import "elements/pricingtable";
+@import "elements/badge";
+@import "elements/team";
+@import "elements/social";
+@import "elements/pagination";
+@import "elements/backtotop";
+@import "elements/multistepform";
+@import "elements/newsletterform";
+@import "elements/brand";
+@import "elements/portfolio";
+@import "elements/contact";
+@import "elements/testimonial";
+@import "elements/advance-tab";
+@import "elements/category";
+@import "elements/instagram";
+@import "elements/split";
+@import "elements/countdown";
+@import "elements/progressbar";
+@import "elements/category-box";
+@import "elements/course-filter";
+@import "elements/modal";
+@import "elements/list";
+@import "elements/search";
+@import "elements/video";
+@import "elements/switcher";
+@import "elements/404";
 
 /**************************************
 	Blog Styles
 ***************************************/
-@import 'blog/blog';
-@import 'blog/post-default';
-@import 'blog/sidebar';
-@import 'blog/blog-details';
-@import 'blog/unit-test';
-
+@import "blog/blog";
+@import "blog/post-default";
+@import "blog/sidebar";
+@import "blog/blog-details";
+@import "blog/unit-test";
 
 /**************************************
 	Shop Styles
 ***************************************/
 
-@import 'shop/shop';
-@import 'shop/product-details';
-@import 'shop/my-account';
-@import 'shop/cart';
-@import 'shop/checkout';
-@import 'shop/minicart';
-
+@import "shop/shop";
+@import "shop/product-details";
+@import "shop/my-account";
+@import "shop/cart";
+@import "shop/checkout";
+@import "shop/minicart";
 
 /**************************************
 	Template Styles
 ***************************************/
-@import 'template/banner';
-@import 'template/course-details';
-@import 'template/course-sidebar';
-@import 'template/contact';
-@import 'template/sidebar';
-@import 'template/course-action-bottom';
-@import 'template/instructor-dashboard';
-@import 'template/lesson';
-
+@import "template/banner";
+@import "template/course-details";
+@import "template/course-sidebar";
+@import "template/contact";
+@import "template/sidebar";
+@import "template/course-action-bottom";
+@import "template/instructor-dashboard";
+@import "template/lesson";
 
 /**************************************
 	Footer Styles
 ***************************************/
-@import 'footer/footer';
-@import 'footer/copyright';
-@import 'footer/back-to-top';
-@import 'footer/dark';
-@import 'template/preview';
-@import 'template/preview';
+@import "footer/footer";
+@import "footer/copyright";
+@import "footer/back-to-top";
+@import "footer/dark";
+@import "template/preview";
+@import "template/preview";
 
 /**************************************
 	Dark Mode
 ***************************************/
-@import 'dark-mode/dark-mode';
+@import "dark-mode/dark-mode";
+
+// -------Kahe css
+
+.bg-green {
+  background: #367d43; //#2b4e31
+}
+
+.bg-gray {
+  background: #e6e4e4;
+}
+
+.submenu-list li a {
+  font-size: 15px;
+  padding: 5px 0;
+  display: block;
+}
+
+.main-item.has-children > a::after {
+  content: "›";
+  float: right;
+  opacity: 0.6;
+}
+
+.rbt-megamenu {
+  padding: 20px;
+}
+
+.sub-dd-ti {
+  font-size: 14px;
+  margin-bottom: 5px;
+}
+.sub-dd-p {
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+
+.has-submenu.has-menu-child-item.position-relative {
+  position: relative !important;
+}
+
+.child-submenu.position-absolute {
+  position: absolute !important;
+}
+
+
+.kahe.popup-mobile-menu .inner-wrapper {
+  width: 500px;
+}
+
+@media only screen and (max-width: 575px) {
+  .kahe.popup-mobile-menu .inner-wrapper {
+    width: 100%;
+  }
+}
+
+.kahe .rbt-secondary-menu li a {
+  color: #fff;
+}
+.kahe .social-share-transparent li a {
+  color: #fff;
+}
+
+.kahe .rbt-information-list li a {
+  color: #fff;
+}
+
+.kahe .rbt-secondary-menu li a::before {
+  display: none;
+}
+
+.kahe .rbt-header-top.rbt-header-top-1 {
+  min-height: fit-content;
+  padding-top: 4px;
+  padding-bottom: 4px;
+}
+
+.kahe .social-share-transparent li a i {
+  font-size: 13px;
+}
+
+.kahe.rbt-header .kahe-header-menu.rbt-header-wrapper {
+  background: #e6e4e4;
+}
+
+.kahe.rbt-header .mainmenu-nav .mainmenu > li > a {
+  height: fit-content;
+  line-height: normal;
+  padding: 15px 17px;
+  font-size: 14px;
+}
+
+.mobile-child-submenu {
+  padding-left: 20px;
+  margin-top: 5px;
+}
+
+.mobile-child-submenu.d-none {
+  display: none !important;
+}
+
+.mobile-child-submenu.d-block {
+  display: block !important;
+}
+
+.popup-mobile-menu .mainmenu .mega-menu-item li {
+	
+}

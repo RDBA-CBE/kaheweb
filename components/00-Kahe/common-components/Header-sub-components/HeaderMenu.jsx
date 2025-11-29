@@ -42,29 +42,7 @@ const HeaderMenu = ({ gapSpaceBetween, sticky, navigationEnd, container }) => {
       >
         <div className={`${container}`}>
           <div className={`mainbar-row ${navigationEnd} align-items-center`}>
-            <div className="header-left">
-              <div className="logo">
-                <Link href="/">
-                  {isLightTheme ? (
-                    <Image
-                      src={logo}
-                      width={152}
-                      height={50}
-                      priority={true}
-                      alt="Education Logo Images"
-                    />
-                  ) : (
-                    <Image
-                      src={logoLight}
-                      width={152}
-                      height={50}
-                      priority={true}
-                      alt="Education Logo Images"
-                    />
-                  )}
-                </Link>
-              </div>
-            </div>
+            
             <div className="rbt-main-navigation d-none d-xl-block">
               <Nav />
             </div>
