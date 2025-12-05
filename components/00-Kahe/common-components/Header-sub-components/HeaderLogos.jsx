@@ -61,15 +61,62 @@ const HeaderLogos = ({ gapSpaceBetween, sticky, navigationEnd, container }) => {
               </div>
             </div>
             <div className=" d-none d-xl-block">
-              <Image
-                src="/images/splash/topfeature/02.png"
-                width={80}
-                height={50}
-                priority={true}
-                alt="Education Logo Images"
-              />
+              <div className="d-flex ">
+                <Image
+                  src="/images/splash/topfeature/02.png"
+                  width={80}
+                  height={50}
+                  priority={true}
+                  alt="Education Logo Images"
+                />
+
+                <div className="header-info d-flex flex-column justify-content-center">
+                  <ul className="social-share-transparent">
+                    <li>
+                      <Link href="#">
+                        <i className="fab fa-facebook-f"></i>
+                      </Link>
+                    </li>
+                    <li>
+                      <Link href="#">
+                        <i className="fab fa-twitter"></i>
+                      </Link>
+                    </li>
+                    <li>
+                      <Link href="#">
+                        <i className="fab fa-linkedin-in"></i>
+                      </Link>
+                    </li>
+                    <li>
+                      <Link href="#">
+                        <i className="fab fa-instagram"></i>
+                      </Link>
+                    </li>
+                    {/* <li>
+                    <Link href="#">
+                      <i className="fab fa-skype"></i>
+                    </Link>
+                  </li> */}
+                    <li>
+                      <Link href="#">
+                        <i className="fab fa-youtube"></i>
+                      </Link>
+                    </li>
+                  </ul>
+                </div>
+              </div>
             </div>
-            
+
+            <div className="mobile-menu-bar d-block d-xl-none">
+              <div className="hamberger">
+                <button
+                  className="hamberger-button rbt-round-btn"
+                  onClick={() => setMobile(!mobile)}
+                >
+                  <i className="feather-menu"></i>
+                </button>
+              </div>
+            </div>
           </div>
         </div>
       </div>

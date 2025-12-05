@@ -1,4 +1,4 @@
-import NotFound from "@/components/NotFound/NotFound";
+import NotFound from "@/components/00-Kahe/common-components/NotFound/NotFound";
 
 export const metadata = {
   title: "Page not found - Online Courses & Education NEXTJS14 Template",
