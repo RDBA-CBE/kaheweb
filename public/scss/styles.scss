@@ -239,11 +239,16 @@
 // -------Kahe css
 
 .bg-green {
-  background: #367d43; //#2b4e31
+  background: #153b1c; //#2b4e31
 }
 
 .bg-gray {
   background: #e6e4e4;
+}
+
+.section-wid{
+	width: 90%;
+	margin: auto;
 }
 
 .submenu-list li a {
@@ -279,12 +284,52 @@
   position: absolute !important;
 }
 
-
 .kahe.popup-mobile-menu .inner-wrapper {
   width: 500px;
 }
 
-@media only screen and (max-width: 575px) {
+@media (max-width:767px){
+	.rbt-header .logo a img {
+		height: fit-content;
+		width: 180px;
+		padding: 5px 0;
+	}
+}
+
+.rbt-header .mainmenu-nav .mainmenu li.with-megamenu .rbt-megamenu{
+	left: 0 !important;
+    right: auto !important;
+    transform: translateX(0) !important;
+}
+
+.rbt-header .mainmenu-nav .mainmenu > li:nth-child(2) .rbt-megamenu {
+    left: 0 !important;
+    right: auto !important;
+    transform: translateX(0) !important;
+}
+
+.rbt-header .mainmenu-nav .mainmenu > li:last-child .rbt-megamenu {
+    right: 0 !important;
+    left: auto !important;
+    transform: translateX(0) !important;
+}
+
+.rbt-header .mainmenu-nav .mainmenu > li:nth-last-child(2) .rbt-megamenu {
+    right: 0 !important;
+    left: auto !important;
+    transform: translateX(0) !important;
+}
+.rbt-header .mainmenu-nav .mainmenu > li:nth-last-child(3) .rbt-megamenu {
+    right: 0 !important;
+    left: auto !important;
+    transform: translateX(0) !important;
+}
+
+
+
+
+
+@media (max-width: 575px) {
   .kahe.popup-mobile-menu .inner-wrapper {
     width: 100%;
   }
@@ -313,6 +358,7 @@
 
 .kahe .social-share-transparent li a i {
   font-size: 13px;
+  color: #000;
 }
 
 .kahe.rbt-header .kahe-header-menu.rbt-header-wrapper {
@@ -339,6 +385,74 @@
   display: block !important;
 }
 
-.popup-mobile-menu .mainmenu .mega-menu-item li {
-	
+.iitm-footer {
+  //   background-color: #2f0f0f;
+  font-size: 14px;
+}
+
+.iitm-footer-link {
+  color: #fff;
+  text-decoration: none;
+}
+
+.iitm-footer-link:hover {
+  text-decoration: none;
+  color: #aca8a8;
+}
+
+.iitm-footer-divider {
+  border-color: rgba(255, 255, 255, 0.2);
+  margin-bottom: 0;
+}
+
+.iitm-footer-list {
+  list-style: none;
+  padding-left: 0;
+  margin-top: 0.5rem;
+}
+
+.iitm-footer-list li {
+  margin-bottom: 0.25rem;
+  color: #fff;
+}
+
+.iitm-footer-logo {
+  width: 250px;
+}
+
+.footer-add {
+  margin-bottom: 0;
+  font-size: 13px;
+}
+
+.iitm-footer .social-share-transparent {
+	  justify-content: flex-start;
+	  margin-top: 10px;
+	  gap: 10px;
+}
+
+.iitm-footer .social-share-transparent li a i {
+  font-size: 16px;
+  color: #fff;
+
+}
+
+.iitm-footer .social-share-transparent li:hover a i{
+	color: #153b1c;
+}
+
+@media (max-width: 767px) {
+  .iitm-footer {
+    text-align: center;
+  }
+  .iitm-footer .row > div {
+    margin-bottom: 1rem;
+  }
+
+  .iitm-footer-logo {
+  width: 180px;
+}
+.iitm-footer .social-share-transparent{
+	justify-content: center;
+}
 }

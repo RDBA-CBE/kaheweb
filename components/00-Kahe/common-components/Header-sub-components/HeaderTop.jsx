@@ -32,7 +32,7 @@ const HeaderTop = ({
                 <div className="header-info">
                   <ul className="rbt-information-list">
                     <li>
-                      <Link href="#">
+                      <Link href="tellto:+1-202-555-0174">
                         <i className="feather-phone"></i>+1-202-555-0174
                       </Link>
                     </li>
@@ -40,39 +40,15 @@ const HeaderTop = ({
                 </div>
                 <div className="rbt-separator"></div>
                 <div className="header-info">
-                  <ul className="social-share-transparent">
+                  <ul className="rbt-information-list">
                     <li>
-                      <Link href="#">
-                        <i className="fab fa-facebook-f"></i>
-                      </Link>
-                    </li>
-                    <li>
-                      <Link href="#">
-                        <i className="fab fa-twitter"></i>
-                      </Link>
-                    </li>
-                    <li>
-                      <Link href="#">
-                        <i className="fab fa-linkedin-in"></i>
-                      </Link>
-                    </li>
-                    <li>
-                      <Link href="#">
-                        <i className="fab fa-instagram"></i>
-                      </Link>
-                    </li>
-                    <li>
-                      <Link href="#">
-                        <i className="fab fa-skype"></i>
-                      </Link>
-                    </li>
-                    <li>
-                      <Link href="#">
-                        <i className="fab fa-youtube"></i>
+                      <Link href="mailto:abc@gmail.com">
+                        <i className="feather-mail"></i>abc@gmail.com
                       </Link>
                     </li>
                   </ul>
                 </div>
+                
               </div>
             </div>
 

@@ -36,7 +36,7 @@ const HeaderMenu = ({ gapSpaceBetween, sticky, navigationEnd, container }) => {
   return (
     <>
       <div
-        className={`rbt-header-wrapper ${gapSpaceBetween} ${sticky} ${
+        className={`rbt-header-wrapper d-none d-xl-block ${gapSpaceBetween} ${sticky} ${
           isSticky ? "rbt-sticky" : ""
         }`}
       >
@@ -46,18 +46,7 @@ const HeaderMenu = ({ gapSpaceBetween, sticky, navigationEnd, container }) => {
             <div className="rbt-main-navigation d-none d-xl-block">
               <Nav />
             </div>
-            <div className="header-right">
-              <div className="mobile-menu-bar d-block d-xl-none">
-                <div className="hamberger">
-                  <button
-                    className="hamberger-button rbt-round-btn"
-                    onClick={() => setMobile(!mobile)}
-                  >
-                    <i className="feather-menu"></i>
-                  </button>
-                </div>
-              </div>
-            </div>
+           
           </div>
         </div>
       </div>

@@ -42,7 +42,7 @@ export default function RootLayout({ children }) {
             <Header headerSticky="rbt-sticky" headerType="" />
             {children}
             <BackToTop />
-            <Separator />
+            {/* <Separator /> */}
             <Footer />
           </Context>
         </Provider>
