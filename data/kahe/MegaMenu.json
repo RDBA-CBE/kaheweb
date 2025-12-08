@@ -299,19 +299,19 @@
         {
           "id": 4,
           "title": "Faculty of Architecture, Design and Planning",
-          "link": "#",
+          "link": "/kahe/academics/architecture",
           "desc": "Learn more about KAHE overview.",
           "src": "/images/banner/co-men.png",
           "children": [
             {
               "title": "Dean",
-              "link": "/kahe/academics/architecture-design-planning/",
+              "link": "/kahe/academics/architecture",
               "desc": "Learn more about KAHE overview.",
               "src": "/images/banner/co-men.png"
             },
             {
               "title": "Department of Architecture",
-              "link": "/kahe/academics/architecture-design-planning/department-of-architecture/",
+              "link": "/kahe/academics/architecture/department-of-architecture/",
               "desc": "Learn more about KAHE overview.",
               "src": "/images/banner/co-men.png"
             }
@@ -341,7 +341,7 @@
         {
           "id": 6,
           "title": "Faculty of Performing Arts",
-          "link": "/kahe/about",
+          "link": "/kahe/academics/performing-arts/",
           "desc": "Learn more about KAHE overview.",
           "src": "/images/banner/co-men.png",
           "children": [
@@ -362,14 +362,15 @@
         {
           "id": 7,
           "title": "Library",
-          "link": "/kahe/about",
+          "link": "/kahe/academics/library",
           "desc": "Learn more about KAHE overview.",
           "src": "/images/banner/co-men.png"
         },
         {
           "id": 8,
           "title": "Regulations",
-          "link": "/kahe/about",
+          "link": "/kahe/academics/regulations",
+
           "desc": "Learn more about KAHE overview.",
           "src": "/images/banner/co-men.png"
         },
