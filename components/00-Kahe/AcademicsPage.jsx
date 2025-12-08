@@ -4,6 +4,7 @@ import { CustomHook } from "@/utils/customHook";
 
 const AcademicsPage = ({ slug = "" }) => {
   const { data, loading, error } = CustomHook(slug);
+console.log('✌️data --->', data?.content?.rendered);
 
   if (loading) return <div>Loading...</div>
   if (error) return <div>Error: {error}</div>
@@ -13,7 +14,7 @@ const AcademicsPage = ({ slug = "" }) => {
       <h1>{data?.title?.rendered}</h1>
       <div
         dangerouslySetInnerHTML={{
-          __html: removeShortcodes(data?.content?.rendered),
+          __html: (data?.content?.rendered),
         }}
       />
     </div>
