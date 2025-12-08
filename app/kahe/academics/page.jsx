@@ -1,13 +1,12 @@
+import AcademicsPage from '@/components/00-Kahe/AcademicsPage';
+
 export const metadata = {
-  title: "About Us 01 - Online Courses & Education NEXTJS14 Template",
-  description: "Online Courses & Education NEXTJS14 Template",
+  title: "Academics - KAHE",
+  description: "Karpagam Academy of Higher Education Academics",
 };
+
 const page = () => {
-  return (
-    <>
-      <h5>Academics</h5>
-    </>
-  );
+  return <AcademicsPage />;
 };
 
 export default page;

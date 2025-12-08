@@ -1,4 +1,6 @@
 import AcademicsPage from "@/components/00-Kahe/AcademicsPage";
+import Homepage from "@/components/00-Kahe/Homepage";
+import { usePageData } from "@/utils/customHook";
 
 export const metadata = {
   title: "Histudy - Online Courses & Education NEXTJS14 Template",
