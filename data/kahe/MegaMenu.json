@@ -228,7 +228,7 @@
             },
             {
               "title": "Department of Biotechnology",
-              "link": "/kahe/academics/engineering/department-of-biotechnology/",
+              "link": "/kahe/academics/engineering/biotechnology/",
               "desc": "Learn more about KAHE overview.",
               "src": "/images/banner/co-men.png"
             },
@@ -240,13 +240,13 @@
             },
             {
               "title": "Department of Civil Engineering",
-              "link": "/kahe/academics/engineering/department-of-civil-engineering/",
+              "link": "/kahe/academics/engineering/civil-engineering/",
               "desc": "Learn more about KAHE overview.",
               "src": "/images/banner/co-men.png"
             },
             {
               "title": "Department of Computer Science and Engineering",
-              "link": "/kahe/academics/engineering/department-of-computer-science-and-engineering/",
+              "link": "/kahe/academics/engineering/computer-science-and-engineering/",
               "desc": "Learn more about KAHE overview.",
               "src": "/images/banner/co-men.png"
             },
@@ -258,13 +258,13 @@
             },
             {
               "title": "Department of Electrical and Electronics Engineering",
-              "link": "/kahe/academics/engineering/department-of-electrical-and-electronics-engineering/",
+              "link": "/kahe/academics/engineering/electrical-electronics-engineering/",
               "desc": "Learn more about KAHE overview.",
               "src": "/images/banner/co-men.png"
             },
             {
               "title": "Department of Electronics and Communication Engineering",
-              "link": "/kahe/academics/engineering/department-of-electronics-and-communication-engineering/",
+              "link": "/kahe/academics/engineering/electronics-communication-engineering//",
               "desc": "Learn more about KAHE overview.",
               "src": "/images/banner/co-men.png"
             },
@@ -276,19 +276,19 @@
             },
             {
               "title": "Department of Mechanical Engineering",
-              "link": "/kahe/academics/engineering/department-of-mechanical-engineering/",
+              "link": "/kahe/academics/engineering/mechanical-sciences-engineering/",
               "desc": "Learn more about KAHE overview.",
               "src": "/images/banner/co-men.png"
             },
             {
               "title": "Supportive Department",
-              "link": "/kahe/academics/engineering/supportive-department/",
+              "link": "/#",
               "desc": "Learn more about KAHE overview.",
               "src": "/images/banner/co-men.png",
               "children": [
                 {
                   "title": "Science and Humanities",
-                  "link": "/kahe/academics/engineering/",
+                  "link": "/kahe/academics/engineering/science-and-humanities/",
                   "desc": "Learn more about KAHE overview.",
                   "src": "/images/banner/co-men.png"
                 }
