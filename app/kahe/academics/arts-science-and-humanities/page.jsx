@@ -6,18 +6,10 @@ export const metadata = {
   description: "Online Courses & Education NEXTJS14 Template",
 };
 const page = () => {
- 
   return (
     <>
-      <BreadCrumb />
-
-       <main className="section-wid d-flex gap-4">
-        <div className="content flex-grow-1">
-          <h5>Department of Biochemistry</h5>
-          <p>Page content goes here...</p>
-        </div>
-        
-      </main>
+      <BreadCrumb  />
+      <h5>arts-science-and-humanities</h5>
     </>
   );
 };

@@ -1,8 +1,8 @@
 {
   "menuData": [
     {
-      "menuTitle": "Home",
-      "menuType": "home",
+      "menuTitle": "About",
+      "menuType": "about",
       "hasMegamenu": true,
       "hasMenuChild": true,
       "hasPositionStatic": true,
@@ -20,7 +20,7 @@
         {
           "id": 2,
           "title": "Vision And Mission",
-          "link": "/kahe/about",
+          "link": "/kahe/vision-and-mission/",
           "desc": "Learn more about KAHE overview.",
           "src": "/images/banner/co-men.png"
         },
@@ -125,7 +125,7 @@
         {
           "id": 2,
           "title": "Faculty of Arts, Science , Commerce and Management",
-          "link": "/kahe/academics/",
+          "link": "/kahe/academics/arts-science-and-humanities/",
           "children": [
             {
               "title": "Dean",

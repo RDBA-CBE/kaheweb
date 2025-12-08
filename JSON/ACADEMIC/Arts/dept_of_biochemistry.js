@@ -1,20 +1,45 @@
 export const data = {
-  title: "Department of Mathematics",
+  title: "Department of Biochemistry",
   tabs: [
-    "Overview",
-    "Programme",
-    "Faculty",
-    "Infrastructure",
-    "Publications",
-    "Events",
+    { id: "overview", label: "Overview" },
+    { id: "programme", label: "Programme" },
+    { id: "faculty", label: "Faculty" },
+    { id: "infrastructure", label: "Infrastructure" },
+    { id: "review", label: "Publications" },
+    { id: "events", label: "Events" },
   ],
 
   tabContent: [
     {
       tab: "Overview",
 
-      content:
-        "The Department of Physics was established in 2003. The Department focuses on different Research thrust areas such as Batteries, Crystal Growth, DSSC, Magnetic Materials, Nano Materials, Solar Energy, and Thin Films, which provide a wide range of opportunities to engage in world-class physics and multi-disciplinary research. The contribution of motivated and well-qualified teaching faculty generated many successful students, who are now working in various public and private sectors.",
+      items: [
+        {
+          type: "overview",
+          subTitle: "Overview",
+          content:
+            "The department of Biochemistry was established in the year 2008. The main objective of the department is to provide deep insight into the fundamental concepts in biochemistry and to equip students with biological knowledge enabling them to explore a wide range of opportunities in biological fields. Our undergraduate programme is uniquely framed with balanced theoretical and practical courses following CBCS. Our postgraduate programme is aimed at equipping skills in different experiments to address specific problems. This would cater to the needs of clinical laboratory, industrial requirements and entrepreneurship. The Department has well equipped undergraduation, postgraduation and Research labs with sophisticated instruments such as Inverted Microscope, Fluorescent Microscope, Fluorimeter, UV Spectrophotometer, Microplate reader, Lyophiliser, Rotary Evaporator, chemi-doc etc.In addition, we have a well-established Animal House Facility approved by CPCSEA with a functioning IAEC. The facility houses different rodent models for training and research purposes. We have conducted ICMR/KAHE funded workshops in animal handling. To maintain a pathogen free environment for immunocompromised strains, we have Individual Ventilated Cages (IVC). The department also hosts animal tissue culture laboratory (ATC) with state-of-the-art facilities such as biosafety cabinet, CO2 incubator, inverted phase-contrast microscope, deep-freezer, liquid nitrogen containers to study the cell-based research objectives. The department routinely conducts guest lectures, seminars, conferences and workshops funded by DBT, DST, TNSCST, ICMR and INSA. All the faculties hold PhD degree in diverse fields of biochemistry with good experience in teaching and research. Our students are placed in reputed institutions/organizations to pursue advanced training/career. The department encourages students to take part in sports, extracurricular and extension activities. The department has so far completed 5 major research projects funded by ICMR, UGC, DST and 3 minor research projects funded by UGC and KAHE. The research findings of the faculty members and students have been published in reputed international journals. At present the department has published more than 200 research articles. The major thrust area of research includes Diabetes, Cancer Biology, Phytomedicine, Nanomedicine and Computational Biology.",
+        },
+
+        {
+          type: "vision",
+          subTitle: "Vision",
+          content: [
+            "To provide scientific research at the highest international standard, integrating cutting-edge multidisciplinary approaches to solving significant problems in biology and medicine.",
+            "Motivate students to develop as internationally competitive professionals with excellent leadership, communication with teamwork skills.",
+          ],
+        },
+        {
+          type: "mission",
+          subTitle: "Mission",
+          content: [
+            "To provide a high quality education and learning experience for our undergraduate and postgraduate students through.",
+            "To encourage students to develop mathematical models.",
+            "To make students as professionals with social and economic responsibilities.",
+            "To encourage collaborative research with other disciplines.",
+          ],
+        },
+      ],
     },
     {
       tab: "Programme",
@@ -373,20 +398,21 @@ export const data = {
     {
       tab: "Infrastructure",
       items: [
+        
         {
-          title: "Department Infrastructure",
-          content: ["Staff room -4", "Class room-5"],
-        },
-        {
-          title: "List of Laboratories",
+          type: "laboratories",
+          title: "Facilities laboratories List",
           content: [
-            "UG laboratory-2",
-            "PG laboratory-2",
-            "Research Laboratory-5",
+            "UG Biochemistry Lab I & II",
+            "PG Biochemistry Lab",
+            "Research Laboratory",
+            "Animal Tissue Culture Lab",
+            "Animal House of in vivo animal studies"
           ],
         },
-        {
-          title: "List of Equipments",
+        { 
+          type:"equipment",
+          title: "Major Research Equipments",
           content: [
             "Thermal Evaporation unit",
             "FTIR, UV",
@@ -405,6 +431,7 @@ export const data = {
           ],
         },
         {
+          type: "library",
           title: "Library",
           subtitle: "Department library: 135 Books",
           images: [
@@ -544,65 +571,29 @@ export const data = {
       tab: "Events",
       items: [
         {
-          title: "GUEST LECTURE",
+          title: "Conference / Workshop / Guest Lecture",
           content: [
-            "A Guest lecture on “Global Math Opportunities for Graduates” was conducted by Mr. S. DHARUN B.Sc., M.S, a former student and currently employed with R & A Inventive Limited, Barnsley, United Kingdom, on 14th March 2024.",
-            "A Guest lecture on “A Successful Journey from the Campus to the IT Field” was conducted by Ms. Veerasundari A, Alumnus B.Sc. 2019-2022, Programmer trainee, Cognizant Technology Solutions, Bangalore., on 25th September 2023.",
-            "An Alumni Seminar on “Delivering Insights: A Journey to the Postal Department” was conducted by Ms. Aparna M, our alumni (Batch 2016-2019), Gramin Dak Sevak (BPM), Achipatti Post Office, Pollachi.",
-            "A Seminar on “Innovative uses of Machine Learning” was conducted by Dr.S.Santhosh Kumar, our alumni (Batch 2011-2016), Assistant Professor, Department of Mathematics (Aided), Sri Ramakrishna Mission Vidyalaya College of Arts and Science, Coimbatore-641 020, on 27th July 2023.",
-            "A Guest lecture on “Leadership and Entrepreneurship” was conducted by Dr.M.Kulandhaivel, Associate Professor, Department of Microbiology, Faculty of Arts, Science, commerce and Management, Karpagam Academy of Higher Education, Coimbatore, on 27th July 2023.",
-            "A Seminar on “Career Opportunities in Indian Postal Service” was conducted by RUBITHA S, B.Sc., Gramin Dak Sevak, Negamam Sub Post Office, Negamam., on 20th July 2023.",
-            "A Guest lecture on “Innovation and Development of Mathematics Skills among Students” was conducted by Mrs. N. Nandhini, M.Sc., B.Ed., PRT (Teacher), KSR Akshara Academy CBSE School, Tiruchengode, on 26th June 2023.",
-            "A Guest lecture on “Session on Achieving Problem-Solution Fit and Product-Market Fit” was conducted by Anand L, M.Sc., MBA., Chief Manager – Sales & Marketing, Pricol Properties Ltd, Coimbatore, on 20th March 2023.",
-            "A Guest lecture on “Essential Skills and Qualities to be a successful entrepreneur” was conducted by Dr.R.Jayalakshmi, IIC Ambassador, Assistant Professor, Department of Commerce-B.Com(PA) & B.Com(BPS), Faculty of Arts, Science, Commerce and Management, Karpagam Academy of Higher Education, Coimbatore, on 31st January 2023.",
-            "A Guest lecture on “Divers views of Fermat’s Theorem” was conducted by Dr. N. Kamatchi, Associate Professor in Department of Mathematics, Kamaraj College of Engineering and Technology, Virudhunagar, on 16th September 2022.",
-            "A Guest lecture on “Importance of Mathematics in IT Sector” was conducted by Ms. N. Pushparani, Operations Executive, Infosys Private Limited, Mysore, on 29th October 2022.",
-            "A Guest lecture on “Stochastic Inventory Models” was conducted by Dr. N. Anbazhagan, Professor and Head, Department of Mathematics, Alagappa University, Karaikudi, on 8th July 2022.",
-            "A Guest lecture on “Understanding hidden mathematics behind innovative technologies” was conducted by Dr. A. K. Abdul Hakeem, Assistant Professor, Department of Applied Mathematics, Sri Ramakrishna Mission Vidyalaya College of Arts and Science, Coimbatore, on 17th May 2022.",
-            "A Guest lecture on “Current Sector and Opportunities in IT Industries” was conducted by Ms. M. VENNILA, Operations Executive, Infosys Technologies, Bangalore, on 20th April 2022.",
-            "A Career Counselling on “Tips to face IT sector interviews” was conducted by Ms. M. Afsana, Programmer, Cognizant Technology Solutions, Chennai, on 29.03.2022.",
-            "A Guest lecture on “Applications of Mathematical Logic to Develop Innovation” was conducted by Dr. J. Catherine Grace John, Assistant Professor, Departments of Mathematics, Karunya Institute of Technologies and Sciences, Coimbatore, on 14th March 2022.",
-            "A Alumni webinar on “Innovation in digital for corporate career” was conducted by Ms. P. R. Arunthamizh, Talent Acquisition Associate, SSi People, Coimbatore, on 28th Febraury 2022.",
-            "A Guest lecture on “Uses of Mathematical Technique in Career Guidance” was conducted by Ms. P. Sangavi, Subject Matter Expert, Content Developer Team, Straive, Chennai, on 12th December 2021.",
-            "A Guest lecture on “Application of Statistical Quality Control” was conducted by Dr. M. Rajeswari, Assistant Professor, Department of Biostatistics, Jawaharlal Institute of Postgraduate Medical Education and Research, Puducherry, on 13th November 2021.",
-            "A Guest lecture on “Numerical Approach to Fluid Flow Problems” was conducted by Dr. M. Muthtamilselvan, Assistant Professor, Department of Mathematics, Bharathiar University, Coimbatore, on 21st October 2021.",
-            "A Webinar on “Applications of Graph Theory”, was delivered by the Resource Person Mr.R.Sivakumar, Assistant Professor, Department of Mathematics, Ayya Nadar Janaki Ammal College, Sivakasi on August 27, 2021.",
-            "A Guest lecture on “Applications Graph Theory” was conducted by Mr.R.Sivakumar, Assistant Professor, Department of Mathematics, Ayya Nadar Janaki Ammal College, Sivakasi, on 27th August 2021.",
-            "A Webinar on “Introduction to Complex Analysis”, was delivered by the Resource Person Dr. N. Kamatchi, Associate Professor, Department of Mathematics, Kamaraj College of Engineering & Technology, Virudhunagar on August 24, 2021.",
-            "A Guest lecture on “Distance Antimagic Graphs” was conducted by Dr. N. Kamatchi, Associate Professor, Department of Mathematics, Kamaraj College of Engineering & Technology, Virudhunagar, on 24th August 2021.",
-            "A Webinar on “Distance Antimagic Graphs”, was delivered by the Resource Person Dr. N. Kamatchi, Associate Professor, Department of Mathematics, Kamaraj College of Engineering & Technology, Virudhunagar on June 29, 2021.",
-            "A Guest lecture on “Career Guidence” was conducted by Ms.G.Indhumathi, Sr. Business Presentation Specialist, McKinsey and Company, Bangalore, on 28th June 2021.",
-            "A Guest lecture on “Introduction to Complex Analysis” was conducted by Dr. N. Kamatchi, Associate Professor, Department of Mathematics, Kamaraj College of Engineering & Technology, Virudhunagar, on 26th June 2021.",
-            "A Webinar on “Mathematics in Python”, was delivered by the Resource Person Dr. P. Ajitha, Dean-Academics-Science, KG College of arts and Science, Coimbatore on June 7, 2021.",
-            "A Guest lecture on “Mathematics in Python” was conducted by Dr. P. Ajitha, Dean-Academics-Science, KG College of arts and Science, Coimbatore, on 07th June 2021.",
-            "A Webinar on “Mathematics in Sports”, was delivered by the Resource Person S.Santhosh Kumar, Department of Mathematics, Sri Ramakrishna Mission Vidyalaya College of Arts and Science Coimbatote on March 31, 2021.",
-            "A Webinar on “Industry Expectation from Graduates”, was delivered by the Resource Person Mr.S.Vignesh, Test Engineer, Wipro Technologies, Hyderabad on March 29, 2021.",
-            "A Webinar on “Mathematical Modelling with R-Programming”, was delivered by the Resource Person P.S.Divya, Assistant Professor, Department of Mathematics, Karunya Institute of Technology and Sciences, Coimbatore on March 25, 2021.",
-            "A Webinar on “Strategy to Succeed in CSIR-NET, SET and GATE Exam in Mathematics”, was delivered by the Resource Person Dr. P. Prabakaran, Assistant Professor, Department of Mathematics, Bannari Amman Institute of Technology, Sathyamangalam, Erode on January 09, 2021.",
-            "A Webinar on “Machine learning on Statistical tools”, was delivered by the Resource Person Dr M. Vijila, Assistant Professor, Department of Mathematics, Karunya Institute of Technology, Coimbatore on January 08, 2021.",
-            "A Webinar on “Mathematical Applications of Management Decisions”, was delivered by the Resource Person Dr. Varalakshmi Alapati, Associate Professor, Department of Commerce, Manipal Academy of Higher Education, Manipal on December 26, 2020.",
-            "The Department of Mathematics was organized the Endowment Guest Lecture for National Mathematics Day 2020 in the topic “Robust Numerical Schemes for Differential Equations Exhibiting Boundary Layers” was delivered by the Resource Person Dr. Natesan Srinivasan, Professor, Department of Mathematics, Indian Institute of Technology, Guwahati on December 22, 2020.",
-            "A Webinar on “Distance Magic Graphs”, was delivered by the Resource Person Dr. N. Kamatchi, Associate Professor, Department of Science and Humanities, Kamaraj College of Engineering & Technology, Virudhunagar on August 08, 2020.",
-            "A Webinar on “Career Advancement in Data Analytics” was delivered by the Resource Person Raguraman Srinivasan, Managing Director and Founder ,EDAIN FRONT Solutions ,Bangalore on June 29,2020.",
-            "Skill based special lecture on “Career Guidance and Soft Skills ” was delivered by the Resource Person Ms. J.Mehanaz Fathima, SRF (NRSE-ISRO), Outreach Facility, Hyderabad on February 08, 2020.",
-            "A Guest Lecture on “Time Delay Systems” was delivered by the Resource Person Dr. R.Rakkiyappan, Assistant Professor, Department of Mathematics, Bharathiar University, Coimbatore on January 07, 2020.",
-            "The Endowment Guest Lecture on “Genesis of Numerical Linear Algebra”, was delivered by the Resource Person Dr. E.Natarajan, Associate Professor , Department of Mathematics, Indian Institute of Space Science and Technology, Kerala on January 06, 2020.",
-            "A Guest Lecture on “Graphs Arising from Distance” was delivered by the Resource Person Dr. KM. Kathiresan, Associate Professor , Department of Mathematics, Ayya Nadar Janaki Ammal College,Sivakasi on September 13, 2019.",
-            "The Department of Mathematics has Inaugurated Mathematics Association Activities for the academic year 2019-2020 on August 22, 2019 and it has delivered a special lecture  on “Mathematical application in Industries” by Dr.Guru Selvaraj, G M-HR & IR, Flow link Systems(P) Ltd, Coimbatore.",
-            "A Guest Lecture on “Topological Spaces” was delivered by the Resource Person Dr. K.Balachandaran, Professor (UGC- BSR), Department of Mathematics, Bharathiar University, on March 07, 2019.",
-            "A Guest Lecture on “Numerical Methods and its Applications” was delivered by the Resource Person Dr. V.Sundarapandian, Professor, R&D Center, Vel Tech University, Chennai on January 03, 2019.",
-            "A Guest Lecture on “Mathematical Modeling” was delivered by the Resource Person Dr. N.Anbazhagan, Professor and Head, Department of Mathematics, Alagappa University, Karaikudi on August 16, 2018.",
-            "A Guest Lecture on “Algebra and Analysis” was delivered by the Resource Person Dr. N.Kamatchi, Associate Professor, Department of Science and Humanities, Kamaraj College of Engineering and Technology, Virudhunagar on August 06, 2018.",
-            "Skill based special lecture on “Soft Skills and Hard Skills opportunities in banking” was delivered by the Resource Person Mr. P.Arun Gopalan, Assistant Manager, South Indian Bank, Coimbatore on July 28, 2018.",
-            "A Guest Lecture on “Fuzzy Topology” was delivered by the Resource Person Dr. G.Thangaraj, Professor and Head, Department of Mathematics, Thiruvalluvar University, Vellore on January 29, 2018.",
-            "A Guest Lecture on “Applications of Mathematics in Industry” was delivered by the Resource Person S.Raguraman, Sr.Director , CTS, Bangalore on August 05, 2017.",
-            "A Guest Lecture on “Mathematical Modelling” was delivered by the Resource Person Dr. K.Bhuvaneswari, Associate Professor and Head, Department of Mathematics, Mother Teresa Women’s University, Kodaikkanal on February 20, 2017.",
-            "A Guest Lecture on “Algebra and its Applications in real life” was delivered by the Resource Person Dr. R.Uthayakumar, Professor, Department of Mathematics, The Gandhigram Rural Institute, Gandhigram on September 29, 2016.",
-            "A Guest Lecture on “Graph Theory and its Applications in Real Life” was delivered by the Resource Person Dr.N.Murugesan, Assistant Professor, Department of Mathematics, Govt. Arts College, Coimbatore on August 24, 2016.",
-            "A Guest Lecture on “Fundamentals of Fluid Dynamics” was delivered by the Resource Person Dr.P.T. Hemamalini, Professor and Head, Department of Science and Humanities, Karpagam Academy of Higher Education, Coimbatore on January 29, 2016.",
-            "The Department of Mathematics was organized special lecture for Ramanujan Day-2015 in the topic “Contribution of Srinivasa Ramanujan to Infinite Series and Continued fraction in Mathematics” was delivered by the Resource Person Dr.A.Angurag, Associate Professor, Department of Mathematics, P.S.G. College of Arts and Science, Coimbatore on December 22, 2015.",
-            "A Guest Lecture on “Applications of Differential Equations” was delivered by the Resource Person Dr.S.Marshal Anthoni, Associate Professor, Department of Mathematics, Anna University Regional Center, Coimbatore on October 08, 2015.",
-            "A Guest Lecture on “Fractal Analysis” was delivered by the Resource Person Dr. R.Uthayakumar, Professor, Department of Mathematics, The Gandhigram Rural Institute, Gandhigram on August 12, 2015.",
+            "The Department organized a webinar on “Bioenergetics” on 11.01.2021. Dr. A. Arunkumar, Director, Bio Ages Innovations, Coimbatore delivered a lecture about Bioenergetics.",
+            "A webinar on the Application of Nanotechnology in Agriculture was presented by Dr. R. Subbaiya, Associate Professor, The Copperbelt University, Kitwe, Zambia on 05.01.2021.",
+            "An online session on “Identifying Intellectual Property Component at the Early Stage of Innovation” was conducted by the Department of Biochemistry and Institutions Innovation Council of KAHE on 23rd December 2020. The experts Ms. Divya Sridharan and Ms. G. Shrividhya, currently working in the IPR search and drafting sector were invited.",
+            "A webinar was organized by the Department of Biochemistry on 20th November 2020 to commemorate World Diabetes Day (14th November 2020) with the theme “The Nurse and Diabetes”. Dr. P. Kalaiselvi delivered the lecture.",
+            "A webinar was organized by the Department of Biochemistry on 6th November 2020. Distinguished alumni Dr. Sreenath Kunnathupara Bhaskaran delivered a lecture on the “Opportunities for Biochemist Abroad”.",
+            "The department of Biochemistry organized a webinar entitled “Shedding Light on Asymptomatic Typhoid Carriers” on 8th August 2020. The lecture was delivered by Dr. B. Senthilkumar.",
+            "As part of the World Environment Day awareness, a webinar entitled “Advanced Solutions in Gas Chromatography to ascertain Environmental health” was organized on 4th June 2020.",
+            "A guest lecture on “Overcoming COVID-19 Hurdles in Clinical Practice and Vaccine Development” was delivered by Dr. Palanikumar Manoharan on 1st June 2020.",
+            "A webinar on “IPR Basics and Indian Patent System” was organized on 14th May 2020 by Ms. Divya Sridharan.",
+            "National Conference on “Research Methodology for Life Sciences” conducted on March 04–05, 2020.",
+            "National seminar on “Current Approaches to Curtail Cancer Progression” conducted on February 17–18, 2020.",
+            "Association inauguration and Guest lecture by Prof. N. Angayarkanni on “Diabetic retinopathy” conducted on August 03, 2018.",
+            "Guest lecture by Mr. S. Syed on “Health care opportunities for life science students” conducted on June 20, 2018.",
+            "International Conference on “Biochemical Understanding of Cancer Cell Survival and Progression” conducted from February 05–07, 2018.",
+            "Vision Screening Camp conducted from January 03–04, 2018.",
+            "Diabetes screening campaign conducted on November 14, 2017.",
+            "World food day celebrated on October 25, 2017.",
+            "National Seminar on “Indigenous herbs and Bone Health” conducted on June 21–22, 2017.",
+            "Workshop on “Understanding Bioinformatics to Analyse Biological Information” conducted on February 17–18, 2017.",
+            "DST sponsored National Seminar on “Diabetes-Research and Remedies” conducted on January 27–28, 2017.",
+            "Guest lectures delivered by Dr. E. M. Shankar and Dr. A. Sureshkumar on January 06, 2017."
           ],
         },
         {
@@ -660,6 +651,9 @@ export const data = {
             "“Department Alumni Meet 2025” on 10.08.2025 by our alumni 6 faculty members from the department of Mathematics and Mr. Gokul MC, Manager-Alumni Relations, to participate in this alumni meet.",
           ],
         },
+        
+        
+       
       ],
     },
   ],

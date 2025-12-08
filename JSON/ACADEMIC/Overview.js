@@ -1,4 +1,4 @@
-const overview = {
+export const overview = {
   title: "ACADEMICS",
   content:
     "Karpagam Academy of Higher Education was founded with the mission to impart value based and holistic education that enriches the knowledge and skills of students and empowering their lives by way of educating is what is truly believed at Karpagam.",
@@ -25,7 +25,7 @@ const overview = {
   ],
 };
 
-const subMenu = {
+export const subMenu = {
   title: "Academics - Arts, Science and Humanities",
   content: [
     {
@@ -101,102 +101,102 @@ const subMenu = {
     {
       category: "Engineering",
       link: "academics/engineering/",
-      items: [
-        {
-          name: "Department of Biotechnology",
-          link: "/academics/engineering/biotechnology",
-        },
-        {
-          name: "Department of Biomedical Engineering",
-          link: "/academics/engineering/department-of-biomedical-engineering/",
-        },
-        {
-          name: "Department of Chemical Engineering",
-          link: "/academics/engineering/department-of-chemical-engineering/",
-        },
-        {
-          name: "Department of Civil Engineering",
-          link: "/academics/engineering/civil-engineering/",
-        },
-        {
-          name: "Department of Food Technology",
-          link: "/academics/engineering/department-of-food-technology/",
-        },
-        {
-          name: "Department of Artificial Intelligence and Data Science",
-          link: "/academics/engineering/department-of-artificial-intelligence-and-data-science/",
-        },
-        {
-          name: "Department of Computer Science and Engineering",
-          link: "/academics/engineering/computer-science-engineering/",
-        },
-        {
-          name: "Department of Cyber Security",
-          link: "/academics/engineering/department-of-cyber-security/",
-        },
-        {
-          name: "Department of Electronics and Communication Engineering",
-          link: "/academics/engineering/electronics-communication-engineering/",
-        },
-        {
-          name: "Department of Electrical and Electronics Engineering",
-          link: "/academics/engineering/electrical-electronics-engineering/",
-        },
-        {
-          name: "Department of Mechanical Engineering",
-          link: "/academics/engineering/mechanical-sciences-engineering/",
-        },
-        {
-          category: "Science and Humanities",
+      // items: [
+      //   {
+      //     name: "Department of Biotechnology",
+      //     link: "/academics/engineering/biotechnology",
+      //   },
+      //   {
+      //     name: "Department of Biomedical Engineering",
+      //     link: "/academics/engineering/department-of-biomedical-engineering/",
+      //   },
+      //   {
+      //     name: "Department of Chemical Engineering",
+      //     link: "/academics/engineering/department-of-chemical-engineering/",
+      //   },
+      //   {
+      //     name: "Department of Civil Engineering",
+      //     link: "/academics/engineering/civil-engineering/",
+      //   },
+      //   {
+      //     name: "Department of Food Technology",
+      //     link: "/academics/engineering/department-of-food-technology/",
+      //   },
+      //   {
+      //     name: "Department of Artificial Intelligence and Data Science",
+      //     link: "/academics/engineering/department-of-artificial-intelligence-and-data-science/",
+      //   },
+      //   {
+      //     name: "Department of Computer Science and Engineering",
+      //     link: "/academics/engineering/computer-science-engineering/",
+      //   },
+      //   {
+      //     name: "Department of Cyber Security",
+      //     link: "/academics/engineering/department-of-cyber-security/",
+      //   },
+      //   {
+      //     name: "Department of Electronics and Communication Engineering",
+      //     link: "/academics/engineering/electronics-communication-engineering/",
+      //   },
+      //   {
+      //     name: "Department of Electrical and Electronics Engineering",
+      //     link: "/academics/engineering/electrical-electronics-engineering/",
+      //   },
+      //   {
+      //     name: "Department of Mechanical Engineering",
+      //     link: "/academics/engineering/mechanical-sciences-engineering/",
+      //   },
+      //   {
+      //     category: "Science and Humanities",
 
-          link: "/academics/engineering/science-and-humanities/",
-          item: [
-            {
-              name: "Guest Lecture/Seminar Archives",
-              link: "/academics/engineering/science-and-humanities/guest-lecture-seminar-archives/",
-            },
-            {
-              name: "Publication Archives",
-              link: "/academics/engineering/science-and-humanities/publication-archives/",
-            },
-          ],
-        },
-      ],
+      //     link: "/academics/engineering/science-and-humanities/",
+      //     item: [
+      //       {
+      //         name: "Guest Lecture/Seminar Archives",
+      //         link: "/academics/engineering/science-and-humanities/guest-lecture-seminar-archives/",
+      //       },
+      //       {
+      //         name: "Publication Archives",
+      //         link: "/academics/engineering/science-and-humanities/publication-archives/",
+      //       },
+      //     ],
+      //   },
+      // ],
     },
 
     {
       category: "Faculty of Architecture, Design and Planning",
       link: "/academics/architecture/",
 
-      items: [
-        {
-          name: "Department of Architecture",
-          link: "/academics/architecture/department-of-architecture/",
-        },
-      ],
+      // items: [
+      //   {
+      //     name: "Department of Architecture",
+      //     link: "/academics/architecture/department-of-architecture/",
+      //   },
+      // ],
     },
     {
       category: "Pharmacy",
       link: "/academics/pharmacy/",
 
-      items: [
-        {
-          name: "Department of Pharmacy",
-          link: "/academics/pharmacy/department-of-pharmacy/",
-        },
-      ],
+      // items: [
+      //   {
+      //     name: "Department of Pharmacy",
+      //     link: "/academics/pharmacy/department-of-pharmacy/",
+      //   },
+      // ],
     },
 
     {
       category: "Library",
       link: "academics/library/",
 
-      items: [
-        {
-          name: "KAHE — Learning Management System (LMS)",
-          link: "/academics/library/learning-management-system-lms/",
-        },
-      ],
+      // items: [
+      //   {
+      //     name: "KAHE — Learning Management System (LMS)",
+      //     link: "/academics/library/learning-management-system-lms/",
+      //   },
+      // ],
     },
 
     {
@@ -207,12 +207,12 @@ const subMenu = {
       category: "NEP",
       link: "academics/nep/",
 
-      items: [
-        {
-          name: "Overview",
-          link: "/academics/nep/overview/",
-        },
-      ],
+      // items: [
+      //   {
+      //     name: "Overview",
+      //     link: "/academics/nep/overview/",
+      //   },
+      // ],
     },
     {
       category: "Regulations",
@@ -222,12 +222,12 @@ const subMenu = {
       category: "Dean-Performing Arts",
       link: "/academics/dean-performing-arts/",
 
-      items: [
-        {
-          name: "Faculty of Performing Arts",
-          link: "/academics/dean-performing-arts/faculty-of-performing-arts/",
-        },
-      ],
+      // items: [
+      //   {
+      //     name: "Faculty of Performing Arts",
+      //     link: "/academics/dean-performing-arts/faculty-of-performing-arts/",
+      //   },
+      // ],
     },
 
     {
@@ -237,3 +237,5 @@ const subMenu = {
     { name: "Discipline", link: "/academics/discipline/" },
   ],
 };
+
+

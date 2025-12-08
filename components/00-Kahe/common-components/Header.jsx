@@ -13,8 +13,8 @@ const Header = () => {
         <div className="rbt-sticky-placeholder"></div>
         <HeaderTop
           bgColor="bg-green rbt-border-bottom"
-          gapSpaceBetween="header-space-betwween"
-          container="container-fluid"
+          gapSpaceBetween=""
+          container="section-wid"
           flexDirection=""
           btnClass="rbt-switch-btn btn-gradient btn-xs"
           btnText="Register Now"
@@ -22,8 +22,8 @@ const Header = () => {
 
          <HeaderLogos
           sticky="bg-color-white"
-          gapSpaceBetween="header-space-betwween shadow-none"
-          container="container-fluid"
+          gapSpaceBetween="shadow-none"
+          container="section-wid"
           navigationEnd="rbt-navigation-start"
           btnClass="rbt-marquee-btn marquee-auto btn-border-gradient radius-round btn-sm hover-transform-none"
           btnText="Enroll Now"
@@ -31,8 +31,8 @@ const Header = () => {
 
         <HeaderMenu
           sticky="bg-gray header-sticky kahe-header-menu"
-          gapSpaceBetween="header-space-betwween shadow-none"
-          container="container-fluid"
+          gapSpaceBetween=" shadow-none"
+          container="section-wid"
           navigationEnd="rbt-navigation-start"
           btnClass="rbt-marquee-btn marquee-auto btn-border-gradient radius-round btn-sm hover-transform-none"
           btnText="Enroll Now"
