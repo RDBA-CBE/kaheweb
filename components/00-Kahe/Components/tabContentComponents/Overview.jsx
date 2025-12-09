@@ -12,27 +12,42 @@ const Overview = ({ overviewContent }) => {
   return (
     <>
       <div
-        className={`rbt-course-feature-box overview-wrapper rbt-shadow-box mt--30 has-show-more ${
+        className={`rbt-course-feature-box overview-wrapper  mt--30 has-show-more active ${
           toggle ? "active" : ""
         }`}
         id="overview"
       >
         <div className="rbt-course-feature-inner has-show-more-inner-content">
           <div className="section-title">
-            <h4
-              className="rbt-title-style-3"
+            <h2
+              className="main-ti"
               dangerouslySetInnerHTML={{ __html: overviewItem.subTitle }}
-            ></h4>
+            ></h2>
           </div>
-          <p dangerouslySetInnerHTML={{ __html: overviewItem.content }}></p>
+          <div className="d-flex gap-5 overview-p pb-4">
+            <div className="overview-p-one">
+              <p
+                dangerouslySetInnerHTML={{ __html: overviewItem.content1 }}
+              ></p>
+              <p
+                dangerouslySetInnerHTML={{ __html: overviewItem.content2 }}
+              ></p>
+            </div>
+
+            <img className="overview-p-two" src="/images/others/health-b-02.png" alt="" />
+          </div>
+
+          <p dangerouslySetInnerHTML={{ __html: overviewItem.content3 }}></p>
+          <p dangerouslySetInnerHTML={{ __html: overviewItem.content4 }}></p>
+          <p dangerouslySetInnerHTML={{ __html: overviewItem.content5 }}></p>
 
           {visionItem && (
-            <div className="row g-5 mb--30">
+            <div className="row mt-4">
               <div className="section-title">
-                <h4
-                  className="rbt-title-style-3"
+                <h3
+                  className="main-sub-ti"
                   dangerouslySetInnerHTML={{ __html: visionItem.subTitle }}
-                ></h4>
+                ></h3>
               </div>
               <div className="col-lg-12 mt-0">
                 <ul className="rbt-list-style-1">
@@ -48,12 +63,12 @@ const Overview = ({ overviewContent }) => {
           )}
 
           {missionItem && (
-            <div className="row g-5 mb--30">
+            <div className="row mt-4">
               <div className="section-title">
-                <h4
-                  className="rbt-title-style-3"
+                <h3
+                  className="main-sub-ti"
                   dangerouslySetInnerHTML={{ __html: missionItem.subTitle }}
-                ></h4>
+                ></h3>
               </div>
               <div className="col-lg-12 mt-0">
                 <ul className="rbt-list-style-1">
@@ -68,12 +83,12 @@ const Overview = ({ overviewContent }) => {
             </div>
           )}
         </div>
-        <div
+        {/* <div
           className={`rbt-show-more-btn ${toggle ? "active" : ""}`}
           onClick={() => setToggle(!toggle)}
         >
-          Show More
-        </div>
+          {toggle ? "Show Less" : "Show More"}
+        </div> */}
       </div>
     </>
   );

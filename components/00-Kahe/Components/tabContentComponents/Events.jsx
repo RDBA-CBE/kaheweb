@@ -1,15 +1,56 @@
+import Image from "next/image";
 import Link from "next/link";
+import { useRouter } from "next/navigation";
 import React from "react";
 
 const Events = ({ eventsContent }) => {
+  const router = useRouter();
+  const goToEvents = () => {
+    sessionStorage.setItem('eventsData', JSON.stringify(eventsContent));
+    router.push(`/kahe/events/${eventsContent.slug}`);
+  };
 
   return (
     <>
       <div className="rbt-course-feature-inner">
         <div className="section-title">
-          <h4 className="rbt-title-style-3">{eventsContent.tab}</h4>
+          <h4 className="main-ti">{eventsContent.tab}</h4>
         </div>
-        <div className="rbt-accordion-style rbt-accordion-02 accordion">
+
+        <div className="row g-5">
+          {eventsContent.items.map((item, i) => (
+            <div
+              className="col-lg-3 col-md-6 col-sm-6 col-12"
+              key={i}
+              onClick={goToEvents} // 👈 On click push to /events
+              style={{ cursor: "pointer" }} // 👈 To indicate clickable
+            >
+              <div className="rbt-cat-box rbt-cat-box-1 image-overlaping-content on-hover-content-visible">
+                <div className="inner">
+                  <div className="thumbnail">
+                    <Image
+                      src="/images/Kahe/Innerpages/infra-1.jpg"
+                      width={300}
+                      height={300}
+                      priority
+                      alt="Icons Images"
+                    />
+                  </div>
+                  <div className="content">
+                    <h5 className="title">{item.title}</h5>
+                    <div className="read-more-btn">
+                      <span className="rbt-btn-link">
+                        View events <i className="feather-arrow-right"></i>
+                      </span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          ))}
+        </div>
+
+        {/* <div className="rbt-accordion-style rbt-accordion-02 accordion">
           <div className="accordion" id="accordionExampleb2">
             {eventsContent.items.map((item, i) => (
               <div className="accordion-item card" key={i}>
@@ -58,7 +99,7 @@ const Events = ({ eventsContent }) => {
               </div>
             ))}
           </div>
-        </div>
+        </div> */}
       </div>
     </>
   );

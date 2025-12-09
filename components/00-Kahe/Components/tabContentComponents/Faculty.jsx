@@ -16,10 +16,10 @@ const Faculty = ({ facultyContent }) => {
         <div className="row">
           <div className="col-lg-12">
             <div className="section-title">
-              <h4
-                className="rbt-title-style-3"
+              <h2
+                className="main-ti "
                 dangerouslySetInnerHTML={{ __html: facultyContent.tab }}
-              ></h4>
+              ></h2>
             </div>
           </div>
         </div>
@@ -43,10 +43,13 @@ const Faculty = ({ facultyContent }) => {
                       <td>{item.qualification}</td>
                       <td>{item.designation}</td>
                       <td>{item.email}</td>
-                      <td>
-                        <Link href={item.profile} target="_blank">
+                      <td className="px-2">
+                        <span className="button-td">
+                          <Link href={item.profile} target="_blank">
                           Click here
                         </Link>
+                        </span>
+                        
                       </td>
                     </tr>
                   ))}
