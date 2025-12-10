@@ -4,9 +4,9 @@
 // import CourseData from "../../../../../data/course-details/courseData.json";
 import TabInnerSection from "@/components/00-Kahe/Components/TabInnerSection";
 import { subMenu } from "@/JSON/ACADEMIC/Overview";
-import data from "../../JSON/ACADEMIC/Arts/dept_of_biochemistry.json";
+import data from "../../../../JSON/ACADEMIC/Arts/dept_of_biochemistry.json";
 import InnerBanner from "@/components/00-Kahe/common-components/InnerBanner";
-import Sidebar from "./common-components/Sidebar";
+import Sidebar from "../../common-components/Sidebar";
 
 export const metadata = {
   title: "About Us 01 - Online Courses & Education NEXTJS14 Template",
@@ -31,7 +31,7 @@ const DeptOfBioChemPage = () => {
               />
             </div>
 
-            <div className="col-lg-3 px-0">
+            <div className="col-lg-3 px-0 d-none d-md-block">
               <div className="course-sidebar sticky-top rbt-shadow-box rbt-gradient-border ">
                 <div className="inner">
                   <div className="content-item-content">

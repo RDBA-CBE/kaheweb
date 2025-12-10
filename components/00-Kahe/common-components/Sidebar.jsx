@@ -30,7 +30,7 @@ const Sidebar = ({ checkMatchCourses, subMenu }) => {
 
   return (
     <>
-      <div className="content-item-content in-sidebar d-none d-md-block">
+      <div className="content-item-content in-sidebar ">
         <div
           className={`rbt-widget-details has-show-more ${
             toggle ? "active" : ""

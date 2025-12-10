@@ -1,4 +1,4 @@
-import DeptOfBioChemPage from "@/components/00-Kahe/DeptOfBioChemPage";
+import DeptOfBioChemPage from "@/components/00-Kahe/Components/AcademicsComponents/DeptOfBioChemPage";
 
 export const metadata = {
   title: "About Us 01 - Online Courses & Education NEXTJS14 Template",
