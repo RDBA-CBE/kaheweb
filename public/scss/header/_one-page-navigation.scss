@@ -2,25 +2,25 @@
     One Page Navigation Inner Section 
 ------------------------------------------*/
 .rbt-inner-onepage-navigation {
-    border-radius: 10px;
-    background: var(--color-white);
+    // border-radius: 10px;
+    // background: var(--color-white);
     overflow: hidden;
-    box-shadow: var(--shadow-1);
-    padding: 7px;
+    // box-shadow: var(--shadow-1);
+    // padding: 7px;
 
     @media #{$lg-layout} {
         padding: 0;
-        border-radius: 10px;
+        // border-radius: 10px;
     }
 
     @media #{$md-layout} {
         padding: 0;
-        border-radius: 10px;
+        // border-radius: 10px;
     }
 
     @media #{$sm-layout} {
         padding: 0;
-        border-radius: 10px;
+        // border-radius: 10px;
     }
 
     @media #{$large-mobile} {
@@ -30,11 +30,11 @@
     .mainmenu-nav {
         .mainmenu {
             display: flex;
-            padding: 5px;
+            padding: 0cap;
             justify-content: space-between;
-            margin: -3px;
+            margin: 0px;
             
-            gap: 5px;
+            gap: 10px;
             overflow-x: auto;
            
             
@@ -67,7 +67,7 @@
                     color: var(--color-heading);
                     z-index: 2;
                     // padding: 10px 25px;
-                    border-radius: 10px;
+                    border-radius: 20px;
 
                     &::after {
                         position: absolute;
@@ -80,7 +80,8 @@
                         opacity: 1;
                         transition: 0.4s;
                         z-index: -1;
-                        border-radius: 10px;
+                        border-radius: 20px;
+                        background: #b3d3e9;
                     }
                 }
 
@@ -113,4 +114,11 @@
             }
         }
     }
+}
+
+.mainmenu-nav.scrolled {
+  background-color: #fff;
+  padding: 7px;
+  border-radius: 25px;
+  transition: all 0.3s ease;
 }

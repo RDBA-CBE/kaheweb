@@ -1,131 +1,117 @@
-// import React from "react";
-
-// const Programmes = () => {
-//   return (
-//     <section className="kahe-transfer-wrapper"  id="programme">
-//       <div className={`kahe-transfer-left tab-pane fade advance-tab-content-1 `}>
-//         <div className="kahe-transfer-img-overlay">
-//           <div className="kahe-transfer-text-box" >
-//             <p>
-//               B.Sc Chemistry
-//             </p>
-
-//             <button className="kahe-transfer-btn">
-//                Student Programmes →
-//             </button>
-//           </div>
-//         </div>
-//       </div>
-
-//       <div className="kahe-transfer-right">
-//         <div className="kahe-transfer-yellow main-ti">
-//           Student Programmes
-//         </div>
-
-//         <div className="kahe-transfer-link-box">
-//           <h3>Programmes</h3>
-//           <ul>
-//             <li>Under Graduate Programme</li>
-//             <li >Post Graduate Programmes</li>
-//             <li>Research Programmes</li>
-
-//           </ul>
-
-//            <h3>Curriculum</h3>
-//           <ul>
-//             <li>B.Sc. Chemistry</li>
-//             <li >M.Sc. Chemistry</li>
-//             <li>Ph.D. Chemistry</li>
-
-//           </ul>
-//         </div>
-//       </div>
-//     </section>
-//   );
-// };
-
-// export default Programmes;
-
 "use client";
 
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
+import { useRouter } from "next/navigation";
 
-const Programmes = () => {
-  // Tab data directly inside component (since no JSON)
-  const programmeTabs = [
-    {
-      key: "ug",
-      title: "Under Graduate Programme",
-      img: "/images/others/health-b-02.png",
-      text: "B.Sc Chemistry",
-    },
-    {
-      key: "pg",
-      title: "Post Graduate Programmes",
-      img: "/images/others/health-b-02.png",
-      text: "M.Sc Chemistry",
-    },
-    {
-      key: "res",
-      title: "Research Programmes",
-      img: "/images/others/health-b-02.png",
-      text: "Ph.D. Chemistry",
-    },
-  ];
+const Programmes = ({ programmeContent }) => {
+  const router = useRouter();
 
-  const curriculumTabs = [
-    {
-      key: "bsc",
-      title: "B.Sc. Chemistry",
-      img: "/images/others/health-b-02.png",
-      text: "B.Sc Chemistry Programme",
-    },
-    {
-      key: "msc",
-      title: "M.Sc. Chemistry",
-      img: "/images/others/health-b-02.png",
-      text: "M.Sc Chemistry Programme",
-    },
-    {
-      key: "phd",
-      title: "Ph.D. Chemistry",
-      img: "/images/others/health-b-02.png",
-      text: "Ph.D Chemistry Programme",
-    },
-  ];
+  const programmeTabs = programmeContent?.programmes?.content || [];
+  const curriculumTabs = programmeContent?.curriculum?.content || [];
 
-  // We store active content
-  const [activeData, setActiveData] = useState(programmeTabs[0]);
+
+  const [activeData, setActiveData] = useState(
+    programmeTabs?.length > 0 ? programmeTabs[0] : null
+  );
+
+  const [sidebarOpen, setSidebarOpen] = useState(false);
+
+  useEffect(() => {
+  
+    setSidebarOpen(false);
+  }, [activeData]);
+
+  if (!activeData) return <>No Data Found</>;
 
   return (
-    <section className="kahe-transfer-wrapper" id="programme">
-      {/* ==== LEFT SIDE CONTENT DYNAMIC ==== */}
+    <section className="kahe-transfer-wrapper d-none d-md-grid" id="programme">
+      {/* LEFT SIDE CONTENT */}
       <div
-        className="kahe-transfer-left tab-pane fade advance-tab-content-1 active show"
+        className="kahe-transfer-left"
         style={{ backgroundImage: `url(${activeData.img})` }}
       >
         <div className="kahe-transfer-img-overlay">
           <div className="kahe-transfer-text-box">
-            <p>{activeData.text}</p>
+            {/* PROGRAMME TYPE SCREEN */}
+            {activeData.type === "programme" &&
+              activeData.items?.map((item, i) => (
+                <div className="program-overlay-row" key={i}>
+                  <i className="feather-chevron-right me-3 text-white"></i>
+                  <span className="main-sub-ti text-white">{item}</span>
+                </div>
+              ))}
 
-            <button className="kahe-transfer-btn">Student Programmes →</button>
+            {/* CURRICULUM TITLE */}
+            {activeData.type === "curriculum" && (
+              <h3 className="main-sub-ti text-white">{activeData.title}</h3>
+            )}
+
+            {/* CURRICULUM SLIDER BUTTON */}
+            {activeData.type === "curriculum" && (
+           
+
+               <button className="rbt-btn hover-icon-reverse mt-4" onClick={() => setSidebarOpen(true)}>
+
+              <span className="icon-reverse-wrapper">
+                <span className="btn-text">View Curricular batches</span>
+                <span className="btn-icon">
+                  <i className="feather-arrow-right"></i>
+                </span>
+                <span className="btn-icon">
+                  <i className="feather-arrow-right"></i>
+                </span>
+              </span>
+             
+            </button>
+            )}
           </div>
         </div>
 
-        
+        {/* SLIDING SIDEBAR PANEL */}
+        <div
+          className={`kahe-curriculum-slide-panel ${
+            sidebarOpen ? "kahe-curriculum-slide-panel-open" : ""
+          }`}
+        >
+          <div className="kahe-curriculum-slide-inner">
+            <span
+              className="kahe-curriculum-slide-close"
+              onClick={() => setSidebarOpen(false)}
+            >
+              ×
+            </span>
+
+            <h4 className="kahe-curriculum-slide-title">
+              {activeData.title}
+            </h4>
+
+            <ul className="kahe-curriculum-slide-list">
+              {activeData.items?.map((batch, i) => (
+                <a
+                  key={i}
+                  href={batch.link}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="kahe-curriculum-year-link"
+                >
+                  <li className="kahe-curriculum-slide-item">{batch.year}</li>
+                </a>
+              ))}
+            </ul>
+          </div>
+        </div>
       </div>
 
-      {/* ==== RIGHT SIDE - CLICKABLE TABS ==== */}
+      {/* RIGHT SIDE LISTING */}
       <div className="kahe-transfer-right">
         <h2 className="kahe-transfer-yellow main-ti">Student Programmes</h2>
 
         <div className="kahe-transfer-link-box">
-          <h3 className="main-sub-ti">Programmes</h3>
+          <h3 className="main-sub-ti">{programmeContent.programmes.title}</h3>
           <ul>
             {programmeTabs.map((item) => (
               <li
                 key={item.key}
-                style={{ cursor: "pointer" }}
                 className={activeData.key === item.key ? "active" : ""}
                 onClick={() => setActiveData(item)}
               >
@@ -134,12 +120,11 @@ const Programmes = () => {
             ))}
           </ul>
 
-          <h3 className="main-sub-ti">Curriculum</h3>
+          <h3 className="main-sub-ti">{programmeContent.curriculum.title}</h3>
           <ul>
             {curriculumTabs.map((item) => (
               <li
                 key={item.key}
-                style={{ cursor: "pointer" }}
                 className={activeData.key === item.key ? "active" : ""}
                 onClick={() => setActiveData(item)}
               >

@@ -12,29 +12,6 @@ export default function Publications({publicationsContent}) {
   console.log("publicationsContent",publicationsContent);
   
 
-  const data = [
-    {
-      title: "Dr. K. Poornima",
-      list: [
-        "Kannappan Poornima et al. Chromatographic Fingerprinting Analysis...",
-        "Gebrehiwot TY, Drug Invent. Today. 2020 Jun 1;13(6):903−8.",
-        "Bhaskaran SK, Cardiovasc Hematol Agents Med Chem. 2020 Aug 11.",
-        "Poorinima K, Biomed Res Int. 2014;2014:240243.",
-        "Bhaskaran SK, Biomed Pharmacother. 2017 May;89:473−481.",
-      ],
-    },
-    {
-      title: "Dr. M. Sridhar Muthusami",
-      list: [
-        "Krishnan A, J Endocrinol. 2017 Feb;232(2):R99−R113.",
-        "Muthusami S, Cancer Lett. 2020 Sep 8.",
-        "Muthusami S, Curr Protein Pept Sci. 2020(21):52−65.",
-        "Muthusami S, Cancer Lett. 2014;351(2):252−9.",
-        "Muthusami S, J Cancer Res Clin Oncol. 2015;141(2):203−10.",
-      ],
-    },
-  ];
-
   return (
     <>
       <div

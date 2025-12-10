@@ -11,7 +11,7 @@ const Faculty = ({ facultyContent }) => {
     : facultyContent.faculty.slice(0, 6);
 
   return (
-    <div className="rbt-dashboard-content bg-color-white" id="faculty">
+    <div className="rbt-dashboard-content bg-color-white">
       <div className="content">
         <div className="row">
           <div className="col-lg-12">

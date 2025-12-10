@@ -109,21 +109,21 @@ const Infrastructure = ({ infrastructureContent }) => {
               </div>
             </div>
 
-            <div class="lab-container  parent-gallery-container">
+            <div className="lab-container parent-gallery-container">
               {library.images.slice(0, 5).map((item, i) => (
                 <Link
-                  class="lab-item child-gallery-single"
+                  className="lab-item child-gallery-single"
                   key={i}
-                  href={`${item}`}
+                  href={item.src}
                   data-gall="gallery01"
-                  title="Visible Spectrometer – Top Science College in Coimbatore"
+                  title={item.title}
                   style={
                     i === 4 && library.images.length > 5
                       ? { position: "relative" }
                       : {}
                   }
                 >
-                  <img src={item} alt="" />
+                  <img src={item.src} alt={item.title} />
                   {i === 4 && library.images.length > 5 && (
                     <div
                       style={{
@@ -144,21 +144,20 @@ const Infrastructure = ({ infrastructureContent }) => {
                       +{library.images.length - 5} More Images
                     </div>
                   )}
-                  <p>
-                    Visible Spectrometer – Top Science College in Coimbatore
-                  </p>
+                  <p>{item.title}</p>
                 </Link>
               ))}
+
               {library.images.slice(5).map((item, i) => (
                 <Link
-                  class="lab-item child-gallery-single"
+                  className="lab-item child-gallery-single"
                   key={i + 10}
-                  href={`${item}`}
+                  href={item.src}
                   data-gall="gallery01"
-                  title="Visible Spectrometer – Top Science College in Coimbatore"
+                  title={item.title}
                   style={{ display: "none" }}
                 >
-                  <img src={item} alt="" />
+                  <img src={item.src} alt={item.title} />
                 </Link>
               ))}
             </div>

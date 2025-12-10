@@ -19,7 +19,7 @@ const DeptOfBioChemPage = () => {
     <>
       {/* <BreadCrumb img={BreadcrumbImage} /> */}
 
-      <InnerBanner />
+      <InnerBanner data={data}/>
 
       <main className="section-wid d-flex gap-4 py-5">
         <div className="rbt-course-details-area w-100">

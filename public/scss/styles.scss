@@ -1110,6 +1110,233 @@
   text-transform: capitalize;
 }
 
+.events-pg {
+  min-height: 500px;
+}
+
 .events-pg .rbt-accordion-style .card .card-header button.collapsed {
   font-weight: 400;
+}
+
+.mobile-wrapper {
+  padding: 15px;
+  font-family: sans-serif;
+}
+
+/* ================= MAIN TAB BUTTONS =================== */
+.mobile-main-tab {
+  display: flex;
+  gap: 10px;
+}
+
+.main-btn,
+.active-main-btn {
+  padding: 5px 20px;
+  border-radius: 25px;
+
+  border: none;
+}
+
+.main-btn {
+  background: #e6e6e6;
+}
+
+.active-main-btn {
+  background: #153b1c;
+  color: white;
+}
+
+/* ================= INNER PROGRAM TAB =================== */
+.inner-program-tabs {
+  display: flex;
+  gap: 8px;
+  // margin: 18px 0;
+  overflow-x: auto;
+  margin-bottom: 10px;
+}
+
+.inner-btn,
+.active-inner-btn {
+  padding: 8px 14px;
+  border-radius: 25px;
+  white-space: nowrap;
+  border: none;
+}
+
+.inner-btn {
+  background: #d8e8dc;
+}
+
+.active-inner-btn {
+  background: #153b1c;
+  color: white;
+}
+
+/* ================= PROGRAM DISPLAY =================== */
+.program-overlay-container {
+  width: 100%;
+  position: relative;
+  margin-top: 20px;
+}
+
+.curriculum-wrapper {
+  margin-top: 20px;
+}
+
+.program-bg-image {
+  width: 100%;
+  height: 280px;
+  background-size: cover;
+  background-position: center;
+  border-radius: 14px;
+}
+
+.program-overlay-box {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  background: #0000007a;
+  width: 100%;
+  padding: 16px;
+  border-radius: 0 0 14px 14px;
+  height: 100px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.overlay-btn {
+  padding: 7px 12px;
+  background: #444;
+  border-radius: 6px;
+  color: white;
+
+  border: none;
+}
+
+/* ================= CURRICULUM ACCORDION =================== */
+.curriculum-item {
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  overflow: hidden;
+  margin-bottom: 12px;
+}
+
+.curriculum-header {
+  padding: 12px 15px;
+  display: flex;
+  justify-content: space-between;
+  background: white;
+  cursor: pointer;
+}
+
+.curriculum-content {
+  padding: 12px 18px;
+  background: #f2fff9;
+}
+
+.curriculum-header .acc-ti {
+  margin-bottom: 0;
+  line-height: normal;
+}
+
+/* clickable year */
+.batch-link {
+  padding: 6px 0;
+
+  cursor: pointer;
+  color: #000;
+}
+
+.kahe-curriculum-slide-panel {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 0;
+  height: 100%;
+  overflow: hidden;
+  z-index: 999999;
+  pointer-events: none;
+}
+
+.kahe-curriculum-slide-panel-open {
+  width: 350px;
+  pointer-events: auto;
+  transition: width 0.4s ease-in-out;
+}
+
+.kahe-curriculum-slide-inner {
+  height: 100%;
+  background: #f8f9fa;
+  padding: 30px;
+  box-shadow: 6px 0px 18px rgba(0, 0, 0, 0.3);
+}
+
+.kahe-curriculum-slide-close {
+  position: absolute;
+  right: 15px;
+  top: 12px;
+  font-size: 22px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.kahe-curriculum-slide-title {
+  font-size: 18px;
+  margin-bottom: 18px;
+  font-weight: 500;
+}
+
+.kahe-curriculum-slide-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.kahe-curriculum-slide-item {
+  padding: 12px;
+  background: #fafafa;
+  border: 1px solid #eaeaea;
+  margin-bottom: 10px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.kahe-curriculum-slide-item:hover {
+  background: #ffe9a6;
+}
+
+.overview-main-wrapper {
+  width: 100%;
+}
+
+.overview-flex {
+  display: flex;
+  justify-content: space-between;
+  gap: 30px;
+  align-items: flex-start;
+}
+
+.overview-left {
+  flex: 1;
+}
+
+.overview-right img {
+  width: 100%;
+  max-width: 450px;
+  height: auto;
+  object-fit: cover;
+}
+
+/* For mobile */
+@media (max-width: 991px) {
+  .overview-flex {
+    flex-direction: column;
+  }
+
+  .overview-right img {
+    width: 100%;
+    max-width: 100%;
+  }
 }

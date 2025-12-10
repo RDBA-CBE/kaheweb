@@ -1,7 +1,4 @@
 "use client";
-
-import { useEffect } from "react";
-
 import "venobox/dist/venobox.min.css";
 
 import TabMenu from "./TabMenu";
@@ -11,16 +8,9 @@ import Faculty from "./tabContentComponents/Faculty";
 import Infrastructure from "./tabContentComponents/Infrastructure";
 import Publications from "./tabContentComponents/Publications";
 import Programmes from "./tabContentComponents/Programmes";
+import ProgrammesMbl from "./tabContentComponents/ProgrammesMbl";
 
-const TabInnerSection = ({  tabSections, tabContent }) => {
-  useEffect(() => {
-    import("venobox/dist/venobox.min.js").then((venobox) => {
-      new venobox.default({
-        selector: ".popup-video",
-      });
-    });
-  }, []);
-
+const TabInnerSection = ({ tabSections, tabContent }) => {
   const tabItems = tabContent;
 
   console.log("tabItems", tabItems);
@@ -45,43 +35,55 @@ const TabInnerSection = ({  tabSections, tabContent }) => {
           <TabMenu sections={tabSections} />
         </div>
 
-        <Overview overviewContent={overviewContent} />
+        {overviewContent && <Overview overviewContent={overviewContent} />}
 
-        <div
-          className="rbt-course-feature-box details-wrapper mt--50"
-          id="programme"
-        >
-          <div className="row g-5 ">
-            {/* <Publications programmeContent={programmeContent} /> */}
-            <Programmes/>
+        {programmeContent && (
+          <div
+            className="rbt-course-feature-box details-wrapper mt--50"
+            id="programme"
+          >
+            <div className="row g-5 ">
+              {/* <Publications programmeContent={programmeContent} /> */}
+              <Programmes programmeContent={programmeContent} />
+              <ProgrammesMbl programmeContent={programmeContent} />
+            </div>
           </div>
-        </div>
-        <div
-          className="rbt-instructor  intructor-wrapper mt--50"
-          id="intructor"
-        >
-          <Faculty facultyContent={facultyContent} />
-        </div>
-        <div
-          className="rbt-review-wrapper review-wrapper mt--50"
-          id="infrastructure"
-        >
-          <Infrastructure infrastructureContent={infrastructureContent} />
-        </div> 
+        )}
+        {facultyContent && (
+          <div
+            className="rbt-instructor  intructor-wrapper mt--50"
+            id="faculty"
+          >
+            <Faculty facultyContent={facultyContent} />
+          </div>
+        )}
 
-        <div
-          className="rbt-review-wrapper review-wrapper mt--50"
-          id="publications"
-        >
-          <Publications publicationsContent={publicationsContent} />
-        </div>
+        {infrastructureContent && (
+          <div
+            className="rbt-review-wrapper review-wrapper mt--50"
+            id="infrastructure"
+          >
+            <Infrastructure infrastructureContent={infrastructureContent} />
+          </div>
+        )}
 
-        <div
-          className="course-content  coursecontent-wrapper mt--50"
-          id="events"
-        >
-          <Events eventsContent={eventsContent} />
-        </div>
+        {publicationsContent && (
+          <div
+            className="rbt-review-wrapper review-wrapper mt--50"
+            id="publications"
+          >
+            <Publications publicationsContent={publicationsContent} />
+          </div>
+        )}
+
+        {eventsContent && (
+          <div
+            className="course-content  coursecontent-wrapper mt--50"
+            id="events"
+          >
+            <Events eventsContent={eventsContent} />
+          </div>
+        )}
       </div>
     </>
   );
