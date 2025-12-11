@@ -1,4 +1,4 @@
-import Homepage from "@/components/00-Kahe/Homepage";
+import Homepage from "@/components/00-Kahe/DirectPageComponent/Homepage";
 
 export const metadata = {
   title: "Histudy - Online Courses & Education NEXTJS14 Template",

@@ -1,5 +1,5 @@
-import AcademicsPage from "@/components/00-Kahe/AcademicsPage";
-import Homepage from "@/components/00-Kahe/Homepage";
+import AcademicsPage from "@/components/00-Kahe/DirectPageComponent/AcademicsPage";
+import Homepage from "@/components/00-Kahe/DirectPageComponent/Homepage";
 import { usePageData } from "@/utils/customHook";
 
 export const metadata = {

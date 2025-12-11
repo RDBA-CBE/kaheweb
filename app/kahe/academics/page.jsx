@@ -1,4 +1,4 @@
-import AcademicsPage from '@/components/00-Kahe/AcademicsPage';
+import AcademicsPage from '@/components/00-Kahe/DirectPageComponent/AcademicsPage';
 
 export const metadata = {
   title: "Academics - KAHE",
