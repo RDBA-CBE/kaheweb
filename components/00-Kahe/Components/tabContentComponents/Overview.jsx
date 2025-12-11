@@ -104,30 +104,30 @@ const Overview = ({ overviewContent }) => {
   const [paragraphs, setParagraphs] = useState([]);
 
   // Split the content string into chunks by character length
-  const splitByCharLength = (text, maxLength = 600) => {
-    const result = [];
-    let start = 0;
+ const splitByCharLength = (text, maxLength = 500) => {
+  const sentences = text
+    .split(".")
+    .map((s) => s.trim())
+    .filter(Boolean)
+    .map((s) => s + ".");
 
-    while (start < text.length) {
-      let end = start + maxLength;
+  const result = [];
+  let current = "";
 
-      // try to split at a period, newline or space before maxLength
-      if (end < text.length) {
-        const lastPeriod = text.lastIndexOf(".", end);
-        const lastNewline = text.lastIndexOf("\n", end);
-        const lastSpace = text.lastIndexOf(" ", end);
-        const splitAt = Math.max(lastPeriod, lastNewline, lastSpace);
-        if (splitAt > start) {
-          end = splitAt + 1;
-        }
-      }
-
-      result.push(text.slice(start, end).trim());
-      start = end;
+  sentences.forEach((sentence) => {
+    if ((current + " " + sentence).trim().length > maxLength) {
+      if (current) result.push(current.trim());
+      current = sentence; // start new block
+    } else {
+      current += " " + sentence;
     }
+  });
 
-    return result.filter(Boolean);
-  };
+  if (current.trim()) result.push(current.trim());
+
+  return result;
+};
+
 
   useEffect(() => {
     const updateSlice = () => {
@@ -146,7 +146,7 @@ const Overview = ({ overviewContent }) => {
 
   useEffect(() => {
     if (overviewItem?.contents) {
-      setParagraphs(splitByCharLength(overviewItem.contents, 600));
+      setParagraphs(splitByCharLength(overviewItem.contents, 500));
     }
   }, [overviewItem]);
 

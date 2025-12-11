@@ -30,7 +30,7 @@ export default function Publications({publicationsContent}) {
             <h2
               className="main-ti"
              
-            >{publicationsContent.tab}</h2>
+            >{publicationsContent.subtitle}</h2>
           </div>
 
           <h3 className="main-sub-ti">{publicationsContent?.title}</h3>

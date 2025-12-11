@@ -36,15 +36,7 @@
         {
           "type": "overview",
           "subTitle": "Overview",
-          "contents": [
-            "The department of Biochemistry was established in the year 2008. The main objective of the department is to provide deep insight into the fundamental concepts in biochemistry and to equip students with biological knowledge enabling them to explore a wide range of opportunities in biological fields. Our undergraduate programme is uniquely framed with balanced theoretical and practical courses following CBCS. Our postgraduate programme is aimed at equipping skills in different experiments to address specific problems.",
-
-            "This would cater to the needs of clinical laboratory, industrial requirements and entrepreneurship. The Department has well equipped undergraduation, postgraduation and Research labs with sophisticated instruments such as Inverted Microscope, Fluorescent Microscope, Fluorimeter, UV Spectrophotometer, Microplate reader, Lyophiliser, Rotary Evaporator, chemi-doc etc. In addition, we have a well-established Animal House Facility approved by CPCSEA with a functioning IAEC. The facility houses different rodent models for training and research purposes. We have conducted ICMR/KAHE funded workshops in animal handling.",
-
-            "To maintain a pathogen free environment for immunocompromised strains, we have Individual Ventilated Cages (IVC). The department also hosts animal tissue culture laboratory (ATC) with state-of-the-art facilities such as biosafety cabinet, CO2 incubator, inverted phase-contrast microscope, deep-freezer, liquid nitrogen containers to study the cell-based research objectives.",
-
-            "The department routinely conducts guest lectures, seminars, conferences and workshops funded by DBT, DST, TNSCST, ICMR and INSA. All the faculties hold PhD degree in diverse fields of biochemistry with good experience in teaching and research. Our students are placed in reputed institutions/organizations to pursue advanced training/career. The department encourages students to take part in sports, extracurricular and extension activities. The department has so far completed 5 major research projects funded by ICMR, UGC, DST and 3 minor research projects funded by UGC and KAHE. The research findings of the faculty members and students have been published in reputed international journals. At present the department has published more than 200 research articles. The major thrust area of research includes Diabetes, Cancer Biology, Phytomedicine, Nanomedicine and Computational Biology."
-          ],
+          "contents": "The department of Biochemistry was established in the year 2008. The main objective of the department is to provide deep insight into the fundamental concepts in biochemistry and to equip students with biological knowledge enabling them to explore a wide range of opportunities in biological fields. Our undergraduate programme is uniquely framed with balanced theoretical and practical courses following CBCS. Our postgraduate programme is aimed at equipping skills in different experiments to address specific problems. This would cater to the needs of clinical laboratory, industrial requirements and entrepreneurship. The Department has well equipped undergraduation, postgraduation and Research labs with sophisticated instruments such as Inverted Microscope, Fluorescent Microscope, Fluorimeter, UV Spectrophotometer, Microplate reader, Lyophiliser, Rotary Evaporator, chemi-doc etc. In addition, we have a well-established Animal House Facility approved by CPCSEA with a functioning IAEC. The facility houses different rodent models for training and research purposes. We have conducted ICMR/KAHE funded workshops in animal handling. To maintain a pathogen free environment for immunocompromised strains, we have Individual Ventilated Cages (IVC). The department also hosts animal tissue culture laboratory (ATC) with state-of-the-art facilities such as biosafety cabinet, CO2 incubator, inverted phase-contrast microscope, deep-freezer, liquid nitrogen containers to study the cell-based research objectives. The department routinely conducts guest lectures, seminars, conferences and workshops funded by DBT, DST, TNSCST, ICMR and INSA. All the faculties hold PhD degree in diverse fields of biochemistry with good experience in teaching and research. Our students are placed in reputed institutions/organizations to pursue advanced training/career. The department encourages students to take part in sports, extracurricular and extension activities. The department has so far completed 5 major research projects funded by ICMR, UGC, DST and 3 minor research projects funded by UGC and KAHE. The research findings of the faculty members and students have been published in reputed international journals. At present the department has published more than 200 research articles. The major thrust area of research includes Diabetes, Cancer Biology, Phytomedicine, Nanomedicine and Computational Biology.",
           "image": "/images/others/health-b-02.png"
         },
         {
@@ -77,14 +69,14 @@
             "key": "ug",
             "title": "Under Graduate Programme",
             "img": "/images/others/health-b-02.png",
-            "items": ["B.Sc Chemistry"],
+            "items": ["B.Sc. Biochemistry"],
             "type": "programme"
           },
           {
             "key": "pg",
             "title": "Post Graduate Programmes",
             "img": "/images/others/health-b-02.png",
-            "items": ["M.Sc Chemistry"],
+            "items": ["M.Sc. Biochemistry (Strength: 30)"],
             "type": "programme"
           },
           {
@@ -111,7 +103,7 @@
               },
               {
                 "year": "2021-2022",
-                "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/07/UG-Biochemistry_Syllabus_2020-2021.pdf"
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2021/11/BSc-Biochemistry_2021-2022_Regulations-curriculum-and-syllabi.pdf"
               }
             ]
           },
@@ -123,15 +115,15 @@
             "items": [
               {
                 "year": "2020-2021",
-                "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/07/UG-Biochemistry_Syllabus_2020-2021.pdf"
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/07/PG-Biochemistry_Syllabus_2020-2021.pdf"
               },
               {
                 "year": "2021-2022",
-                "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/07/UG-Biochemistry_Syllabus_2020-2021.pdf"
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2021/11/MSc-Biochemistry_2021-2022_Regulations-curriculum-and-syllabi.pdf"
               },
               {
                 "year": "2022-2023",
-                "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/07/UG-Biochemistry_Syllabus_2020-2021.pdf"
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2022/09/Biochemistry-PG-syllabus.pdf"
               }
             ]
           },
@@ -143,11 +135,11 @@
             "items": [
               {
                 "year": "2020-2021",
-                "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/07/UG-Biochemistry_Syllabus_2020-2021.pdf"
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/07/Ph.D-Biochemistry_Syllabus_2020-2021.pdf"
               },
               {
                 "year": "2022-2023",
-                "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/07/UG-Biochemistry_Syllabus_2020-2021.pdf"
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2022/09/Biochemistry-PG-syllabus.pdf"
               }
             ]
           },
@@ -159,247 +151,102 @@
             "items": [
               {
                 "year": "2020-2021",
-                "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/07/UG-Biochemistry_Syllabus_2020-2021.pdf"
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/07/Ph.D-Biochemistry_Syllabus_2020-2021.pdf"
               },
               {
                 "year": "2021-2022",
-                "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/07/UG-Biochemistry_Syllabus_2020-2021.pdf"
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2021/11/M.Phil-Ph.D-Biochemistry_Syllabus_2021-2022.pdf"
               },
               {
                 "year": "2022-2023",
-                "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/07/UG-Biochemistry_Syllabus_2020-2021.pdf"
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2022/09/Biochem-Ph.D-syllabus.pdf"
               },
               {
                 "year": "2023-2024",
-                "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/07/UG-Biochemistry_Syllabus_2020-2021.pdf"
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2023/08/Ph.D-Biochemistry_Syllabus_2023-2024.pdf"
               }
             ]
           }
         ]
       }
     },
+
     {
       "tab": "Faculty",
       "faculty": [
         {
-          "name": "Dr.M.M.Shaamugapriya",
-          "qualification": "M.Sc., M.Phil, PGDCA, Ph.D.",
+          "name": "Dr. V. K. Gopalakrishnan",
+          "qualification": "",
           "designation": "Professor",
-          "email": "shammugapriya.mm@kahedu.edu.in",
-          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/06/Dr.M.M.Shanmugapriya-1.pdf"
+          "email": "",
+          "profile": ""
         },
         {
-          "name": "Dr.M.Jegantthan",
-          "qualification": "M.Sc.(Sadr.), M.B.A(HiR), M.Sc(App.Psy), PGDCA, Ph.D.",
+          "name": "Dr.M.Sridhar Muthusami",
+          "qualification": "M.Sc., M.Phil., Ph.D., SET.",
           "designation": "Associate Professor",
-          "email": "jegantthan.m@kahedu.edu.in",
-          "profile": "https://kahedu.edu.in/bio-data/arts/maths/One%20Page%20Bio%20Data%20-%20Dr.M.Jegannathan.pdf"
+          "email": "sridhar.m@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in//bio-data/arts/biochemistry/DR%20M%20SRIDHAR%20MUTHUSAMI.pdf"
         },
         {
-          "name": "Mr.U.R.Ramakrishnan",
-          "qualification": "M.Sc., M.Phil., (Ph.D.)",
-          "designation": "Assistant Professor",
-          "email": "ramakrishnan.ur@kahedu.edu.in",
-          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/06/Mr.-U.-R.-Ramakrishnan-1.pdf"
-        },
-        {
-          "name": "Dr.P.Vidor",
-          "qualification": "M.Sc., M.Phil., Ph.D.",
-          "designation": "Assistant Professor",
-          "email": "vdotor.p@kahedu.edu.in",
-          "profile": "https://kahedu.edu.in/bio-data/arts/maths/One%20Page%20Bio%20Data%20-%20Dr.P.VICTOR.pdf"
-        },
-        {
-          "name": "Dr.J.Jarad",
-          "qualification": "M.Sc., M.Phil., Ph. D.",
-          "designation": "Assistant Professor",
-          "email": "jarad.j@kahedu.edu.in",
-          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/06/Dr.-J.-Jansi.pdf"
-        },
-        {
-          "name": "Ms.R.Gayatini",
-          "qualification": "M.Sc., M.Phil., (Ph.D.).",
-          "designation": "Assistant Professor",
-          "email": "gayatini.r@kahedu.edu.in",
-          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Mrs.R.Gayathri.pdf"
-        },
-        {
-          "name": "Dr.R.Manjuran",
-          "qualification": "M.Sc., B.Ed., M.Phil., PhD.",
-          "designation": "Assistant Professor",
-          "email": "manjuran.ramalingam@kahedu.edu.in",
-          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/06/Dr.-R.-Manjuram.pdf"
-        },
-        {
-          "name": "Mrs. B.Parthiba",
-          "qualification": "M.Sc., M.Phil., B.Ed.,",
-          "designation": "Assistant Professor",
-          "email": "parthiba.baikirlandran@kahedu.edu.in",
-          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/B.Parthiba.pdf"
-        },
-        {
-          "name": "Ms. S. Monica",
-          "qualification": "",
-          "designation": "Assistant Professor",
-          "email": "monica.sundararajan@kahedu.edu.in",
-          "profile": ""
-        },
-        {
-          "name": "Ms. S. Sindhuja",
-          "qualification": "",
-          "designation": "Assistant Professor",
-          "email": "sindhuja.sivarajan@kahedu.edu.in",
-          "profile": ""
-        },
-        {
-          "name": "Ms. N. Priyanka",
-          "qualification": "",
-          "designation": "Assistant Professor",
+          "name": "Mr. S. Rajamanikandan",
+          "qualification": "M. Sc., M. phil., Ph. D.",
+          "designation": "Associate Professor",
           "email": "",
           "profile": ""
         },
         {
-          "name": "Dr. M. Abhaya",
-          "qualification": "M.Sc. Ph.D.,",
-          "designation": "Assistant Professor",
-          "email": "abhaya.mysamy@kahedu.edu.in",
-          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/06/Dr.-M.-Abinaya.pdf"
-        },
-        {
-          "name": "Ms. A. Henna Shenofer",
-          "qualification": "M.Sc.,(Ph.D.).",
-          "designation": "Assistant Professor",
-          "email": "henna.shenofera.alimnehurasan@kahedu.edu.in",
-          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/06/Mrs.A.Henna-Shenofer-1.pdf"
-        },
-        {
-          "name": "Ms. K.S. Kuruyna",
-          "qualification": "",
-          "designation": "Assistant Professor",
-          "email": "karuyna.kurudaravelan@kahedu.edu.in",
-          "profile": ""
-        },
-        {
-          "name": "Mrs. M. Malarvizhi",
-          "qualification": "M.Sc., M.Phil.,",
-          "designation": "Assistant Professor",
-          "email": "malarvizhi.manimaran@kahedu.edu.in",
-          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/06/Mrs.M.Malarvizhi-1.pdf"
-        },
-        {
-          "name": "Ms. S. Tamilselvi",
-          "qualification": "M.Sc. B.Ed., M. Phil",
-          "designation": "Assistant Professor",
-          "email": "tamilselvi.subraman@kahedu.edu.in",
-          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/05/S.Tamilselvi.pdf"
-        },
-        {
-          "name": "Dr. J. Ebenezer Anna Begyan",
-          "qualification": "M.Sc., M.Phil., Ph.D.",
-          "designation": "Assistant Professor",
-          "email": "ebenezerannabegyan.jayashiyap@kahedu.edu.in",
-          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/06/Dr.J.-Ebenesar-Anna-Bagyam-1.pdf"
-        },
-        {
-          "name": "Dr. N. Mahesikumar",
-          "qualification": "M.Sc. M.Phil.,B.Ed., Ph.D.,",
-          "designation": "Assistant Professor",
-          "email": "mahesikumar.natarajan@kahedu.edu.in",
-          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2023/07/mahesh-17.7.23.pdf"
-        },
-        {
-          "name": "Ms. L. Lincy",
-          "qualification": "M.Sc.,M.Phil.,",
-          "designation": "Assistant Professor",
-          "email": "lincy.lizoria@kahedu.edu.in",
-          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/06/Ms.-L.-Lincy-1.pdf"
-        },
-        {
-          "name": "Ms. G. Shanthi",
-          "qualification": "M.Sc.M.Phil.,",
-          "designation": "Assistant Professor",
-          "email": "shanthi.ganasivam@kahedu.edu.in",
-          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2023/07/shanthiMaths-17.7.23.pdf"
-        },
-        {
-          "name": "Ms. M. Suganya",
-          "qualification": "M.Sc., PGDCA,M.Phil.,",
-          "designation": "Assistant Professor",
-          "email": "suganya.manivannan@kahedu.edu.in",
-          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2023/07/suganya-17.7.23.pdf"
-        },
-        {
-          "name": "Ms. M. Janaki",
-          "qualification": "",
-          "designation": "Assistant Professor",
-          "email": "janaki.mungaraj@kahedu.edu.in",
-          "profile": "Click Here"
-        },
-        {
-          "name": "Ms. R. Jeya",
-          "qualification": "M.Sc., M.Phil.,",
-          "designation": "Assistant Professor",
-          "email": "",
-          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2023/07/jaya-17.7.23.pdf"
-        },
-        {
-          "name": "Dr. T. Satheesh",
-          "qualification": "M.Sc., Ph. D.",
-          "designation": "Assistant Professor",
-          "email": "satheesh.thangavel@kahedu.edu.in",
-          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Dr.T.Satheesh.pdf"
-        },
-        {
-          "name": "Dr. S. Gowtham",
+          "name": "Dr.A.Ramakrishnan",
           "qualification": "M.Sc., Ph.D",
           "designation": "Assistant Professor",
-          "email": "gowtham.senthilkumar@kahedu.edu.in",
-          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/06/Dr.-S.-Gowtham-1.pdf"
+          "email": "ramakrishnan.a@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/bio-data/arts/biochemistry/Dr.%20A.%20Ramakrishnan.pdf"
         },
         {
-          "name": "Dr. D. Gowthaman",
-          "qualification": "M.Sc., Ph.D",
+          "name": "Dr.Kongkona Saikia",
+          "qualification": "M.Sc.,Ph.D.",
           "designation": "Assistant Professor",
-          "email": "gowthaman.dhinakaran@kahedu.edu.in",
-          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Dr.-D.-Gowthaman.pdf"
+          "email": "kongkonasaikia.sobhasaikia@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2021/11/One-page-biodata_Kongkona.pdf"
         },
         {
-          "name": "Dr. N. Aravinth",
-          "qualification": "M.Sc., M. Phil., Ph.D.",
+          "name": "Dr.Rathi M.A",
+          "qualification": "M.Phil.,Ph.D.",
           "designation": "Assistant Professor",
-          "email": "aravinth.narayanan@kahedu.edu.in",
-          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Dr.N.-Aravinth.pdf"
+          "email": "rathi.muthaiyan@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2023/07/rathi-26.7.23.pdf"
         },
         {
-          "name": "Mrs. Mamtha, V",
+          "name": "Dr.Femil Selta D",
           "qualification": "M.Sc., M.Phil.,",
           "designation": "Assistant Professor",
-          "email": "",
+          "email": "femilselta.danielraja@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2023/07/femil-26.7.23.pdf"
+        },
+        {
+          "name": "Dr.K.Surekha",
+          "qualification": "M.Sc.,M.Phil.,Ph.D.,B.Ed.,",
+          "designation": "Assistant Professor",
+          "email": "surekha.kannan@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2023/07/Surekha-K-17.07.2023.pdf"
+        },
+        {
+          "name": "Dr.M.Bharathi",
+          "qualification": "Ph.D",
+          "designation": "Assistant Professor",
+          "email": "bharathi.m@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2023/07/Bharathi-M-17.07.2023.pdf"
+        },
+        {
+          "name": "Mrs.P. Nirmala Devi",
+          "qualification": "",
+          "designation": "Assistant Professor",
+          "email": "nirmaladevi.panneerselvam@kahedu.edu.in",
           "profile": ""
-        },
-        {
-          "name": "Ms. M. Rahini",
-          "qualification": "M.Sc., PGDDA, (Ph.D)",
-          "designation": "Assistant Professor",
-          "email": "rahini.manivannan@kahedu.edu.in",
-          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/06/Ms.-M.-Rahini-1.pdf"
-        },
-        {
-          "name": "Dr. S. Joyce Sharline",
-          "qualification": "M.Phil., Ph.D.,",
-          "designation": "Assistant Professor",
-          "email": "joycesharline.savarimuthu@kahedu.edu.in",
-          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/06/Dr.-S.-Joyce-Sharline-1.pdf"
-        },
-        {
-          "name": "Dr. Nandhini V",
-          "qualification": "M.Sc., M.Phil., Ph.D.,",
-          "designation": "Assistant Professor",
-          "email": "nandhini.venkatachalam@kahedu.edu.in",
-          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/06/Dr.-Nandhini.-V.pdf"
         }
       ]
     },
+
     {
       "tab": "Infrastructure",
       "items": [
@@ -418,20 +265,37 @@
           "type": "equipment",
           "title": "Major Research Equipments",
           "content": [
-            "Thermal Evaporation unit",
-            "FTIR, UV",
-            "Solar Radiation Monitor",
-            "Electric Oven",
-            "Sunshine Monitor",
-            "Auto Clave",
-            "Vacuum Furnace",
-            "Four Probe Instruments",
-            "Telescope",
-            "Ball Milling",
-            "Compatible Dip coating unit",
-            "Compatible Spin coating unit",
-            "Sankaranarayanan-Ramasamy Crystal Growth setup",
-            "Ultrasonicater"
+            "ELISA Reader",
+            "Thermal Cycler",
+            "Horizontal and Vertical Electrophoresis Unit",
+            "Wet Transfer Unit",
+            "Semi-dry Transfer Unit",
+            "Laminar Chamber for Animal Tissue Culture",
+            "CO2 Incubator",
+            "Inverted Phase Contrast Microscope",
+            "Fluorescence Microscope",
+            "Orbital Shaker",
+            "Rotary Evaporator",
+            "Laminar Chamber for Microbiology",
+            "Refrigerated centrifuge",
+            "Millipore Water System",
+            "Photo Fluorimeter",
+            "Centrifuge (4 bucket)",
+            "Colorimeter",
+            "Soxhlet Apparatus",
+            "Magnetic Stirrer",
+            "Incubator",
+            "Conductivity meter",
+            "Water bath",
+            "Electronic balance",
+            "Microscope",
+            "Hot air oven",
+            "Cyclo mixer",
+            "pH meter",
+            "Lyophilizer (Borg Scientific)",
+            "Bio-rad gel documentation (Biorad)",
+            "Individual Ventilated Caging System (IVC)",
+            "Cooling Microcentrifuge"
           ]
         },
         {
@@ -513,102 +377,92 @@
       "subtitle": "Paper publications by the Faculty Members",
       "content": [
         {
-          "faculty_name": "Dr.M.M.Shanmugapriya",
+          "faculty_name": "Dr.K.Poornima",
           "content": [
-            "Jayalakshmi N., and Shanmugapriya M. M. Some New Types of Generalized Fuzzy Real Numbers, Journal of Intelligent & Fuzzy Systems, 2024, 46 & 2179-2192.",
-            "Aarthi D, Panimalar A, Shanmugapriya M.M and Santhosh Kumar S, Segmentation of Medical Image by Sobel Method in Neutrosophic Set, International Journal of System Design and Information Processing, 2023, 11 & 475-483.",
-            "Jayalakshmi N., and Shanmugapriya M. M, Fuzzy Real Numbers Induced by Multiset Sequences, European Chemical Bulletin, 2023, 12(5) & 5058-5069.",
-            "Chella Priya K., and Shanmugapriya M.M., Numerical Solutions of Fuzzy Two Coupled Nonlinear Differential Equations, Journal of Computational Analysis and Applications,2023, 31(4) & 481-489.",
-            "Chella Priya K., and Shanmugapriya M.M., On Fuzzy Nonlinear Two Coupled System of Differential Equations, International Journal of Applied and Computational Mathematics, 2022, 8(3) & 1-12."
+            "Kannappan Poornima, Chella Perumal Palanisamy, Sowmya Sundaram & Gopalakrishnan Velliyur Kanniappan (2017) Chromatographic Fingerprinting Analysis of Secondary Metabolites Present in Ethanolic Extract of Tabernaemontana divaricata (L.) R. Br. by HPTLC Technique, Analytical Chemistry Letters, 7:1, 20-29, DOI: 10.1080/22297928.2017.1284608",
+            "Gebrehiwot TY, Chaithanya KK, Hagos Z, Hiruy M, Poornima K, Kamalakararao K, Gopalakrishnan VK. Phytochemical screening and in vitro antioxidant activities of ethanolic leaf extract of Anogeissus leiocarpa. Drug Invent. Today. 2020 Jun 1;13(6):903-8.",
+            "Bhaskaran SK, Kannappan P, Muneeswari P, Madathil SR. Hepatoprotective effect of Azolla microphylla on isoproterenol-induced rats and the identification of active compound through HPTLC and GC-MS analysis. Cardiovasc Hematol Agents Med Chem. 2020 Aug 11. doi: 10.2174/1871525718666200811165322.",
+            "Poornima K, Chella Perumal P, Gopalakrishnan VK. Protective effect of ethanolic extract of Tabernaemontana divaricata (L.) R. Br. against DEN and Fe NTA induced liver necrosis in Wistar Albino rats. Biomed Res Int. 2014;2014:240243. doi: 10.1155/2014/240243.",
+            "Bhaskaran SK, Kannappan P. Protective effect of Azolla microphylla on biochemical, histopathological and molecular changes induced by isoproterenol in rats. Biomed Pharmacother. 2017 May;89:473-481. doi: 10.1016/j.biopha.2017.01.177."
           ]
         },
         {
-          "faculty_name": "DR. J. JANSI",
+          "faculty_name": "Dr. M. Sridhar Muthusami",
           "content": [
-            "J.Jansi, P.S. Divya, M.Vijila, & S.Devaraj Arumainayagam, Construction and Selection of Quick Switching Multiple Sampling System; Sample Size Tightening. International Journal of Pure and Applied Mathematics Volume 119, Number 17, 603 – 616 (2018)",
-            "P.S. Divya, J.Jansi, M.Vijila, & S.Devaraj Arumainayagam, Designing & Selection of Quick Switching Multiple Sampling System – Acceptance Number Tightening. International Journal of Pure and Applied Mathematics Volume 119, Number 17, 589 – 602 (2018)",
-            "M. Vijila, J.Jansi and P.S. Divya, Product control for non destructive components in intermittent production process through average outgoing quality with MCChSP –(C1,C2, i, j) algorithm, International Journal of Mechanical Engineering and Technology. Volume 9, Issue 11, 1484-1489 (Nov 2018)",
-            "J. Jansi, P. Jegathambal, S. DevarajArumainayagam, Identifying the Underlying Relationship Between Water Quality Parameters of the Groundwater Samples using Association and Clustering Algorithms in Coimbatore District, International Journal of Recent Technology and Engineering (IJRTE) ISSN: 2277-3878, Volume-8 Issue-2, July 2019",
-            "Jegathambal Palanichamy, Sundarambal Palani, Jansi Viola, Simulation and Prediction of Groundwater Quality of Semi-Arid Region Using Fuzzy Inference System and Neural Network Techniques, Journal of Sift Computing in Civil Engineering. Volume 6. Issue 1, 110-126 (Feb 2022)."
+            "Krishnan A, Muthusami S. Hormonal alterations in PCOS and its influence on bone metabolism. J Endocrinol. 2017 Feb;232(2):R99-R113. doi: 10.1530/JOE-16-0405.",
+            "Muthusami S, Kumaran RI, Babu KN, Krishnamoorthy S, Guruswamy A, Queimado L, Chaudhuri G, Ramachandran I. Role of inflammation in the development of colorectal cancer. Endocr Metab Immune Disord Drug Targets. 2020 Sep 8.",
+            "Muthusami S, Vidya B, Shankar EM, Vadivelu J, Ramachandran I, Stanley JA, Selvamurugan N. The Functional Significance of Endocrine-immune Interactions in Health and Disease. Curr Protein Pept Sci. 2020;21(1):52-65.",
+            "Muthusami S, Prabakaran DS, Yu JR, Park WY. EGF-induced expression of Fused Toes Homolog (FTS) facilitates epithelial-mesenchymal transition and promotes cell migration in ME180 cervical cancer cells. Cancer Lett. 2014.",
+            "Muthusami S, Prabakaran DS, Yu JR, Park WY. FTS is responsible for radiation-induced nuclear phosphorylation of EGFR and repair of DNA damage in cervical cancer cells. J Cancer Res Clin Oncol. 2015."
           ]
         },
         {
-          "faculty_name": "Dr. R. MANJURAM",
+          "faculty_name": "Dr. L. Hariprasath",
           "content": [
-            "V. Muthulakshmi and R. Manjuram, Interval oscillation criteria for damped second-order delay differential equation with nonlinearities given by Riemann-Stieltjes integral, International Journal of Dynamical Systems and Differential Equations. Vol.11 No.2 (2021), 89 – 107 | DOI: 10.1504/IJDSDE.2021.115177.",
-            "V. Muthulakshmi and R. Manjuram, Interval oscillation criteria for second-order impulsive delay differential equation with mixed nonlinearities, Electronic Journal of Mathematical Analysis and Applications.7 Vol. 9(2), No. 9 (2021), 106-129.",
-            "R. Manjuram and V. Muthulakshmi, Oscillatory behavior of damped second-order nonlinear delay differential equations with riemann-stieltjes integral, AIP Conference Proceedings. Vol. 2261. No. 1 (2020), 030134-1-19 | DOI: 10.1063/5.0017693.",
-            "V. Muthulakshmi and R. Manjuram, Interval oscillation of damped second-order mixed nonlinear differential equation with variable delay under impulse effects, Journal of Applied Nonlinear Dynamics, Vol. 9(3) (2020), 493-511 | DOI: 10.5890/JAND.2020.09.011.",
-            "V. Muthulakshmi and R. Manjuram, Interval criteria for oscillation of damped second-order nonlinear impulsive differential equation with variable delay, Journal of Discontinuity, Nonlinearity and Complexity, Vol. 8(4) (2019), 403-418 | DOI: 10.5890/DNC.2019.12.005."
+            "Periyasamy L, Muruganantham B, Deivasigamani M, Lakshmanan H, Muthusami S. Acetogenin Extracted from Annona muricata Prevented the Actions of EGF in PA-1 Ovarian Cancer Cells. Protein Pept Lett. 2020.",
+            "Deivasigamani M, Kannan N, Sekar N, Lakshmanan H. Safety assessment of ethanolic root extract of Zaleya decandra (EEZD) in Wistar rats. Regul Toxicol Pharmacol. 2021.",
+            "Lakshmanan H, Raman J, David P, Wong KH, Naidu M, Sabaratnam V. Haematological, biochemical and histopathological aspects of Hericium erinaceus ingestion in a rodent model.",
+            "Shair OHM, Alharbi SA, Chinnathambi A. Apoptotic induction and anti-metastatic activity of eugenol encapsulated chitosan nanopolymer on rat glioma C6 cells. J Photochem Photobiol B. 2020.",
+            "Raman J, Lakshmanan H, John PA, Zhijian C, Periasamy V, David P, Naidu M, Sabaratnam V. Neurite outgrowth stimulatory effects of myco synthesized AuNPs from Hericium erinaceus. Int J Nanomedicine. 2015."
           ]
         },
         {
-          "faculty_name": "MS. A. HENNA SHENOFER",
+          "faculty_name": "Dr. A. Ramakrishnan",
           "content": [
-            "M. Deivanayaki, M.Jannath Begam, A.Henna Shenofer, B Arun. Free Convection of Casson Nanofluid with Inclined Magnetic field.AIP Conference Proceedings 2327(1), 020057,2021.",
-            "M. Jannath Begam, M.Deivanayaki, B Arun, A.Henna Shenofer. Casson Fluid Flow Past a Porous Medium with Heat Source in The Presence Of An Inclined Magnetic Field. AIP Conference Proceedings 2327(1), 020058,2021.",
-            "B Arun, M.Jannath Begam, M.Deivanayaki, A.Henna Shenofer. Analysis of Magneto Casson Nanofluid with Chemical Reaction. AIP Conference Proceedings 2327(1), 020056,2021.",
-            "M.Jeganathan, Henna Shenofer, R.Praveen Kumar.Solving Transportation Problem by Average Allocation Method, International Journal of Applied Mathematics,Vol 7 Issue 2 Oct 2017 – Mar 2018.",
-            "A.Henna Shenofer, Jeganathan Mariappan, R Praveen Kumar. International Journal of Pure and Applied Mathematics 117(21), 489-495, 2017."
+            "A, Vijayakumar. N, 2017, Urea Cycle Pathway Targeted Therapeutic Action of Naringin Against Ammonium Chloride Induced Hyperammonemic Rats, Biomed. Pharmacother. 94:1028-1037.",
+            "A, Vijayakumar. N, Renuka. M, 2016, Naringin Regulates Glutamate-Nitric Oxide cGMP Pathway in Ammonium Chloride Induced Neurotoxicity, Biomed. Pharmacother. 84:1717-1726.",
+            "A, Vijayakumar. N, Renuka. M, 2016, Effect of Naringin on Ammonium Chloride-Induced Hyperammonemic Rats: A Dose-Dependent Study. J. Acute Med. 6 (2016) 55-60.",
+            "N, Renuka. M, Ramakrishnan. A, 2016, Review: Clinical Aspects of Urea Cycle Dysfunction and Altered Brain Energy Metabolism. Biomed, Pharmacother. 81:192-202.",
+            "Antioxidant Levels Instreptozotocin Induced Diabetic Rats, J. Chem. Pharm. Res. 7:831-839."
           ]
         },
         {
-          "faculty_name": "Dr. M. ABINAYA",
+          "faculty_name": "Dr. P. Rajesh",
           "content": [
-            "Abinaya, M. and Jayanthi, D., Intuitionistic fuzzy semi γ * generalized closed mappings, AIP Conference Proceedings, V-2835, 2022, 130013-1 to 130013-9.",
-            "Abinaya, M and Jayanthi, D., On intuitionistic fuzzy semi γ * generalized continuous mappings, Advances in Fuzzy Mathematics, 2021, 17-26.",
-            "Abinaya, M. and Jayanthi, D., Intuitionistic fuzzy almost semi γ * generalized continuous mappings, Malaya Journal of Matematik, 1, 2021, 278-282.",
-            "Abinaya, M. and Jayanthi, D., Intuitionistic fuzzy contra semi γ * generalized continuous mappings, Indian Journal of Natural Sciences, V-12, Issue 69, 2021, 36496- 36501.",
-            "Abinaya, M. and Jayanthi, D., Intuitionistic fuzzy semi γ * generalized connectedness, Advances and applications in mathematical sciences, V-21, Issue 2, 2021, 851-863."
+            "Sivasankaran Ayyaru, Rajesh Pandiyan, Young Ho Ahn. Fabrication and Characterization of Anti-Fouling and Non-Toxic PVDF-SCNT Ultrafiltration Membranes. Chemical Engineering Research and Design. 2019.",
+            "Rajesh Pandiyan, Shanmugam Mahalingam, Young Ho Ahn. Antibacterial and photocatalytic activity of SnO2 doped GO and CNT. J Photochem Photobiol B. 2019.",
+            "Rajesh Pandiyan, Sivasankaran Ayyaru, Young Ho Ahn. Non-toxic properties of TiO2 and Stio2 Nanocomposite PES UF Membranes. Ecotoxicol Environ Safety. 2018.",
+            "Natarajan Krishnan et al., Effect of biogenic Silver Nanocubes on MMP 2 and 9 in Diabetic Mice. Materials Science and Engineering C. 2018.",
+            "Parim Brahma Naidu et al., Ameliorative potential of gingerol in HFD induced obesity in rats. Mol Cell Endocrinol. 2016."
           ]
         },
         {
-          "faculty_name": "Dr. S. GOWTHAM",
+          "faculty_name": "Dr. E. Brindha",
           "content": [
-            "C. Sivaraj, S. Gowtham, M. Elango, M.A. Sheremet, Analysis of thermo-magnetic convection and entropy generation of Al2O3-water nanofluid in a partially heated wavy electronic cabinet, International Communications in Heat and Mass Transfer 133 (2022) 105955.",
-            "S. Gowtham, C. Sivaraj, M.A. Sheremet, Thermogravitational convection of water-based nanofluids with entropy generation in a wavy cabinet having a localized non-uniform heat source, The European Physical Journal Plus 137 (2022) 510.",
-            "S. Gowtham, E. Vignesh, S. Priyadharshini, Thermal convection and entropy generation of ferrofluid in a wavy cavity with a heat source, PSGCAS search journal: A Journal of Science and Technology 10 (1) (2023) (ISSN: 2320-2254)."
+            "Brindha. E, Rajasekara Pandian. M, Phytic Acid Prevents Isoproterenol-Induced Oxidative Stress in Rats. IJIRPBS 2014.",
+            "Brindha. E, Rajasekapandiyan. M, Preventive Effect of Phytic Acid on Lysosomal Hydrolases. Toxicol Mech Methods. 2015.",
+            "Brindha. E, Rajasekapandiyan. M, Protective Role of Phytic Acid on Cardiac Mitochondrial Enzymes. IRJPBS. 2015.",
+            "Brindha. E, Rajasekapandiyan. M, Phytic acid Ameliorates Mitochondrial Lipid Peroxides. IRJPBS. 2015.",
+            "Brindha. E, Rajasekapandiyan. M, Preventive Effect of Phytic Acid on Cardiotoxicity. Int J Biomed Sci. 2015."
           ]
         },
         {
-          "faculty_name": "DR. J. EBENESAR ANNA BAGYAM",
+          "faculty_name": "Dr. D. Malarvizhi",
           "content": [
-            "Preethi Sowndharya, K., and Ebenesar Anna Bagyam, J. , Optimal server analysis of M/M/c queueing model to reduce the waiting time of patients in healthcare service, International Journal of Mathematics in Operational Research, 2024, 27(2), pp. 254–266.",
-            "Remya, R., Ebenesar Anna Bagyam, J. and Kalidass K., Cost analysis of disaster queue system with system balance policy, Advances and Applications in Statistics, 2024, 91 (4), 451 – 466.",
-            "Ebenesar Anna Bagyam, J., Suganthi, P., and Visali, P., Unreliable single server retrial queueing model with repeated vacation, International Journal of Mathematics in Operational Research, 2023, 26(3), pp. 357–372.",
-            "Vennila, B., Renuga, K., and Ebenesar Anna Bagyam, J., Impact of GeoGebra on student learning and inclusion of GeoGebra in the mainstream, Cases on Economics Education and Tools for Educators, 2023, pp. 249–278.",
-            "Ebenesar Anna Bagyam, J., Vivesini, D., and Preethi Sowndharya, K., Comparative analysis of Rabbit Message Queue in the cloud: The Internet of Things, Adaptive Power Quality for Power Management Units using Smart Technologies, 2023, pp. 273–296.",
-            "Hepziba Gnanamalar, and R., Ebenesar Anna Bagyam, J., Eco-friendly blockchain for smart cities, Green Blockchain Technology for Sustainable Smart Cities, 2023, pp. 65–96.",
-            "Sangeetha, N., Ebenesar Anna Bagyam, J., and Udayachandrika, K., Performance Analysis of Retrial Queueing System in Wireless Local Area Network, Lecture Notes in Networks and Systems, 2022, 481 LNNS, pp. 119–131.",
-            "Ebenesar Anna Bagyam, J., and Udaya Chandrika, K., Fuzzy analysis of bulk arrival two phase retrial queue with vacation and admission control, Journal of Analysis, 2019, 27(1), pp. 209–232.",
-            "Ebenesar Anna Bagyam, J., Udaya Chandrika, K., and Viswanathan, A., Bulk arrival multi-stage retrial queue with vacation, Applied Mathematical Sciences, 2015, 9(53-56), pp. 2691–2706."
+            "Periyasamy L et al. Acetogenin Extracted from Annona muricata Prevented EGF Actions in PA-1 Cells. Protein Pept Lett. 2020.",
+            "Deivasigamani M et al. Safety assessment of root extract of Zaleya decandra. Regul Toxicol Pharmacol. 2021.",
+            "Anusooriya P, Malarvizhi D et al. Antioxidant & Antidiabetic effect of Passiflora ligularis. ISRN. 2014.",
+            "Deivasigamani M et al. Zaleya decandra exerts anti-cancer activity in HCT-116 cells. Bangladesh J Pharmacol. 2019."
           ]
         },
         {
-          "faculty_name": "Dr. R. SRIJA",
+          "faculty_name": "Dr. P. Suganyadevi",
           "content": [
-            "SRIJA,R.,and SUBRAMANI, J.(2018) Median Based Modified Ratio cum product estimators for finite population mean with known Median and Mean , International Journal of Mathematics Trends and Technology(IJEMS) ISSN:2393-9125",
-            "SRIJA,R.,and JAYALAKSHMI, S. (2018): Ratio cum Median Based Modified Ratio Estimators for the Estimation of Finite Population Mean with Known Skewness and Coefficient Of Variation, International Journal of Mathematics Trends and Technology (IJMTT) Paper ID :V55P543",
-            "SRIJA,R.,and SUBRAMANI, J.(2018): Ratio cum Median Based Modified Ratio Estimators for the Estimation of Finite Population Mean with Known Quartiles, International Journal of Current Research (IJCR) Volume 10, Issue,02",
-            "SRIJA,R.,R. and JAYALAKSHMI, S.(2018): Ratio cum Median Based Modified Ratio Estimators for the Estimation of Finite Population Mean with Known First and Third Quartiles, International Journal of Communication and Media Science (SSRG-IJCMS) Paper ID :V5I1P101.",
-            "SRIJA,R.,and helena,E., (2018): Ratio cum Median Based Modified Ratio Estimators for the Estimation of Finite Population Mean with Known Kurtosis and Coefficient of Variation, International Journal of Mathematics Trends and Technology (IJMTT) Volume 59 , Number 3."
+            "Suganyadevi P, Saravanakumar KM, Mohandas S. The antiproliferative activity of 3-deoxyanthocyanins from red sorghum.",
+            "Devi PS, Kumar MS, Das SM. DNA damage protecting activity of anthocyanins from red Sorghum. Biotech Res Int. 2012.",
+            "Devi PS, Saravanakumar M, Moh S. Temperature & pH effects on anthocyanins from red sorghum. African J Food Sci. 2012.",
+            "Reshmi SK, Aravindhan KM, Devi PS. Stability of betacyanin pigments in Basella alba fruit. AJPCR. 2012.",
+            "Saravanakumar M, Aravindhan KM. Stability of anthocyanin pigments in Musa acuminata. Research in Plant Biology. 2011."
           ]
         },
         {
-          "faculty_name": "Dr. R. SRIJA",
+          "faculty_name": "Mr. T. Gobinath",
           "content": [
-            "T. Satheesh, R. Sakthivel, N. Aravinth and M. Chadli, Design of proportional integral observer-based resilient control for periodic piecewise time-varying systems: The finite-time case, International Journal of Robust and Nonlinear Control, 34 (2024), 1169-1195, (SCIE, Impact Factor: 3.9).",
-            "T. Satheesh, N. Aravinth, R. Sakthivel and V. Panneerselvam, Fault alarm-based hybrid control for interval type-2fuzzy cyber-physical systems, IEEE Transactions on Circuits and Systems II: Express Briefs, 71 (2024), 2154-2158 (SCIE, Impact Factor: 4.4).",
-            "T. Satheesh, R. Sakthivel, N. Aravinth and H.R. Karimi, Unified synchronization and fault-tolerant anti-disturbance-based control design for multiple memristor-based neural networks, International Journal of Robust and Nonlinear Control,34 (2024), 2849-2864, (SCIE, Impact Factor: 3.9).",
-            "R. Sakthivel, T. Satheesh, S. Harshavarthini and D. J. Almakhles, State estimation-based robust control design for periodic piecewise systems with time-varying delays, International Journal of Systems Science, 54 (2023), 405-422, (SCIE, Impact Factor: 4.3).",
-            "R. Sakthivel, T. Satheesh, S. Harshavarthini and D. J. Almakhles, Design of resilient reliable control for uncertain periodic piecewise systems with time-varying delay and disturbances, Journal of the Franklin Institute,357 (2020), 12326-12345, (SCIE, Impact Factor: 4.1)."
-          ]
-        },
-        {
-          "faculty_name": "MS. T. KALAISELVI",
-          "content": [
-            "T. Kalaiselvi and Dr. G Sindhu, Introduction To Wh Closed Sets In Hexa Topological Spaces, International Journal of Creative Research Thoughts (IJCRT), ISSN: 2320-2882, Volume 11 Issue 4 April 2023.",
-            "T. Kalaiselvi and Dr. G Sindhu, A Study on Hexa Topological Spaces, Indian Journal of natural Science, ISSN: 0976-0997, Volume 14, Issue 79/Aug/2023."
+            "Mohan S, Gobinath T et al. Biophysical interaction of resveratrol with sirtuin pathway: Role in Alzheimer’s disease. Front Biosci. 2018.",
+            "RethnaPriya E et al. Anticancer sphingolipids from marine crab Dromia dehanni. Chem Phys Lipids. 2019.",
+            "Thilagar G, Samuthirapandian R. Chitosan’s protective role against lead toxicity in Oreochromis mossambicus. Toxicol Rep. 2020.",
+            "Gobinath T, Kaviya K, Ravichandran S. Chitosan/Ulva lactuca polysaccharide hydrogel for wound infection. RJPT. 2020.",
+            "Gobinath T, Ravichandran S. Brain pathology in Rats Treated with Tetrodotoxin. Saudi Journal of Pathology and Microbiology. 2019."
           ]
         }
       ]

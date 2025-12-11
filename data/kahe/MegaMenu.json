@@ -112,6 +112,7 @@
       "hasMenuChild": true,
       "hasPositionStatic": true,
       "hasSideBanner": true,
+      
       "menuItems": [
         {
           "id": 1,
@@ -125,81 +126,55 @@
           "children": [
             {
               "title": "Dean",
-              "link": "/kahe/academics/arts-science-and-humanities/",
-              "desc": "Learn more about KAHE overview.",
-              "src": "/images/banner/co-men.png"
+              "link": "/kahe/academics/arts-science-and-humanities/"
             },
             {
               "title": "Department of Biochemistry",
-              "link": "/kahe/academics/arts-science-and-humanities/department-of-biochemistry/",
-              "desc": "Learn more about KAHE overview.",
-              "src": "/images/banner/co-men.png"
+              "link": "/kahe/academics/arts-science-and-humanities/department-of-biochemistry/"
             },
             {
               "title": "Department of Biotechnology",
-              "link": "/kahe/academics/arts-science-and-humanities/department-of-biotechnology/",
-              "desc": "Learn more about KAHE overview.",
-              "src": "/images/banner/co-men.png"
+              "link": "/kahe/academics/arts-science-and-humanities/department-of-biotechnology/"
             },
             {
               "title": "Department of Microbiology",
-              "link": "/kahe/academics/arts-science-and-humanities/department-of-microbiology/",
-              "desc": "Learn more about KAHE overview.",
-              "src": "/images/banner/co-men.png"
+              "link": "/kahe/academics/arts-science-and-humanities/department-of-microbiology/"
             },
             {
               "title": "Department of Chemistry",
-              "link": "/kahe/academics/arts-science-and-humanities/department-of-chemistry/",
-              "desc": "Learn more about KAHE overview.",
-              "src": "/images/banner/co-men.png"
+              "link": "/kahe/academics/arts-science-and-humanities/department-of-chemistry/"
             },
             {
               "title": "Department of Physics",
-              "link": "/kahe/academics/arts-science-and-humanities/department-of-physics/",
-              "desc": "Learn more about KAHE overview.",
-              "src": "/images/banner/co-men.png"
+              "link": "/kahe/academics/arts-science-and-humanities/department-of-physics/"
             },
             {
               "title": "Department of Mathematics",
-              "link": "/kahe/academics/arts-science-and-humanities/department-of-mathematics/",
-              "desc": "Learn more about KAHE overview.",
-              "src": "/images/banner/co-men.png"
+              "link": "/kahe/academics/arts-science-and-humanities/department-of-mathematics/"
             },
             {
               "title": "Department of Computer Applications",
-              "link": "/kahe/academics/arts-science-and-humanities/department-of-computer-application/",
-              "desc": "Learn more about KAHE overview.",
-              "src": "/images/banner/co-men.png"
+              "link": "/kahe/academics/arts-science-and-humanities/department-of-computer-application/"
             },
             {
               "title": "Department of Computer Science",
-              "link": "/kahe/academics/arts-science-and-humanities/department-of-computer-science/",
-              "desc": "Learn more about KAHE overview.",
-              "src": "/images/banner/co-men.png"
+              "link": "/kahe/academics/arts-science-and-humanities/department-of-computer-science/"
             },
             {
               "title": "Department of Computer Technology",
-              "link": "/kahe/academics/arts-science-and-humanities/department-of-computer-technology/",
-              "desc": "Learn more about KAHE overview.",
-              "src": "/images/banner/co-men.png"
+              "link": "/kahe/academics/arts-science-and-humanities/department-of-computer-technology/"
             },
             {
               "title": "Department of Commerce",
-              "link": "/kahe/academics/arts-science-and-humanities/department-of-commerce/",
-              "desc": "Learn more about KAHE overview.",
-              "src": "/images/banner/co-men.png"
+              "link": "/kahe/academics/arts-science-and-humanities/department-of-commerce/"
             },
             {
               "title": "Department of Management",
-              "link": "/kahe/academics/arts-science-and-humanities/department-of-management/",
-              "desc": "Learn more about KAHE overview.",
-              "src": "/images/banner/co-men.png"
+              "link": "/kahe/academics/arts-science-and-humanities/department-of-management/"
             },
             {
               "title": "Department of Languages",
-              "link": "/kahe/academics/arts-science-and-humanities/department-of-languages/",
-              "desc": "Learn more about KAHE overview.",
-              "src": "/images/banner/co-men.png"
+              "link": "/kahe/academics/arts-science-and-humanities/department-of-languages/"
             }
           ]
         },
@@ -210,110 +185,78 @@
           "children": [
             {
               "title": "Dean",
-              "link": "/kahe/academics/engineering/",
-              "desc": "Learn more about KAHE overview.",
-              "src": "/images/banner/co-men.png"
+              "link": "/kahe/academics/engineering/"
             },
             {
               "title": "Department of Artificial Intelligence and Data Science",
-              "link": "/kahe/academics/engineering/department-of-artificial-intelligence-and-data-science/",
-              "desc": "Learn more about KAHE overview.",
-              "src": "/images/banner/co-men.png"
+              "link": "/kahe/academics/engineering/department-of-artificial-intelligence-and-data-science/"
             },
             {
               "title": "Department of Biomedical Engineering",
-              "link": "/kahe/academics/engineering/department-of-biomedical-engineering/",
-              "desc": "Learn more about KAHE overview.",
-              "src": "/images/banner/co-men.png"
+              "link": "/kahe/academics/engineering/department-of-biomedical-engineering/"
             },
             {
               "title": "Department of Biotechnology",
-              "link": "/kahe/academics/engineering/biotechnology/",
-              "desc": "Learn more about KAHE overview.",
-              "src": "/images/banner/co-men.png"
+              "link": "/kahe/academics/engineering/biotechnology/"
             },
             {
               "title": "Department of Chemical Engineering",
-              "link": "/kahe/academics/engineering/department-of-chemical-engineering/",
-              "desc": "Learn more about KAHE overview.",
-              "src": "/images/banner/co-men.png"
+              "link": "/kahe/academics/engineering/department-of-chemical-engineering/"
             },
             {
               "title": "Department of Civil Engineering",
-              "link": "/kahe/academics/engineering/civil-engineering/",
-              "desc": "Learn more about KAHE overview.",
-              "src": "/images/banner/co-men.png"
+              "link": "/kahe/academics/engineering/civil-engineering/"
             },
             {
               "title": "Department of Computer Science and Engineering",
-              "link": "/kahe/academics/engineering/computer-science-and-engineering/",
-              "desc": "Learn more about KAHE overview.",
-              "src": "/images/banner/co-men.png"
+              "link": "/kahe/academics/engineering/computer-science-and-engineering/"
             },
             {
               "title": "Department of Cyber Security",
-              "link": "/kahe/academics/engineering/department-of-cyber-security/",
-              "desc": "Learn more about KAHE overview.",
-              "src": "/images/banner/co-men.png"
+              "link": "/kahe/academics/engineering/department-of-cyber-security/"
             },
             {
               "title": "Department of Electrical and Electronics Engineering",
-              "link": "/kahe/academics/engineering/electrical-electronics-engineering/",
-              "desc": "Learn more about KAHE overview.",
-              "src": "/images/banner/co-men.png"
+              "link": "/kahe/academics/engineering/electrical-electronics-engineering/"
             },
             {
               "title": "Department of Electronics and Communication Engineering",
-              "link": "/kahe/academics/engineering/electronics-communication-engineering//",
-              "desc": "Learn more about KAHE overview.",
-              "src": "/images/banner/co-men.png"
+              "link": "/kahe/academics/engineering/electronics-communication-engineering//"
             },
             {
               "title": "Department of Food Technology",
-              "link": "/kahe/academics/engineering/department-of-food-technology/",
-              "desc": "Learn more about KAHE overview.",
-              "src": "/images/banner/co-men.png"
+              "link": "/kahe/academics/engineering/department-of-food-technology/"
             },
             {
               "title": "Department of Mechanical Engineering",
-              "link": "/kahe/academics/engineering/mechanical-sciences-engineering/",
-              "desc": "Learn more about KAHE overview.",
-              "src": "/images/banner/co-men.png"
+              "link": "/kahe/academics/engineering/mechanical-sciences-engineering/"
             },
             {
               "title": "Supportive Department",
               "link": "/#",
-              "desc": "Learn more about KAHE overview.",
-              "src": "/images/banner/co-men.png",
               "children": [
                 {
                   "title": "Science and Humanities",
-                  "link": "/kahe/academics/engineering/science-and-humanities/",
-                  "desc": "Learn more about KAHE overview.",
-                  "src": "/images/banner/co-men.png"
+                  "link": "/kahe/academics/engineering/science-and-humanities/"
                 }
               ]
             }
           ]
         },
+        
         {
           "id": 4,
           "title": "Faculty of Architecture, Design and Planning",
           "link": "/kahe/academics/architecture",
-          "desc": "Learn more about KAHE overview.",
-          "src": "/images/banner/co-men.png",
+
           "children": [
             {
               "title": "Dean",
-              "link": "/kahe/academics/architecture",
-              "desc": "Learn more about KAHE overview.",
-              "src": "/images/banner/co-men.png"
+              "link": "/kahe/academics/architecture"
             },
             {
               "title": "Department of Architecture",
-              "link": "/kahe/academics/architecture/department-of-architecture/",
-              "desc": "Learn more about KAHE overview.",
-              "src": "/images/banner/co-men.png"
+              "link": "/kahe/academics/architecture/department-of-architecture/"
             }
           ]
         },
@@ -321,182 +264,139 @@
           "id": 5,
           "title": "Faculty of Pharmacy",
           "link": "/kahe/about",
-          "desc": "Learn more about KAHE overview.",
-          "src": "/images/banner/co-men.png",
           "children": [
             {
               "title": "Dean",
-              "link": "/kahe/academics/pharmacy/",
-              "desc": "Learn more about KAHE overview.",
-              "src": "/images/banner/co-men.png"
+              "link": "/kahe/academics/pharmacy"
             },
             {
               "title": "Department of Pharmacy",
-              "link": "/kahe/academics/pharmacy/department-of-pharmacy/",
-              "desc": "Learn more about KAHE overview.",
-              "src": "/images/banner/co-men.png"
+              "link": "/kahe/academics/pharmacy/department-of-pharmacy"
             }
           ]
         },
         {
           "id": 6,
           "title": "Faculty of Performing Arts",
-          "link": "/kahe/academics/performing-arts/",
-          "desc": "Learn more about KAHE overview.",
-          "src": "/images/banner/co-men.png",
+          "link": "/kahe/academics/performing-arts",
           "children": [
             {
               "title": "Dean",
-              "link": "/kahe/academics/performing-arts/",
-              "desc": "Learn more about KAHE overview.",
-              "src": "/images/banner/co-men.png"
+              "link": "/kahe/academics/performing-arts"
             },
             {
               "title": "Department of Performing Arts",
-              "link": "/kahe/academics/performing-arts/department-of-performing-arts/",
-              "desc": "Learn more about KAHE overview.",
-              "src": "/images/banner/co-men.png"
+              "link": "/kahe/academics/performing-arts/department-of-performing-arts"
             }
           ]
         },
-        {
-          "id": 7,
-          "title": "Library",
-          "link": "/kahe/academics/library",
-          "desc": "Learn more about KAHE overview.",
-          "src": "/images/banner/co-men.png"
-        },
-        {
-          "id": 8,
-          "title": "Regulations",
-          "link": "/kahe/academics/regulations",
 
-          "desc": "Learn more about KAHE overview.",
-          "src": "/images/banner/co-men.png"
-        },
-        {
-          "id": 9,
-          "title": "NEP",
-          "link": "/kahe/about",
+         {
+          "id": 7,
+          "title": "Nep",
+          "link": "/kahe/academics/nep",
+          
           "children": [
             {
               "title": "Overview",
-              "link": "/kahe/nep/",
-              "desc": "Learn more about KAHE overview.",
-              "src": "/images/banner/co-men.png"
+              "link": "/kahe/academics/nep/overview"
             },
             {
               "title": "Professor of Practice",
-              "link": "/kahe/nep/professor-of-practice/",
-              "desc": "Learn more about KAHE overview.",
-              "src": "/images/banner/co-men.png",
+              "link": "#",
               "children": [
                 {
                   "title": "Notification",
-                  "link": "/kahe/nep/",
-                  "desc": "Learn more about KAHE overview.",
-                  "src": "/images/banner/co-men.png"
+                  "link": "https://kahedu.edu.in/n/wp-content/uploads/2024/04/PoP-Notification.pdf",
+                  "target":"_blank"
                 },
                 {
                   "title": "POP",
-                  "link": "/kahe/nep/professor-of-practice/",
-                  "desc": "Learn more about KAHE overview.",
-                  "src": "/images/banner/co-men.png"
+                  "link": "https://kahedu.edu.in/n/wp-content/uploads/2024/04/KAHE-POP.pdf",
+                  "target":"_blank"
                 }
               ]
             }
           ]
         },
+        
         {
-          "id": 10,
-          "title": "Discipline",
-          "link": "/kahe/about",
-          "desc": "Learn more about KAHE overview.",
-          "src": "/images/banner/co-men.png"
+          "id": 8,
+          "title": "Library",
+          "link": "/kahe/academics/library"
         },
+        
+        
+        {
+          "id": 9,
+          "title": "Regulations",
+          "link": "/kahe/academics/regulations"
+        },
+       
         {
           "id": 11,
-          "title": "Best Practices",
-          "link": "/kahe/about",
-          "desc": "Learn more about KAHE overview.",
-          "src": "/images/banner/co-men.png"
+          "title": "Discipline",
+          "link": "/kahe/about"
         },
         {
           "id": 12,
-          "title": "Capacity Development and Skills Enhancement Initiatives",
-          "link": "/kahe/about",
-          "desc": "Learn more about KAHE overview.",
-          "src": "/images/banner/co-men.png"
+          "title": "Best Practices",
+          "link": "/kahe/about"
         },
         {
           "id": 13,
-          "title": "Institutional Distinctiveness",
-          "link": "/kahe/about",
-          "desc": "Learn more about KAHE overview.",
-          "src": "/images/banner/co-men.png"
+          "title": "Capacity Development and Skills Enhancement Initiatives",
+          "link": "/kahe/about"
         },
         {
           "id": 14,
-          "title": "Course Outcomes",
-          "link": "/kahe/about",
-          "desc": "Learn more about KAHE overview.",
-          "src": "/images/banner/co-men.png"
+          "title": "Institutional Distinctiveness",
+          "link": "/kahe/about"
         },
         {
           "id": 15,
-          "title": "IT Policy",
-          "link": "/kahe/about",
-          "desc": "Learn more about KAHE overview.",
-          "src": "/images/banner/co-men.png"
+          "title": "Course Outcomes",
+          "link": "/kahe/about"
         },
         {
           "id": 16,
-          "title": "Energy Efficiency and Clean Energy Policy 2023",
-          "link": "/kahe/about",
-          "desc": "Learn more about KAHE overview.",
-          "src": "/images/banner/co-men.png"
+          "title": "IT Policy",
+          "link": "/kahe/about"
         },
         {
           "id": 17,
-          "title": "Environmental Quality and Energy Policy 2023",
-          "link": "/kahe/about",
-          "desc": "Learn more about KAHE overview.",
-          "src": "/images/banner/co-men.png"
+          "title": "Energy Efficiency and Clean Energy Policy 2023",
+          "link": "/kahe/about"
         },
         {
           "id": 18,
-          "title": "Smoke Free Campus Policy 2023",
-          "link": "/kahe/about",
-          "desc": "Learn more about KAHE overview.",
-          "src": "/images/banner/co-men.png"
+          "title": "Environmental Quality and Energy Policy 2023",
+          "link": "/kahe/about"
         },
         {
           "id": 19,
-          "title": "Strategic Plan and Deployment Documents",
-          "link": "/kahe/about",
-          "desc": "Learn more about KAHE overview.",
-          "src": "/images/banner/co-men.png"
+          "title": "Smoke Free Campus Policy 2023",
+          "link": "/kahe/about"
         },
         {
           "id": 20,
-          "title": "List of Dedicated courses on SDG",
-          "link": "/kahe/about",
-          "desc": "Learn more about KAHE overview.",
-          "src": "/images/banner/co-men.png"
+          "title": "Strategic Plan and Deployment Documents",
+          "link": "/kahe/about"
         },
         {
           "id": 21,
-          "title": "Organogram",
-          "link": "/kahe/about",
-          "desc": "Learn more about KAHE overview.",
-          "src": "/images/banner/co-men.png"
+          "title": "List of Dedicated courses on SDG",
+          "link": "/kahe/about"
         },
         {
           "id": 22,
+          "title": "Organogram",
+          "link": "/kahe/about"
+        },
+        {
+          "id": 23,
           "title": "Reports",
-          "link": "/kahe/about",
-          "desc": "Learn more about KAHE overview.",
-          "src": "/images/banner/co-men.png"
+          "link": "/kahe/about"
         }
       ]
     },

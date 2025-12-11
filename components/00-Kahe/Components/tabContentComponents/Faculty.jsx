@@ -44,11 +44,11 @@ const Faculty = ({ facultyContent }) => {
                       <td>{item.designation}</td>
                       <td>{item.email}</td>
                       <td className="px-2">
-                        <span className="button-td">
+                        {item.profile && <span className="button-td">
                           <Link href={item.profile} target="_blank">
                           Click here
                         </Link>
-                        </span>
+                        </span>}
                         
                       </td>
                     </tr>
