@@ -1,5 +1,7 @@
-import CollegeIcon from "@/public/images/Kahe/icons/CollegeIcon";
+import BooksIcon from "@/public/images/Kahe/icons/BooksIcon";
+import BuildingIcon from "@/public/images/Kahe/icons/BuildingIcon";
 import LabIcon from "@/public/images/Kahe/icons/LabIcon";
+import StudentsIcon from "@/public/images/Kahe/icons/StudentsIcon";
 import Link from "next/link";
 import React, { useEffect, useState } from "react";
 
@@ -19,21 +21,29 @@ const Infrastructure = ({ infrastructureContent }) => {
     });
   }, []);
 
+  const infraCon = infrastructureContent.items?.find(
+    (item) => item.type == "infrastructure"
+  );
+
   const labItem = infrastructureContent.items?.find(
     (item) => item.type == "laboratories"
   );
   const equipementItem = infrastructureContent.items?.find(
     (item) => item.type == "equipment"
   );
+
   const library = infrastructureContent.items?.find(
     (item) => item.type == "library"
   );
 
-  console.log("library", library);
+  const gallery = infrastructureContent.items?.find(
+    (item) => item.type == "gallery"
+  );
 
   const visibleFaculty = toggle
     ? equipementItem?.content
-    : equipementItem?.content.slice(0, 6);
+    : equipementItem?.content.slice(0, 8);
+
 
   return (
     <div
@@ -54,6 +64,28 @@ const Infrastructure = ({ infrastructureContent }) => {
         </div>
         <div className="row gy-5">
           <div className="col-lg-12">
+            {infraCon && (
+              <div className="row mb--30">
+                {infraCon.title && (
+                  <h3
+                    className="main-sub-ti"
+                    dangerouslySetInnerHTML={{ __html: infraCon.title }}
+                  ></h3>
+                )}
+
+                <div className="dept-wrapper mt-0">
+                  {infraCon?.content?.map((item, i) => (
+                    <div key={i} className="dept-card">
+                      <div className="dept-inner">
+                        <p className="dept-title">{item}</p>
+                        <StudentsIcon className="dept-icon" />
+                      </div>
+                    </div>
+                  ))}
+                </div>
+              </div>
+            )}
+
             {labItem && (
               <div className="row g-5 mb--30">
                 <h3
@@ -76,8 +108,8 @@ const Infrastructure = ({ infrastructureContent }) => {
                   {labItem?.content?.map((item, i) => (
                     <div key={i} className="dept-card">
                       <div className="dept-inner">
+                        <BuildingIcon className="dept-icon" />
                         <p className="dept-title">{item}</p>
-                        <CollegeIcon className="dept-icon" />
                       </div>
                     </div>
                   ))}
@@ -85,82 +117,108 @@ const Infrastructure = ({ infrastructureContent }) => {
               </div>
             )}
 
-            <div className="rbt-dashboard-table table-responsive">
-              <h3
-                className="main-sub-ti"
-                dangerouslySetInnerHTML={{ __html: equipementItem?.title }}
-              ></h3>
+            {equipementItem && (
+              <div className="rbt-dashboard-table table-responsive mb--30">
+                <h3
+                  className="main-sub-ti"
+                  dangerouslySetInnerHTML={{ __html: equipementItem?.title }}
+                ></h3>
 
-              <div className="dept-wrapper">
-                {visibleFaculty?.map((item, i) => (
-                  <div
-                    key={i}
-                    className="dept-card"
-                    style={{
-                      "--bgImg": `url(/images/Kahe/Innerpages/infra-1.jpg)`,
-                    }}
-                  >
-                    <div className="dept-inner">
-                      <LabIcon className="dept-icon" />
-                      <p className="dept-title">{item}</p>
-                    </div>
-                  </div>
-                ))}
-              </div>
-            </div>
-
-            <div className="lab-container parent-gallery-container">
-              {library.images.slice(0, 5).map((item, i) => (
-                <Link
-                  className="lab-item child-gallery-single"
-                  key={i}
-                  href={item.src}
-                  data-gall="gallery01"
-                  title={item.title}
-                  style={
-                    i === 4 && library.images.length > 5
-                      ? { position: "relative" }
-                      : {}
-                  }
-                >
-                  <img src={item.src} alt={item.title} />
-                  {i === 4 && library.images.length > 5 && (
+                <div className="dept-wrapper">
+                  {visibleFaculty?.map((item, i) => (
                     <div
+                      key={i}
+                      className="dept-card"
                       style={{
-                        position: "absolute",
-                        top: 0,
-                        left: 0,
-                        width: "100%",
-                        height: "100%",
-                        background: "rgba(0,0,0,0.7)",
-                        display: "flex",
-                        alignItems: "center",
-                        justifyContent: "center",
-                        color: "white",
-                        fontSize: "18px",
-                        fontWeight: "bold",
+                        "--bgImg": `url(/images/Kahe/Innerpages/infra-1.jpg)`,
                       }}
                     >
-                      +{library.images.length - 5} More Images
+                      <div className="dept-inner">
+                        <p className="dept-title">{item}</p>
+                        <LabIcon className="dept-icon" />
+                      </div>
                     </div>
-                  )}
-                  <p>{item.title}</p>
-                </Link>
-              ))}
+                  ))}
+                </div>
+              </div>
+            )}
 
-              {library.images.slice(5).map((item, i) => (
-                <Link
-                  className="lab-item child-gallery-single"
-                  key={i + 10}
-                  href={item.src}
-                  data-gall="gallery01"
-                  title={item.title}
-                  style={{ display: "none" }}
-                >
-                  <img src={item.src} alt={item.title} />
-                </Link>
-              ))}
-            </div>
+            {library && (
+              <div className="row mb--30">
+                {library.title && (
+                  <h3
+                    className="main-sub-ti"
+                    dangerouslySetInnerHTML={{ __html: library.title }}
+                  ></h3>
+                )}
+
+                <div className="dept-wrapper mt-0">
+                  {library?.content?.map((item, i) => (
+                    <div key={i} className="dept-card">
+                      <div className="dept-inner">
+                        <p className="dept-title">{item}</p>
+                        <BooksIcon className="dept-icon" />
+                      </div>
+                    </div>
+                  ))}
+                </div>
+              </div>
+            )}
+
+            {gallery && (
+              <div className="lab-container parent-gallery-container">
+                {gallery.images.slice(0, 5).map((item, i) => (
+                  <Link
+                    className="lab-item child-gallery-single"
+                    key={i}
+                    href={item.src}
+                    data-gall="gallery01"
+                    title={item.title}
+                    style={
+                      i === 4 && gallery.images.length > 5
+                        ? { position: "relative" }
+                        : {}
+                    }
+                  >
+                    <img src={item.src} alt={item.alt} />
+                    {i === 4 && gallery.images.length > 5 && (
+                      <div
+                        style={{
+                          position: "absolute",
+                          top: 0,
+                          left: 0,
+                          width: "100%",
+                          height: "100%",
+                          background: "rgba(0,0,0,0.7)",
+                          display: "flex",
+                          alignItems: "center",
+                          justifyContent: "center",
+                          color: "white",
+                          fontSize: "18px",
+                          fontWeight: "bold",
+                        }}
+                      >
+                        +{gallery.images.length - 5} More Images
+                      </div>
+                    )}
+                    {item.title && <p>{item.title}</p>}
+                  </Link>
+                ))}
+
+                {gallery.images.slice(5).map((item, i) => (
+                  <Link
+                    className="lab-item child-gallery-single"
+                    key={i + 10}
+                    href={item.src}
+                    data-gall="gallery01"
+                    title={item.title}
+                    style={{ display: "none" }}
+                  >
+                    <img src={item.src} alt={item.alt} />
+                  </Link>
+                ))}
+              </div>
+            )}
           </div>
         </div>
       </div>

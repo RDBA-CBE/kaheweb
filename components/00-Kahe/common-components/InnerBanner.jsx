@@ -9,7 +9,7 @@ const InnerBanner = ({ data }) => {
         className="uw-banner-background"
         style={{
           backgroundImage: `url(${data?.bannerImg})`,
-          backgroundPosition: "bottom",
+          backgroundPosition: "top",
         }}
       ></div>
       <div className="uw-banner-overlay">

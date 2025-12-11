@@ -10,6 +10,10 @@ export default function Publications({publicationsContent}) {
   };
 
   console.log("publicationsContent",publicationsContent);
+
+    const visibilityItems = toggle
+    ? publicationsContent.content
+    : publicationsContent.content.slice(0, 8);
   
 
   return (
@@ -31,7 +35,7 @@ export default function Publications({publicationsContent}) {
 
           <h3 className="main-sub-ti">{publicationsContent?.title}</h3>
 
-          {publicationsContent.content?.map((item, index) => (
+          {visibilityItems?.map((item, index) => (
             <div className="research-acc-item" key={index}>
               <button
                 className={`research-acc-header ${

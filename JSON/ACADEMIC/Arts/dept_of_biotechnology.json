@@ -2,7 +2,7 @@
   "title": "Department of Biotechnology",
   "bannerCon": "The University of Wyoming welcomes students to experience a one-of-a-kind education in the heart of the Mountain West. With our dedication to academic excellence and student-focused education, UW provides an environment thrive both academically and personally. Admission to the University of Wyoming is just the first step to achieving your dreams.",
   "applyLink": "#",
-  "bannerImg": "/images/Kahe/green-bg.avif",
+  "bannerImg": "/images/Kahe/innerbanner.jpg",
   "tabs": [
     {
       "id": "overview",
@@ -36,20 +36,7 @@
         {
           "type": "overview",
           "subTitle": "Overview",
-          "contents": [
-            "Biotechnology is an important tool that can be applied to various economic sectors of special interest to developing countries, such as the production of food crops, livestock management, human health care, chemical industry and environment management. The majority of developing countries including India lack the necessary qualified manpower to exploit such technologies.",
-
-            "Further, Biotechnology, as practiced today, requires inputs from not only one area of biological sciences, but requires a fusion of different modern biological and technological sciences. Biotechnology has become a multi-billion dollar industry all over the world.",
-            "The Department of Biotechnology at KAHE is a center for excellence in research, established in 2001. The progress of the department is consistent over the years and presently holds many research projects funded by the UGC, DST, DBT and ICMR. During the last 10 years, the department has made all round progress and is on par with the well established departments of the KAHE.",
-
-            "Scholars in the department are pursuing research in the areas of Nano-biotechnology, Food Technology, Fermentation Technology, Plant Tissue Culture, Animal Tissue Culture, Genetics and Molecular Biology, Microbial Technology and Phytochemistry. It is commendable to mention that the department is the proud recipient of Rs. 2.81crores from the Govt. of India for various research and development programmes. Our Department of Biotechnology has been recognized by DST-FIST for research and academic purpose. Various collaborative research projects are going on in our department with many academic and industries including",
-
-            "-JK Nanosolutions, Karnataka, India",
-            "-University of Hyderabad, India",
-            "-Shiraz University, Shiraz, Iran",
-            "-Nanjing Agricultural University, Nanjing, China",
-            "-East China Normal University, Shanghai, China"
-          ],
+          "contents": "Biotechnology is an important tool that can be applied to various economic sectors of special interest to developing countries, such as the production of food crops, livestock management, human health care, chemical industry and environment management. The majority of developing countries including India lack the necessary qualified manpower to exploit such technologies. Further, Biotechnology, as practiced today, requires inputs from not only one area of biological sciences, but requires a fusion of different modern biological and technological sciences. Biotechnology has become a multi-billion dollar industry all over the world. The Department of Biotechnology at KAHE is a center for excellence in research, established in 2001. The progress of the department is consistent over the years and presently holds many research projects funded by the UGC, DST, DBT and ICMR. During the last 10 years, the department has made all round progress and is on par with the well established departments of the KAHE. Scholars in the department are pursuing research in the areas of Nano-biotechnology, Food Technology, Fermentation Technology, Plant Tissue Culture, Animal Tissue Culture, Genetics and Molecular Biology, Microbial Technology and Phytochemistry. It is commendable to mention that the department is the proud recipient of Rs. 2.81crores from the Govt. of India for various research and development programmes. Our Department of Biotechnology has been recognized by DST-FIST for research and academic purpose. Various collaborative research projects are going on in our department with many academic and industries including -JK Nanosolutions, Karnataka, India -University of Hyderabad, India -Shiraz University, Shiraz, Iran -Nanjing Agricultural University, Nanjing, China -East China Normal University, Shanghai, China",
           "image": "/images/others/health-b-02.png"
         }
       ]
@@ -98,7 +85,7 @@
               },
               {
                 "year": "2021-2022",
-                "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/07/B.Sc_.-Biotechnology-2020-2021.pdf"
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/11/UG-2021-2022.pdf"
               },
               {
                 "year": "2022-2023",
@@ -292,92 +279,89 @@
       "tab": "Infrastructure",
       "items": [
         {
+          "type": "infrastructure",
+
+          "content": ["Staff room – 05", "Class room – 08"]
+        },
+        {
           "type": "laboratories",
           "title": "Facilities laboratories List",
           "content": [
-            "UG Biochemistry Lab I & II",
-            "PG Biochemistry Lab",
-            "Research Laboratory",
-            "Animal Tissue Culture Lab",
-            "Animal House of in vivo animal studies"
+            "UG & PG Biotechnology labs",
+            "Plant Tissue culture lab",
+            "Microbiology lab",
+            "Animal Tissue culture lab",
+            "Research and Development lab",
+            "Animal house and Instrumentation lab",
+            "Central Instrumentation Facility",
+            "Drug design and development lab"
           ]
         },
         {
           "type": "equipment",
           "title": "Major Research Equipments",
           "content": [
-            "Thermal Evaporation unit",
-            "FTIR, UV",
-            "Solar Radiation Monitor",
-            "Electric Oven",
-            "Sunshine Monitor",
-            "Auto Clave",
-            "Vacuum Furnace",
-            "Four Probe Instruments",
-            "Telescope",
-            "Ball Milling",
-            "Compatible Dip coating unit",
-            "Compatible Spin coating unit",
-            "Sankaranarayanan-Ramasamy Crystal Growth setup",
-            "Ultrasonicater"
+            "Inverted, Binocular and Trinocular Microscope",
+            "Fluorescence microscope",
+            "Phase contrast microscope",
+            "Deep Freezers",
+            "PCR",
+            "Real Time PCR",
+            "ELISA",
+            "AAS",
+            "UV-Visible Spectrophotometer",
+            "Gel documentation system",
+            "Southern Blotting Unit",
+            "Western Blotting Unit",
+            "Electrophoresis units",
+            "Walk-in Cold room",
+            "Walk-in Hot room",
+            "Cooling Centrifuge",
+            "Ultra Centrifuge",
+            "CO2, BOD and Biological Incubators",
+            "2D PAGE system",
+            "Particle gun bombardment"
+          ]
+        },
+
+        {
+          "type": "library",
+          "title": "Department Library",
+          "content": [
+            "Total number of reference books: 107",
+            "Newsletters : 15",
+            "Journals : 15",
+            "Proceedings : 22",
+            "Ph.D thesis : 32"
           ]
         },
         {
-          "type": "library",
-          "title": "Library",
-          "subtitle": "Department library: 135 Books",
+          "type": "gallery",
+
           "images": [
             {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/Eqiupments1-150x150.jpg",
-              "title": "Visible Spectrometer – Top Science College in Coimbatore"
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/SCIENCE-ACADEMIES-14-3-150x150.png",
+              "alt": "Karpagam Academy of Higher Education | information technology colleges in coimbatore"
             },
             {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/Eqiupments2-150x150.jpg",
-              "title": "Liquid Chromatography – Best college for Science in Coimbatore"
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/SCIENCE-ACADEMIES-14-2-150x150.png",
+              "alt": "Karpagam Academy of Higher Education | be cyber security colleges in tamilnadu"
             },
             {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/Eqiupments3-150x150.jpg",
-              "title": "Gas Chromatography – Best Engineering college in India"
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/SCIENCE-ACADEMIES-14-1-150x150.png",
+              "alt": "Karpagam Academy of Higher Education | b.tech artificial intelligence and data science colleges in tamilnadu"
             },
             {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/Eqiupments4-150x150.jpg",
-              "title": "Infrared Spectroscopy – Best Science College in Tamilnadu"
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/NCBHW14-1-150x150.png",
+              "alt": "Karpagam Academy of Higher Education | artificial intelligence colleges in tamilnadu"
             },
             {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/Eqiupments5-150x150.jpg",
-              "title": "Elisa Plate Reader – Best Educational Institute in India"
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/NCBHW14-150x150.png",
+              "alt": "Karpagam Academy of Higher Education | best mba colleges in coimbatore under tancet"
             },
             {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/Eqiupments6-150x150.jpg",
-              "title": "Medical camp – Coimbatore Best Engineering college"
-            },
-            {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/1-7-150x150.jpg",
-              "title": "KAHE Volunteers – Coimbatore degree colleges"
-            },
-            {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/2-6-150x150.jpg",
-              "title": "Karpagam Group – Top 10 Arts Colleges in Coimbatore"
-            },
-            {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/3-5-150x150.jpg",
-              "title": "KAHE activities – Top college for Engineering"
-            },
-            {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/4-2-150x150.jpg",
-              "title": "Lab experiment – Best Pharmacy College in Coimbatore"
-            },
-            {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/5-2-150x150.jpg",
-              "title": "Initiatives – Best Arts and Science College in India"
-            },
-            {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/6-1-150x150.jpg",
-              "title": "Student Projects – Top Engineering college"
-            },
-            {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/6-1-150x150.jpg",
-              "title": "Projects at KAHE – Top college for Arts and Science"
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/NCBBE-14_2-150x150.png",
+              "alt": "Karpagam Academy of Higher Education | best mca colleges in tamilnadu,India"
             }
           ]
         }

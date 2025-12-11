@@ -508,7 +508,7 @@
   width: 100%;
   height: 150px;
   object-fit: cover;
-  border-radius: 10px 10px 0 0;
+  border-radius: 5px 5px 0 0;
 }
 
 .lab-item p {
@@ -559,7 +559,8 @@
   width: 65%;
   height: 100%;
   // background: linear-gradient(to right, rgba(24, 50, 102, 0.85) 75%, rgba(24, 50, 102, 0.2) 100%); #153b1cc4
-  background: linear-gradient(to right, #153b1cc4);
+  // background: linear-gradient(to right, #153b1cc4);
+  background: linear-gradient(to right, #343735c4);
   display: flex;
   align-items: center;
 }
@@ -825,7 +826,7 @@
   justify-content: end;
   background-color: #153b1c;
   width: 120%;
-  color: #fff;
+  color: #fff !important;
   padding: 30px 30px;
 
   font-size: 20px;
@@ -877,10 +878,16 @@
   font-weight: 500;
 }
 
+.tab-in .main-ti {
+  color: #153b1c;
+  font-weight: 600;
+}
+
 .main-sub-ti {
-  font-size: 18px;
-  font-weight: 500;
-  margin-bottom: 10px;
+      font-size: 18px;
+    font-weight: 500;
+    margin-bottom: 15px;
+    color: #000;
 }
 
 .tab-in .rbt-table thead tr th,
@@ -923,7 +930,8 @@
 
 .dept-wrapper {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  // grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  grid-template-columns: repeat(auto-fit, 300px);
   gap: 20px;
 }
 
@@ -936,6 +944,7 @@
   background: #fff;
   transition: 0.4s ease;
   overflow: hidden;
+      display: flex;
 }
 
 .dept-card::before {
@@ -975,6 +984,7 @@
   display: flex;
   gap: 10px;
   align-items: center;
+  width: 100%;
 }
 
 .dept-icon {
@@ -987,7 +997,7 @@
 .dept-title {
   margin: 0;
   flex: 1;
-  font-weight: 500;
+  font-weight: 400;
   color: #000;
   transition: 0.4s ease;
 }
@@ -1292,6 +1302,14 @@
   list-style: none;
   padding: 0;
   margin: 0;
+  overflow-y: auto;
+  height: 100%;
+  padding-bottom: 20px;
+
+}
+
+.kahe-curriculum-slide-list::-webkit-scrollbar {
+  width: 10px;
 }
 
 .kahe-curriculum-slide-item {
@@ -1339,4 +1357,27 @@
     width: 100%;
     max-width: 100%;
   }
+}
+
+
+.view-more-card {
+  position: relative;
+  cursor: pointer;
+}
+
+.view-more-card .overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0,0,0,0.5);
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  font-size: 15px;
+  pointer-events: none;
+  z-index: 100;
 }
