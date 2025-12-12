@@ -1,4 +1,4 @@
-import AboutPage from "@/components/00-Kahe/DirectPageComponent/AboutPage";
+import VissionPage from "@/components/00-Kahe/DirectPageComponent/VissionPage";
 
 export const metadata = {
   title: "About Us 01 - Online Courses & Education NEXTJS14 Template",
@@ -7,7 +7,7 @@ export const metadata = {
 const page = () => {
   return (
     <>
-      <AboutPage />
+      <VissionPage />
     </>
   );
 };
