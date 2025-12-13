@@ -84,13 +84,13 @@
           "children": [
             {
               "title": "Statutory Committees",
-              "link": "/kahe/committees/statutory-committees",
+              "link": "/kahe/statutory-committees",
               "desc": "Learn more about KAHE overview.",
               "src": "/images/banner/co-men.png"
             },
             {
               "title": "Non-Statutory Committees",
-              "link": "/kahe/committees/non-statutory-committees",
+              "link": "/kahe/non-statutory-committees",
               "desc": "Learn more about KAHE overview.",
               "src": "/images/banner/co-men.png"
             }

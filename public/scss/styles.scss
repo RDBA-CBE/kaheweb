@@ -552,17 +552,38 @@
   background-repeat: no-repeat;
 }
 
+// .uw-banner-overlay {
+//   position: absolute;
+//   top: 0;
+//   right: 0;
+//   width: 65%;
+//   height: 100%;
+//   // background: linear-gradient(to right, rgba(24, 50, 102, 0.85) 75%, rgba(24, 50, 102, 0.2) 100%); #153b1cc4
+//   // background: linear-gradient(to right, #153b1cc4);
+//   background: linear-gradient(to right, #343735c4);
+//   display: flex;
+//   align-items: center;
+// }
+
 .uw-banner-overlay {
   position: absolute;
   top: 0;
   right: 0;
   width: 65%;
   height: 100%;
-  // background: linear-gradient(to right, rgba(24, 50, 102, 0.85) 75%, rgba(24, 50, 102, 0.2) 100%); #153b1cc4
-  // background: linear-gradient(to right, #153b1cc4);
-  background: linear-gradient(to right, #343735c4);
+  // background: linear-gradient(to left, #61757e, transparent);
+  background: linear-gradient(
+    to left,
+    #61757ef1,
+    #61757ed1,
+    #61757eb6,
+    #61757ea4,
+    #61757e8f,
+    transparent
+  );
   display: flex;
   align-items: center;
+  justify-content: flex-end;
 }
 
 .uw-banner-content {
@@ -918,7 +939,7 @@
   border-radius: 4px;
 }
 
-@media (max-width:700px){
+@media (max-width: 700px) {
   .w-decor-ti {
     font-size: 25px;
   }
@@ -1857,9 +1878,9 @@
   }
 }
 
-@media(max-width:700px){
+@media (max-width: 700px) {
   .qm-title {
-  font-size: 25px;
+    font-size: 25px;
   }
 }
 
@@ -1923,10 +1944,9 @@
   .vsn-container {
     flex-wrap: wrap;
   }
-  .vsn-left{
-     flex: auto;
-     order:1
-     
+  .vsn-left {
+    flex: auto;
+    order: 1;
   }
   .vsn-right {
     flex: auto;
@@ -1948,4 +1968,12 @@
 
 .mission a.rbt-moderbt-btn::before {
   background: #b3d3e9;
+}
+
+.sta-commitee{
+  min-height: 600px;
+}
+
+.commitee .rbt-cat-box-1 .inner{
+  padding: 20px 5px;
 }

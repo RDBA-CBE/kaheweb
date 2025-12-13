@@ -238,4 +238,29 @@ export const subMenu = {
   ],
 };
 
+export const NonStatutoryCommitee = {
+  title: "Non Statutory Committees",
+  content: [
+    {
+      category: "Non Statutory Committees",
+      link: "/kahe/non-statutory-committees/",
+      items: [
+        {
+          name: "Ombudsperson",
+          link: "https://kahedu.edu.in/non-statutory-committees/ombudsperson/",
+        },
+        {
+          name: "Committees",
+          link: "https://kahedu.edu.in/non-statutory-committees/nsc-committees/",
+        },
 
+        {
+          name: "Cells",
+          link: "https://kahedu.edu.in/non-statutory-committees/nsc-cells/",
+        },
+        
+       
+      ],
+    },
+  ],
+};
