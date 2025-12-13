@@ -11,7 +11,7 @@ const Commitee = ({ data }) => {
     <div className=" commitee">
       <div className="decor-ti">{data?.title}</div>
       <div className="row py-5">
-        {data?.statutoryCommitee.map((item, index) => (
+        {data?.content?.map((item, index) => (
           <div className="col-lg-3 col-md-6 col-sm-6 col-12 " key={index}>
             <Link
               className="rbt-cat-box rbt-cat-box-1 text-center"

@@ -1,19 +1,19 @@
 "use client";
 
 import InnerBanner from "../common-components/InnerBanner";
-import { VissionMissiondata } from "@/JSON/About/VissionMission";
 import Commitee from "../Components/About/Commitee";
 import  data  from "../../../JSON/About/commitee.json";
 
 const StatutoryCommitteespage = () => {
   console.log("data", data);
+  const commiteeData = data?.statutaryCommitee;
   return (
     <>
-      <InnerBanner data={VissionMissiondata?.data} />
+      <InnerBanner data={commiteeData?.bannerCon} />
 
-      <section className="section-wid sta-commitee">
+      <section className="section-wid sta-commitee  py-5">
         
-          <Commitee data={data} />
+          <Commitee data={commiteeData} />
         
         
       </section>

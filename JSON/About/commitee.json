@@ -1,20 +1,243 @@
-{ "title":"Statutory Commitee",
-  "statutoryCommitee": [
-    {
-      "title": "Executive Council",
-      "url": "https://kahedu.edu.in/n/wp-content/uploads/2025/03/07-Executive-Council_KAHE_Feb-2025.pdf"
+{
+  "statutaryCommitee": {
+    "bannerCon": {
+      "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+      "title": "Statutory Commitee",
+      "bannerCon": "To be a leading institution in the field of education, providing quality education and training to students and professionals.",
+      "applyLink": "/"
     },
-    {
-      "title": "Academic Council",
-      "url": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Academic-Council.pdf"
+    "title": "Statutory Commitee",
+    "content": [
+      {
+        "title": "Executive Council",
+        "url": "https://kahedu.edu.in/n/wp-content/uploads/2025/03/07-Executive-Council_KAHE_Feb-2025.pdf"
+      },
+      {
+        "title": "Academic Council",
+        "url": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Academic-Council.pdf"
+      },
+      {
+        "title": "Planning and Monitoring Board",
+        "url": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Planning-and-Monitoring-Board.pdf"
+      },
+      {
+        "title": "Finance Committee",
+        "url": "https://kahedu.edu.in/n/wp-content/uploads/2025/03/Finance-Committee_KAHE_Feb-2025.pdf"
+      }
+    ]
+  },
+
+  "NonStatutaryCommitee": {
+    "bannerCon": {
+      "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+      "title": "Non Statutory Committees",
+      "bannerCon": "To be a leading institution in the field of education, providing quality education and training to students and professionals.",
+      "applyLink": "/"
     },
-    {
-      "title": "Planning and Monitoring Board",
-      "url": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Planning-and-Monitoring-Board.pdf"
+    "title": "Non Statutory Committees",
+    "content": [
+      {
+        "title": "Ombudsperson",
+        "url": "/kahe/non-statutory-committees/ombudsperson/"
+      },
+      {
+        "title": "BoS",
+        "url": "https://kahedu.edu.in/n/wp-content/uploads/2024/03/BoS-Members-list-2022-2025.pdf"
+      },
+      {
+        "title": "Committee",
+        "url": "/kahe/non-statutory-committees/nsc-committees/"
+      },
+      {
+        "title": "Cells",
+        "url": "/kahe/non-statutory-committees/nsc-cells/"
+      }
+    ]
+  },
+
+  "NscCommittees": {
+    "bannerCon": {
+      "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+      "title": "Committee",
+      "bannerCon": "To be a leading institution in the field of education, providing quality education and training to students and professionals.",
+      "applyLink": "/"
     },
-    {
-      "title": "Finance Committee",
-      "url": "https://kahedu.edu.in/n/wp-content/uploads/2025/03/Finance-Committee_KAHE_Feb-2025.pdf"
-    }
-  ]
+    "title": "Commitee",
+
+    "content": [
+      {
+        "id": 1,
+        "title": "Anti – Discrimination Committee",
+        "url": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Anti-Discrimination-Committee.pdf"
+      },
+      {
+        "id": 2,
+        "title": "Anti – Ragging Committee",
+        "url": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Anti-Ragging-Committee.pdf"
+      },
+      {
+        "id": 3,
+        "title": "Cultural Committee",
+        "url": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Cultural-Committee.pdf"
+      },
+      {
+        "id": 4,
+        "title": "Environmental Monitoring Committee",
+        "url": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Environmental-Monitoring-Committee.pdf"
+      },
+      {
+        "id": 5,
+        "title": "Ethics Monitoring Committee",
+        "url": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Ethics-Monitoring-Committee.pdf"
+      },
+      {
+        "id": 6,
+        "title": "Extension Programme Committee",
+        "url": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Extension-Programme-Committee.pdf"
+      },
+      {
+        "id": 7,
+        "title": "Hostel Committee",
+        "url": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Hostel-Committee.pdf"
+      },
+      {
+        "id": 8,
+        "title": "Internal Committee for Disabled Students",
+        "url": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Internal-Committee-for-Disabled-Students.pdf"
+      },
+      {
+        "id": 9,
+        "title": "Library Advisory Committee",
+        "url": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Library-Advisory-Committee.pdf"
+      },
+      {
+        "id": 10,
+        "title": "Research Advisory Committee",
+        "url": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Research-Advisory-Committee.pdf"
+      },
+      {
+        "id": 11,
+        "title": "Research Guides Recognition Committee",
+        "url": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Research-Guides-Recognition-Committee.pdf"
+      },
+      {
+        "id": 12,
+        "title": "Research Project Evaluation Committee",
+        "url": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Research-Project-Evaluation-Committee.pdf"
+      },
+      {
+        "id": 13,
+        "title": "SC ST Committee",
+        "url": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/SC-ST-Committee.pdf"
+      },
+      {
+        "id": 14,
+        "title": "Sexual Harassment Committee",
+        "url": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Sexual-Harassment-Committee.pdf"
+      },
+      {
+        "id": 15,
+        "title": "Student Disciplinary Committee",
+        "url": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Student-Disciplinary-Committee.pdf"
+      },
+      {
+        "id": 16,
+        "title": "Student Grievance Redressal Committee",
+        "url": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Student-Grievance-Redressal-Committee.pdf"
+      },
+      {
+        "id": 17,
+        "title": "Student Grievance Redressal FADP",
+        "url": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Student-Grievance-Redressal-FADP.pdf"
+      },
+      {
+        "id": 18,
+        "title": "Student Grievance Redressal FASCM",
+        "url": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Student-Grievance-Redressal-FASCM.pdf"
+      },
+      {
+        "id": 19,
+        "title": "Student Grievance Redressal FoE",
+        "url": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Student-Grievance-Redressal-FoE.pdf"
+      },
+      {
+        "id": 20,
+        "title": "Student Grievance Redressal FoP",
+        "url": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Student-Grievance-Redressal-FoP.pdf"
+      }
+    ]
+  },
+
+  "NscCells": {
+    "bannerCon": {
+      "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+      "title": "Committee",
+      "bannerCon": "To be a leading institution in the field of education, providing quality education and training to students and professionals.",
+      "applyLink": "/"
+    },
+    "title": "Commitee",
+
+    "content": [
+      {
+        "id": 1,
+        "title": "Equal Opportunity Cell",
+        "url": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Equal-Oppottunity-Cell.pdf"
+      },
+      {
+        "id": 2,
+        "title": "Gender Sensitization Cell",
+        "url": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Gender-Sensitization-Cell.pdf"
+      },
+      {
+        "id": 3,
+        "title": "Institutional Innovation Cell",
+        "url": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Institutional-Innovation-Cell.pdf"
+      },
+      {
+        "id": 4,
+        "title": "Curriculum Development Cell",
+        "url": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Curriculam-Development-Cell.pdf"
+      },
+      {
+        "id": 5,
+        "title": "Consultancy Cell",
+        "url": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Consultancy-Cell.pdf"
+      },
+      {
+        "id": 6,
+        "title": "Intellectual Property Rights Cell",
+        "url": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Intellectual-Property-Rights-Cell.pdf"
+      },
+      {
+        "id": 7,
+        "title": "Rural Entrepreneurship Development Cell",
+        "url": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Rural-Entrepreneurship-Development-Cell.pdf"
+      },
+      {
+        "id": 8,
+        "title": "Internal Quality Assurance Cell",
+        "url": "#"
+      },
+      {
+        "id": 9,
+        "title": "International Student Relationship Cell",
+        "url": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/International-Student-Relationship-Cell.pdf"
+      },
+      {
+        "id": 10,
+        "title": "Student Counselling Cell",
+        "url": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Student-Counselling-Cell.pdf"
+      },
+      {
+        "id": 11,
+        "title": "Women Empowerment Cell",
+        "url": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Women-Empowerment-Cell.pdf"
+      },
+      {
+        "id": 12,
+        "title": "Socio-Economically Disadvantaged Group Cell",
+        "url": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/SEDG-Cell.pdf"
+      }
+    ]
+  }
 }

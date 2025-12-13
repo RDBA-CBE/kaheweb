@@ -1,15 +1,15 @@
 "use client";
 
 import InnerBanner from "../common-components/InnerBanner";
-import Commitee from "../Components/About/Commitee";
 import data from "../../../JSON/About/commitee.json";
 import Sidebar from "../common-components/Sidebar";
 import { NonStatutoryCommitee } from "@/JSON/ACADEMIC/Overview";
+import ListStyle from "../Components/ListStyle";
 
-const NonStatutoryCommitteespage = () => {
+const NscCells = () => {
   console.log("data", data);
 
-  const commiteeData = data?.NonStatutaryCommitee;
+  const commiteeData = data?.NscCells;
   return (
     <>
       <InnerBanner data={commiteeData?.bannerCon} />
@@ -18,7 +18,13 @@ const NonStatutoryCommitteespage = () => {
         <div className="rbt-course-details-area w-100">
           <div className="row g-5">
             <div className="col-lg-9">
-              <Commitee data={commiteeData} />
+
+                <div>
+                    <h2 className="decor-ti">
+                        {commiteeData.title}
+                    </h2>
+                </div>
+              <ListStyle data={commiteeData} />
             </div>
 
             <div className="col-lg-3 px-0 d-none d-md-block">
@@ -37,4 +43,4 @@ const NonStatutoryCommitteespage = () => {
   );
 };
 
-export default NonStatutoryCommitteespage;
+export default NscCells;

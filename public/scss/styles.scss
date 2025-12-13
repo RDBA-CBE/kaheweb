@@ -1977,3 +1977,33 @@
 .commitee .rbt-cat-box-1 .inner{
   padding: 20px 5px;
 }
+
+
+.kahe-list-sec {
+  display: flex;
+  gap: 20px;
+}
+
+.kahe-list-sec.two-col {
+  justify-content: space-between;
+}
+
+.kahe-list-col {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  flex: 1;
+}
+
+.kahe-list-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 14px;
+}
+
+/* Mobile */
+@media (max-width: 768px) {
+  .kahe-list-sec {
+    flex-direction: column;
+  }
+}
