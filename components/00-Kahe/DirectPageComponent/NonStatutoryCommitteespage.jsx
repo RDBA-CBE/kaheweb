@@ -21,7 +21,7 @@ const NonStatutoryCommitteespage = () => {
               <Commitee data={commiteeData} />
             </div>
 
-            <div className="col-lg-3 px-0 d-none d-md-block">
+            <div className="col-lg-3 px-0 d-none d-lg-block">
               <div className="course-sidebar sticky-top rbt-shadow-box rbt-gradient-border ">
                 <div className="inner">
                   <div className="content-item-content">

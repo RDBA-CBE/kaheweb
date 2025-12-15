@@ -3,14 +3,13 @@
 import InnerBanner from "../common-components/InnerBanner";
 import data from "../../../JSON/About/commitee.json";
 import Sidebar from "../common-components/Sidebar";
-import { NonStatutoryCommitee } from "@/JSON/ACADEMIC/Overview";
-import ListStyle from "../Components/ListStyle";
-import { titleCaseWithAcronyms } from "@/utils/functions.utils";
+import { about } from "@/JSON/ACADEMIC/Overview";
+import ImageLink from "../Components/ImageLink";
 
-const NscCells = () => {
+const RTIpage = () => {
   console.log("data", data);
 
-  const commiteeData = data?.NscCells;
+  const commiteeData = data?.RTI;
   return (
     <>
       <InnerBanner data={commiteeData?.bannerCon} />
@@ -19,21 +18,14 @@ const NscCells = () => {
         <div className="rbt-course-details-area w-100">
           <div className="row g-5">
             <div className="col-lg-9">
-
-                <div>
-                    <h2 className="decor-ti">
-                      {titleCaseWithAcronyms(commiteeData?.title)}
-                       
-                    </h2>
-                </div>
-              <ListStyle data={commiteeData} />
+              <ImageLink data={commiteeData} />
             </div>
 
             <div className="col-lg-3 px-0 d-none d-lg-block">
               <div className="course-sidebar sticky-top rbt-shadow-box rbt-gradient-border ">
                 <div className="inner">
                   <div className="content-item-content">
-                    <Sidebar subMenu={NonStatutoryCommitee} />
+                    <Sidebar subMenu={about} />
                   </div>
                 </div>
               </div>
@@ -45,4 +37,4 @@ const NscCells = () => {
   );
 };
 
-export default NscCells;
+export default RTIpage;

@@ -909,7 +909,7 @@
   font-weight: 500;
   margin-bottom: 20px;
   color: #000;
-  text-transform: lowercase;
+  // text-transform: lowercase;
 }
 
 .w-decor-ti::first-letter {
@@ -922,7 +922,8 @@
   margin-bottom: 20px;
   color: #000;
   position: relative;
-  text-transform: lowercase;
+  // text-transform: lowercase;
+  // display: inline-block;
 }
 
 .decor-ti::first-letter {
@@ -959,6 +960,7 @@
   margin-bottom: 15px;
   color: #000;
   text-transform: lowercase;
+  display: inline-block;
 }
 
 .main-sub-ti::first-letter {
@@ -1970,14 +1972,13 @@
   background: #b3d3e9;
 }
 
-.sta-commitee{
+.sta-commitee {
   min-height: 600px;
 }
 
-.commitee .rbt-cat-box-1 .inner{
+.commitee .rbt-cat-box-1 .inner {
   padding: 20px 5px;
 }
-
 
 .kahe-list-sec {
   display: flex;
@@ -2005,5 +2006,54 @@
 @media (max-width: 768px) {
   .kahe-list-sec {
     flex-direction: column;
+  }
+}
+
+.omb-item1 {
+  border: 1px solid #153b1c;
+  border-radius: 20px;
+  height: fit-content;
+  padding: 30px;
+}
+
+.omb-item2 {
+  border-radius: 20px;
+}
+
+.omb-item2 img {
+  background-size: cover;
+  border-radius: 20px;
+  width: 100%;
+  height: 100%;
+}
+
+.imageLink-sec {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+.imageLink-item1 {
+  flex: 1;
+}
+
+.imageLink-item2 {
+  flex: 0.5;
+}
+
+.imageLink-item2 img {
+  border-radius: 20px;
+  object-fit: cover;
+}
+.rbt-btn-link{
+  font-size: 16px;
+}
+
+@media (max-width: 768px) {
+  .imageLink-item1 {
+    flex: auto;
+  }
+  .imageLink-item2 {
+    flex: auto;
   }
 }

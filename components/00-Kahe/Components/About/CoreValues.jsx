@@ -1,10 +1,11 @@
 
+import { titleCaseWithAcronyms } from "@/utils/functions.utils";
 import React from "react";
 
 const CoreValues = ({values, title}) => {
   return (
     <section className="cv-wrapper">
-      <h2 className="w-decor-ti">{title}</h2>
+      <h2 className="w-decor-ti">{titleCaseWithAcronyms(title)}</h2>
 
       <div className="cv-items-wrapper">
         {values.map((val, i) => (

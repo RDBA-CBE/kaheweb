@@ -238,9 +238,57 @@ export const subMenu = {
   ],
 };
 
+export const about = {
+  title: "About",
+  content: [
+     {
+      category: "Overview",
+      link: "/overview/",
+
+    },
+    {
+      category: "Vision & Mission",
+      link: "/vision-and-mission",
+
+    },
+    {
+      category: "Statutory Committees",
+      link: "/statutory-committees",
+
+    },
+    {
+      category: "Non Statutory Committees",
+      link: "/non-statutory-committees/",
+      
+    },
+    {
+      category: "RTI",
+      link: "/rti",
+
+    },
+  ],
+};
+
 export const NonStatutoryCommitee = {
   title: "Non Statutory Committees",
   content: [
+    {
+      category: "Overview",
+      link: "/overview/",
+
+    },
+    {
+      category: "Vision & Mission",
+      link: "/vision-and-mission",
+
+    },
+    {
+      category: "Statutory Committees",
+      link: "/statutory-committees",
+
+    },
+    
+    
     {
       category: "Non Statutory Committees",
       link: "/non-statutory-committees/",
@@ -261,6 +309,12 @@ export const NonStatutoryCommitee = {
         
        
       ],
+    },
+
+    {
+      category: "RTI",
+      link: "/rti",
+
     },
   ],
 };

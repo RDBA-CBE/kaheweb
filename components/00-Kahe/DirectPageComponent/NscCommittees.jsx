@@ -6,6 +6,7 @@ import data from "../../../JSON/About/commitee.json";
 import Sidebar from "../common-components/Sidebar";
 import { NonStatutoryCommitee } from "@/JSON/ACADEMIC/Overview";
 import ListStyle from "../Components/ListStyle";
+import { titleCaseWithAcronyms } from "@/utils/functions.utils";
 
 const NscCommittees = () => {
   console.log("data", data);
@@ -22,13 +23,14 @@ const NscCommittees = () => {
 
                 <div>
                     <h2 className="decor-ti">
-                        {commiteeData.title}
+                      {titleCaseWithAcronyms(commiteeData?.title)}
+                       
                     </h2>
                 </div>
               <ListStyle data={commiteeData} />
             </div>
 
-            <div className="col-lg-3 px-0 d-none d-md-block">
+            <div className="col-lg-3 px-0 d-none d-lg-block">
               <div className="course-sidebar sticky-top rbt-shadow-box rbt-gradient-border ">
                 <div className="inner">
                   <div className="content-item-content">

@@ -1,6 +1,7 @@
 "use client";
 
 import BatchIcon from "@/public/images/Kahe/icons/BatchIcon";
+import { titleCaseWithAcronyms } from "@/utils/functions.utils";
 import Image from "next/image";
 import Link from "next/link";
 
@@ -9,7 +10,7 @@ const Commitee = ({ data }) => {
 
   return (
     <div className=" commitee">
-      <div className="decor-ti">{data?.title}</div>
+      <div className="decor-ti">{titleCaseWithAcronyms(data?.title)}</div>
       <div className="row py-5">
         {data?.content?.map((item, index) => (
           <div className="col-lg-3 col-md-6 col-sm-6 col-12 " key={index}>
