@@ -1,5 +1,4 @@
 "use client";
-import { removeShortcodes } from "@/utils/functions.utils";
 import { CustomHook } from "@/utils/customHook";
 
 const AcademicsPage = ({ slug = "" }) => {

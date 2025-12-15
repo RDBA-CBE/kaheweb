@@ -2,6 +2,7 @@ import BooksIcon from "@/public/images/Kahe/icons/BooksIcon";
 import BuildingIcon from "@/public/images/Kahe/icons/BuildingIcon";
 import LabIcon from "@/public/images/Kahe/icons/LabIcon";
 import StudentsIcon from "@/public/images/Kahe/icons/StudentsIcon";
+import { FirstLetterUp } from "@/utils/functions.utils";
 import Link from "next/link";
 import React, { useEffect, useState } from "react";
 
@@ -57,7 +58,7 @@ const Infrastructure = ({ infrastructureContent }) => {
             <div className="section-title">
               <h2
                 className="main-ti"
-                dangerouslySetInnerHTML={{ __html: infrastructureContent.tab }}
+                dangerouslySetInnerHTML={{ __html: FirstLetterUp(infrastructureContent.tab) }}
               ></h2>
             </div>
           </div>
@@ -69,7 +70,7 @@ const Infrastructure = ({ infrastructureContent }) => {
                 {infraCon.title && (
                   <h3
                     className="main-sub-ti"
-                    dangerouslySetInnerHTML={{ __html: infraCon.title }}
+                    dangerouslySetInnerHTML={{ __html: FirstLetterUp(infraCon.title) }}
                   ></h3>
                 )}
 
@@ -90,7 +91,7 @@ const Infrastructure = ({ infrastructureContent }) => {
               <div className="row g-5 mb--30">
                 <h3
                   className="main-sub-ti"
-                  dangerouslySetInnerHTML={{ __html: labItem.title }}
+                  dangerouslySetInnerHTML={{ __html: FirstLetterUp(labItem.title) }}
                 ></h3>
 
                 {/* <div className="col-lg-12 mt-0">
@@ -121,7 +122,7 @@ const Infrastructure = ({ infrastructureContent }) => {
               <div className="rbt-dashboard-table table-responsive mb--30">
                 <h3
                   className="main-sub-ti"
-                  dangerouslySetInnerHTML={{ __html: equipementItem?.title }}
+                  dangerouslySetInnerHTML={{ __html: FirstLetterUp(equipementItem?.title) }}
                 ></h3>
 
                 <div className="dept-wrapper">
@@ -148,7 +149,7 @@ const Infrastructure = ({ infrastructureContent }) => {
                 {library.title && (
                   <h3
                     className="main-sub-ti"
-                    dangerouslySetInnerHTML={{ __html: library.title }}
+                    dangerouslySetInnerHTML={{ __html: FirstLetterUp(library.title) }}
                   ></h3>
                 )}
 

@@ -1,4 +1,5 @@
 "use client";
+import { FirstLetterUp } from "@/utils/functions.utils";
 import Link from "next/link";
 import { useEffect, useState } from "react";
 
@@ -19,7 +20,7 @@ const Page = () => {
       <div className="container events-pg" style={{ padding: "80px 0" }}>
         <div className="rbt-course-feature-inner">
           <div className="section-title">
-            <h2 className="main-ti">{eventsContent.tab}</h2>
+            <h2 className="main-ti">{FirstLetterUp(eventsContent.tab)}</h2>
           </div>
 
           <div className="rbt-accordion-style rbt-accordion-02 accordion">

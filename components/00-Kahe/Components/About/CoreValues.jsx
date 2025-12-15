@@ -1,11 +1,11 @@
 
-import { titleCaseWithAcronyms } from "@/utils/functions.utils";
+import { FirstLetterUp } from "@/utils/functions.utils";
 import React from "react";
 
 const CoreValues = ({values, title}) => {
   return (
     <section className="cv-wrapper">
-      <h2 className="w-decor-ti">{titleCaseWithAcronyms(title)}</h2>
+      <h2 className="w-decor-ti">{FirstLetterUp(title)}</h2>
 
       <div className="cv-items-wrapper">
         {values.map((val, i) => (
@@ -14,7 +14,7 @@ const CoreValues = ({values, title}) => {
               <span className="cv-icon">{val.icon}</span>
             </div>
 
-            <h3 className="main-sub-ti">{val.title}</h3>
+            <h3 className="main-sub-ti">{FirstLetterUp(val.title)}</h3>
 
             <p>{val.text}</p>
           </div>

@@ -2,6 +2,7 @@
 
 import React, { useState, useEffect } from "react";
 import { useRouter } from "next/navigation";
+import { FirstLetterUp } from "@/utils/functions.utils";
 
 const Programmes = ({ programmeContent }) => {
   const router = useRouter();
@@ -37,13 +38,13 @@ const Programmes = ({ programmeContent }) => {
               activeData.items?.map((item, i) => (
                 <div className="program-overlay-row" key={i}>
                   <i className="feather-chevron-right me-3 text-white"></i>
-                  <span className="main-sub-ti text-white">{item}</span>
+                  <span className="main-sub-ti text-white">{FirstLetterUp(item)}</span>
                 </div>
               ))}
 
             {/* CURRICULUM TITLE */}
             {activeData.type === "curriculum" && (
-              <h3 className="main-sub-ti text-white">{activeData.title}</h3>
+              <h3 className="main-sub-ti text-white">{FirstLetterUp(activeData.title)}</h3>
             )}
 
             {/* CURRICULUM SLIDER BUTTON */}
@@ -107,7 +108,7 @@ const Programmes = ({ programmeContent }) => {
         <h2 className="kahe-transfer-yellow main-ti">Student Programmes</h2>
 
         <div className="kahe-transfer-link-box">
-          <h3 className="main-sub-ti">{programmeContent.programmes.title}</h3>
+          <h3 className="main-sub-ti">{FirstLetterUp(programmeContent.programmes.title)}</h3>
           <ul>
             {programmeTabs.map((item) => (
               <li
@@ -120,7 +121,7 @@ const Programmes = ({ programmeContent }) => {
             ))}
           </ul>
 
-          <h3 className="main-sub-ti">{programmeContent.curriculum.title}</h3>
+          <h3 className="main-sub-ti">{FirstLetterUp(programmeContent.curriculum.title)}</h3>
           <ul>
             {curriculumTabs.map((item) => (
               <li

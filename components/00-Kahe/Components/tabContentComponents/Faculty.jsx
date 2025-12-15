@@ -1,3 +1,4 @@
+import { FirstLetterUp } from "@/utils/functions.utils";
 import Link from "next/link";
 import React, { useState } from "react";
 
@@ -18,7 +19,7 @@ const Faculty = ({ facultyContent }) => {
             <div className="section-title">
               <h2
                 className="main-ti "
-                dangerouslySetInnerHTML={{ __html: facultyContent.tab }}
+                dangerouslySetInnerHTML={{ __html: FirstLetterUp(facultyContent.tab) }}
               ></h2>
             </div>
           </div>

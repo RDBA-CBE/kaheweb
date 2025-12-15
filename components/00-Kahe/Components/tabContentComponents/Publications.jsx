@@ -1,4 +1,5 @@
 "use client";
+import { FirstLetterUp } from "@/utils/functions.utils";
 import { useState } from "react";
 
 export default function Publications({publicationsContent}) {
@@ -30,10 +31,10 @@ export default function Publications({publicationsContent}) {
             <h2
               className="main-ti"
              
-            >{publicationsContent.subtitle}</h2>
+            >{FirstLetterUp(publicationsContent.subtitle)}</h2>
           </div>
 
-          <h3 className="main-sub-ti">{publicationsContent?.title}</h3>
+          <h3 className="main-sub-ti">{FirstLetterUp(publicationsContent?.title)}</h3>
 
           {visibilityItems?.map((item, index) => (
             <div className="research-acc-item" key={index}>

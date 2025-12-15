@@ -318,3 +318,56 @@ export const NonStatutoryCommitee = {
     },
   ],
 };
+
+export const Administration = {
+  title: "Administration",
+  content: [
+    {
+      category: "Board of Trustees",
+      link: "/administration/board-of-trustees/",
+      items: [
+        {
+          name: "President",
+          link: "/administration/board-of-trustees/president/",
+        },
+        {
+          name: "Trustees",
+          link: "/administration/board-of-trustees/trustee/",
+        },
+        {
+          name: "CEO",
+          link: "/administration/board-of-trustees/ceo/",
+        },
+      ],
+    },
+    {
+      category: "Chancellor",
+      link: "/administration/chancellor/",
+    },
+    {
+      category: "Vice Chancellor",
+      link: "/administration/vice-chancellor/",
+    },
+    {
+      category: "Registrar",
+      link: "/administration/kahe-registrar/",
+    },
+    {
+      category: "Deans",
+      link: "/administration/deans/",
+    },
+    {
+      category: "Controller of Examinations",
+      link: "/administration/controller-of-examinations/",
+    },
+    {
+      category: "Finance Officer",
+      link: "/administration/finance-officer/",
+    },
+    {
+      category: "IQAC",
+      link: "/administration/iqac/",
+    },
+  ],
+};
+

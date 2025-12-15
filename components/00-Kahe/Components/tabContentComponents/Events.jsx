@@ -1,3 +1,4 @@
+import { FirstLetterUp } from "@/utils/functions.utils";
 import Image from "next/image";
 import Link from "next/link";
 import { useRouter } from "next/navigation";
@@ -14,7 +15,7 @@ const Events = ({ eventsContent }) => {
     <>
       <div className="rbt-course-feature-inner">
         <div className="section-title">
-          <h4 className="main-ti">{eventsContent.tab}</h4>
+          <h4 className="main-ti">{FirstLetterUp(eventsContent.tab)}</h4>
         </div>
 
         <div className="row g-5">

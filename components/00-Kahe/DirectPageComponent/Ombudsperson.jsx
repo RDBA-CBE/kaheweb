@@ -5,7 +5,7 @@ import data from "../../../JSON/About/commitee.json";
 import Sidebar from "../common-components/Sidebar";
 import { NonStatutoryCommitee } from "@/JSON/ACADEMIC/Overview";
 import ListStyle from "../Components/ListStyle";
-import { titleCaseWithAcronyms } from "@/utils/functions.utils";
+import { FirstLetterUp } from "@/utils/functions.utils";
 
 const Ombudsperson = () => {
   console.log("data", data);
@@ -22,7 +22,7 @@ const Ombudsperson = () => {
               <div>
                 <h2
                   className="decor-ti"
-                  dangerouslySetInnerHTML={{ __html: titleCaseWithAcronyms(commiteeData?.title) }}
+                  dangerouslySetInnerHTML={{ __html: FirstLetterUp(commiteeData?.title) }}
                 ></h2>
               </div>
 
@@ -30,7 +30,7 @@ const Ombudsperson = () => {
                 <div className="omb-item1">
                   <div>
                     <span>Name : </span>
-                    <span className="main-sub-ti" dangerouslySetInnerHTML={{__html:commiteeData.content[0].title}}></span>
+                    <span className="main-sub-ti" dangerouslySetInnerHTML={{__html:FirstLetterUp(commiteeData.content[0].title)}}></span>
                   </div>
                   <p>
                     <a href="mailto:ombudsperson@kahedu.edu.in">

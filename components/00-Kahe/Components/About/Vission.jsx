@@ -1,4 +1,4 @@
-import { titleCaseWithAcronyms } from "@/utils/functions.utils";
+import { FirstLetterUp } from "@/utils/functions.utils";
 import React from "react";
 
 const Vision = ({ vision }) => {
@@ -16,7 +16,7 @@ const Vision = ({ vision }) => {
         <div className="vsn-left">
           <h2
             className="decor-ti"
-            dangerouslySetInnerHTML={{ __html: titleCaseWithAcronyms(vision?.title)}}
+            dangerouslySetInnerHTML={{ __html: FirstLetterUp(vision?.title)}}
           >
           </h2>
           <p

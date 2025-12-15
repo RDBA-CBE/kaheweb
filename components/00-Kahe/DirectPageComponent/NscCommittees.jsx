@@ -6,7 +6,7 @@ import data from "../../../JSON/About/commitee.json";
 import Sidebar from "../common-components/Sidebar";
 import { NonStatutoryCommitee } from "@/JSON/ACADEMIC/Overview";
 import ListStyle from "../Components/ListStyle";
-import { titleCaseWithAcronyms } from "@/utils/functions.utils";
+import { FirstLetterUp } from "@/utils/functions.utils";
 
 const NscCommittees = () => {
   console.log("data", data);
@@ -23,7 +23,7 @@ const NscCommittees = () => {
 
                 <div>
                     <h2 className="decor-ti">
-                      {titleCaseWithAcronyms(commiteeData?.title)}
+                      {FirstLetterUp(commiteeData?.title)}
                        
                     </h2>
                 </div>

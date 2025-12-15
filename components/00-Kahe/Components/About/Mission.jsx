@@ -1,5 +1,5 @@
 import StudentsIcon from '@/public/images/Kahe/icons/StudentsIcon'
-import { titleCaseWithAcronyms } from '@/utils/functions.utils'
+import { FirstLetterUp } from '@/utils/functions.utils'
 import Link from 'next/link'
 import React from 'react'
 
@@ -12,7 +12,7 @@ const Mission = ({ title, buttonText, buttonLink, missionItems }) => {
         <div className="row mb--60 g-5 align-items-end">
           <div className="col-lg-6 col-md-6 col-12">
             <div className="section-title text-start">
-              <h4 className="decor-ti">{titleCaseWithAcronyms(title)}</h4>
+              <h4 className="decor-ti">{FirstLetterUp(title)}</h4>
             </div>
           </div>
 
