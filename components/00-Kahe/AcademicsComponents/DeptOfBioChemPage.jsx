@@ -1,4 +1,4 @@
-// import BreadCrumb from "@/components/00-Kahe/common-components/BreadCrumb";
+import BreadCrumb from "@/components/00-Kahe/common-components/BreadCrumb";
 // import MenuData from "@/data/kahe/MegaMenu.json";
 // import BreadcrumbImage from "../../../../../public/images/Kahe/breadcrumb/banner-inner1.jpg";
 // import CourseData from "../../../../../data/course-details/courseData.json";
@@ -7,6 +7,7 @@ import { subMenu } from "@/JSON/ACADEMIC/Overview";
 import data from "../../../JSON/ACADEMIC/Arts/dept_of_biochemistry.json";
 import InnerBanner from "@/components/00-Kahe/common-components/InnerBanner";
 import Sidebar from "../common-components/Sidebar";
+import { base } from "@/utils/constant.util";
 
 export const metadata = {
   title: "About Us 01 - Online Courses & Education NEXTJS14 Template",
@@ -15,11 +16,19 @@ export const metadata = {
 console.log("data", data);
 
 const DeptOfBioChemPage = () => {
+  const breadcrumbItems = [
+    { label: "Academics", href: `academics` },
+    {
+      label: "Arts, Science, Commerce and Management",
+      href: `academics/arts-science-and-humanities/`,
+    },
+
+    { label: "Department of Biochemistry" },
+  ];
   return (
     <>
-      {/* <BreadCrumb img={BreadcrumbImage} /> */}
-
-      <InnerBanner data={data}/>
+      <InnerBanner data={data} />
+      <BreadCrumb items={breadcrumbItems} />
 
       <main className="section-wid d-flex gap-4 py-5">
         <div className="rbt-course-details-area w-100">
@@ -48,4 +57,3 @@ const DeptOfBioChemPage = () => {
 };
 
 export default DeptOfBioChemPage;
-
