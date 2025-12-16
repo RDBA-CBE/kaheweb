@@ -2,9 +2,12 @@
 
 import { FirstLetterUp } from "@/utils/functions.utils";
 import React, { useEffect, useState } from "react";
+import ImageCard from "../ImageCard";
 
 const Overview = ({ overviewContent }) => {
-  const overviewItem = overviewContent?.find((item) => item.type === "overview");
+  const overviewItem = overviewContent?.find(
+    (item) => item.type === "overview"
+  );
   const visionItem = overviewContent?.find((item) => item.type === "vision");
   const missionItem = overviewContent?.find((item) => item.type === "mission");
 
@@ -12,30 +15,29 @@ const Overview = ({ overviewContent }) => {
   const [paragraphs, setParagraphs] = useState([]);
 
   // Split the content string into chunks by character length
- const splitByCharLength = (text, maxLength = 500) => {
-  const sentences = text
-    .split(".")
-    .map((s) => s.trim())
-    .filter(Boolean)
-    .map((s) => s + ".");
+  const splitByCharLength = (text, maxLength = 500) => {
+    const sentences = text
+      .split(".")
+      .map((s) => s.trim())
+      .filter(Boolean)
+      .map((s) => s + ".");
 
-  const result = [];
-  let current = "";
+    const result = [];
+    let current = "";
 
-  sentences.forEach((sentence) => {
-    if ((current + " " + sentence).trim().length > maxLength) {
-      if (current) result.push(current.trim());
-      current = sentence; // start new block
-    } else {
-      current += " " + sentence;
-    }
-  });
+    sentences.forEach((sentence) => {
+      if ((current + " " + sentence).trim().length > maxLength) {
+        if (current) result.push(current.trim());
+        current = sentence; // start new block
+      } else {
+        current += " " + sentence;
+      }
+    });
 
-  if (current.trim()) result.push(current.trim());
+    if (current.trim()) result.push(current.trim());
 
-  return result;
-};
-
+    return result;
+  };
 
   useEffect(() => {
     const updateSlice = () => {
@@ -54,7 +56,7 @@ const Overview = ({ overviewContent }) => {
 
   useEffect(() => {
     if (overviewItem?.contents) {
-      setParagraphs(splitByCharLength(overviewItem.contents, 500));
+      setParagraphs(splitByCharLength(overviewItem.contents, 350));
     }
   }, [overviewItem]);
 
@@ -64,68 +66,101 @@ const Overview = ({ overviewContent }) => {
   const remaining = paragraphs.slice(sliceCount);
 
   return (
-    <div className="overview-main-wrapper mt--30" id="overview">
-      <div className="section-title">
-        <h2
-          className="main-ti"
-          dangerouslySetInnerHTML={{ __html: FirstLetterUp(overviewItem.subTitle) }}
-        ></h2>
-      </div>
-
+    <div className="overview-main-wrapper section-bg1" id="overview">
       <div className="overview-flex">
         <div className="overview-left">
+          <div className="section-title">
+            <h2
+              className="main-ti"
+              dangerouslySetInnerHTML={{
+                __html: FirstLetterUp(overviewItem.subTitle),
+              }}
+            ></h2>
+          </div>
           {firstPart.map((text, index) => (
             <p key={index} dangerouslySetInnerHTML={{ __html: text }}></p>
           ))}
+
+          {/* <button className="kahe-btn-primary rbt-btn hover-icon-reverse mt-4" >
+
+              <span className="icon-reverse-wrapper">
+                <span className="btn-text">Apply Now</span>
+                <span className="btn-icon">
+                  <i className="feather-arrow-right"></i>
+                </span>
+                <span className="btn-icon">
+                  <i className="feather-arrow-right"></i>
+                </span>
+              </span>
+             
+            </button> */}
         </div>
 
-        <div className="overview-right d-none d-xl-block mb-5">
+        <div className="overview-right d-none d-xl-block ">
           <img src={overviewItem.image} alt="overview image" />
         </div>
       </div>
 
+
+      <div className="section-bg2 " style={{margin:"60px 0"}}>
+        <div className="section-wid " >
+        {remaining.map((text, index) => (
+          <p key={index} dangerouslySetInnerHTML={{ __html: text }}></p>
+        ))}
+      </div>
+      </div>
+
+
+
+      
+
+      <div className="section-wid section-bg1 py-0">
+        <ImageCard visionItem={visionItem} missionItem={missionItem}/>
+        
+        {/* {visionItem && (
+          <div className="mt-4">
+            <div className="section-title">
+              <h3
+                className="main-sub-ti"
+                dangerouslySetInnerHTML={{
+                  __html: FirstLetterUp(visionItem.subTitle),
+                }}
+              ></h3>
+            </div>
+            <ul className="rbt-list-style-1">
+              {visionItem.content.map((v, i) => (
+                <li key={i}>
+                  <i className="feather-check"></i>
+                  <span dangerouslySetInnerHTML={{ __html: v }}></span>
+                </li>
+              ))}
+            </ul>
+          </div>
+        )}
+
+        {missionItem && (
+          <div className="mt-4">
+            <div className="section-title">
+              <h3
+                className="main-sub-ti"
+                dangerouslySetInnerHTML={{
+                  __html: FirstLetterUp(missionItem.subTitle),
+                }}
+              ></h3>
+            </div>
+            <ul className="rbt-list-style-1">
+              {missionItem.content.map((v, i) => (
+                <li key={i}>
+                  <i className="feather-check"></i>
+                  <span dangerouslySetInnerHTML={{ __html: v }}></span>
+                </li>
+              ))}
+            </ul>
+          </div>
+        )} */}
+      </div>
+
       {/* remaining paragraphs below image */}
-      {remaining.map((text, index) => (
-        <p key={index} dangerouslySetInnerHTML={{ __html: text }}></p>
-      ))}
-
-      {visionItem && (
-        <div className="mt-4">
-          <div className="section-title">
-            <h3
-              className="main-sub-ti"
-              dangerouslySetInnerHTML={{ __html: FirstLetterUp(visionItem.subTitle) }}
-            ></h3>
-          </div>
-          <ul className="rbt-list-style-1">
-            {visionItem.content.map((v, i) => (
-              <li key={i}>
-                <i className="feather-check"></i>
-                <span dangerouslySetInnerHTML={{ __html: v }}></span>
-              </li>
-            ))}
-          </ul>
-        </div>
-      )}
-
-      {missionItem && (
-        <div className="mt-4">
-          <div className="section-title">
-            <h3
-              className="main-sub-ti"
-              dangerouslySetInnerHTML={{ __html: FirstLetterUp(missionItem.subTitle) }}
-            ></h3>
-          </div>
-          <ul className="rbt-list-style-1">
-            {missionItem.content.map((v, i) => (
-              <li key={i}>
-                <i className="feather-check"></i>
-                <span dangerouslySetInnerHTML={{ __html: v }}></span>
-              </li>
-            ))}
-          </ul>
-        </div>
-      )}
     </div>
   );
 };

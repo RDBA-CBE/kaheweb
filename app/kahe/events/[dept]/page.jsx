@@ -1,4 +1,5 @@
 "use client";
+import InnerSubBanner from "@/components/00-Kahe/common-components/InnerSubBanner";
 import { FirstLetterUp } from "@/utils/functions.utils";
 import Link from "next/link";
 import { useEffect, useState } from "react";
@@ -15,8 +16,17 @@ const Page = () => {
 
   if (!eventsContent) return <div>Loading...</div>;
 
+  console.log("eventsContent",eventsContent);
+  
+
+  const bannerCon = {
+    bannerImg: "/images/Kahe/breadcrumb/banner-inner1.jpg",
+    title: "Events",
+  };
+
   return (
     <>
+      <InnerSubBanner data={bannerCon} />
       <div className="container events-pg" style={{ padding: "80px 0" }}>
         <div className="rbt-course-feature-inner">
           <div className="section-title">
@@ -40,7 +50,6 @@ const Page = () => {
                       data-bs-target={`#collapseTwo${i + 1}`}
                       aria-expanded={item.expand}
                       aria-controls={`collapseTwo${i + 1}`}
-                      
                     >
                       {item.title}
                     </button>
@@ -61,7 +70,10 @@ const Page = () => {
                               <div className="course-content-left">
                                 <i className="feather-file-text"></i>
 
-                                <span className="text">{list}</span>
+                                <span
+                                  className="text"
+                                  dangerouslySetInnerHTML={{ __html: list }}
+                                ></span>
                               </div>
                             </Link>
                           </li>

@@ -91,7 +91,7 @@
 import Link from "next/link";
 import { useAppContext } from "@/context/Context";
 
-const SidebarCopy = ({ subMenu }) => {
+const Sidebar2 = ({ subMenu }) => {
   const { sidebar, setSidebar } = useAppContext();
 
   return (
@@ -127,11 +127,13 @@ const SidebarCopy = ({ subMenu }) => {
                 <li key={index} className={hasItems ? "has-submenu" : ""}>
                   {/* Category link */}
                   <Link
-                    href={menu.link || "#"}
+                    href={`/kahe/${menu.link}` || "#"}
                     onClick={() => setSidebar(false)}
                   >
                     {menu.category || menu.name}
                   </Link>
+
+                  
 
                   {/* Sub items */}
                   {hasItems && (
@@ -139,7 +141,7 @@ const SidebarCopy = ({ subMenu }) => {
                       {menu.items.map((item, i) => (
                         <li key={i}>
                           <Link
-                            href={item.link}
+                           href={`/kahe/${item.link}` || "#"}
                             onClick={() => setSidebar(false)}
                           >
                             {item.name}
@@ -158,4 +160,4 @@ const SidebarCopy = ({ subMenu }) => {
   );
 };
 
-export default SidebarCopy;
+export default Sidebar2;

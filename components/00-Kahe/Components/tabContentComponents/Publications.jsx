@@ -20,9 +20,7 @@ export default function Publications({publicationsContent}) {
   return (
     <>
       <div
-        className={`rbt-course-feature-box publication  mt--30 has-show-more ${
-          toggle ? "active" : ""
-        }`}
+        className={`rbt-course-feature-box publication  mt--30`}
        
       >
         <div className="research-acc-wrapper has-show-more-inner-content">
@@ -36,7 +34,7 @@ export default function Publications({publicationsContent}) {
 
           <h3 className="main-sub-ti">{FirstLetterUp(publicationsContent?.title)}</h3>
 
-          {visibilityItems?.map((item, index) => (
+          {publicationsContent?.content?.map((item, index) => (
             <div className="research-acc-item" key={index}>
               <button
                 className={`research-acc-header ${
@@ -44,8 +42,8 @@ export default function Publications({publicationsContent}) {
                 }`}
                 onClick={() => toggleAccordion(index)}
                 style={{
-                  backgroundColor: index % 2 === 0 ? "#153b1c" : "#f2fff9",
-                  color: index % 2 === 0 ? "#fff" : "#153b1c",
+                  backgroundColor: index % 2 === 0 ? "#a2d0aa" : "#f2fff9",
+                  color: index % 2 === 0 ? "#000" : "#153b1c",
                 }}
               >
                 <span className="faculty-ti">{item.faculty_name}</span>
@@ -70,12 +68,12 @@ export default function Publications({publicationsContent}) {
             </div>
           ))}
         </div>
-        <div
+        {/* <div
           className={`rbt-show-more-btn ${toggle ? "active" : ""}`}
           onClick={() => setToggle(!toggle)}
         >
           {toggle ? "Show Less" : "Show More"}
-        </div>
+        </div> */}
       </div>
     </>
   );

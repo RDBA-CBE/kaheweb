@@ -13,7 +13,7 @@ const Events = ({ eventsContent }) => {
 
   return (
     <>
-      <div className="rbt-course-feature-inner">
+      <div className="section-wid rbt-course-feature-inner">
         <div className="section-title">
           <h4 className="main-ti">{FirstLetterUp(eventsContent.tab)}</h4>
         </div>

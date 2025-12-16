@@ -36,8 +36,8 @@ const Programmes = ({ programmeContent }) => {
             {/* PROGRAMME TYPE SCREEN */}
             {activeData.type === "programme" &&
               activeData.items?.map((item, i) => (
-                <div className="program-overlay-row" key={i}>
-                  <i className="feather-chevron-right me-3 text-white"></i>
+                <div className="program-overlay-row d-flex" key={i}>
+                  <i className="feather-chevron-right mt-2 me-3 text-white"></i>
                   <span className="main-sub-ti text-white">{FirstLetterUp(item)}</span>
                 </div>
               ))}

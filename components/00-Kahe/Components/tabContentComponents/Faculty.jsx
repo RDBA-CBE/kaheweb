@@ -38,7 +38,7 @@ const Faculty = ({ facultyContent }) => {
                   </tr>
                 </thead>
                 <tbody>
-                  {visibleFaculty.map((item, i) => (
+                  {facultyContent.faculty.map((item, i) => (
                     <tr key={i}>
                       <th><span>{item.name}</span></th>
                       <td>{item.qualification}</td>
@@ -58,7 +58,7 @@ const Faculty = ({ facultyContent }) => {
               </table>
             </div>
 
-            {facultyContent.faculty.length > 8 && (
+            {/* {facultyContent.faculty.length > 8 && (
               <div
                 className={`rbt-show-more-btn ${toggle ? "active" : ""}`}
                 onClick={() => setToggle(!toggle)}
@@ -66,7 +66,7 @@ const Faculty = ({ facultyContent }) => {
               >
                 {toggle ? "Show Less" : "Show More"}
               </div>
-            )}
+            )} */}
 
           </div>
         </div>

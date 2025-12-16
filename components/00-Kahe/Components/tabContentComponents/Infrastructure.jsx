@@ -48,9 +48,7 @@ const Infrastructure = ({ infrastructureContent }) => {
 
   return (
     <div
-      className={`rbt-dashboard-content infra has-show-more ${
-        toggle ? "active" : ""
-      }`}
+      className={`section-wid rbt-dashboard-content infra `}
     >
       <div className="content has-show-more-inner-content">
         <div className="row">
@@ -105,9 +103,9 @@ const Infrastructure = ({ infrastructureContent }) => {
                   </ul>
                 </div> */}
 
-                <div className="dept-wrapper mt-0">
+                <div className="dept-wrapper mt-0 ">
                   {labItem?.content?.map((item, i) => (
-                    <div key={i} className="dept-card">
+                    <div key={i} className="dept-card bg-lblue">
                       <div className="dept-inner">
                         <BuildingIcon className="dept-icon" />
                         <p className="dept-title">{item}</p>
@@ -126,7 +124,7 @@ const Infrastructure = ({ infrastructureContent }) => {
                 ></h3>
 
                 <div className="dept-wrapper">
-                  {visibleFaculty?.map((item, i) => (
+                  {equipementItem?.content?.map((item, i) => (
                     <div
                       key={i}
                       className="dept-card"
@@ -224,12 +222,12 @@ const Infrastructure = ({ infrastructureContent }) => {
         </div>
       </div>
 
-      <div
+      {/* <div
         className={`rbt-show-more-btn ${toggle ? "active" : ""}`}
         onClick={() => setToggle(!toggle)}
       >
         {toggle ? "Show Less" : "Show More"}
-      </div>
+      </div> */}
     </div>
   );
 };

@@ -19,8 +19,8 @@ const Breadcrumb = ({ items = [], showHome = true }) => {
 
   return (
     <nav
-      aria-label="Breadcrumb"
-      className="section-wid py-3 px-0 kahe-breadcrumb"
+      aria-label="Breadcrumb "
+      className="section-wid py-3 px-0 mt-3 kahe-breadcrumb"
     >
       <ol
         className="d-flex flex-wrap  align-items-center mb-0 ps-0"

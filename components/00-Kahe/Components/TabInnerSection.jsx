@@ -30,8 +30,8 @@ const TabInnerSection = ({ tabSections, tabContent }) => {
 
   return (
     <>
-      <div className="course-details-content tab-in">
-        <div className="rbt-inner-onepage-navigation sticky-top">
+      <div className="course-details-content tab-in ">
+        <div className="section-wid rbt-inner-onepage-navigation sticky-top">
           <TabMenu sections={tabSections} />
         </div>
 
@@ -39,7 +39,7 @@ const TabInnerSection = ({ tabSections, tabContent }) => {
 
         {programmeContent && (
           <div
-            className="rbt-course-feature-box details-wrapper mt--50"
+            className="rbt-course-feature-box details-wrapper section-bg1"
             id="programme"
           >
             <div className="row g-5 ">
@@ -51,7 +51,7 @@ const TabInnerSection = ({ tabSections, tabContent }) => {
         )}
         {facultyContent && (
           <div
-            className="rbt-instructor  intructor-wrapper mt--50"
+            className="section-wid rbt-instructor  intructor-wrapper section-bg1"
             id="faculty"
           >
             <Faculty facultyContent={facultyContent} />
@@ -60,7 +60,7 @@ const TabInnerSection = ({ tabSections, tabContent }) => {
 
         {infrastructureContent && (
           <div
-            className="rbt-review-wrapper review-wrapper mt--50"
+            className=" rbt-review-wrapper review-wrapper section-bg2"
             id="infrastructure"
           >
             <Infrastructure infrastructureContent={infrastructureContent} />
@@ -69,7 +69,7 @@ const TabInnerSection = ({ tabSections, tabContent }) => {
 
         {publicationsContent && (
           <div
-            className="rbt-review-wrapper review-wrapper mt--50"
+            className="section-wid rbt-review-wrapper review-wrapper section-bg1"
             id="publications"
           >
             <Publications publicationsContent={publicationsContent} />
@@ -78,7 +78,7 @@ const TabInnerSection = ({ tabSections, tabContent }) => {
 
         {eventsContent && (
           <div
-            className="course-content  coursecontent-wrapper mt--50"
+            className="section-bg2 course-content  coursecontent-wrapper"
             id="events"
           >
             <Events eventsContent={eventsContent} />
