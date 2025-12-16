@@ -250,13 +250,28 @@
   background: #e6e4e4;
 }
 
-.text-green{
+.text-green {
   color: #153b1c;
 }
 
 .section-wid {
-  width: 95%;
+  width: 85%;
   margin: auto;
+}
+
+@media (max-width : 1500px){
+  .section-wid {
+   width: 90%;
+  margin: auto;
+  }
+}
+
+
+@media (max-width: 1100px) {
+    .section-wid {
+        width: 92%;
+        margin: auto;
+    }
 }
 
 .submenu-list li a {
@@ -295,6 +310,78 @@
 .kahe.popup-mobile-menu .inner-wrapper {
   width: 500px;
 }
+
+.kahe-breadcrumb li{
+  font-size: 14px;
+}
+
+.inner-sidebar.popup-mobile-menu {
+  visibility: hidden !important;
+  top: auto !important;
+  display: flex !important;
+  justify-content: flex-end;
+  transition: opacity .3s ease-out;
+}
+
+.inner-sidebar.popup-mobile-menu.active {
+  visibility: visible !important;
+}
+
+.inner-sidebar.popup-mobile-menu .inner-wrapper {
+  right: -150px;
+  left: auto;
+  width: 400px;
+}
+
+.inner-sidebar.popup-mobile-menu.active .inner-wrapper {
+  right: 0;
+  left: auto;
+}
+
+.inner-sidebar .mainmenu li {
+  list-style-type: none;
+}
+
+.inner-sidebar.popup-mobile-menu .inner-wrapper .inner-top {
+  border-bottom: none;
+}
+
+.inner-sidebar .inner-wrapper::-webkit-scrollbar {
+  width: 10px;
+}
+
+.mainmenu-nav{
+  padding: 7px 0 !important;
+}
+
+.mainmenu .mobile-menu-bar .hamberger {
+  width: fit-content;
+    padding: 8px 16px !important;
+    border-radius: 25px !important;
+    background: #b3d3e9;
+    height: fit-content;
+}
+
+.mainmenu .mobile-menu-bar:hover .hamberger {
+  background: #00243d !important;
+}
+
+.mainmenu .mobile-menu-bar .hamberger::after {
+  width: fit-content;
+}
+
+.mainmenu .mobile-menu-bar .hamberger i {
+  font-size: 18px;
+}
+
+.mainmenu .mobile-menu-bar .hamberger i {
+  font-size: 18px;
+}
+
+.mainmenu .mobile-menu-bar:hover .hamberger i {
+  color: #fff;
+}
+
 
 @media (max-width: 767px) {
   .rbt-header .logo a img {
@@ -2052,7 +2139,7 @@
   border-radius: 20px;
   object-fit: cover;
 }
-.rbt-btn-link{
+.rbt-btn-link {
   font-size: 16px;
 }
 
@@ -2064,7 +2151,6 @@
     flex: auto;
   }
 }
-
 
 .team-grid {
   display: grid;

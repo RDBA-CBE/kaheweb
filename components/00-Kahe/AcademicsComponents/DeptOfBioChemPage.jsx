@@ -1,3 +1,5 @@
+"use client";
+
 import BreadCrumb from "@/components/00-Kahe/common-components/BreadCrumb";
 // import MenuData from "@/data/kahe/MegaMenu.json";
 // import BreadcrumbImage from "../../../../../public/images/Kahe/breadcrumb/banner-inner1.jpg";
@@ -8,11 +10,11 @@ import data from "../../../JSON/ACADEMIC/Arts/dept_of_biochemistry.json";
 import InnerBanner from "@/components/00-Kahe/common-components/InnerBanner";
 import Sidebar from "../common-components/Sidebar";
 import { base } from "@/utils/constant.util";
+import SidebarCopy from "../common-components/SidebarCopy";
+import { Provider } from "react-redux";
+import Context from "@/context/Context";
+import Store from "@/redux/store";
 
-export const metadata = {
-  title: "About Us 01 - Online Courses & Education NEXTJS14 Template",
-  description: "Online Courses & Education NEXTJS14 Template",
-};
 console.log("data", data);
 
 const DeptOfBioChemPage = () => {
@@ -25,22 +27,25 @@ const DeptOfBioChemPage = () => {
 
     { label: "Department of Biochemistry" },
   ];
+
   return (
     <>
-      <InnerBanner data={data} />
-      <BreadCrumb items={breadcrumbItems} />
+      <Provider store={Store}>
+        <Context>
+          <InnerBanner data={data} />
+          <BreadCrumb items={breadcrumbItems} />
 
-      <main className="section-wid d-flex gap-4 py-5">
-        <div className="rbt-course-details-area w-100">
-          <div className="row g-5">
-            <div className="col-lg-9">
-              <TabInnerSection
-                tabSections={data.tabs}
-                tabContent={data.tabContent}
-              />
-            </div>
+          <main className="section-wid d-flex gap-4 py-5">
+            <div className="rbt-course-details-area w-100">
+              <div className="row g-5">
+                <div className="col-lg-12">
+                  <TabInnerSection
+                    tabSections={data.tabs}
+                    tabContent={data.tabContent}
+                  />
+                </div>
 
-            <div className="col-lg-3 px-0 d-none d-lg-block">
+                {/* <div className="col-lg-3 px-0 d-none d-lg-block">
               <div className="course-sidebar sticky-top rbt-shadow-box rbt-gradient-border ">
                 <div className="inner">
                   <div className="content-item-content">
@@ -48,10 +53,14 @@ const DeptOfBioChemPage = () => {
                   </div>
                 </div>
               </div>
+            </div> */}
+              </div>
             </div>
-          </div>
-        </div>
-      </main>
+          </main>
+
+          <SidebarCopy subMenu={subMenu} />
+        </Context>
+      </Provider>
     </>
   );
 };

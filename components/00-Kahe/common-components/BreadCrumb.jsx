@@ -3,27 +3,27 @@
 import { base } from "@/utils/constant.util";
 import Link from "next/link";
 import { FaChevronRight } from "react-icons/fa";
+// import { useAppContext } from "@/context/Context";
 
 const Breadcrumb = ({ items = [], showHome = true }) => {
+  // const { sidebar, setSidebar } = useAppContext();
+
   // Default Home item
   const homeItem = { label: "Home", href: "/" };
 
   // Merge Home + passed items (avoid duplicate Home)
   const finalItems =
-    showHome && items[0]?.label !== "Home"
-      ? [homeItem, ...items]
-      : items;
+    showHome && items[0]?.label !== "Home" ? [homeItem, ...items] : items;
 
   if (!finalItems.length) return null;
 
   return (
     <nav
       aria-label="Breadcrumb"
-      className="w-100 overflow-auto"
-      style={{ padding: "20px 30px" }}
+      className="section-wid py-3 px-0 kahe-breadcrumb"
     >
       <ol
-        className="d-inline-flex align-items-center mb-0"
+        className="d-flex flex-wrap  align-items-center mb-0 ps-0"
         style={{ whiteSpace: "nowrap" }}
       >
         {finalItems.map((item, index) => {
@@ -32,19 +32,19 @@ const Breadcrumb = ({ items = [], showHome = true }) => {
           return (
             <li
               key={`${item.label}-${index}`}
-              className="d-inline-flex align-items-center"
+              className="d-flex align-items-center py-0 my-0 mt-2"
             >
               {!isLast && item.href ? (
                 <Link
-                href={item.label !== "Home"?`${base}/${item.href}`:item.href}
+                  href={
+                    item.label !== "Home" ? `${base}/${item.href}` : item.href
+                  }
                   className="fw-medium text-decoration-none text-secondary"
                 >
                   {item.label}
                 </Link>
               ) : (
-                <span className="fw-semibold text-success">
-                  {item.label}
-                </span>
+                <span className="fw-semibold text-success">{item.label}</span>
               )}
 
               {!isLast && (
@@ -54,6 +54,17 @@ const Breadcrumb = ({ items = [], showHome = true }) => {
           );
         })}
       </ol>
+
+      {/* <div className="mobile-menu-bar">
+        <div className="hamberger">
+          <button
+            className="hamberger-button rbt-round-btn"
+            onClick={() => setSidebar(!sidebar)}
+          >
+            <i className="feather-menu"></i>
+          </button>
+        </div>
+      </div> */}
     </nav>
   );
 };

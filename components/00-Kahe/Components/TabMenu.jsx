@@ -1,12 +1,13 @@
 "use client";
 
+import { useAppContext } from "@/context/Context";
 import { useState, useEffect } from "react";
 import { Link as ScrollLink } from "react-scroll";
 
 const TabMenu = ({ sections }) => {
   const [currentSection, setCurrentSection] = useState(sections?.[0]?.id);
   const [isScrolled, setIsScrolled] = useState(false);
-
+  const { sidebar, setSidebar } = useAppContext();
   useEffect(() => {
     const sectionIds = sections.map((sec) => sec.id);
 
@@ -30,9 +31,7 @@ const TabMenu = ({ sections }) => {
   }, [sections]);
 
   return (
-    <nav
-      className={`mainmenu-nav onepagenav ${isScrolled ? "scrolled" : ""}`}
-    >
+    <nav className={`mainmenu-nav onepagenav ${isScrolled ? "scrolled" : ""}`}>
       <ul className="mainmenu">
         {sections?.map((sec, i) => (
           <li className={currentSection === sec.id ? "current" : ""} key={i}>
@@ -48,6 +47,16 @@ const TabMenu = ({ sections }) => {
             </ScrollLink>
           </li>
         ))}
+
+        <span className="mobile-menu-bar d-none d-lg-block">
+          <div
+            href="#"
+            className="hamberger"
+            onClick={() => setSidebar(!sidebar)}
+          >
+            <i className="feather-menu"></i>
+          </div>
+        </span>
       </ul>
     </nav>
   );

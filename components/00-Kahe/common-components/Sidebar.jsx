@@ -81,6 +81,8 @@ const Sidebar = ({ checkMatchCourses, subMenu }) => {
           </div> */}
         </div>
       </div>
+
+      
     </>
   );
 };

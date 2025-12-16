@@ -21,6 +21,7 @@ const Context = ({ children }) => {
   const [pricingThree, setPricingThree] = useState(true);
   const [pricingFour, setPricingFour] = useState(true);
   const [isLightTheme, setLightTheme] = useState(true);
+  const [sidebar , setSidebar] = useState(false)
 
   useEffect(() => {
     dispatch({ type: "COUNT_CART_TOTALS" });
@@ -72,6 +73,8 @@ const Context = ({ children }) => {
         isLightTheme,
         setLightTheme,
         toggleTheme,
+        sidebar,
+        setSidebar,
       }}
     >
       {children}
