@@ -27,7 +27,7 @@ export default function Publications({publicationsContent}) {
 
           <div className="section-title">
             <h2
-              className="main-ti"
+              className="decor-ti"
              
             >{FirstLetterUp(publicationsContent.subtitle)}</h2>
           </div>

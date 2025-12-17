@@ -9,6 +9,7 @@ import Infrastructure from "./tabContentComponents/Infrastructure";
 import Publications from "./tabContentComponents/Publications";
 import Programmes from "./tabContentComponents/Programmes";
 import ProgrammesMbl from "./tabContentComponents/ProgrammesMbl";
+import Gal_Pub_Event from "./tabContentComponents/Gal_Pub_Event";
 
 const TabInnerSection = ({ tabSections, tabContent }) => {
   const tabItems = tabContent;
@@ -28,6 +29,10 @@ const TabInnerSection = ({ tabSections, tabContent }) => {
   );
   const eventsContent = tabContent.find((item) => item.tab == "Events");
 
+  const InfraGallery = infrastructureContent.items?.find(
+    (item) => item.type == "gallery"
+  );
+
   return (
     <>
       <div className="course-details-content tab-in ">
@@ -42,13 +47,13 @@ const TabInnerSection = ({ tabSections, tabContent }) => {
             className="rbt-course-feature-box details-wrapper section-bg1"
             id="programme"
           >
-            <div className="row g-5 ">
-              {/* <Publications programmeContent={programmeContent} /> */}
+            <div className="row mx-0 px-0 ">
               <Programmes programmeContent={programmeContent} />
               <ProgrammesMbl programmeContent={programmeContent} />
             </div>
           </div>
         )}
+
         {facultyContent && (
           <div
             className="section-wid rbt-instructor  intructor-wrapper section-bg1"
@@ -60,14 +65,24 @@ const TabInnerSection = ({ tabSections, tabContent }) => {
 
         {infrastructureContent && (
           <div
-            className=" rbt-review-wrapper review-wrapper section-bg2"
+            className=" rbt-review-wrapper review-wrapper section-bg3"
             id="infrastructure"
           >
             <Infrastructure infrastructureContent={infrastructureContent} />
           </div>
         )}
+        <div
+          className="section-bg1  course-content  coursecontent-wrapper"
+          id="events"
+          style={{padding:"80px 0"}}
+        >
+          <Gal_Pub_Event
+           InfraGallery={InfraGallery}
+           publicationsContent={publicationsContent}
+           eventsContent={eventsContent}/>
+        </div>
 
-        {publicationsContent && (
+        {/* {publicationsContent && (
           <div
             className="section-wid rbt-review-wrapper review-wrapper section-bg1"
             id="publications"
@@ -83,7 +98,7 @@ const TabInnerSection = ({ tabSections, tabContent }) => {
           >
             <Events eventsContent={eventsContent} />
           </div>
-        )}
+        )} */}
       </div>
     </>
   );

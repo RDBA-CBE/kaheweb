@@ -35,10 +35,10 @@ const DeptOfBioChemPage = () => {
           <InnerBanner data={data} />
           <BreadCrumb items={breadcrumbItems} />
 
-          <main className="d-flex gap-4 py-5">
+          <main className="d-flex pt-5 px-0 mx-0">
             <div className="rbt-course-details-area w-100">
-              <div className="row g-5">
-                <div className="col-lg-12">
+              <div className="row mx-0 px-0">
+                <div className="col-lg-12 px-0">
                   <TabInnerSection
                     tabSections={data.tabs}
                     tabContent={data.tabContent}
@@ -46,14 +46,14 @@ const DeptOfBioChemPage = () => {
                 </div>
 
                 {/* <div className="col-lg-3 px-0 d-none d-lg-block">
-              <div className="course-sidebar sticky-top rbt-shadow-box rbt-gradient-border ">
-                <div className="inner">
-                  <div className="content-item-content">
-                    <Sidebar subMenu={subMenu} />
+                  <div className="course-sidebar sticky-top rbt-shadow-box rbt-gradient-border ">
+                    <div className="inner">
+                      <div className="content-item-content">
+                        <Sidebar subMenu={subMenu} />
+                      </div>
+                    </div>
                   </div>
-                </div>
-              </div>
-            </div> */}
+                </div> */}
               </div>
             </div>
           </main>

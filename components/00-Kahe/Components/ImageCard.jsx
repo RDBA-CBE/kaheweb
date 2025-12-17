@@ -12,7 +12,7 @@ const ImageCard = ({ visionItem, missionItem }) => {
               <img src={visionItem.src} alt={visionItem.subTitle} />
             </div>
             <h3
-              className="vm-title vision-title"
+              className="main-ti vision-title"
               dangerouslySetInnerHTML={{
                 __html: FirstLetterUp(visionItem.subTitle),
               }}
@@ -39,7 +39,7 @@ const ImageCard = ({ visionItem, missionItem }) => {
               <img src={missionItem.src} alt={missionItem.subTitle} />
             </div>
             <h3
-              className="vm-title mission-title"
+              className="main-ti mission-title"
               dangerouslySetInnerHTML={{
                 __html: FirstLetterUp(missionItem.subTitle),
               }}

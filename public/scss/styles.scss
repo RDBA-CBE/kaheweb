@@ -250,11 +250,15 @@
   background: #e6e4e4;
 }
 
-.bg-lblue{
+.bg-lblue {
   background: #b3d3e9;
 }
 
-.bg-lred{
+.bg-lblue-1 {
+  background: #073282a6;
+}
+
+.bg-lred {
   background: #eee3c5;
 }
 
@@ -273,6 +277,11 @@
 
 .section-bg2 {
   background: #f2fff9;
+  padding: 40px 0;
+}
+
+.section-bg3 {
+  background: #f2f5f9;
   padding: 40px 0;
 }
 
@@ -591,7 +600,7 @@
 
 .lab-container {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   gap: 30px;
   padding: 40px 10px;
   text-align: center;
@@ -612,7 +621,7 @@
 
 .lab-item img {
   width: 100%;
-  height: 150px;
+  height: 200px;
   object-fit: cover;
   border-radius: 5px 5px 0 0;
 }
@@ -696,11 +705,9 @@
   justify-content: flex-end;
 }
 
-.innerSubBanner .uw-banner-overlay{
-   width: 100%;
+.innerSubBanner .uw-banner-overlay {
+  width: 100%;
 }
-
-
 
 .uw-banner-content {
   padding: 40px;
@@ -712,10 +719,9 @@
   align-items: center;
 }
 
-.innerSubBanner .uw-banner-content{
-   width: 100%;
+.innerSubBanner .uw-banner-content {
+  width: 100%;
 }
-
 
 .uw-banner-header {
   display: flex;
@@ -909,6 +915,7 @@
   display: grid;
   grid-template-columns: 65% 35%;
   width: 100%;
+  padding: 0;
 }
 
 .kahe-transfer-left {
@@ -975,18 +982,17 @@
 
   font-size: 20px;
   line-height: 80%;
-  letter-spacing: 2px;
 }
 
 .kahe-transfer-yellow::before {
   content: "";
   width: 0px;
   height: 60%;
-  border-top: 40px solid transparent;
+  border-top: 45.9px solid transparent;
   border-bottom: 40.7px solid transparent;
-  border-right: 50px solid #153b1c;
+  border-right: 49px solid #153b1c;
   position: absolute;
-  left: -49px;
+  left: -48px;
 }
 
 .kahe-transfer-link-box {
@@ -1018,7 +1024,7 @@
 }
 
 .main-ti {
-  font-size: 22px;
+  font-size: 25px;
   font-weight: 500;
   // text-transform: lowercase;
 }
@@ -1042,9 +1048,10 @@
 .decor-ti {
   font-size: 30px;
   font-weight: 500;
-  margin-bottom: 20px;
+  margin-bottom: 30px;
   color: #000;
   position: relative;
+  width: fit-content;
   // text-transform: lowercase;
   // display: inline-block;
 }
@@ -1055,7 +1062,7 @@
 
 .decor-ti::after {
   content: "";
-  width: 15%;
+  width: 40%;
   height: 2px;
   background: #153b1c;
   display: block;
@@ -1074,13 +1081,13 @@
 
 .tab-in .main-ti {
   color: #153b1c;
-  font-weight: 600;
+  font-weight: 500;
 }
 
 .main-sub-ti {
-  font-size: 18px;
+  font-size: 20px;
   font-weight: 500;
-  margin-bottom: 15px;
+  margin-bottom: 30px;
   color: #000;
   // text-transform: lowercase;
   display: inline-block;
@@ -1137,7 +1144,7 @@
 
 .dept-card {
   position: relative;
-  border: 1px solid #e1e6ef;
+  border: 1px solid #00243d;
   padding: 10px 30px;
   border-radius: 6px;
   cursor: pointer;
@@ -1168,9 +1175,21 @@
   left: 0;
   width: 100%;
   height: 100%;
-  background: rgba(7, 50, 130, 0.65);
+  background: #073282a6;
   opacity: 0;
   transition: 0.4s ease;
+}
+
+.lab .dept-card {
+  border: none;
+}
+
+.lab .dept-card::after {
+  background: #123f04a6;
+}
+
+.equip .dept-card {
+  border: none;
 }
 
 .dept-card:hover::before,
@@ -1202,10 +1221,90 @@
   transition: 0.4s ease;
 }
 
+.lab .dept-title {
+  color: #fff;
+}
+
+.lab .dept-icon {
+  color: #fff;
+}
+
+.lib .dept-wrapper {
+  gap: 8px;
+  grid-template-columns: auto;
+}
+
+.lib .dept-card {
+  border: none;
+  width: fit-content;
+  border-radius: 0;
+  padding: 10px 10px;
+}
+
+.lib .dept-title {
+  color: #fff;
+  flex: none;
+}
+
+.lib .dept-icon {
+  color: #fff;
+  height: 22px;
+  margin-bottom: 0;
+  width: 140px;
+}
+
 .dept-card:hover .dept-title,
 .dept-card:hover .dept-icon {
   filter: brightness(0) invert(1);
   color: #fff;
+}
+
+.simple-counter-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.simple-counter-card {
+  min-width: 200px;
+  /* background: #f8fafc; */
+  border-radius: 12px;
+  border-radius: 12px;
+  display: flex;
+  gap: 8px;
+}
+
+.simple-counter-number {
+  font-size: 75px;
+  font-weight: 500;
+  color: #153b1c;
+  margin-bottom: 0px;
+  line-height: 0.9;
+}
+
+.simple-counter-grid .dept-icon {
+  width: 30px;
+  margin-bottom: 0;
+}
+
+.simple-counter-title {
+  font-size: 18px;
+  margin-bottom: 12px;
+  font-weight: 500;
+}
+
+@media (max-width: 768px) {
+  .dept-wrapper {
+    grid-template-columns: repeat(auto-fit, 49%);
+    // justify-content: space-between;
+    grid-gap: 14px;
+  }
+}
+
+@media (max-width: 600px) {
+  .dept-wrapper {
+    grid-template-columns: repeat(auto-fit, 100%);
+  }
 }
 
 .infra-gallery-wrapper {
@@ -1322,6 +1421,10 @@
 
 .events-pg {
   min-height: 500px;
+}
+
+.gal-pg {
+  min-height: 600px;
 }
 
 .events-pg .rbt-accordion-style .card .card-header button.collapsed {
@@ -1521,7 +1624,7 @@
 }
 
 .kahe-curriculum-slide-item:hover {
-  background: #ffe9a6;
+  background: #b3d3e9;
 }
 
 .overview-main-wrapper {
@@ -1538,13 +1641,17 @@
 .overview-left {
   flex: 1;
   padding: 20px 25px;
-  padding-left: 40px;
-  text-align: center;
+  padding-left: 8%;
+  text-align: start;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
 }
+
+// .overview-left .overview-left-in{
+//   padding-left: 10%;
+// }
 
 .overview-right {
   flex: 1.5;
@@ -1558,7 +1665,17 @@
 }
 
 /* For mobile */
-@media (max-width: 991px) {
+
+@media (max-width: 1320px) {
+  .overview-left {
+    padding-left: 25px;
+  }
+}
+@media (max-width: 1220px) {
+  .overview-left {
+    padding: 20px 5%;
+    text-align: start;
+  }
   .overview-flex {
     flex-direction: column;
   }
@@ -1583,7 +1700,7 @@
   background: #ffffff;
   border-radius: 24px;
   padding: 50px 35px;
-  width: 420px;
+  width: 600px;
   text-align: center;
   box-shadow: 0 20px 40px rgba(0, 0, 0, 0.15);
 }
@@ -1640,14 +1757,40 @@
 }
 
 /* RESPONSIVE */
-@media (max-width: 768px) {
+
+@media (max-width: 1380px) {
+  .vm-card {
+    width: 500px;
+  }
+}
+
+@media (max-width: 1100px) {
+  .vm-card {
+    width: 450px;
+  }
+}
+
+@media (max-width: 1025px) {
+  .vm-card {
+    width: 400px;
+  }
+}
+
+@media (max-width: 920px) {
+  .vm-card {
+    width: 380px;
+  }
+}
+
+@media (max-width: 870px) {
+  .vm-card {
+    width: 340px;
+  }
+}
+
+@media (max-width: 850px) {
   .vm-card {
     width: 100%;
-    max-width: 420px;
-  }
-
-  .vm-section {
-    padding: 60px 15px;
   }
 }
 

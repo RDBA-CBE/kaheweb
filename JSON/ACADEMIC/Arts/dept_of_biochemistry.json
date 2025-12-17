@@ -302,7 +302,7 @@
         },
         {
           "type": "gallery",
-
+          "slug": "department-of-biochemistry",
           "images": [
             {
               "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/Ultra-Violet-Visible-Spectrometer-150x150.png",
@@ -375,6 +375,7 @@
     },
     {
       "tab": "Publications",
+      "slug": "department-of-biochemistry",
       "title": "Best Five Papers Faculty wise:",
       "subtitle": "Paper publications by the Faculty Members",
       "content": [

@@ -2,7 +2,7 @@
   "title": "Department of Biotechnology",
   "bannerCon": "The University of Wyoming welcomes students to experience a one-of-a-kind education in the heart of the Mountain West. With our dedication to academic excellence and student-focused education, UW provides an environment thrive both academically and personally. Admission to the University of Wyoming is just the first step to achieving your dreams.",
   "applyLink": "#",
-  "bannerImg": "/images/Kahe/innerbanner.jpg",
+  "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
   "tabs": [
     {
       "id": "overview",
@@ -280,8 +280,17 @@
       "items": [
         {
           "type": "infrastructure",
-
-          "content": ["Staff room – 05", "Class room – 08"]
+          "title": "Department Infrastructure",
+          "content": [
+            {
+              "title": "Staff room",
+              "count": "05"
+            },
+            {
+              "title": "Class room",
+              "count": "08"
+            }
+          ]
         },
         {
           "type": "laboratories",
@@ -337,7 +346,7 @@
         },
         {
           "type": "gallery",
-
+          "slug": "department-of-biotechnology",
           "images": [
             {
               "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/SCIENCE-ACADEMIES-14-3-150x150.png",
@@ -369,6 +378,7 @@
     },
     {
       "tab": "Publications",
+      "slug": "department-of-biotechnology",
       "title": "Best Five Papers Faculty wise:",
       "subtitle": "Paper Publications by the Faculty Members",
       "content": [

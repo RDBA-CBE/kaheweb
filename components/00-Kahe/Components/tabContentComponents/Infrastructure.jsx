@@ -45,18 +45,17 @@ const Infrastructure = ({ infrastructureContent }) => {
     ? equipementItem?.content
     : equipementItem?.content.slice(0, 8);
 
-
   return (
-    <div
-      className={`section-wid rbt-dashboard-content infra `}
-    >
+    <div className={`section-wid rbt-dashboard-content infra `}>
       <div className="content has-show-more-inner-content">
         <div className="row">
           <div className="col-lg-12">
             <div className="section-title">
               <h2
-                className="main-ti"
-                dangerouslySetInnerHTML={{ __html: FirstLetterUp(infrastructureContent.tab) }}
+                className="decor-ti"
+                dangerouslySetInnerHTML={{
+                  __html: FirstLetterUp(infrastructureContent.tab),
+                }}
               ></h2>
             </div>
           </div>
@@ -68,28 +67,47 @@ const Infrastructure = ({ infrastructureContent }) => {
                 {infraCon.title && (
                   <h3
                     className="main-sub-ti"
-                    dangerouslySetInnerHTML={{ __html: FirstLetterUp(infraCon.title) }}
+                    dangerouslySetInnerHTML={{
+                      __html: FirstLetterUp(infraCon.title),
+                    }}
                   ></h3>
                 )}
 
-                <div className="dept-wrapper mt-0">
+                <div className="simple-counter-grid">
                   {infraCon?.content?.map((item, i) => (
-                    <div key={i} className="dept-card">
-                      <div className="dept-inner">
-                        <p className="dept-title">{item}</p>
+                    <div key={i} className="simple-counter-card">
+                      <p className="simple-counter-number">{item?.count}</p>
+                      <div>
+                        <StudentsIcon className="dept-icon" />
+                        <p className="simple-counter-title">{item?.title}</p>
+                      
+                      </div>
+                      
+                    </div>
+                  ))}
+                </div>
+
+                {/* <div className=" mt-0">
+                  {infraCon?.content?.map((item, i) => (
+                    <div key={i} className="">
+                      <div className="">
+                        <p className="">{item?.count}</p>
+                        <p className="">{item?.title}</p>
                         <StudentsIcon className="dept-icon" />
                       </div>
                     </div>
                   ))}
-                </div>
+                </div> */}
               </div>
             )}
 
             {labItem && (
-              <div className="row g-5 mb--30">
+              <div className="lab row g-5 mb--30 mt-5">
                 <h3
                   className="main-sub-ti"
-                  dangerouslySetInnerHTML={{ __html: FirstLetterUp(labItem.title) }}
+                  dangerouslySetInnerHTML={{
+                    __html: FirstLetterUp(labItem.title),
+                  }}
                 ></h3>
 
                 {/* <div className="col-lg-12 mt-0">
@@ -105,9 +123,9 @@ const Infrastructure = ({ infrastructureContent }) => {
 
                 <div className="dept-wrapper mt-0 ">
                   {labItem?.content?.map((item, i) => (
-                    <div key={i} className="dept-card bg-lblue">
+                    <div key={i} className="dept-card bg-lblue-1">
                       <div className="dept-inner">
-                        <BuildingIcon className="dept-icon" />
+                        <BuildingIcon className="dept-icon" color={"#fff"} />
                         <p className="dept-title">{item}</p>
                       </div>
                     </div>
@@ -117,17 +135,19 @@ const Infrastructure = ({ infrastructureContent }) => {
             )}
 
             {equipementItem && (
-              <div className="rbt-dashboard-table table-responsive mb--30">
+              <div className="equip rbt-dashboard-table table-responsive mb--30 pt-5">
                 <h3
                   className="main-sub-ti"
-                  dangerouslySetInnerHTML={{ __html: FirstLetterUp(equipementItem?.title) }}
+                  dangerouslySetInnerHTML={{
+                    __html: FirstLetterUp(equipementItem?.title),
+                  }}
                 ></h3>
 
                 <div className="dept-wrapper">
                   {equipementItem?.content?.map((item, i) => (
                     <div
                       key={i}
-                      className="dept-card"
+                      className="dept-card bg-white"
                       style={{
                         "--bgImg": `url(/images/Kahe/Innerpages/infra-1.jpg)`,
                       }}
@@ -143,20 +163,22 @@ const Infrastructure = ({ infrastructureContent }) => {
             )}
 
             {library && (
-              <div className="row mb--30">
+              <div className="lib row mb--30 pt-5">
                 {library.title && (
                   <h3
                     className="main-sub-ti"
-                    dangerouslySetInnerHTML={{ __html: FirstLetterUp(library.title) }}
+                    dangerouslySetInnerHTML={{
+                      __html: FirstLetterUp(library.title),
+                    }}
                   ></h3>
                 )}
 
                 <div className="dept-wrapper mt-0">
                   {library?.content?.map((item, i) => (
-                    <div key={i} className="dept-card">
+                    <div key={i} className="dept-card bg-lblue-1">
                       <div className="dept-inner">
+                        <BooksIcon className="dept-icon" color={"#fff"} />
                         <p className="dept-title">{item}</p>
-                        <BooksIcon className="dept-icon" />
                       </div>
                     </div>
                   ))}
@@ -164,7 +186,7 @@ const Infrastructure = ({ infrastructureContent }) => {
               </div>
             )}
 
-            {gallery && (
+            {/* {gallery && (
               <div className="lab-container parent-gallery-container">
                 {gallery.images.slice(0, 5).map((item, i) => (
                   <Link
@@ -217,7 +239,7 @@ const Infrastructure = ({ infrastructureContent }) => {
                   </Link>
                 ))}
               </div>
-            )}
+            )} */}
           </div>
         </div>
       </div>

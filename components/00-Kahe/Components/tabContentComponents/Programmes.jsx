@@ -105,7 +105,7 @@ const Programmes = ({ programmeContent }) => {
 
       {/* RIGHT SIDE LISTING */}
       <div className="kahe-transfer-right">
-        <h2 className="kahe-transfer-yellow main-ti">Student Programmes</h2>
+        <h2 className="kahe-transfer-yellow w-decor-ti">Student Programmes</h2>
 
         <div className="kahe-transfer-link-box">
           <h3 className="main-sub-ti">{FirstLetterUp(programmeContent.programmes.title)}</h3>

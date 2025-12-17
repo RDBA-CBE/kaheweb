@@ -18,7 +18,7 @@ const Faculty = ({ facultyContent }) => {
           <div className="col-lg-12">
             <div className="section-title">
               <h2
-                className="main-ti "
+                className="decor-ti "
                 dangerouslySetInnerHTML={{ __html: FirstLetterUp(facultyContent.tab) }}
               ></h2>
             </div>

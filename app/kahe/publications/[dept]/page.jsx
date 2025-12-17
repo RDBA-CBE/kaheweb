@@ -1,35 +1,34 @@
 "use client";
 import InnerSubBanner from "@/components/00-Kahe/common-components/InnerSubBanner";
-import Eventspage from "@/components/00-Kahe/DirectPageComponent/Eventspage";
+import PublicationPage from "@/components/00-Kahe/DirectPageComponent/PublicationPage";
 import { FirstLetterUp } from "@/utils/functions.utils";
 import Link from "next/link";
 import { useEffect, useState } from "react";
 
 const Page = () => {
-  const [eventsContent, setEventsContent] = useState(null);
+  const [content, setContent] = useState(null);
 
   useEffect(() => {
-    const data = sessionStorage.getItem("eventsData");
+    const data = sessionStorage.getItem("publicationsData");
     if (data) {
-      setEventsContent(JSON.parse(data));
+      setContent(JSON.parse(data));
     }
   }, []);
 
-  if (!eventsContent) return <div>Loading...</div>;
+  if (!content) return <div>Loading...</div>;
 
-  console.log("eventsContent",eventsContent);
-  
+  console.log("Content", content);
 
   const bannerCon = {
     bannerImg: "/images/Kahe/breadcrumb/banner-inner1.jpg",
-    title: "Events",
+    title: "Publications",
   };
 
   return (
     <>
       <InnerSubBanner data={bannerCon} />
-      <Eventspage eventsContent={eventsContent}/>
-     
+      <PublicationPage publicationsContent={content}/>
+    
     </>
   );
 };

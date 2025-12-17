@@ -66,22 +66,23 @@ const Overview = ({ overviewContent }) => {
   const remaining = paragraphs.slice(sliceCount);
 
   return (
-    <div className="overview-main-wrapper section-bg1" id="overview">
-      <div className="overview-flex">
+    <div className="overview-main-wrapper" id="overview">
+      <div className="overview-flex section-bg1">
         <div className="overview-left">
-          <div className="section-title">
-            <h2
-              className="main-ti"
-              dangerouslySetInnerHTML={{
-                __html: FirstLetterUp(overviewItem.subTitle),
-              }}
-            ></h2>
-          </div>
-          {firstPart.map((text, index) => (
-            <p key={index} dangerouslySetInnerHTML={{ __html: text }}></p>
-          ))}
+          <div className="overview-left-in">
+          
+              <h2
+                className="decor-ti"
+                dangerouslySetInnerHTML={{
+                  __html: FirstLetterUp(overviewItem.subTitle),
+                }}
+              ></h2>
+           
+            {firstPart.map((text, index) => (
+              <p key={index} dangerouslySetInnerHTML={{ __html: text }}></p>
+            ))}
 
-          {/* <button className="kahe-btn-primary rbt-btn hover-icon-reverse mt-4" >
+            {/* <button className="kahe-btn-primary rbt-btn hover-icon-reverse mt-4" >
 
               <span className="icon-reverse-wrapper">
                 <span className="btn-text">Apply Now</span>
@@ -94,30 +95,27 @@ const Overview = ({ overviewContent }) => {
               </span>
              
             </button> */}
+          </div>
         </div>
 
-        <div className="overview-right d-none d-xl-block ">
+        <div className="overview-right">
           <img src={overviewItem.image} alt="overview image" />
         </div>
       </div>
 
-
-      <div className="section-bg2 " style={{margin:"60px 0"}}>
-        <div className="section-wid " >
-        {remaining.map((text, index) => (
-          <p key={index} dangerouslySetInnerHTML={{ __html: text }}></p>
-        ))}
+      <div className="section-bg2 " style={{ margin: "40px 0" }}>
+        <div className="section-wid ">
+          {remaining.map((text, index) => (
+            <p key={index} dangerouslySetInnerHTML={{ __html: text }}></p>
+          ))}
+        </div>
       </div>
-      </div>
 
+      {(visionItem || missionItem) && (
+        <div className="section-wid section-bg1">
+          <ImageCard visionItem={visionItem} missionItem={missionItem} />
 
-
-      
-
-      <div className="section-wid section-bg1 py-0">
-        <ImageCard visionItem={visionItem} missionItem={missionItem}/>
-        
-        {/* {visionItem && (
+          {/* {visionItem && (
           <div className="mt-4">
             <div className="section-title">
               <h3
@@ -158,7 +156,8 @@ const Overview = ({ overviewContent }) => {
             </ul>
           </div>
         )} */}
-      </div>
+        </div>
+      )}
 
       {/* remaining paragraphs below image */}
     </div>
