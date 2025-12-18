@@ -12,8 +12,8 @@ export const metadata = {
 };
 
 
-const President = () => {
-    const BoardOfTrustees = data?.president;
+const Ceo = () => {
+    const BoardOfTrustees = data?.ceo;
 
     console.log("BoardOfTrustees", BoardOfTrustees);
     
@@ -23,9 +23,9 @@ const President = () => {
       <InnerBanner data={BoardOfTrustees?.bannerCon} />
       {/* <AccordianSidebar subMenu={Administration}/> */}
 
-      <main className="section-wid d-flex section-bg1 ">
+      <main className="section-wid d-flex gap-4 section-bg1">
         <div className="rbt-course-details-area w-100">
-          <div className="row g-5">
+          <div className="row">
             <div className="col-lg-9">
 
               <ImageLink data={BoardOfTrustees}/>
@@ -48,4 +48,4 @@ const President = () => {
   );
 };
 
-export default President;
+export default Ceo;

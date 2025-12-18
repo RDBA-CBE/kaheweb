@@ -15,9 +15,9 @@ const NscCells = () => {
     <>
       <InnerBanner data={commiteeData?.bannerCon} />
 
-      <main className="section-wid d-flex gap-4 py-5">
+      <main className="section-wid d-flex gap-4 section-bg1 sta-commitee">
         <div className="rbt-course-details-area w-100">
-          <div className="row g-5">
+          <div className="row">
             <div className="col-lg-9">
 
                 <div>
@@ -29,8 +29,8 @@ const NscCells = () => {
               <ListStyle data={commiteeData} />
             </div>
 
-            <div className="col-lg-3 px-0 d-none d-lg-block">
-              <div className="course-sidebar sticky-top rbt-shadow-box rbt-gradient-border ">
+            <div className="col-lg-3 px-0 d-none d-lg-block sidebar-pg">
+              <div className="course-sidebar sticky-top">
                 <div className="inner">
                   <div className="content-item-content">
                     <Sidebar subMenu={NonStatutoryCommitee} />

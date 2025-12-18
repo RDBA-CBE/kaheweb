@@ -1,89 +1,118 @@
 "use client";
 
 import React, { useState, useEffect } from "react";
-import Image from "next/image";
 import Link from "next/link";
+import { usePathname } from "next/navigation";
 
-import "venobox/dist/venobox.min.css";
+const Sidebar = ({ subMenu }) => {
+  const pathname = usePathname();
+  const [openIndex, setOpenIndex] = useState(null);
 
-const Sidebar = ({ checkMatchCourses, subMenu }) => {
-  const [toggle, setToggle] = useState(false);
-  const [hideOnScroll, setHideOnScroll] = useState(false);
+  const normalize = (path = "") => path.replace(/\/+$/, "");
+  const currentPath = normalize(pathname);
 
-  // =====> For video PopUp
+  const isActive = (link = "") =>
+    currentPath === normalize(`/kahe${link}`);
+
+  const toggleAccordion = (index) => {
+    setOpenIndex(openIndex === index ? null : index);
+  };
+
+  /* ✅ AUTO OPEN ACCORDION IF SUBMENU IS ACTIVE */
   useEffect(() => {
-    const handleScroll = () => {
-      const currentScrollPos = window.pageYOffset;
-      const isHide = currentScrollPos > 200;
-
-      setHideOnScroll(isHide);
-    };
-
-    window.addEventListener("scroll", handleScroll);
-
-    return () => {
-      window.removeEventListener("scroll", handleScroll);
-    };
-  }, []);
-
-  console.log("subMenu");
+    subMenu?.content?.forEach((item, index) => {
+      if (item.items?.some((sub) => isActive(sub.link))) {
+        setOpenIndex(index);
+      }
+    });
+  }, [currentPath, subMenu]);
 
   return (
-    <>
-      <div className="content-item-content in-sidebar ">
-        <div
-          className={`rbt-widget-details has-show-more ${
-            toggle ? "active" : ""
-          }`}
-        >
-          <ul className="has-show-more-inner-content rbt-course-details-list-wrapper">
-            {subMenu?.content?.map((item, innerIndex) => (
-              <li key={innerIndex} className="mb-2 d-flex flex-column">
-                <span>
-                  <Link href={`/kahe/${item.link}` || "#"}>
-                    {item.category || item.name}
-                  </Link>
-                </span>
+    <div className="content-item-content in-sidebar">
+      <div className="rbt-widget-details has-show-more">
+        <ul className="has-show-more-inner-content rbt-course-details-list-wrapper">
+          {subMenu?.content?.map((item, index) => {
+            const hasSubmenu = item.items && item.items.length > 0;
+            const isOpen = openIndex === index;
 
-                {item.items && item.items.length > 0 && (
-                  <ul className="mt-2 ms-1">
-                    {item.items.map((sub, subIndex) => (
-                      <li key={subIndex} className="mb-1">
-                        <span>
-                          <Link href={`/kahe/${sub.link}`}>{sub.name}</Link>
-                        </span>
+            return (
+              <li 
+                key={index} 
+                className="my-0 py-0 d-flex flex-column"
+                onClick={() => {
+                  if (!hasSubmenu && item.link) {
+                    window.location.href = `/kahe${item.link}`;
+                  }
+                }}
+                style={{ cursor: !hasSubmenu ? 'pointer' : 'default' }}
+              >
+                {/* HEADER */}
+                {hasSubmenu ? (
+                  <button
+                    type="button"
+                    className={`research-acc-header bg-none w-100 px-3 ${
+                      isOpen ? "active" : ""
+                    }`}
+                    onClick={() => toggleAccordion(index)}
+                  >
+                    <span>
+                      <Link
+                        href={item.link ? `/kahe${item.link}` : "#"}
+                        onClick={(e) => e.stopPropagation()}
+                      >
+                        {item.category}
+                      </Link>
+                    </span>
 
-                        {sub.item && sub.item.length > 0 && (
-                          <ul className="mt-2 ms-1">
-                            {sub.item.map((innerSub, idx) => (
-                              <li key={idx}>
-                                <span>
-                                  <Link href={innerSub.link}>
-                                    {`/kahe/${innerSub.name}`}
-                                  </Link>
-                                </span>
-                              </li>
-                            ))}
-                          </ul>
-                        )}
-                      </li>
-                    ))}
-                  </ul>
+                    <span className="research-acc-icon">
+                      <i className="feather-chevron-down"></i>
+                    </span>
+                  </button>
+                ) : (
+                  <span
+                    className={`d-block px-3 py-4 w-100 ${
+                      isActive(item.link) ? "active" : ""
+                    }`}
+                  >
+                    {item.category}
+                  </span>
+                )}
+
+                {/* BODY */}
+                {hasSubmenu && (
+                  <div
+                    className="research-acc-body p-0"
+                    style={{ display: isOpen ? "block" : "none" }}
+                  >
+                    <ul className="ms-2">
+                      {item.items.map((sub, subIndex) => (
+                        <li 
+                          key={subIndex} 
+                          className="my-0 py-0"
+                          onClick={(e) => {
+                            e.stopPropagation();
+                            window.location.href = `/kahe${sub.link}`;
+                          }}
+                          style={{ cursor: 'pointer' }}
+                        >
+                          <span
+                            className={`d-block px-3 py-4 w-100 ${
+                              isActive(sub.link) ? "active" : ""
+                            }`}
+                          >
+                            {sub.name}
+                          </span>
+                        </li>
+                      ))}
+                    </ul>
+                  </div>
                 )}
               </li>
-            ))}
-          </ul>
-          {/* <div
-            className={`rbt-show-more-btn ${toggle ? "active" : ""}`}
-            onClick={() => setToggle(!toggle)}
-          >
-            Show More
-          </div> */}
-        </div>
+            );
+          })}
+        </ul>
       </div>
-
-      
-    </>
+    </div>
   );
 };
 

@@ -9,7 +9,7 @@ const page = async () => {
   return (
     <>
       
-      <President />;
+      <President />
     </>
   );
 };

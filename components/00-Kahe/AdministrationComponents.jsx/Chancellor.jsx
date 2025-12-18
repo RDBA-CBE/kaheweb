@@ -12,8 +12,8 @@ export const metadata = {
 };
 
 
-const President = () => {
-    const BoardOfTrustees = data?.president;
+const Chancellor = () => {
+    const BoardOfTrustees = data?.chancellor;
 
     console.log("BoardOfTrustees", BoardOfTrustees);
     
@@ -48,4 +48,4 @@ const President = () => {
   );
 };
 
-export default President;
+export default Chancellor;

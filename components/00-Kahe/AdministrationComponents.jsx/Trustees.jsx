@@ -2,8 +2,8 @@ import { Administration } from "@/JSON/ACADEMIC/Overview";
 import data from "../../../JSON/Administration/BoardOfTrustees.json";
 import InnerBanner from "@/components/00-Kahe/common-components/InnerBanner";
 import Sidebar from "../common-components/Sidebar";
-import ImageLink from "../Components/ImageLink";
 import AccordianSidebar from "../common-components/AccordianSidebar";
+import UserCard from "../Components/UserCard";
 
 
 export const metadata = {
@@ -12,8 +12,8 @@ export const metadata = {
 };
 
 
-const President = () => {
-    const BoardOfTrustees = data?.president;
+const Trustees = () => {
+    const BoardOfTrustees = data?.trustees;
 
     console.log("BoardOfTrustees", BoardOfTrustees);
     
@@ -23,12 +23,12 @@ const President = () => {
       <InnerBanner data={BoardOfTrustees?.bannerCon} />
       {/* <AccordianSidebar subMenu={Administration}/> */}
 
-      <main className="section-wid d-flex section-bg1 ">
+      <main className="section-wid d-flex gap-4 section-bg1">
         <div className="rbt-course-details-area w-100">
-          <div className="row g-5">
+          <div className="row">
             <div className="col-lg-9">
 
-              <ImageLink data={BoardOfTrustees}/>
+              <UserCard data = {BoardOfTrustees}/>
               
             </div>
 
@@ -48,4 +48,4 @@ const President = () => {
   );
 };
 
-export default President;
+export default Trustees;

@@ -272,27 +272,21 @@ export const about = {
 export const NonStatutoryCommitee = {
   title: "Non Statutory Committees",
   content: [
-    {
-      category: "Overview",
-      link: "/overview/",
-
-    },
-    {
-      category: "Vision & Mission",
-      link: "/vision-and-mission",
-
-    },
+ 
     {
       category: "Statutory Committees",
       link: "/statutory-committees",
 
     },
     
-    
     {
       category: "Non Statutory Committees",
-      link: "/non-statutory-committees/",
+      // link: "/non-statutory-committees/",
       items: [
+        {
+          name: "Overview",
+          link: "/non-statutory-committees/",
+        },
         {
           name: "Ombudsperson",
           link: "/non-statutory-committees/ombudsperson/",
@@ -311,11 +305,11 @@ export const NonStatutoryCommitee = {
       ],
     },
 
-    {
-      category: "RTI",
-      link: "/rti",
+    // {
+    //   category: "RTI",
+    //   link: "/rti",
 
-    },
+    // },
   ],
 };
 
@@ -324,8 +318,12 @@ export const Administration = {
   content: [
     {
       category: "Board of Trustees",
-      link: "/administration/board-of-trustees/",
+      // link: "/administration/board-of-trustees/",
       items: [
+        {
+          name: "Overview",
+          link: "/administration/board-of-trustees/",
+        },
         {
           name: "President",
           link: "/administration/board-of-trustees/president/",

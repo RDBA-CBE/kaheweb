@@ -25,12 +25,12 @@ const BoardOfTrustees = () => {
           <div className="row g-5">
             <div className="col-lg-9">
 
-              <UserCard data = {BoardOfTrustees?.content}/>
+              <UserCard data = {BoardOfTrustees}/>
               
             </div>
 
-            <div className="col-lg-3 px-0 d-none d-lg-block">
-              <div className="course-sidebar sticky-top rbt-shadow-box rbt-gradient-border ">
+            <div className="col-lg-3 px-0 d-none d-lg-block sidebar-pg">
+              <div className="course-sidebar sticky-top">
                 <div className="inner">
                   <div className="content-item-content">
                     <Sidebar subMenu={Administration} />
