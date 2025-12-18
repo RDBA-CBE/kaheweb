@@ -1,43 +1,56 @@
-export const removeShortcodes = (content) => {
-    if (!content) return "";
-    return content.replace(/\[\/?[^\]]+\]/g, "");
-  };
+import { split } from "sentence-splitter";
 
-  export const FirstLetterUp = (text = "") => {
-    console.log("text",text);
-    
-  return text
-    .toLowerCase()
-    // Capitalize first letter of each word
-    .replace(/\b\w/g, (c) => c.toUpperCase())
-    // Preserve acronyms inside brackets
-    .replace(/\(([^)]+)\)/g, (_, v) => `(${v.toUpperCase()})`);
+export const removeShortcodes = (content) => {
+  if (!content) return "";
+  return content.replace(/\[\/?[^\]]+\]/g, "");
+};
+
+export const FirstLetterUp = (text = "") => {
+  console.log("text", text);
+
+  return (
+    text
+      .toLowerCase()
+      // Capitalize first letter of each word
+      .replace(/\b\w/g, (c) => c.toUpperCase())
+      // Preserve acronyms inside brackets
+      .replace(/\(([^)]+)\)/g, (_, v) => `(${v.toUpperCase()})`)
+  );
 };
 
 export const splitChar = (text = "", maxLength = 500) => {
   if (!text) return null;
 
-  const sentences = text
-    .split(".")
-    .map(s => s.trim())
-    .filter(Boolean)
-    .map(s => s + ".");
+  // Use sentence-splitter which handles abbreviations better
+  const sentenceNodes = split(text);
+
+  // Filter out non-sentence nodes and get sentence text
+  const sentenceTexts = sentenceNodes
+    .filter((node) => node.type === "Sentence")
+    .map((node) => {
+      const sentenceText = node.raw.trim();
+      // Ensure proper ending punctuation
+      return sentenceText.match(/[.!?]$/) ? sentenceText : sentenceText + ".";
+    });
 
   let current = "";
   const blocks = [];
 
-  sentences.forEach(sentence => {
+  sentenceTexts.forEach((sentence) => {
+    if (!sentence) return;
+
     if ((current + " " + sentence).length > maxLength) {
-      blocks.push(current.trim());
+      if (current.trim()) {
+        blocks.push(current.trim());
+      }
       current = sentence;
     } else {
-      current += " " + sentence;
+      current += (current ? " " : "") + sentence;
     }
   });
 
   if (current.trim()) blocks.push(current.trim());
 
-  // 🔥 return JSX directly
   return blocks.map((block, index) => (
     <span key={index}>
       {block}
@@ -47,45 +60,123 @@ export const splitChar = (text = "", maxLength = 500) => {
   ));
 };
 
-
 export const splitFirstAndRemaining = (text, firstLength = 700) => {
   if (!text || typeof text !== "string") text = String(text);
 
-  const sentences = text
-    .split(".")
-    .map(s => s.trim())
-    .filter(Boolean)
-    .map(s => s + ".");
+  const sentenceNodes = split(text);
+
+  const sentenceTexts = sentenceNodes
+    .filter((node) => node.type === "Sentence")
+    .map((node) => {
+      const sentenceText = node.raw.trim();
+      return sentenceText.match(/[.!?]$/) ? sentenceText : sentenceText + ".";
+    });
 
   let current = "";
-  const firstPartArray = [];
-  const remainingArray = [];
+  let firstPart = "";
+  let remaining = "";
   let firstPartDone = false;
 
-  sentences.forEach(sentence => {
+  sentenceTexts.forEach((sentence) => {
+    if (!sentence) return;
+
     if (!firstPartDone) {
       if ((current + " " + sentence).trim().length <= firstLength) {
-        current += " " + sentence;
+        current += (current ? " " : "") + sentence;
       } else {
-        if (current.trim()) firstPartArray.push(current.trim());
-        current = sentence;
+        firstPart = current.trim();
+        remaining = sentence;
+        current = "";
         firstPartDone = true;
       }
     } else {
-      remainingArray.push(sentence);
+      remaining += (remaining ? " " : "") + sentence;
     }
   });
 
-  if (!firstPartDone && current.trim()) {
-    firstPartArray.push(current.trim());
-  } else if (firstPartDone && current.trim()) {
-    remainingArray.unshift(current.trim());
+  if (!firstPartDone) {
+    firstPart = current.trim();
+  } else if (current.trim()) {
+    remaining = current.trim() + (remaining ? " " + remaining : "");
   }
 
   return {
-    firstPart: firstPartArray.join(" "),
-    remaining: remainingArray.join(" "),
+    firstPart,
+    remaining,
   };
 };
+
+// export const splitChar = (text = "", maxLength = 500) => {
+//   if (!text) return null;
+
+//   const sentences = text
+//     .split(".")
+//     .map(s => s.trim())
+//     .filter(Boolean)
+//     .map(s => s + ".");
+
+//   let current = "";
+//   const blocks = [];
+
+//   sentences.forEach(sentence => {
+//     if ((current + " " + sentence).length > maxLength) {
+//       blocks.push(current.trim());
+//       current = sentence;
+//     } else {
+//       current += " " + sentence;
+//     }
+//   });
+
+//   if (current.trim()) blocks.push(current.trim());
+
+//   // 🔥 return JSX directly
+//   return blocks.map((block, index) => (
+//     <span key={index}>
+//       {block}
+//       <br />
+//       <br />
+//     </span>
+//   ));
+// };
+
+// export const splitFirstAndRemaining = (text, firstLength = 700) => {
+//   if (!text || typeof text !== "string") text = String(text);
+
+//   const sentences = text
+//     .split(".")
+//     .map(s => s.trim())
+//     .filter(Boolean)
+//     .map(s => s + ".");
+
+//   let current = "";
+//   const firstPartArray = [];
+//   const remainingArray = [];
+//   let firstPartDone = false;
+
+//   sentences.forEach(sentence => {
+//     if (!firstPartDone) {
+//       if ((current + " " + sentence).trim().length <= firstLength) {
+//         current += " " + sentence;
+//       } else {
+//         if (current.trim()) firstPartArray.push(current.trim());
+//         current = sentence;
+//         firstPartDone = true;
+//       }
+//     } else {
+//       remainingArray.push(sentence);
+//     }
+//   });
+
+//   if (!firstPartDone && current.trim()) {
+//     firstPartArray.push(current.trim());
+//   } else if (firstPartDone && current.trim()) {
+//     remainingArray.unshift(current.trim());
+//   }
+
+//   return {
+//     firstPart: firstPartArray.join(" "),
+//     remaining: remainingArray.join(" "),
+//   };
+// };
 
 

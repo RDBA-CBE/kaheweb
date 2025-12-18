@@ -110,5 +110,129 @@
         "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/President-1.jpg"
       }
     ]
+  },
+
+  "viceChancellor": {
+    "bannerCon": {
+      "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+      "title": "Vice Chancellor",
+      "bannerCon": "To be a leading institution in the field of education, providing quality education and training to students and professionals.",
+      "applyLink": "/"
+    },
+    "title": "Vice Chancellor",
+    "content": [
+      {
+        "title": "Prof. Dr. S. Ravi",
+        "caption": "President",
+        "content": "Prof. Dr. S. Ravi, Vice chancellor, Karpagam Academy of Higher Education is a learned personality, revered for his nature of simplicity and for his academic accomplishments. He obtained his Doctorate in Chemistry from Bharathiar University, Coimbatore in 1992. He began his career as an Assistant Manager, Research & Development, M/s Hindustan Photo Films manufacturing Company Limited, Udhagamandalam, The Nilgiris and in the subsequent years he worked in different capacities as Deputy Manager and Manager R & D. He worked in the industry for nearly 15 years up to 2007. Then he worked as a Senior Scientist, Phytochemistry division, Centre for Medicinal Plant Research, Arya Vaidya Sala, Kottakkal, Kerala for one year during 2007-2008. He joined Karpagam Academy of Higher Education as a Professor & Head, Department of Chemistry. His tenure as the Head of the Department of Chemistry lasted till the year 2020 and from the end of the year he served as Director, Internal Quality Assurance Cell (IQAC). During this period, he also worked as Director Research (I/c) from the year 2008 to 2015. He served as Director, IQAC from October 2020 to December 2022. He has 15 years of teaching experience, 15 years of Industrial experience and 30 years of Research experience in the domain of Chemistry. His credentials include publication of 107 research papers in reputed journals. To his credit, he was also granted with 3 patents and filed two more patents. He undertook and completed one major research projects funded by SERB. He has successfully guided 17 scholars towards their Ph.D. His research interests are in Synthetic Organic Chemistry, Electrochemistry and Phytochemistry.",
+        "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/06/Prof.-Dr-S-Ravi.jpg"
+      }
+    ]
+  },
+
+   "registrar": {
+    "bannerCon": {
+      "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+      "title": "Registrar",
+      "bannerCon": "To be a leading institution in the field of education, providing quality education and training to students and professionals.",
+      "applyLink": "/"
+    },
+    "title": "Registrar",
+    "content": [
+      {
+        "title": "Prof. Dr. B. V. Pradeep",
+        "caption": "Registrar",
+        "content": "Prof. Dr. B. V. Pradeep, Registrar, Karpagam Academy of Higher Education is a person with caliber who manages the resources, responsibly, effectively and efficiently. He has started his career in the year 1999 as Lecturer, currently he has more than 25 years of experience. He has taught students in the B.Sc. / M.Sc. / M.Phil. / Ph.D. in Microbiology, M.Sc. in Biotechnology and M.Sc. in Industrial Biotechnology. He is basically a Microbiologist, did his M.Sc. Applied Microbiology from University of Madras, and Ph.D., in Microbiology from Bharathiar University. He has published more than fifty-two research articles/ book chapters in various SCI/Scopus/Peer reviewed International and National journals, one patent has been granted. He has published four books as editors. Google Scholar citation of 1201, h-index of 16 and i10-index of 21. His areas of specializations are Microbial secondary metabolites, probiotics and microbial pigments. He has organized more than fifteen National / International conference / seminars. He has presented more than 115 papers in various Conferences / Seminars. He has guided eleven candidates for their Ph.D. / M.Phil., and more than hundred students for their Masters. He is a Life member of “Association of Microbiologist in India” (AMI), “Indian Association of Applied Microbiologist” (IAAM), and Indian Immunology Society (IIS). He has held various positions like, Head of the Department of Microbiology, Deputy Registrar, Director of Research, Member in Planning and Monitoring Board, Member in Board of Management, Member in Academic Council, Member in Board of Studies in Microbiology, Convenor in Research advisory Committee, Chairperson in Admissions and Admissions Review Committee, Coordinated the activities of Training & Placement cell and admissions cell. He has organized various academic programs and academic support functions of the Institution.",
+        "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/06/Prof.-Dr-S-Ravi.jpg"
+      }
+    ]
+  },
+
+   "deans": {
+    "bannerCon": {
+      "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+      "title": "Deans",
+      "bannerCon": "To be a leading institution in the field of education, providing quality education and training to students and professionals.",
+      "applyLink": "/"
+    },
+    "title": "Deans",
+
+    "content": [
+      {
+        "id": 1,
+        "title1": "Name",
+        "content1": "Prof. Dr. V. Ragavi",
+        "url1": "https://kahedu.edu.in/academics/arts-science-and-humanities/",
+        "title2": "Dean",
+        "content2": "Arts, Science, Commerce and Management",
+        "url2": "/kahe/academics/arts-science-and-humanities"
+      },
+
+      {
+        "id": 1,
+        "title1": "Name",
+        "content1": "Prof. Dr. A. Amudha",
+        "url1": "https://kahedu.edu.in/academics/engineering/",
+        "title2": "Dean",
+        "content2": "Engineering",
+        "url2": "/kahe/academics/arts-science-and-humanities"
+      },
+
+      {
+        "id": 1,
+        "title1": "Name",
+        "content1": "Prof. Dr. A. Amudha",
+        "url1": "https://kahedu.edu.in/academics/engineering/",
+        "title2": "Dean",
+        "content2": "Engineering",
+        "url2": "/kahe/academics/arts-science-and-humanities"
+      },
+
+      {
+        "id": 1,
+        "title1": "Name",
+        "content1": "Prof. Dr. A. Amudha",
+        "url1": "https://kahedu.edu.in/academics/engineering/",
+        "title2": "Dean",
+        "content2": "Engineering",
+        "url2": "/kahe/academics/arts-science-and-humanities"
+      }
+    ]
+  },
+
+  "controller": {
+    "bannerCon": {
+      "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+      "title": "Controller of Examinations",
+      "bannerCon": "To be a leading institution in the field of education, providing quality education and training to students and professionals.",
+      "applyLink": "/"
+    },
+    "title": "Controller of Examinations",
+    "content": [
+      {
+        "title": "Dr. P. Palanivelu",
+        "caption": "Controller of Examinations",
+        "content": "Dr. P. Palanivelu is the Controller of Examinations and Professor of Commerce and Management in Karpagam Academy of Higher Education (KAHE). He holds Ph.D. in Finance from Bharathiar University, Coimbatore. His passion for education has led him to acquire Master in Business Administration. His interest in the field of Computer Science has won him Master degree in Computer Applications as well. He has held various coveted positions in the administrative level. His dedication and commitment in his profession have taken him to great heights as the Controller of Examinations. His ability as a planner and organizer is crystal clear for he has organized several Seminars and Conferences at National level. His keen interest in the field of research over 18 years is evinced in his publications of 82 research articles. He has also guided 55 M.Phil’s and 14 Ph.D.’s He was the Principal Investigator in the UGC sponsored Major Research Project entitled “The Study on Performance of Garment Industry in Tirupur”. He is the proud recipient of the Certificate of Merit (M.Com, 1993-95) at Erode Arts College, Erode. He has also been awarded P. K. Das Memorial Award for ‘Best Faculty 2012’ by Nehru Group of Institutions. He has authored two books titled Academic and Career Development in 2009 and Marketing Executive for Manager in 2010. His invaluable contribution is sure to add value to Karpagam Academy of Higher Education (KAHE).",
+        "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/COE.jpg"
+      }
+    ]
+  },
+
+  "financeOfficer": {
+    "bannerCon": {
+      "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+      "title": "Finance Officer",
+      "bannerCon": "To be a leading institution in the field of education, providing quality education and training to students and professionals.",
+      "applyLink": "/"
+    },
+    "title": "Finance Officer",
+    "content": [
+      {
+        "title": "Ms.S.Indhumathi",
+        "caption": "Finance Officer",
+        "content": "Ms.S.Indhumathi is the Finance Officer of Karpagam Academy of Higher Education since 2013. After obtaining her M.Com degree she joined as an Accountant in Karpagam Arts and Science College in 2001 and later elevated a Chief Accountant in 2008 in Karpagam Academy of Higher Education. In 2013 she was appointed a Finance Officer by the Board of Management and has been vested with the responsibility of financial administration of the Deemed to be University. She has demonstrated her capability as a dynamic Finance Officer with her financial acumen and jurisprudence.",
+        "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/indumathi.jpeg"
+      }
+    ]
   }
 }

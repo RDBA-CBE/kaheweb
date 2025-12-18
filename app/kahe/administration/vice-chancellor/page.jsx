@@ -1,4 +1,4 @@
-import President from "@/components/00-Kahe/AdministrationComponents.jsx/President";
+import ViceChancellor from "@/components/00-Kahe/AdministrationComponents.jsx/ViceChancellor";
 
 export const metadata = {
   title: "Histudy - Online Courses & Education NEXTJS14 Template",
@@ -9,7 +9,7 @@ const page = async () => {
   return (
     <>
       
-      <President />;
+      <ViceChancellor />;
     </>
   );
 };

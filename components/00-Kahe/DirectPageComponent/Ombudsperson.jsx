@@ -22,19 +22,29 @@ const Ombudsperson = () => {
               <div>
                 <h2
                   className="decor-ti"
-                  dangerouslySetInnerHTML={{ __html: FirstLetterUp(commiteeData?.title) }}
+                  dangerouslySetInnerHTML={{
+                    __html: FirstLetterUp(commiteeData?.title),
+                  }}
                 ></h2>
               </div>
 
-              <div className="d-flex justify-content-between flex-wrap omb-sec">
+              <div className="d-flex justify-content-between flex-wrap omb-sec py-4">
                 <div className="omb-item1">
                   <div>
                     <span>Name : </span>
-                    <span className="main-sub-ti" dangerouslySetInnerHTML={{__html:FirstLetterUp(commiteeData.content[0].title)}}></span>
+                    <a href="">
+                      <span
+                        className="main-sub-ti mb-4"
+                        dangerouslySetInnerHTML={{
+                          __html: FirstLetterUp(commiteeData.content[0].title),
+                        }}
+                      ></span>
+                    </a>
                   </div>
                   <p>
+                    <span>Email : </span>
                     <a href="mailto:ombudsperson@kahedu.edu.in">
-                      <span>Email : </span> {commiteeData.content[0].email}
+                      {commiteeData.content[0].email}
                     </a>
                   </p>
                 </div>

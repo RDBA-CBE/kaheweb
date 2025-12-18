@@ -1,3 +1,4 @@
+import FinanceOfficer from "@/components/00-Kahe/AdministrationComponents.jsx/FinanceOfficer";
 import President from "@/components/00-Kahe/AdministrationComponents.jsx/President";
 
 export const metadata = {
@@ -9,7 +10,7 @@ const page = async () => {
   return (
     <>
       
-      <President />;
+      <FinanceOfficer />;
     </>
   );
 };

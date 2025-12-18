@@ -2420,12 +2420,24 @@
   }
 }
 
+.omb-sec {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+
+  align-items: stretch; /* important */
+}
+
 .omb-item1 {
   border: 1px solid #153b1c;
   border-radius: 20px;
-  height: fit-content;
   padding: 30px;
+
+  height: 100%;          /* allows grid stretch */
+  max-height: 280px;     /* cap only */
+  overflow: auto;        /* scroll if content exceeds */
 }
+
 
 .omb-item2 {
   border-radius: 20px;

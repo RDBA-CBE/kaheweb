@@ -1,3 +1,4 @@
+import ControllerOfExamination from "@/components/00-Kahe/AdministrationComponents.jsx/ControllerOfExamination";
 import President from "@/components/00-Kahe/AdministrationComponents.jsx/President";
 
 export const metadata = {
@@ -9,7 +10,7 @@ const page = async () => {
   return (
     <>
       
-      <President />;
+      <ControllerOfExamination />;
     </>
   );
 };
