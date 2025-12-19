@@ -255,7 +255,7 @@
 }
 
 .bg-lblue {
-  background: #b3d3e9;
+  background: #d9e9f4;
 }
 
 .bg-lblue-1 {
@@ -387,7 +387,7 @@
   width: fit-content;
   padding: 8px 16px !important;
   border-radius: 25px !important;
-  background: #b3d3e9;
+  background: #d9e9f4;
   height: fit-content;
 }
 
@@ -439,7 +439,7 @@
   margin-top: 12px;
 }
 
-.sidebar-pg li span:hover{
+.sidebar-pg li span:hover {
   background: #f2f5f9;
 }
 
@@ -449,7 +449,7 @@
   background: #f2f5f9;
 }
 
-.sidebar-pg .research-acc-header{
+.sidebar-pg .research-acc-header {
   background: transparent;
   border-bottom: 1px solid #e6e3f1;
 }
@@ -841,7 +841,7 @@
 }
 
 .kahe-btn-primary.rbt-btn:hover {
-  background-color: #b3d3e9;
+  background-color: #d9e9f4;
   transform: translateY(-2px);
   color: #000;
 }
@@ -1432,8 +1432,6 @@
   transform: rotate(180deg);
 }
 
-
-
 .research-acc-icon {
   font-size: 22px;
   transition: transform 0.35s ease;
@@ -1676,7 +1674,7 @@
 }
 
 .kahe-curriculum-slide-item:hover {
-  background: #b3d3e9;
+  background: #d9e9f4;
 }
 
 .overview-main-wrapper {
@@ -2380,7 +2378,8 @@
 }
 
 .mission a.rbt-moderbt-btn::before {
-  background: #b3d3e9;
+  background: #d9e9f4;
+  opacity: 1;
 }
 
 .sta-commitee {
@@ -2433,11 +2432,10 @@
   border-radius: 20px;
   padding: 30px;
 
-  height: 100%;          /* allows grid stretch */
-  max-height: 280px;     /* cap only */
-  overflow: auto;        /* scroll if content exceeds */
+  height: 100%; /* allows grid stretch */
+  max-height: 280px; /* cap only */
+  overflow: auto; /* scroll if content exceeds */
 }
-
 
 .omb-item2 {
   border-radius: 20px;
@@ -2513,4 +2511,136 @@
   width: 100%;
   display: flex;
   flex-direction: column;
+}
+
+.full-wid-img {
+  margin-top: 40px;
+  margin-bottom: 50px;
+  border-radius: 20px;
+}
+
+.full-wid-img img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 20px;
+}
+
+.fg-wrapper {
+}
+
+.fg-grid {
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+}
+
+.fg-card {
+  background: #d9e9f4;
+  border-radius: 12px;
+  padding: 22px 20px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.06);
+  transition: background-color 0.4s ease, transform 0.4s ease;
+  cursor: pointer;
+}
+
+.fg-card:hover {
+  background-color: #e0fff1;
+  // transform: translateY(-4px);
+}
+
+.fg-icon {
+  font-size: 34px;
+  margin-bottom: 10px;
+}
+
+.fg-desc {
+  // font-size: 14px;
+  line-height: 1.5;
+  // color: #4b647a;
+}
+
+/* Responsive */
+@media (max-width: 992px) {
+  .fg-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 576px) {
+  .fg-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.hospital-overview {
+}
+
+.overview-label {
+  font-size: 14px;
+  font-weight: 600;
+  color: #2d3dbf;
+  display: inline-block;
+  margin-bottom: 8px;
+}
+
+.overview-title {
+  font-size: 28px;
+  font-weight: 700;
+  margin-bottom: 20px;
+  color: #111;
+}
+
+.overview-description {
+  font-size: 15px;
+  line-height: 1.7;
+  color: #555;
+}
+
+/* Stats */
+.overview-stat {
+  background: #e0fff1;
+  border-radius: 14px;
+  padding: 24px;
+  height: 100%;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  min-height: 170px;
+}
+
+.stat-icon {
+  position: absolute;
+  top: 16px;
+  right: 16px;
+  font-size: 20px;
+  color: #136399;
+}
+
+.overview-stat h4 {
+  font-weight: 500;
+  color: #136399;
+  width: 80%;
+}
+
+.overview-stat h3 small {
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.overview-stat p {
+  font-size: 14px;
+  font-weight: 600;
+  color: #153b1c;
+  margin: 0;
+  margin-top: auto;
+}
+
+.hospital-overview .item2 {
+  background: #f2f5f9;
+  padding: 10px;
+  width: 60%;
+  border-radius:15px ;
 }

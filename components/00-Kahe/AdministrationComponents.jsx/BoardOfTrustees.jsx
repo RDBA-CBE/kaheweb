@@ -25,6 +25,7 @@ const BoardOfTrustees = () => {
           <div className="row g-5">
             <div className="col-lg-9">
 
+            
               <UserCard data = {BoardOfTrustees}/>
               
             </div>

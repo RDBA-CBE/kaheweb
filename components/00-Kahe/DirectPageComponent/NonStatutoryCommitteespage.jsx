@@ -4,7 +4,7 @@ import InnerBanner from "../common-components/InnerBanner";
 import Commitee from "../Components/About/Commitee";
 import data from "../../../JSON/About/commitee.json";
 import Sidebar from "../common-components/Sidebar";
-import { NonStatutoryCommitee } from "@/JSON/ACADEMIC/Overview";
+import { about } from "@/JSON/ACADEMIC/Overview";
 
 const NonStatutoryCommitteespage = () => {
   console.log("data", data);
@@ -25,7 +25,7 @@ const NonStatutoryCommitteespage = () => {
               <div className="course-sidebar sticky-top">
                 <div className="inner">
                   <div className="content-item-content">
-                    <Sidebar subMenu={NonStatutoryCommitee} />
+                    <Sidebar subMenu={about} />
                   </div>
                 </div>
               </div>

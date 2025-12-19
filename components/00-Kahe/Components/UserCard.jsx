@@ -10,6 +10,12 @@ const UserCard = ({ data }) => {
     <>
       <div className="">
         <div className="decor-ti">{FirstLetterUp(data?.title)}</div>
+
+        {data?.imgUrl && (
+          <div className="full-wid-img">
+            <img className="" src={data?.imgUrl} alt={data?.title} />
+          </div>
+        )}
         <div className="row row--15 mt_dec--30">
           {data?.content?.map((item, index) => (
             <div className="col-lg-4 col-md-6 col-12 mt--30 d-flex" key={index}>

@@ -11,8 +11,7 @@ const Sidebar = ({ subMenu }) => {
   const normalize = (path = "") => path.replace(/\/+$/, "");
   const currentPath = normalize(pathname);
 
-  const isActive = (link = "") =>
-    currentPath === normalize(`/kahe${link}`);
+  const isActive = (link = "") => currentPath === normalize(`/kahe${link}`);
 
   const toggleAccordion = (index) => {
     setOpenIndex(openIndex === index ? null : index);
@@ -36,15 +35,17 @@ const Sidebar = ({ subMenu }) => {
             const isOpen = openIndex === index;
 
             return (
-              <li 
-                key={index} 
+              <li
+                key={index}
                 className="my-0 py-0 d-flex flex-column"
                 onClick={() => {
                   if (!hasSubmenu && item.link) {
                     window.location.href = `/kahe${item.link}`;
+                  } else {
+                    toggleAccordion(index);
                   }
                 }}
-                style={{ cursor: !hasSubmenu ? 'pointer' : 'default' }}
+                style={{ cursor: !hasSubmenu ? "pointer" : "default" }}
               >
                 {/* HEADER */}
                 {hasSubmenu ? (
@@ -55,13 +56,19 @@ const Sidebar = ({ subMenu }) => {
                     }`}
                     onClick={() => toggleAccordion(index)}
                   >
-                    <span>
-                      <Link
+                    <span
+                       style={{color:"#333"}}
+                      onClick={(e) => {
+                        e.stopPropagation();
+                        toggleAccordion(index);
+                      }}
+                    >
+                      {/* <Link
                         href={item.link ? `/kahe${item.link}` : "#"}
-                        onClick={(e) => e.stopPropagation()}
-                      >
-                        {item.category}
-                      </Link>
+                        
+                      > */}
+                      {item.category}
+                      {/* </Link> */}
                     </span>
 
                     <span className="research-acc-icon">
@@ -86,14 +93,14 @@ const Sidebar = ({ subMenu }) => {
                   >
                     <ul className="ms-2">
                       {item.items.map((sub, subIndex) => (
-                        <li 
-                          key={subIndex} 
+                        <li
+                          key={subIndex}
                           className="my-0 py-0"
                           onClick={(e) => {
                             e.stopPropagation();
                             window.location.href = `/kahe${sub.link}`;
                           }}
-                          style={{ cursor: 'pointer' }}
+                          style={{ cursor: "pointer" }}
                         >
                           <span
                             className={`d-block px-3 py-4 w-100 ${

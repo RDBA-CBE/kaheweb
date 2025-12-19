@@ -1,0 +1,126 @@
+{
+  "about": {
+    "title": "Karpagam Academy of Higher Education (KAHE)",
+    "content": "Karpagam Academy of Higher Education (KAHE) established under Section 3 of UGC Act 1956 is approved by Ministry of Human Resource Development, Government of India. Dr. R. Vasanthakumar, the president of Karpagam Charity trust (KCT), philanthropist, industrialist, entrepreneur and culture promoter."
+  },
+
+  "abtOverview": {
+    "title": "Campus Information",
+    "content": "Contemporary infrastructure, modern teaching methodologies, career oriented training, excellent placements and the finest faculty have always become the Karpagam’s hallmark.",
+    "src": "/images/Kahe/Innerpages/vission.jpg",
+    "list": [
+      "Besides technical expertise, Karpagam Academy of Higher Education (KAHE) has made a mark since its inception",
+      "By developing communication and soft skills, ensuring enlightening knowledge, extending holistic education",
+      "and creating a strong value system.",
+      "Today, with strength of 8000 students and over 750 teaching & non-teaching staff, Karpagam Academy of Higher Education is setting new benchmarks in the educational sphere."
+    ],
+    "btn": "Schedule A Tour",
+    "btnLink": "#"
+  },
+
+  "merits": {
+    "title": "Merits of Karpagam",
+    "caption": "Karpagam strives to offer a package of value added benefits that are tailored to nurture the educational experience of the students:",
+    "content": [
+      {
+        "title": "Distinguished Faculty",
+        "content": "Well experienced and trained faculty including 234 doctorates and Post Doctoral Fellows",
+        "src": "/images/Kahe/Innerpages/group.png"
+      },
+      {
+        "title": "Elite Visiting Mentors",
+        "content": "Visiting faculty from premier institutes like IIM , IISc , IIT, NIT etc..,",
+        "src": "/images/Kahe/Innerpages/group.png"
+      },
+      {
+        "title": "Dedicated Placement Cell",
+        "content": "A professional placement department enduring training for overall personality development of students.",
+        "src": "/images/Kahe/Innerpages/group.png"
+      },
+       {
+        "title": "Excellent Placement Record",
+        "content": "1182 above placement offers were made for 2021–2022 Batch",
+        "src": "/images/Kahe/Innerpages/group.png"
+      },
+      {
+        "title": "Innovation & Research Hub",
+        "content": "A vibrant Karpagam Research Centre marching towards fruition of innovations and patents.59 patents were filed and 16 patents are granted. 2 of the granted patents are being commercialized.",
+        "src": "/images/Kahe/Innerpages/group.png"
+      },
+      {
+        "title": "Intellectual Property",
+        "content": "No.of Copyrights 18 filed 16 registered",
+        "src": "/images/Kahe/Innerpages/group.png"
+      },
+      {
+        "title": "Funded Project Opportunities",
+        "content": "Scope to work on projects funded by government & other agencies",
+        "src": "/images/Kahe/Innerpages/group.png"
+      },
+      {
+        "title": "Industry Integration",
+        "content": "Industrial MoUs and career oriented courses for enhancing employability",
+        "src": "/images/Kahe/Innerpages/group.png"
+      },
+      {
+        "title": "Global Academic Exposure",
+        "content": "Exchange, Twinning programme and dual degree with global universities for International exposure",
+        "src": "/images/Kahe/Innerpages/group.png"
+      },
+      {
+        "title": "Enriching Academic Ambience",
+        "content": "Highly vibrant and encouraging academic ambience aiding an enriched education.",
+        "src": "/images/Kahe/Innerpages/group.png"
+      },
+      {
+        "title": "World-Class Infrastructure",
+        "content": "State of the art laboratories and Wi-fi enabled campus with 1Gbps internet connectivity.",
+        "src": "/images/Kahe/Innerpages/group.png"
+      }
+    ]
+  },
+
+  "recognition" : {
+    "title" : "Recognition",
+    "subTitle" : "Accredictions and Approvals",
+    "content1" : {
+      "item1":"Accredited with A+ Grade by NAAC in the Second cycle",
+      "icon1": "/images/Kahe/Innerpages/group.png",
+      "item2":"Deemed to be University – Under Section 3 of UGC Act, 1956.",
+      "icon2": "/images/Kahe/Innerpages/group.png"
+
+    },
+    "content2" : [
+      {
+        "title" : "MHRD",
+        "caption" : "Approved",
+        "content" : "Approved by the Ministry of Human Resource Development, Government of India.",
+        "src" : "/images/Kahe/Innerpages/wreath.png"
+      },
+      {
+        "title" : "UGC-AICTE",
+        "caption" : "Approved",
+        "content" : "Approved by UGC-AICTE, New Delhi",
+        "src" : "/images/Kahe/Innerpages/wreath.png"
+      },
+      {
+        "title" : "Council of Architecture",
+        "caption" : "Approved",
+        "content" : "Approved by Council of Architecture, New Delhi",
+        "src" : "/images/Kahe/Innerpages/wreath.png"
+      },
+      {
+        "title" : "Pharmacy Council of India",
+        "caption" : "Approved",
+        "content" : "Approved by Pharmacy Council of India (PCI), New Delhi",
+        "src" : "/images/Kahe/Innerpages/wreath.png"
+      },
+      {
+        "title" : "MoMSME",
+        "caption" : "Approved",
+        "content" : "MoMSME, Govt. of India Approved Host Institution/ Business Incubator",
+        "src" : "/images/Kahe/Innerpages/wreath.png"
+      }
+    ]
+  }
+}
