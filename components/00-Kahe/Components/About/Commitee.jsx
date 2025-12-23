@@ -10,7 +10,7 @@ const Commitee = ({ data }) => {
 
   return (
     <div className="commitee">
-      <div className="decor-ti">{FirstLetterUp(data?.title)}</div>
+      <div className="decor-ti">{FirstLetterUp(data?.title)} </div>
 
       <div className="row py-5 align-items-stretch">
         {data?.content?.map((item, index) => (
@@ -34,7 +34,7 @@ const Commitee = ({ data }) => {
 
                   <div className="read-more-btn mt-auto">
                     <span className="rbt-btn-link">
-                      View <i className="feather-arrow-up-right"></i>
+                      {data?.btnText} <i className="feather-arrow-up-right"></i>
                     </span>
                   </div>
                 </div>

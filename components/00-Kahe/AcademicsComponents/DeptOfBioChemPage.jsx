@@ -10,7 +10,7 @@ import data from "../../../JSON/ACADEMIC/Arts/dept_of_biochemistry.json";
 import InnerBanner from "@/components/00-Kahe/common-components/InnerBanner";
 import Sidebar from "../common-components/Sidebar";
 import { base } from "@/utils/constant.util";
-import SidebarCopy from "../common-components/Sidebar2";
+import Sidebar2 from "../common-components/Sidebar2";
 import { Provider } from "react-redux";
 import Context from "@/context/Context";
 import Store from "@/redux/store";
@@ -58,7 +58,7 @@ const DeptOfBioChemPage = () => {
             </div>
           </main>
 
-          <SidebarCopy subMenu={subMenu} />
+          <Sidebar2 subMenu={subMenu} />
         </Context>
       </Provider>
     </>

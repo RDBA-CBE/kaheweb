@@ -1,0 +1,378 @@
+{
+  "admissionOverview": {
+    "bannerCon": {
+      "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+      "title": "Admission",
+      "bannerCon": "To be a leading institution in the field of education, providing quality education and training to students and professionals.",
+      "applyLink": "/"
+    },
+
+    "admission": {
+      "title": "Admissions Officer",
+      "content": "Karpagam Academy of Higher Education, <br/> Eachanari Post, <br/> Pollachi Main Road,<br/> Coimbatore – 641 021, <br/> Tamil Nadu, India.",
+      "links": [
+        {
+          "title": "Phone : ",
+          "content": "+91 422 2980011 – 14",
+          "url": "tellto:+91 422 2980011 – 14"
+        },
+        {
+          "title": "Mobile : ",
+          "content": "9384049309",
+          "url": "tellto:9384049309"
+        },
+        {
+          "title": "Mobile : ",
+          "content": "9384049307",
+          "url": "tellto:9384049307"
+        },
+        {
+          "title": "Mobile : ",
+          "content": "9384049305",
+          "url": "tellto:9384049305"
+        },
+        {
+          "title": "Email : ",
+          "content": "admissions@kahedu.edu.in",
+          "url": "mailto:admissions@kahedu.edu.in"
+        }
+      ],
+      "src": "/images/Kahe/Innerpages/vission.jpg",
+
+      "btn": "Apply Now",
+      "btnLink": "#"
+    },
+
+    "address": {
+      "title": "INFORMATION CENTRE ADDRESS AND CONTACT DETAILS",
+      "content": [
+        {
+          "title": "COIMBATORE",
+          "content1": "SIDCO – Coimbatore <br/> K 5/ 302E, SIDCO Industrial Estate, <br/> Pollachi Main Road, <br/> Coimbatore",
+          "links": [
+            {
+              "title": "Contact :",
+              "content": "+91 8220333850",
+              "url": "tellto:+91 8220333850"
+            },
+            {
+              "title": "Contact :",
+              "content": "+91 8220333750",
+              "url": "tellto:+91 8220333750"
+            },
+            {
+              "title": "Contact :",
+              "content": "+91 8220333620",
+              "url": "tellto:+91 8220333620"
+            }
+          ]
+        },
+
+        {
+          "title": "Mettupalayam",
+          "links": [
+            {
+              "title": "Contact :",
+              "content": "+91 8220333750",
+              "url": "tel:+918220333750"
+            }
+          ]
+        },
+        {
+          "title": "SALEM",
+          "content1": "Shop : 4, Venkatathiri Nilayam, Deutch Bank Complex, <br/> Yercaud Main Road, Near Modern Theatre, <br/> Kannakurichi Post, Salem 08.",
+          "links": [
+            {
+              "title": "Contact :",
+              "content": "+91 8220333850",
+              "url": "tel:+918220333850"
+            },
+            {
+              "title": "Contact :",
+              "content": "+91 8220333750",
+              "url": "tel:+918220333750"
+            }
+          ]
+        },
+        {
+          "title": "Dharmapuri",
+          "links": [
+            {
+              "title": "Contact :",
+              "content": "+91 8220333850",
+              "url": "tel:+918220333850"
+            },
+            {
+              "title": "Contact :",
+              "content": "+91 8220333750",
+              "url": "tel:+918220333750"
+            }
+          ]
+        },
+        {
+          "title": "Krishnagiri",
+          "links": [
+            {
+              "title": "Contact :",
+              "content": "+91 8220333750",
+              "url": "tel:+918220333750"
+            },
+            {
+              "title": "Contact :",
+              "content": "+91 8220333850",
+              "url": "tel:+918220333850"
+            }
+          ]
+        },
+        {
+          "title": "HOSUR",
+          "content1": "No 83, Second Floor, Yasodha Complex, <br/> Bangalore By Pass Road, <br/> Opp to Bus Stand, Hosur-635109.",
+          "links": [
+            {
+              "title": "Contact :",
+              "content": "+91 8220333750",
+              "url": "tel:+918220333750"
+            },
+            {
+              "title": "Contact :",
+              "content": "+91 8220333850",
+              "url": "tel:+918220333850"
+            }
+          ]
+        },
+        {
+          "title": "Tiruppur",
+          "links": [
+            {
+              "title": "Contact :",
+              "content": "+91 8220333790",
+              "url": "tel:+918220333790"
+            },
+            {
+              "title": "Contact :",
+              "content": "+91 8220333850",
+              "url": "tel:+918220333850"
+            },
+            {
+              "title": "Contact :",
+              "content": "9384049306",
+              "url": "tel:+919384049306"
+            }
+          ]
+        },
+        {
+          "title": "PALLADAM",
+          "content1": "27-PKA Complex, Anngalamman Temple Opp, <br/> Palladam.",
+          "links": [
+            {
+              "title": "Contact :",
+              "content": "+91 7373000133",
+              "url": "tel:+917373000133"
+            }
+          ]
+        },
+        {
+          "title": "POLLACHI",
+          "content1": "ATC Tutorials, 2nd Floor, <br/> KT Complex, New Scheme Road, Pollachi.",
+          "links": [
+            {
+              "title": "Contact :",
+              "content": "+91 7373001555",
+              "url": "tel:+917373001555"
+            },
+            {
+              "title": "Contact :",
+              "content": "9384049306",
+              "url": "tel:+919384049306"
+            }
+          ]
+        },
+        {
+          "title": "UDUMALPET",
+          "content1": "2nd floor, CRK Kalpa vriksham Complex (UKP Complex), <br/> Palani Main Road, Opp.to Bus stand, Udumalpet – 642 128.",
+          "links": [
+            {
+              "title": "Contact :",
+              "content": "9384049306",
+              "url": "tel:+919384049306"
+            }
+          ]
+        },
+        {
+          "title": "DHARAPURAM",
+          "content1": "RR Complex, First floor, <br/> Opp. to RKS TVS, Pollachi Road, <br/> Dharapuram – 638 656.",
+          "links": [
+            {
+              "title": "Contact :",
+              "content": "+91 7373000140",
+              "url": "tel:+917373000140"
+            },
+            {
+              "title": "Contact :",
+              "content": "9384049306",
+              "url": "tel:+919384049306"
+            }
+          ]
+        },
+        {
+          "title": "Dindigul",
+          "links": [
+            {
+              "title": "Contact :",
+              "content": "9384049306",
+              "url": "tel:+919384049306"
+            },
+            {
+              "title": "Contact :",
+              "content": "+91 9150041886",
+              "url": "tel:+919150041886"
+            }
+          ]
+        },
+        {
+          "title": "Palani",
+          "links": [
+            {
+              "title": "Contact :",
+              "content": "9384049306",
+              "url": "tel:+919384049306"
+            },
+            {
+              "title": "Contact :",
+              "content": "+91 9150041886",
+              "url": "tel:+919150041886"
+            }
+          ]
+        },
+        {
+          "title": "NAMAKKAL",
+          "content1": "Ground Floor, Mugilan Complex, <br/> Opp To Amma Unavagam, <br/> Trichy Road, Namakkal.",
+          "links": [
+            {
+              "title": "Contact :",
+              "content": "+91 8220333850",
+              "url": "tel:+918220333850"
+            },
+            {
+              "title": "Contact :",
+              "content": "+91 8220333620",
+              "url": "tel:+918220333620"
+            }
+          ]
+        },
+        {
+          "title": "Karur",
+          "links": [
+            {
+              "title": "Contact :",
+              "content": "+91 8220333750",
+              "url": "tel:+918220333750"
+            },
+            {
+              "title": "Contact :",
+              "content": "+91 8220333790",
+              "url": "tel:+918220333790"
+            }
+          ]
+        },
+        {
+          "title": "Erode",
+          "links": [
+            {
+              "title": "Contact :",
+              "content": "+91 8220333790",
+              "url": "tel:+918220333790"
+            }
+          ]
+        },
+        {
+          "title": "Sathy",
+          "links": [
+            {
+              "title": "Contact :",
+              "content": "+91 8220333790",
+              "url": "tel:+918220333790"
+            }
+          ]
+        },
+        {
+          "title": "Gobi",
+          "links": [
+            {
+              "title": "Contact :",
+              "content": "+91 8220333790",
+              "url": "tel:+918220333790"
+            }
+          ]
+        },
+        {
+          "title": "Kallakurichi",
+          "links": [
+            {
+              "title": "Contact :",
+              "content": "+91 8220333850",
+              "url": "tel:+918220333850"
+            }
+          ]
+        },
+        {
+          "title": "Tiruvannamalai",
+          "links": [
+            {
+              "title": "Contact :",
+              "content": "+91 8220333850",
+              "url": "tel:+918220333850"
+            }
+          ]
+        },
+        {
+          "title": "Nilgiris",
+          "links": [
+            {
+              "title": "Contact :",
+              "content": "+91 8220333850",
+              "url": "tel:+918220333850"
+            },
+            {
+              "title": "Contact :",
+              "content": "8428211211",
+              "url": "tel:+918428211211"
+            },
+            {
+              "title": "Contact :",
+              "content": "+91 9150041886",
+              "url": "tel:+919150041886"
+            }
+          ]
+        },
+        {
+          "title": "PALAKKAD",
+          "content1": "21/767, Opp TKM Service Station, <br/> Coimbatore Road, Kalmandapam Jn, <br/> Palakkad.",
+          "links": [
+            {
+              "title": "Contact :",
+              "content": "+91 7373007725",
+              "url": "tel:+917373007725"
+            }
+          ]
+        },
+        {
+          "title": "KARAIKUDI",
+          "content1": "39, College Road, Annai Complex, <br/> Opp. to Sekkalai Bakery, Karaikudi – 630 002.",
+          "links": [
+            {
+              "title": "Contact :",
+              "content": "+91 9894301801",
+              "url": "tel:+919894301801"
+            },
+            {
+              "title": "Contact :",
+              "content": "+91 9791704485",
+              "url": "tel:+919791704485"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

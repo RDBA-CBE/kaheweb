@@ -1,0 +1,163 @@
+{
+  "bannerCon": {
+    "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+    "title": "Under Graduate Programmes",
+    "bannerCon": "To be a leading institution in the field of education, providing quality education and training to students and professionals.",
+    "applyLink": "/"
+  },
+  "UgProgramme": {
+    "title": "Under Graduate Programmes",
+    "content": [
+      {
+        "tabTi": "Arts & Science",
+        "tabId": "arts-science",
+        "title": "Faculty of Arts, Science, Commerce and Management",
+        "items1": [
+          {
+            "src": "/images/category/image/web-design.jpg",
+            "content": "B.Com"
+          },
+          {
+            "src": "/images/category/image/web-design.jpg",
+            "content": "B.Com. (Computer Applications)"
+          },
+          {
+            "src": "/images/category/image/web-design.jpg",
+            "content": "B.Com (Information Technology)"
+          },
+          {
+            "src": "/images/category/image/web-design.jpg",
+            "content": "B.Com. (Professional Accounting)"
+          },
+          {
+            "src": "/images/category/image/web-design.jpg",
+            "content": "B.Com. (Business Process Services)*"
+          },
+          {
+            "src": "/images/category/image/web-design.jpg",
+            "content": "B.Com. (International Accounting and Finance)#"
+          },
+          {
+            "src": "/images/category/image/web-design.jpg",
+            "content": "B.Com. (Financial Analytics)$"
+          },
+          {
+            "src": "/images/category/image/web-design.jpg",
+            "content": "B.Com. Information Technology"
+          },
+          { "src": "/images/category/image/web-design.jpg", "content": "BBA" },
+          { "src": "/images/category/image/web-design.jpg", "content": "BCA" },
+          {
+            "src": "/images/category/image/web-design.jpg",
+            "content": "B.Sc. Computer Science"
+          },
+          {
+            "src": "/images/category/image/web-design.jpg",
+            "content": "B.Sc. Computer Technology"
+          },
+          {
+            "src": "/images/category/image/web-design.jpg",
+            "content": "B.Sc. Information Technology"
+          },
+          {
+            "src": "/images/category/image/web-design.jpg",
+            "content": "B.Sc. Computer Science (Cognitive Systems)*"
+          },
+          {
+            "src": "/images/category/image/web-design.jpg",
+            "content": "B.Sc. Computer Science (Artificial Intelligence and Data Science)"
+          },
+          {
+            "src": "/images/category/image/web-design.jpg",
+            "content": "B.Sc. Biotechnology"
+          },
+          {
+            "src": "/images/category/image/web-design.jpg",
+            "content": "B.Sc. Microbiology"
+          }
+        ],
+        "items2": {
+          "src": "/images/Kahe/Innerpages/image-2.png",
+          "item": [
+            "*Industry Specific Curriculum in association with TATA Consultancy Services",
+            "# In Association with ACCA, UK, London",
+            "$ In Association with National Stock Exchange (NSE), Mumbai"
+          ]
+        }
+      },
+      {
+        "tabTi": "Engineering",
+        "tabId": "engineering",
+        "title": "Faculty of Engineering",
+        "items": [
+          {
+            "src": "/images/category/image/web-design.jpg",
+            "content": "B.E. Biomedical Engineering"
+          },
+          {
+            "src": "/images/category/image/web-design.jpg",
+            "content": "B.E. Civil Engineering"
+          },
+          {
+            "src": "/images/category/image/web-design.jpg",
+            "content": "B.E. Computer Science and Engineering"
+          },
+          {
+            "src": "/images/category/image/web-design.jpg",
+            "content": "B.E. Computer Science and Engineering (Cyber Security)"
+          },
+          {
+            "src": "/images/category/image/web-design.jpg",
+            "content": "B.E. Electronics and Communication Engineering"
+          },
+          {
+            "src": "/images/category/image/web-design.jpg",
+            "content": "B.E. Electrical and Electronics Engineering"
+          },
+          {
+            "src": "/images/category/image/web-design.jpg",
+            "content": "B.E. Mechanical Engineering"
+          },
+          {
+            "src": "/images/category/image/web-design.jpg",
+            "content": "B.Tech. Artificial Intelligence and Data Science"
+          },
+          {
+            "src": "/images/category/image/web-design.jpg",
+            "content": "B.Tech. Biotechnology"
+          },
+          {
+            "src": "/images/category/image/web-design.jpg",
+            "content": "B.Tech. Food technology"
+          }
+        ]
+      },
+      {
+        "tabTi": "Architecture",
+        "tabId": "architecture",
+        "title": "Faculty of Architecture, Design and Planning",
+        "items": [
+          {
+            "src": "/images/category/image/web-design.jpg",
+            "content": "B.Arch."
+          },
+          {
+            "src": "/images/category/image/web-design.jpg",
+            "content": "B.Des. (Specializations: Interior Design / Fashion Design)"
+          }
+        ]
+      },
+      {
+        "tabTi": "Pharmacy",
+        "tabId": "pharmacy",
+        "title": "Faculty of Pharmacy",
+        "items": [
+          {
+            "src": "/images/category/image/web-design.jpg",
+            "content": "B.Pharm."
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -5,8 +5,10 @@
       "title": "Statutory Commitee",
       "bannerCon": "To be a leading institution in the field of education, providing quality education and training to students and professionals.",
       "applyLink": "/"
+     
     },
     "title": "Statutory Commitee",
+     "btnText" : "View",
     "content": [
       {
         "title": "Executive Council",
@@ -35,6 +37,7 @@
       "applyLink": "/"
     },
     "title": "Non Statutory Committees",
+    "btnText" : "View",
     "content": [
       {
         "title": "Ombudsperson",

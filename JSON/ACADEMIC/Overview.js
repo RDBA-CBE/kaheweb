@@ -369,3 +369,45 @@ export const Administration = {
   ],
 };
 
+
+export const Admissions = {
+  title: "Admissions",
+  content: [
+    {
+      category: "Study in India",
+      link: "/admissions/study-in-india/",
+    },
+    {
+      category: "Admission Details",
+      link: "/admissions/admission-details/",
+      items: [
+        {
+          name: "Admissions Procedure",
+          link: "/admissions/admission-details/admission-procedure/",
+        },
+        {
+          name: "How to apply",
+          link: "/admissions/admission-details/how-to-apply/",
+        },
+        {
+          name: "Under Graduate Programmes",
+          link: "/admissions/admission-details/ug-programs/",
+        },
+        {
+          name: "Post Graduate Programmes",
+          link: "/admissions/admission-details/pg-programs/",
+        },
+        {
+          name: "Research Programmes",
+          link: "/admissions/admission-details/research-programs/",
+        },
+      ],
+    },
+    {
+      category: "Downloads",
+      link: "/admissions/downloads/",
+    },
+  ],
+};
+
+

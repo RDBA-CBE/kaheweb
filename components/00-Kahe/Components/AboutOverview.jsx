@@ -32,7 +32,17 @@ const AboutOverview = ({ data }) => {
                   )}
                   {data.title && <h4 className="decor-ti">{data.title}</h4>}
                   {data.content && (
-                    <p className="description sal-animate">{data.content}</p>
+                    <p className="description sal-animate mb-1" dangerouslySetInnerHTML={{__html:data.content}}></p>
+                  )}
+                  {data?.links && data?.links.length > 0 && (
+                    <ul className="split-list sal-animate">
+                      {data.links.map((item, innerIndex) => (
+                        <li className="d-flex py-0 my-0" key={innerIndex}>
+                          <span className="fw-semibold">{item.title}&nbsp;</span>
+                          <span><a href={item.url}>{item.content}</a></span>
+                        </li>
+                      ))}
+                    </ul>
                   )}
                   {data.list && (
                     <ul className="split-list sal-animate">

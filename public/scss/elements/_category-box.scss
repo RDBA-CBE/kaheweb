@@ -5,7 +5,7 @@
     @extend %transition;
     display: block;
     .inner {
-        background-color: var(--color-white);
+        // background-color: var(--color-white);
         box-shadow: var(--shadow-1);
         border-radius: var(--radius-10);
         padding: 50px 40px;

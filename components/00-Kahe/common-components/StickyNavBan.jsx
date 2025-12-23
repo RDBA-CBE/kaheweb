@@ -3,10 +3,10 @@
 import { base } from "@/utils/constant.util";
 import Link from "next/link";
 import { FaChevronRight } from "react-icons/fa";
-// import { useAppContext } from "@/context/Context";
+import { useAppContext } from "@/context/Context";
 
-const Breadcrumb = ({ items = [], showHome = true }) => {
-  // const { sidebar, setSidebar } = useAppContext();
+const StickyBreadcrumb = ({ items = [], showHome = true }) => {
+  const { sidebar, setSidebar } = useAppContext();
 
   // Default Home item
   const homeItem = { label: "Home", href: "/" };
@@ -20,7 +20,7 @@ const Breadcrumb = ({ items = [], showHome = true }) => {
   return (
     <nav
       aria-label="Breadcrumb "
-      className="section-wid py-3 px-0 mt-3 kahe-breadcrumb d-flex justify-content-between"
+      className="section-wid py-3 mt-3 px-0 kahe-breadcrumb d-flex justify-content-between "
     >
       <ol
         className="d-flex flex-wrap  align-items-center mb-0 ps-0"
@@ -55,7 +55,7 @@ const Breadcrumb = ({ items = [], showHome = true }) => {
         })}
       </ol>
 
-      {/* <span className="mobile-menu-bar d-none d-lg-block sidebar">
+      <span className="mobile-menu-bar d-none d-lg-block sidebar">
         <div
           href="#"
           className="hamberger"
@@ -63,9 +63,9 @@ const Breadcrumb = ({ items = [], showHome = true }) => {
         >
           <span>Quick Links</span><i className="feather-menu"></i>
         </div>
-      </span> */}
+      </span>
     </nav>
   );
 };
 
-export default Breadcrumb;
+export default StickyBreadcrumb;

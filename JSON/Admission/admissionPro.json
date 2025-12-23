@@ -1,0 +1,179 @@
+{
+  "bannerCon": {
+    "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+    "title": "Admissions Procedure",
+    "bannerCon": "To be a leading institution in the field of education, providing quality education and training to students and professionals.",
+    "applyLink": "/"
+  },
+  "programmes": {
+    "title": "Arts, Science, Commerce and Management",
+    "img": "/images/Kahe/Innerpages/image-1.jpg",
+    "desc": "Application may be submitted to their respective courses along with their testimonials, eligible candidates will be called for admission.",
+    "content": [
+      {
+        "title": "Regulations of FASCM 2023 – UG",
+        "url": "https://kahedu.edu.in/n/wp-content/uploads/2023/07/FASCM-UG-REGULATION-2023_FINAL.pdf"
+      },
+      {
+        "title": "Regulations of FASCM 2023 – PG",
+        "url": "https://kahedu.edu.in/n/wp-content/uploads/2023/07/FASCM-PG-REGULATION-2023_FINAL.pdf"
+      }
+    ]
+  },
+
+  "Engineering": {
+    "title": "Engineering",
+    "img": "/images/Kahe/Innerpages/image-1.jpg",
+    "desc": "The applicant may submit their applications along with their testimonials. Students have to appear for an entrance examination. Based on the entrance examination and their +2 marks, admission will be provided.",
+    "content": [
+      {
+        "title": "Regulations of FOE 2023",
+        "url": "https://kahedu.edu.in/n/wp-content/uploads/2023/07/FoE.pdf"
+      }
+    ]
+  },
+
+  "architecture": {
+    "title": "Architecture",
+    "img": "/images/Kahe/Innerpages/image-1.jpg",
+    "desc": "Applicant can submit their application for the courses along with NATA (National Aptitude Test in Architecture) score for B.Arch Programme. For other programmes, Students can directly submit their application along with testimonials.",
+    "content": [
+      {
+        "title": "Regulations of B.Arch 2023",
+        "url": "https://kahedu.edu.in/n/wp-content/uploads/2023/07/B.Arch_.pdf"
+      },
+      {
+        "title": "Regulations of B.Des FD 2023",
+        "url": "https://kahedu.edu.in/n/wp-content/uploads/2023/07/B.Des-FD-2023-regualtions-only.pdf"
+      },
+      {
+        "title": "Regulations of B.Des ID 2023",
+        "url": "https://kahedu.edu.in/n/wp-content/uploads/2023/07/B.Des-ID-2023-regualtions-only.pdf"
+      },
+      {
+        "title": "Regulations of M.Arch 2023",
+        "url": "https://kahedu.edu.in/n/wp-content/uploads/2023/07/M.Arch-2023-regulations-only.pdf"
+      },
+      {
+        "title": "Regulations of M.Plan 2023",
+        "url": "https://kahedu.edu.in/n/wp-content/uploads/2023/07/M.Plan-2023-regualtions-only.pdf"
+      }
+    ]
+  },
+
+  "pharmacy": {
+    "title": "Pharmacy",
+    "img": "/images/Kahe/Innerpages/image-1.jpg",
+    "desc": "Application may be submitted to their respective courses along with their testimonials, eligible candidates will be called for admission."
+  },
+
+  "contact": {
+    "title": "Contact Information",
+    "content": "Karpagam Academy of Higher Education, <br/> Eachanari PostPollachi Main Road, <br/> Coimbatore – 641 021, <br/> Tamil Nadu, India.",
+    "src": "/images/Kahe/Innerpages/vission.jpg",
+    "links": [
+      {
+        "title": "Phone : ",
+        "content": "+91-422 – 2980011 – 14",
+        "url": "tellto:+91-422 – 2980011 – 14"
+      },
+      {
+        "title": "Email : ",
+        "content": "registrar@kahedu.edu.in",
+        "url": "mailto:registrar@kahedu.edu.in"
+      },
+      {
+        "title": "Email : ",
+        "content": "info@kahedu.edu.in",
+        "url": "mailto:info@kahedu.edu.in"
+      }
+    ],
+
+    "btn": "Apply Now",
+    "btnLink": "#"
+  },
+
+  "phone": {
+    "content": [
+      {
+        "title": "Arts, Science, Commerce and Management",
+        "links": [
+          {
+            "title": "Mobile :",
+            "content": "9384049305",
+            "url": "tellto:9384049305"
+          },
+          {
+            "title": "Mobile :",
+            "content": "9384049307",
+            "url": "tellto:9384049307"
+          }
+        ]
+      },
+      {
+        "title": "Engineering",
+
+        "links": [
+          {
+            "title": "Mobile :",
+            "content": "9384049306",
+            "url": "tellto:9384049306"
+          },
+          {
+            "title": "Mobile :",
+            "content": "9384049309",
+            "url": "tellto:9384049309"
+          },
+          {
+            "title": "Mobile :",
+            "content": "9150041886",
+            "url": "tellto:9150041886"
+          }
+        ]
+      },
+      {
+        "title": "Architecture",
+       
+        "links": [
+          {
+            "title": "Mobile :",
+            "content": "7373000137",
+            "url": "tellto:7373000137"
+          },
+          {
+            "title": "Mobile :",
+            "content": "9384049309",
+            "url": "tellto:9384049309"
+          }
+        ]
+      },
+      {
+        "title": "Pharmacy",
+
+        "links": [
+          {
+            "title": "Mobile :",
+            "content": "8220333850",
+            "url": "tellto:8220333850"
+          }
+        ]
+      },
+      {
+        "title": "Other State Enquiry",
+
+        "links": [
+          {
+            "title": "Mobile :",
+            "content": "9150041886",
+            "url": "tellto:9150041886"
+          },
+          {
+            "title": "Mobile :",
+            "content": "8220333850",
+            "url": "tellto:8220333850"
+          }
+        ]
+      }
+    ]
+  }
+}

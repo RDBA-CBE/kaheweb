@@ -1,0 +1,74 @@
+{
+  "bannerCon": {
+    "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+    "title": "How to apply",
+    "bannerCon": "To be a leading institution in the field of education, providing quality education and training to students and professionals.",
+    "applyLink": "/"
+  },
+  "HowToApply": {
+    "title": "How to apply",
+
+    "content": [
+      {
+        "title": "Call Admissions Team",
+        "bgcolor": "bg-lblue shadow-none",
+        "src": "/images/Kahe/Innerpages/customer-service.png",
+        "ulcls": "d-flex flex-column align-items-center justify-content-center h-100",
+        "links": [
+          {
+            "icon":"feather-phone-call",
+            "clsname":"justify-content-center fs-1  py-2",
+            "text": "9384049305",
+            "url": "tellto:9384049305"
+          },
+          {
+            "icon":"feather-phone-call",
+            "clsname":"justify-content-center fs-1  py-2",
+            "text": "9384049307",
+            "url": "tellto:9384049307"
+          },
+          {
+            "icon":"feather-phone-call",
+            "clsname":"justify-content-center fs-1  py-2",
+            "text": "9384049309",
+            "url": "tellto:9384049309"
+          }
+        ]
+      },
+      {
+        "title": "application",
+        "bgcolor": "bg-lred shadow-none",
+        "ConClsName": "text-center",
+        "content": "Also Candidates can download the application form and mail the filled in form with DD drawn in favour of Karpagam Academy of Higher Education, payable at Coimbatore.",
+        "btnText": "Download Application Form",
+        "btnUrl": "https://kahedu.edu.in/admissions/downloads/",
+        "src": "/images/Kahe/Innerpages/job-application.png"
+      },
+      {
+        "title": "Contact Information",
+        "bgcolor": "bg-lgreen-1 shadow-none",
+        "src": "/images/Kahe/Innerpages/location.png",
+        "ConClsName": "text-start",
+        "subtitle": "The Registrar",
+        "content": "Karpagam Academy of Higher Education, <br/> Eachanari Post <br/> Pollachi Main Road, <br/> Coimbatore – 641 021, <br/>Tamil Nadu, India.",
+         "links": [
+          {
+            "icon":"feather-phone-call",
+            "text": "9384049305",
+            "url": "tellto:9384049305"
+          },
+          {
+            "icon":"feather-mail",
+            "text": "registrar@kahedu.edu.in",
+            "url": "mailto:registrar@kahedu.edu.in"
+          },
+          {
+            "icon":"feather-mail",
+            "text": "info@kahedu.edu.in",
+            "url": "mailto:info@kahedu.edu.in"
+          }
+        ]
+      }
+    ]
+  }
+}

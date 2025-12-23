@@ -246,6 +246,10 @@
   background: #f2fff9;
 }
 
+.bg-lgreen-1 {
+  background: #e0fff1;
+}
+
 .bg-gray {
   background: #e6e4e4;
 }
@@ -263,7 +267,7 @@
 }
 
 .bg-lred {
-  background: #eee3c5;
+  background: #f9efd2;
 }
 
 .text-green {
@@ -424,6 +428,16 @@
   background: #f7f7f7;
   border-radius: 6px;
   font-weight: 600;
+}
+
+.sidebar .hamberger span {
+  font-size: 14px;
+}
+.sidebar .hamberger i {
+  padding-top: 40px;
+  position: relative;
+  top: 2px;
+  left: 2px;
 }
 
 .accordion-icon {
@@ -697,6 +711,12 @@
   color: #fff;
 }
 
+@media (max-width: 990px) {
+  .breadcrumb.sticky-top {
+    position: unset;
+  }
+}
+
 /* Banner.css */
 
 .uw-banner-container {
@@ -818,7 +838,7 @@
   position: relative;
   z-index: 1;
   transition: all 0.4s ease-in-out;
-  border-radius: 6px;
+  border-radius: 50px;
   border: 0;
   outline: none;
   text-decoration: none;
@@ -840,10 +860,16 @@
   color: #fff;
 }
 
+.kahe-btn-primary.rbt-btn span {
+  color: #fff;
+}
+
 .kahe-btn-primary.rbt-btn:hover {
-  background-color: #d9e9f4;
+  background-color: #00243db5;
   transform: translateY(-2px);
-  color: #000;
+}
+.kahe-btn-primary.rbt-btn:hover span {
+  color: #fff;
 }
 
 .kahe-btn-secondary {
@@ -968,6 +994,10 @@
   padding: 0;
 }
 
+.kahe-transfer-wrapper.content-image {
+  grid-template-columns: 35% 65%;
+}
+
 .kahe-transfer-left {
   background-size: cover;
   background-position: center;
@@ -1011,27 +1041,73 @@
   position: relative;
 }
 
-.kahe-transfer-yellow {
-  // background: #ffc319;
-  // padding: 25px 40px;
-  // width: 85%;
-  // font-size: 22px;
-  // letter-spacing: 1px;
-  // font-weight: 600;
+// .kahe-transfer-yellow {
+//   // background: #ffc319;
+//   // padding: 25px 40px;
+//   // width: 85%;
+//   // font-size: 22px;
+//   // letter-spacing: 1px;
+//   // font-weight: 600;
 
+//   position: absolute;
+//   top: 80px;
+//   right: 0;
+//   display: flex;
+//   align-items: center;
+//   justify-content: end;
+//   background-color: #153b1c;
+//   width: 120%;
+//   color: #fff !important;
+//   padding: 30px 30px;
+
+//   font-size: 20px;
+//   line-height: 80%;
+// }
+
+.kahe-transfer-yellow {
   position: absolute;
   top: 80px;
   right: 0;
   display: flex;
   align-items: center;
-  justify-content: end;
+  justify-content: flex-end;
   background-color: #153b1c;
   width: 120%;
   color: #fff !important;
-  padding: 30px 30px;
-
+  padding: 30px 30px 30px 60px; /* extra left space for arrow */
   font-size: 20px;
-  line-height: 80%;
+  line-height: 1.2;
+  clip-path: polygon(60px 0, 100% 0, 100% 100%, 60px 100%, 0 50%);
+}
+.image-content .kahe-transfer-left {
+  order: 1;
+}
+
+.image-content .kahe-transfer-right {
+  order: 2;
+}
+
+.content-image .kahe-transfer-left {
+  order: 2;
+}
+
+.content-image .kahe-transfer-right {
+  order: 1;
+}
+
+.content-image .kahe-transfer-yellow {
+  left: 0;
+  z-index: 1;
+
+  justify-content: flex-start;
+
+  clip-path: polygon(
+    0 0,
+    calc(100% - 60px) 0,
+    100% 50%,
+    calc(100% - 60px) 100%,
+    0 100%
+  );
 }
 
 .kahe-transfer-yellow::before {
@@ -1048,6 +1124,11 @@
 .kahe-transfer-link-box {
   margin-top: 180px;
   padding: 10px 40px;
+  min-height: 350px;
+}
+
+.kahe-transfer-link-box p {
+  margin-top: 50px;
 }
 
 .kahe-transfer-link-box h3 {
@@ -2642,5 +2723,50 @@
   background: #f2f5f9;
   padding: 10px;
   width: 60%;
-  border-radius:15px ;
+  border-radius: 15px;
+}
+
+.po-list-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  align-items: stretch;
+  grid-column-gap: 60px;
+}
+
+.po-left {
+  width: 35%;
+}
+
+/* Each item stretches to row height */
+.po-item {
+  display: flex;
+  gap: 40px;
+  padding: 28px 0;
+  border-bottom: 1px solid #e2e2e2;
+}
+
+.po-right ul {
+  list-style: none;
+}
+
+/* bottom border only on last row */
+// .po-item:nth-last-child(-n + 2) {
+//   border-bottom: 1px solid #e2e2e2;
+// }
+@media (max-width: 990px) {
+  .po-list-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 500px) {
+  .po-item {
+    flex-direction: column;
+    gap: 12px;
+  }
+}
+
+.split-area .modern-course-features-box .inner .thumbnail img {
+  height: 300px;
+  object-fit: cover;
 }
