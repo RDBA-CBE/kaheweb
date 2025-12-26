@@ -20,7 +20,7 @@ const StickyBreadcrumb = ({ items = [], showHome = true }) => {
   return (
     <nav
       aria-label="Breadcrumb "
-      className="section-wid py-3 mt-3 px-0 kahe-breadcrumb d-flex justify-content-between "
+      className="section-wid py-3 px-0 kahe-breadcrumb d-flex justify-content-between "
     >
       <ol
         className="d-flex flex-wrap  align-items-center mb-0 ps-0"

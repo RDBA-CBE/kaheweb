@@ -1,0 +1,68 @@
+{
+  "bannerCon": {
+    "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+    "title": "Research",
+    "bannerCon": "To be a leading institution in the field of education, providing quality education and training to students and professionals.",
+    "applyLink": "/"
+  },
+
+  "overview": {
+    "title": "Overview",
+    "content": "At Karpagam Academy of Higher Education, we have always believed that education is endless; the more you delve deeper, the more you realise there is still a lot to discover. Hence, our endeavours are aimed at continuing to foster interdisciplinary research activities in every stream. Each of our faculty has a dedicated agenda and a clear vision to establish path breaking theories with the ultimate objective of unearthing new and showcasing fascinating discoveries to the world. KAHE has a well-defined research promotion policy that aligns with the institution’s vision and mission. This promotional policy is updated and enforced depending on the current situation. The University will guarantee that research in all areas adheres to ethical principles and research standards. The University is devoted to providing staff and students with the necessary monetary and infrastructural assistance to promote research and establish a robust research environment. Research is the basis of knowledge that generates new domain, produces cutting-edge facilities, promotes research publications, develops collaborations and becomes part of active community. KAHE also encourages interdisciplinary research. Karpagam Academy of Higher Education has interdisciplinary research on various aspects of advanced functional materials in cancer research, sensors, batteries, sustainable environments, and joint research endeavours with national institutions and international countries.",
+    "src": "/images/Kahe/Innerpages/vission.jpg"
+  },
+
+  "research": {
+    "title": "RESEARCH HIGHLIGHTS",
+    "src": "/images/Kahe/Innerpages/image-1.jpg",
+    "content": [
+      {
+        "icon": "rs-icon-book",
+        "value": "3300+",
+        "label": "Publications"
+      },
+      {
+        "icon": "rs-icon-fund",
+        "value": "5.60 Cr",
+        "label": "Research Consultancy Projects"
+      },
+      {
+        "icon": "rs-icon-lab",
+        "value": "DST-FIST",
+        "text": "Department of Biotechnology <br /> funded by DST-FIST"
+      },
+      {
+        "icon": "rs-icon-complete",
+        "value": "10.54 Cr",
+        "label": "Completed Projects"
+      },
+      {
+        "icon": "rs-icon-ongoing",
+        "value": "12.48 Cr",
+        "label": "Ongoing Projects"
+      }
+    ]
+  },
+
+  "patents": {
+    "title": "Patents & Copyrights",
+    "src": "/images/Kahe/Innerpages/image-1.jpg",
+    "content": [
+      {
+        "label": "Awarded",
+        "value": 53,
+        "src": "/images/Kahe/Innerpages/wreath.png"
+      },
+      {
+        "label": "Published",
+        "value": 68,
+        "src": "/images/Kahe/Innerpages/wreath.png"
+      },
+      {
+        "label": "Filed",
+        "value": 111,
+        "src": "/images/Kahe/Innerpages/wreath.png"
+      }
+    ]
+  }
+}

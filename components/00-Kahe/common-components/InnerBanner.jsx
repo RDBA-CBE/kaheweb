@@ -1,10 +1,9 @@
 import React from "react";
-import BreadcrumbImage from "../../../public/images/Kahe/breadcrumb/banner-inner1.jpg";
 import Link from "next/link";
 
 const InnerBanner = ({ data }) => {
   return (
-    <div className="uw-banner-container">
+    <div className="uw-banner-container mb--10">
       <div
         className="uw-banner-background"
         style={{

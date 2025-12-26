@@ -1,0 +1,243 @@
+{
+  "bannerCon": {
+    "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+    "title": "Research",
+    "bannerCon": "To be a leading institution in the field of education, providing quality education and training to students and professionals.",
+    "applyLink": "/"
+  },
+
+  "ResearchCentres": {
+    "title": "Faculty of Arts, Science, Commerce and Management",
+    "items1": [
+      {
+        "src": "/images/category/image/web-design.jpg",
+        "content": "Centre for Cancer Research and Animal Cell Culture"
+      },
+      {
+        "src": "/images/category/image/web-design.jpg",
+        "content": "Centre for Architecture and Heritage"
+      },
+      {
+        "src": "/images/category/image/web-design.jpg",
+        "content": "Centre for Natural products and functional foods"
+      },
+      {
+        "src": "/images/category/image/web-design.jpg",
+        "content": "Centre for Material Science"
+      },
+      {
+        "src": "/images/category/image/web-design.jpg",
+        "content": "Centre for Material Chemistry"
+      },
+      {
+        "src": "/images/category/image/web-design.jpg",
+        "content": "Centre for Advanced Battery Research"
+      },
+      {
+        "src": "/images/category/image/web-design.jpg",
+        "content": "Centre for Energy and Environment"
+      },
+      {
+        "src": "/images/category/image/web-design.jpg",
+        "content": "Centre for Interdisciplinary Research"
+      },
+      {
+        "src": "/images/category/image/web-design.jpg",
+        "content": "Centre for Biophotonics and Technology"
+      },
+      {
+        "src": "/images/category/image/web-design.jpg",
+        "content": "Centre for Food nanotechnology"
+      },
+      {
+        "src": "/images/category/image/web-design.jpg",
+        "content": "Centre for Bioinformatics"
+      },
+      {
+        "src": "/images/category/image/web-design.jpg",
+        "content": "Centre for Computational Physics"
+      },
+      {
+        "src": "/images/category/image/web-design.jpg",
+        "content": "Centre for Active Pharmaceutical Ingredient"
+      }
+    ]
+  },
+
+  "centerforBioinformatics": {
+    "content": [
+      {
+        "title1": "Center for Bioinformatics",
+        "content": "Center for Bioinformatics of KAHE is established with experienced faculties and necessary infrastructure to carry out the research activities Structural Bioinformatics, Drug Designing and Discovery, Lead Enrichment and Validation, Proteomics, Gene Analysis, Metabolic pathway analysis and Microbiome. The center caters to provide the suitable research atmosphere and learning environment in the specialized areas. At present, the center involved various projects in different directions towards the WHO goal of “ONE HEALTH” approach, not limited to the development of drug molecules for cancer, filariasis, bacterial resistance, and viral infections. Also, hunt on the identification of novel drug targets and understanding the drug target mechanisms are in progress. The center for Bioinformatics is equipped with commercial and open source softwares such as Schrodinger Molecular modelling commercial package, Gromacs MD simulation package, Auto Dock, MEGA, etc.",
+        "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/indumathi.jpeg"
+      }
+    ]
+  },
+
+  "centreforMaterialsScience": {
+    "content": [
+      {
+        "title1": "Centre for Materials Science",
+        "content": "The Centre for Materials Science (CMS) is dedicated to pioneering research, technological innovation, and education in the field. With three cutting-edge laboratories focusing on functional materials, surface engineering, and material testing, CMS explores a wide spectrum of materials, from sustainable infrastructure to biomedical applications., we delve into diverse realms such as additive materials, energy storage solutions, sustainable infrastructure materials, and electronics/photonics devices. Through its endeavours, CMS aims to drive research advancements, foster technological innovation, provide education and training opportunities, facilitate international collaboration, and secure research funding to propel the field of Materials Science forward into the future. Join us in unlocking the potential of materials for a brighter, more sustainable future.",
+        "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/indumathi.jpeg"
+      }
+    ]
+  },
+
+  "centreforCancerResearch": {
+    "content": [
+      {
+        "title1": "Centre for Cancer Research",
+        "content": "Centre for Cancer Research is aimed at understanding the progression of cancer and actively study the role of growth factor signaling during the cancer metastasis. The centre has cell culture and animal house facilities. The centre is also collaborating clinicians for joint research initiatives. Expertise of the centre facilities include cell culture, molecular biology and small experimental animal-based experiments.",
+        "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/indumathi.jpeg"
+      }
+    ],
+    "src": "/images/Kahe/Innerpages/vission.jpg"
+  },
+
+  "CARVR": {
+    "content": [
+      {
+        "title1": "Centre for Augmented Reality and Virtual Reality (CARVR)",
+        "content": "The Centre for Augmented Reality and Virtual Reality creates a digital space for people to experiment and collaborate on creating, distributing, and consuming new ideas and content. The objective of the Centre for Augmented Reality and Virtual Reality (CARVR) is to advance the research, development, and deployment of augmented reality (AR) and virtual reality (VR) technologies across various sectors and industries. CARVR aims to leverage these immersive technologies to create innovative solutions that enhance human experiences, improve productivity, and drive transformative change in education, healthcare, entertainment, training, and beyond. The centre offers innovative content, services, and technologies and promotes collaboration and technology adoption. The CARVR provides a platform to learn, apply, design, develop, and realize the realities of Augmented Reality (AR) and Virtual Reality (VR) in interdisciplinary domains. The expertise of faculties within the CARVR can vary widely depending on the specific focus areas, such as Augmented and Virtual Reality frameworks for creating immersive virtual environments using Unity and Unreal Engine. Further, our faculty’s expertise includes 3D modelling and animation for creating virtual Assets, characters, and environments using Blender and Maya.",
+        "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/indumathi.jpeg"
+      }
+    ]
+  },
+
+  "CEE": {
+    "content": [
+      {
+        "title1": "Centre for Energy and Environment (CEE)",
+        "content": "The Centre for Energy and Environment is dedicated to advancing research, education, and outreach in the fields of energy and environmental studies. CEE aims to find sustainable solutions to global energy inadequacy and environmental remediation, as global energy systems will experience major changes in the coming decades. These challenges call for scientific knowledge, innovative technology development, policy measures, and action at the local and global levels. The sustainability of the system will prove to be of prime importance- environmentally, economically, and socially. At present, faculty members of CEE are mainly working on metal oxides, zeolite-based metal-organic frameworks (MOFs), 2-D layer materials for energy storage, photocatalytic degradation, and water-splitting applications and solid polymer electrolytes for battery applications.",
+        "links": [
+          {
+            "icon": "feather-chevrons-right",
+            "clsname": "justify-content-start py-2",
+            "text": "International Conference on Advanced Materials for Energy and Environment Sustainability (ICAME2S 2025)",
+            "url": "https://kahedu.edu.in/n/wp-content/uploads/2025/02/ICAME2S_2025.pdf"
+          }
+        ],
+        "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/indumathi.jpeg"
+      }
+    ]
+  },
+
+  "ABRC": {
+    "content": [
+      {
+        "title1": "Advanced battery research centre(ABRC)",
+        "content": "ABRC works in collaboration with Industries to develop energy storage systems based on Lithium-ion, Metal-air batteries, solar Photovoltaic (PV) and Hydrogen fuel cells. ABRC is a battery testing centre with all latest equipment’s to test batteries as per various international standards. ABRC imparts value-based education and permits students to do project works, internships, helps to become entrepreneurs and generate employment.",
+        "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/indumathi.jpeg"
+      }
+    ],
+    "src": "/images/Kahe/Innerpages/vission.jpg"
+  },
+
+  "CMC": {
+    "content": [
+      {
+        "title1": "Centre for Material Chemistry (CMC)",
+        "content": "Centre for Material Chemistry to pursue high end research in the interdisciplinary scientific research, education and extension activity in the field of materials chemistry, established in the confines of a scientific cum educational institution. CMC promotes technical innovations, entrepreneurship and highly engaged in collaborative research on campus and with academic and industry partners nation/worldwide. CMC is fundamental to the success of many chemical-using industries and delivers the advanced materials for next-generation technologies. CMC has dynamic research faculties working in the field of synthetic organic chemistry, nanomaterials, sensors waste water treatment, MOF, electrocatalyst, 2D materials and electrochemical sensors for energy conversions.",
+        "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/indumathi.jpeg"
+      }
+    ],
+    "src": "/images/Kahe/Innerpages/vission.jpg"
+  },
+
+  "centreforNatural": {
+    "content": [
+      {
+        "title1": "Centre for Natural Products and Functional Foods",
+        "title": "Funded Project:",
+
+        "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/indumathi.jpeg",
+        "links": [
+          {
+            "title": "Funding Agency : ",
+            "clsname": "justify-content-start",
+            "text": "DBT"
+          },
+          {
+            "title": "Project Title : ",
+            "clsname": "justify-content-start ",
+            "text": "Developing multi-dimensional package of practices for promoting sustainable management of tea wastes to transform tea industry into carbon neutral and zero waste industry."
+          },
+          {
+            "title": "Sanction No : ",
+            "clsname": "justify-content-start ",
+            "text": "BT/PR45276/NER/95/1921/2022 dated: 12.03.2022"
+          },
+          {
+            "title": "PI : ",
+            "text": "Dr. R. Usha, Professor, Department of Microbiology, Karpagam Academy of Higher Education, Coimbatore – 641 021.",
+            "clsname": "justify-content-start "
+          },
+          {
+            "title": "Cost of the Project : ",
+            "text": "Rs. 47,69,000",
+            "clsname": "justify-content-start "
+          },
+          {
+            "title": "Duration : ",
+            "clsname": "justify-content-start ",
+            "text": "March 2022 – March 2025"
+          },
+          {
+            "icon": "feather-chevrons-right",
+            "clsname": "justify-content-start py-2 mt-4",
+            "text": "Description for DBT Instrument",
+            "url": "https://kahedu.edu.in/research/center-of-excellence/dbt-sponsored-instrument-facilities-under-ner-bpmc-scheme/"
+          },
+          {
+            "icon": "feather-chevrons-right",
+            "clsname": "justify-content-start py-2 ",
+            "text": "Final Fixed Assets",
+            "url": "https://kahedu.edu.in/n/wp-content/uploads/2025/01/Final-FIXED-ASSETS-27.12.2024.pdf"
+          }
+        ]
+      }
+    ],
+
+    "src": "/images/Kahe/Innerpages/vission.jpg"
+  },
+
+  "sophisticatedInstruments": {
+    "title": "Sophisticated instruments facilities @ KAHE",
+    "content": [
+      { "id": 1, "title": "ZOE Fluorescent cell imager" },
+      { "id": 2, "title": "Stratagene Mx 3005P" },
+      { "id": 3, "title": "Planetary ball mill" },
+      {
+        "id": 4,
+        "title": "Electrochemical workstations (CHI660E & VersaSTAT)"
+      },
+      { "id": 5, "title": "HIOKI LCR metre" },
+      { "id": 6, "title": "Universal Testing Machine" },
+      { "id": 7, "title": "Micro Hardness Tester" },
+      { "id": 8, "title": "Horiba Fluorescence Spectrophotometer" },
+      { "id": 9, "title": "NETZSCH Simultaneous Thermal analyser" },
+      { "id": 10, "title": "NETZSCH Differential Scanning Calorimetery" },
+      { "id": 11, "title": "Thermal evaporation unit" },
+      { "id": 12, "title": "Battery multiple parameter tester" },
+      { "id": 13, "title": "UV-2450 UV Visible spectrophotometer" },
+      { "id": 14, "title": "Gas Chromatography" },
+      { "id": 15, "title": "Atomic Absorption Spectrophotometer" },
+      { "id": 16, "title": "2D gel Electrophoresis and Chemidoc" },
+      { "id": 17, "title": "Gene gun" },
+      { "id": 18, "title": "Fluorescence Microscopy" },
+      { "id": 19, "title": "Ultra High-performance Liquid Chromatography" },
+      { "id": 20, "title": "Rota vapour systems" },
+      { "id": 21, "title": "Raman spectrometer" },
+      { "id": 22, "title": "FTIR Spectrometer" },
+      { "id": 23, "title": "UV 3200 Double Beam Spectrophotometer" },
+      {
+        "id": 24,
+        "title": "Marvern Particle size and Zeta potential analyzer"
+      },
+      { "id": 25, "title": "Fermenter with accessories" },
+      { "id": 26, "title": "Fraction collector" },
+      { "id": 27, "title": "Microwave synthesizer" }
+    ]
+  }
+}

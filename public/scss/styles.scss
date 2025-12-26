@@ -1201,6 +1201,10 @@
   border-radius: 4px;
 }
 
+.wht.decor-ti::after {
+  background: #fff;
+}
+
 @media (max-width: 700px) {
   .w-decor-ti {
     font-size: 25px;
@@ -2545,6 +2549,13 @@
   // justify-content: center;
   max-height: 300px;
 }
+.imageFirst.imageLink-sec{
+  gap: 40px;
+}
+
+.imageFirst.imageLink-item1 {
+  order: 1;
+}
 
 .imageLink-item2 img {
   border-radius: 20px;
@@ -2769,4 +2780,146 @@
 .split-area .modern-course-features-box .inner .thumbnail img {
   height: 300px;
   object-fit: cover;
+}
+
+.rs-wrapper {
+  width: 100%;
+  position: relative;
+  background-size: cover;
+  background-position: center;
+  padding: 70px 0px;
+  z-index: 0;
+}
+
+.rs-wrapper::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  inset: 0;
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7));
+  z-index: 0;
+}
+
+.rs-container {
+  position: relative; /* REQUIRED */
+  z-index: 1;
+}
+
+.rs-grid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 40px;
+  align-items: stretch;
+}
+
+.rs-item {
+  text-align: center;
+  color: #ffffff;
+}
+
+.rs-wide {
+  grid-column: span 3;
+}
+
+.rs-icon {
+  width: 80px;
+  height: 80px;
+  padding: 5px;
+  margin: 0 auto 16px;
+  border-radius: 50%;
+  background-color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.rs-icon::before {
+  content: "";
+  width: 26px;
+  height: 26px;
+  background-color: #ffc107;
+  mask-size: contain;
+  mask-repeat: no-repeat;
+  mask-position: center;
+}
+
+
+.rs-value {
+  font-size: 50px;
+  font-weight: 500;
+  color: #f2bf2c;
+  margin-bottom: 6px;
+}
+
+.rs-label {
+
+  opacity: 0.9;
+}
+
+.rs-text {
+  line-height: 1.6;
+  opacity: 0.95;
+}
+
+/* =========================
+   Responsive
+========================= */
+
+@media (max-width: 992px) {
+  .rs-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .rs-wide {
+    grid-column: span 2;
+  }
+}
+
+@media (max-width: 576px) {
+  .rs-grid {
+    grid-template-columns: 1fr;
+    gap: 30px;
+  }
+
+  .rs-wide {
+    grid-column: span 1;
+  }
+
+  .rs-value {
+    font-size: 28px;
+  }
+}
+
+.pci-wrapper {
+  // padding: 60px 0;
+}
+
+.pci-wrapper .simple-counter-card {
+  position: relative;
+}
+
+.pci-wrapper .simple-counter-card:not(:last-child)::after {
+  content: "";
+  position: absolute;
+  right: 0;
+
+  height: 100%;
+  width: 1px;
+  background: #02340b;
+}
+
+.pci-wrapper .img-con {
+  border-radius: 20px;
+}
+
+.pci-wrapper .img-con img {
+  border-radius: 20px;
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  max-height: 500px;
 }

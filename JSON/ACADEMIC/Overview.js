@@ -411,3 +411,68 @@ export const Admissions = {
 };
 
 
+export const Research = {
+  title: "Research",
+  content: [
+    {
+      category: "Timeline Presentation",
+      link: "/research/timeline-presentation/",
+    },
+    {
+      category: "Funded Research Projects / Other Grants / Awards",
+      link: "/research/funded-research-projects-other-grants-awards/",
+    },
+    {
+      category: "Patents",
+      link: "/research/patents/",
+    },
+    {
+      category: "Research Publications",
+      link: "/research/publications/",
+    },
+    {
+      category: "Research Consultancy",
+      link: "/research/research-consultancy/",
+    },
+    {
+      category: "List of PhD Research Scholars",
+      link: "/research/list-of-ph-d-scholars/",
+    },
+    {
+      category: "Research Policy and Guidelines",
+      link: "/research/research-guide-lines/",
+    },
+    {
+      category: "Research Opportunities",
+      link: "/research/research-opportunities-details/",
+    },
+    {
+      category: "List of PhD Research Supervisors",
+      link: "/research/list-of-ph-d-guides-for-research/",
+    },
+    {
+      category: "Viva-Voce Examination",
+      link: "/research/viva-voce-examination/",
+    },
+    {
+      category: "Annual Research Congress",
+      link: "/research/annual-research-congress/",
+    },
+    {
+      category: "Annual Research Congress – Archives",
+      link: "/research/annual-research-congress-archives/",
+    },
+    {
+      category: "Center of Excellence",
+      link: "/research/center-of-excellence/",
+      items: [
+        {
+          name: "DBT Sponsored Instrument Facilities Under NER (BPMC) Scheme",
+          link: "/research/center-of-excellence/dbt-sponsored-instrument-facilities-under-ner-bpmc-scheme/",
+        },
+      ],
+    },
+  ],
+};
+
+

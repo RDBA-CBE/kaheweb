@@ -21,12 +21,6 @@ const NscCommittees = () => {
           <div className="row ">
             <div className="col-lg-9">
 
-                <div>
-                    <h2 className="decor-ti">
-                      {FirstLetterUp(commiteeData?.title)}
-                       
-                    </h2>
-                </div>
               <ListStyle data={commiteeData} />
             </div>
 

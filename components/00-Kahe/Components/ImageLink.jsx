@@ -7,17 +7,20 @@ import {
   splitFirstAndRemaining,
 } from "@/utils/functions.utils";
 
-// Decide split size by screen width
-const getSplitLimit = (width) => {
-  if (width >= 1500) return 900; 
-  if (width >= 1130) return 700; 
-  if (width >= 992) return 600;   
-  if (width >= 768) return 650; 
-  return 400;                     
-};
+const ImageLink = ({ data, firstParaLimit, firstParaSplit, order }) => {
+  const [splitLimit, setSplitLimit] = useState(firstParaLimit ?? 900);
 
-const ImageLink = ({ data }) => {
-  const [splitLimit, setSplitLimit] = useState(900);
+  console.log("firstParaLimit", firstParaLimit);
+  console.log("firstParaSplit", firstParaSplit);
+
+  // Decide split size by screen width
+  const getSplitLimit = (width) => {
+    if (width >= 1500) return firstParaLimit ?? 900;
+    if (width >= 1130) return firstParaLimit ?? 700;
+    if (width >= 992) return firstParaLimit ?? 600;
+    if (width >= 768) return firstParaLimit ?? 650;
+    return firstParaLimit ?? 400;
+  };
 
   useEffect(() => {
     const updateSplit = () => {
@@ -36,20 +39,64 @@ const ImageLink = ({ data }) => {
 
       <div className="row py-5">
         {data?.content?.map((item, index) => {
-          const { firstPart, remaining } = splitFirstAndRemaining(
-            item.content,
-            splitLimit
-          );
-
+          const { firstPart, remaining } = item.content
+            ? splitFirstAndRemaining(item.content, splitLimit)
+            : "";
           return (
-            <div className="imageLink-sec" key={index}>
-              <div className="imageLink-item1">
-                {item.title && (
-                  <h2 className="main-sub-ti">{item.title}</h2>
+            <div
+              className={`imageLink-sec ${order ? `${order}` : ""}`}
+              key={index}
+            >
+              <div className={`imageLink-item1 ${order ? `${order}` : ""}`}>
+                {item?.title1 && (
+                  <div className="decor-ti">{FirstLetterUp(item?.title1)}</div>
                 )}
 
+                {item.title && <h2 className="main-sub-ti">{item.title}</h2>}
+
                 {/* First part */}
-                <p>{splitChar(firstPart, 700)}</p>
+                {firstPart && (
+                  <p>{splitChar(firstPart, firstParaSplit ?? 700)}</p>
+                )}
+
+                {item?.links && item?.links.length > 0 && (
+                  <ul
+                    className={item?.ulcls || "ps-0"}
+                    style={{ listStyle: "none" }}
+                  >
+                    {item?.links?.map((linkItem, linkIndex) => (
+                      <li
+                        key={linkIndex}
+                        className={`my-0 d-flex align-items-start gap-4 ps-0 ${
+                          linkItem?.clsname || ""
+                        }`}
+                      >
+                        <span className="mt-1">
+                          {linkItem?.icon && (
+                            <i className={`${linkItem.icon}`}></i>
+                          )}
+                          {linkItem?.title && (
+                            <p className="me-2 fw-semibold">
+                              {linkItem.title}
+                            </p>
+                          )}
+                        </span>
+
+                        {linkItem?.url ? (
+                          <a
+                            href={linkItem.url}
+                            target="__blank"
+                            className="text-decoration-none"
+                          >
+                            {linkItem.text}
+                          </a>
+                        ) : (
+                          <span>{linkItem.text}</span>
+                        )}
+                      </li>
+                    ))}
+                  </ul>
+                )}
 
                 {item?.url && (
                   <a href={item.url} className="read-more-btn">
@@ -63,10 +110,7 @@ const ImageLink = ({ data }) => {
 
               {item?.src && (
                 <div className="imageLink-item2">
-                  <img
-                    src="/images/Kahe/team-13.png"
-                    alt={item.title || ""}
-                  />
+                  <img src="/images/Kahe/team-13.png" alt={item.title || ""} />
                 </div>
               )}
 
