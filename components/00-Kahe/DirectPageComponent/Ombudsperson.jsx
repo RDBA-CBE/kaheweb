@@ -32,7 +32,7 @@ const Ombudsperson = () => {
                 <div className="omb-item1">
                   <div>
                     <span>Name : </span>
-                    <a href="">
+                    <a href={commiteeData.content[0].url}>
                       <span
                         className="main-sub-ti mb-4"
                         dangerouslySetInnerHTML={{

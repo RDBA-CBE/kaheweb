@@ -1,0 +1,75 @@
+{
+  "bannerCon": {
+    "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+    "title": "Research Publications",
+    "bannerCon": "To be a leading institution in the field of education, providing quality education and training to students and professionals.",
+    "applyLink": "/"
+  },
+  "publications": {
+    "title": "Research Publications",
+    "content": {
+      "head": [
+        { "id": "col1", "label": "S. No." },
+        { "id": "col2", "label": "Year" },
+        { "id": "col3", "label": "No. of Publications" }
+      ],
+      "data": [
+        {
+          "col1": { "text": "1" },
+          "col2": { "text": "2024" },
+          "col3": { "text": "289 (As on 31/03/2024)" }
+        },
+        {
+          "col1": { "text": "2" },
+          "col2": { "text": "2023" },
+          "col3": { "text": "931" }
+        },
+        {
+          "col1": { "text": "3" },
+          "col2": { "text": "2022" },
+          "col3": { "text": "437" }
+        },
+        {
+          "col1": { "text": "4" },
+          "col2": { "text": "2021" },
+          "col3": { "text": "369" }
+        },
+        {
+          "col1": { "text": "5" },
+          "col2": { "text": "2020" },
+          "col3": { "text": "422" }
+        },
+        {
+          "col1": { "text": "6" },
+          "col2": { "text": "2019" },
+          "col3": { "text": "360" }
+        },
+        {
+          "col1": { "text": "7" },
+          "col2": { "text": "2018" },
+          "col3": { "text": "307" }
+        },
+        {
+          "col1": { "text": "8" },
+          "col2": { "text": "2017" },
+          "col3": { "text": "281" }
+        },
+        {
+          "col1": { "text": "9" },
+          "col2": { "text": "2016" },
+          "col3": { "text": "217" }
+        },
+        {
+          "col1": { "text": "10" },
+          "col2": { "text": "2015" },
+          "col3": { "text": "211" }
+        },
+        {
+          "col1": { "text": "11" },
+          "col2": { "text": "2014" },
+          "col3": { "text": "227" }
+        }
+      ]
+    }
+  }
+}

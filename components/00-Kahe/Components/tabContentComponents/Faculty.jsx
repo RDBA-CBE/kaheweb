@@ -6,10 +6,7 @@ const Faculty = ({ facultyContent }) => {
 
   const [toggle, setToggle] = useState(false);
 
-  // Show 10 initially, else show full list
-  const visibleFaculty = toggle
-    ? facultyContent.faculty
-    : facultyContent.faculty.slice(0, 6);
+
 
   return (
     <div className="rbt-dashboard-content bg-color-white">
@@ -58,15 +55,7 @@ const Faculty = ({ facultyContent }) => {
               </table>
             </div>
 
-            {/* {facultyContent.faculty.length > 8 && (
-              <div
-                className={`rbt-show-more-btn ${toggle ? "active" : ""}`}
-                onClick={() => setToggle(!toggle)}
-                style={{ cursor: "pointer", marginTop: "15px" }}
-              >
-                {toggle ? "Show Less" : "Show More"}
-              </div>
-            )} */}
+          
 
           </div>
         </div>

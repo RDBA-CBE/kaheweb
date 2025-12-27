@@ -1,0 +1,31 @@
+{
+  "bannerCon": {
+    "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+    "title": "Annual Research Congress",
+    "bannerCon": "To be a leading institution in the field of education, providing quality education and training to students and professionals.",
+    "applyLink": "/"
+  },
+
+  "annualResearch": {
+    "title": "17th Annual Research Congress: 06.12.2025",
+    "content": [
+      {
+        "subtitle": "17th Annual Research Congress Brochure.",
+        "id": 1,
+        "list": [
+          {
+            "src": "/images/Kahe/Innerpages/file.png",
+
+            "item": "Open Brochure",
+            "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/Research-Grant_20-02-2020.pdf"
+          }
+        ]
+      }
+    ],
+    "src": [{ "id": 1, "src": "/images/Kahe/Innerpages/RTI.jpg" }],
+    "btn": {
+      "btnText": "View Archives",
+      "btnUrl": "/kahe/research/annual-research-congress-archives"
+    }
+  }
+}

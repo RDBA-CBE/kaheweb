@@ -1,0 +1,113 @@
+{
+  "bannerCon": {
+    "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+    "title": "Annual Research Congress Archives",
+    "bannerCon": "To be a leading institution in the field of education, providing quality education and training to students and professionals.",
+    "applyLink": "/"
+  },
+
+  "annualResearch16": {
+    "title": "16th Annual Research Congress – 14.12.2024",
+    "content": [
+      {
+        "subtitle": "16th Annual Research Congress Brochure",
+        "id": 1,
+        "list": [
+          {
+            "src": "/images/Kahe/Innerpages/file.png",
+
+            "item": "Open Brochure",
+            "url": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/KAHEARC_Brochure_2024.pdf"
+          }
+        ]
+      }
+    ],
+    "src": [{ "id": 1, "src": "/images/Kahe/Innerpages/image-1.jpg" }]
+  },
+  "annualResearch15": {
+    "title": "15th Annual Research Congress – 09.12.2023",
+    "content": [
+      {
+        "subtitle": "15th Annual Research Congress Brochure",
+        "id": 1,
+        "list": [
+          {
+            "src": "/images/Kahe/Innerpages/file.png",
+
+            "item": "Open Brochure",
+            "url": "https://kahedu.edu.in/n/wp-content/uploads/2023/11/annual-research-congress-brochure.pdf"
+          }
+        ]
+      },
+      {
+        "subtitle": "15th Annual Research Congress Report",
+        "id": 2,
+        "list": [
+          {
+            "src": "/images/Kahe/Innerpages/file.png",
+
+            "item": "Open Report",
+            "url": "https://kahedu.edu.in/n/wp-content/uploads/2023/12/15th-KAHEARC-2023-Report.pdf"
+          }
+        ]
+      }
+    ],
+    "src": [{ "id": 1, "src": "/images/Kahe/Innerpages/image-1.jpg" }]
+  },
+  "annualResearch14": {
+    "title": "14th Annual Research Congress – 10.12.2022",
+    "content": [
+      {
+        "subtitle": "14th Annual Research Congress Brochure",
+        "id": 1,
+        "list": [
+          {
+            "src": "/images/Kahe/Innerpages/file.png",
+
+            "item": "Open Brochure",
+            "url": "https://kahedu.edu.in/n/wp-content/uploads/2023/07/14th-KAHEARC-Brochure.pdf"
+          }
+        ]
+      },
+      {
+        "subtitle": "14th Annual Research Congress Report",
+        "id": 2,
+        "list": [
+          {
+            "src": "/images/Kahe/Innerpages/file.png",
+
+            "item": "Open Report",
+            "url": "https://kahedu.edu.in/n/wp-content/uploads/2023/07/14th-KAHEARC-2022-Report.pdf"
+          }
+        ]
+      }
+    ],
+    "src": [
+      {
+        "id": 1,
+        "src": "https://kahedu.edu.in/n/wp-content/uploads/2023/01/1.jpg",
+        "alt": "Annual Research Congress - Karpagam Academy - 5"
+      },
+      {
+        "id": 2,
+        "src": "https://kahedu.edu.in/n/wp-content/uploads/2023/01/2.jpg",
+        "alt": "Annual Research Congress - Karpagam Academy - 4"
+      },
+      {
+        "id": 3,
+        "src": "https://kahedu.edu.in/n/wp-content/uploads/2023/01/3.jpg",
+        "alt": "Annual Research Congress - Karpagam Academy - 3"
+      },
+      {
+        "id": 4,
+        "src": "https://kahedu.edu.in/n/wp-content/uploads/2023/01/4.jpg",
+        "alt": "Annual Research Congress - Karpagam Academy - 2"
+      },
+      {
+        "id": 5,
+        "src": "https://kahedu.edu.in/n/wp-content/uploads/2023/01/5.jpg",
+        "alt": "Annual Research Congress - Karpagam Academy - 1"
+      }
+    ]
+  }
+}
