@@ -2677,7 +2677,7 @@ grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
   cursor: pointer;
 }
 
-.fg-card:hover {
+ .fg-card:hover {
   background-color: #e0fff1;
   // transform: translateY(-4px);
 }
@@ -2960,4 +2960,142 @@ grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
   width: 100%;
   height: 100%;
   max-height: 500px;
+}
+
+
+/* youtubeVideoSection.css */
+
+
+
+/* Card */
+.yt-video-card {
+  border-radius: 16px;
+  overflow: hidden;
+  background: #fff;
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.08);
+  height: 100%;
+}
+
+/* Thumbnail */
+.yt-video-thumb {
+  position: relative;
+  display: block;
+}
+
+.yt-video-thumb img {
+  width: 100%;
+  height: 220px;
+  object-fit: cover;
+}
+
+/* Play Button */
+.yt-play-btn {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.yt-play-btn i {
+     font-size: 20px;
+    color: #192335;
+    background: rgb(255 255 255);
+    border-radius: 50%;
+    padding: 10px 10px;
+}
+
+/* Content */
+.yt-video-content {
+  padding: 14px 16px;
+}
+
+.yt-video-title {
+  line-height: 1.4;
+  margin-bottom: 8px;
+}
+
+.yt-video-doctor {
+  display: inline-block;
+  font-size: 13px;
+  color: #fff;
+  background: #0d6efd;
+  padding: 4px 10px;
+  border-radius: 20px;
+}
+
+/* Hover */
+.yt-video-card:hover {
+  transform: translateY(-4px);
+  transition: 0.3s ease;
+}
+
+/* ================= Responsive ================= */
+
+@media (max-width: 991px) {
+  .yt-video-thumb img {
+    height: 200px;
+  }
+}
+
+@media (max-width: 767px) {
+  .yt-video-thumb img {
+    height: 180px;
+  }
+
+  .yt-video-title {
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 575px) {
+  .yt-video-thumb img {
+    height: 160px;
+  }
+}
+
+
+/* allow multi-row */
+.specialty-multirow-swiper .swiper-wrapper {
+  // flex-wrap: wrap;
+}
+
+/* each column height = 3 rows */
+.specialty-multirow-slide {
+  height: calc((100% - 40px) / 3);
+}
+
+/* card styling */
+.specialty-slide-card {
+  height: 100%;
+  background: #eef0fb;
+  border-radius: 16px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  transition: 0.3s;
+}
+
+.specialty-slide-card:hover {
+  background: #e0f3e6;
+}
+
+.specialty-slide-icon {
+  width: 50px;
+  height: 50px;
+}
+
+.specialty-slide-title {
+  font-size: 0.9rem;
+  font-weight: 500;
+  color: #1f237d;
+  line-height: 1.3;
+}
+
+/* mobile adjustments */
+@media (max-width: 768px) {
+  .specialty-slide-icon {
+    width: 40px;
+    height: 40px;
+  }
 }

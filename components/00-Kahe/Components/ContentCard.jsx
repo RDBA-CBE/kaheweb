@@ -8,7 +8,7 @@ const ContentCard = ({ data }) => {
         <h2
           className="decor-ti"
           dangerouslySetInnerHTML={{
-            __html: FirstLetterUp(data?.title),
+            __html: FirstLetterUp(data?.title)
           }}
         ></h2>
 
@@ -20,10 +20,13 @@ const ContentCard = ({ data }) => {
                   {FirstLetterUp(data?.subtitle)}
                 </h3>
               )}
+
+              {/* title : content start */}
+              
               {(data?.title1 || data?.content1) && (
                 <div>
                   <span>{data?.title1} &nbsp; </span>
-                  <a href={data?.url1}>
+                  <a href={data?.url1} target={data?.target}>
                     <span
                       className="main-sub-ti mb-4"
                       dangerouslySetInnerHTML={{
@@ -40,14 +43,17 @@ const ContentCard = ({ data }) => {
                 </p>
               )}
 
+              {/* title : content end */}
+
               <ul className="list-unstyled">
                 {data?.list?.map((item, index) =>
                   item?.src ? (
+                    //  para content with image icon
                     <li
                       className="d-flex gap-3 justify-content-between"
                       key={index}
                     >
-                      <a href={item?.url}>{item?.item}</a>
+                      <a href={item?.url} target={item?.target}>{item?.item}</a>
                       {item?.src && (
                         <a href={item?.url}>
                           <img src={item?.src} alt={item?.item} width={25} />
@@ -55,6 +61,8 @@ const ContentCard = ({ data }) => {
                       )}
                     </li>
                   ) : (
+
+                    //  list content with image icon or i-tag icon
                     <li className="d-flex gap-3" key={index}>
                       {item?.i_icon && (
                         <i className={`${item?.i_icon} mt-2`}></i>
@@ -62,7 +70,7 @@ const ContentCard = ({ data }) => {
                       {item?.img_icon && (
                         <img src={item?.img_icon} alt={item?.item} />
                       )}
-                      <a href={item?.url}>{item?.item}</a>
+                      <a href={item?.url} target={item?.target}>{item?.item}</a>
                     </li>
                   )
                 )}

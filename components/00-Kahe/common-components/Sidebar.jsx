@@ -28,6 +28,9 @@ const Sidebar = ({ subMenu }) => {
 
   return (
     <div className="content-item-content in-sidebar">
+      <h3 className="main-sub-ti mb-3">
+        {subMenu.title}
+      </h3>
       <div className="rbt-widget-details has-show-more">
         <ul className="has-show-more-inner-content rbt-course-details-list-wrapper">
           {subMenu?.content?.map((item, index) => {

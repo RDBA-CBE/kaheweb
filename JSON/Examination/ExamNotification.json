@@ -1,0 +1,376 @@
+{
+  "bannerCon": {
+    "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+    "title": "Exam Notification",
+    "bannerCon": "To be a leading institution in the field of education, providing quality education and training to students and professionals.",
+    "applyLink": "/"
+  },
+  "examiNotify": {
+    "title": "Circular",
+    "content": [
+      {
+        "head": [
+          { "id": "col1", "label": "S. No." },
+          {
+            "id": "col2",
+            "label": "PH.D VIVA VOCE NOTIFICATION DECEMBER 2025 – JANUARY 2026"
+          }
+        ],
+
+        "data": [
+          {
+            "col1": { "text": "1" },
+            "col2": {
+              "text": "I MUFIDA BEGUM 19JLDRPPY005",
+              "url": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Ph.D-VIVA-VOCE-NOTIFICATION-JANUARY-2026-I-MUFIDA-BEGUM-19JLDRPPY005.pdf",
+              "img_icon": "/images/Kahe/Innerpages/file.png",
+              "target": "__blank"
+            }
+          },
+          {
+            "col1": { "text": "2" },
+            "col2": {
+              "text": "K S PRAVEEN KUMAR 18JLDRPCS019",
+              "url": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Ph.D-VIVA-VOCE-NOTIFICATION-DECEMBER-2025-K-S-PRAVEEN-KUMAR-18JLDRPCS019.pdf",
+              "img_icon": "/images/Kahe/Innerpages/file.png",
+              "target": "__blank"
+            }
+          },
+          {
+            "col1": { "text": "3" },
+            "col2": {
+              "text": "INDU SUSSAN VARGHESE 19JLDRPCS009",
+              "url": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Ph.D-VIVA-VOCE-NOTIFICATION-DECEMBER-2025-INDU-SUSSAN-VARGHESE-19JLDRPCS009.pdf",
+              "img_icon": "/images/Kahe/Innerpages/file.png",
+              "target": "__blank"
+            }
+          },
+          {
+            "col1": { "text": "4" },
+            "col2": {
+              "text": "ARSHAD P T 20DRPCS011",
+              "url": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Ph.D-VIVA-VOCE-NOTIFICATION-DECEMBER-2025-ARSHAD-P-T-20DRPCS011.pdf",
+              "img_icon": "/images/Kahe/Innerpages/file.png",
+              "target": "__blank"
+            }
+          },
+          {
+            "col1": { "text": "5" },
+            "col2": {
+              "text": "I PRINCE HERALD MILTON 21DRPPH002",
+              "url": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/PhD-VIVA-VOCE-NOTIFICATION-DEC-2025-I-PRINCE-HERALD-MILTON-21DRPPH002.pdf",
+              "img_icon": "/images/Kahe/Innerpages/file.png",
+              "target": "__blank"
+            }
+          },
+          {
+            "col1": { "text": "6" },
+            "col2": {
+              "text": "S PADMAVATHI 19JLDRPPH001",
+              "url": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Ph-D-VIVA-VOCE-NOTIFICATION-DEC-2025-S-PADMAVATHI-19JLDRPPH001.pdf",
+              "img_icon": "/images/Kahe/Innerpages/file.png",
+              "target": "__blank"
+            }
+          },
+          {
+            "col1": { "text": "7" },
+            "col2": {
+              "text": "BALU K P 21DRMG001",
+              "url": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Ph.D-VIVA-VOCE-NOTIFICATION-DEC-2025-BALU-K-P-21DRMG001.pdf",
+              "img_icon": "/images/Kahe/Innerpages/file.png",
+              "target": "__blank"
+            }
+          },
+          {
+            "col1": { "text": "8" },
+            "col2": {
+              "text": "G JAYAPRADHA 22DRBC001",
+              "url": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Ph.D-VIVA-VOCE-NOTIFICATION-DEC-2025-G-JAYAPRADHA-22DRBC001.pdf",
+              "img_icon": "/images/Kahe/Innerpages/file.png",
+              "target": "__blank"
+            }
+          },
+          {
+            "col1": { "text": "9" },
+            "col2": {
+              "text": "ANJU E M 21DRPCE002",
+              "url": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Ph.D-VIVA-VOCE-NOTIFICATION-DEC-2025-ANJU-E-M-21DRPCE002.pdf",
+              "img_icon": "/images/Kahe/Innerpages/file.png",
+              "target": "__blank"
+            }
+          },
+          {
+            "col1": { "text": "10" },
+            "col2": {
+              "text": "C ANBALAGAN 21DRPMG003",
+              "url": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Ph.D-VIVA-VOCE-NOTIFICATION-DEC-2025-C-ANBALAGAN-21DRPMG003.pdf",
+              "img_icon": "/images/Kahe/Innerpages/file.png",
+              "target": "__blank"
+            }
+          },
+          {
+            "col1": { "text": "11" },
+            "col2": {
+              "text": "REJIMON A V 21JLDRPMG005",
+              "url": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Ph.D-VIVA-VOCE-NOTIFICATION-DEC-2025-REJIMON-A-V-21JLDRPMG005.pdf",
+              "img_icon": "/images/Kahe/Innerpages/file.png",
+              "target": "__blank"
+            }
+          },
+          {
+            "col1": { "text": "12" },
+            "col2": {
+              "text": "SURENTHER I 21DRPECE004",
+              "url": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Ph.D-VIVA-VOCE-NOTIFICATION-DEC-2025-SURENTHER-I-21DRPECE004.pdf",
+              "img_icon": "/images/Kahe/Innerpages/file.png",
+              "target": "__blank"
+            }
+          },
+          {
+            "col1": { "text": "13" },
+            "col2": {
+              "text": "R PARTHASAARATHI 21DRPCE009",
+              "url": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Ph.D-VIVA-VOCE-NOTIFICATION-DEC-2025-R-PARTHASAARATHI-21DRPCE009.pdf",
+              "img_icon": "/images/Kahe/Innerpages/file.png",
+              "target": "__blank"
+            }
+          },
+          {
+            "col1": { "text": "14" },
+            "col2": {
+              "text": "S SANJANA 21JLDRPPH001",
+              "url": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Ph.D-VIVA-VOCE-NOTIFICATION-JANUARY-2026-S-SANJANA-21JLDRPPH001.pdf",
+              "img_icon": "/images/Kahe/Innerpages/file.png",
+              "target": "__blank"
+            }
+          },
+          {
+            "col1": { "text": "15" },
+            "col2": {
+              "text": "V GOWRI 21DRPTA002",
+              "url": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Ph.D-VIVA-VOCE-NOTIFICATION-DEC-2025-V-GOWRI-21DRPTA002.pdf",
+              "img_icon": "/images/Kahe/Innerpages/file.png",
+              "target": "__blank"
+            }
+          },
+          {
+            "col1": { "text": "16" },
+            "col2": {
+              "text": "VEENA ANTONY 21DRPCS008",
+              "url": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Ph.D-VIVA-VOCE-NOTIFICATION-DEC-2025-VEENA-ANTONY21DRPCS008.pdf",
+              "img_icon": "/images/Kahe/Innerpages/file.png",
+              "target": "__blank"
+            }
+          }
+        ]
+      },
+
+      {
+        "head": [
+          { "id": "col1", "label": "S. No." },
+          {
+            "id": "col2"
+          }
+        ],
+
+        "data": [
+          {
+            "col1": { "text": "1" },
+            "col2": {
+              "text": "FADP 2022,2023,2024 BATCH(UG & PG) ESE FEE CIRCULAR DECEMBER 2025",
+              "url": "https://kahedu.edu.in/n/wp-content/uploads/2025/11/FADP-202220232024-BATCHUG-PG-ESE-FEE-CIRCULAR-DECEMBER-2025.pdf",
+              "img_icon": "/images/Kahe/Innerpages/file.png",
+              "target": "__blank"
+            }
+          },
+          {
+            "col1": { "text": "2" },
+            "col2": {
+              "text": "FOE 2025 BATCH(UG & PG) ESE FEE CIRCULAR DECEMBER 2025",
+              "url": "https://kahedu.edu.in/n/wp-content/uploads/2025/11/FOE-2025-BATCHUG-PG-ESE-FEE-CIRCULAR-DECEMBER-2025.pdf",
+              "img_icon": "/images/Kahe/Innerpages/file.png",
+              "target": "__blank"
+            }
+          },
+          {
+            "col1": { "text": "3" },
+            "col2": {
+              "text": "FASCM 2025 BATCH(UG & PG) ESE FEE CIRCULAR NOVEMBER – 2025",
+              "url": "https://kahedu.edu.in/n/wp-content/uploads/2025/10/FASCM-2025-BATCHUG-PG-ESE-FEE-CIRCULAR-NOVEMBER-2025.pdf",
+              "img_icon": "/images/Kahe/Innerpages/file.png",
+              "target": "__blank"
+            }
+          }
+        ]
+      },
+
+      {
+        "head": [
+          { "id": "col1", "label": "S. No." },
+          {
+            "id": "col2",
+            "label": "PH.D VIVA VOCE EXAMINATION NOTIFICATION OCTOBER 2025"
+          }
+        ],
+        "data": [
+          {
+            "col1": { "text": "1" },
+            "col2": {
+              "text": "G DHIVYA 20DRPCS009",
+              "url": "https://kahedu.edu.in/n/wp-content/uploads/2025/09/PH.D-VIVA-VOCE-NOTIFICATION-OCTOBER-2025-G-DHIVYA-20DRPCS009.pdf",
+              "img_icon": "/images/Kahe/Innerpages/file.png",
+              "target": "__blank"
+            }
+          },
+          {
+            "col1": { "text": "2" },
+            "col2": {
+              "text": "P S FELIX 19DRPCS001",
+              "url": "https://kahedu.edu.in/n/wp-content/uploads/2025/09/PH.D-VIVA-VOCE-NOTIFICATION-OCTOBER-2025-P-S-FELIX-19DRPCS001.pdf",
+              "img_icon": "/images/Kahe/Innerpages/file.png",
+              "target": "__blank"
+            }
+          }
+        ]
+      },
+
+      {
+        "head": [
+          { "id": "col1", "label": "S. No." },
+          {
+            "id": "col2",
+            "label": "PH.D VIVA VOCE EXAMINATION NOTIFICATION OCTOBER 2025 (06.10.2025 – 07.10.2025)"
+          }
+        ],
+        "data": [
+          {
+            "col1": { "text": "1" },
+            "col2": {
+              "text": "ARUL ROZARIO M A 20DRPCS015",
+              "url": "https://kahedu.edu.in/n/wp-content/uploads/2025/09/PH.D-VIVA-VOCE-NOTIFICATION-ARUL-ROZARIO-M-A-2ODRPCS015.pdf",
+              "img_icon": "/images/Kahe/Innerpages/file.png",
+              "target": "__blank"
+            }
+          },
+          {
+            "col1": { "text": "2" },
+            "col2": {
+              "text": "SUJATHA U 21DRPCS009",
+              "url": "https://kahedu.edu.in/n/wp-content/uploads/2025/09/PH.D-VIVA-VOCE-NOTIFICATION-SUJATHA-U-21DRPCS009.pdf",
+              "img_icon": "/images/Kahe/Innerpages/file.png",
+              "target": "__blank"
+            }
+          }
+        ]
+      },
+
+      {
+        "head": [
+          { "id": "col1", "label": "S. No." },
+          {
+            "id": "col2",
+            "label": "PH.D VIVA VOCE EXAMINATION NOTIFICATION OCTOBER 2025 (08.10.2025 – 10.10.2025)"
+          }
+        ],
+        "data": [
+          {
+            "col1": { "text": "1" },
+            "col2": {
+              "text": "SAIRAM SHANKAR SRINIVASAN 20DRPCE003",
+              "url": "https://kahedu.edu.in/n/wp-content/uploads/2025/09/PH.D-VIVA-VOCE-NOTIFICATION-SAIRAM-SHANKAR-SRINIVASAN-20DRPCE003.pdf",
+              "img_icon": "/images/Kahe/Innerpages/file.png",
+              "target": "__blank"
+            }
+          },
+          {
+            "col1": { "text": "2" },
+            "col2": {
+              "text": "G SARAVANAN 21JLDRPTA001",
+              "url": "https://kahedu.edu.in/n/wp-content/uploads/2025/09/PH.D-VIVA-VOCE-NOTIFICATION-G-SARAVANAN-21JLDRPTA001.pdf",
+              "img_icon": "/images/Kahe/Innerpages/file.png",
+              "target": "__blank"
+            }
+          },
+          {
+            "col1": { "text": "3" },
+            "col2": {
+              "text": "NAVEENKUMAR S 20DRPCE001",
+              "url": "https://kahedu.edu.in/n/wp-content/uploads/2025/09/PH.D-VIVA-VOCE-NOTIFICATION-NAVEENKUMAR-S-20DRPCE001.pdf",
+              "img_icon": "/images/Kahe/Innerpages/file.png",
+              "target": "__blank"
+            }
+          }
+        ]
+      },
+
+      {
+        "head": [{ "id": "col1", "label": "S. No." }, { "id": "col2" }],
+        "data": [
+          {
+            "col1": { "text": "1" },
+            "col2": {
+              "text": "PH.D VIVA VOCE EXAMINATION NOTIFICATION OCTOBER 2025 (06.10.2025 – 14.10.2025)",
+              "url": "https://kahedu.edu.in/n/wp-content/uploads/2025/09/PH.D-VIVA-VOCE-EXAMINATION-NOTIFICATION-OCTOBER-2025.pdf",
+              "img_icon": "/images/Kahe/Innerpages/file.png",
+              "target": "__blank"
+            }
+          },
+          {
+            "col1": { "text": "2" },
+            "col2": {
+              "text": "ENGINEERING II & III YEAR EXAM FEES CIRCULAR OCTOBER – 2025",
+              "url": "https://kahedu.edu.in/n/wp-content/uploads/2025/09/ENGINEERING-II-III-YEAR-FEES-CIRCULAR-OCTOBER-2025.pdf",
+              "img_icon": "/images/Kahe/Innerpages/file.png",
+              "target": "__blank"
+            }
+          },
+          {
+            "col1": { "text": "3" },
+            "col2": {
+              "text": "FOE – End Semester Time Table – IV YEAR – SEPTEMBER 2025",
+              "url": "https://kahedu.edu.in/n/wp-content/uploads/2025/09/FOE-CIRCULAR-IV-YEAR-SEP-2025.pdf",
+              "img_icon": "/images/Kahe/Innerpages/file.png",
+              "target": "__blank"
+            }
+          },
+          {
+            "col1": { "text": "4" },
+            "col2": {
+              "text": "Circular – FOE",
+              "url": "https://kahedu.edu.in/n/wp-content/uploads/2025/04/FOE-I-UG-TIME-TABLE.pdf",
+              "img_icon": "/images/Kahe/Innerpages/file.png",
+              "target": "__blank"
+            }
+          },
+          {
+            "col1": { "text": "5" },
+            "col2": {
+              "text": "Circular – FOP",
+              "url": "https://kahedu.edu.in/n/wp-content/uploads/2025/04/FOP-TIME-TABLE.pdf",
+              "img_icon": "/images/Kahe/Innerpages/file.png",
+              "target": "__blank"
+            }
+          },
+          {
+            "col1": { "text": "6" },
+            "col2": {
+              "text": "Circular – FOP",
+              "url": "https://kahedu.edu.in/n/wp-content/uploads/2025/04/2025430-circular-1.pdf",
+              "img_icon": "/images/Kahe/Innerpages/file.png",
+              "target": "__blank"
+            }
+          },
+          {
+            "col1": { "text": "7" },
+            "col2": {
+              "text": "Circular – FADP",
+              "url": "https://kahedu.edu.in/n/wp-content/uploads/2025/04/2025430-circular-2.pdf",
+              "img_icon": "/images/Kahe/Innerpages/file.png",
+              "target": "__blank"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

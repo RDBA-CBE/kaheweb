@@ -8,7 +8,7 @@ import Context from "@/context/Context";
 import Store from "@/redux/store";
 import Sidebar2 from "../common-components/Sidebar2";
 import { Research } from "@/JSON/ACADEMIC/Overview";
-import SliderContent from "../Components/tabContentComponents/SliderContent";
+import SliderContent from "../Components/SliderContent";
 
 const AnnualResearch = () => {
   const research = data;

@@ -1,4 +1,5 @@
 import { FirstLetterUp } from "@/utils/functions.utils";
+import Link from "next/link";
 import React from "react";
 
 const IconCard = ({ data }) => {
@@ -10,10 +11,19 @@ const IconCard = ({ data }) => {
         {data?.content?.map((item, index) => (
           <div className="fg-card" key={index}>
             <div className="fg-icon mb-5">
-              <img src={item.src} alt={item.title} width={50}/>
+              <img src={item.src} alt={item.title} width={50} />
             </div>
             <h4 className="main-sub-ti mb-4">{item.title}</h4>
-            <p className="fg-desc">{item.content}</p>
+            {item.content && <p className="fg-desc">{item.content}</p>}
+            {item?.url && (
+              <div className="read-more-btn mt-auto">
+                <Link href={item?.url}>
+                  <span className="rbt-btn-link">
+                    {item?.btnText} <i className="feather-arrow-up-right"></i>
+                  </span>
+                </Link>
+              </div>
+            )}
           </div>
         ))}
       </div>

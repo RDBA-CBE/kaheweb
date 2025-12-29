@@ -2,9 +2,8 @@ import Image from "next/image";
 import Link from "next/link";
 
 import { Swiper, SwiperSlide } from "swiper/react";
-import { EffectCards, Pagination } from "swiper/modules";
+import { Autoplay, EffectCards, Pagination } from "swiper/modules";
 
-import MainDemoData from "../../../data/course-details/courseData.json";
 
 const Slider = ({ data, start, end }) => {
   return (
@@ -12,8 +11,9 @@ const Slider = ({ data, start, end }) => {
       <Swiper
         className="swiper-wrapper"
         effect={"cards"}
-        modules={[EffectCards, Pagination]}
+        modules={[EffectCards, Pagination, Autoplay]}
         grabCursor={true}
+        autoplay={true}
         pagination={{
           el: ".rbt-swiper-pagination",
           clickable: true,

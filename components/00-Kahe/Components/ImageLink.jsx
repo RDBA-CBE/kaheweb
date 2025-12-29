@@ -35,7 +35,7 @@ const ImageLink = ({ data, firstParaLimit, firstParaSplit, order }) => {
 
   return (
     <div className="commitee">
-      <div className="decor-ti">{FirstLetterUp(data?.title)}</div>
+      {data?.title && <div className="decor-ti">{FirstLetterUp(data?.title)}</div>}
 
       <div className="row py-5">
         {data?.content?.map((item, index) => {

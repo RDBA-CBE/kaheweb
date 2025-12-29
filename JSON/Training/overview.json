@@ -1,0 +1,96 @@
+{
+  "bannerCon": {
+    "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+    "title": "Forms",
+    "bannerCon": "To be a leading institution in the field of education, providing quality education and training to students and professionals.",
+    "applyLink": "/"
+  },
+
+  "Placements": {
+    "content": [
+      {
+        "title1": "Placements",
+        "content": "The Training and Placement Cell at Karpagam Academy of Higher Education (KAHE) equips students for future career support through need-based training from their first year. Expert trainers provide holistic training in aptitude, soft skills, and domain expertise, enabling our students to meet the demands of the current industrial scenarios. Campus placement drives are meticulously organized to secure internship and employment opportunities from reputable firms before graduation. The training curriculum undergoes regular updates to align with evolving industry demands. The placement cell provides guidance for successful careers, and the college maintains active MoUs & Centers of Excellence with prominent industry players. In the academic year 2023-2024, over 1247 offers were extended by 131 reputed companies.",
+        "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/indumathi.jpeg"
+      }
+    ]
+  },
+
+  "testimonials": {
+    "title": "Testimonials",
+    "btnText": "View More",
+    "btnLink": "https://www.youtube.com/c/KAHE-Official",
+    "content": [
+      {
+        "id": 1,
+        "title": "Student Testimonial | Best Computer Application College in Coimbatore | KAHE",
+        "caption": "Student Testimonial",
+        "thumbnail": "https://img.youtube.com/vi/gKOOEaHnul0/hqdefault.jpg",
+        "videoUrl": "https://www.youtube.com/watch?v=gKOOEaHnul0"
+      },
+      {
+        "id": 2,
+        "title": "Student Testimonial | Best BioTechnology College in Coimbatore | Karpagam Academy of Higher Education",
+        "caption": "Student Testimonial",
+        "thumbnail": "https://img.youtube.com/vi/BAuPjDrzt5A/hqdefault.jpg",
+        "videoUrl": "https://www.youtube.com/watch?v=BAuPjDrzt5A"
+      },
+      {
+        "id": 3,
+        "title": "Student Testimonial | Best Engineering College in Coimbatore | Karpagam Academy of Higher Education",
+        "caption": "Student Testimonial",
+        "thumbnail": "https://img.youtube.com/vi/m8qW5Ur0NbA/hqdefault.jpg",
+        "videoUrl": "https://www.youtube.com/watch?v=m8qW5Ur0NbA"
+      },
+      {
+        "id": 4,
+        "title": "Student Testimonial | Best Engineering College in Coimbatore | Karpagam Academy of Higher Education",
+        "caption": "Student Testimonial",
+        "thumbnail": "https://img.youtube.com/vi/BAei7pduItM/hqdefault.jpg",
+        "videoUrl": "https://www.youtube.com/watch?v=BAei7pduItM"
+      },
+      {
+        "id": 5,
+        "title": "Suruthi Sivaji, MBA student, placed at Bajaj Finserve Ltd with 5.68 LPA package - Testimonial",
+        "caption": "Placement Testimonial",
+        "thumbnail": "https://img.youtube.com/vi/0COUkAL4-PM/hqdefault.jpg",
+        "videoUrl": "https://www.youtube.com/watch?v=0COUkAL4-PM"
+      },
+      {
+        "id": 6,
+        "title": "Student Testimonial by Pooja, placed at Bajaj Finserve",
+        "caption": "Placement Testimonial",
+        "thumbnail": "https://img.youtube.com/vi/rACly7VZc08/hqdefault.jpg",
+        "videoUrl": "https://www.youtube.com/watch?v=rACly7VZc08"
+      },
+      {
+        "id": 7,
+        "title": "Students Testimonial Final Year Student of Pharmacy - JAYAHARNIKA M R",
+        "caption": "Student Testimonial",
+        "thumbnail": "https://img.youtube.com/vi/KJ6-2E9oQBs/hqdefault.jpg",
+        "videoUrl": "https://www.youtube.com/watch?v=KJ6-2E9oQBs"
+      },
+      {
+        "id": 8,
+        "title": "Student Testimonial | Best Engineering College in Coimbatore | Karpagam Academy of Higher Education",
+        "caption": "Student Testimonial",
+        "thumbnail": "https://img.youtube.com/vi/d9FxA6VgPBA/hqdefault.jpg",
+        "videoUrl": "https://www.youtube.com/watch?v=d9FxA6VgPBA"
+      },
+      {
+        "id": 9,
+        "title": "Student Testimonial | Best Computer Application College in Coimbatore | Karpagam Academy",
+        "caption": "Student Testimonial",
+        "thumbnail": "https://img.youtube.com/vi/f2lloXf0-ZY/hqdefault.jpg",
+        "videoUrl": "https://www.youtube.com/watch?v=f2lloXf0-ZY"
+      },
+      {
+        "id": 10,
+        "title": "Student Testimonial | Best Engineering College in Coimbatore | Karpagam Academy of Higher Education",
+        "doctor": "Student Testimonial",
+        "thumbnail": "https://img.youtube.com/vi/wTr39dlYqFU/hqdefault.jpg",
+        "videoUrl": "https://www.youtube.com/watch?v=wTr39dlYqFU"
+      }
+    ]
+  }
+}

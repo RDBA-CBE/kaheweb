@@ -476,3 +476,36 @@ export const Research = {
 };
 
 
+
+export const Examinations = {
+  title: "Examinations",
+  content: [
+    {
+      category: "ESE",
+      link: "/examinations/ese-test/",
+    },
+    {
+      category: "ESE – Archives",
+      link: "/examinations/ese-archives/",
+    },
+    {
+      category: "Exam Notification",
+      link: "/examinations/exam-notification/",
+    },
+    {
+      category: "Examination Reforms",
+      link: "/examinations/examination-reforms/",
+    },
+    {
+      category: "CIA",
+      link: "/examinations/cia-test/",
+    },
+    {
+      category: "Forms",
+      link: "/examinations/forms/",
+    },
+  ],
+};
+
+
+

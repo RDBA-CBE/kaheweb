@@ -5,18 +5,59 @@ export const removeShortcodes = (content) => {
   return content.replace(/\[\/?[^\]]+\]/g, "");
 };
 
-export const FirstLetterUp = (text = "") => {
-  console.log("text", text);
-
-  return (
-    text
-      .toLowerCase()
-      // Capitalize first letter of each word
-      .replace(/\b\w/g, (c) => c.toUpperCase())
-      // Preserve acronyms inside brackets
-      .replace(/\(([^)]+)\)/g, (_, v) => `(${v.toUpperCase()})`)
-  );
+export const truncateText = (text = '', maxLength = 100) => {
+  if (typeof text !== 'string') return '';
+  return text.length > maxLength ? text.slice(0, maxLength) + '...' : text;
 };
+
+// export const FirstLetterUp = (text = "") => {
+//   console.log("text", text);
+
+//   return (
+//     text
+//       .toLowerCase()
+//       // Capitalize first letter of each word
+//       .replace(/\b\w/g, (c) => c.toUpperCase())
+//       // Preserve acronyms inside brackets
+//       .replace(/\(([^)]+)\)/g, (_, v) => `(${v.toUpperCase()})`)
+//   );
+// };
+
+export const FirstLetterUp = (text = "") => {
+  const ROMAN_REGEX =
+    /^(?=[MDCLXVI])M{0,4}(CM|CD|D?C{0,3})(XC|XL|L?X{0,3})(IX|IV|V?I{0,3})$/i;
+
+  // 🔒 Whitelist real acronyms
+  const ACRONYMS = ["CIA", "API", "HTML", "CSS", "JS"];
+
+  return text
+    .split("-")
+    .map(word => {
+      const upper = word.toUpperCase();
+
+      // Roman numerals → keep caps
+      if (ROMAN_REGEX.test(upper)) {
+        return upper;
+      }
+
+      // Known acronyms → keep caps
+      if (ACRONYMS.includes(upper)) {
+        return upper;
+      }
+
+      // Everything else → Title Case
+      return upper.charAt(0) + upper.slice(1).toLowerCase();
+    })
+    .join("-");
+};
+
+
+
+
+
+
+
+
 
 export const splitChar = (text = "", maxLength = 500) => {
   if (!text) return null;

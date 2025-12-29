@@ -1,6 +1,6 @@
 import React from "react";
-import ContentCard from "../ContentCard";
-import Slider from "../../common-components/Slider";
+import ContentCard from "./ContentCard";
+import Slider from "../common-components/Slider";
 import Link from "next/link";
 
 const SliderContent = ({ data, order }) => {
@@ -13,11 +13,11 @@ const SliderContent = ({ data, order }) => {
               <ContentCard data={data} />
               {data?.btn && (
                     <div className="py-4">
-                      <button
+                      <Link
                         className="kahe-btn-primary rbt-btn hover-icon-reverse"
-                        href="#"
+                        href={data?.btn?.btnUrl}
                       >
-                        <Link href={data?.btn?.btnUrl}>
+                       
                           <span className="icon-reverse-wrapper">
                             <span className="btn-text">{data?.btn?.btnText}</span>
                             <span className="btn-icon">
@@ -27,8 +27,8 @@ const SliderContent = ({ data, order }) => {
                               <i className="feather-arrow-right"></i>
                             </span>
                           </span>
-                        </Link>
-                      </button>
+                       
+                      </Link>
                     </div>
                   )}
             </div>

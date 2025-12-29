@@ -7,7 +7,7 @@
   },
   "publications": {
     "title": "Research Publications",
-    "content": {
+    "content":[ {
       "head": [
         { "id": "col1", "label": "S. No." },
         { "id": "col2", "label": "Year" },
@@ -70,6 +70,6 @@
           "col3": { "text": "227" }
         }
       ]
-    }
+    }]
   }
 }

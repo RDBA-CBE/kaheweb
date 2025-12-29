@@ -1,0 +1,79 @@
+{
+  "bannerCon": {
+    "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+    "title": "Forms",
+    "bannerCon": "To be a leading institution in the field of education, providing quality education and training to students and professionals.",
+    "applyLink": "/"
+  },
+  "ciaTest": {
+    "title": "Application Forms",
+
+    "content": [
+      {
+        "subtitle": "CIA-III-Time-Table",
+        "id": 1,
+        "list": [
+          {
+            "src": "/images/Kahe/Innerpages/file.png",
+            "item": "Open Pdf",
+            "url": "https://kahedu.edu.in/n/wp-content/uploads/2025/08/20250819235833.pdf",
+            "target":"__blank"
+          }
+        
+        ]
+      },
+       {
+        "subtitle": "CIA-II-Time-Table",
+        "id": 1,
+        "list": [
+          {
+            "src": "/images/Kahe/Innerpages/file.png",
+            "item": "Open Pdf",
+            "url": "https://kahedu.edu.in/n/wp-content/uploads/2025/08/Time-Table-CIA-II-III-UG.pdf",
+            "target":"__blank"
+          }
+        
+        ]
+      },
+       {
+        "subtitle": "Instructions for Students",
+        "id": 1,
+        "list": [
+          {
+            "src": "/images/Kahe/Innerpages/file.png",
+            "item": "Open Pdf",
+            "url": "https://kahedu.edu.in/n/wp-content/uploads/2025/08/Instruction-of-Students.pdf",
+            "target":"__blank"
+          }
+        
+        ]
+      },
+      {
+        "subtitle": "Instruction of Invigilators",
+        "id": 1,
+        "list": [
+          {
+            "src": "/images/Kahe/Innerpages/file.png",
+            "item": "Open Pdf",
+            "url": "https://kahedu.edu.in/n/wp-content/uploads/2025/08/Instruction-of-Invigilators.pdf",
+            "target":"__blank"
+          }
+        
+        ]
+      },
+      {
+        "subtitle": "CIA-I-TIME-TABLE",
+        "id": 1,
+        "list": [
+          {
+            "src": "/images/Kahe/Innerpages/file.png",
+            "item": "Open Pdf",
+            "url": "https://kahedu.edu.in/n/wp-content/uploads/2025/07/CIA-1.pdf",
+            "target":"__blank"
+          }
+        
+        ]
+      }
+    ]
+  }
+}

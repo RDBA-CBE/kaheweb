@@ -40,22 +40,20 @@ const AddContentCard = ({ data }) => {
 
                   {item?.btnText && (
                     <div className="py-4">
-                      <button
+                      <Link
                         className="kahe-btn-primary rbt-btn hover-icon-reverse"
-                        href="#"
+                        href={item?.btnUrl}
                       >
-                        <Link href={item?.btnUrl}>
-                          <span className="icon-reverse-wrapper">
-                            <span className="btn-text">{item?.btnText}</span>
-                            <span className="btn-icon">
-                              <i className="feather-arrow-right"></i>
-                            </span>
-                            <span className="btn-icon">
-                              <i className="feather-arrow-right"></i>
-                            </span>
+                        <span className="icon-reverse-wrapper">
+                          <span className="btn-text">{item?.btnText}</span>
+                          <span className="btn-icon">
+                            <i className="feather-arrow-right"></i>
                           </span>
-                        </Link>
-                      </button>
+                          <span className="btn-icon">
+                            <i className="feather-arrow-right"></i>
+                          </span>
+                        </span>
+                      </Link>
                     </div>
                   )}
 
@@ -81,9 +79,17 @@ const AddContentCard = ({ data }) => {
 
                   {item?.links && (
                     <>
-                      <ul className={item?.ulcls || ""} style={{ listStyle: "none" }}>
+                      <ul
+                        className={item?.ulcls || ""}
+                        style={{ listStyle: "none" }}
+                      >
                         {item?.links.map((linkItem, linkIndex) => (
-                          <li key={linkIndex} className={` my-0 d-flex align-items-center gap-4 ${linkItem?.clsname || ""}`}>
+                          <li
+                            key={linkIndex}
+                            className={` my-0 d-flex align-items-center gap-4 ${
+                              linkItem?.clsname || ""
+                            }`}
+                          >
                             <span>
                               {linkItem?.icon && (
                                 <i className={linkItem?.icon}></i>
