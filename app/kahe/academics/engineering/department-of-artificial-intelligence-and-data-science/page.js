@@ -1,8 +1,20 @@
-export default function DepartmentOfAIAndDataSciencePage() {
+import DepartmentOfArtificialIntelligence from "@/components/00-Kahe/AcademicsComponents/DepartmentOfArtificialIntelligence";
+import AcademicsPage from "@/components/00-Kahe/DirectPageComponent/AcademicsPage";
+import Homepage from "@/components/00-Kahe/DirectPageComponent/Homepage";
+import { usePageData } from "@/utils/customHook";
+
+export const metadata = {
+  title: "Histudy - Online Courses & Education NEXTJS14 Template",
+  description: "Online Courses & Education NEXTJS14 Template",
+};
+
+const HomePage = async () => {
   return (
-    <div>
-      <h1>Department of Artificial Intelligence and Data Science</h1>
-      <p>Welcome to the Department of Artificial Intelligence and Data Science.</p>
-    </div>
+    <>
+      {/* <Homepage /> */}
+      < DepartmentOfArtificialIntelligence/>;
+    </>
   );
-}
+};
+
+export default HomePage;
