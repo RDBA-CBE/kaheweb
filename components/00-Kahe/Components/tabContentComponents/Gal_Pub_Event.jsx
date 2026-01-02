@@ -64,6 +64,7 @@ const goToEvents = () => {
             </div>
           </div>
           <div
+          id="publications"
             className="col-lg-4 col-md-6 col-sm-6 col-12"
             onClick={goToPublication} // 👈 On click push to /events
             style={{ cursor: "pointer" }} // 👈 To indicate clickable
@@ -92,6 +93,7 @@ const goToEvents = () => {
             </div>
           </div>
           <div
+          id="events"
             className="col-lg-4 col-md-6 col-sm-6 col-12"
             onClick={goToEvents} // 👈 On click push to /events
             style={{ cursor: "pointer" }} // 👈 To indicate clickable

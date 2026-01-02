@@ -181,70 +181,110 @@
           "qualification": "",
           "designation": "Professor",
           "email": "",
-          "profile": ""
+          "profile": "",
+          "profileText":"View profile",
+          "src":"/images/team/team-11.png",
+          "iconSrc" :"/images/Kahe/Innerpages/education.png",
+          "target":"_blank"
         },
         {
           "name": "Dr.M.Sridhar Muthusami",
           "qualification": "M.Sc., M.Phil., Ph.D., SET.",
           "designation": "Associate Professor",
           "email": "sridhar.m@kahedu.edu.in",
-          "profile": "https://kahedu.edu.in//bio-data/arts/biochemistry/DR%20M%20SRIDHAR%20MUTHUSAMI.pdf"
+          "profile": "https://kahedu.edu.in//bio-data/arts/biochemistry/DR%20M%20SRIDHAR%20MUTHUSAMI.pdf",
+          "profileText":"View profile",
+          "src":"/images/team/team-11.png",
+          "iconSrc" :"/images/Kahe/Innerpages/education.png",
+          "target":"_blank"
         },
         {
           "name": "Mr. S. Rajamanikandan",
           "qualification": "M. Sc., M. phil., Ph. D.",
           "designation": "Associate Professor",
           "email": "",
-          "profile": ""
+          "profile": "",
+          "profileText":"View profile",
+          "src":"/images/team/team-11.png",
+          "iconSrc" :"/images/Kahe/Innerpages/education.png",
+          "target":"_blank"
         },
         {
           "name": "Dr.A.Ramakrishnan",
           "qualification": "M.Sc., Ph.D",
           "designation": "Assistant Professor",
           "email": "ramakrishnan.a@kahedu.edu.in",
-          "profile": "https://kahedu.edu.in/bio-data/arts/biochemistry/Dr.%20A.%20Ramakrishnan.pdf"
+          "profile": "https://kahedu.edu.in/bio-data/arts/biochemistry/Dr.%20A.%20Ramakrishnan.pdf",
+          "profileText":"View profile",
+          "src":"/images/team/team-11.png",
+          "iconSrc" :"/images/Kahe/Innerpages/education.png",
+          "target":"_blank"
         },
         {
           "name": "Dr.Kongkona Saikia",
           "qualification": "M.Sc.,Ph.D.",
           "designation": "Assistant Professor",
           "email": "kongkonasaikia.sobhasaikia@kahedu.edu.in",
-          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2021/11/One-page-biodata_Kongkona.pdf"
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2021/11/One-page-biodata_Kongkona.pdf",
+          "profileText":"View profile",
+          "src":"/images/team/team-11.png",
+          "iconSrc" :"/images/Kahe/Innerpages/education.png",
+          "target":"_blank"
         },
         {
           "name": "Dr.Rathi M.A",
           "qualification": "M.Phil.,Ph.D.",
           "designation": "Assistant Professor",
           "email": "rathi.muthaiyan@kahedu.edu.in",
-          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2023/07/rathi-26.7.23.pdf"
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2023/07/rathi-26.7.23.pdf",
+          "profileText":"View profile",
+          "src":"/images/team/team-11.png",
+          "iconSrc" :"/images/Kahe/Innerpages/education.png",
+          "target":"_blank"
         },
         {
           "name": "Dr.Femil Selta D",
           "qualification": "M.Sc., M.Phil.,",
           "designation": "Assistant Professor",
           "email": "femilselta.danielraja@kahedu.edu.in",
-          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2023/07/femil-26.7.23.pdf"
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2023/07/femil-26.7.23.pdf",
+          "profileText":"View profile",
+          "src":"/images/team/team-11.png",
+          "iconSrc" :"/images/Kahe/Innerpages/education.png",
+          "target":"_blank"
         },
         {
           "name": "Dr.K.Surekha",
           "qualification": "M.Sc.,M.Phil.,Ph.D.,B.Ed.,",
           "designation": "Assistant Professor",
           "email": "surekha.kannan@kahedu.edu.in",
-          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2023/07/Surekha-K-17.07.2023.pdf"
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2023/07/Surekha-K-17.07.2023.pdf",
+          "profileText":"View profile",
+          "src":"/images/team/team-11.png",
+          "iconSrc" :"/images/Kahe/Innerpages/education.png",
+          "target":"_blank"
         },
         {
           "name": "Dr.M.Bharathi",
           "qualification": "Ph.D",
           "designation": "Assistant Professor",
           "email": "bharathi.m@kahedu.edu.in",
-          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2023/07/Bharathi-M-17.07.2023.pdf"
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2023/07/Bharathi-M-17.07.2023.pdf",
+          "profileText":"View profile",
+          "src":"/images/team/team-11.png",
+          "iconSrc" :"/images/Kahe/Innerpages/education.png",
+          "target":"_blank"
         },
         {
           "name": "Mrs.P. Nirmala Devi",
           "qualification": "",
           "designation": "Assistant Professor",
           "email": "nirmaladevi.panneerselvam@kahedu.edu.in",
-          "profile": ""
+          "profile": "",
+          "profileText":"View profile",
+          "src":"/images/team/team-11.png",
+          "iconSrc" :"/images/Kahe/Innerpages/education.png",
+          "target":"_blank"
         }
       ]
     },

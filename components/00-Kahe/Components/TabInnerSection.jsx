@@ -73,7 +73,7 @@ const TabInnerSection = ({ tabSections, tabContent }) => {
         )}
         <div
           className="section-bg1  course-content  coursecontent-wrapper"
-          id="events"
+          
           style={{padding:"80px 0"}}
         >
           <Gal_Pub_Event
