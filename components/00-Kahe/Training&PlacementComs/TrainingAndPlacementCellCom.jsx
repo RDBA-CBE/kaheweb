@@ -1,19 +1,21 @@
 "use client";
 
 import { Examinations } from "@/JSON/ACADEMIC/Overview";
-import data from "../../../JSON/Training/overview.json";
+import data from "../../../JSON/Training/training_&_placements.json";
 import InnerBanner from "@/components/00-Kahe/common-components/InnerBanner";
 import Sidebar from "../common-components/Sidebar";
 import ImageLink from "../Components/ImageLink";
 import YoutubeVideoSection from "../Components/YoutubeVideoSection";
 import ImageSlider from "../Components/ImageSlider";
 
+import TrainingTabInnerSec from "../Components/TrainingTabInnerSec";
+
 export const metadata = {
   title: "About Us 01 - Online Courses & Education NEXTJS14 Template",
   description: "Online Courses & Education NEXTJS14 Template",
 };
 
-const PlacementCom = () => {
+const TrainingAndPlacementCellCom = () => {
   const Training = data;
 
   return (
@@ -24,21 +26,10 @@ const PlacementCom = () => {
         <div className="rbt-course-details-area w-100">
           <div className="row g-5">
             <div className="col-lg-9">
-              <ImageLink
-                data={Training?.Placements}
-                firstParaLimit={9999}
-                firstParaSplit={9999}
+              <TrainingTabInnerSec
+                tabSections={Training.tabs}
+                tabContent={Training.tabContent}
               />
-
-              <section className="section-bg1">
-                <ImageSlider data={Training?.recruiters}/>
-              </section>
-
-              <section className="section-bg1">
-                 <YoutubeVideoSection data={Training?.testimonials}/>
-              </section>
-
-             
             </div>
 
             <div className="col-lg-3 px-0 d-none d-lg-block sidebar-pg">
@@ -57,4 +48,4 @@ const PlacementCom = () => {
   );
 };
 
-export default PlacementCom;
+export default TrainingAndPlacementCellCom;

@@ -10,13 +10,13 @@ const Commitee = ({ data }) => {
 
   return (
     <div className="commitee">
-      <div className="decor-ti">{FirstLetterUp(data?.title)} </div>
+      {data?.title && <div className="decor-ti">{FirstLetterUp(data?.title)} </div>}
 
-      <div className="row py-5 align-items-stretch">
+      <div className="row py-5 align-items-stretch gy-4">
         {data?.content?.map((item, index) => (
           <div className={`${data?.clsName ? data?.clsName : "col-lg-3 col-md-6 col-sm-6 col-12"} d-flex`} key={index}>
             <Link
-              href={item?.url}
+              href={item?.url || "#"}
               className="rbt-cat-box rbt-cat-box-1 text-center d-flex w-100"
             >
               <div className="inner d-flex flex-column w-100">
@@ -36,11 +36,11 @@ const Commitee = ({ data }) => {
                     }}
                   />
 
-                  <div className="read-more-btn mt-auto">
+                  {data?.btnText && <div className="read-more-btn mt-auto">
                     <span className="rbt-btn-link">
                       {data?.btnText} <i className="feather-arrow-up-right"></i>
                     </span>
-                  </div>
+                  </div>}
                 </div>
               </div>
             </Link>

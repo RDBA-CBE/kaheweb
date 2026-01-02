@@ -4,7 +4,7 @@ import { useAppContext } from "@/context/Context";
 import { useState, useEffect } from "react";
 import { Link as ScrollLink } from "react-scroll";
 
-const TabMenu = ({ sections }) => {
+const TabMenu = ({ sections , DontshowNav}) => {
   const [currentSection, setCurrentSection] = useState(sections?.[0]?.id);
   const [isScrolled, setIsScrolled] = useState(false);
   const { sidebar, setSidebar } = useAppContext();
@@ -48,7 +48,7 @@ const TabMenu = ({ sections }) => {
           </li>
         ))}
 
-        <span className="mobile-menu-bar d-none d-lg-block">
+        {!DontshowNav && <span className="mobile-menu-bar d-none d-lg-block">
           <div
             href="#"
             className="hamberger"
@@ -56,7 +56,7 @@ const TabMenu = ({ sections }) => {
           >
             <i className="feather-menu"></i>
           </div>
-        </span>
+        </span>}
       </ul>
     </nav>
   );

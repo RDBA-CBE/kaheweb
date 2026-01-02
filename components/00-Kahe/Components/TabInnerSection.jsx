@@ -17,8 +17,8 @@ const TabInnerSection = ({ tabSections, tabContent }) => {
   console.log("tabItems", tabItems);
 
   const overviewContent = tabContent?.find(
-    (item) => item.tab == "Overview"
-  ).items;
+    (item) => item?.tab == "Overview"
+  )?.items;
   const programmeContent = tabContent.find((item) => item.tab == "Programme");
   const facultyContent = tabContent.find((item) => item.tab == "Faculty");
   const infrastructureContent = tabContent.find(
@@ -73,13 +73,13 @@ const TabInnerSection = ({ tabSections, tabContent }) => {
         )}
         <div
           className="section-bg1  course-content  coursecontent-wrapper"
-          
-          style={{padding:"80px 0"}}
+          style={{ padding: "80px 0" }}
         >
           <Gal_Pub_Event
-           InfraGallery={InfraGallery}
-           publicationsContent={publicationsContent}
-           eventsContent={eventsContent}/>
+            InfraGallery={InfraGallery}
+            publicationsContent={publicationsContent}
+            eventsContent={eventsContent}
+          />
         </div>
 
         {/* {publicationsContent && (

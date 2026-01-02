@@ -736,13 +736,20 @@
         },
         {
           "id": 5,
-          "title": "Testimonials",
+          "title": "International Admissions",
           "link": "/kahe/office-of-international-affairs/international-admissions/",
           "desc": "Learn more about KAHE overview.",
           "src": "/images/banner/co-men.png"
         },
         {
           "id": 6,
+          "title": "Testimonials",
+          "link": "/kahe/office-of-international-affairs/international-admissions/",
+          "desc": "Learn more about KAHE overview.",
+          "src": "/images/banner/co-men.png"
+        },
+        {
+          "id": 7,
           "title": "Contact",
           "link": "/kahe/office-of-international-affairs/contact/",
           "desc": "Learn more about KAHE overview.",

@@ -11,7 +11,7 @@ const ImageCard2 = ({ data }) => {
           data.map((item, innerIndex) => {
             return (
               <div
-                className="col-lg-3 col-md-6 col-sm-6 col-12"
+                className={`${item?.clsName ? item?.clsName :"col-lg-3 col-md-6 col-sm-6 col-12"}`}
                 key={innerIndex}
               >
                 <div className="rbt-cat-box rbt-cat-box-1 list-style">
