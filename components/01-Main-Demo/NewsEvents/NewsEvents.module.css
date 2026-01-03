@@ -1,0 +1,117 @@
+.section {
+  max-width: 1600px;
+  margin: 0 auto;
+  padding: 60px 20px;
+}
+
+.heading {
+  text-align: center;
+  margin-bottom: 40px;
+  font-size: 28px;
+  font-weight: 500;
+}
+
+.wrapper {
+  display: flex;
+  gap: 40px;
+  align-items: flex-start;
+}
+
+/* Left slider */
+.newsSlider {
+  flex: 2;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.cardsContainer {
+  display: flex;       /* side by side */
+  gap: 20px;
+}
+
+/* Date in card formatting inside NewsCard */
+.newsDate {
+  font-size: 14px;
+  font-weight: 600;
+  margin-bottom: 5px;
+  color: #2b9e97;
+}
+
+/* Arrow buttons */
+.arrow {
+  font-size: 28px;
+  background: none;
+  border: none;
+  cursor: pointer;
+  align-self: center;
+}
+
+/* Right events scrolling */
+.eventsList {
+  flex: 1;
+  max-height: 500px;
+  overflow: hidden;
+  border-left: 1px solid #ddd;
+  padding-left: 20px;
+}
+
+.eventsScrolling {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.eventsScrolling li p {
+  margin: 0;
+  font-size: 14px;
+  line-height: 1.4;
+}
+
+.eventsScrolling li span {
+  font-size: 12px;
+  color: #777;
+}
+
+/* Center button */
+.centerBtn {
+  text-align: center;
+  margin-top: 40px;
+}
+
+.knowMore {
+  padding: 10px 30px;
+  background: #2b9e97;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  font-size: 16px;
+  border-radius: 4px;
+}
+
+/* Responsive */
+@media (max-width: 900px) {
+  .wrapper {
+    flex-direction: column;
+  }
+
+  .newsSlider,
+  .eventsList {
+    flex: unset;
+    width: 100%;
+  }
+
+  .cardsContainer {
+    flex-direction: row;
+    overflow-x: auto;
+  }
+
+  .cardsContainer::-webkit-scrollbar {
+    display: none;
+  }
+}
+
+

@@ -1,0 +1,73 @@
+.heroHighlights {
+  width: 100%;
+  padding: 40px 0;
+}
+
+/* Centered container */
+.container {
+  max-width: 1600px;
+  margin: 0 auto;
+  padding: 0 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px; /* space between rows */
+}
+
+/* Grid layout: 75% image, 25% content */
+.grid {
+  display: grid;
+  grid-template-columns: 3fr 1fr; /* 75% / 25% */
+  gap: 20px;
+  align-items: stretch;
+}
+
+/* Reverse layout for alternate rows */
+.reverse {
+  direction: rtl;
+}
+
+.reverse > * {
+  direction: ltr; /* keep text normal */
+}
+
+/* Image column */
+.card {
+  width: 100%;
+  min-height: 280px;
+  overflow: hidden;
+}
+
+.card img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* Content column */
+.content {
+  background-color: #0aa39a; /* your content background color */
+  color: #fff;
+  padding: 32px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.content h3 {
+  margin-top: 0;
+  margin-bottom: 16px;
+}
+
+.content p {
+  margin: 0;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .grid {
+    grid-template-columns: 1fr; /* stack columns */
+  }
+  .reverse {
+    direction: ltr; /* no flip on mobile */
+  }
+}

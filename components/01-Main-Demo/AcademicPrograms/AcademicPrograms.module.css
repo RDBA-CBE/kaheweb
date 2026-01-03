@@ -1,0 +1,118 @@
+.section {
+  max-width: 1600px;
+  margin: 0 auto;
+  padding: 40px 20px;
+
+  /* animation base */
+  opacity: 0;
+  transform: translateY(40px);
+  transition: all 0.8s ease;
+}
+
+/* SECTION VISIBLE */
+.show {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* GRID STRUCTURE */
+.firstRow,
+.secondRow {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 100px; /* increased gap */
+}
+.titleBox {
+  align-items: center; vertical-align: middle;  margin-top: auto; margin-bottom: auto;
+}
+
+.titleBox h5 {
+  letter-spacing: 2px;
+  color: #6b7280;
+}
+
+/* CARD */
+.card {
+  background: #fff;
+  overflow: hidden;
+
+  /* card animation */
+  opacity: 0;
+  transform: translateY(30px);
+  animation: fadeUp 0.6s ease forwards;
+}
+
+/* IMAGE */
+.imageWrap {
+  width: 100%;
+  height: auto;
+}
+
+.imageWrap img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* CONTENT */
+.cardContent {
+  padding: 20px 22px 24px;
+  position: relative;
+}
+
+/* GREEN ACCENT LINE */
+.cardContent::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 24px;
+  width: 4px;
+  height: 45px;
+  background: #7cb342;
+}
+
+/* TITLE */
+.cardContent h3 {
+  line-height: 1.3;
+  color: #4b5563;
+  margin: 0 0 12px 12px;
+}
+
+/* DEGREE TEXT */
+.degree {
+  font-size: 12px;
+  color: #9ca3af;
+  letter-spacing: 1px;
+  margin-left: 12px;
+}
+
+.degree span {
+  margin: 0 6px;
+}
+
+/* ANIMATION */
+@keyframes fadeUp {
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* RESPONSIVE */
+@media (max-width: 992px) {
+  .firstRow,
+  .secondRow {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 576px) {
+  .firstRow,
+  .secondRow {
+    grid-template-columns: 1fr;
+  }
+
+  .imageWrap {
+    height: 280px;
+  }
+}
