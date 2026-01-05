@@ -1,0 +1,225 @@
+{
+  "bannerCon": {
+    "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+    "title": "Board of Trustees",
+    "bannerCon": "To be a leading institution in the field of education, providing quality education and training to students and professionals.",
+    "applyLink": "/"
+  },
+
+  "tabs": [
+    {
+      "id": "objectives",
+      "label": "Objectives/Functions"
+    },
+    {
+      "id": "members",
+      "label": "Members"
+    },
+    {
+      "id": "mom",
+      "label": "MOM"
+    },
+    {
+      "id": "initiatives",
+      "label": "Initiatives"
+    },
+    {
+      "id": "nirf",
+      "label": "NIRF"
+    },
+    {
+      "id": "aqar",
+      "label": "AQAR"
+    },
+    {
+      "id": "naac",
+      "label": "NAAC"
+    },
+    {
+      "id": "contact",
+      "label": "Contact"
+    }
+  ],
+  "tabContent": [
+    {
+      "tab": "objectives",
+      "objectives": {
+        "offerToTheStudent": {
+          "subTitle": "What we offer to the student community, society and industry ?",
+          "src": "/images/Kahe/Innerpages/vision.png",
+          "content": [
+            "To prepare flyers for the institution branding and awareness.",
+            "To invite prospective companies to campus",
+            "To register the qualified students for training and sharpen the skills to fit the need of industry",
+            "To arrange industrial institutional interface and promote signing MoU’s.",
+            "To provide in-plant training at industries",
+            "To identify student representatives, encourage team spirit and team work among them"
+          ]
+        },
+        "responsibilities": {
+          "type": "mission",
+          "subTitle": "Mission",
+          "src": "/images/Kahe/Innerpages/goal.png",
+          "content": [
+            "To provide a high quality education and learning experience for our undergraduate and postgraduate students through.",
+            "To encourage students to develop mathematical models.",
+            "To make students as professionals with social and economic responsibilities.",
+            "To encourage collaborative research with other disciplines."
+          ]
+        }
+      }
+    },
+
+    {
+      "tab": "members",
+
+      "members": {
+        "title": "Training & Placement Staff",
+        "content": [
+          {
+            "head": [
+              { "id": "col1", "label": "Sl. No" },
+              { "id": "col2", "label": "Name" },
+              { "id": "col3", "label": "Qualification" },
+              { "id": "col4", "label": "Designation" }
+            ],
+            "data": [
+              {
+                "col1": { "text": "1" },
+                "col2": { "text": "Mr. Krishnakumar Athithan A" },
+                "col3": { "text": "B.E., M.E., (Ph.D)" },
+                "col4": { "text": "Training Officer" }
+              },
+              {
+                "col1": { "text": "2" },
+                "col2": { "text": "Mrs. Aswini M" },
+                "col3": { "text": "M.A." },
+                "col4": { "text": "Verbal and Softskill Trainer" }
+              },
+              {
+                "col1": { "text": "3" },
+                "col2": { "text": "Ms. Jaya Surya S" },
+                "col3": { "text": "M.A." },
+                "col4": { "text": "Verbal and Softskill Trainer" }
+              },
+              {
+                "col1": { "text": "4" },
+                "col2": { "text": "Ms. Abitha A" },
+                "col3": { "text": "M.A." },
+                "col4": { "text": "Verbal and Softskill Trainer" }
+              },
+              {
+                "col1": { "text": "5" },
+                "col2": { "text": "Ms. Swetha S" },
+                "col3": { "text": "M.A., B.Ed." },
+                "col4": { "text": "Verbal and Softskill Trainer" }
+              },
+              {
+                "col1": { "text": "6" },
+                "col2": { "text": "Ms. Maha Lakshmi P" },
+                "col3": { "text": "M.A." },
+                "col4": { "text": "Verbal and Softskill Trainer" }
+              },
+              {
+                "col1": { "text": "7" },
+                "col2": { "text": "Ms. Prahanya M" },
+                "col3": { "text": "M.A." },
+                "col4": { "text": "Verbal and Softskill Trainer" }
+              },
+              {
+                "col1": { "text": "8" },
+                "col2": { "text": "Ms. Kaviya D" },
+                "col3": { "text": "M.Sc." },
+                "col4": { "text": "Aptitude Trainer" }
+              },
+              {
+                "col1": { "text": "9" },
+                "col2": { "text": "Ms. Dharshini D" },
+                "col3": { "text": "M.Sc." },
+                "col4": { "text": "Aptitude Trainer" }
+              },
+              {
+                "col1": { "text": "10" },
+                "col2": { "text": "Ms. Sathiyadharani R" },
+                "col3": { "text": "M.Sc., B.Ed" },
+                "col4": { "text": "Aptitude Trainer" }
+              },
+              {
+                "col1": { "text": "11" },
+                "col2": { "text": "Ms. Harini D" },
+                "col3": { "text": "M.Sc." },
+                "col4": { "text": "Aptitude Trainer" }
+              },
+              {
+                "col1": { "text": "12" },
+                "col2": { "text": "Ms. Dhivyadharshini T" },
+                "col3": { "text": "M.Sc., B.Ed" },
+                "col4": { "text": "Aptitude Trainer" }
+              },
+              {
+                "col1": { "text": "13" },
+                "col2": { "text": "Ms. Kowsalya P" },
+                "col3": { "text": "M.Sc., B.Ed" },
+                "col4": { "text": "Aptitude Trainer" }
+              },
+              {
+                "col1": { "text": "14" },
+                "col2": { "text": "Ms. Poorani R" },
+                "col3": { "text": "M.Sc." },
+                "col4": { "text": "Aptitude Trainer" }
+              },
+              {
+                "col1": { "text": "15" },
+                "col2": { "text": "MS. Vikashini N S" },
+                "col3": { "text": "M.Sc." },
+                "col4": { "text": "Aptitude Trainer" }
+              },
+              {
+                "col1": { "text": "16" },
+                "col2": { "text": "Ms. Haripriya V" },
+                "col3": { "text": "MCA., (Ph.D)" },
+                "col4": { "text": "Technical Trainer" }
+              },
+              {
+                "col1": { "text": "17" },
+                "col2": { "text": "Ms. Shanmuga Priya S" },
+                "col3": { "text": "MCA., (Ph.D)" },
+                "col4": { "text": "Technical Trainer" }
+              },
+              {
+                "col1": { "text": "18" },
+                "col2": { "text": "Ms. Haripriya M P" },
+                "col3": { "text": "MCA" },
+                "col4": { "text": "Technical Trainer" }
+              },
+              {
+                "col1": { "text": "19" },
+                "col2": { "text": "Mr. Bharani Shridharan K" },
+                "col3": { "text": "B. Tech." },
+                "col4": { "text": "Technical Trainer" }
+              },
+              {
+                "col1": { "text": "20" },
+                "col2": { "text": "Ms. Sivaranjani S" },
+                "col3": { "text": "MBA" },
+                "col4": { "text": "Junior Assistant" }
+              },
+              {
+                "col1": { "text": "21" },
+                "col2": { "text": "Ms. Jothi Pushpam P" },
+                "col3": { "text": "Dip. (CSE)" },
+                "col4": { "text": "Junior Assistant" }
+              },
+              {
+                "col1": { "text": "22" },
+                "col2": { "text": "Ms. Shobana" },
+                "col3": { "text": "B.Sc." },
+                "col4": { "text": "Junior Assistant" }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
