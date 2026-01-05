@@ -3262,3 +3262,76 @@ grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
   color: #ffffff;
 }
 
+/* PAGINATION WRAPPER */
+.rbt-dashboard-table .pagination-wrap {
+      display: flex
+;
+    justify-content: end;
+    align-items: center;
+    gap: 20px;
+    margin-top: 20px;
+}
+
+/* COMMON BUTTON STYLE */
+.rbt-dashboard-table .page-btn {
+  background-color: #153b1c;
+  border: 1px solid #153b1c;
+  color: #fff;
+  padding: 6px 14px;
+  font-size: 14px;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+/* HOVER */
+.rbt-dashboard-table .page-btn:hover {
+  background-color: #0f2c14;
+  border-color: #0f2c14;
+}
+
+/* DISABLED */
+.rbt-dashboard-table .page-btn:disabled {
+  background-color: #d1d1d1;
+  border-color: #d1d1d1;
+  color: #777;
+  cursor: not-allowed;
+}
+
+/* PAGE NUMBER BUTTONS */
+.rbt-dashboard-table .page-number {
+  background-color: transparent;
+  border: 1px solid #153b1c;
+  color: #153b1c;
+  padding: 6px 12px;
+  border-radius: 4px;
+  font-size: 14px;
+  transition: all 0.3s ease;
+}
+
+/* PAGE NUMBER HOVER */
+.rbt-dashboard-table .page-number:hover {
+  background-color: #153b1c;
+  color: #fff;
+}
+
+/* ACTIVE PAGE */
+.rbt-dashboard-table .page-number.active {
+  background-color: #153b1c;
+  color: #fff;
+  font-weight: 600;
+}
+
+/* MOBILE RESPONSIVE */
+@media (max-width: 575px) {
+  .rbt-dashboard-table .pagination-wrap {
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .rbt-dashboard-table .page-btn,
+  .rbt-dashboard-table .page-number {
+    padding: 5px 10px;
+    font-size: 13px;
+  }
+}

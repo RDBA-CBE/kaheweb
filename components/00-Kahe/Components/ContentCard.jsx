@@ -5,12 +5,12 @@ const ContentCard = ({ data }) => {
   return (
     <>
       <div className="content-card">
-        <h2
+      { data?.title &&  <h2
           className="decor-ti"
           dangerouslySetInnerHTML={{
             __html: FirstLetterUp(data?.title)
           }}
-        ></h2>
+        ></h2>}
 
         <div className=" omb-sec py-4">
           {data?.content?.map((data, index) => (
@@ -55,7 +55,7 @@ const ContentCard = ({ data }) => {
                     >
                       <a href={item?.url} target={item?.target}>{item?.item}</a>
                       {item?.src && (
-                        <a href={item?.url}>
+                        <a href={item?.url} target={item?.target}>
                           <img src={item?.src} alt={item?.item} width={25} />
                         </a>
                       )}

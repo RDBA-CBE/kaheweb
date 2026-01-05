@@ -1,4 +1,5 @@
-import StudentsExProCom from "@/components/00-Kahe/OfficeOfInternationalCompoenets/StudentsExProCom";
+import FacultyExProCom from "@/components/00-Kahe/OfficeOfInternationalCompoenets/FacultyExProCom";
+
 
 export const metadata = {
   title: "About Us 01 - Online Courses & Education NEXTJS14 Template",
@@ -7,7 +8,7 @@ export const metadata = {
 const page = () => {
   return (
     <>
-      <StudentsExProCom/>
+      <FacultyExProCom/>
     </>
   );
 };

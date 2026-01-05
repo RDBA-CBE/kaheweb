@@ -1,0 +1,216 @@
+{
+  "bannerCon": {
+    "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+    "title": "Students Exchange Program",
+    "bannerCon": "To be a leading institution in the field of education, providing quality education and training to students and professionals.",
+    "applyLink": "/"
+  },
+
+  "Overview": {
+    "content": [
+      {
+        "title1": "Overview",
+        "content": "The Student Exchange Program at Karpagam Academy of Higher Education (KAHE) provides a transformative opportunity for both students and faculty members to partake in immersive academic experiences with esteemed partner institutions across the globe. Through this program, students and faculty members are afforded the chance to broaden their horizons, deepen their knowledge and foster meaningful cross-cultural exchanges. Students and faculty members keen on participating in the exchange program are encouraged to submit their applications, there by signaling their interest in embarking on this enriching journey of academic exploration. The duration of each program is meticulously delineated in the corresponding Memorandum of Understanding (MoU) with the partnering institution, ensuring clarity and coherence in program logistics. For students aspiring to partake in the exchange program, the Office of International Affairs (OIA) serves as the primary point of contact for comprehensive guidance and support. Students are encouraged to reach out to the OIA to navigate the intricacies of the exchange process, obtain pertinent information and embark on their transformative academic odyssey. Furthermore, the selection process for students participating in the inbound mobility program adheres strictly to the terms and conditions stipulated in the MoU. Through meticulous adherence to these guidelines, KAHE ensures fairness, transparency, and equity in the selection process, thereby fostering an inclusive and enriching academic environment for all participants. In essence, the Student Exchange Program embodies KAHE’s steadfast commitment to fostering global citizenship, promoting intercultural understanding, and nurturing the next generation of leaders equipped with the skills and perspectives needed to thrive in an increasingly interconnected world.",
+        "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/indumathi.jpeg"
+      }
+    ]
+  },
+
+  "StudentsList": {
+  
+    "content": [
+      {
+        "head": [
+          { "id": "col1", "label": "Name of the student" },
+          { "id": "col2", "label": "Department" },
+          { "id": "col3", "label": "Name of the University" },
+          { "id": "col4", "label": "Country" },
+          { "id": "col5", "label": "Batch" }
+        ],
+        "data": [
+          {
+            "col1": { "text": "Boopathi" },
+            "col2": { "text": "BME" },
+            "col3": { "text": "National Yang Ming Chiao Tung University" },
+            "col4": { "text": "Taiwan" },
+            "col5": { "text": "2022-2026" }
+          },
+          {
+            "col1": { "text": "Srijaa" },
+            "col2": { "text": "AIDS" },
+            "col3": { "text": "University of Jaen" },
+            "col4": { "text": "Spain" },
+            "col5": { "text": "2023-2027" }
+          },
+          {
+            "col1": { "text": "Hariess" },
+            "col2": { "text": "ECE" },
+            "col3": { "text": "University of Jaen" },
+            "col4": { "text": "Spain" },
+            "col5": { "text": "2022-2026" }
+          },
+          {
+            "col1": { "text": "Sachin" },
+            "col2": { "text": "AIDS" },
+            "col3": { "text": "University of Jaen" },
+            "col4": { "text": "Spain" },
+            "col5": { "text": "2023-2027" }
+          },
+          {
+            "col1": { "text": "Kubendran" },
+            "col2": { "text": "CSE" },
+            "col3": { "text": "University of Jaen" },
+            "col4": { "text": "Spain" },
+            "col5": { "text": "2023-2027" }
+          },
+          {
+            "col1": { "text": "Ashwin G" },
+            "col2": { "text": "Chemistry" },
+            "col3": { "text": "National Chung Hsing University" },
+            "col4": { "text": "Taiwan" },
+            "col5": { "text": "2024-2026" }
+          },
+          {
+            "col1": { "text": "Abinaya V" },
+            "col2": { "text": "Chemistry" },
+            "col3": { "text": "Ming Chi University of Technology" },
+            "col4": { "text": "Taiwan" },
+            "col5": { "text": "2024-2026" }
+          },
+          {
+            "col1": { "text": "Sujitha B" },
+            "col2": { "text": "Biomedical Engineering" },
+            "col3": { "text": "National Chin Yi University of Technology" },
+            "col4": { "text": "Taiwan" },
+            "col5": { "text": "2022-2026" }
+          },
+          {
+            "col1": { "text": "Agalya" },
+            "col2": { "text": "Biomedical Engineering" },
+            "col3": { "text": "National Chin Yi University of Technology" },
+            "col4": { "text": "Taiwan" },
+            "col5": { "text": "2022-2026" }
+          },
+          {
+            "col1": { "text": "Cheran K" },
+            "col2": { "text": "Electronics and Communication Engineering" },
+            "col3": { "text": "National Ilan University" },
+            "col4": { "text": "Taiwan" },
+            "col5": { "text": "2022-2026" }
+          },
+          {
+            "col1": { "text": "SHANMUGAM MANIMARAN AKASH" },
+            "col2": { "text": "Management" },
+            "col3": { "text": "Universiti Teknologi MARA" },
+            "col4": { "text": "Malaysia" },
+            "col5": { "text": "2024-2026" }
+          },
+          {
+            "col1": { "text": "SEBASTHIRAJ JEEVA KARUNYA" },
+            "col2": { "text": "Management" },
+            "col3": { "text": "Universiti Teknologi MARA" },
+            "col4": { "text": "Malaysia" },
+            "col5": { "text": "2024-2026" }
+          },
+          {
+            "col1": { "text": "MOHAMED RAFIC MOHAMED IMRAN NAZEERA" },
+            "col2": { "text": "Management" },
+            "col3": { "text": "Universiti Teknologi MARA" },
+            "col4": { "text": "Malaysia" },
+            "col5": { "text": "2024-2026" }
+          },
+          {
+            "col1": { "text": "BALASUBRAMANIAN SENTHIL MURUGAN" },
+            "col2": { "text": "Management" },
+            "col3": { "text": "Universiti Teknologi MARA" },
+            "col4": { "text": "Malaysia" },
+            "col5": { "text": "2024-2026" }
+          },
+          {
+            "col1": { "text": "SAKTHIVEL DEEPIKA" },
+            "col2": { "text": "Management" },
+            "col3": { "text": "Universiti Teknologi MARA" },
+            "col4": { "text": "Malaysia" },
+            "col5": { "text": "2024-2026" }
+          },
+          {
+            "col1": { "text": "JEYARAJ HARIHARAN" },
+            "col2": { "text": "Management" },
+            "col3": { "text": "Universiti Teknologi MARA" },
+            "col4": { "text": "Malaysia" },
+            "col5": { "text": "2024-2026" }
+          },
+          {
+            "col1": { "text": "DHANDAPANI KUMARESAN" },
+            "col2": { "text": "Management" },
+            "col3": { "text": "Universiti Teknologi MARA" },
+            "col4": { "text": "Malaysia" },
+            "col5": { "text": "2024-2026" }
+          },
+          {
+            "col1": { "text": "DURAI KANNAN SHWETHA" },
+            "col2": { "text": "Management" },
+            "col3": { "text": "Universiti Teknologi MARA" },
+            "col4": { "text": "Malaysia" },
+            "col5": { "text": "2024-2026" }
+          },
+          {
+            "col1": { "text": "Lithish Kumar K" },
+            "col2": { "text": "Chemistry" },
+            "col3": { "text": "National Kaohsiung University of Technology" },
+            "col4": { "text": "Taiwan" },
+            "col5": { "text": "2024-2026" }
+          },
+          {
+            "col1": { "text": "Aarthi Ethiraj" },
+            "col2": { "text": "Bio Technology" },
+            "col3": { "text": "Yuanpei University of Medical Technology" },
+            "col4": { "text": "Taiwan" },
+            "col5": { "text": "2023-2027" }
+          },
+          {
+            "col1": { "text": "Dhivya Dharshika" },
+            "col2": { "text": "Bio Technology" },
+            "col3": { "text": "Yuanpei University of Medical Technology" },
+            "col4": { "text": "Taiwan" },
+            "col5": { "text": "2023-2027" }
+          },
+          {
+            "col1": { "text": "Sandeep SN" },
+            "col2": { "text": "AIDS" },
+            "col3": { "text": "National Chin-Yi University of Technology" },
+            "col4": { "text": "Taiwan" },
+            "col5": { "text": "2023-2027" }
+          },
+          {
+            "col1": { "text": "Samuel E" },
+            "col2": { "text": "AIDS" },
+            "col3": { "text": "National Chin-Yi University of Technology" },
+            "col4": { "text": "Taiwan" },
+            "col5": { "text": "2024-2027" }
+          }
+        ]
+      }
+    ]
+  },
+
+  "annualResearch": {
+    "content": [
+      {
+        "subtitle": "Application form for Outgoing Students Mobility",
+        "id": 1,
+        "list": [
+          {
+            "src": "/images/Kahe/Innerpages/file.png",
+
+            "item": "Open Pdf",
+            "url": "https://kahedu.edu.in/n/wp-content/uploads/2024/04/Outbound-Application-form.pdf",
+            "target":"_blank"
+          }
+        ]
+      }
+    ],
+    "src": [{ "id": 1, "src": "/images/Kahe/Innerpages/RTI.jpg" }]
+    
+  }
+}

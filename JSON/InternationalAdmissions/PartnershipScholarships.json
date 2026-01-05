@@ -1,0 +1,1708 @@
+{
+  "bannerCon": {
+    "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+    "title": "Partnerships & Scholarships",
+    "bannerCon": "To be a leading institution in the field of education, providing quality education and training to students and professionals.",
+    "applyLink": "/"
+  },
+  "title": "List of Partner Universities",
+
+  "AsiaList": {
+    "subTitle": "Asia",
+
+    "content": [
+      {
+        "head": [
+          { "id": "col1", "label": "Sl No" },
+          { "id": "col2", "label": "Partner Institution" },
+          { "id": "col3", "label": "Country Name" },
+          { "id": "col4", "label": "Department" },
+          { "id": "col5", "label": "Scope of Collaboration" }
+        ],
+        "data": [
+          {
+            "col1": { "text": "1" },
+            "col2": {
+              "text": "Southern Taiwan University of Science and Technology"
+            },
+            "col3": { "text": "Taiwan" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Faculty Exchanges",
+                "Conduct of Collaborative Research Projects",
+                "Conduct of Lectures, Webinars & Symposia",
+                "Exchange of Academic Information and Materials",
+                "Promotion of other Academic Cooperation"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "2" },
+            "col2": { "text": "Ming Chi University of Technology" },
+            "col3": { "text": "Taiwan" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Faculty Exchanges",
+                "Students Exchanges",
+                "Pathway Programs",
+                "Exchange of Academic Publications",
+                "To Promote Academic Activities"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "3" },
+            "col2": { "text": "National Changhua University of Education" },
+            "col3": { "text": "Taiwan" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Faculty Exchanges",
+                "Students Exchanges",
+                "Exchange of Academic Information and Materials"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "4" },
+            "col2": { "text": "National Kaohsiung Normal University" },
+            "col3": { "text": "Taiwan" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Faculty Exchanges",
+                "Students Exchanges",
+                "Exchange of Academic Publications",
+                "To Promote Academic Activities"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "5" },
+            "col2": { "text": "National United University" },
+            "col3": { "text": "Taiwan" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Faculty Exchanges",
+                "Students Exchanges",
+                "Exchange of Scientific materials, Publications and information",
+                "Joint conference and Academic Programs",
+                "Joint Research Activities and Publications"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "6" },
+            "col2": { "text": "Asia University" },
+            "col3": { "text": "Taiwan" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Faculty Exchanges",
+                "Students Exchanges",
+                "Exchanging scholars and students to participate in academic activities (exhibitions, lectures, conferences, etc.)",
+                "Facilitating exchange of experiences and ideas to mutual benefit",
+                "Collaboration in R&D, consultancy, joint research projects, and resource sharing",
+                "Industrial visits, On-the-job training, Summer Internship",
+                "Joint organization of Value-Added Courses, FDPs, workshops, and webinars",
+                "Establishing joint degree programmes and dual degree programmes"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "7" },
+            "col2": { "text": "National Chung Hsing University" },
+            "col3": { "text": "Taiwan" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "To Facilitate Joint Research",
+                "Faculty Exchanges",
+                "Students Exchanges",
+                "Exchange of Academic Publications",
+                "To Promote Academic Activities"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "8" },
+            "col2": { "text": "University of Malaya" },
+            "col3": { "text": "Malaysia" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Faculty Exchanges",
+                "Students Exchanges",
+                "Exchange of Scientific data, Samples, Specimen and information",
+                "Collaborative activities (Joint Research, Lectures, Symposia, Publications)"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "9" },
+            "col2": { "text": "Universiti Malaysia, Perlis" },
+            "col3": { "text": "Malaysia" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Faculty Exchanges",
+                "Students Exchanges",
+                "Joint Supervision of Masters and Phd Students",
+                "Exchange of Academic Information and Materials",
+                "Exchange of Periodicals and other Publications",
+                "Organization of Joint Research Programs and joint conferences"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "10" },
+            "col2": { "text": "Universiti Teknologi MARA" },
+            "col3": { "text": "Malaysia" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Faculty Exchanges",
+                "Students Exchanges",
+                "Acceptance of undergraduate and graduate students for periods of study",
+                "Organization of Symposia, Conferences, Short courses and meetings",
+                "Exchange of information pertaining to developments in teaching and research"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "11" },
+            "col2": { "text": "Saint Louis University" },
+            "col3": { "text": "Philippines" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Faculty Exchanges",
+                "Students Exchanges",
+                "Exchange of Academic Publications",
+                "To Promote Academic Activities"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "12" },
+            "col2": { "text": "Ateneo de Davao University" },
+            "col3": { "text": "Philippines" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Student and Faculty Exchange / International Learning Sessions",
+                "Joint Research",
+                "Global Internships",
+                "International Service-Learning Programs",
+                "Study Visits",
+                "Other activities mutually agreed upon"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "13" },
+            "col2": { "text": "Hanoi University of Pharmacy" },
+            "col3": { "text": "Vietnam" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Exchange of Students",
+                "Exchange of Visiting Research Scholars",
+                "Joint research in the field of Pharmacy",
+                "Exchange of Academic Materials and information",
+                "Participation in international conferences and workshops"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "14" },
+            "col2": { "text": "National Central University" },
+            "col3": { "text": "Taiwan" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Faculty visits for teaching and research",
+                "Exchange of qualified students for upskilling (non-degree)",
+                "Foster exchange of academic publications",
+                "Promote other academic activities"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "15" },
+            "col2": { "text": "Holy Name University" },
+            "col3": { "text": "Philippines" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Faculty visits for teaching and research",
+                "Exchange of qualified students for upskilling (non-degree)",
+                "Foster exchange of academic publications",
+                "Promote other academic activities"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "16" },
+            "col2": { "text": "University of Northern Philippines" },
+            "col3": { "text": "Philippines" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Faculty, Staff and Student Exchange Programs",
+                "Joint scientific research projects and programs",
+                "Joint extension and academic activities (lectures, workshops, etc.)",
+                "Exchange of academic materials and scientific publications",
+                "Other mutual benefit collaborations"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "17" },
+            "col2": { "text": "University of the Immaculate Conception" },
+            "col3": { "text": "Philippines" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Promotion of joint research and teaching projects",
+                "Exchange of students in research and teaching programs",
+                "Joint extension and academic activities (lectures, workshops, etc.)",
+                "Exchange of academic materials and scientific publications",
+                "Other mutual benefit collaborations"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "18" },
+            "col2": { "text": "Mariano Marcos State University" },
+            "col3": { "text": "Philippines" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Develop international programs (short courses and TNE)",
+                "Organize symposia, workshops, and conferences",
+                "Share innovative teaching methods and curriculum design",
+                "Pursue joint research in mutual interests",
+                "Exchange of faculty for teaching/research assignments",
+                "Exchange of students for study and research",
+                "Academic internship and immersion programs"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "19" },
+            "col2": { "text": "Aklan State University" },
+            "col3": { "text": "Philippines" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Faculty visits for teaching and research",
+                "Student exchange for upskilling and Twinning/Joint/Dual degree programmes",
+                "Foster exchange of academic publications",
+                "Promote other academic activities"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "20" },
+            "col2": { "text": "Nha trang university" },
+            "col3": { "text": "Vietnam" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Faculty Exchanges",
+                "Students Exchanges",
+                "Exchange of Academic Publications",
+                "To Promote Academic Activities"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "21" },
+            "col2": { "text": "National Taipei University of technology" },
+            "col3": { "text": "Taiwan" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Faculty Exchanges",
+                "Students Exchanges",
+                "Exchange of Academic Publications",
+                "To Promote Academic Activities"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "22" },
+            "col2": { "text": "AL-Shamal Private University" },
+            "col3": { "text": "Syria" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Faculty Exchanges",
+                "Students Exchanges",
+                "Exchange of Academic Publications",
+                "To Promote Academic Activities"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "23" },
+            "col2": { "text": "Kyungpook National University" },
+            "col3": { "text": "South korea" },
+            "col4": { "text": "CCMP Lab" },
+            "col5": {
+              "list": [
+                "Faculty visits for teaching and research",
+                "Student exchange for upskilling and Twinning/Joint/Dual degrees",
+                "Foster exchange of academic publications",
+                "Promote other academic activities"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "24" },
+            "col2": { "text": "Universitas Sumatera Utara" },
+            "col3": { "text": "Indonesia" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Faculty Exchanges",
+                "Students Exchanges",
+                "Exchange of Academic Publications",
+                "To Promote Academic Activities"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "25" },
+            "col2": { "text": "University of Tehran" },
+            "col3": { "text": "Iran" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Joint research activities",
+                "Exchange of faculty/students and academic materials",
+                "Joint supervision of M.Sc. and Ph.D. theses",
+                "Establishment of dual degrees",
+                "Participation in seminars and academic meetings",
+                "Cooperation in scientific committees and joint projects"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "26" },
+            "col2": { "text": "Ho Chi Minh City University of Education" },
+            "col3": { "text": "Vietnam" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Faculty visits for teaching and research",
+                "Student exchange for upskilling and Twinning/Joint/Dual degrees",
+                "Foster exchange of academic publications",
+                "Promote other academic activities"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "27" },
+            "col2": { "text": "University of Bohol" },
+            "col3": { "text": "Philippines" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Faculty Exchanges",
+                "Students Exchanges",
+                "Exchange of Academic Publications",
+                "To Promote Academic Activities"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "28" },
+            "col2": { "text": "Prince of Songkla University" },
+            "col3": { "text": "Thailand" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Beneficial UG/PG student exchange programs",
+                "Collaboration in academic activities (summer school, cross-cultural)",
+                "Staff exchange and educational collaboration",
+                "Collaborative research projects and publications"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "29" },
+            "col2": { "text": "Quirino State University" },
+            "col3": { "text": "Philippines" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Faculty Exchanges",
+                "Students Exchanges",
+                "Exchange of Academic Publications",
+                "To Promote Academic Activities"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "30" },
+            "col2": { "text": "Western Gailee college" },
+            "col3": { "text": "Israel" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Faculty Exchanges",
+                "Students Exchanges",
+                "Exchange of Academic Publications",
+                "To Promote Academic Activities"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "31" },
+            "col2": { "text": "Pathumthani University" },
+            "col3": { "text": "Thailand" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Faculty Exchanges",
+                "Students Exchanges",
+                "Exchange of Academic Publications",
+                "To Promote Academic Activities"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "32" },
+            "col2": { "text": "Infrastructure University Kuala Lumpur" },
+            "col3": { "text": "Malaysia" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Offer of academic courses and curriculum",
+                "Exchange of students and faculty members",
+                "Exchange of journals and research materials",
+                "Joint research and publications",
+                "Joint conferences and cultural exchange",
+                "Study tours, summer schools, and work placements",
+                "Joint supervision of postgraduate students",
+                "Articulation and progression arrangements",
+                "Online teaching and webinars",
+                "Joint programs (UG/PG levels)",
+                "Sponsorships and Industrial Awards"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "33" },
+            "col2": { "text": "Foreign Trade University" },
+            "col3": { "text": "Vietnam" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Faculty Exchanges",
+                "Students Exchanges",
+                "Exchange of Academic Publications",
+                "To Promote Academic Activities",
+                "Collaborative training and research Programs",
+                "Implementation of Lectures and Conferences"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "34" },
+            "col2": { "text": "Shu-Te university" },
+            "col3": { "text": "Taiwan" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Student exchange for upskilling and Twinning/Dual degrees",
+                "Faculty and student exchange for lectures and seminars",
+                "Joint academic activities (conferences, workshops)",
+                "Development of programs and learning content",
+                "Joint research in common interest areas"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "35" },
+            "col2": { "text": "UNIMAS" },
+            "col3": { "text": "Malaysia" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Exchange programs for staff and students for joint research and teaching",
+                "Joint organization of research, traineeships, and communication programs",
+                "Cooperation in international seminars and conferences",
+                "Mutual areas of co-operation as agreed"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "36" },
+            "col2": { "text": "Shakrim University Semey" },
+            "col3": { "text": "Kazakhstan" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Faculty Exchanges",
+                "Students Exchanges",
+                "Exchange of Academic Publications",
+                "To Promote Academic Activities"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "37" },
+            "col2": { "text": "Cavite state University" },
+            "col3": { "text": "Philippines" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Exchange of students",
+                "Exchange of faculty and researchers",
+                "Exchange of academic information and publications",
+                "Joint research activities",
+                "Joint organizers of international research",
+                "Academic and cultural nature exchanges"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "38" },
+            "col2": {
+              "text": "Abra State Institute of Sciences and Technology (ASIST)"
+            },
+            "col3": { "text": "Philippines" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Faculty visits for teaching and research",
+                "Exchange of students for upskilling and Twinning/Dual degrees",
+                "Student Mobility through scholarships/internships",
+                "Foster exchange of publications",
+                "Joint research conferences and community outreach"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "39" },
+            "col2": { "text": "Taipei Economic and culture centre" },
+            "col3": { "text": "Taiwan" },
+            "col4": { "text": "-" },
+            "col5": { "text": "MoU" }
+          },
+          {
+            "col1": { "text": "40" },
+            "col2": { "text": "Chungbuk national university" },
+            "col3": { "text": "South korea" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Exchange of students, faculty, and staff for lectures and visits",
+                "Organize Academic meetings",
+                "Conducting joint research projects"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "41" },
+            "col2": { "text": "CHENG SHIU UNIVERSITY" },
+            "col3": { "text": "Taiwan" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Faculty visits for teaching and research",
+                "Student exchange for upskilling and Twinning/Dual degrees",
+                "Foster exchange of academic publications",
+                "Promote other academic activities"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "42" },
+            "col2": { "text": "Chienkuo Technology University" },
+            "col3": { "text": "Taiwan" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Faculty Exchanges",
+                "Students Exchanges",
+                "Exchange of Academic Publications",
+                "To Promote Academic Activities"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "43" },
+            "col2": { "text": "National University of Kaohsiung" },
+            "col3": { "text": "Taiwan" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Exchange of students",
+                "Exchange of faculty members and staff",
+                "Exchange of scientific materials and publications",
+                "Joint research and meetings",
+                "Cooperation in industrial incubation"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "44" },
+            "col2": { "text": "Inti International University" },
+            "col3": { "text": "Malaysia" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Student mobility (Twinning, Joint, Dual degrees)",
+                "Academic programs collaborations",
+                "Joint publication and research",
+                "Exchange of academic materials",
+                "Scholarly activities (courses, seminars, conferences)"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "45" },
+            "col2": { "text": "Nanhua University" },
+            "col3": { "text": "Taiwan" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Student exchanges (field trips, volunteering)",
+                "Faculty and researcher exchanges",
+                "Summer school and visiting lecturers",
+                "Joint research projects and conferences",
+                "Exchange of information and publications"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "46" },
+            "col2": { "text": "Fo Guang University" },
+            "col3": { "text": "Taiwan" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Students Exchange",
+                "Scholar Exchange Program",
+                "Exchange of information and academic materials",
+                "Cooperation in internship programs",
+                "Organization of joint research leading to publication",
+                "Mutual assistance for conferences/workshops",
+                "Preparatory courses and language training"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "47" },
+            "col2": { "text": "Providence university" },
+            "col3": { "text": "Taiwan" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Faculty exchanges for collaborative research",
+                "Student exchange for credit transfer",
+                "Promotion of cultural understanding"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "48" },
+            "col2": { "text": "Foxconn" },
+            "col3": { "text": "Taiwan" },
+            "col4": { "text": "-" },
+            "col5": { "text": "MoU" }
+          },
+          {
+            "col1": { "text": "49" },
+            "col2": { "text": "Keimyung university" },
+            "col3": { "text": "South Korea" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Faculty visits for teaching and research",
+                "Student exchange for upskilling and Twinning/Dual degrees",
+                "Foster exchange of academic publications",
+                "Promote other academic activities"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "50" },
+            "col2": { "text": "National Yang Ming Chiao Tung University" },
+            "col3": { "text": "Taiwan" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Faculty visits for teaching and research",
+                "Student exchange for upskilling and Twinning/Dual degrees",
+                "Foster exchange of academic publications",
+                "Promote other academic activities"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "51" },
+            "col2": { "text": "National Dong Hwa University (NDHU)" },
+            "col3": { "text": "Taiwan" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Possibilities for faculty and staff exchanges",
+                "Feasibility of student exchanges and study programs",
+                "Support for mutually beneficial projects",
+                "Periodic consultation concerning collaboration status"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "52" },
+            "col2": { "text": "National Ilan University (NIU)" },
+            "col3": { "text": "Taiwan" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Exchange of students through recognized programs",
+                "Exchange of faculty and staff",
+                "Exchange of documentation and research material",
+                "Coordination in joint research projects",
+                "Cooperation in commercializing technologies"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "53" },
+            "col2": {
+              "text": "National Pingtung University of Science and Technolgy"
+            },
+            "col3": { "text": "Taiwan" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Faculty visits for teaching and research",
+                "Student exchange for upskilling and Twinning/Dual degrees",
+                "Foster exchange of academic publications",
+                "Promote other academic activities"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "54" },
+            "col2": { "text": "University of Taipei (UT)" },
+            "col3": { "text": "Taiwan" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Exchange of academic materials and information",
+                "Mutual educational visits by faculty and staff",
+                "Exchange Students and visiting scholars",
+                "Hold joint international conferences",
+                "Conduct joint research projects"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "55" },
+            "col2": { "text": "Chung Yuan Christian University" },
+            "col3": { "text": "Taiwan" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Faculty exchange",
+                "UG and graduate student exchange",
+                "Joint research projects and symposia",
+                "Academic materials and information sharing",
+                "Joint/double degree program"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "56" },
+            "col2": { "text": "Shih Chien University" },
+            "col3": { "text": "Taiwan" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Faculty visits for teaching and research",
+                "Student exchange for upskilling and Twinning/Dual degrees",
+                "Foster exchange of academic publications",
+                "Promote other academic activities"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "57" },
+            "col2": { "text": "Myongji University" },
+            "col3": { "text": "South korea" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Student exchanges (Twinning, Joint, Dual Degrees)",
+                "Faculty exchanges",
+                "Joint research and seminars",
+                "Exchange of academic information"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "58" },
+            "col2": {
+              "text": "Taiwan Steel University of Science and Technology"
+            },
+            "col3": { "text": "Taiwan" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Admissions for in-service and second degree programs",
+                "Dual Degree Programs establishment",
+                "Exchange of staff and students",
+                "Research cooperation in mutual interest fields",
+                "Assistance in staff scientific qualification",
+                "Exchange of publications",
+                "Sharing teaching methods and techniques",
+                "Joint symposia and conferences"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "59" },
+            "col2": { "text": "Taiwan University of Technology" },
+            "col3": { "text": "Taiwan" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Faculty visits for teaching and research",
+                "Student exchange for upskilling and Twinning/Dual degrees",
+                "Foster exchange of academic publications",
+                "Promote other academic activities"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "60" },
+            "col2": { "text": "Tainan University of Technology" },
+            "col3": { "text": "Taiwan" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Faculty visits for teaching and research",
+                "Student exchange for upskilling and Twinning/Dual degrees",
+                "Foster exchange of academic publications",
+                "Promote other academic activities"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "61" },
+            "col2": { "text": "SEGi University" },
+            "col3": { "text": "Malaysia" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Academic Programme Collaborations",
+                "Articulation or credit transfer arrangements",
+                "Semester Abroad",
+                "Research collaborations",
+                "Common bilateral symposiums or conferences"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "62" },
+            "col2": { "text": "Chaoyang University of Technology" },
+            "col3": { "text": "Taiwan" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Faculty Exchange",
+                "Students Exchange",
+                "Exchange of Academic Publication",
+                "To promote other academic activities"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "63" },
+            "col2": { "text": "University Technology Sarawak" },
+            "col3": { "text": "Malaysia" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Develop professional/industrial training programmes",
+                "Exchange of technical know-how",
+                "Joint research, innovation, and teaching",
+                "Participation in course improvement",
+                "Value-added study workshops"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "64" },
+            "col2": {
+              "text": "National Kaohsiung University of Science and Technology"
+            },
+            "col3": { "text": "Taiwan" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Exchange of scholars and researchers",
+                "Coordination of joint research, lectures, and symposia",
+                "Exchange of Data and research materials",
+                "Exchange of Students",
+                "Cooperation of Dual Degree Program"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "65" },
+            "col2": { "text": "National Chi Nan University" },
+            "col3": { "text": "Taiwan" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Joint research and academic activities",
+                "Joint Degree programs",
+                "Study tour programs",
+                "Multi-lateral collaborations and publications",
+                "Students Exchanges",
+                "Faculty Exchanges"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+
+  "EuropeList": {
+    "subTitle": "Europe",
+
+    "content": [
+      {
+        "head": [
+          { "id": "col1", "label": "Sl No" },
+          { "id": "col2", "label": "Partner Institution" },
+          { "id": "col3", "label": "Country Name" },
+          { "id": "col4", "label": "Department" },
+          { "id": "col5", "label": "Scope of Collaboration" }
+        ],
+        "data": [
+          {
+            "col1": { "text": "1" },
+            "col2": { "text": "Near East University" },
+            "col3": { "text": "North Cyprus" },
+            "col4": { "text": "Engineering" },
+            "col5": {
+              "list": [
+                "Faculty Exchanges",
+                "Students Exchanges",
+                "Exchange of Academic Publications",
+                "To Promote Academic Activities"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "2" },
+            "col2": { "text": "University of Arad" },
+            "col3": { "text": "Romania" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Faculty Exchanges",
+                "Students Exchanges",
+                "Support reciprocity in University extension activities of common interest",
+                "Exchange of Books, Scientific Publications, Study Programs, Academic projects, Course information, Seminar, Conferences and any other data",
+                "Develop Joint Research Projects & Joint Publications"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "3" },
+            "col2": { "text": "Adam Mickiewicz University" },
+            "col3": { "text": "Poland" },
+            "col4": { "text": "All" },
+            "col5": { "text": "Students Exchanges" }
+          },
+          {
+            "col1": { "text": "4" },
+            "col2": { "text": "MIREA-Russian Technological university" },
+            "col3": { "text": "Russia" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "International Exchange programs including Twinning, Joint degree, and Dual degree programmes",
+                "Collaborative Research Projects",
+                "Joint Events, Seminars, Webinars, and Conferences",
+                "Other possible collaborative activities"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "5" },
+            "col2": {
+              "text": "St.petersburg state marine technical university"
+            },
+            "col3": { "text": "Russia" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Faculty Exchanges",
+                "Students Exchanges",
+                "Exchange of Academic Publications",
+                "To Promote Academic Activities"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "6" },
+            "col2": { "text": "Bahcesehir University" },
+            "col3": { "text": "Turkey" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Exchange of students for study including Twinning Program, Joint Degree and Dual degree options",
+                "Exchange of faculty members for study, research, and participation in educational programs",
+                "Exchange of scholars for lectures, talks, and sharing of experience",
+                "Joint publications in fields of interest to both universities",
+                "Collaborative professional development",
+                "Joint educational programs",
+                "Other activities as mutually agreed"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "7" },
+            "col2": { "text": "a.MoU - 'Lucian Blaga' University of Sibiu" },
+            "col3": { "text": "Romania" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Faculty visits for teaching and research",
+                "Student exchange for upskilling and Twinning/Joint/Dual degree programmes",
+                "Foster exchange of academic publications and scholarly information",
+                "Promote other academic activities"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "8" },
+            "col2": {
+              "text": "b.Erasmus – 'Lucian Blaga' University of Sibiu"
+            },
+            "col3": { "text": "Romania" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Exchange information on research and educational programmes",
+                "Exchange teaching and learning materials",
+                "Jointly organize short-term continuing education programmes",
+                "Jointly organize seminars, conferences, or workshops",
+                "Jointly propose and engage in research/training programmes sponsored by funding agencies",
+                "Reciprocal exchange of students at Undergraduate, Graduate, and Doctoral levels"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "9" },
+            "col2": { "text": "Perm National Research Polytechnic University" },
+            "col3": { "text": "Russia" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Exchange information on research and educational programmes",
+                "Exchange teaching and learning materials",
+                "Jointly organize short-term continuing education programmes",
+                "Jointly organize seminars, conferences, or workshops",
+                "Jointly propose and engage in sponsored research or training programmes"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "10" },
+            "col2": { "text": "MIT Square" },
+            "col3": { "text": "London" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Establishing Centre of Excellences",
+                "Training & Learning activities",
+                "Joint and articulated degree programs (semester abroad, dual, integrated, double, twin, sandwich)",
+                "Joint teaching, research, workshops, and cultural activity",
+                "Joint support for student projects (UG, PG & PhD)",
+                "Educational Programs/Opportunities in India & Abroad",
+                "Internship Programs/Opportunities",
+                "Value Added Certifications/Courses (VACs)",
+                "Continuous Professional Development (CPD)",
+                "Faculty and Student Development Programs (FDPs/SDPs)",
+                "Faculty and Student Exchange Programs",
+                "Knowledge Exchange Programs (KEPs)",
+                "Social Outreach Programs (SORs) / CSR",
+                "Academic-Industry Collaboration Activities",
+                "Placement Training & Activities (PTA)",
+                "Industrial Visits, Traineeships, and Internships",
+                "Scholarships and Fellowships",
+                "Abroad Studies and Foreign Languages Support",
+                "Sharing or creation of educational materials"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "11" },
+            "col2": { "text": "University of Zagreb" },
+            "col3": { "text": "Croatia" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Faculty Exchanges",
+                "Students Exchanges",
+                "Exchange of Academic Publications",
+                "To Promote Academic Activities"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "12" },
+            "col2": { "text": "University 'G. d’Annunzio' Chieti-Pescara" },
+            "col3": { "text": "Italy" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Faculty Exchanges",
+                "Students Exchanges",
+                "Exchange of Academic Publications",
+                "To Promote Academic Activities"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "13" },
+            "col2": {
+              "text": "a. MoU / b. Erasmus – University of Economics – Varna"
+            },
+            "col3": { "text": "Bulgaria" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Mutual exchange of experience in academic activity",
+                "Preparation and publication of joint scientific materials",
+                "Organization of joint conferences, seminars and symposiums",
+                "Publication of scientific articles in Parties' periodicals",
+                "Establishment of joint programs for further education",
+                "Establishment of joint educational programs (double/joint diplomas)",
+                "Organization of academic mobility for students"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "14" },
+            "col2": { "text": "a. MoU / b. Erasmus – Powislanksi university" },
+            "col3": { "text": "Poland" },
+            "col4": { "text": "All" },
+            "col5": { "text": "Erasmus+ Programme" }
+          },
+          {
+            "col1": { "text": "15" },
+            "col2": { "text": "University of Pitesti" },
+            "col3": { "text": "Romania" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Exchange visits of teaching and research staff for seminars and joint projects",
+                "Circulation of publications and information",
+                "Exchange visits of post-graduate students for research",
+                "Student exchange for professional training and educational activities",
+                "Promoting Ph D dual-diploma agreements",
+                "Exchange visits of technical or administrative staff"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "16" },
+            "col2": { "text": "Institute of Advanced Materials & IAAM" },
+            "col3": { "text": "Sweden" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Faculty Exchanges",
+                "Students Exchanges",
+                "Joint Research Projects",
+                "Joint Academic activities and events",
+                "Short Courses and summer school",
+                "Organizing joint Symposium, Seminar, Conference, Workshops"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "17" },
+            "col2": { "text": "Halic university" },
+            "col3": { "text": "Turkey" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Faculty Exchanges",
+                "Students Exchanges",
+                "Joint Research, Conference and projects"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "18" },
+            "col2": { "text": "Primorskaya State Academy of Agriculture" },
+            "col3": { "text": "Russia" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Faculty Exchanges",
+                "Students Exchanges",
+                "Exchange of Academic Publications",
+                "To Promote Academic Activities"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "19" },
+            "col2": { "text": "Tambov State Technical University" },
+            "col3": { "text": "Russia" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Exchanging students and staff for joint study/scientific programs and internships",
+                "Organization of conferences and joint publication of proceedings",
+                "Reviewing scientific publication and theses",
+                "Exchanging information about seminars and conferences",
+                "Participation in joint research projects",
+                "Exchanging documentation and research results"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "20" },
+            "col2": { "text": "Trabzon University" },
+            "col3": { "text": "Turkey" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Exchange of scholars for research of mutual interest",
+                "Exchange of professors for lectures and short term visits",
+                "Invitations to scholars for conferences and symposia",
+                "Exchange of information, academic materials and publications",
+                "Facilitating student mobility through exchange and visits"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "21" },
+            "col2": { "text": "Barnavichy state university" },
+            "col3": { "text": "Belarus" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Joint scientific seminars, Conferences, Symposiums",
+                "Development and implementation of Joint Research Projects",
+                "Exchange of research findings and teaching materials",
+                "Exchange of experience in advanced technologies and teaching methods"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "22" },
+            "col2": { "text": "Togliatti academy of Management" },
+            "col3": { "text": "Russia" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Joint research",
+                "Dissemination of scientific results via articles and textbooks",
+                "Joint development of network educational programs",
+                "Carrying out joint events (seminars, conferences, symposiums)",
+                "Practical training and internships for students and staff"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "23" },
+            "col2": { "text": "Omsk State Technical University" },
+            "col3": { "text": "Russia" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Faculty visits for teaching and research",
+                "Student exchange for upskilling and Twinning/Joint/Dual degrees",
+                "Foster exchange of academic publications",
+                "Promote other academic activities"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "24" },
+            "col2": { "text": "Pyatigorsk State University" },
+            "col3": { "text": "Russia" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Faculty visits for teaching and research",
+                "Student exchange for upskilling and Twinning/Joint/Dual degrees",
+                "Foster exchange of academic publications",
+                "Promote other academic activities"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "25" },
+            "col2": { "text": "University of Alicante" },
+            "col3": { "text": "Spain" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Exchange of researchers, staff and students while removing academic obstacles",
+                "Joint editions of historical or linguistic monographs",
+                "Implementation of research projects based on available resources",
+                "Organisation of coordinated teaching activities",
+                "Organisation of international colloquia"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "26" },
+            "col2": { "text": "Industrial University of Tyumen (IUT)" },
+            "col3": { "text": "Russia" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Exchange of research materials and publications",
+                "Exchange of faculty and research scholars",
+                "Exchange of students",
+                "Joint research and materials",
+                "Bachelor’s double degree program code of conduct"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "27" },
+            "col2": {
+              "text": "State Institute of Economics Finance Law and Technology"
+            },
+            "col3": { "text": "Russia" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Faculty visits for teaching and research",
+                "Student exchange for upskilling and Twinning/Joint/Dual degrees",
+                "Foster exchange of academic publications",
+                "Promote other academic activities"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "28" },
+            "col2": { "text": "Murmansk State Technical University (MSTU)" },
+            "col3": { "text": "Russia" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Joint research projects",
+                "Joint educational activities",
+                "Exchange of staff and students",
+                "Exchange of scientific materials",
+                "Seminars and workshops in bilateral interest fields",
+                "Advanced training programs (degree and non-degree)"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "29" },
+            "col2": { "text": "Omsk state transport university" },
+            "col3": { "text": "Russia" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Faculty visits for teaching and research",
+                "Student exchange for upskilling and Twinning/Joint/Dual degrees",
+                "Foster exchange of academic publications",
+                "Promote other academic activities"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "30" },
+            "col2": { "text": "Istanbul aydin university" },
+            "col3": { "text": "Turkey" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Exchange of students for study and research",
+                "Short-term programs",
+                "Exchange of academic staff",
+                "Collaboration on research projects and publications",
+                "Organizing joint seminars and conferences",
+                "Cooperation in online learning",
+                "Development of joint and dual degree programs",
+                "Organizing joint cultural activities"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "31" },
+            "col2": { "text": "Yasar University" },
+            "col3": { "text": "Turkey" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Development of joint academic courses and programs",
+                "Transfer of academic credit-bearing courses",
+                "Exchange of graduate and undergraduate students",
+                "Exchange of faculty for instruction and research",
+                "Exchange of educational materials and publications",
+                "Joint conferences, seminars and workshops"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "32" },
+            "col2": { "text": "Canakkale Onsekiz Mart University" },
+            "col3": { "text": "Turkey" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Exchange of academic members and researchers",
+                "Exchange of students",
+                "Collaborative research and publication",
+                "Exchange of scientific publication and reference data",
+                "Organization of joint seminars and workshops"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "33" },
+            "col2": { "text": "Recep Tayyip University" },
+            "col3": { "text": "Turkey" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Exchanges of undergraduate, master’s, and PhD students",
+                "Exchanges of staff for internships",
+                "Scientific research and guest lectures",
+                "Appointment of co-supervisor for PhD students",
+                "Cooperation in double degree programs",
+                "Cooperation in preparing specialized staff",
+                "Exchange of experience in curriculum",
+                "Joint conferences and symposiums",
+                "Joint scientific publications",
+                "Visa support"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "34" },
+            "col2": { "text": "Adiyaman University (AU)" },
+            "col3": { "text": "Turkey" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Faculty visits for teaching and research",
+                "Student exchange for upskilling and Twinning/Joint/Dual degrees",
+                "Foster exchange of academic publications",
+                "Promote other academic activities"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "35" },
+            "col2": { "text": "Zonguldak Bulent Ecevit University" },
+            "col3": { "text": "Turkey" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Exchange academic materials and information",
+                "Mutual educational visits by faculty",
+                "Exchange students and visiting scholars",
+                "Hold joint international conferences",
+                "Conduct joint research projects",
+                "Enhance mutual understanding and cooperation"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "36" },
+            "col2": { "text": "Duze University" },
+            "col3": { "text": "Turkey" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Exchange of staff and students",
+                "Cooperation in placements and thesis research",
+                "Collaborative research projects and lectures",
+                "Organising symposiums and conferences",
+                "Exchange of academic materials",
+                "Promoting the mobilities of academic staff within Masters and PhD programs"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "37" },
+            "col2": { "text": "University of Sussex" },
+            "col3": { "text": "United Kingdom" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Development of joint research (doctoral/post-doctoral)",
+                "Co-operation on academic programmes",
+                "Facilitation of student exchange and Twinning/Joint/Dual degrees",
+                "Staff exchanges or mutual visits",
+                "Exchange of information and teaching results",
+                "Other mutually beneficial activities"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "38" },
+            "col2": { "text": "Constanta Maritime University" },
+            "col3": { "text": "Romania" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Faculty visits for teaching and research",
+                "Student exchange for upskilling and Twinning/Joint/Dual degrees",
+                "Foster exchange of academic publications",
+                "Promote other academic activities"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "39" },
+            "col2": { "text": "Cyprus Aydin University" },
+            "col3": { "text": "North Cyprus" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Exchange of students for study and research",
+                "Short term programs",
+                "Exchange of academic staff",
+                "Collaborations for research projects",
+                "Organizing joint seminars and webinars",
+                "Development of joint and dual degree programs",
+                "Promoting international understanding via cultural activities"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "40" },
+            "col2": { "text": "International Black Sea University" },
+            "col3": { "text": "Georgia" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Exchange of staff for training or research",
+                "Exchange of lecturers for consultations",
+                "Exchange of students (UG/PG/PhD) for education and research",
+                "Exchange of cultural activities",
+                "Exchange of academic publications and conference proceedings",
+                "Joint scientific events and workshops",
+                "Joint research activities and publications"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "41" },
+            "col2": { "text": "Universidade De Jaen" },
+            "col3": { "text": "Spain" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Exchange of staff and students for research purposes",
+                "Participation in joint research projects and conferences",
+                "Courses for teachers and students",
+                "Mutual exchange of research results and publications"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "42" },
+            "col2": { "text": "Eotvos Lorand University" },
+            "col3": { "text": "Hungary" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Exchange of staff and students for research purposes",
+                "Participation in joint research projects and conferences",
+                "Courses for teachers and students",
+                "Mutual exchange of research results and publications"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "43" },
+            "col2": { "text": "Dunarea de Jos University of Galati" },
+            "col3": { "text": "Romania" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Development of joint research projects",
+                "Graduate, Postgraduate or research study programmes",
+                "Exchange of professors, researchers, students and administration",
+                "Sharing information about organization and annual programs",
+                "Courses, seminar, symposia involving professors",
+                "Exchange and dissemination of reference material"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "44" },
+            "col2": { "text": "University of York" },
+            "col3": { "text": "United Kingdom" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Short term Students Exchange",
+                "Joint research activities",
+                "Exchange of invitations to conferences and seminars",
+                "Exchange of teaching staff and researchers"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "45" },
+            "col2": { "text": "University of Cagliari" },
+            "col3": { "text": "Italy" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Joint research activities",
+                "Joint teaching or supervision of students",
+                "Staging of joint seminars and academic meetings",
+                "Special academic programmes",
+                "Education Abroad via internships and practicum",
+                "Exchange of academic materials",
+                "Collaborative field visit components",
+                "Joint Collaborative grant proposals"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "46" },
+            "col2": { "text": "Obuda University" },
+            "col3": { "text": "Hungary" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Joint Research and mutual fund raising",
+                "Faculty and Student Exchanges",
+                "Digital resources for joint educational programs",
+                "Participation in Seminars and academic meetings",
+                "Exchange of Academic materials and publications",
+                "Special short and long term programs",
+                "Promotion of joint academic publications"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
