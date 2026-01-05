@@ -1017,10 +1017,12 @@
 }
 
 .kahe-transfer-text-box {
+  display: flex;
   padding: 20px 40px;
   width: 100%;
   color: #fff;
   line-height: 1.6;
+  flex-direction: column;
 }
 
 .kahe-transfer-btn {

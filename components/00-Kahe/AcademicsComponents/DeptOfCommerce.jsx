@@ -1,4 +1,4 @@
-"use client";
+"use client"
 
 import BreadCrumb from "@/components/00-Kahe/common-components/BreadCrumb";
 // import MenuData from "@/data/kahe/MegaMenu.json";
@@ -6,18 +6,18 @@ import BreadCrumb from "@/components/00-Kahe/common-components/BreadCrumb";
 // import CourseData from "../../../../../data/course-details/courseData.json";
 import TabInnerSection from "@/components/00-Kahe/Components/TabInnerSection";
 import { subMenu } from "@/JSON/ACADEMIC/Overview";
-import data from "../../../JSON/ACADEMIC/Engineering/dept_of_artificial_eng.json";
+import data from "../../../JSON/ACADEMIC/Arts/dept_of_commerce.json";
 import InnerBanner from "@/components/00-Kahe/common-components/InnerBanner";
 import Sidebar from "../common-components/Sidebar";
-import { base } from "@/utils/constant.util";
-import Sidebar2 from "../common-components/Sidebar2";
+import SidebarCopy from "../common-components/Sidebar2";
 import { Provider } from "react-redux";
 import Context from "@/context/Context";
 import Store from "@/redux/store";
 
+
 console.log("data", data);
 
-const DepartmentOfArtificialIntelligence = () => {
+const DeptOfCommerce = () => {
   const breadcrumbItems = [
     { label: "Academics", href: `academics` },
     {
@@ -25,9 +25,8 @@ const DepartmentOfArtificialIntelligence = () => {
       href: `academics/arts-science-and-humanities/`,
     },
 
-    { label: "Department of Biochemistry" },
+    { label: "Department of Commerce" },
   ];
-
   return (
     <>
       <Provider store={Store}>
@@ -46,23 +45,23 @@ const DepartmentOfArtificialIntelligence = () => {
                 </div>
 
                 {/* <div className="col-lg-3 px-0 d-none d-lg-block">
-                  <div className="course-sidebar sticky-top rbt-shadow-box rbt-gradient-border ">
-                    <div className="inner">
-                      <div className="content-item-content">
-                        <Sidebar subMenu={subMenu} />
-                      </div>
-                    </div>
-                  </div>
-                </div> */}
+                       <div className="course-sidebar sticky-top rbt-shadow-box rbt-gradient-border ">
+                         <div className="inner">
+                           <div className="content-item-content">
+                             <Sidebar subMenu={subMenu} />
+                           </div>
+                         </div>
+                       </div>
+                     </div> */}
               </div>
             </div>
           </main>
 
-          <Sidebar2 subMenu={subMenu} />
+          <SidebarCopy subMenu={subMenu} />
         </Context>
       </Provider>
     </>
   );
 };
 
-export default DepartmentOfArtificialIntelligence;
+export default DeptOfCommerce;
