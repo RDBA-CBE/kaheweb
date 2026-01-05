@@ -1,10 +1,12 @@
-const About = ({ data }) => {
+import { FirstLetterUp } from "@/utils/functions.utils";
+
+const About = ({ data ,container}) => {
     console.log("data",data);
     
   return (
     <>
       <div className="rbt-about-area about-style-1 mt-5">
-        <div className="container">
+        <div className={`${container ? container : "container"}`}>
           {data && (
             <div className="row g-5 align-items-start">
               <div className="col-lg-6">
@@ -21,6 +23,7 @@ const About = ({ data }) => {
                 className="col-lg-6"
               
               >
+                {data?.subTitle && <p className="main-sub-ti mb-3" dangerouslySetInnerHTML={{__html:data?.subTitle}}></p>}
                 <p className="mb--40 mb_sm--20">{data.content}</p>
                 {data.btn && <div className="readmore-btn">
                   <Link className="rbt-moderbt-btn" href={data.btnLink}>

@@ -1,19 +1,18 @@
 "use client";
 
 import { Placement } from "@/JSON/ACADEMIC/Overview";
-import data from "../../../JSON/Training/training_&_placements.json";
+import data from "../../../JSON/Training/RecruitingCompanies.json";
 import InnerBanner from "@/components/00-Kahe/common-components/InnerBanner";
 import Sidebar from "../common-components/Sidebar";
 
-
-import TrainingTabInnerSec from "../Components/TrainingTabInnerSec";
+import { FirstLetterUp } from "@/utils/functions.utils";
 
 export const metadata = {
   title: "About Us 01 - Online Courses & Education NEXTJS14 Template",
   description: "Online Courses & Education NEXTJS14 Template",
 };
 
-const TrainingAndPlacementCellCom = () => {
+const RecruitingCompaniesCom = () => {
   const Training = data;
 
   return (
@@ -24,10 +23,19 @@ const TrainingAndPlacementCellCom = () => {
         <div className="rbt-course-details-area w-100">
           <div className="row g-5">
             <div className="col-lg-9">
-              <TrainingTabInnerSec
-                tabSections={Training.tabs}
-                tabContent={Training.tabContent}
-              />
+              <h3 className="decor-ti">
+                {FirstLetterUp(Training?.recruiters?.title)}
+              </h3>
+              <div className="row gy-4">
+                {Training?.recruiters?.content?.map((item, index) => (
+                  <div key={index} className="col-3">
+                    <div key={index} className="specialty-card">
+                      <img src={item?.img} alt={item?.title} />
+                      <p>{FirstLetterUp(item?.title)}</p>
+                    </div>
+                  </div>
+                ))}
+              </div>
             </div>
 
             <div className="col-lg-3 px-0 d-none d-lg-block sidebar-pg">
@@ -46,4 +54,4 @@ const TrainingAndPlacementCellCom = () => {
   );
 };
 
-export default TrainingAndPlacementCellCom;
+export default RecruitingCompaniesCom;

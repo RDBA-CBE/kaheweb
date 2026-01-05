@@ -42,7 +42,8 @@
         "content": "Also Candidates can download the application form and mail the filled in form with DD drawn in favour of Karpagam Academy of Higher Education, payable at Coimbatore.",
         "btnText": "Download Application Form",
         "btnUrl": "https://kahedu.edu.in/admissions/downloads/",
-        "src": "/images/Kahe/Innerpages/job-application.png"
+        "src": "/images/Kahe/Innerpages/job-application.png",
+        "target":"_blank"
       },
       {
         "title": "Contact Information",

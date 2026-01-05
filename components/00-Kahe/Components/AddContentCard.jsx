@@ -9,13 +9,17 @@ const AddContentCard = ({ data }) => {
   console.log("data", data);
 
   return (
-    <div className="commitee ">
-      <div className="decor-ti">{FirstLetterUp(data?.title)} </div>
+    <div className=" ">
+     {data?.title && <div className="decor-ti">{FirstLetterUp(data?.title)} </div>}
 
-      <div className="row py-5 align-items-stretch">
+      <div className="row py-5 align-items-stretch gy-5">
         {data?.content?.map((item, index) => (
           <div
-            className="col-lg-4 col-md-6 col-sm-6 col-12 d-flex px-4"
+            className={`${
+              item?.gridCls
+                ? item?.gridCls
+                : "col-lg-4 col-md-6 col-sm-6 col-12"
+            } d-flex px-4`}
             key={index}
           >
             <div
@@ -26,23 +30,35 @@ const AddContentCard = ({ data }) => {
                   item?.bgcolor ? item?.bgcolor : ""
                 }`}
               >
-                <div className="icons">
-                  <img src={item.src} alt={item.title} />
-                </div>
+                {item.src && (
+                  <div className="icons">
+                    <img src={item.src} alt={item.title} />
+                  </div>
+                )}
 
                 <div className="content d-flex flex-column flex-grow-1 px-4">
-                  <h5
-                    className="main-sub-ti mb-4"
-                    dangerouslySetInnerHTML={{
-                      __html: FirstLetterUp(item.title),
-                    }}
-                  />
+                  {item.title && (
+                    <h5
+                      className="main-sub-ti mb-4"
+                      dangerouslySetInnerHTML={{
+                        __html: FirstLetterUp(item.title),
+                      }}
+                    />
+                  )}
+                  {item.title1 && (
+                    <h5
+                      className="w-decor-ti mb-4"
+                      dangerouslySetInnerHTML={{
+                        __html: FirstLetterUp(item.title1),
+                      }}
+                    />
+                  )}
 
                   {item?.btnText && (
                     <div className="py-4">
                       <Link
                         className="kahe-btn-primary rbt-btn hover-icon-reverse"
-                        href={item?.btnUrl}
+                        href={item?.btnUrl} target={item?.target && item?.target}
                       >
                         <span className="icon-reverse-wrapper">
                           <span className="btn-text">{item?.btnText}</span>
@@ -73,7 +89,9 @@ const AddContentCard = ({ data }) => {
                         dangerouslySetInnerHTML={{ __html: item?.content }}
                       ></p>
 
-                      {item?.links && <hr className=" mx-4" />}
+                      {(item?.links || item?.socialLinks) && (
+                        <hr className=" mx-4 bg-black" />
+                      )}
                     </>
                   )}
 
@@ -119,6 +137,18 @@ const AddContentCard = ({ data }) => {
                         <i className="feather-arrow-up-right"></i>
                       </span>
                     </div>
+                  )}
+
+                  {item?.socialLinks && (
+                    <ul className="kahe-social-icons px-4">
+                      {item?.socialLinks?.map((item, index) => (
+                        <li key={index}>
+                          <a href={item?.url} aria-label={item?.name} target= {item?.target && item?.target}>
+                            <i className={item?.icon}></i>
+                          </a>
+                        </li>
+                      ))}
+                    </ul>
                   )}
                 </div>
               </div>

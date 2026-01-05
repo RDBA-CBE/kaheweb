@@ -25,7 +25,7 @@ const TimeLine = ({ data }) => {
               <div className="top-circle-shape"></div>
               <div className="inner">
                 <div className="rbt-round-icon">
-                  <h3 className="main-sub-ti mb-0 fw-semibold">1st Year</h3>
+                  <h3 className="main-sub-ti mb-0 fw-semibold">{item?.year}</h3>
                 </div>
                 <ul className="rbt-list-style-1">
                   {item.text.map((v, i) => (

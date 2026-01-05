@@ -507,5 +507,28 @@ export const Examinations = {
   ],
 };
 
+export const Placement = {
+  title: "Placement",
+  content: [
+     {
+      category: "Overview",
+      link: "/placement/",
+    },
+    {
+      category: "Training and Placement Cell",
+      link: "/placement/training-and-placement-cell/",
+    },
+    {
+      category: "Key Recruiters",
+      link: "/placement/recruiting-companies/",
+    },
+    {
+      category: "Contact Details",
+      link: "/placement/contact-details/",
+    },
+  ],
+};
+
+
 
 

@@ -1,0 +1,87 @@
+{
+  "bannerCon": {
+    "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+    "title": "International Admissions",
+    "bannerCon": "To be a leading institution in the field of education, providing quality education and training to students and professionals.",
+    "applyLink": "/"
+  },
+
+  "about": {
+    "title": "Karpagam Academy of Higher Education (KAHE)",
+    "subTitle": "Welcome to Karpagam Academy of Higher Education (KAHE) <br/> Unlock Your Potential, Explore Infinite Opportunities",
+    "content": "At KAHE, we are dedicated to providing a transformative educational experience that prepares students for success in an ever-changing global landscape. As a premier institution of higher learning, we invite aspiring students from around the world to embark on an enriching academic journey with us."
+  },
+
+  "Overview": {
+    "content": [
+      {
+        "title1": "About (KAHE)",
+        "content": "Nestled amidst the serene surroundings of Coimbatore, Tamil Nadu, KAHE is renowned for its commitment to academic excellence, innovation, and global engagement. With a legacy of over two decades, we have established ourselves as a trusted destination for quality education and holistic development.",
+        "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/indumathi.jpeg"
+      }
+    ]
+  },
+
+  "programs": {
+    "title": "Academic Programs",
+    "src": "/images/Kahe/Innerpages/vision.png",
+
+    "desc": "At KAHE, we offer a diverse range of undergraduate, postgraduate, and doctoral programs across various disciplines, including Management, Arts & Science, Commerce, Engineering, Pharmacy and Architecture. Our rigorous curriculum, world-class faculty, and state-of-the-art facilities ensure that students receive a comprehensive education that prepares them for success in their chosen fields."
+  },
+  "admissions": {
+    "title": "International Admissions",
+    "src": "/images/Kahe/Innerpages/vision.png",
+    "desc": "For students seeking international admissions, KAHE offers a seamless and transparent admissions process. Whether you choose to apply directly or through the Study in India portal, our dedicated admissions team is here to assist you every step of the way. Explore our academic programs, scholarships, campus life, and more to discover why KAHE is the perfect destination for your educational journey."
+  },
+
+  "whyChoose": [
+    {
+      "src": "/images/Kahe/Innerpages/students.png",
+      "description": "World-class education with a focus on innovation and excellence."
+    },
+    {
+      "src": "/images/Kahe/Innerpages/students.png",
+      "description": "Vibrant campus life with a rich array of extracurricular activities and cultural events."
+    },
+    {
+      "src": "/images/Kahe/Innerpages/students.png",
+      "description": "Opportunities for internships, research collaborations, and industry exposure."
+    },
+    {
+      "src": "/images/Kahe/Innerpages/students.png",
+      "description": "Global perspective through international collaborations and exchange programs."
+    },
+    {
+      "src": "/images/Kahe/Innerpages/students.png",
+      "description": "Extensive support services, including career counseling, mentoring, and academic guidance."
+    }
+  ],
+
+  "contact": {
+    "content": [
+      {
+        "title1": "Join Us",
+        "bgcolor": "bg-lblue shadow-none",
+        "gridCls": " col-md-6 col-sm-6 col-12",
+        "src": "/images/Kahe/Innerpages/customer-service.png",
+        "ConClsName": "text-start",
+        "subtitle": "Join us at KAHE and embark on a journey of discovery, growth, and transformation.",
+        "content": "Whether you aspire to pursue your academic passions, expand your horizons, or make a positive impact on society, KAHE provides the platform and resources to help you achieve your goals."
+        
+      },
+
+      {
+        "title1": "Contact Us",
+        "bgcolor": "bg-lblue shadow-none",
+        "gridCls": " col-md-6 col-sm-6 col-12",
+        "src": "/images/Kahe/Innerpages/customer-service.png",
+        "ConClsName": "text-start",
+        "subtitle": "Ready to take the next step?",
+        "content": "Contact our admissions team today to learn more about the opportunities available at KAHE. We look forward to welcoming you to our vibrant community of scholars, innovators, and global citizens. <br/> Unlock your potential, explore infinite opportunities at Karpagam Academy of Higher Education.",
+      "btnText": "Form for Inbound students",
+        "btnUrl": "https://kahedu.edu.in/n/wp-content/uploads/2024/04/Inbound-Application.pdf",
+        "target":"_blank"
+      }
+    ]
+  }
+}

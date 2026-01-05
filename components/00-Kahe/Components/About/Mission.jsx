@@ -16,14 +16,14 @@ const Mission = ({ title, buttonText, buttonLink, missionItems }) => {
             </div>
           </div>
 
-          <div className="col-lg-6 col-md-6 col-12">
+          {buttonLink && <div className="col-lg-6 col-md-6 col-12">
             <div className="read-more-btn text-start text-md-end">
               <Link className="rbt-moderbt-btn" href={buttonLink || "#"}>
                 <span className="moderbt-btn-text">{buttonText}</span>
                 <i className="feather-arrow-right"></i>
               </Link>
             </div>
-          </div>
+          </div>}
         </div>
 
         {/* Cards */}
@@ -38,7 +38,8 @@ const Mission = ({ title, buttonText, buttonLink, missionItems }) => {
                 <div className="service-card service-card-6">
                   <div className="inner">
                     <div className="icon">
-                      {item.icon || <StudentsIcon />}
+                      {item.icon &&  <StudentsIcon />}
+                      {item.src && <img src={item.src} alt="image" width={40}/>}
                     </div>
 
                     <div className="content">

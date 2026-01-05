@@ -1,19 +1,19 @@
 "use client";
 
 import { Placement } from "@/JSON/ACADEMIC/Overview";
-import data from "../../../JSON/Training/training_&_placements.json";
+import data from "../../../JSON/Training/Contact.json";
 import InnerBanner from "@/components/00-Kahe/common-components/InnerBanner";
 import Sidebar from "../common-components/Sidebar";
 
-
-import TrainingTabInnerSec from "../Components/TrainingTabInnerSec";
+import { FirstLetterUp } from "@/utils/functions.utils";
+import AddContentCard from "../Components/AddContentCard";
 
 export const metadata = {
   title: "About Us 01 - Online Courses & Education NEXTJS14 Template",
   description: "Online Courses & Education NEXTJS14 Template",
 };
 
-const TrainingAndPlacementCellCom = () => {
+const PlacementContactCom = () => {
   const Training = data;
 
   return (
@@ -24,10 +24,10 @@ const TrainingAndPlacementCellCom = () => {
         <div className="rbt-course-details-area w-100">
           <div className="row g-5">
             <div className="col-lg-9">
-              <TrainingTabInnerSec
-                tabSections={Training.tabs}
-                tabContent={Training.tabContent}
-              />
+              {/* <h3 className="decor-ti">
+                {FirstLetterUp(Training?.placementContact?.title)}
+              </h3> */}
+              <AddContentCard data={Training?.placementContact} />
             </div>
 
             <div className="col-lg-3 px-0 d-none d-lg-block sidebar-pg">
@@ -46,4 +46,4 @@ const TrainingAndPlacementCellCom = () => {
   );
 };
 
-export default TrainingAndPlacementCellCom;
+export default PlacementContactCom;
