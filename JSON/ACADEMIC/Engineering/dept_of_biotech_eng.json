@@ -1,0 +1,632 @@
+{
+  "title": "Department of Biotechnology",
+  "bannerCon": "The University of Wyoming welcomes students to experience a one-of-a-kind education in the heart of the Mountain West. With our dedication to academic excellence and student-focused education, UW provides an environment thrive both academically and personally. Admission to the University of Wyoming is just the first step to achieving your dreams.",
+  "applyLink": "#",
+  "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+  "tabs": [
+    {
+      "id": "overview",
+      "label": "Overview"
+    },
+    {
+      "id": "programme",
+      "label": "Programme"
+    },
+    {
+      "id": "faculty",
+      "label": "Faculty"
+    },
+    {
+      "id": "infrastructure",
+      "label": "Infrastructure"
+    },
+    {
+      "id": "publications",
+      "label": "Publications"
+    },
+    {
+      "id": "events",
+      "label": "Events"
+    }
+  ],
+  "tabContent": [
+    {
+      "tab": "Overview",
+      "items": [
+        {
+          "type": "overview",
+          "subTitle": "Overview",
+          "contents": "The Department of Biotechnology was established in the year 2013. It offers B.Tech Biotechnology programme to provide quality education, training and research in Biotechnology. The Department has well qualified and experienced faculty members as its significant strength who constantly motivates, inspires and guides the students for their personal growth and to become technically competent. The Department is booming with all the essential facilities and infrastructure to cater the needs of the students and the society. The research specialization of the department includes drug discovery and is constantly striving for the industrial collaboration for downstream processing of bio-based products.",
+          "image": "/images/others/video-07.jpg"
+        },
+        {
+          "type": "vision",
+          "subTitle": "Vision",
+          "src": "/images/Kahe/Innerpages/vision.png",
+          "content": [
+            "To produce competent biotechnologists through quality education and promote scientific research for the benefit of society and the environment."
+          ]
+        },
+        {
+          "type": "mission",
+          "subTitle": "Mission",
+          "src": "/images/Kahe/Innerpages/goal.png",
+          "content": [
+            "To educate students to acquire strong knowledge and skills in Biotechnology.",
+            "To create opportunities for multi-disciplinary education and research in Biotechnology.",
+            "To nurture students to carryout scientific projects to find solutions for global societal problems."
+          ]
+        }
+      ]
+    },
+
+    {
+      "tab": "Programme",
+      "programmes": {
+        "title": "Programmes",
+        "content": [
+          {
+            "key": "ug",
+            "title": "Under Graduate Programme",
+            "img": "/images/others/health-b-02.png",
+            "items": ["B.Tech Biotechnology (Strength: 60)"],
+            "type": "programme"
+          },
+          {
+            "key": "ug",
+            "title": "Research Programme",
+            "img": "/images/others/health-b-02.png",
+            "items": ["Ph.D Biotechnology (Engineering)"],
+            "type": "programme"
+          }
+        ]
+      },
+      "curriculum": {
+        "title": "Curriculum",
+        "content": [
+          {
+            "key": "be",
+            "title": "B.Tech Biotechnology",
+            "img": "/images/others/health-b-02.png",
+            "type": "curriculum",
+            "items": [
+              {
+                "year": "2020-2021",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/07/syllabus-full-20-21-final-print-B.Tech-Biotech-_08.07.2020.pdf"
+              },
+              {
+                "year": "2021-2022",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2021/11/B.Tech-Syllabus-2021-2022.pdf"
+              },
+              {
+                "year": "2022-2023",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2022/07/17A_BT_BT.pdf"
+              },
+              {
+                "year": "2023-2024",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2023/11/B.Tech-Syllabus-2023-24.pdf"
+              },
+              {
+                "year": "2024-2025",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/01/B.Tech-Biotech.pdf"
+              },
+              {
+                "year": "2025-2026",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/08/B.Tech-Biotech-Curriculum-and-Syllabus-2025-2026.pdf"
+              }
+            ]
+          },
+          {
+            "key": "be",
+            "title": "Ph.D. Biotechnology",
+            "img": "/images/others/health-b-02.png",
+            "type": "curriculum",
+            "items": [
+              {
+                "year": "2020-2021",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/07/PhD-20-21-Biotec-Engg.pdf"
+              },
+              {
+                "year": "2021-2022",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2021/11/PhD-Syllabus-2021-2022.pdf"
+              },
+              {
+                "year": "2022-2023",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2022/07/17B_PhD_BT.pdf"
+              },
+              {
+                "year": "2023-2024",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2023/11/PhD-Syllabus-2023-2024.pdf"
+              },
+              {
+                "year": "2024-2025",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/01/PhD-Biotech.pdf"
+              },
+              {
+                "year": "2025-2026",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/08/PhD-Biotech-Engineering-Curriculum-and-Syllabus-2025-2026.pdf"
+              }
+            ]
+          }
+        ]
+      }
+    },
+
+    {
+      "tab": "Faculty",
+      "faculty": [
+        {
+          "name": "Dr. M. Jaya Kumar",
+          "qualification": "",
+          "designation": "Associate Professor",
+          "email": "",
+          "profile": "",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr. S. Karthikeyan",
+          "qualification": "M.Tech., Ph.D",
+          "designation": "Associate Professor",
+          "email": "arthikeyan.sangapillai@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/S-Karthikeyan.pdf",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Ms.A.Brindha Lakshmi",
+          "qualification": "M.Tech.",
+          "designation": "Assistant Professor",
+          "email": "brindhalakshmi.anandhakumar@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/bio-data/engineering/biotechnology/One%20Page%20Bio%20Data%20Brindha%20Lakshmi.pdf",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr.Abiram Karanam Rathankumar",
+          "qualification": "M.Tech.,Ph.D",
+          "designation": "Assistant Professor",
+          "email": "abiram.rathankumar@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Abiram-K-R.pdf",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Ms.P.Thamarai",
+          "qualification": "M.Tech.",
+          "designation": "Assistant Professor",
+          "email": "thamarai.packiyam@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2021/11/THAMARAI.pdf",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Ms. V. Sowfika Dharshini",
+          "qualification": "M.Tech.",
+          "designation": "Assistant Professor",
+          "email": "sowfikadharshini.varatharaj@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2022/06/SowfikaDharshini_BTECH.pdf",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Mr. R. A. Mohan",
+          "qualification": "M.Tech.",
+          "designation": "Assistant Professor",
+          "email": "mohan.annamalai@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2022/06/mohan_BTECH_ENGINEERING.pdf",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Ms. J. Sherly",
+          "qualification": "",
+          "designation": "Assistant Professor",
+          "email": "",
+          "profile": "",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr. M. Gomathi",
+          "qualification": "",
+          "designation": "Assistant Professor",
+          "email": "",
+          "profile": "",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr. M. Gomathi",
+          "qualification": "",
+          "designation": "Assistant Professor",
+          "email": "gomathi.mohan@kahedu.edu.in",
+          "profile": "",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Ms. Kaushika S",
+          "qualification": "",
+          "designation": "Assistant Professor",
+          "email": "kaushika.shanmugam@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/One-page-biodata-Reshma-Suresh.pdf",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Mr. S. Satheesh Kumar",
+          "qualification": "M.Tech",
+          "designation": "Assistant Professor",
+          "email": "satheesh.sasidharan@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/S-Satheesh-kumar.pdf",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Ms. M.Deepika",
+          "qualification": "M.Tech",
+          "designation": "Assistant Professor",
+          "email": "deepika.muthusamy@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Deepika-M.pdf",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Ms. K.S. Devika",
+          "qualification": "M.Tech",
+          "designation": "Assistant Professor",
+          "email": "devika.ksunilkumar@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Devika-K-S.pdf",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Ms. R. Asuvini",
+          "qualification": "M.Tech",
+          "designation": "Assistant Professor",
+          "email": "asuvini.rajasekar@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Asuvini-R.pdf",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Ms. N. Annalakshmi",
+          "qualification": "M.Tech",
+          "designation": "Assistant Professor",
+          "email": "annalakshmi.nagendran@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/N.Annalakshmi.pdf",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        }
+      ]
+    },
+
+    {
+      "tab": "Infrastructure",
+      "items": [
+        {
+          "type": "laboratories",
+          "title": "Laboratories",
+          "content": [
+            "Bioprocess Engineering Lab",
+            "Protein Engineering Lab",
+            "Microbiology Lab",
+            "Immunology Lab",
+            "Molecular Biology Lab",
+            "Biochemistry Lab",
+            "Bioinformatics Lab"
+          ]
+        },
+        {
+          "type": "equipment",
+          "title": "Major Research Equipments",
+          "content": [
+            "ELISA Reader",
+            "Thermal Cycler",
+            "Horizontal and Vertical Electrophoresis Unit",
+            "Wet Transfer Unit",
+            "Semi-dry Transfer Unit",
+            "Laminar Chamber for Animal Tissue Culture",
+            "CO2 Incubator",
+            "Inverted Phase Contrast Microscope",
+            "Fluorescence Microscope",
+            "Orbital Shaker",
+            "Rotary Evaporator",
+            "Laminar Chamber for Microbiology",
+            "Refrigerated centrifuge",
+            "Millipore Water System",
+            "Photo Fluorimeter",
+            "Centrifuge (4 bucket)",
+            "Colorimeter",
+            "Soxhlet Apparatus",
+            "Magnetic Stirrer",
+            "Incubator",
+            "Conductivity meter",
+            "Water bath",
+            "Electronic balance",
+            "Microscope",
+            "Hot air oven",
+            "Cyclo mixer",
+            "pH meter",
+            "Lyophilizer (Borg Scientific)",
+            "Bio-rad gel documentation (Biorad)",
+            "Individual Ventilated Caging System (IVC)",
+            "Cooling Microcentrifuge"
+          ]
+        },
+        {
+          "type": "gallery",
+          "slug": "department-of-biochemistry",
+          "images": [
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/Ultra-Violet-Visible-Spectrometer-150x150.png",
+              "alt": "Visible Spectrometer - Top Science College in Coimbatore",
+              "title": "Visible Spectrometer – Top Science College in Coimbatore"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/High-Perfomance-Liquid-Chromatography-150x150.png",
+              "alt": "Liquid Chromatography - Best college for Science in Coimbatore",
+              "title": "Liquid Chromatography – Best college for Science in Coimbatore"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/GAS-Chromatography-150x150.png",
+              "alt": "Gas Chromatography - Best Engineering college in India",
+              "title": "Gas Chromatography – Best Engineering college in India"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/fourier-trandform-infrared-spectroscopy-150x150.png",
+              "alt": "Infrared Spectroscopy - Best Science College in Tamilnadu",
+              "title": "Infrared Spectroscopy – Best Science College in Tamilnadu"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/Elisa-Plate-Reader-150x150.png",
+              "alt": "Elisa Plate Reader - Best Educational Institute in India",
+              "title": "Elisa Plate Reader – Best Educational Institute in India"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/bc_gallery1-150x150.png",
+              "alt": "Medical camp - Coimbatore Best Engineering college",
+              "title": "Medical camp – Coimbatore Best Engineering college"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/bc_gallery2-150x150.png",
+              "alt": "KAHE Volunteers - Coimbatore degree colleges",
+              "title": "KAHE Volunteers – Coimbatore degree colleges"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/bc_gallery3-150x150.png",
+              "alt": "Karpagam Group - Top 10 Arts Colleges in Coimbatore",
+              "title": "Karpagam Group – Top 10 Arts Colleges in Coimbatore"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/bc_gallery4-150x150.png",
+              "alt": "KAHE activities - Top college for Engineering",
+              "title": "KAHE activities – Top college for Engineering"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/03/pht-150x150.png",
+              "alt": "Lab experiment - Best Pharmacy College in Coimbatore",
+              "title": "Lab experiment – Best Pharmacy College in Coimbatore"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/03/pht-1-150x150.png",
+              "alt": "Initiatives - Best Arts and Science College in India",
+              "title": "Initiatives – Best Arts and Science College in India"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/03/pht-2-150x150.png",
+              "alt": "Student Projects - Top Engineering college",
+              "title": "Student Projects – Top Engineering college"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/03/pht-3-150x150.png",
+              "alt": "Projects at KAHE - Top college for Arts and Science",
+              "title": "Projects at KAHE – Top college for Arts and Science"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tab": "Publications",
+      "slug": "department-of-biotechnology",
+      "title": "Best Five Papers Faculty wise:",
+      "subtitle": "Paper publications by the Faculty Members",
+      "content": [
+        {
+          "faculty_name": "Dr. R. Thilagavathi",
+          "content": [
+            "Hosseini-Zare MS, Sarhadi M, Zarei M, Thilagavathi R, Selvam C. Synergistic effects of curcumin and its analogs with other bioactive compounds: A comprehensive review. Eur J Med Chem. 2021 Jan 15; 210:113072. Epub 2020 Dec 3. PMID: 33310285. Impact Factor: 5.5",
+            "Selvam C, Mock CD, Mathew OP, Ranganna K, Thilagavathi R. Discovery of Vascular Endothelial Growth Factor Receptor-2 (VEGFR-2) Inhibitors by Ligand-based Virtual High Throughput Screening. Mol Inform. 2020 Jul; 39(7):e1900150. Epub 2020 Mar 13. PMID: 32147949. Impact Factor: 2.7",
+            "Maryam S. Hosseini-Zare,   Ramasamy Thilagavathi and  Chelliah Selvam. Targeting severe acute respiratory syndrome-coronavirus (SARS-CoV-1) with structurally diverse inhibitors: a comprehensive review. RSC Adv., 2020, 10, 28287. Impact Factor: 3.07",
+            "Selvam, C., Prabu, S. L., Jordan, B. C., Purushothaman, Y., Umamaheswari, A., Hosseini Zare, M. S., Thilagavathi, R. Molecular mechanisms of curcumin and its analogs in colon cancer prevention and treatment: Life Sciences, 2019, 239:117032 (Impact factor: 3.44)",
+            "Selvam, C., Jordan, B.C., Prakash, S., Mutisya, D., Thilagavathi, R. Pterocarpan scaffold: A natural lead molecule with diverse pharmacological properties, European journal of Medicinal Chemistry, 2017, 128, 219-236. (Impact factor: 4.519)."
+          ]
+        },
+        {
+          "faculty_name": "Mrs. V. Vijayalakshmi",
+          "content": [
+            "Vijayalakshmi, Mayya Varsha, P. Vishnupriya, S. Sri Sowmiya, and S. Arun Karthi, Synthesis and characterization of Ch–PEG–Ag nanoparticles using Ficus caricafor the application of medical textiles, AIP Conference Proceedings, 2240, 080001 (2020).",
+            "Vijayalakshmi Varadarajan, Mayya Varsha, Keerthiga Vijayasekaran andShinde Vaibhav Shankar, Comparative studies of hydroxyapatite (HAp) nanoparticles synthesized by using different green templates, AIP Conference Proceedings, 2240, 080002 (2020).",
+            "Vijayalakshmi, P.A. Hina Kousar, Sukhi Das. Optimization and Characterization Of Chitosan Based Nanocarrier for The Application Of Cancer Drug Delivery. Journal of Critical Reviews ISSN-2394-5125 Vol 7, Issue 7, 2020.",
+            "Kumararaja, G., Sundaraganapathy, R., Constantine, I., Vijayalakshmi, V., & Rahim, S. F. A. (2019). Comparative studies on synthesized silver nanoparticles using Artemisia vulgaris Linn., and Cinnamomum zeylanicum Nees., for their antifungal activity. Journal of Pharmaceutical Sciences and Research, 11(7), 2558-2565."
+          ]
+        },
+        {
+          "faculty_name": "Ms. R. Ragavi",
+          "content": [
+            "Vijithra and Ragavi Ravichandran., Biowarfare – A Peril Gaining Ground, Journal of Critical Reviews. ISSN-2394-5125 Vol 7, Issue 7, 2020."
+          ]
+        },
+        {
+          "faculty_name": "Ms. T. V. Jemilakshmi",
+          "content": [
+            "V. Jemilakshmi, Postharvest Quality Enhancement of Fruits and Vegetables Using Edible Coatings. Journal of Critical Reviews. ISSN-2394-5125 Vol 7, Issue 7, 2020."
+          ]
+        },
+        {
+          "faculty_name": "Ms. K. Santhiya",
+          "content": [
+            "Santhiya K, Santhosh S and Anushya V. An outlook on Covid-19: Global Perspective. Proteus Journal. Vol 8, 126 -141. Impact Factor: 1"
+          ]
+        }
+      ]
+    },
+    {
+      "tab": "Events",
+      "slug": "department-of-biotechnology",
+      "items": [
+        {
+          "title": "Seminar",
+          "content": [
+            "Half-day seminar on “GATE Way to Get Excellent Career Opportunities” on 10.12.2025 for the beneficiaries of the students",
+            "Half -day technical seminar on “Innovating by Design: Pharmaceutical approaches in Diabetics through Genetics” on 18.09.2025.",
+            "Seminar on “Building Safe Science: Industrial GMP and Career Navigation in Biotech” on 15.09.2025.",
+            "One day seminar on Bioprospecting in medical sector was conducted on March 18, 2019. Guest Speakers: Dr. T. Ramesh from Annamalai University, Chidambaram and K. Arunkumar from Central University of Kerala, Kerala.",
+            "One day seminar on National seminar on Current scenario and near future of Biotechnology as a interdisciplinary fiel was conducted on March 01, 2018. Guest Speakers: Dr. B. Mohammed Jaffer Ali, Pondicherry University, Puducherry; Dr. C. A. Kalpana, Avinashilingam Institute for home science and higher education for women, Coimbatore and Dr. Florida Tilton, Biozone Research Technologies Pvt Ltd, Chennai.",
+            "One day seminar on “Recent advances in Nanotechnology and its biological applications” held on Sept 08, 2016. Guest Speakers: Dr. Jayakumar Rangasamy, Professor at the Centre for Nanosciences and Molecular Medicine (ACNSMM), Amrita Vishwa Vidyapeetham; Dr.Ruchmani, Professor and Head, Department of Pharmaceutical Technology, Director, Centre for Nanobio Translational Research, Bharathidasan Institute of Technology, Anna University and Dr. B.Subramanian, Professor, CECRI, Karaikudi.",
+            "One day national seminar on “Frontiers in Bioprocess Technology” on 21.06.2016. Guest Speakers: Dr. Binod Parameswaran from NIIST, Thiruvananthapuram; Dr. Soumen Mukherjee SPFP, Coimbatore; Dr. Meenakshi sundaram, SASTRA, and Dr. M. Shanmugaprakash from KCT, Coimbatore."
+          ]
+        },
+        {
+          "title": "Symposium",
+          "content": [
+            "TVASTA 2021 was organized on 30th Mar, 2021 – Guest speaker: Dr. Deepa Kolaseri, Scientific Director, Cancer Research Translational Initiative at Masonic Cancer Center, University of Minnesota, USA.",
+            "Tvasta 2020 was organized on February 18, 2020 – Guest: B. Ashok Kumar from Madurai Kamaraj University, Madurai",
+            "Tvasta’19 was conducted on February 19, 2019 – Guest: R. Ramaswamy from Madurai Kamaraj University, Madurai",
+            "Tvasta’18 was organized on March 02, 2018 – Guest: P. Varalakshmi from Madurai Kamaraj University, Madurai",
+            "Klonazura’17 was conducted on February 03, 2017 – Guest:P.Renuka Devi from Anna University, Coimbatore.",
+            "Klonazura’16 was organized on February 04, 2016 – Guest: Joshy Cherian from Omega Ecotech Products, Coimbatore."
+          ]
+        },
+        {
+          "title": "Conference",
+          "content": [
+            "One-day National level Conference on “Integrating Life Sciences and Engineering: Innovations in Biotechnology for Sustainable Development” (ILE 2026) on 05th March, 2026.",
+            "Two days Virtual International Conference “Innovation and Trends in Drug Discovery (IITD’21) was conducted on 31st Mar – 1st Apr, 2021. Guest speakers: Dr. Qiao-Hong Chen, Associate Professor, California State University, Fresno; Dr. Praveen Nekkar Rao, Associate Professor, University of Waterloo, Canada; Dr Neha S. Gandhi Advance Queensland Industry Research Fellow, Australia and Dr. V. Ravikumar, Associate professor & Head, Bharathidasan University, Trichy.",
+            "Two-day conference on “Impact of Biotechnology on health sector” was conducted on 12.03.2020 – 13.03.2020. Guest Speakers: Dr. G. Chellappa, CEO, Genomatics Pvt. Ltd., PSG STEP, Coimbatore., Dr. Muniasamy Neerathilingam, Faculty Scientist (Senior Research Scientist), Institute of Bioinformatics, Bangalore, Dr. Aneesh Nair, Scientist; Head-Operations, Biozone Research Technologies Pvt.Ltd., Chennai, Dr. V. Chandrasekar, Director, Bioline Laboratory Research, Coimbatore and Dr. R. Subramanian, Senior Manager, Syngene International Limited (Biocon), Bangalore",
+            "Two days National Conference on Big data and Machine learning in biomedical and health informatics: Contemporary uses and prospective challengers were conducted on September 12, 2019 and September 13, 2019. Guest Speakers: G. Chellappa, Chief Executive Officer,, Genomatics Private Limited, PSG STEP, Coimbatore; Dr.N.Jeyakumar, Professor & Head, Department of Bioinformatics, Bharathiar University; Dr. J.Jeyakanthan, Professor and Head, Department of Bioinformatics, Alagappa University, Karaikudi; Dr. Ayyavu Mahesh, Director, Stem cell and cancer genomics, AMI biosciences, Coimbatore and Mr. Akash Murthy, Co- Founder & CTO, Euprime, Bangalore.",
+            "Two days National Conference and workshop on “New Paradigms in the Development of Biotechnology in Healthcare & Emerging Nanomaterials for Healthcare Applications” was organized on February 15, 2017 and February 16, 2017. Guest Speakers: Dr. Hannah Rachel Vasanthi, Associate Professor, School of lifescience, Pondicherry University, Pondicherry; N. Shanthi, Professor and HoD, Department of Pharmacology, CMC, Coimbatore; Dr. V. Vettriselvi, Associate Professor, Sri Ramakrishna University, Chennai; Dr. Sankar Natesan, Professor, Department of Genetic Engineering, School of Biotechnology, Madurai Kamaraj University, Madurai; Dr. M. Sivakumar, Professor, Nanoscience and Technology Program, BIT campus, Trichy and Dr. Shilpa Devasena pathy, Virtis Biolabs, Salem."
+          ]
+        },
+        {
+          "title": "Guest Lecture",
+          "content": [
+            "Guest Lecture on “Innovations in Next -Generation Sequencing: Importance, Adaptability & Market Potential” on 04.12.2025.",
+            "Guest lecture on “Nano Innovation: Small Science, Big Change for Tomorrow” on 22.09.2025.",
+            "Guest lecture cum workshop on “Emerging Trends in Intellectual Property Rights and patent Systems” on 03.09.2025",
+            "Guest lecture on “Innovation and Entrepreneurship in Biotechnology” was conducted on 22.09.2021. Guest speaker: Dr. Jemima D Kingsley, Bio medical scientist, Orbito Asia Diagnostic, Coimbatore.",
+            "One-day webinar entitled “Innovations in Bio-python and Data science” on 23.09.2021. Guest Speaker: Mr. Joseph George,CEO & Founder, Avotha Edutech, Kerala.",
+            "A panel discussion “Growth of young entrepreneurs” was organized on 23.08.2021. Guest speaker: Dr. S Siva Shanmugam, Director, Polyhedron, Erode.",
+            "Webinar titled “My story – Journey from Coimbatore to Australia” on 12.06.2021 by R Varsha B.Tech, M.S., (2014 -2018 batch alumna) Business Analyst, ANZ, Melbourne, Australia.",
+            "Webinar titled “Opportunities for life science graduate in medical coding sector” on 05.06.2021 by V. Keerthiga, B.Tech, CPC., (2013 -2017 batch alumna), Senior client partner, Access Healthcare, Coimbatore.",
+            "Webinar titled “Life at Zifo” on 05.06.2021 by S. Rajesh Kumar B.Tech., (2014 -2018 batch alumnus), Validation Analyst, Zifo RnD solutions, Chennai.",
+            "Webinar titled “How to pursue your research career in abroad?” on 04.06.2021 by Raksha M.S., (Ph.D), (2014 -2018 batch alumna), PhD Scholar, Medical Faculty, Technische Universitat, Dresden, Germany.",
+            "Webinar titled “Opportunities for biotechnologist in food industries” on 03.06.2021 by K. Selva Kumar, M.Tech., (2014 -2018 batch alumnus), Food Formulation Scientist, KPManish Global ingredients (Firmenich), Chennai.",
+            "Two-day Career Guidance Programme entitled “Becoming an effective communicator: Skills for everyday success” on 07.06.2021. Guest speaker: Dr. Reshmi Deb Chodhury Das, Assistant Professor, Department of Science & Humanities, Sreenidhi Institute of Science & Technology, Hyderabad.",
+            "One-day webinar entitled “Prototype validation: Converting prototype into a startup” on 20.05.2021. Guest speaker: J Prakash Maran, Associate Professor, Department of Food science and Nutrition, Periyar University, Salem.",
+            "The Department of Biotechnology (FoE) in association with Anti-discrimination committee jointly organized a webinar on “Gender Inequality: The Effect of Patriarchy” on 22.03.2021. Guest speaker: Ms. Kumutha Chandrika, K, Lactation Counselor, Trustee, Coimbatore Parenting Network, Coimbatore",
+            "Guest lecture on Technological developments in algae biotechnology was conducted on 04.03.2021. Guest speaker: Dr. Jibu Thomas, Associate professor and Head (i/c), Department of Biotechnology, School of agriculture and biosciences, Karunya institute of technology and sciences, Coimbatore.",
+            "Guest lecture entitled Engineering thermal stability of enzymes on 03.03.2021. Guest speaker: Dr. P Rani, Professor, Department of Biotechnology, PSG College of technology, Coimbatore.",
+            "Guest lecture on Ribosomal inactivating proteins (RIP: Applications in cancer therapeutics was conducted on 02.03.2021. Dr. J Jennet vennila, Professor, Department of Biotechnology, School of agriculture and biosciences, Karunya institute of technology and sciences, Coimbatore",
+            "Guest lecture on Bioprocessing of microbial enzymes and colours was organized on 01.03.2021. Guest speaker: Prof. E. Nakkeeran, Professor of Biotechnology, Placement officer, Sri venkateswara college of engineering, Sriperumbudur, Chennai.",
+            "Guest lecture Natural deep eutectic solvents and its applications on 26.02.2021. Guest speaker: Dr. P Ramalingam, Professor, Department of Biotechnology, Kumaraguru college of technology, Coimbatore.",
+            "Guest lecture on Analytical tools for biologicals and biopharmaceuticals was organized on 25.02.2021. Guest speaker: N. Kannappan, Professor, Department of pharmacy, Annamalai university.",
+            "Guest lecture on Intellectual properties for entrepreneurs was conducted on 24.02.2021. Guest speaker: Dr. C Senthil kumar, Head IP (India) & Patent counsel and ethics compliance ambassador, ASHLAND Hyderabad.",
+            "Three days career guidance programme on “Unveiled future of Biotechnologists”, “Career opportunities in Bio Industries”, “Entrepreneurship development”, “Soft skill development for professionals” on 21.01.2020-23.01.2020. The Sessions was delivered by Dr. V.Mohana Srinivasan, Associate professor, Department of Biomedical Sciences, Coordinator -Placement and Training (PAT), School of Bio Sciences and Technology, Vellore Institute of Technology, Dr. P. Sathiya Moorthi, Partners of M/s.Moon Foods and Dr. Yes Aar Team, Tiruchencode, Mr. T. Anthony Patrick, Director, Language corner for spoken English and Dr. R. Ragunathan, Director; Research Supervisor, Centre for Bio Science and Nano science Research(CBNR), Coimbatore.",
+            "Guest lecture on CRISPR: Tool for future revolution conducted on 12.12.2020. Guest Speaker: Dr. L. Karthik, Project Lead – Synthetic Biology, Salem microbes Pvt. Ltd, Salem.",
+            "How to write effective research/review articles? on 12.12.2020. Guest Speaker: Prof. B. Narasimhan, Faculty of Pharmaceutical sciences, Maharshi Dayanand University, Rohtak, Haryana.",
+            "Downstream processing: Applications and recent updates on 23.11.2020. Guest Speaker: Dr. R Balakrishnaraja, Associate Professor and Head incharge, Department of Food technology, Bannari Amman Institute of Technology, Sathyamangalam, Erode.",
+            "Guest lecture on Microbial Nutrition on 23.11.2020. Guest Speaker: Dr Kannan K P, Associate Professor, Bannari Amman Institute of Technology, Coimbatore.",
+            "Guest lecture on Cell Signaling on 18.11.2020. Guest Speaker: Dr Kannan K P, Associate Professor, Bannari Amman Institute of Technology, Coimbatore.",
+            "Guest lecture on Therapeutic proteins: Development and Challenges on 18.08.2020. Guest Speaker: Dr. Ambili Mechoor, Professor and Head of Dept, Dept of Biotechnology Engineering , Sahrdaya College of Engineering and Technology, Kerala.",
+            "Guest lecture on Tablet Manufacturing and Granulation Techniques was organized on 14.08.2020. Guest Speaker: Dr. N. Damodharan, Professor and Head, Department of Pharmaceutics, SRM College of Pharmacy SRM Institute of Science and Technology",
+            "Webinar on “Application of bioinformatics in drug discovery” by Manvi Singh, Research Scientist at CCBT, InStem, NCBS on 03.07.2020.",
+            "International webinar on “Introduction to 3D bioprinting and the role of Biotechnologists conducted on 26.06.2020 – Guest Speaker: J. Gopinathan, Post-Doctoral Research Scientist, Dept. of Chemical; Biomolecular Eng., Seoul National University of Science and Technology (Seoul Tech), South Korea and Manvi Singh. Research Scientist at CCBT, InStem, NCBS.",
+            "Webinar series on Competitive Exams in Biotechnology organized on 12.05.2020 – 22.05.2020 – Guest Speakers: The Alumni of B.Tech Biotechnology (Ms. Priyanka, University of Leicester, UK, Mr. Gowtham, M.Tech Biotechnology, Anna University, Mr. Vijay, Mythic Therapeutics, USA, Ms. Sangamithra, University of Glasgow, UK, Ms. Hina, VV Biotech, Kerala) were invited for the six days session as a delegate to deliver a lecture on various competitive exams like GATE, TANCET, GRE, IELTS, MBA and Government exams.",
+            "Importance of Unit operation in Downstream Processing by Dr. M. Shanmugaprakash, KCT, Coimbatore on February 13, 2020.",
+            "Stem cell Discovery and Tissue Engineering by Dr. S. Balasubramanian, Dr.N.G.P college of arts and science, Coimbatore on December 19, 2018.",
+            "Recent advances in Pharmaceutical technology by Dr. K.S.G. Arulkumaran, KMCH College of Pharmacy on December 10, 2018.",
+            "Programmed cell death by Mr. Mohan Kumar, Tamilnadu Agricultural University, Coimbatore on October 15, 2018.",
+            "Recent trends in food processing and technology by Dr. T.V. Ranganathan, Karunya Institute of Technology and Sciences, Coimbatore on September 18, 2018.",
+            "Liquid extraction and hydrophobic interaction chromatography for the removal of dyes from textile waste water by Dr. P. Ramalingam, KCT, Coimbatore on September 19, 2018.",
+            "Entrepreneurship opportunities in biotechnology by Mrs. Poonkodi, Sunglow Biotech, Coimbatore on February 26, 2018.",
+            "Immobilized enzyme kinetics and its application by Mrs. N. Brindha, Anna University, Trichy on October 06, 2017.",
+            "Genomics, Proteomics-The importance and the application of omic sciences by Dr. V. Thirunavukarasu, Bharathiyar University, Coimbatore on February 14, 2017.",
+            "Instrumental methods of Analysis by Dr. R. Suresh, Anna University, Chidambaram on February 14, 2017.",
+            "Biomaterials and tissue engineering concepts by Dr. R. Selva Kumar, PSGIAS, Coimbatore on July 20, 2016.",
+            "Liquid liquid extraction aquaeous two phase extraction by Dr. M. Shanmugaprakash, KCT, Coimbatore on July 12, 2016.",
+            "Clinical trial & management by Dr. M. Ramanathan, PSG College of Pharmacy, Coimbatore on July 12, 2016.",
+            "Genome sequence analysis by Dr. P. Chellapandi, Bharathidasan University, Trichy on July 15, 2016.",
+            "Mass transfer operations by Dr. S. Venkatesa Prabhu, JCT, Coimbatore on July 15, 2016.",
+            "Pharmaceutical Technology by Dr. C. Sankar, KMCH College of Pharmacy on July 08, 2016.",
+            "Development, activation, maturation & differentiation of B and T cell by Dr.V.Hariharan, KFMSR, Coimbatore on July 12, 2016.",
+            "Principles of chemical engineering by Dr. Sivakumar Ponnambalam, Anna University, Trichy on July 11, 2016.",
+            "Overview of Metabolic diseases by Dr. V. Hariharan, KFMSR, Coimbatore on July 11, 2016.",
+            "Control of micro organisms by Dr. V. Hariharan, KFMSR, Coimbatore on August 24, 2015.",
+            "Microbiology by Dr. V. Hariharan, KFMSR, Coimbatore on February 17, 2015.",
+            "Bioinformatics by Dr. N. Jeyakumar, Bharathiyar University, Coimbatore on  March 10, 2015.",
+            "Guest lecture on Plant Biotechnology by Dr. R. Sathishkumar, Bharathiyar University, Coimbatore on February 05, 2016.",
+            "Instrumental methods of analysis by Dr. C. Sankar, KMCH College of Pharmacy, Coimbatore on January 27, 2016.",
+            "Enzymology and enzyme technology by Mr. V. Rajasekar, GCT, Coimbatore on February 10, 2016."
+          ]
+        },
+        {
+          "title": "Workshop / Skill based training",
+          "content": [
+            "Two day skill development program on “Beyond the Label: Uncovering the Technology of your Food” from 25.09.2025 to 26.09.2025.",
+"Online workshop on “Entrepreneurship and Innovation as Career Opportunity” organized on 09.12.2020 in association with IIC KAHE. Guest Speaker: Dr. Ayyavu Mahesh, Director, Centre for Stem Cell & Cancer Genomics, AMI BioScience, Coimbatore.",
+"Webinar cum hands-on-training: Computational Approaches for Anti-microbial Drug Development on 21.08.2020. Guest Speakers: Sanjeev Kumar Singh, Professor, Department of Bioinformatics, Alagappa University, Karaikudi, and Dr. Ayyavu Mahesh, Director, Centre for Stem Cell & Cancer Genomics, AMI BioScience, Coimbatore.",
+"Hands-on Training on Homology modeling & Flexible Docking organized on 03.02.2020. Guest Speaker: Dr.T.Sivaraman, Professor, Department of Biotechnology (FASH), KAHE.",
+"Two days skill based training programme was organized from August 26, 2019 to August 27, 2019 on “Micro RNA prediction & protein structure modeling and Chromatographic technique & nanoparticle synthesis”",
+"Two days workshop was conducted from January 07, 2019 to January 08, 2019 on “Computational Genomics, Molecular docking and Biomolecular Visualization Tools”",
+"Two days Hands on training on “Application of bioinformatics tools techniques for Drug Designing & Understanding the key benefits of core biotechniques” was held during September 28, 2018 and September 29, 2018.",
+"Two days National Workshop on “Basic tools & techniques in Biotechnology” was organized during on February 15, 2018 and February 16, 2018.",
+"Three days Hands on training in “Basic Bioinformatics tools and Techniques” was held from December 07, 2017 to December 09, 2017.",
+"Workshop on “Emerging Nanomaterials for Healthcare Applications” was conducted on February 16, 2017."
+          ]
+        },
+        {
+          "title": "Others",
+          "content": [
+            "Alumni Talk on “Scope of Clinical Data Management” by our 2019 batch Alumni Mr. Harish Subramanian, Founder of Gene Z Learning LLP, Karur, Tamil Nadu, on 18.12.2025 for the beneficiaries of third year B.Tech Biotechnology students.",
+"Awareness Programme on “World Nature Conservation Day on 28.07.2025"
+          ]
+        }
+      ]
+    }
+  ]
+}
