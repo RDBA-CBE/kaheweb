@@ -56,7 +56,8 @@ export default function LogoSlider() {
       >
         {logos.map((logo, i) => (
           <SwiperSlide key={i}>
-            <img src={logo} alt="recognition logo" />
+            <img src={logo} alt="recognition logo " />
+            <div className="divider" />
           </SwiperSlide>
         ))}
       </Swiper>
