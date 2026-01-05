@@ -1,0 +1,571 @@
+{
+  "title": "Department of Biomedical Engineering",
+  "bannerCon": "The University of Wyoming welcomes students to experience a one-of-a-kind education in the heart of the Mountain West. With our dedication to academic excellence and student-focused education, UW provides an environment thrive both academically and personally. Admission to the University of Wyoming is just the first step to achieving your dreams.",
+  "applyLink": "#",
+  "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+  "tabs": [
+    {
+      "id": "overview",
+      "label": "Overview"
+    },
+    {
+      "id": "programme",
+      "label": "Programme"
+    },
+    {
+      "id": "faculty",
+      "label": "Faculty"
+    },
+    {
+      "id": "infrastructure",
+      "label": "Infrastructure"
+    },
+    {
+      "id": "publications",
+      "label": "Publications"
+    },
+    {
+      "id": "events",
+      "label": "Events"
+    }
+  ],
+  "tabContent": [
+    {
+      "tab": "Overview",
+      "items": [
+        {
+          "type": "overview",
+          "subTitle": "Overview",
+          "contents": "Biomedical Engineering is a multidisciplinary field that integrates biology and engineering and applying engineering principles to healthcare. Biomedical Engineering is a relatively newly introduced branch of Engineering. The demand of Biomedical Engineers is growing as it helps to address the gap of medical and engineering to develop quality health care products.Department of Biomedical Engineering was established in the year 2016. Department Biomedical Engineering has well qualified and dedicated faculty members engaged in research and development. The Department has established the Center for Biophotonics and technology to promote inhouse research activities among students and faculty members. Young department to receive grants from Department of Science and Technology, Delhi. Our department holds the track record of providing 85-90 % placement and facilitates students to start their startups for developing biomedical devices.",
+          "image": "/images/others/video-07.jpg"
+        },
+        {
+          "type": "vision",
+          "subTitle": "Vision",
+          "src": "/images/Kahe/Innerpages/vision.png",
+          "content": [
+            "To be a nationally recognized biomedical engineering department for disseminating knowledge, healthcare training and developing indigenous products useful to the society."
+          ]
+        },
+        {
+          "type": "mission",
+          "subTitle": "Mission",
+          "src": "/images/Kahe/Innerpages/goal.png",
+          "content": [
+            "To facilitate learners with recent trends in biomedical engineering with emphasis on core specialization through updated curricula and effective teaching learning methods.",
+            "To encourage students to take up higher studies, entrepreneurship and involve in translational research leading to patents, publications and products.",
+            "To instill professionalism, ethical and social values among the learners through their contribution to biomedical engineering in their chosen career."
+          ]
+        }
+      ]
+    },
+
+    {
+      "tab": "Programme",
+      "programmes": {
+        "title": "Programmes",
+        "content": [
+          {
+            "key": "ug",
+            "title": "Under Graduate Programme",
+            "img": "/images/others/health-b-02.png",
+            "items": ["B.E – Biomedical Engineering (Strength: 60)"],
+            "type": "programme"
+          }
+        ]
+      },
+      "curriculum": {
+        "title": "Curriculum",
+        "content": [
+          {
+            "key": "be",
+            "title": "B.E – Biomedical Engineering",
+            "img": "/images/others/health-b-02.png",
+            "type": "curriculum",
+            "items": [
+              {
+                "year": "2020-2021",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/07/Biomedical-Curriculam-syllabus-2020-2021.pdf"
+              },
+              {
+                "year": "2021-2022",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2021/11/SYLLABUS-BOOK-2021-1.pdf"
+              },
+              {
+                "year": "2022-2023",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2022/09/Biomedical-Engineering.pdf"
+              },
+              {
+                "year": "2023-2024",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2023/11/2023-Syllabus-BME.pdf"
+              },
+              {
+                "year": "2024-2025",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/01/BME.pdf"
+              },
+              {
+                "year": "2025-2026",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/08/2025-Syllabus-Book.pdf"
+              }
+            ]
+          }
+        ]
+      }
+    },
+
+    {
+      "tab": "Faculty",
+      "faculty": [
+        {
+          "name": "Dr.Kamalraj Subramaniam",
+          "qualification": "Ph.D.",
+          "designation": "Professor & Head",
+          "email": "bme.hod@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/One-page-biodata-Kamalraj.pdf",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr.A.Mohanarathinam",
+          "qualification": "M.Tech., Ph.D.",
+          "designation": "Assistant Professor",
+          "email": "mohanarathinam.a@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Mohanarathinam-Onepage-biodata-format.pdf",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Mr.M.Arunkumar",
+          "qualification": "M.E., Ph.D",
+          "designation": "Assistant Professor",
+          "email": "arunkumar.m@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/04/biodata-Format-M.arunkumar.pdf",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Mrs.M.Bhuvaneswari",
+          "qualification": "M.E., (Ph.D.)",
+          "designation": "Assistant Professor",
+          "email": "bhuvaneshwari.m@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Bhuvaneswari-One-page-biodata-format.pdf",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr.M.Ramesh",
+          "qualification": "Ph.D.",
+          "designation": "Assistant Professor",
+          "email": "ramesh.munirathinam@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Dr.M.-Ramesh-Onepage-biodata-for-KAHE-website_2024.pdf",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr.D.Prema",
+          "qualification": "Ph.D.",
+          "designation": "Assistant Professor",
+          "email": "prema.dharmalingam@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Dr.-D.-Prema-One-page-biodata-format-for-KAHE-website_2024.pdf",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Mrs.R.Arunadevi",
+          "qualification": "M.E.,",
+          "designation": "Assistant Professor",
+          "email": "arunadevi.ramaiah@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/04/biodata-Format-R.Arunadevi.pdf",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Mrs.N.Megala",
+          "qualification": "M.E.,Ph.D.",
+          "designation": "Assistant Professor",
+          "email": "megala.nanjan@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/04/biodata-Format-N.Megala.pdf",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Mrs.V.Janaranjani",
+          "qualification": "M.Tech",
+          "designation": "Assistant Professor",
+          "email": "janaranjani.velusamy@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/04/biodata-Format-Janaranjani.pdf",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Mrs.Lekshmi V Nair",
+          "qualification": "M.E., (Ph.D)",
+          "designation": "Assistant Professor",
+          "email": "lekshmi.vidhyadharan@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/One-page-biodata-Lekshmi-V-Nair.pdf",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Mrs.S.Gowri",
+          "qualification": "B.E., M.E",
+          "designation": "Assistant Professor",
+          "email": "reshma.jsureshkumar@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/One-page-biodata-Reshma-Suresh.pdf",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Mrs.Reshma Suresh",
+          "qualification": "M.Tech.,",
+          "designation": "Assistant Professor",
+          "email": "reshma.jsureshkumar@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/One-page-biodata-Reshma-Suresh.pdf",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        }
+      ]
+    },
+
+    {
+      "tab": "Infrastructure",
+      "items": [
+        {
+          "type": "laboratories",
+          "title": "Facilities laboratories List",
+          "content": [
+            "UG Biochemistry Lab I & II",
+            "PG Biochemistry Lab",
+            "Research Laboratory",
+            "Animal Tissue Culture Lab",
+            "Animal House of in vivo animal studies"
+          ]
+        },
+        {
+          "type": "equipment",
+          "title": "Major Research Equipments",
+          "content": [
+            "ELISA Reader",
+            "Thermal Cycler",
+            "Horizontal and Vertical Electrophoresis Unit",
+            "Wet Transfer Unit",
+            "Semi-dry Transfer Unit",
+            "Laminar Chamber for Animal Tissue Culture",
+            "CO2 Incubator",
+            "Inverted Phase Contrast Microscope",
+            "Fluorescence Microscope",
+            "Orbital Shaker",
+            "Rotary Evaporator",
+            "Laminar Chamber for Microbiology",
+            "Refrigerated centrifuge",
+            "Millipore Water System",
+            "Photo Fluorimeter",
+            "Centrifuge (4 bucket)",
+            "Colorimeter",
+            "Soxhlet Apparatus",
+            "Magnetic Stirrer",
+            "Incubator",
+            "Conductivity meter",
+            "Water bath",
+            "Electronic balance",
+            "Microscope",
+            "Hot air oven",
+            "Cyclo mixer",
+            "pH meter",
+            "Lyophilizer (Borg Scientific)",
+            "Bio-rad gel documentation (Biorad)",
+            "Individual Ventilated Caging System (IVC)",
+            "Cooling Microcentrifuge"
+          ]
+        },
+        {
+          "type": "gallery",
+          "slug": "department-of-biochemistry",
+          "images": [
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/Ultra-Violet-Visible-Spectrometer-150x150.png",
+              "alt": "Visible Spectrometer - Top Science College in Coimbatore",
+              "title": "Visible Spectrometer – Top Science College in Coimbatore"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/High-Perfomance-Liquid-Chromatography-150x150.png",
+              "alt": "Liquid Chromatography - Best college for Science in Coimbatore",
+              "title": "Liquid Chromatography – Best college for Science in Coimbatore"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/GAS-Chromatography-150x150.png",
+              "alt": "Gas Chromatography - Best Engineering college in India",
+              "title": "Gas Chromatography – Best Engineering college in India"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/fourier-trandform-infrared-spectroscopy-150x150.png",
+              "alt": "Infrared Spectroscopy - Best Science College in Tamilnadu",
+              "title": "Infrared Spectroscopy – Best Science College in Tamilnadu"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/Elisa-Plate-Reader-150x150.png",
+              "alt": "Elisa Plate Reader - Best Educational Institute in India",
+              "title": "Elisa Plate Reader – Best Educational Institute in India"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/bc_gallery1-150x150.png",
+              "alt": "Medical camp - Coimbatore Best Engineering college",
+              "title": "Medical camp – Coimbatore Best Engineering college"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/bc_gallery2-150x150.png",
+              "alt": "KAHE Volunteers - Coimbatore degree colleges",
+              "title": "KAHE Volunteers – Coimbatore degree colleges"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/bc_gallery3-150x150.png",
+              "alt": "Karpagam Group - Top 10 Arts Colleges in Coimbatore",
+              "title": "Karpagam Group – Top 10 Arts Colleges in Coimbatore"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/bc_gallery4-150x150.png",
+              "alt": "KAHE activities - Top college for Engineering",
+              "title": "KAHE activities – Top college for Engineering"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/03/pht-150x150.png",
+              "alt": "Lab experiment - Best Pharmacy College in Coimbatore",
+              "title": "Lab experiment – Best Pharmacy College in Coimbatore"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/03/pht-1-150x150.png",
+              "alt": "Initiatives - Best Arts and Science College in India",
+              "title": "Initiatives – Best Arts and Science College in India"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/03/pht-2-150x150.png",
+              "alt": "Student Projects - Top Engineering college",
+              "title": "Student Projects – Top Engineering college"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/03/pht-3-150x150.png",
+              "alt": "Projects at KAHE - Top college for Arts and Science",
+              "title": "Projects at KAHE – Top college for Arts and Science"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tab": "Publications",
+      "slug": "department-of-biomedical-engineering",
+      "title": "Best Five Papers Faculty wise:",
+      "subtitle": "Paper publications by the Faculty Members",
+      "content": [
+        {
+          "faculty_name": "Dr. Kamalraj Subramaniam",
+          "content": [
+            "Dr. Kamalraj Subramaniam, A Review of Alzhemeir’s Disease Detection Journal of Propulsion Technology, 45, 2, 4324-4336, May 2024 (Scopus)",
+            "Dr. Kamalraj Subramaniam Quadrature Response Spectra Deep Neural Based Behavioral Pattern Analytics for Epileptic Seizure Identification Measurement Science Review 24, 2, 67-71 May 2024, Walter de Gruyter (SCIE with impact factor 0.9).",
+            "Dr. Kamalraj Subramaniam, Effect of Zr substitution on photocatalytic and magnetic properties of lanthanum titanate, Zeitschrift für Physikalische Chemie May 2024, (SCIE with impact factor 2.5)",
+            "Dr. Kamalraj Subramaniam, Deep Belief Neural Network Framework for an Effective Scalp Detection System Through Optimization International Journal of Communication Networks and Information Security (IJCNIS), 161 -1 -8, March 2024, UK Zhende Publishing (Scopus)",
+            "Dr. Kamalraj Subramaniam, Healthcare Monitoring-Based Iot Framework for Heart Disease Detection and Classification, Journal of Angiotherapy, 1-11, March 2024 Eman Research Publishing (Scopus)"
+          ]
+        },
+        {
+          "faculty_name": "Dr. Ramesh Munirathinam",
+          "content": [
+            "Dr. Ramesh Munirathinam, Human Activity Recognition Using Sensor Measurements, In 2024 International Conference on Expert Clouds and Applications (ICOECA)-IEEE, 565-567, August 2024(Scopus)",
+            "Dr. Ramesh Munirathinam, Comparison of Deep Learning Models for Efficient Classification of Gastric Abnormalities, 2024 Tenth International Conference on Bio Signals, Images, and Instrumentation (ICBSII), IEEE, June 2024(Scopus)",
+            "Dr. Ramesh Munirathinam, Manifold Cervical Abnormality Categorization using Deep Learned Features and Support Vector Machine, 2024 Tenth International Conference on Bio Signals, Images, and Instrumentation (ICBSII), IEEE, June 2024(Scopus)",
+            "Dr. Ramesh Munirathinam, Inflammatory disease classification using deep learning and machine learning features, In 2024 International Conference on Cognitive Robotics and Intelligent Systems (ICC – ROBINS), 139-147, May 2024(Scopus)",
+            "Dr. Ramesh Munirathinam, Effective Categorization of Lung Abnormalities using Squeezenet Features and Machine Learning Models, In 2024 Second International Conference on Emerging Trends in Information Technology and Engineering (ICETITE), IEEE, 1-6, April 2024(Scopus)"
+          ]
+        },
+        {
+          "faculty_name": "Dr. Prema Dharmalingam",
+          "content": [
+            "Dr. Prema Dharmalingam, Tailored Deep Learning Approaches for Binary Classification and Evaluation of Diabetic Foot Ulcer Images , 2024 Third International Conference on Intelligent Techniques in Control, Optimization and Signal Processing (INCOS), May 2024 (Scopus)",
+            "Dr. Prema Dharmalingam, GO/CaCO3/SiO2 nanocomposite incorporated Carrageenan/Chitosan injectable hydrogel for enhanced hemostasis, Inorganic Chemistry Communications, 161, pp.112024, Elsevier (SCIE with impact factor 3.8)",
+            "Dr. Prema Dharmalingam, Sustained release of human placental extract from chitosan patch incorporated with GO/Zn (Cu) O nanocomposite for enhanced healing of diabetic wounds, Colloids and Surfaces A: Physicochemical and Engineering Aspects, 685, pp.133191, Feb 2024, Elsevier (SCIE with impact factor 5.2)",
+            "Dr. Prema Dharmalingam, Fabrication of poly (lactic-co-glycolic acid)/gelatin electro spun nanofiber patch containing CaCO3/SiO2 nanocomposite and quercetin for accelerated diabetic wound healing International Journal of Biological Macromolecules, p.128060.a Nov 2023, Elsevier, Web of Science (SCIE with impact factor 8.2)",
+            "Dr. Prema Dharmalingam, Chitosan based wound dressing patch loaded with curcumin tagged ZnO nanoparticles for potential wound healing application. Inorganic Chemistry Communications 154, 110885, July 2023 Elsevier (SCI with impact factor 3.8)"
+          ]
+        },
+        {
+          "faculty_name": "Mr. Arun Kumar",
+          "content": [
+            "Mr. Arun Kumar, Sleep, Disorder Detection using Fully Convolutional Neural Networks for Sleep Arrhythmia Analysis, 2023 First International Conference on Advances in Electrical, Electronics and Computational Intelligence (ICAEECI), Pp 1-6, Jan 2024 (Scopus)",
+            "Mr. Arun Kumar, Energy-Efficient Clustering and Routing Using ASFO and a Cross-Layer-Based Expedient Routing Protocol for Wireless Sensor Networks, Sensors, 23, 5, pp. 2788, Nov 2023, MDPI, Web of Science (SCIE with impact factor 3.9)",
+            "Mr. Arun Kumar, Voice based Autonomous Pill Assistant for Alzheimer Patients, In 2023 International Conference on Inventive Computation Technologies (ICICT), IEEE, pp. 736-740, Aug 2023 (Scopus)",
+            "Mr. Arun Kumar, Stress Measurement and Analysis of Galvanic Skin Resistance (GSR) using EMG Signal, In 2023 International Conference on Inventive Computation Technologies (ICICT), IEEE. pp. 1592-1597, June 2023 (Scopus)",
+            "Mr. Arun Kumar, Real Time ECG Monitoring using Flexible Capacitive Electrodes through a Wearable Smart T-Shirt, In 2023 International Conference on Inventive Computation Technologies (ICICT), IEEE. pp. 1534-1537, June 2023 (Scopus)"
+          ]
+        },
+        {
+          "faculty_name": "Mrs. Bhuvaneswari",
+          "content": [
+            "Mrs. Bhuvaneswari, Evaluating The Role Of Low Carbohydrate Diets In Polycystic Ovarian Disease Management, African Journal of Biological Sciences, Vol.6 (14), pp 5370-5378, Aug 2024 (Scopus)",
+            "Mrs. Bhuvaneswari, Internet of Things based Intelligent Waste Segregation and Management System for Smart Home Application, 2022 7th International Conference on Communication and Electronics Systems (ICCES), 1737-1743, 2022 (Scopus)",
+            "Mrs. Bhuvaneswari, Smart Waste Management to Enrich Cleanliness and Reduce Pollution in the Environment, Sustainability Studies: Environmental and Energy Management, 51, 2022 (Scopus)",
+            "Mrs. Bhuvaneswari, Real-time implementation of an implantable antenna using chicken swarm optimization for IoT-based wearable healthcare applications, Internet of Things and Fog Computing-Enabled Solutions for Real-Life Challenges(BOOK), Vol.200, 119-140, 2022, IEEE"
+          ]
+        }
+      ]
+    },
+    {
+      "tab": "Events",
+      "slug": "department-of-biochemistry",
+      "items": [
+        {
+          "title": "Conferences / Seminar / Symposium",
+          "content": [
+            "Seminar on “Smart and systematic strategies for cracking Civil Service exam” on 12.12.2025.",
+            "3rd National Conference on Intelligent Biosystems for Healthcare Analytics on 06.03.2026.",
+            "Seminar on “Application of STFT in Non Stationary Biomedical Signal Processing” on 22-03-2024 by Dr. P. Sivakumar, Professor, Department of Electronics and Communication Engineering, Dr. N.G.P Institute of Technology, Coimbatore.",
+            "5th National Level Technical Fest Medicnik -2024 on 09-02-2024 by Mr. Boopathi Sakthivel CEO Prashan Medical Technologies, Coimbatore.",
+            "National conference on “Intelligent Biosystems for Healthcare Analytics (IBHA’24) ON 02-02-2024 By Dr. Sathish Muthu MBBS, MS, FISS, FEIORA, FIRM, Ph.D, Orthopedic Surgeon, Assistant Professor, Government Medical College & Hospital , Karur.",
+            "Seminar on “Pros and Cons of Incubation for Startups” on 11.01.2024 by Mrs.Sathya Raja, Founder & CEO, Protowiz Private Limited, Coimbatore.",
+            "Seminar on Opportunities for Engineering Grads in Civil Services on 13.12.2023 by Mr. K.S. Gokul Prasadh, Founder and Director, Noyyal IAS Academy, Coimbatore.",
+            "Seminar on “Intellectual Property for Biomedical Engineers” on 20.11.2023 by Dr.C.Ramkumar, Professor, Department of ECE, Sri Krishna College of Technology, Coimbatore.",
+            "Seminar on “Developing Soft Skills and Personality” on 03.10.2023 by Mr. Mohammed Rafiq M A, Soft skill trainer, Coimbatore.",
+            "Seminar on “Innovation and Start up Ecosystem” on 25.08.2023 by Mr.Karthik Rengarajan, Business Development Manager, Blue stone Consultants, Coimbatore was the resource person.",
+            "Three Days Tech Fest on “Embedded Systems for Biomedical Applications on 08.08.2023 – 10.08.23 by Mr. Boopathi Sakthivel, CEO of Prashan Medical Technologies, Coimbatore.",
+            "Seminar on “Overseas Education opportunities and Challenges” on 19.07.2023 by Mr.Karthik Rengarajan, Institutional Head, Business Development Manager, Bluestone Overseas Consultants , Coimbatore.",
+            "Seminar on the topic “Opportunities for the Embryonic Startups” on 16.03.2023 by Mr. K. Santhosh Kumar, Business Development and Technical Head, Accent Techno Soft, Coimbatore.",
+            "Seminar on “Clinical Effectiveness of Plethysmography on 27.02.2023 by Dr. Smily Jeya Jothi, Assistant Professor, Department of Biomedical Instrumentation Engineering, Avinshilingam Institute for Home Science and Higher Education for Women, Coimbatore.",
+            "4th National Level Technical Symposium Medicnik on 20.02.2023 by Dr.Karthik Prabhu, Chairman Indian Medical Association, Tamilnadu Nursing Home Board, Tamilnadu State Branch.",
+            "Seminar on “Robotic Assisted Surgery for Brain Stroke” on 16.02.2023 Mr. Abhijith Yenikekaluva, M.Tech, M.Sc., Team Lead, Medical Technology Domain, Skill-Lync, Bangalore, India1",
+            "Seminar on “Siddha Diet and Nutrition for Healthy Life” on 9.1.2023 by Dr.K.Shanmugam B.S.M.S, M.D(S), Consultant, Chendoor Siddham & Varmam Hospital, Coimbatore",
+            "Seminar on the topic “Guidelines for Bio Startups” on 24.11.2022 by Mr.U.Uma Maheswaran, Proprietor–Managing Director, Spectrum Infotech,Virudhunagar",
+            "Seminar on “Innovation in Artificial Organs and Implants on 23.11.22 by Dr. Ram Kumar C, Associate Professor, Department of Biomedical Engineering, Dr. N.G.P. Institute of Technology, Coimbatore",
+            "Seminar on Recent Trends in Medical Electronics on Orthopedic Applications on 23.01.2020 by  BRJ.Satish Kumar, MBBS,MS(ortho),DNB(ortho), Managing Director and Chief Orthopedic Surgeon, BRJ Ortho Centre and MAK Hospital, Coimbatore.",
+            "One day Seminar on “Telehealth Technology” on 19.02.2020 by Mr. G. Guru Prasandh, CEO and Founder of MedsBy, Healthcare Solutions, Coimbatore.",
+            "National level Technical Symposium & Workshop ‘Medicnik 2020’ on February 12, 2020.",
+            "Seminar on Health care and Hospital Management on January 29, 2020 by Er.L.Shathiya Narayanan(BME), Trainee RSO, RADQ Services, Salem.",
+            "National level Technical Symposium ‘Medicnik 2019‘on February 20, 2019.",
+            "ICMR sponsored National seminar was conducted on “Awareness of uterine fibroids and prevention of infertility in young adolescent girls” from September 26, 2017 to September 27, 2019."
+          ]
+        },
+        {
+          "title": "Skill Development Program",
+          "content": [
+            "Skill training program on “Medical Coding” from 25.08.2025 to 26.08.2025.",
+            "Two Days Skill Development Program on Medical Coding on 29-01-2024 and 30-01-2024 by Mr. Vijay Rajendran, Technical Consultant, BioXplora, Coimbatore."
+          ]
+        },
+        {
+          "title": "Guest Lecture / Webinars",
+          "content": [
+            "Guest Lecture on “Advancements in Image Processing for Biomedical Applications” on 31.03.2023 by Dr. D. Sugumar, Associate Professor/ ECE, Karunya Institute of Technology and Sciences (Deemed to be University), Coimbatore, India-641114.",
+            "Guest Lecture on “Competitive Exams: Opportunities and Scope on 04.11.22 by Mr. J. Yuva Prakash B.E., M.Tech., Civil Service Exam- Educator, Shanmugam IAS Academy, Coimbatore.",
+            "Guest Lecture on “Career Guidance and Career Counseling” on 11.10.2022 by Dr.S.Thilagarani, Principal, P.G.P College of Education, Namakkal.",
+            "Guest Lecture on the topic “Innovations in Image Processing on 29.9.2022 by Dr. C.S. Manikandababu, Associate Professor, Department of Electronics and Communication Engineering, Sri Ramakrishna Engineering College, Coimbatore",
+            "Guest Lecture on “Novel Characteristics of Biopolymers as Implants” on 29.9.2022 by Dr. V. Dooslin Mercy Bai, Professor, Department of Biomedical Engineering, Sri Shakthi Institute of Engineering and Technology, Coimbatore.",
+            "Guest Lecture on the topic “Role and Scope of Biomedical Engineers on 27.9.2022 by Mr.R.Vigneshkumar, Sales and Service Engineer, Nipro Medical India Pvt. Ltd, Chennai.",
+            "Guest Lecture on the topic “AI revolution in Healthcare Application on 26.9.2022 by Dr. K. Porkumaran, Principal, Sri Sai Engineering College, Chennai – 600044.",
+            "Guest Lecture on the topic “Thermography in Biomedical Application” on 22.9.2022 by Mr. Ajith B Singh, Assistant Professor, Department of Instrumentation and Control Engineering, Sri Krishna College of Technology, Coimbatore.",
+            "Guest Lecture on the topic “Design of Combinational Circuits” on 20.9.2022 by Dr. P. Sivakumar, Professor, Department of Electronics and Communication Engineering, Dr. N.G.P Institute of Technology, Coimbatore.",
+            "Guest Lecture on the topic “Bio innovation and IPR” on 30.8.2022 by Mr.John Amose, Assistant Professor (Sr.G), Department of Biomedical Engineering, KPR Institute of Engineering and Technology, Coimbatore.",
+            "Guest Lecture on the topic “Career Opportunities in Hospital Sector” on 29.8.2022 by Mr.S.Kalimuthu, Biomedical Engineer, Ganga Hospital, Coimbatore.",
+            "Guest Lecture on the topic “IOT Based Non Invasive Wearable Vital Parameter Monitoring on 25.8.2022 by Ms.V.Srividhyasakthi, Assistant Professor, Sri Ramakrishna Engineering College, Coimbatore-641002.",
+            "Guest Lecture on the topic “Transforms and its Application” on 25.8.2022 by Dr.V.Rukkumani, Associate Professor, Sri Ramakrishna Engineering College, Coimbatore-641002.",
+            "Guest Lecture on the topic “A High Gain Instrumentation Amplifier for Biomedical Applications” on 25.8.2022 by Mr. L. Ramasethu, Associate Business Operation Manager, Tealiot Infrasys, Sriperumbudur – 602117.",
+            "Guest Lecture on the topic “Angel Investment/ VC Funding Opportunity for Early stage Entrepreneurs” on 24.8.2022 by Mr.N.R.R.Vijayakumar, Entrepreneurship & Managing Director, Founder passion foundation.",
+            "Guest Lecture on the topic “Entrepreneurship” on 22.07.2022 by Mr. Surya Chinnaraj, Managing Director, Brightnest Technologies, Private Limited, Coimbatore.",
+            "Guest Lecture on the topic “Role of Intellectual Property Rights in a Knowledge Based Economy” on 20.7.2022 by Mr.Boopathi Sakthivel, Founder, Prashan Medical Technologies, Coimbatore-641004.",
+            "Webinar on Intricacy and Importance of Human Body on 24.12.2020 by Dr.Jagadheeswari M, M.B.B.S, Government Registered Medical Practitioner, Coimbatore- 641 105.",
+            "Webinar on Design Thinking in Healthcare on 22.12.2020 by Ms. SamidhaTamhankar,Healthcare Entrepreneurial Fellow, Center for Healthcare Entrepreneurship, IIT Hyderabad.",
+            "National level Webinar on Influence of Virtual reality in Medicine on 16.12.2020 by Mrs. Gayathri Priyadarshini R, HOD, Department of Biomedical Engineering, Bannari Amman Institute of Technology, Sathyamangalam – 638 401.",
+            "Webinar on Biometrics in Today’s World on 27.11.2020 by Ms. AbinayaBaskaran, Product Consultant, Genworks Health, Chennai.",
+            "Webinar on Problems and Solutions for Orthopedic Issues during COVID-19 on 18.09.2020 by Dr.BRJ.Satish Kumar, MBBS,MS(ortho),DNB(ortho), Managing Director and Chief Orthopedic Surgeon, BRJ Ortho Centre and MAK Hospital, Coimbatore.",
+            "Guest lecture on Patient and devices safety was conducted on September 13, 2019 by Ms.P.Sowmiya, Biomedical Engineer, PSG IMSR(Hospitals),Coimbatore.",
+            "Guest lecture on Medical Instrumentation was conducted on July 18, 2019.",
+            "Guest lecture on Application of Biosensors was conducted on February 16, 2018.",
+            "Guest lecture on Issues faced in biomaterials and artificial organs was conducted on January 23, 2018."
+          ]
+        },
+        {
+          "title": "Workshop",
+          "content": [
+            "One-day Workshop on “Corporate Edge: Essential Skills for Success” along with a poster presentation Competition for the academic year 2025-2026  on 19.09.2025.",
+            "Expert Talk on “Application of STFT in Non Stationary Biomedical Signal Processing” on 27.07.2023 by Dr. P. Sivakumar, Professor, Department of Electronics and Communication Engineering, Dr. N.G.P Institute of Technology, Coimbatore.",
+            "One day Workshop on “Medical Device Design and Development” On 26.06.2023 by Ms.S.Sridevi , (PhD), Madras Institute of Technology, Chennai – 600044.",
+            "National Level Workshop on “Medical Equipment Troubleshooting and Service” on 11.01.2023 by Mr. Boopathy Sakthivel, Founder and CEO, Prashan Medical Technologies, Coimbatore – 641004",
+            "Workshop on the topic “Biosignal Analysis using Arduino” on 25.11.2022 by Mr.U.Uma Maheswaran, Proprietor – Managing Director, Spectrum Infotech , Virudhunagar.",
+            "One day Workshop on3D Printing For Medical & Robotic Applications on 12.02.2020 by Mr.GuruPrasadh,Founder& COE, MEDSBY, Coimbatore.",
+            "One day Workshop onBio Signal Conditioning on 31.01.2020  by Mr.K.Kanagaraj,Business Development Manager,AD Instruments South Asia.",
+            "One day National workshop on IoT based Health care system was conducted on March 05, 2018.",
+            "One day National workshop on Artificial Neural networks and Fuzzy logic using MATLAB was conducted on October 06, 2017.",
+            "Two day workshop on Motion Capturing VFx from September 07, 2017 to September 08, 2017."
+          ]
+        },
+        {
+          "title": "Industrial Visit",
+          "content": [
+            "One Week Online National Level Professional Development Programme on “Neuro rehabilitation and Stroke Management” on 20 to 25 November, 2023, by Dr. Judith Justin Professor & Head, Department of Biomedical Instrumentation, Avinashilingam University, Coimbatore – 641 043, Dr. Aravinth Karthikeyan, Implantologist, MD of Lalitha Groups of Clinics, Chairman, Hand and leg Fittment Project, Mettupalayam Coimbatore – 641 301, Dr.Jagatheeswari.M. M, General Practioner, L & T, Health Center, Eachanari, Coimbatore – 641 021, Dr. M. Muthulakshmi, Assistant Professor (Sr.Gr.), Department of Electronics and Communication Engineering, Amrita Vishwa Vidyapeetham, Chennai – 601 103, Dr.K. Venkata Subramanian, Associate Professor, Department of Electronics and Communication Engineering, Amrita Vishwa Vidyapeetham, Chennai – 601 103, Mr. Boopathi Sakthivel, Founder, Prashan Medical Technologies, Coimbatore – 641 004.",
+            "One Week Online National Level Professional Development Programme on 12th to 17th December 2022 by Mr. Atheena Milagi Pandian CEO, Atheena Pandian Pvt. Ltd Chennai, Mr. Sumant, CEO, Alphatek Systems Kolkata, Dr. Judith Justin, Professor & Head Department of Biomedical Instrumentation Engineering Avinashilingam University, Mr. Boopathi Sakthivel, CEO, Prashan Medical Technologies, Coimbatore, Dr. G. Devanand Venkatasubbu Assistant Professor Department of Nanotechnology SRM Institute of Science and Technology, Chennai, Mr. Prathap Singh Head of Operations, WOL3D Coimbatore."
+          ]
+        },
+        {
+          "title": "Extension Activity",
+          "content": [
+            "Extension Activity “Women Health Awareness Programme & Camp” on 18.10.2023"
+          ]
+        },
+        {
+          "title": "STTPs",
+          "content": [
+            "AICTE Sponsored one week Short Term Training Programme on Data Analytics in biomedical engineering, Slot I from 23.11.2020 to 29.11.2020.",
+            "AICTE Sponsored one week Short term training Programme on Data Analytics in biomedical engineering, Slot II from 14.12.2020 to 19.12.2020."
+          ]
+        },
+        {
+          "title": "Seminar",
+          "content": [
+            "Seminar on “Assistive Technologies for Rehabilitation: Challenges and Applications” on 24.12.2025.",
+            "Seminar on “AI in Healthcare” on 19.12.2025 (10.00 am to 11.30 pm) through online mode.",
+            "Seminar on “A Systematic Roadmap for Cracking the Indian Engineering Service” on 18.12.2025.",
+            "Seminar on “Fluid Behavior in Biology: A Mechanistic Entry Point” on 09.12.2025.",
+            "To organize online seminar on “Foundations of assistive technology: for Modern Solutions to abled” on 06.10.2025.",
+            "Conducted a seminar on “Medical Equipment Calibration and Regulatory Compliance” on 06.10.2025.",
+            "Seminar on “Bio-wearable sensors for tailoring personalized Healthcare” on 16.09.2025.",
+            "Seminar on “Computed Tomography Medical Image Segmentation and Analysis Using Deep Learning Algorithms” on 19.09.2025.",
+            "Seminar on “Internet of Medical Things (IOMT) and Evolution of Healthcare 4.0” for BME students on 09.08.2025",
+            "Organize online seminar on “Foundations of AI in Healthcare: Trends, Programming, and Mathematics for Modern Solutions” on 28.08.2025.",
+            "Seminar on “Pharma and Clinical Research : Scope, Skills and Career Growth” on 13.08.2025",
+            "Seminar on “Smart strategy for cracking banking exams” on 01.08.2025"
+          ]
+        },
+        {
+          "title": "Others",
+          "content": [
+            "One day National Level Technical Fest (MEDICNIK-2026) cum Biomedical project Expo for both Internal and External participants on 06.02.2026",
+            "Alumni interaction session for BME students on ”Data analytics in Biomedical Engineering” on 23.12.2025 by our Biomedical Engineering Alumni (2020 – 2024) batch, Mr.Kabildev V, Associate Analyst,Zifo RnD,Chennai through online platform",
+            "5-day Faculty Development Program on “The Next Frontier: Transforming Healthcare through AI and Robotics” for our faculty members from 24.11.2025 to 28.11.2025.",
+            "Orientation Programme on Career opportunities in Biomedical Engineering and Introduction to Biomedical equipment and devices for I-Year Biomedical Engineering students on 29.07.2025."
+          ]
+        }
+      ]
+    }
+  ]
+}

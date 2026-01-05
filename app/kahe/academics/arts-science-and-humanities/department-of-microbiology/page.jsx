@@ -9,7 +9,7 @@ const page = () => {
   return (
     <>
       <BreadCrumb  />
-      <h5>Dept of micro micro biology</h5>
+      <h5>Dept of micro biology</h5>
     </>
   );
 };

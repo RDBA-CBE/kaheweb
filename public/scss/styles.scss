@@ -519,7 +519,7 @@
 }
 
 .kahe .rbt-information-list li a {
-  color: #fff;
+  color: #000;
 }
 
 .kahe .rbt-secondary-menu li a::before {
@@ -538,7 +538,7 @@
 }
 
 .kahe.rbt-header .kahe-header-menu.rbt-header-wrapper {
-  background: #e6e4e4;
+  background: #0f856f;
 }
 
 .kahe.rbt-header .mainmenu-nav .mainmenu > li > a {
@@ -1017,10 +1017,12 @@
 }
 
 .kahe-transfer-text-box {
+  display: flex;
   padding: 20px 40px;
   width: 100%;
   color: #fff;
   line-height: 1.6;
+  flex-direction: column;
 }
 
 .kahe-transfer-btn {
@@ -3334,4 +3336,7 @@ grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
     padding: 5px 10px;
     font-size: 13px;
   }
+}
+.bg-green-2 {
+  background: #0f856f;
 }
