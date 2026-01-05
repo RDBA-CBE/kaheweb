@@ -1,0 +1,25 @@
+{
+  "bannerCon": {
+    "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+    "title": "Key Recruiters",
+    "bannerCon": "To be a leading institution in the field of education, providing quality education and training to students and professionals.",
+    "applyLink": "/"
+  },
+
+  "recruiters": {
+    "title": "Partial List of Recruiters",
+    "content": [
+      { "title": "ABC FRUITS", "img": "/images/Kahe/Innerpages/placement.png" },
+      { "title": "Accenture", "img": "/images/Kahe/Innerpages/placement.png" },
+      {
+        "title": "Aggregate Intelligence India Private Limited",
+        "img": "/images/Kahe/Innerpages/placement.png"
+      },
+      {
+        "title": "Algoquant Fintech Limited",
+        "img": "/images/Kahe/Innerpages/placement.png"
+      },
+      { "title": "Atos", "img": "/images/Kahe/Innerpages/placement.png" }
+    ]
+  }
+}

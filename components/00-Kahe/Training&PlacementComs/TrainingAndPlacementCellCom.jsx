@@ -1,12 +1,10 @@
 "use client";
 
-import { Examinations } from "@/JSON/ACADEMIC/Overview";
+import { Placement } from "@/JSON/ACADEMIC/Overview";
 import data from "../../../JSON/Training/training_&_placements.json";
 import InnerBanner from "@/components/00-Kahe/common-components/InnerBanner";
 import Sidebar from "../common-components/Sidebar";
-import ImageLink from "../Components/ImageLink";
-import YoutubeVideoSection from "../Components/YoutubeVideoSection";
-import ImageSlider from "../Components/ImageSlider";
+
 
 import TrainingTabInnerSec from "../Components/TrainingTabInnerSec";
 
@@ -36,7 +34,7 @@ const TrainingAndPlacementCellCom = () => {
               <div className="course-sidebar sticky-top">
                 <div className="inner">
                   <div className="content-item-content">
-                    <Sidebar subMenu={Examinations} />
+                    <Sidebar subMenu={Placement} />
                   </div>
                 </div>
               </div>

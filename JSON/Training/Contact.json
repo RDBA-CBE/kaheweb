@@ -1,0 +1,112 @@
+{
+  "bannerCon": {
+    "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+    "title": "How to apply",
+    "bannerCon": "To be a leading institution in the field of education, providing quality education and training to students and professionals.",
+    "applyLink": "/"
+  },
+  "placementContact": {
+    "title": "How to apply",
+    "content": [
+      {
+        "bgcolor": "bg-lblue shadow-none",
+        "gridCls": " col-md-6 col-sm-6 col-12",
+
+        "ConClsName": "text-start",
+        "subtitle": "Mr. C. Subasadhasivam",
+        "content": "Manager – Corporate Relation",
+        "links": [
+          {
+            "icon": "feather-phone-call",
+            "text": "+91 73730 07704",
+            "url": "tellto:+91 73730 07704"
+          },
+          {
+            "icon": "feather-mail",
+            "text": " kiplacement@karpagam.com",
+            "url": "mailto: kiplacement@karpagam.com"
+          }
+        ]
+      },
+
+      {
+        "bgcolor": "bg-lblue shadow-none",
+        "gridCls": " col-md-6 col-sm-6 col-12",
+
+        "ConClsName": "text-start",
+        "subtitle": "Mr. Krishna kumar Athithan",
+        "content": "Training officer – Lead",
+        "links": [
+          {
+            "icon": "feather-phone-call",
+
+            "text": "9488384798",
+            "url": "tellto:+9488384798"
+          },
+          {
+            "icon": "feather-phone-call",
+
+            "text": "+91 73730 07704",
+            "url": "tellto:+91 73730 07704"
+          },
+          {
+            "icon": "feather-mail",
+            "text": " training@kahedu.edu.in",
+            "url": "mailto: training@kahedu.edu.in"
+          }
+        ]
+      },
+
+      {
+        "bgcolor": "bg-lblue shadow-none",
+        "gridCls": " col-12",
+
+        "ConClsName": "text-start",
+
+        "subtitle": "Social Links",
+        "content": "Vist KAHE's Links",
+
+      
+        
+        "socialLinks": [
+          {
+            "name": "Facebook",
+            "icon": "fab fa-facebook-f",
+            "url": "https://www.facebook.com/wekaheians/",
+            "target": "_blank"
+          },
+          {
+            "name": "Twitter",
+            "icon": "fab fa-twitter",
+            "url": "https://twitter.com/wekaheians",
+            "target": "_blank"
+          },
+          {
+            "name": "LinkedIn",
+            "icon": "fab fa-linkedin-in",
+            "url": "https://www.linkedin.com/company/wekaheians/",
+            "target": "_blank"
+          },
+          {
+            "name": "Instagram",
+            "icon": "fab fa-instagram",
+            "url": "https://instagram.com/wekaheians",
+            "target": "_blank"
+          },
+          {
+            "name": "YouTube",
+            "icon": "fab fa-youtube",
+            "url": "https://www.youtube.com/@wekaheians",
+            "target": "_blank"
+          },
+          {
+            "name": "Pinterest",
+            "icon": "fab fa-pinterest",
+            "url": "https://in.pinterest.com/wekaheians/",
+            "target": "_blank"
+          }
+        ]
+      }
+    ]
+  }
+}

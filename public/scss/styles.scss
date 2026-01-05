@@ -519,7 +519,7 @@
 }
 
 .kahe .rbt-information-list li a {
-  color: #fff;
+  color: #000;
 }
 
 .kahe .rbt-secondary-menu li a::before {
@@ -538,7 +538,7 @@
 }
 
 .kahe.rbt-header .kahe-header-menu.rbt-header-wrapper {
-  background: #e6e4e4;
+  background: #0f856f;
 }
 
 .kahe.rbt-header .mainmenu-nav .mainmenu > li > a {
@@ -3237,3 +3237,30 @@ grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
     font-size: 2rem;
   }
 }
+
+.kahe-social-icons {
+  display: flex;
+  gap: 14px;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.kahe-social-icons li a {
+  width: 36px;
+  height: 36px;
+  background-color: #5f8fa5; /* teal-blue background */
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #ffffff;
+  font-size: 14px;
+  transition: all 0.3s ease;
+}
+
+.kahe-social-icons li a:hover {
+  background-color: #3a6f86;
+  color: #ffffff;
+}
+

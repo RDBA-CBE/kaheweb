@@ -12,7 +12,7 @@ const Header = () => {
       <header className="rbt-header rbt-header-4 rbt-header-4-container-var kahe">
         <div className="rbt-sticky-placeholder"></div>
         <HeaderTop
-          bgColor="bg-green rbt-border-bottom"
+          bgColor="bg-gray-2 rbt-border-bottom"
           gapSpaceBetween=""
           container="section-wid"
           flexDirection=""
