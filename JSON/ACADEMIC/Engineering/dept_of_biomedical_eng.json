@@ -247,6 +247,17 @@
           "src": "/images/team/team-11.png",
           "iconSrc": "/images/Kahe/Innerpages/education.png",
           "target": "_blank"
+        },
+        {
+          "name": "Ms.V.Akisha",
+          "qualification": "M.E",
+          "designation": "Assistant Professor",
+          "email": "akisha.vijayakumar@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Akisha-One-page-biodata-format.pdf",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
         }
       ]
     },
