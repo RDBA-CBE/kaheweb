@@ -1,4 +1,4 @@
-import President from "@/components/00-Kahe/AdministrationComponents.jsx/President";
+import IQACCom from "@/components/00-Kahe/AdministrationComponents.jsx/IQACCom";
 
 export const metadata = {
   title: "Karpagam Academy of Higher Education - Deemed University",
@@ -9,7 +9,7 @@ const page = async () => {
   return (
     <>
       
-      <President />;
+      <IQACCom />;
     </>
   );
 };
