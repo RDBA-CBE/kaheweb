@@ -12,6 +12,8 @@ import "../public/css/plugins/feather.css";
 import "../public/css/plugins/odometer.css";
 import "../public/css/plugins/animation.css";
 import "../public/css/plugins/euclid-circulara.css";
+import "../public/css/plugins/satoshi.css";
+import "../public/css/plugins/minion.css";
 import "swiper/css";
 import "swiper/css/navigation";
 import "swiper/css/effect-cards";

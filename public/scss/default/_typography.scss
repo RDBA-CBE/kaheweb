@@ -21,7 +21,7 @@ html {
 body {
 	font-size: 16px;
 	line-height: 1.5;
-	font-family: var(--font-primary);
+	font-family: var(--font-secondary);
 	color: var(--color-body);
 	font-weight: 400;
 	scroll-behavior: auto;
@@ -74,7 +74,7 @@ h6,
 .h5,
 .h6 {
 	word-break: break-word;
-	font-family: var(--font-secondary);
+	font-family: var(--font-primary);
 	line-height: 1.4074;
 	color: var(--color-heading);
 }

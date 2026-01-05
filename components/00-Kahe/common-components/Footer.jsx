@@ -124,7 +124,7 @@ import Link from "next/link";
 
 const Footer = () => {
   return (
-    <footer className="iitm-footer text-light pt-5 bg-green ">
+    <footer className="iitm-footer text-light pt-5 bg-green-2 ">
       <div className=" section-wid">
         {/* Top Links */}
         <div className="row py-4">
