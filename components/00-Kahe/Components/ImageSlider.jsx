@@ -8,58 +8,6 @@ import "swiper/css";
 import "swiper/css/navigation";
 import { FirstLetterUp } from "@/utils/functions.utils";
 
-/* 1️⃣ YOUR DATA */
-const specialties = [
-  { title: "Anaesthesiology", icon: "/icons/anaesthesiology.svg" },
-  { title: "Cardiology", icon: "/icons/cardiology.svg" },
-  { title: "Cardiothoracic Surgery", icon: "/icons/cardiothoracic.svg" },
-  {
-    title: "Clinical Immunology and Rheumatology",
-    icon: "/icons/clinical.svg",
-  },
-  { title: "Dentistry and Oral Surgery", icon: "/icons/dentistry.svg" },
-  {
-    title: "Dermatology Aesthetics and Lasers",
-    icon: "/icons/dermatology.svg",
-  },
-  { title: "Neurology", icon: "/icons/neurology.svg" },
-  { title: "Neurosurgery", icon: "/icons/neurosurgery.svg" },
-  { title: "Nuclear Medicine", icon: "/icons/nuclear.svg" },
-  { title: "Obstetrics & Gynaecology", icon: "/icons/obstetrics.svg" },
-  { title: "Oncology", icon: "/icons/oncology.svg" },
-  { title: "Ophthalmology", icon: "/icons/ophthalmology.svg" },
-  { title: "Urology", icon: "/icons/urology.svg" },
-  { title: "Orthopaedics", icon: "/icons/ortho.svg" },
-  { title: "ENT", icon: "/icons/ent.svg" },
-  { title: "Psychiatry", icon: "/icons/psychiatry.svg" },
-  { title: "Pulmonology", icon: "/icons/pulmo.svg" },
-  { title: "Radiology", icon: "/icons/radiology.svg" },
-
-  { title: "Neurology", icon: "/icons/neurology.svg" },
-  { title: "Neurosurgery", icon: "/icons/neurosurgery.svg" },
-  { title: "Nuclear Medicine", icon: "/icons/nuclear.svg" },
-  { title: "Obstetrics & Gynaecology", icon: "/icons/obstetrics.svg" },
-  { title: "Oncology", icon: "/icons/oncology.svg" },
-  { title: "Ophthalmology", icon: "/icons/ophthalmology.svg" },
-  { title: "Urology", icon: "/icons/urology.svg" },
-  { title: "Orthopaedics", icon: "/icons/ortho.svg" },
-  { title: "ENT", icon: "/icons/ent.svg" },
-  { title: "Psychiatry", icon: "/icons/psychiatry.svg" },
-  { title: "Pulmonology", icon: "/icons/pulmo.svg" },
-  { title: "Radiology", icon: "/icons/radiology.svg" },
-  { title: "Neurology", icon: "/icons/neurology.svg" },
-  { title: "Neurosurgery", icon: "/icons/neurosurgery.svg" },
-  { title: "Nuclear Medicine", icon: "/icons/nuclear.svg" },
-  { title: "Obstetrics & Gynaecology", icon: "/icons/obstetrics.svg" },
-  { title: "Oncology", icon: "/icons/oncology.svg" },
-  { title: "Ophthalmology", icon: "/icons/ophthalmology.svg" },
-  { title: "Urology", icon: "/icons/urology.svg" },
-  { title: "Orthopaedics", icon: "/icons/ortho.svg" },
-  { title: "ENT", icon: "/icons/ent.svg" },
-  { title: "Psychiatry", icon: "/icons/psychiatry.svg" },
-  { title: "Pulmonology", icon: "/icons/pulmo.svg" },
-  { title: "Radiology", icon: "/icons/radiology.svg" },
-];
 
 /* 2️⃣ ADD THIS BLOCK HERE (STEP-1) */
 const ROWS_PER_COL = 3;

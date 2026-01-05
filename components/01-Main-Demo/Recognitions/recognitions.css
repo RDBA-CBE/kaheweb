@@ -1,5 +1,5 @@
 .recognitions {
-  padding: 80px 10%;
+  padding: 40px 10%;
   text-align: center;
 }
 
@@ -18,18 +18,18 @@
 
 .card {
   line-height: 1.8;
-  color: #444; border:0px; font-size:18px;
+ border:0px; font-size:18px;
 }
 
 .divider {
   width: 1px;
   height: 100%;
-  background: #ccc;
+  background: #222;
 }
 
 /* Button */
 .know-more-wrap {
-  margin: 40px 0;
+  margin: 40px 0 60px 0;
 }
 
 .know-more {
@@ -66,11 +66,12 @@
 
 /* Slider images */
 .logo-slider img {
-  max-height: 70px;
+ /* max-height: 70px;*/
   object-fit: contain;
   margin: auto;
+  height: auto;
 }
-
+.logo-slider::after{broder:2px solid red;}
 /* Hide default swiper arrows */
 .swiper-button-next,
 .swiper-button-prev {

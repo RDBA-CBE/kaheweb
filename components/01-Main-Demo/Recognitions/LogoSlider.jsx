@@ -6,13 +6,29 @@ import "swiper/css";
 import "swiper/css/navigation";
 
 const logos = [
-  "/logos/ugc.png",
-  "/logos/aicte.png",
-  "/logos/coa.png",
-  "/logos/esnad.png",
-  "/logos/naac.png",
-  "/logos/nirf.png",
-  "/logos/nirf-innovation.png",
+  "/images/Kahe/home/reg/ACCREDITION-LOGO-1.jpg",
+  "/images/Kahe/home/reg/ACCREDITION-LOGO-2.jpg",
+  "/images/Kahe/home/reg/ACCREDITION-LOGO-3.jpg",
+  "/images/Kahe/home/reg/ACCREDITION-LOGO-4.jpg",
+    "/images/Kahe/home/reg/ACCREDITION-LOGO-5.jpg",
+  "/images/Kahe/home/reg/ACCREDITION-LOGO-6.jpg",
+  "/images/Kahe/home/reg/ACCREDITION-LOGO-7.jpg",
+  "/images/Kahe/home/reg/ACCREDITION-LOGO-8.jpg",
+    "/images/Kahe/home/reg/ACCREDITION-LOGO-9.jpg",
+  "/images/Kahe/home/reg/ACCREDITION-LOGO-10.jpg",
+  "/images/Kahe/home/reg/ACCREDITION-LOGO-11.jpg",
+  "/images/Kahe/home/reg/ACCREDITION-LOGO-12.jpg",
+    "/images/Kahe/home/reg/ACCREDITION-LOGO-13.jpg",
+  "/images/Kahe/home/reg/ACCREDITION-LOGO-14.jpg",
+  "/images/Kahe/home/reg/ACCREDITION-LOGO-15.jpg",
+  "/images/Kahe/home/reg/ACCREDITION-LOGO-16.jpg",
+      "/images/Kahe/home/reg/ACCREDITION-LOGO-17.jpg",
+  "/images/Kahe/home/reg/ACCREDITION-LOGO-18.jpg",
+  "/images/Kahe/home/reg/ACCREDITION-LOGO-19.jpg",
+  "/images/Kahe/home/reg/ACCREDITION-LOGO-20.jpg",
+   "/images/Kahe/home/reg/ACCREDITION-LOGO-21.jpg",
+    "/images/Kahe/home/reg/ACCREDITION-LOGO-22.jpg",
+
 ];
 
 export default function LogoSlider() {
