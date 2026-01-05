@@ -1,0 +1,684 @@
+{
+  "title": "Department of Commerce",
+  "bannerCon": "The University of Wyoming welcomes students to experience a one-of-a-kind education in the heart of the Mountain West. With our dedication to academic excellence and student-focused education, UW provides an environment thrive both academically and personally. Admission to the University of Wyoming is just the first step to achieving your dreams.",
+  "applyLink": "#",
+  "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+  "tabs": [
+    {
+      "id": "overview",
+      "label": "Overview"
+    },
+    {
+      "id": "programme",
+      "label": "Programme"
+    },
+    {
+      "id": "faculty",
+      "label": "Faculty"
+    },
+    {
+      "id": "infrastructure",
+      "label": "Infrastructure"
+    },
+    {
+      "id": "publications",
+      "label": "Publications"
+    },
+    {
+      "id": "events",
+      "label": "Events"
+    }
+  ],
+  "tabContent": [
+    {
+      "tab": "Overview",
+      "items": [
+        {
+          "type": "overview",
+          "subTitle": "Overview",
+          "contents": "The Department of Commerce stands as a dynamic centre of academic excellence, professional development, and value-based learning. With a strong focus on contemporary commerce education, the department integrates modern teaching methods, online learning platforms, and industry-relevant curriculum to equip students with up-to-date knowledge in accounting, finance, business, and related domains. Research is an integral part of the department’s culture. Both students and faculty are encouraged to engage in meaningful research initiatives that address real-world economic, business, and social challenges, fostering analytical thinking and problem-solving skills. Committed to inclusivity and equal opportunity, the department places special emphasis on empowering women, rural learners, and marginalized groups by providing supportive learning environments and access to academic resources. Beyond academics, the department nurtures creativity, self-reliance, and responsible citizenship through various skill-development programs, entrepreneurship activities, and value-based educational practices. Together, these initiatives ensure that learners grow into competent professionals and socially conscious individuals ready to contribute to society and the business world. The Department of Commerce was established during the year 1995. At present, Department of Commerce offers two under-graduate programmes, one PG and one Ph.D. Research Programme. The curriculum and syllabi are constantly updated in align with UGC regulations and to meet the global demands.",
+          "image": "/images/others/video-07.jpg"
+        },
+        {
+          "type": "vision",
+          "subTitle": "Vision",
+          "src": "/images/Kahe/Innerpages/vision.png",
+          "content": [
+            "The Department vision is by giving students strong knowledge in commerce, accounting, and business, along with moral values. The department helps students to become skilled professionals by offering practical learning, encouraging them to think creatively, and supporting research that solves real-life problems. With industry exposure and skill-building activities, students are prepared for successful careers and are motivated to make a positive difference in society."
+          ]
+        },
+        {
+          "type": "mission",
+          "subTitle": "Mission",
+          "src": "/images/Kahe/Innerpages/goal.png",
+          "content": [
+            "The department equips students with the latest knowledge in commerce, accounting, and finance through modern teaching methods and online learning platforms.",
+            "Students and faculty are encouraged to undertake research projects that address real-world economic, business, and social issues.",
+            "Special focus is given to empowering women, rural, and marginalized students by offering equal learning opportunities and support.",
+            "The department promotes creativity, self-reliance, and responsible citizenship through skill-building activities, entrepreneurship development, and value-based education"
+          ]
+        }
+      ]
+    },
+
+    {
+      "tab": "Programme",
+      "programmes": {
+        "title": "Programmes",
+        "content": [
+          {
+            "key": "ug",
+            "title": "Under Graduate Programme",
+            "img": "/images/others/health-b-02.png",
+            "items": ["B.Com", "B.Com PA"],
+            "type": "programme"
+          },
+          {
+            "key": "pg",
+            "title": "Post Graduate Programmes",
+            "img": "/images/others/health-b-02.png",
+            "items": ["M.Com"],
+            "type": "programme"
+          },
+          {
+            "key": "res",
+            "title": "Research Programmes",
+            "img": "/images/others/health-b-02.png",
+            "items": ["Ph.D"],
+            "type": "programme"
+          }
+        ]
+      },
+      "curriculum": {
+        "title": "Curriculum",
+        "content": [
+          {
+            "key": "bsc",
+            "title": "B.Com.",
+            "img": "/images/others/health-b-02.png",
+            "type": "curriculum",
+            "items": [
+              {
+                "year": "2020-2021",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/07/B.Com_.-2020-2021.pdf"
+              },
+              {
+                "year": "2021-2022",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2021/11/B.Com-2021-2022.pdf"
+              },
+              {
+                "year": "2022-2023",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2022/09/B.Com_.-2022-2023-Syllabus.pdf"
+              },
+              {
+                "year": "2023-2024",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2024/04/B.Com_.pdf"
+              },
+              {
+                "year": "2024-2025",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/01/B.Com_.pdf"
+              },
+              {
+                "year": "2025-2026",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/10/B-Com-Syllabus.pdf"
+              }
+            ]
+          },
+          {
+            "key": "msc",
+            "title": "B.Com. (Professional Accounting)",
+            "img": "/images/others/health-b-02.png",
+            "type": "curriculum",
+            "items": [
+              {
+                "year": "2020-2021",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/07/B.COM-PA-2020-2021.pdf"
+              },
+              {
+                "year": "2021-2022",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2021/11/B.-Com-PA-Syllabus-2021-2022.pdf"
+              },
+              {
+                "year": "2022-2023",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2022/09/SYLLABUS-2022-B.-Com-PA-.pdf"
+              },
+              {
+                "year": "2023-2024",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2024/04/B.Com_.-PA.pdf"
+              },
+              {
+                "year": "2024-2025",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/01/B.Com_.-PA.pdf"
+              },
+              {
+                "year": "2025-2026",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/10/B-Com-Pa-Syllabus.pdf"
+              }
+            ]
+          },
+          {
+            "key": "mphil",
+            "title": "M.Com",
+            "img": "/images/others/health-b-02.png",
+            "type": "curriculum",
+            "items": [
+              {
+                "year": "2020-2021",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/07/M.Com_.-2020-2021.pdf"
+              },
+              {
+                "year": "2021-2022",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2021/11/M.Com-2021-2022.pdf"
+              },
+              {
+                "year": "2022-2023",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2022/07/6D_MCom.pdf"
+              },
+              {
+                "year": "2023-2024",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2023/08/M.Com_.-2023-2024-Syllabus-Finalized-1.pdf"
+              },
+              {
+                "year": "2024-2025",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/01/M.Com_.pdf"
+              },
+              {
+                "year": "2025-2026",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/10/M-Com-Syllabus.pdf"
+              }
+            ]
+          },
+          {
+            "key": "phd",
+            "title": "Ph.D",
+            "img": "/images/others/health-b-02.png",
+            "type": "curriculum",
+            "items": [
+              {
+                "year": "2020-2021",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/07/Ph.D.-Commerce-2020-2021.pdf"
+              },
+              {
+                "year": "2022-2023",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2022/09/Commerce-2022-2023-Ph.D-Syllabus.pdf"
+              },
+              {
+                "year": "2023-2024",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2023/08/2023-2024-Ph.D-Syllabus-Commerece.pdf"
+              },
+              {
+                "year": "2024-2025",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/01/Ph.D.-Commerce.pdf"
+              },
+              {
+                "year": "2025-2026",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/10/Ph.D-commerce.pdf"
+              }
+            ]
+          }
+        ]
+      }
+    },
+
+    {
+      "tab": "Faculty",
+      "faculty": [
+        {
+          "name": "Dr. V. K. Gopalakrishnan",
+          "qualification": "",
+          "designation": "Professor",
+          "email": "",
+          "profile": "",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr.M.Sridhar Muthusami",
+          "qualification": "M.Sc., M.Phil., Ph.D., SET.",
+          "designation": "Associate Professor",
+          "email": "sridhar.m@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in//bio-data/arts/biochemistry/DR%20M%20SRIDHAR%20MUTHUSAMI.pdf",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Mr. S. Rajamanikandan",
+          "qualification": "M. Sc., M. phil., Ph. D.",
+          "designation": "Associate Professor",
+          "email": "",
+          "profile": "",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr.A.Ramakrishnan",
+          "qualification": "M.Sc., Ph.D",
+          "designation": "Assistant Professor",
+          "email": "ramakrishnan.a@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/bio-data/arts/biochemistry/Dr.%20A.%20Ramakrishnan.pdf",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr.Kongkona Saikia",
+          "qualification": "M.Sc.,Ph.D.",
+          "designation": "Assistant Professor",
+          "email": "kongkonasaikia.sobhasaikia@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2021/11/One-page-biodata_Kongkona.pdf",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr.Rathi M.A",
+          "qualification": "M.Phil.,Ph.D.",
+          "designation": "Assistant Professor",
+          "email": "rathi.muthaiyan@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2023/07/rathi-26.7.23.pdf",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr.Femil Selta D",
+          "qualification": "M.Sc., M.Phil.,",
+          "designation": "Assistant Professor",
+          "email": "femilselta.danielraja@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2023/07/femil-26.7.23.pdf",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr.K.Surekha",
+          "qualification": "M.Sc.,M.Phil.,Ph.D.,B.Ed.,",
+          "designation": "Assistant Professor",
+          "email": "surekha.kannan@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2023/07/Surekha-K-17.07.2023.pdf",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr.M.Bharathi",
+          "qualification": "Ph.D",
+          "designation": "Assistant Professor",
+          "email": "bharathi.m@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2023/07/Bharathi-M-17.07.2023.pdf",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Mrs.P. Nirmala Devi",
+          "qualification": "",
+          "designation": "Assistant Professor",
+          "email": "nirmaladevi.panneerselvam@kahedu.edu.in",
+          "profile": "",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        }
+      ]
+    },
+
+    {
+      "tab": "Infrastructure",
+      "items": [
+        {
+          "type": "laboratories",
+          "title": "Facilities laboratories List",
+          "content": [
+            "UG Biochemistry Lab I & II",
+            "PG Biochemistry Lab",
+            "Research Laboratory",
+            "Animal Tissue Culture Lab",
+            "Animal House of in vivo animal studies"
+          ]
+        },
+        {
+          "type": "equipment",
+          "title": "Major Research Equipments",
+          "content": [
+            "ELISA Reader",
+            "Thermal Cycler",
+            "Horizontal and Vertical Electrophoresis Unit",
+            "Wet Transfer Unit",
+            "Semi-dry Transfer Unit",
+            "Laminar Chamber for Animal Tissue Culture",
+            "CO2 Incubator",
+            "Inverted Phase Contrast Microscope",
+            "Fluorescence Microscope",
+            "Orbital Shaker",
+            "Rotary Evaporator",
+            "Laminar Chamber for Microbiology",
+            "Refrigerated centrifuge",
+            "Millipore Water System",
+            "Photo Fluorimeter",
+            "Centrifuge (4 bucket)",
+            "Colorimeter",
+            "Soxhlet Apparatus",
+            "Magnetic Stirrer",
+            "Incubator",
+            "Conductivity meter",
+            "Water bath",
+            "Electronic balance",
+            "Microscope",
+            "Hot air oven",
+            "Cyclo mixer",
+            "pH meter",
+            "Lyophilizer (Borg Scientific)",
+            "Bio-rad gel documentation (Biorad)",
+            "Individual Ventilated Caging System (IVC)",
+            "Cooling Microcentrifuge"
+          ]
+        },
+        {
+          "type": "gallery",
+          "slug": "department-of-biochemistry",
+          "images": [
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/Ultra-Violet-Visible-Spectrometer-150x150.png",
+              "alt": "Visible Spectrometer - Top Science College in Coimbatore",
+              "title": "Visible Spectrometer – Top Science College in Coimbatore"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/High-Perfomance-Liquid-Chromatography-150x150.png",
+              "alt": "Liquid Chromatography - Best college for Science in Coimbatore",
+              "title": "Liquid Chromatography – Best college for Science in Coimbatore"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/GAS-Chromatography-150x150.png",
+              "alt": "Gas Chromatography - Best Engineering college in India",
+              "title": "Gas Chromatography – Best Engineering college in India"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/fourier-trandform-infrared-spectroscopy-150x150.png",
+              "alt": "Infrared Spectroscopy - Best Science College in Tamilnadu",
+              "title": "Infrared Spectroscopy – Best Science College in Tamilnadu"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/Elisa-Plate-Reader-150x150.png",
+              "alt": "Elisa Plate Reader - Best Educational Institute in India",
+              "title": "Elisa Plate Reader – Best Educational Institute in India"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/bc_gallery1-150x150.png",
+              "alt": "Medical camp - Coimbatore Best Engineering college",
+              "title": "Medical camp – Coimbatore Best Engineering college"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/bc_gallery2-150x150.png",
+              "alt": "KAHE Volunteers - Coimbatore degree colleges",
+              "title": "KAHE Volunteers – Coimbatore degree colleges"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/bc_gallery3-150x150.png",
+              "alt": "Karpagam Group - Top 10 Arts Colleges in Coimbatore",
+              "title": "Karpagam Group – Top 10 Arts Colleges in Coimbatore"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/bc_gallery4-150x150.png",
+              "alt": "KAHE activities - Top college for Engineering",
+              "title": "KAHE activities – Top college for Engineering"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/03/pht-150x150.png",
+              "alt": "Lab experiment - Best Pharmacy College in Coimbatore",
+              "title": "Lab experiment – Best Pharmacy College in Coimbatore"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/03/pht-1-150x150.png",
+              "alt": "Initiatives - Best Arts and Science College in India",
+              "title": "Initiatives – Best Arts and Science College in India"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/03/pht-2-150x150.png",
+              "alt": "Student Projects - Top Engineering college",
+              "title": "Student Projects – Top Engineering college"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/03/pht-3-150x150.png",
+              "alt": "Projects at KAHE - Top college for Arts and Science",
+              "title": "Projects at KAHE – Top college for Arts and Science"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tab": "Publications",
+      "slug": "department-of-commerce",
+      "title": "Best Five Papers Faculty wise:",
+      "subtitle": "Paper publications by the Faculty Members",
+      "content": [
+        {
+          "faculty_name": "Dr R VELMURUGAN",
+          "content": [
+            "Velmurugan, R., Jothi, K., Sudarvel, J., & Senthilkumar, S. (2026). The role of infrastructure in developing and sustaining competitive advantage. In B. Christiansen & A. Zhuplev (Eds.), National competitive advantage amid rapid global transformation (pp. 201–222). IGI Global.",
+            "Velmurugan, R., Sudarvel, J., Bhuvaneswari, R., & Thirumalaisamy, R. (2026). A study of generative AI for energy consumption behavior analysis. In J. Reyes Juárez Ramírez, A. Kumar, & P. S. Rathore (Eds.), Enhancing renewable energy systems with generative AI (pp. 249–268). IGI Global.",
+            "Udayakumar, R., Abbas, H. M., Velmurugan, R., Vanathi, A., Sundaram, N. K., & Nailevich, I. R. (2025). Context-aware query interpretation in legal information systems. Indian Journal of Information Sources and Services, 15(3), 122–130.",
+            "Dharshnivishnupriya, Velmurugan, R., & Jegadeeswari (2025). [Title of the paper]. In R. Gayathri & N. Bhuvanesh Kumar (Eds.), Harnessing artificial intelligence, innovation and technology: A pathway to economic transformation and sustainable development in India (Vol. 1). Shanlax Publications.",
+            "Velmurugan, R., & Reeba, O. B. (2025). Digital payment satisfaction analysis using graph-based factor analysis technique: Graph theory for computer science."
+          ]
+        },
+        {
+          "faculty_name": "Dr V MATHAN KUMAR",
+          "content": [
+            "Bhardwaj, S., Seth, K., Verma, R., Kumar, V. M., Bhanu, D., & Kumar, M. (2025). Optimizing AI education for stakeholders: Leveraging the Bayesian optimization framework for enhanced learning. In Proceedings of the 2025 International Conference on Metaverse and Current Trends in Computing (ICMCTC).",
+            "Santhosh, K., & Mathan Kumar, V. (2025). Problems faced by coconut cultivators in Coimbatore. In Recent Research in Management, Accounting and Economics (RRMAE) (pp. 541–544).",
+            "Narmadha, R., Mathan Kumar, V., & Naveena, R. (2025). Financial inclusion of Pradhan Mantri Jan Dhan Yojana scheme in Dharapuram. In Recent Research in Management, Accounting and Economics (RRMAE) (pp. 536–540). Routledge.",
+            "Kolathappilly, A. B., & Mathan Kumar, V. (2024). Customer perception towards customer-centric strategies of private sector banks. Journal of Lifestyle and SDGs Review, 4(4), e03537–e03537.",
+            "Kolathappilly, A. B., & Mathan Kumar, V. (2024). Satisfaction level of customers on E-CRM. Journal of Lifestyle and SDGs Review, 4(4), e03549–e03549."
+          ]
+        },
+        {
+          "faculty_name": "Dr B GEETHABAI",
+          "content": [
+            "R.S.Deepa and Geetha Bai.B A Study on Production and Export of tea In South India International Journal Of multidisciplinary Educational Research Vol Oct 2016 ISSN : 2277- 7861 Impact Factor 4.527:IC val:5.16:ISI Vol:2.286",
+            "Geetha Bai Bhojan (2019) Energy Consumption and Gross Domestic Product in India, Journal of International Pharmaceutical Research 46(5): 438-440",
+            "Geetha Bai Bhojan (2021) Machine Learning based pattern classification in gender based entrepreneurial demographic study Turkish Journal of Physiotherapy and Rehabilitation 32(3)1020-1025"
+          ]
+        },
+        {
+          "faculty_name": "Dr S JEGADEESWARI",
+          "content": [
+            "S. Jegadeeswari, J. Sudarvel and R. Velmurugan, “ User preferences toward online shopping in Coimbatore district”, Recent Research in Management, Accounting and Economics (RRMAE), page no 95 -98. May, 2025",
+            "Yogeswaran, M , Jegadeeswari, S. Nandhini, A.and Swathi Newashini, S. “A study on emotional intelligence at work place with reference to engineering industry”, Recent Research in Management, Accounting and Economics (RRMAE),Page no 120 -123, May 2025",
+            "Regy Joseph, Dr. S Jegadeeswari, “Organizational Diversity Climate: A Key to Enhancing Employee Engagement and Performance in the Hospitality Industry”, African journal of bio medical research, https://africanjournalofbiomedicalresearch.com/index.php/AJBR ,Afr. J. Biomed. Res. Vol. 28(1s) (January 2025); 366-373.",
+            "Sulieman al-hawary; Sulieman , Regy Joseph , N. Raja , 4, S Jegadeeswari, Asokan Vasudevan , “Workforce diversity and employee job satisfaction: Mediating role of organizational climate in the hospitality sector in Kerala “ International Journal of Innovative Research and Scientific Studies, ISSN: 2617-6548, 8(3) 2025, pages: 1663-1673",
+            "Atul Bansal, K. Jothi, S. Jegadeeswari, M. Kalimuthu, T. Rajendran and S. Sridhar,” Graph-Based Model for Indian Stock Market Trends”, Graph Theory for Computer Science, Page no 431 – 447."
+          ]
+        },
+        {
+          "faculty_name": "Dr D VISHNU VARDHAN",
+          "content": [
+            "DV Vardhan, K.Jothi, LIC Policy holders utilization level towards online services in Tripur District (Emerging Technologies in Sustainable innovation, management and development, 2025)",
+            "VA Raj, DV Vardhan, A study on job satisfaction among tea plantation workers in Valparai Taluk, Coimbatore district, (Recent Research in Management accounting and economics, 2025)",
+            "S.Sudharshan, D. Vishnuvardhan, The effect of workforce diversity on job satisfaction of lecturers in Malaysia, (Recent Research in Management accounting and economics, 2025)",
+            "J.Sudarvel, D.VIshnu Vardhan, A Graph Analysis Model for Predicting Stock Market Trends Using Deep Learning (Graph Theory for Computer science, 2025)."
+          ]
+        },
+        {
+          "faculty_name": "Ms V HARIPRIYA",
+          "content": [
+            "Ms. V. Haripriya, (2024) Impact of Organisational Culture on the Effectiveness of Organisation with Reference to Agro Industry, Recent Research in Management, Accounting and Economics (RRMAE) Pg: 220 – 223.",
+            "Ms. V. Haripriya, (2024) User Satisfaction Towards E-Bikes, Recent Research in Management, Accounting and Economics (RRMAE) Pg: 572 – 575.",
+            "Ms. V. Haripriya, Dr. R. Parameswaran, (2025). A Study on the Impact of Emotional Intelligence on Employee Engagement in Hybrid Work Environment, International Scientific Journal of Engineering and Management (ISJEM) Pg: 1 – 6 (Volume: 04 Issue: 06 | June – 2025)",
+            "Ms. V. Haripriya, Dr. R. Parameswaran, (2025). Sustaining Engagement in the it Industry: The Interplay of Organizational Support and Employee Personality, Pg: 904 – 910 Advances in Consumer Research (Volume-2 | Issue-5 | October 2025)",
+            "Ms. V. Haripriya, Dr. R. Parameswaran, (2025). Impact of Employee Engagement on Job Satisfaction of It Employees, International Scientific Journal of Engineering and Management (ISJEM) Pg: 1 – 8 (Volume: 04 Issue: 11 | Nov – 2025)"
+          ]
+        },
+        {
+          "faculty_name": "Dr B RATHINAPRIYA",
+          "content": [
+            "Aswathy subramaniam & Rathnapriya, B. “Customer Satisfaction Towards Nostalgic Products”, in International Journal of Accounting and Economics Studies, 12(SI),2025, pg.86-92.",
+            "Aswathy subramaniam & Rathnapriya, B. (2024). Customer Preference Towards Nostalgic Products. Journal of Lifestyle and SDGs Review, 4(4), e03622. https://doi.org/10.47172/2965-730X.SDGsReview.v4.n04.pe03622",
+            "Dr.B.Rathnapriya and Abdul Rihaskhan, A“Occupational satisfaction of auto drivers in Coimbatore district”, in Recent Research in Management, Accounting and Economics (RRMAE) 2024,pg.56-59.",
+            "Dr.B.Rathnapriya and Rakulram, S. “A study talent management among college teaching staff in Coimbatore district”, in Recent Research in Management, Accounting and Economics (RRMAE) 2024, pg.465-469.",
+            "Dr.B.Rathnapriya and Dr.M.Gayathiri, Exploring the Consequences: Corporate Greenwashing’s Effect on Society”,in Shanlax International Journal of Arts, Science and Humanities, vol.11, Issue.3,Feb 2024, pp. 50–54."
+          ]
+        },
+        {
+          "faculty_name": "Mr E ARULPRAKASAM",
+          "content": [
+            "Mahintha T, Arulprakasam E, Chitra P., Sarojadevi R,” Employee engagement and its impact on organizational success” Book Chapter- Recent Research in Management, Accounting and Economics (RRMAE), Pp 173-175, 2025",
+            "Vignesh V.; Arulprakasam E.; Nandhini A.; Sarojadevi R.,” “The study of efficiency and effectiveness of warehouse management in the automobile manufacturing industry” Book Chapter – Recent Research in Management, Accounting and Economics (RRMAE), Pp 176-179, 2025",
+            "Surya K.S.; Sarojadevi R.; Suguanthi G.M.; Arulprakasam E.,” Profitability analysis of the selected India cement industry” Book Chapter- Recent Research in Management, Accounting and Economics (RRMAE), Pp 213-216, 2025",
+            "Muthukumar M.; Sarojadevi R.; Krishnaveni V.; Arulprakasam E.” Financial performance of Subam Papers Private Limited in Tirunelveli” Book Chapter- Recent Research in Management, Accounting and Economics (RRMAE), Pp 210-121, 2025",
+            "D. Vishnu Vardhan, K. Jothi, E. Arulprakasam, J. Sudarvel, V. Mathan Kumar, and R. Gopi, “LIC policy holders utilization level towards online services in Tirupur district”, Book Chapter Emerging Technologies In Sustainable Innovation, Management and Development, pp 172-179, 2025"
+          ]
+        },
+        {
+          "faculty_name": "Mr B SUJITH",
+          "content": [
+            "Kumar, M., Sujith, B., & Ranjith, R. (2025). Problems faced by employees in material handling in automobile industries. Recent Research in Management Accounting and Economics (RRMAE): A Case Study on Recent Research in Management Accounting and Economics, 260–263.",
+            "Indhumathi, M., Sujith, B., Kumar, M. A., Reshmi, S., & Sujitha, S. (2025). Employee perception toward training and development in private banks. Recent Research in Management Accounting and Economics (RRMAE): A Case Study on Recent Research in Management Accounting and Economics, 202–205.",
+            "Vivekhini, M., Ranjith, R., Nandhini, A., & Sujith, B. (2025). Job satisfaction and job involvement: Conceptual framework. Recent Research in Management Accounting and Economics (RRMAE): A Case Study on Recent Research in Management Accounting and Economics, 228–230.",
+            "Aishwarya, B., Reshmi, S., Sivakrithika, N., Sujith, B., & Sujitha, S. (2025). An analysis of employee attrition in the footwear industry. Recent Research in Management Accounting and Economics (RRMAE): A Case Study on Recent Research in Management Accounting and Economics, 164–168.",
+            "Abinaya, V., Amritha, S., Sumathi, G., Sujith, B., & Ranjith, R. (2025). Impact of welfare measures on job satisfaction of employees in the engineering industry. Recent Research in Management Accounting and Economics (RRMAE): A Case Study on Recent Research in Management Accounting and Economics, 256–259."
+          ]
+        },
+        {
+          "faculty_name": "Dr J JENIFER",
+          "content": [
+            "Dhanabhakyam M , Jenifer JEconomic Impacts of Adapting artificial Intelligence with competency mapping in the IT sector. (Commerce and Management Journal, Volume – 9, Issue – 2, Pageno: 159 – 165. Feb – 2024",
+            "Dhanabhakyam M, Jenifer J, Benchmarking the impact of Iot Innovations: Advancements, challenges and future trends in the IT landscape (Asian Journal of Management and Commerce, Volume 5(1), 209-211), 2024.",
+            "Dhanabhakyam M, Jenifer J, Evaluating the Employee benchmark and its implications for organizational success in the IT sector. (Metszet Journal, Volume 8(9), 302 -310), 2023.",
+            "Dhanabhakyam M, Jenifer J, A Contrastive study on employee performance and benchmarking in the selected IT industry (International Journal of Advance Research in Science, Communication and Technology, Volume 3(2), 524 – 528, 2023)",
+            "Dhanabhakyam M, Jenifer J, Crisis management and benchmarking combined during the pandemic in wipro company (International Journal of novel research and development, Volume 7(5), 688-394, 2022."
+          ]
+        },
+        {
+          "faculty_name": "Dr R JUDITH PRIYA",
+          "content": [
+            "R. Judith Priya, “Evaluating the Financial Performance of Roots Industries India Pvt. Ltd. using Economic Value Added(EVA) and Financial Leverage“, Rabindra Bharati University Journal of Economics, Vol.XXIX, Pg.154-160, June 2025",
+            "⁠R. Judith Priya, “Financial Performance Analysis of Amazon. Com. Inc using Sales Forecast Analysis, Ratio Analysis and Risk Assessment Analysis” , Business Studies, Vol.CLVI, No.6, Pg. No. 146-159, June 2025",
+            "R.Judith Priya, ” A Comprehensive Analysis on ELGI Equipments Limited using Comparative Statement, Cash, Conversion Cycle and Commensize Statement”, Arthshastra, Indian Journal of Economics and Research, Vol.14, Iss,01, Pg. No. 163-169 June 2025",
+            "⁠R.Judith Priya, “A Financial Perspective on Business Growth and Stability Analysis using Cash Flow Statement”, IPE Journal of Management, Vol.15, No,9, Pg. No.139-144, June 2025",
+            "⁠R. Judith Priya, “Financial Performance Evaluation of Roots Industries India Pvt. Ltd. using Dupont and Trend Analysis”, Arthshastra, Indian Journal of Economics and Research, Vol.14, No.5, Pg. No.170-178, June 2025"
+          ]
+        },
+        {
+          "faculty_name": "Dr P G PRIYADARSINI",
+          "content": [
+            "Priyadarsini P.G, Dr. K. Poorna, “A Comprehensive Bibliometric Analysis of Mobile Health (mHealth) Research”, African Journal of Biomedical Research, ISSN 1119-5096, Vol.28, Issue 1, Page No. 87-93, Published 2024.",
+            "Priyadarsini P.G, Dr. K. Poorna, “Integration of mHealth and Sensors in Healthcare”, CAHIERS MAGELLANES-NS, ISSN 1624-1940, Vol.6, Issue 2, Page No. 3592-3607, Published 2024.",
+            "Priyadarsini P.G, Dr. K. Poorna, “A Bibliometric Study on mHealth and Artificial Intelligence”, Shodh Kosh: Journal of Visual and Performing Arts, ISSN 2582-7472, Vol.5, Issue 7, Page No. 38-46, Published 2024.",
+            "Priyadarsini P.G, Dr. K. Poorna, “Managing Long-term Conditions through mHealth Technology”, International Journal of Innovative Research in Technology, ISSN 2349-6002, Vol.11, Issue 3, Page No. 344-349, Published 2024.",
+            "Priyadarsini P.G, Dr. K. Poorna, “Overview about Cybercrime in India”, Journal of Emerging Technologies and Innovative Research, ISSN 2349-5162, Vol.11, Issue 6, Page No. 346-353, Published 2024."
+          ]
+        },
+        {
+          "faculty_name": "Dr M SIVAPRAKASAM",
+          "content": [
+            "Dr.M.Sivaprakasam. “Satisfaction Costumers On Organic Products in Coimbatore City” ( Kanpur Philosophers- ISSN-2348-8301, Volume- IX, Issu,e – II, No: 2 2022)",
+            "Dr.MSivaprakasam & Dr.R.Jayachandran “A Study on Gold Exchange Traded Funds Performance and Relationship with Gold in India” (Journal of the Oriental Institute – ISSN-0030-5324, Volume- 72, Issue – 02, No: 4 , June – 2023)",
+            "Dr.M.Sivaprakasam & Mr.AJ.Jones Miller “Study on Cyber Security Trade in International Market” (Emerging Trends in Commerce And International Business – ISBN978-81-965284-4-7, October – 2023)",
+            "Dr.M.Sivaprakasam & Mr.AJ.Jones Miller “A Study on Corporate Tax Collection in India” (International Journal of Creative Research Thoughts – ISSN-2320-2882, Volume- 11, Issue – 12 December – 2023)",
+            "Dr.M.Sivaprakasam & Mr.AJ.Jones Miller “A Study on Retail Investors Market Risks and Behaviour Risks in Derivate Markets in India” (International Journal of Cultural Studies and social Sciences – ISSN2347-4777, Volume- 20, Issue – 01, Ni-57, January- June : 2024)"
+          ]
+        }
+      ]
+    },
+    {
+      "tab": "Events",
+      "slug": "department-of-commerce",
+      "items": [
+        {
+          "title": "MoU",
+          "content": [
+            "MoU with International Skill Development Corporation (ISDC) integrated with Association of Charted Certified Accountants (ACCA) UK Professional body of Chartered Accountants, June, 2020",
+            "MoU with TATA Consultancy Services B.Com (BPS) Programme, chief guest Mr. Rajiv Noronha, Vice President and Head, Organizational Effectiveness, Tata Consultancy Services on May 04, 2019.",
+            "MoU with Institute of Cost Accountant of India on June 01, 2018.",
+            "MoU with Insurance Institute of India Department of Commerce MoU With Insurance Institute of India, Chief Guest Mr. G. Venugopal, Chairman, Insurance Institute of India, Mumbai on April 05, 2017."
+          ]
+        },
+        {
+          "title": "Workshop",
+          "content": [
+            "Workshop on “Protecting IPR and IP Management for Start-ups” on 22.12.2025.",
+            "Workshop on “Protecting IPR and IP Management for Start-ups” on 15th December 2025.",
+            "Workshop on “Accounts in Accounting Software @ Tally ERP” Chief Guest Dr. D. C. Stalin, Assistant Professor in Accounts and Finance, Sur University College, Sultanate of Oman on 19th February.",
+            "Workshop on Organised “Live stock trading Demo” for Faculty by Shri.Ranganathan M., Assistant Manager, Daily Gong, MSE Fsl, Chennai. on 27th January 2021.",
+            "Workshop on Research Methodology on Social Sciences on 28 and 29th February 2020.",
+            "Workshop on “Tally”, Chief Guest Mr. Venkatachalapathy, Tally Project Head, AXN Infotech, Coimbatore on 03rd December 2019.",
+            "Workshop on “Advanced Excel”, Chief Guest Mr. Parthasarathy on 14th March 2019",
+            "Workshop on Research Implications of GST, Chief Guest Mr. Algau Pandi, Corporate, Tally and GST Trainer, Kalvi Educational Trust, Coimbatore on 03rd May 2017."
+          ]
+        },
+        {
+          "title": "BIZ COM Association Activities",
+          "content": [
+            "National Level Inter Collegiate Meet on February 27, 2020.",
+            "National Level Inter Collegiate Meet on March 03, 2017.",
+            "National Level Inter Collegiate Meet on March 08, 2016."
+          ]
+        },
+        {
+          "title": "Guest Lecture",
+          "content": [
+            "Guest lecture on “Building a Discrimination-Free Community” on 04.09.2025.",
+            "“Spotlighting Entrepreneurship as a Career”, Chief Guest Mr.M. Ramesh Kanna, Assistant Professor,M.Kumarasamy College of Engineering (Autonomus) Karur, Coimbatore on 25th November 2021.",
+            "“How to overcome the Hurdles to Begin Start – UP”, Chief Guest Dr.H.vinesh Ramamoorthy, Assistant Professor, Sri Krishna College of Arts & Science , Coimbatore on 23rd November 2021.",
+            "“Entrepreneurship Skill development Amoung Students”, Chief Guest Dr.Sethupathy K, Assistant Professor & Head, Department Of Management Studies, St. Joseph University, Nagaland, Coimbatore on 14th August 2021.",
+            "“Expectation of Corporates With Alumnus Interaction”, Chief Guest Ms. Jananai .R, Tata Consultancy Services (TCS) Specilaist of Balance Sheet Subscript Chennai & Ms.Harshnee.P, Tata Consultancy Services (TCS) Information Process Enabler Chennai, Coimbatore on 31st  July 2021.",
+            "“Protagonist of CSR in Business Strategy”, Chief Guest Dr.J.A.Raja ,Assistant Professor,Vishwa Chethana degree College, Bengaluru, Karnataka, Coimbatore on 20th July 2021.",
+            "“Virtual Parents Meeting”, Chief Guest Dr.V.Krishnaveni, Coordinator, Department of Commerce- Department of B.com (PA) & (BPS) Karpagam Academy of Higher Education, Coimbatore on 17th July 2021.",
+            "“Glimpse on Consumer Protection Act”, Chief Guest Adv. John Neelankavil. Adcocate in Kerala High Court, Coimbatore on 18th June 2021.",
+            "“Leadership Communication”, Chief Guest Ms.Reshma. K, Assistant Professor, Departement Of Commerce St.Aloysius College Kerala,Coimbatore on 14th & 15th May 2021.",
+            "“Artificial Intelligence in Marketing”, Chief Guest Dr. S. Kumar Chandar, Associate Professor, School of Business & Management, CHRIST (Deemed to be University), Coimbatore on 27th April 2021.",
+            "“Corporate Etiquette”, Chief Guest Ms. Frieda Manjaly, IT Operations Consultant, Accenture’s IT Infrastructure services, Coimbatore on 22nd April 2021.",
+            "“Awareness of SAP”, Chief Guest Mrs. Jayachithra Mayilsamy,Head, Curriculum Development, Neogenics Pvt. Ltd, Coimbatore on 10th April 2021.",
+            "“Rudimentary Research”, Chief Guest Dr.R.bhuvaneshwari , Assistant Profesor,Departement of BBA(BPM),PSGR Krishnammal College For Women, Coimbatore on 9th April 2021.",
+            "“Competing Similar with Business Communication Pattern”, Chief Guest Mr.Vijaykumar, General Manager, Neogenics Pvt. Ltd, Coimbatore on 25th March 2021.",
+            "“Income Tax Forum”, Chief Guest Mr.A.Sarfudeen, Senior software Trainer, Institute of Computer Accountant, Elysium Academy ,Coimbatore on 23rd march 2021.",
+            "“Glimpse on Women Leadership”, Chief Guest Dr. Raji Jennet, Assistant Professor, Department of management Rathinam College, Coimbatore11th march 2021.",
+            "Guest Lecture on “Recent Proclivities in Banking Sector” Chief Guest M.M. Joseph, Certified Associate, Indian Institute of Banker, New Delhi on 19th February 2021.",
+            "Guest Lecture on “ Budget Meet – 2021 : Sectorial Analysis” by Mr. Amnnamalai, Annamalai Capital P Ltd, Coimbatore, on 16th February 2021 .",
+            "Webinar on “Indian Accounting Standards” R .V.B. Madavan, Founder Trustee of Aram Foundation Charitable Trust, Coimbatore. On 3rd February 2021",
+            "Webinar on “Awareness Programme on Smart Shopping” Student Driven Activity on 3rd February 2021.",
+            "Webinar on “International Financial Reporting Standards, Dr.s.Karthick, Associate Professor in Commerce, Kalasalingam Academy of Research and Education, Krishnankoil. On 29th January 2021.",
+            "Guest Lecture on “Skillsets of Entrepreneur” Wednesday, R. PREETHA, Professor & Head, Department of Management, VLB Arts & Science College, Coimbatore. on 27th January 2021",
+            "Webinar on “Innovative Marketing Strategies” Student Driven Activity on 23rd January 2021.",
+            "Webinar on “Online Talent Quest Competition 2021” Student Driven Activity  on 09th January 2021.",
+            "Guest Lecture on “The Art of Public Speaking” Cheif Guest Dr.M.Suryakumar, Assistant Professor, Department of Management, Periyar University, Salem. On 5th January 2021.",
+            "Webinar on “Student Self – Driven Activity”, Dr.T.Kalakumari, Assistant Professor, KAHE, on 24th December 2020.",
+            "Guest Lecture on “Hardwork Always Pays off” Chief Guest Dr. K. K. Shyam Umasankar, Shyam Foundation, Coimbatore on 30th September 2020.",
+            "Webinar on “Budding Auditors & Financial Professionals”  Chief Guest Mr. Calvin Fredy Paul, Regional Manager – Business Development – International Skill Development Corporation on 24 – 26th September 2020.",
+            "Guest Lecture on “Emerging Opportunities for Commerce Graduates” Chief Guest Thiru CA. K. JALAPATHI, Vice Chairman – SIRC of ICAI Coimbatore on 01st August 2020.",
+            "Webinar on “Managing Emotions for Maximum Results in a Classroom” Chief Guest, Ms.Devi Suganya, Founder of Aakruthi Educational Trust and NLP Coach, Consoler, Corporate trainer and Speaker, Bangalore on 25th June 2020.",
+            "Webinar on “A Cognitive Exploration of the Self” Chief Guest, Dr.Navya, Associate Professor, Chimaya Institute of Technology, Kannur, Kerala on 02nd June 2020.",
+            "Webinar on  “Developing People Skills” Chief Guest Dr. Benazir.Y, Founder and Managing Director, Edu Care Academy, Coimbatore. on 20th May 2020.",
+            "Webinar on “Adopting to the new benchmark in future” Chief Guest Dr. R.PADMA, Associate Professor, Department of Commerce, Sree Saraswathi Thiyagaraja College, Pollachi on 15th May 2020",
+            "Webinar on “Building Entrepreneurial Eco system –After COVID 19” Chief Guest Dr. A IYAPPAN, ICSSR Post Doctoral Fellow, Alagappa Institute of Management. Alagappa University, Karaikudi on 15th May 2020",
+            "International Webinar on “Transforming you from Good to Great” Chief Guest Dr. S. Dhayanithi, Business Instructor, Shinas Vocational College, Shinas, on 13th May 2020.",
+            "National webinar on “Inculcating Entrepreneurial Competencies” chief Guest, Dr. GANESH.B, Assistant Professor & Entrepreneurship Development Cell Coordinator, Kerala Institute of Co-Operative Management, Thiruvananthapuram, Kerala on 11th May 2020.",
+            "“Financial Inclusion”, Chief Guest Thiru. J. Vanangamudi, Senior Manager (Retd.), Canara Bank, Director, JV Associates and JV Academy, Director, SSPT Logistics, Coimbatore on 04th October 2019.",
+            "“Behavioral Finance”, Chief Guest Dr. Malabika Deo, Professor, Dept. of Commerce, Pondicherry Central University, Pondicherry on 11th October 2019.",
+            "“GST – An Overview”, Chief Guest Dr. V. Balachandran, Professor, Dept. of Management, Central University of Kerala on 06th December 2019.",
+            "“Recent Research Areas in Social Sciences”, Chief Guest Dr. K. Sankaran, Former Associate Professor and Head, Department. of Commerce. DB Jain College, Chennai on 14th December 2019.",
+            "“A Glimpse of Insurance”, Chief Guest Mr. V. Vetrivel, Secretary, Insurance Institute of India on 14th July 2018.",
+            "“Expectation from Industry”, Chief Guest CMD Mani Krishnamurthy, Indian Navy Retd., on 09th August 2018.",
+            "“Entrepreneurship Development”, Chief Guest Ms. Nivethitha, Proprietor, Bills and Berry, Coimbatore on 19th September 2018.",
+            "“Financial Statement Analysis”, Chief Guest Dr. M. Selvam, Professor, Department. of Commerce, Alagappa University, Karaikudi on 13th October 2018."
+          ]
+        }
+      ]
+    }
+  ]
+}
