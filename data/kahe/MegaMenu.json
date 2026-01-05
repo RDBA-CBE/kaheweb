@@ -197,7 +197,7 @@
             },
             {
               "title": "Department of Biotechnology",
-              "link": "/kahe/academics/engineering/biotechnology/"
+              "link": "/kahe/academics/engineering/department-of-biotechnology/"
             },
             {
               "title": "Department of Chemical Engineering",
@@ -205,11 +205,11 @@
             },
             {
               "title": "Department of Civil Engineering",
-              "link": "/kahe/academics/engineering/civil-engineering/"
+              "link": "/kahe/academics/engineering/department-of-civil-engineering/"
             },
             {
               "title": "Department of Computer Science and Engineering",
-              "link": "/kahe/academics/engineering/computer-science-and-engineering/"
+              "link": "/kahe/academics/engineering/department-of-computer-science-and-engineering/"
             },
             {
               "title": "Department of Cyber Security",
@@ -217,11 +217,11 @@
             },
             {
               "title": "Department of Electrical and Electronics Engineering",
-              "link": "/kahe/academics/engineering/electrical-electronics-engineering/"
+              "link": "/kahe/academics/engineering/department-of-electrical-electronics-engineering/"
             },
             {
               "title": "Department of Electronics and Communication Engineering",
-              "link": "/kahe/academics/engineering/electronics-communication-engineering//"
+              "link": "/kahe/academics/engineering/department-of-electronics-communication-engineering//"
             },
             {
               "title": "Department of Food Technology",
@@ -229,7 +229,7 @@
             },
             {
               "title": "Department of Mechanical Engineering",
-              "link": "/kahe/academics/engineering/mechanical-sciences-engineering/"
+              "link": "/kahe/academics/engineering/department-of-mechanical-sciences-engineering/"
             },
             {
               "title": "Supportive Department",
@@ -237,7 +237,7 @@
               "children": [
                 {
                   "title": "Science and Humanities",
-                  "link": "/kahe/academics/engineering/science-and-humanities/"
+                  "link": "/kahe/academics/engineering/department-of-science-and-humanities/"
                 }
               ]
             }
