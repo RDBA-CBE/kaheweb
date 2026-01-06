@@ -3,27 +3,37 @@ import "venobox/dist/venobox.min.css";
 
 import TabMenu from "./TabMenu";
 import TableCom from "./TableCom";
-import ImageLink from "./ImageLink";
+
 import Commitee from "./About/Commitee";
-import ImageCard2 from "./ImageCard2";
+
 import ImageCard from "./ImageCard";
 import { FirstLetterUp } from "@/utils/functions.utils";
-import TimeLine from "./TimeLine";
+
+import SliderContent from "./SliderContent";
+import AddContentCard from "./AddContentCard";
 
 const IQACInnerTab = ({ tabSections, tabContent }) => {
   const tabItems = tabContent;
 
   console.log("tabItems", tabItems);
 
-  const objectivesContent = tabContent?.find((item) => item?.tab == "objectives");
-  const membersContent = tabContent.find(
-    (item) => item.tab == "members"
+  const objectivesContent = tabContent?.find(
+    (item) => item?.tab == "objectives"
   );
-  const trainMethodContent = tabContent.find(
-    (item) => item.tab == "training_methodology"
+  const membersContent = tabContent.find((item) => item.tab == "members");
+  const momContent = tabContent.find((item) => item.tab == "mom");
+
+  const initiativesContent = tabContent.find(
+    (item) => item.tab == "initiatives"
   );
 
+  const nirfContent = tabContent.find((item) => item.tab == "nirf");
 
+  const aqarContent = tabContent.find((item) => item.tab == "aqar");
+
+  const naacContent = tabContent.find((item) => item.tab == "naac");
+
+  const contactContent = tabContent.find((item) => item.tab == "contact");
 
   return (
     <>
@@ -31,8 +41,6 @@ const IQACInnerTab = ({ tabSections, tabContent }) => {
         <div className=" rbt-inner-onepage-navigation sticky-top">
           <TabMenu sections={tabSections} DontshowNav={true} />
         </div>
-
-        
 
         {objectivesContent && (
           <section id="objectives">
@@ -72,7 +80,52 @@ const IQACInnerTab = ({ tabSections, tabContent }) => {
           </section>
         )}
 
-       
+        {momContent && (
+          <section className="mom" id="mom">
+            <SliderContent data={momContent?.mom} />
+          </section>
+        )}
+
+        {initiativesContent && (
+          <section className="section-bg1 " id="initiatives">
+            {initiativesContent?.title && (
+              <h2 className="decor-ti mb-2">
+                {FirstLetterUp(initiativesContent?.title)}
+              </h2>
+            )}
+            {initiativesContent?.initiatives?.map((item, index) => (
+              <SliderContent
+                key={index}
+                data={item}
+                order={index % 2 === 0 ? "imageFirst" : ""}
+              />
+            ))}
+          </section>
+        )}
+
+        {nirfContent && (
+          <section className=" " id="nirf">
+            <Commitee data={nirfContent?.nirf} />
+          </section>
+        )}
+
+        {aqarContent && (
+          <section className="mom" id="aqar">
+            <SliderContent data={aqarContent?.aqar} />
+          </section>
+        )}
+
+        {naacContent && (
+          <section className="mom" id="naac">
+            <SliderContent data={naacContent?.naac} />
+          </section>
+        )}
+
+        {contactContent && (
+          <section id="contact">
+            <AddContentCard data={contactContent?.contact} />
+          </section>
+        )}
       </div>
     </>
   );

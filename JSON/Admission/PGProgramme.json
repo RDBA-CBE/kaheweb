@@ -1,0 +1,129 @@
+{
+  "bannerCon": {
+    "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+    "title": "Post Graduate Programmes",
+    "bannerCon": "To be a leading institution in the field of education, providing quality education and training to students and professionals.",
+    "applyLink": "/"
+  },
+  "PgProgramme": {
+    "title": "Post Graduate Programmes",
+    "content": [
+      {
+        "tabTi": "Arts & Science",
+        "tabId": "arts-science",
+        "title": "Faculty of Arts, Science, Commerce and Management",
+        "items1": [
+          {
+            "src": "/images/category/image/web-design.jpg",
+            "content": "M.A. English"
+          },
+          {
+            "src": "/images/category/image/web-design.jpg",
+            "content": "MBA"
+          },
+          {
+            "src": "/images/category/image/web-design.jpg",
+            "content": "MCA"
+          },
+          {
+            "src": "/images/category/image/web-design.jpg",
+            "content": "M.Com."
+          },
+          {
+            "src": "/images/category/image/web-design.jpg",
+            "content": "M.Sc. Computer Science"
+          },
+          {
+            "src": "/images/category/image/web-design.jpg",
+            "content": "M.Sc. Chemistry"
+          },
+          {
+            "src": "/images/category/image/web-design.jpg",
+            "content": "M.Sc. Physics"
+          },
+          {
+            "src": "/images/category/image/web-design.jpg",
+            "content": "M.Sc. Mathematics"
+          },
+          { "src": "/images/category/image/web-design.jpg", "content": "M.Sc. Biochemistry" },
+          { "src": "/images/category/image/web-design.jpg", "content": "M.Sc. Biotechnology" },
+          {
+            "src": "/images/category/image/web-design.jpg",
+            "content": "M.Sc. Microbiology"
+          }
+          
+        ]
+       
+      },
+      {
+        "tabTi": "Engineering",
+        "tabId": "engineering",
+        "title": "Faculty of Engineering",
+        "items": [
+          {
+            "src": "/images/category/image/web-design.jpg",
+            "content": "M.E. Structural Engineering"
+          },
+          {
+            "src": "/images/category/image/web-design.jpg",
+            "content": "M.E. Computer Science and Engineering"
+          },
+          {
+            "src": "/images/category/image/web-design.jpg",
+            "content": "M.E. Power Systems Engineering"
+          },
+          {
+            "src": "/images/category/image/web-design.jpg",
+            "content": "M.E. VLSI Design"
+          },
+          {
+            "src": "/images/category/image/web-design.jpg",
+            "content": "M.E. CAD/CAM Robotics"
+          }
+        ]
+      },
+      {
+        "tabTi": "Architecture",
+        "tabId": "architecture",
+        "title": "Faculty of Architecture, Design and Planning",
+        "items": [
+          {
+            "src": "/images/category/image/web-design.jpg",
+            "content": "M.Arch. Advance Design"
+          },
+          {
+            "src": "/images/category/image/web-design.jpg",
+            "content": "M.Plan. Town and Country Planning"
+          },
+          {
+            "src": "/images/category/image/web-design.jpg",
+            "content": "Master of Building Engineering and Management"
+          }
+        ]
+      },
+      {
+        "tabTi": "Pharmacy",
+        "tabId": "pharmacy",
+        "title": "Faculty of Pharmacy",
+        "items": [
+          {
+            "src": "/images/category/image/web-design.jpg",
+            "content": "Pharm. D."
+          },
+          {
+            "src": "/images/category/image/web-design.jpg",
+            "content": "M.Pharm. Pharmaceutical Analysis"
+          },
+          {
+            "src": "/images/category/image/web-design.jpg",
+            "content": "M.Pharm. Pharmaceutical Chemistry"
+          },
+          {
+            "src": "/images/category/image/web-design.jpg",
+            "content": "M.Pharm. Pharmaceutics"
+          }
+        ]
+      }
+    ]
+  }
+}
