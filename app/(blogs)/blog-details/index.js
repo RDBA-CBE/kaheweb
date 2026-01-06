@@ -1,7 +1,6 @@
 "use client";
 
 import { usePathname } from "next/navigation";
-
 import { Provider } from "react-redux";
 import Store from "@/redux/store";
 import Context from "@/context/Context";
