@@ -359,7 +359,8 @@
           "src": "/images/team/team-11.png",
           "iconSrc": "/images/Kahe/Innerpages/education.png",
           "target": "_blank"
-        },{
+        },
+        {
           "name": "Mrs.S.Nandhini",
           "qualification": "M.E., Ph.D",
           "designation": "Assistant Professor",
@@ -479,47 +480,47 @@
           "slug": "department-of-chemical-engineering",
           "images": [
             {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/ci1-348x460.png",
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/cse1-571x380.png",
               "alt": "",
               "title": ""
             },
             {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/ci2-348x468.png",
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/cse2-591x395.png",
               "alt": "",
               "title": ""
             },
             {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/ci3-330x434.png",
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/cse3-558x369.png",
               "alt": "",
               "title": ""
             },
             {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/ci5-415x469.png",
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/04/UE-Lab-1-1024x768.jpeg",
               "alt": "",
               "title": ""
             },
             {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/1-6-660x887.jpg",
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/04/I-608-1024x473.jpeg",
               "alt": "",
               "title": ""
             },
             {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/2-5-530x678.jpg",
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/04/I-609-1024x768.jpeg",
               "alt": "",
               "title": ""
             },
             {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/3-4-614x697.jpg",
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/04/I-605-1024x576.jpeg",
               "alt": "",
               "title": ""
             },
             {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/4-1-641x896.jpg",
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/04/I-606-1024x576.jpeg",
               "alt": "",
               "title": ""
             },
             {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/5-1-1024x609.jpg",
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/04/Computer-Lab-3-1024x473.jpeg",
               "alt": "",
               "title": ""
             }
@@ -529,7 +530,7 @@
     },
     {
       "tab": "Publications",
-      "slug": "department-of-chemical-engineering",
+      "slug": "department-of-computer-science-engineering",
       "title": "Best Five Papers Faculty wise:",
       "subtitle": "Paper publications by the Faculty Members",
       "content": [
@@ -551,92 +552,176 @@
     },
     {
       "tab": "Events",
-      "slug": "department-of-chemical-engineering",
+      "slug": "department-of-computer-science-engineering",
       "items": [
         {
-          "title": "Guest Lecture",
+          "title": "National Conference / Seminar / Symposium",
           "content": [
-            "Guest Lecture on “Advanced materials in Structural Engineering and its Applications” on 24.09.2025.",
-            "M. Sumesh, Assistant Professor, Department of Civil Engineering, KAHE – Delivered Lecture Series (Invited Talk) on “Microstructure Characteristics of Cement and Concrete Composites” for PhD students in the Faculty of Engineering, University of Malaya, Malaysia from 13th Nov to 23rd Nov, 2020.",
-            "Guest lecture on Estimating the quantity of RCC Structures by K.Mohandas, HoD & Professor, Department of Civil Engineering, Ashoka Institute of Engineering and Technology, Hyderabad on 30.09.2020",
-            "S.Pratheba, Assistant Professor organized the Guest Lecture on “Hydrology and Water Resources” Dr. KB. Srinivasan, Manager – Projects, Sreevatsa Real Estates Pvt Ltd, Coimbatore, Tamilnadu, India on Aug 08, 2020.",
-            "Solai Mathi, Assistant professor organized the Guest Lecture on “Advanced Solid Mechanics” by Mr.N.Chidambaram, Assistant Professor, Department of Civil Engineering, J.J. College of Engineering and Technology, Tiruchirappalli on Feb 01, 2020.",
-            "M. Sumesh, organized a Guest Lecture on “Ground Improvement Techniques” by M. Samuel Thanaraj, Nehru Group of Institution, Coimbatore on Jan 24, 2020.",
-            "P. Preethi, Assistant professor organized the Guest Lecture on “Advanced Structural Analysis” by Mr.S.Aravind, Assistant Professor, Department of Mechanical Engineering, Karpagam Academy of Higher Education, Coimbatore on Jan 20, 2020.",
-            "Endowment Lecture on conservation of Water Resources in Modern Society by Mr. K. Kalidasan President, Osai Environmental Organisation Coimbatore on June 19, 2019.",
-            "Guest lecture on “Ground Improvement Techniques” by Dr R Kuberan on February 18, 2019.",
-            "Guest Lecture on “Concrete Technology” by B.Srinvasan, Project Manager, Sreevatsa Real Estate Pvt. Ltd on December 20, 2018.",
-            "Guest lecture on “Swachh Bharat” by Shri.Kana Ram Godha, Senior Manager, Sanitation & Livelihoods, Ministry of Housing and Urban Affairs, New Delhi on September 04, 2018.",
-            "Guest lecture on “Design of RC Structures” by Dr.P.Vinayagam Senior Grade on August 24, 2018.",
-            "Guest lecture on “Surveying and Total Station” by E.D.Vishwanath on July 27, 2018.",
-            "Guest Lecture on “Soil Sampling Techniques” by S.Elaiyaraja Professor on July 13, 2018.",
-            "Guest Lecture on Carrier Guidance & Entrepreneurship by Mega Bharathi on July 11, 2018.",
-            "Construction Management & Techniques by Mr.B.Srinivasan, Project Manager Sreevatsa Construction, Coimbatore on July 12, 2017.",
-            "Green Building Concepts by Mr.B.Srinivasan, Project Manager / Sreevatsa Construction, Coimbatore on February 27, 2017.",
-            "Environmental Engineering –I by Elangovan & Superintend Engineering / PWD Aliyar Dam on October 04, 2016.",
-            "Prestressed Concrete by Dr.V.G.Srisanthi & Associate Professor / Coimbatore Institute of Technology, Coimbatore on August 24, 2016.",
-            "Non-destructive technique Practices by Mr.B,Lawrence, CEO/A+CADD Center on January 04, 2016."
+            "Third National Conference “Technical Innovation and Advancement in Computational Science” (NCTIACS -24) -held on Feb 09, 2024.",
+            "Department of Computer Science and Engineering conducted the First International Conference on Emerging Research in Computational Science – 2023 held on 07th – 9th December at Karpagam Academy of Higher Education, Coimbatore brought together around 300 participants from various academic colleges and industry across the globe.",
+            "The Department of CSE has organized a Second National Conference on ‘Technical Innovation and Advancement in Computational Science – NCTIACS -23’-held on 06th February 2023 Ms. K.Sathya, Regional Sales Manager, Dell Technologies, Coimbatore,Ms. Salonisinghal Project Manager, Intel Digital Asia Pacific & amp are invited.",
+            "The Department of CSE has organized a National Level Technical Symposium”RISOVOX-23” on 9thFeburary 2023The keynote session was presented by the eminent Mr.P.Thirumoorthy Tech Lead, TrusTrace, Coimbatore.",
+            "Department of CSE organized an “International Virtual Conference on ‘Advancements in Computational Sciences’”- Alexander Muthurengan Murugaiyan, Senior Lecturer, Department of Computer and Information Science, University of Seychelles, East Africa, Gokulnath Baskaran, Network Architecture, Cognizant Worldwide Limited, London, United Kingdom Rinesh S, Assistant Professor, Department of Computer Science, Jigjiga University, Ethiopia were invited.as Chief guest held on 09 th April 2021.",
+            "Dr.B.Arunkumar, delivered Machine Learning Paradigm-Seminar on AICTE sponsored STTP Organised by Sri Krishna College of Engineering, Coimbatore on 9th December,2020",
+            "Dr.R.Dhanapal, delivered seminar on Network Tools and Practices-Vivekananda College of Engineering for Women-Department of ECE, 18thNovember,2020.",
+            "Department of Computer Science and Engineering organizes National level Technical  Symposium named “AURA 2k20” on 17.02.2020.",
+            "A Seminar on Design Thinking, Nair Vishal Vijay , EDP Coordinator, Karunya Institute of Technology and Sciences, Deemed to be University for II and III Year Students on 11.12.19",
+            "Department of Computer Science and Engineering organised State Level Conference on Advancements in Computational Sciences- Mr.K.Santhosh Kumar, Social Media Analyst, Accent Techno Soft, CBE.delivered the keynote address on 10 th March, 2020 &amp; 11 th March, 2020.",
+            "A Seminar on Digital Electronics Mr.K.Moorthi, Chief Trainer(Retd) in Telecommunication at Signal and Telecommunication Workshop,Southern Railways, Podhanur for II year Students on 28th  August 2019(FN), 29th  August 2019, 30th  August 2019.",
+            "A National Level Conference on Computational Sciences organized by the Department of CSE on April 04, 2018. 82 Participants from various Engineering colleges have attended the Conference.",
+            "A National Level Conference on Advancement in Computational Sciences’17 was organized by the Department of CSE on February 18, 2017. Mr.Vishnu Potty, Vice President, Cognizant Technology Solutions, Chairman- CSI, Coimbatore Chapter was the resource person.",
+            "A National Level Technical Symposium on Innovation in IT was organized by the Department of CSE on February 07, 2017. The invited speaker was Dr.N.K.Karthikeyan, Professor & Head, Dept of IT, Karpagam College of Engineering, Coimbatore.",
+            "A National Level Conference on Wireless, Mobile Computing and Vehicular Networking was organized by the Department of CSE on April 05, 2016. The Experts were Dr.P.Yogesh, Professor, Dept of ICT, Anna University, Guindy Campus, Chennai and Dr.M.Marikannan, Professor, Dept of CSE, IRTT, Erode.",
+            "A National Level Technical Symposium DAEMON 2K16 was organized by the Department of CSE on February 16, 2016.",
+            "CSE Department has organized a Seminar on Internet of Things on January 06, 2016. Mr.Manikandan, Project Engineer, Newareeliya Soft Tech Pvt. Ltd, Coimbatore.",
+            "A National Level Conference on Emerging Trends in Information technology (NCETIT) was organized by the Department of CSE on February 26, 2015. 47 Participants from various Engineering colleges have attended the Conference.",
+            "A National Level Technical Symposium was organized by the Department of CSE on January 22, 2015. A total number of 129 Participants from various Engineering colleges have attended the Symposium.",
+            "A National Level Conference on Emerging Trends in Information technology (NCETIT) was organized by the Department of CSE on February 26, 2015. 47 Participants from various Engineering colleges have attended the Conference."
           ]
         },
         {
-          "title": "Webinar / Career Guidance / Workshops / Hands on Training Organized",
+          "title": "FDP",
           "content": [
-            "Career counselling on “Career Opportunities with Government Banks, Central Government & Railways for Engineers” on 26.11.2025.",
-            "Career Counselling Program on “Building Your Future: Career Pathways for Aspiring Civil Engineers” for Second and Pre-Final year Students on 07.08.2025",
-            "Career Counselling Program on “Building Your Future: Career Pathways for Aspiring Civil Engineers” for Second and Pre-Final year Students on 07.08.2025.",
-            "Sindhu, Assistant Professor, Department of Civil Engineering, KAHE organized a Skill Development on Building Valuation by Er. M. Adaikkalavan on 01.2021",
-            "M. Sumesh, Assistant Professor, Department of Civil Engineering, KAHE organized a Webinar on “Field Testing of Construction Materials” by Dr. V. Karthik, M.E, PhD, Structural Consultant, V.A. Construction, Allivilla Group of Engineers, Salem – 636 007, Tamilnadu, India on Dec 17, 2020.",
-            "M. Sumesh, Assistant Professor, Department of Civil Engineering, KAHE organized a Webinar on “Key Challenges and Career Opportunities for Civil Engineers” by Dr. E. D. Viswanath, Ph.D, CEO, Crea Infrastructure, Salem – 636 001, Tamilnadu, India on Dec 12, 2020.",
-            "P.Preethi, Assistant Professor, organised a Soft Skill Development Program on Etiquettes and mannerisms for successful career for the Civil Engineering students on 2nd November 2020.M.R. Vanithamani, Professor & Director, Faculty of Management Studies, Karpagam College of Engineering, Coimbatore was invited as the resource person.",
-            "M. Sumesh, Assistant Professor, Department of Civil Engineering, KAHE organized a Competitive coaching on “Government Norms for Properties” by Dr. J. Sankar M.E (Struct)., Ph.D, The Proprietor, Surrya Builders, Salem – 636007, Tamilnadu, India on Oct 27, 2020.",
-            "M. Sumesh, Assistant Professor, Department of Civil Engineering, KAHE organized a Skill development program on “Basic Concept and Applications of Vastu in Construction” by Er. P. Sivakumar M.E (Struct)., (Ph.D), Managing Director, Tamilnad Constructions, Karur, Tamilnadu, India on Oct 22, 2020.",
-            "P.Preethi, Assistant Professor, organised a Career Guidance Program on Scope for upcoming Civil Engineers in valuation on 8th October 2020.T.V. Arul Prakash, Proprietor, Chartered Engineer, Registered Valuer, A.P Associates was invited as the resource person.",
-            "Sindhu, Assistant Professor, Department of Civil Engineering, KAHE organized a Endowment Lecture on ‘Entrepreneurship Development in Civil Engineering’ by Dr. Karthik, M.E, PhD,Managing Partner, Sri Murugan Sand, Salem – 636015, Tamilnadu, India on Sep 15, 2020.",
-            "P.Preethi, Assistant Professor, organised a National Level Technical Webinar on BIM concepts in construction 26th June 2020. M.Vasanth Kumar Managing Director, Thiranz Tech Solutions was invited as the resource person.",
-            "Sumesh, Assistant Professor, Department of Civil Engineering, KAHE organized a Skill development program on “Creating a Floor Plan in Layout and Interior Design with SketchUP 2021” by Mr. R. Ramesh Babu, Civil Technical Head, Thiranz Tech Solutions, Malumichampatti, Coimbatore on Feb 08, 2021.",
-            "S.Pratheba, Assistant Professor organized the Webinar on “Introduction to Project Management using Primavera” on Ms. Suganya Sekar, (PMP) Manager – Delivery and Services, Infinity PMC Solutions Pvt Ltd.7/380, Kamarajar salai, Kovilambakkam, Chennai – 600129, India on Jan 27, 2020.",
-            "Pratheba, Assistant Professor organized the  Career Guidance Program on “Entrepreneurship development in Civil Engineering Sectors” by Er. Sudhan Nayak Raj, Managing Director, Olive Green Construction, Coimbatore on Jan 18, 2020.",
-            "Skill Development on “Vasthu Sasthra and Total Station” by Er.J.Shankar, Consultant Suriya Builders, Salem on July 16, 2018.",
-            "Guideline to prepare GATE exam by Gate Academy Members / GATE Academy- Coimbatore on February 08, 2017.",
-            "To create awareness among the students regarding the use of software’s in Civil Engineering Field by Civil Engineering Software – AUTOCADD, C-CUBE TECHNOLOGY on July 20, 2017.",
-            "Practical Demo on SPT Test by Dr.R.Venkatasubramani, Professor & Head/MCET, Pollachi on September 06, 2017.",
-            "STAAD Pro (Design software) by Mr. M. Anandapadmanabhan, Civil Engineer / Manika Sundaram Associates, Coimbatore, from February 20, 2017 to February 22, 2017.",
-            "Career guidance and personality development by Mr.P.Anjesh, PSG College of Technology Coimbatore on January 25, 2016.",
-            "To give practical exposure on basics of solid mechanics by Mr.Karthik, Assistant Professor, KPR Institute of Engineering and Technology on January 22, 2017."
+            "Department of Computer Science and Engineering conducted a Faculty Development Program On “AI Advancements: Faculty Empowerment in Deep Learning and Computational Intelligence “from 25-09-2023 to 03-10-2023.",
+            "Mr.T.Mohanraj and Dr.R.Dhanapal, organizes A Faculty development program on Introduction to React JS- Mr. K. RanjithPrabhu, Specialist Programmer, Infosys Pvt,Ltd, 7th November 2020.",
+            "CSE department organized a Guest Lecture on “Data Structures and Algorithms” on July 29, 2019 by Dr. S. Kanimuthu, Associate Professor, Department of Information Technology, Karpagam college of Engineering, Coimbatore.",
+            "CSE department organized a Guest Lecture on “Design and Analysis of Algorithms” on December 11, 2019 by Mr. Sudharshan, Associate Professor, Department of Computer Science and Engineering, Hindustan college of Engineering, Coimbatore.",
+            "CSE Department organized “Inauguration of Computer Science and Engineering Association-2017” by Mr.S.R.Vasanth, Chief Executive Officer, Vertace Consultants, Chennai on August 07, 2017.",
+            "Department of CSE has organized an Extension Activity on “Free Cloud Services” on February 23, 2017 by Dr.R.Santhosh & Dr.B.Arunkumar AP/CSE at Government Boys Higher Secondary School, Sulur, Coimbatore.",
+            "A Three Day BOOT CAMP on Angular JS was organized by the Department of CSE from January 06, 2017 to January 08, 2017.The resource person was Mr.T.Jayamurugan, Cloud & Devops Engineer, Karya Technologies, Chennai.",
+            "CSE Department has organized a Seminar on Career Guidance in Computer Science on January 04, 2017. Dr.Vijayalakshmi, Founder, Hi-Tech, Solutions, India was the resource person.",
+            "CSE Department has Organized a Faculty development program on “Research Challenges in Big Data and Cloud Computing” from September 16, 2016 to September 17, 2016.The Resource Person was Mr.A.Bharanidharan AP/CSE, SREC, Coimbatore.",
+            "A Microsoft Certified C-Training Program on Structural Programming Techniques in Software Development was organized by the CSE Department from August 29, 2016 to August 31, 2016.The chairperson was Dr.Vijayalakshmi, Founder, Hi-Tech, Solutions, India.",
+            "Association Inauguration was organized by the Department of CSE on “Life Skill Development” on August 22, 2016.The invited Dignitary was Mr.Prasanth R.Nayar, Dept of CSE, School of Engineering, Amrita University, Coimbatore.",
+            "CSE Department has Organized a Faculty development program on “Cloud Computing Basics and Hands on Experience on Cloud Simulator tool” on June 06, 2015.The Resource Person was Mr.K.RanjithPrabhu, Software Engineer, KMIT Solution, Tidel Park, Coimbatore.",
+            "CSE Department has Organized a Faculty development program on “Big Data Analytics” on June 05, 2015.The Resource Person was Dr.Kannimuthu, Associate Professor, Department of CSE, Coimbatore Institute of Engineering and Technology, Coimbatore.",
+            "CSE Department has Organized a Faculty development program on How to apply for patents and intellectual property rights on April 24, 2015.The Resource Person was Mr.R.P.Ramanathan, Rtd CEO Tamilnadu Agriculture University.",
+            "CSE Department has Organized a Faculty development program on “Research Methodologies” on April 23, 2015.The Resource Person was Dr.Rajeswari Sivraj, Professor & Head, Department of Biotechnology, Karpagam Academy of Higher Education.",
+            "One day Faculty Development Programme: “Salesforce” is scheduled on September 16, 2017, by Mr.T.Jayamurugan, Karya Technologies, Chennai."
           ]
         },
         {
-          "title": "National Conference",
+          "title": "DLS",
           "content": [
-            "Department of Civil Engineering Organized 9thNational Conference on “Recent Trends in Civil Engineering” on 5th March 2020. Dr. S. Senthil Kumar, Professor, KSR College of engineering and Technology was the Chief Guest.",
-            "Department of Civil Engineering Organized 8th National Conference on “Recent Trends in Civil Engineering” on 20thMarch 2019. Dr. G. S. Thirugnanam, Professor, Department of Civil Engineering, Builders Engineering College, Erode was the Chief Guest.",
-            "Department of Civil Engineering Organized 7th National Conference on “Recent Advancements in Civil Engineering (RACE-2k18)” on 15thMarch 2018. The Chief Guest of the conference was Dr. V. Rajkumar, Professor, Department of Civil Engineering, Government College of Engineering, Salem.",
-            "Department of Civil Engineering Organized 6th National Conference on “Research & Innovation in Civil Engineering (ncRICE-2k17)” on 17thMarch 2017. Dr. N. Kottiswaran, Principal, INFO Institute of Engineering, Coimbatore was the Chief Guest.",
-            "Department of Civil Engineering Organized 5th National Conference on “Innovations in Civil Engineering” on 12thMarch 2016. The Chief Guest of the conference was Dr. R. Thenmozhi & Mr. G.L. Sathyamoorthy. PG students and research scholars share their research ideas and present it.",
-            "Department of Civil Engineering Organized 4th National Conference on “Advanced Techniques in Civil Engineering (NCATCE-2015)” on 10thMarch 2015. Dr. G. Prince Arulraj, Professor and Dean of Civil Engineering, S.N.S. College of Technology, Coimbatore was the Chief Guest."
+            "Department of Computer Science and Engineering conducted a Lecture Series for the teaching faculty members “Student-Centered Pedagogy: A Paradigm Shift in Education” on 4.11.2023.",
+            "The Department of CSE has conducted Lecture Series on “Cyber Security-Threats, Security Issues and Awareness” on 12.07.2023.",
+            "Department of Computer Science and Engineering conducted a Lecture Series for the teaching faculty members on “Unleashing Digital Possibilities with CISCO Packet Tracer” on 12.08.2023.",
+            "Department of Computer Science and Engineering conducted a Lecture Series for the teaching faculty members on “Product Design and Development-Prototyping” on 26.08.2023.",
+            "The Department of Computer Science and Engineering conducted a Lecture Series for the teaching faculty members “ Understanding the secret of writing a good research paper” on 10.02.2024. Dr.L.Selvam, Associate Professor, Department of Computer Science and Engineering.",
+            "The Department of CSE has organized a Lecture Series on “QUESTION PAPER SETTING” on 10th June,2023. Dr. B.Arun Kumar, Professor,KAHE explained the Bloom’s Taxonomy and it is a categorization that defines different levels of intelligence including thinking, learning, and understanding."
           ]
         },
         {
-          "title": "Technical Symposium",
+          "title": "Alumini Talk",
           "content": [
-            "National level technical symposium “EGSOW’20” on 18th February 2020. Dr.P. Vinayagam, Professor, Coimbatore Institute of Technology, Coimbatore was invited as the resource person.",
-            "National level technical symposium “EGSOW’19” on 22nd February 2019. Er.S.Sivalingam, Deputy Chief Engineer, Coimbatore was invited as the resource person.",
-            "National level technical symposium “EGSOW’18” on 16th February 2018. Mr.V.Ganeshan, IFS, Chief Conservator of Forest & Field Director, Anamalai Tiger Reserve, Pollachi, Coimbatore was invited as the resource person.",
-            "National level technical symposium “EGSOW’17” on 20th February 2017. Dr. A. Sudhakar, Chief Consultant, Dimensions Coimbatore was invited as the resource person.",
-            "Conducted National level technical symposium “EGSOW’16” on 17th February 2016. Dr.G.S.Thirugnanam, Professor & Head of the Department, Civil Engineering, Institute of Road and Transport Technology was invited as the resource person"
+            "An Alumni Interaction Session on “User Centric Product Innovation” on 16 Oct 2023, Mr.S.Sanjay 2016-2020 B.E. – CSE, Looperality , was the resource person.",
+            "The Department of Computer Science and Engineering organized an Alumni Interaction Session on “Introduction to Medical Transcription” on 24 Jul 2023. Mrs.V.P.Vijayalakshmi 2009-2013 B.E. – CSE, Quality Analyst, Infosys, MidVoice Transcript Solutions was the resource person.",
+            "The Department of Computer Science and Engineering organized an Alumni Interaction Session on “AI in Software Testing” on 31 Jan 2024. Mrs.Infanta Abinaya K, batch (2011 – 2015), Software Testing Engineer, Park Global HR Services Private Ltd, Coimbatore.",
+            "The Department of Computer Science and Engineering organized an Alumni Interaction Session on “Scope of Data Analytics” on Feb 01, 2024. Mr. Ashik D, batch 2017 – 2020, Technology Process Executive (Data Analyst), Silicon India, Bangalore.",
+            "The Department of Computer Science and Engineering organized an Alumni Interaction Session on “Building Resilience” on Feb 09 ,2024. Mr.J.Godwin, batch (2017 – 2021), Ship Operations Coordinator, Sharaf Shipping LLC, Dubai"
           ]
         },
         {
-          "title": "Others",
+          "title": "Other Activites",
           "content": [
-            "Three Days Skill Development Program on “Plumbing & Drafting” from 03.12.2025 to 05.12.2025",
-            "Five-day Faculty Development Program on “Recent Advances and Sustainable Innovations in Civil Engineering” from 24.11.2025 to 28.11.2025.",
-            "Alumni Talk on “Career Versality” on 19.11.2025.",
-            "One – day National Level Technical Fest titled “EGSOW 26” on 13.02.2026.",
-            "Seminar on “Understanding SPT Data Interpretation and basics of Geophysical Instrumentation” on 17.11.2025.",
-            "Skill Development Program on “Mastering the Total Station for Construction Projects” for II Year & III Year B.E Civil Engineering students on 11.09.2025.",
-            "Skill Development Program on “Framework used in various Building” for II Year & III Year B.E Civil Engineering students on 26.08.2025.",
-            "Alumni Meet on 26.07.2025 for 2021-2025 (UG) and Batch : 2023-2025(PG) (Convocation Day) and honor for the Proficiency, Best Outgoing, Best Alumni Students also."
+            "One day National Level TECH FEST-2K26 on 12.02.2026.",
+            "Career Counselling Guidance program on “Next-Gen Software Careers: From Cloud to AI” for the students of IV B.E Computer Science and Engineering on 25.11.2025.",
+            "Faculty Development Program on “Data Science in Practice: Tools, Framework and Case studies” for the faculty members of Computer Science and Engineering from 17.11.2025 to 21.11.2025.",
+            "Conducted two days Hands on Training on “Building Scalable Applications with MongoDB” on 06.10.2025 and 07.10.2025.",
+            "One-day Extension activity on “Awareness program on e-Governance and Digital Service” on 30.09.2025 at village people in Nachipalayam.",
+            "Two-days hands-on-training program on “Advanced MySQL for Full Stack Development” for the students of II B.E. Computer Science and Engineering from 01.09.2025 to 02.09.2025.",
+            "Guest Lecture on “Context Free Grammar and Push Down Automata: Hands-on Approach” on 26.08.2025.",
+            "Participation in the ICT Academy 65th edition of BRIDGE’25 Conference on 21.08.2025 at Hotel Le Meridian, Coimbatore.",
+            "Guest lecture on “Foundations and Applications of Data Analytics and Visualization for the II B.E Computer Science and Engineering” on 13.08.2025.",
+            "Guest Lecture on “Node.js”” for the students of  III B.E. Computer Science and Engineering on 28.07.2025.",
+            "Guest Lecture on “Web development using PHP and MySQL” on 31.07.2025.",
+            "Alumni Meet on 26.07.2025",
+            "Hackathon on “HACK4IMPACT” on 04.08.2025 to 05.08.202",
+            "The Department of CSE has organized a Metaverse Association programme on 20.07.2023. the Chief Guests Dr. K. Muralishankar, Founder and Chief Visionary Officer, Yardstick Digital Solutions, Coimbatore.",
+            "National level Tech Fest- METAVERSE-2K24”was conducted by Department of Computer Science and Engineering on 7thFeburary 2024.",
+            "The Department of CSE has organized a career guidance program “Guidance for Higher Education” on 2nd February, 2023. Resource person Mrs.Soniya Moorthy discussed on the topic “Guidance for Higher Education”.",
+            "The ICT Academy of Tamil Nadu presents the Industry-Institute Interaction Bridge’23 program on 14th march,2023. The theme “Building Human Capital for a Trillion-Dollar Digital Economy”.",
+            "Department of Computer Science and Engineering organizes National level Technical  Symposium named “AURA 2k20” on 17.02.2020.",
+            "Department of Computer Science and Engineering organised State Level Conference on Advancements in Computational Sciences – Mr.K.Santhosh Kumar, Social Media Analyst, Accent Techno Soft, CBE delivered the keynote address on 10 th March, 2020 & 11 th March, 2020."
+          ]
+        },
+        {
+          "title": "Webinar",
+          "content": [
+            "One day Workshop on “Penetration Testing & Security” on 28.08.2025.",
+            "Mr T.MohanRaj and Dr.Laxmi Raja, organizes webinar on Effect of Emerging Technologes in Financial Sectors,- Dr.K.R.Adinadh, Vice President Information Technology, Asirvad Micro Finance Limited . 18thFebruary 2021.",
+            "Laxmi Raja and Mr D. SelvaPandian , organizes webinar on Basic Concepts in Data Protection,Subtitution Ciphers,Transposition Ciphers and Enigma,- Dr.H.Azath, Senior Assistant Professor,School of Computing Science and Engineering, VIT Bhopal University. 24thFebruary 2021.",
+            "Mr D. SelvaPandian and Dr.Laxmi Raja, organizes webinar on Principles and Practice of Sofware Engineering, Mr. Alexander Muthurengan Murugaiyan, Lecture, Department of Computer and Information Science, University of seychelies. Seychelies. 5th March 2021.",
+            "Dr R.Dhanapal and Dr.Laxmi Raja , organizes webinar on Agile Methodology, prof.E. Manju More, Assistant Professor, School of Computing and Information Technology, REVA University, Bangalore. 13th March 2021.",
+            "Laxmi Raja and B.Lanitha, organizes webinar on KNIME Data Analytics Tool,- Dr D.Sudharson, Assistant Professor, Department of AI and DS, Kumaraguru College of Technology,Coimbatore. 07 thJUNE 2021",
+            "Mrs K.Sundareswari and Mr D.Selvapandian, organizes webinar on Time Management and Leadership Skills, – Ms Kalaivan Kannalyan,Image Consultant and Happiness Coach,Look$You,Coimbatore. 19 th JUNE 2021",
+            "Laxmi Raja and Dr R.Dhanapal , organizes webinar on Recent Trend and Techniques in IOT, Dr K.Ramesh,Professor,Department of Computer Science and Engineering, Hindustan Institute of Technology and Science,Chennai.18thJUNE 2021.",
+            "Mrs K.Sundareswari and Dr B.Lanitha, organizes webinar on Role of Diet in COVID, – Ms Nasreen Jones,Active Consultant Nutritionist and Sr.Nutritionist, Feminine Fitness Quotient,Coimbatore .17 th JUNE 2021",
+            "Dr R.Dhanapal and Mr T.Mohanraj , organizes webinar on Block Chain Technology, Dr B.Santhosh Kumar, Professor, Department of Computer Science and Engineering, Guru Nanak Institute of Technology,Hyderabad. 14thJUNE 2021.",
+            "Laxmi Raja and Mrs. K. Sundareswari organizes webinar on the topic “TECHNICAL?RESEARCH ARTICLE WRITING IN IEEE FORMAT”, by Ms. Lakshmi. M. B., Former Graduate Apprentice Trainee, Vikram Sarabhai Space Centre, VSSC, ISRO, Bangalore – 11, Jun 2021",
+            "R. Dhanapal, and Dr. B. Arun Kumar organizes webinar on the topic of “BLOCKCHAIN TECHNOLOGIES” by Dr. D. Sudharson, Assistant Professor, Department of CSE, Hindusthan College of Engineering and Technology, Coimbatore – 31, December, 2020",
+            "Ms.K.Tharageswari and Dr.Laxmi Raja, organizes webinar on Algorithmic Trends Advanced concepts in DAA- Dr.K.Amuthabala, AssistantProfessor, School of Computer and Information and Technology, REVA University. 30th December 2020.",
+            "Mr.T.Mohanraj and Dr.B.Arunkumar, organizes webinar on Current Industrial Expectations In Post Pandemic Scenario Mr.V.PrasannaSreeHari, Solution Architect, HP Inc. 19th November,2020.",
+            "MR.D.Selvapandian and Dr.Laxmi Raja, organizes webinar on Windows server and virtualization- Mr.S.Santhosh, System Administrator ITC Info Tech, Bengaluru, 11th November, 2020.",
+            "Dr.R.Dhanapal and Ms.K.Tharageswari, organizes webinar on Cyber Security-Dr.R.Kaviarasan Assistant Professor, RGM College of Engineering and Technology, Andhra Pradesh. 7th October 2020.",
+            "MR.D.Selvapandian and Dr.Laxmi Raja, organizes webinar on Google Go Programming Language- Dr.RanjeetPowar, 29th June, 2020"
+          ]
+        },
+        {
+          "title": "Workshop",
+          "content": [
+            "One day workshop on “Foundations of SaaS & GTM” on 11.10.2025",
+            "Conducted a workshop on “Advanced Python Programming” from 07.10.2025 to 08.10.2025.",
+            "Workshop on “Configuring and Managing Network Services using Linux Networking” on 24.09.2025.",
+            "Two-days Workshop on “Hands-on Training in Java Essentials” from 15.09.2025 to 16.09.2025",
+            "One day Workshop on “Penetration Testing & Security” on 28.08.2025.",
+            "One day Workshop on “Intelligent Machines: Hands-on with ML, DL and Generative AI” on 21.08.2025.",
+            "The Department of Computer Science and Engineering conducted a workshop for the students on “Exploring Deep Neural Network Applications with Hands-on Training” on 30.01.2024 by Dr.K.Veningston Assistant Professor, Department of Computer Science and Engineering, National Institute of Technology, Srinagar, Jammu& Kashmir.",
+            "The Department of Computer Science and Engineering conducted a Guest Lecture on “CPU Scheduling and Deadlocks” for the II Year students of the Computer Science and Engineering on 31.01.2024 by Dr.C.N.Vanitha, Associate Professor, Department of CSE, Kongu Engineering College, Erode.",
+            "The Department of Computer Science and Engineering conducted a one day Skill Development program on Advanced Networking Techniques on 27.09.2023 by Mrs.M.Sugapriya,Senior Technical Trainer (NSG-Network Security Group) Global Support Training- Sophos Technologies, Ahmedabad.",
+            "Department of Computer Science and Engineering has organised a workshop “Internet of Things” on 20.09.2023. The Resource person Mr.Arun Venkatesh ,Chief Executive Officer,Karyoun Innovation Pvt Ltd,Chennai.",
+            "The Department of CSE has organized a ONE DAY WORKSHOP “OUTCOME BASED EDUCATION” on 08.07.2023. Resource Person Dr. K. Venkadeshwaran, Professor & Program Head(Mechanical) Faculty of Engineering and Technology, Jain University, Bangalore.",
+            "The Department of Computer Science and Engineering conducted a Guest Lecture on “UML Test Cases” Dr.V. Praveena, Professor, Department of CSE, Dr.N.G.P. Institute of Technology, Coimbatore.",
+            "The Department of Computer Science and Engineering conducted a Guest Lecture on “Modernizing Collaboration: Exploring the Intersection of Databases, Cloud Computing and Virtualization” by Dr.Padma Selvaraj, Professor, Department of CST, Madanapalle Institute of Technology & Science, Andhra Pradesh.",
+            "The Department of Computer Science and Engineering conducted a Workshop on “Image Synthesis and Generation using Generative Adversarial Networks with Hands-on training” by speaker Dr.P.Natesan, Professor, Department of Information Technology, Kongu Engineering College, Perundurai.",
+            "The Department of Computer Science and Engineering conducted a Guest Lecture on “Exploring Transaction Management and Concurrency Control in Database Systems” by Dr. R. Manjula Devi, Professor, Department of Computer Science and Engineering, KPR Institute of Engineering and Technology, Coimbatore.",
+            "Dr.B.Arunkumar, organizes workshop on Advances in Computational Science and Technology-Mrs.V.Narmadha, Senior Manager,Newareeliya Soft Tech, CBE, 02nd March, 2020.",
+            "Dr.R.Santhosh, organizes workshop on IoT- Home Automation- Mr.A.VishnuPriyadharshan , CEO, Newareeliya Soft Tech Pvt Ltd, 03rd to 5th March, 2020.",
+            "Mr.D.Selvapandian and Dr.R.Santhosh, organizes workshop on Cyber Security Tools Sankarraj S,CEO, Prompt Infotech, 25th July 2019.",
+            "Mr.T.Mohanraj, organizes workshop on Data Communication and Networking-19th August 2019(FN),20th  August 2019, 21th  August 2019(FN), 22th  August 2019, 26th  August 2019,27th  August 2019.",
+            "A one day workshop on Cybersecurity tools was organized by the department of CSE on July 25, 2019. The resource person was Mr. Sankarraj Subramaniam, CEO, PROMPT Infotech.",
+            "A one day workshop on Data Communication and networking organized by the department of CSE on August 19, 2019. The invited speaker is Mr. Moorthi, Telecom Engineer (Retd), Southern Railways.",
+            "A one day Workshop on Android Soft Skill Development was organized by the Department of CSE on February 08, 2017. The invited speakers were Mr. Bright Varghese and Mr.Plessed Prince, Professor, Dept of IT, Karunya University, Coimbatore.",
+            "A Three Day Workshop on Advanced Digital Marketing was organized by the Department of CSE from February 02, 2017 to February 4, 2017. The resource person was Mr.G.Suresh, E-com specialist / Full web developer, Chennai.",
+            "A one day Workshop on Android was organized by the Department of CSE on August 19, 2016. The invited Dignitary was Mr.K.Balamurugan, Senior Software Engineer, Newareeliya Soft Tech Pvt. Ltd, Coimbatore.",
+            "A one day Workshop on “Hack track” was organized by the Department of CSE on January 23, 2015. The invited Dignitary was Mr.K.RanjithPrabhu, Software Engineer, KMIT Solution, Tidel Park, Coimbatore."
+          ]
+        },
+        {
+          "title": "Seminar",
+          "content": [
+            "Seminar on “SQL Database Design Patterns for Backend Developers” on 17.09.2025.",
+            "Seminar on “Amazon Web Services” on 26.08.2025.",
+            "Seminar on “Building Single Page Applications (SPA) with Vanilla JavaScript techniques” on 30.07.2025.",
+            "The Department of Computer Science and Engineering conducted a Industrial seminar for the students on “Capacity Building Program on Data Analyst” on 13.02.2024 by Mr.Maheswar Narayanan, Senior Manager, Imarticus Learning Private Limited, Coimbatore.",
+            "A webinar for the students on “CLOUD COMPUTING AND AWS” by Dr.Garima Sinha, Faculty of Engineering and Technology, Jain University, Bangalore.",
+            "The Department of Computer Science and Engineering conducted a seminar for the students on “UI and UX design” on 21.09.2023 by Mr.K.BoopathiKumar, CEO, Training Trains, Coimbatore.",
+            "Department of Computer Science and Engineering conducted a webinar for the students on “EDGE COMPUTING AND ITS APPLICATIONS” on 31.08.2023 by Dr.P.Tamil Selvi, Professor/CSE,Rajalakshmi Engineering College,Chennai.",
+            "The Department of Computer Science and Engineering has organised a seminar “Critical Thinking-A Problem Solving Methodology” on 04.07.2023. The resource person MrRaghul Das, Senior Associate Consultant, Infosys Bangalore.",
+            "The Department of CSE has organized a Seminar on “Intellectual Property (IP) Management at Early Stage of Innovation and Start-ups”on 27th January,2023. Dr. Partheepan Rudrapati started his insightful session by stating Intellectual property is a category of property that includes intangible creations of the human intellect, and primarily encompasses copyrights, patents, and trademarks.",
+            "The Department of CSE has organized a Seminar on “AWARENESS ON AMAZON WEB SERVICES””on 31st January,.2023 . The speaker Mr. Thomas Philip Govindrajan, AWS Trust & Safety Manager, Amazon AWS, Bangalore.",
+            "The Department of CSE has organized a Seminar on “Future Innovators with IoT” on 10th Feb 2023. The resource person Mr.Arun Discussed about IoT components and its Uses.",
+            "Dr.B.Arunkumar, delivered Machine Learning Paradigm-Seminar on AICTE sponsored STTP Organised by Sri Krishna College of Engineering, Coimbatore on 9th December,2020.",
+            "Laxmi Raja and Mr D. SelvaPandian , organizes webinar on Basic Concepts in Data Protection,Subtitution Ciphers,Transposition Ciphers and Enigma,- Dr.H.Azath, Senior Assistant Professor,School of Computing Science and Engineering, VIT Bhopal University. 24thFebruary 2021."
+          ]
+        },
+        {
+          "title": "Extension Activity",
+          "content": [
+            "36 Hours National Level “Hacksprint2.0” on 21.01.2026 @ 08.00 AM to 22.01.2026 @ 08.00 PM.",
+            "Department of Computer Science and Engineering in coordination with Extension cell, Karpagam Academy of Higher Education has successfully organized an Extension activity at Government School, Malumichampatty, Coimbatore on 01.09.2023 with the theme, Innovation & Entrepreneurship Outreach Program in Schools-Revolutionizing Connectivity: “Cutting-Edge Concepts in Internet of Things”.",
+            "The Department of Computer Science and Engineering in coordination with Extension cell has successfully conducted an Extension activity for the school students on 11.03.2024 at Ottakkalmandapam, Coimbatore, with the theme “Innovative Realms: Exploring Boundary-Pushing Concepts in 3D Game Development”.",
+            "The Department of Computer Science and Engineering in coordination with Extension cell and Rotaract Club, Karpagam Academy of Higher Education has successfully organized an Extension activity on 31st January, 2023 at Government School, Malumichampatty, Coimbatore with the theme “Cyber Safe Girl Awareness Programme”."
           ]
         }
       ]
