@@ -1,0 +1,254 @@
+{
+  "bannerCon": {
+    "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+    "title": "Downloads",
+    "bannerCon": "To be a leading institution in the field of education, providing quality education and training to students and professionals."
+  },
+  "Downloads": {
+    "title": "Downloads",
+    "content": [
+      {
+        "tabTi": "Applications",
+        "tabId": "applications",
+        "title": "Faculty of Arts, Science, Commerce and Management",
+        "annualResearch12": {
+          "title": "Faculty of Pharmacy",
+          "content": [
+            {
+              "subtitle": "APPLICATION FORM FOR B.Pharm / M.Pharm.",
+              "id": 1,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "item": "Open Brochure",
+                  "url": "https://kahedu.edu.in/n/wp-content/uploads/2023/07/APPLICATION-FORM-FOR-B.Pharm-M.Pharm_.pdf",
+                  "target": "_blank"
+                }
+              ]
+            },
+            {
+              "subtitle": "APPLICATION FORM FOR Pharm.D",
+              "id": 2,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "item": "Open Brochure",
+                  "url": "https://kahedu.edu.in/n/wp-content/uploads/2023/07/APPLICATION-FORM-FOR-Pharm.D.pdf",
+                  "target": "_blank"
+                }
+              ]
+            }
+          ],
+          "src": [
+            {
+              "id": 1,
+              "src": "/images/Kahe/Innerpages/image-1.jpg",
+              "target": "_blank"
+            }
+          ]
+        },
+        "annualResearch13": {
+          "title": "Faculty of Architecture, Design and Planning",
+          "content": [
+            {
+              "subtitle": "APPLICATION FORM FOR B.Arch. / M.Arch.",
+              "id": 1,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "item": "Open Brochure",
+                  "url": "https://kahedu.edu.in/n/wp-content/uploads/2023/07/APPLICATION-FORM-FOR-B.Arch_.-M.Arch_..pdf",
+                  "target": "_blank"
+                }
+              ]
+            },
+            {
+              "subtitle": "APPLICATION FORM FOR B.Des. (Interior Design / Fashion Design)",
+              "id": 2,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "item": "Open Brochure",
+                  "url": "https://kahedu.edu.in/n/wp-content/uploads/2023/07/APPLICATION-FORM-FOR-B.Des_..pdf",
+                  "target": "_blank"
+                }
+              ]
+            },
+            {
+              "subtitle": "APPLICATION FORM FOR M.Plan.",
+              "id": 3,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "item": "Open Brochure",
+                  "url": "https://kahedu.edu.in/n/wp-content/uploads/2023/07/APPLICATION-FORM-FOR-M.Plan_.pdf",
+                  "target": "_blank"
+                }
+              ]
+            }
+          ],
+          "src": [
+            {
+              "id": 1,
+              "src": "/images/Kahe/Innerpages/image-1.jpg",
+              "target": "_blank"
+            }
+          ]
+        },
+        "annualResearch14": {
+          "title": "Faculty of Engineering",
+          "content": [
+            {
+              "subtitle": "APPLICATION FORM FOR B.E. / B.Tech.",
+              "id": 1,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "item": "Open Brochure",
+                  "url": "https://kahedu.edu.in/n/wp-content/uploads/2023/07/APPLICATION-FORM-FOR-B.E.-B.Tech_..pdf",
+                  "target": "_blank"
+                }
+              ]
+            },
+            {
+              "subtitle": "APPLICATION FORM FOR M.E. / M.Tech.",
+              "id": 2,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "item": "Open Report",
+                  "url": "https://kahedu.edu.in/n/wp-content/uploads/2023/07/APPLICATION-FORM-FOR-M.E.-M.Tech_..pdf",
+                  "target": "_blank"
+                }
+              ]
+            }
+          ],
+          "src": [
+            {
+              "id": 1,
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2023/01/1.jpg",
+              "alt": "Annual Research Congress - Karpagam Academy - 5"
+            }
+          ]
+        },
+        "annualResearch15": {
+          "title": "Faculty of Arts, Science, Commerce and Management",
+          "content": [
+            {
+              "subtitle": "FORM FOR B.Sc. / B.Com. / BCA / BBA",
+              "id": 1,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "item": "Open Brochure",
+                  "url": "https://kahedu.edu.in/n/wp-content/uploads/2023/07/APPLICATION-FORM-FOR-B.Sc_.-B.Com_.-BCA-BBA.pdf",
+                  "target": "_blank"
+                }
+              ]
+            },
+            {
+              "subtitle": "FORM FOR MBA / MCA / M.Sc. / M.Com.",
+              "id": 2,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "item": "Open Brochure",
+                  "url": "https://kahedu.edu.in/n/wp-content/uploads/2023/07/APPLICATION-FORM-FOR-MBA-MCA-M.Sc_.-M.Com_..pdf",
+                  "target": "_blank"
+                }
+              ]
+            }
+          ],
+          "src": [
+            {
+              "id": 1,
+              "src": "/images/Kahe/Innerpages/image-1.jpg"
+            }
+          ]
+        }
+      },
+      {
+        "tabTi": "Prospectus",
+        "tabId": "prospectus",
+        "title": "Karpagam Academy of Higher Education Brochure",
+        "annualResearch15": {
+          "title": "",
+          "content": [
+            {
+              "subtitle": "Karpagam Academy of Higher Education Brochure",
+              "id": 1,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "item": "Open Brochure",
+                  "url": "https://kahedu.edu.in/n/wp-content/uploads/2025/03/KAHE-BROCHURE.pdf",
+                  "target": "_blank"
+                }
+              ]
+            }
+            
+          ],
+          "src": [
+            {
+              "id": 1,
+              "src": "/images/Kahe/Innerpages/image-1.jpg",
+              "target": "_blank"
+            }
+          ]
+        },
+        "annualResearch14": {
+          "title": "",
+          "content": [
+            {
+              "subtitle": "Architecture Brochure",
+              "id": 1,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "item": "Open Brochure",
+                  "url": "https://kahedu.edu.in/n/wp-content/uploads/2025/03/KAHE-Arch-Brochure.pdf",
+                  "target": "_blank"
+                }
+              ]
+            }
+          ],
+          "src": [
+            {
+              "id": 1,
+              "src": "/images/Kahe/Innerpages/image-1.jpg",
+              "target": "_blank"
+            }
+          ]
+        },
+        "annualResearch13": {
+          "title": "",
+          "content": [
+            {
+              "subtitle": "Faculty of Performing Arts",
+              "id": 1,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "item": "Open Brochure",
+                  "url": "https://kahedu.edu.in/n/wp-content/uploads/2025/05/MUSIC-POSTER.pdf",
+                  "target": "_blank"
+                }
+              ]
+            }
+          ],
+          "src": [
+            {
+              "id": 1,
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2023/01/1.jpg",
+              "alt": "Annual Research Congress - Karpagam Academy - 5"
+            }
+          ]
+        }
+       
+      }
+    
+    ],
+    "image": "/images/Kahe/Innerpages/research-programme.png",
+    "apply_link": "https://admissions.kifees.com/phd"
+  }
+}

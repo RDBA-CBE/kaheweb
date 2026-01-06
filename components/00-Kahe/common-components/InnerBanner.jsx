@@ -26,21 +26,25 @@ const InnerBanner = ({ data }) => {
               dangerouslySetInnerHTML={{ __html: data?.bannerCon }}
             ></p>
           </div>
-
-          <div className="">
-            {/* <button className="kahe-btn kahe-btn-secondary">Apply Today</button> */}
-            <Link className="rbt-btn hover-icon-reverse" href={data?.applyLink}>
-              <span className="icon-reverse-wrapper">
-                <span className="btn-text">Apply Now</span>
-                <span className="btn-icon">
-                  <i className="feather-arrow-right"></i>
+          {data?.applyLink && (
+            <div className="">
+              {/* <button className="kahe-btn kahe-btn-secondary">Apply Today</button> */}
+              <Link
+                className="rbt-btn hover-icon-reverse"
+                href={data?.applyLink}
+              >
+                <span className="icon-reverse-wrapper">
+                  <span className="btn-text">Apply Now</span>
+                  <span className="btn-icon">
+                    <i className="feather-arrow-right"></i>
+                  </span>
+                  <span className="btn-icon">
+                    <i className="feather-arrow-right"></i>
+                  </span>
                 </span>
-                <span className="btn-icon">
-                  <i className="feather-arrow-right"></i>
-                </span>
-              </span>
-            </Link>
-          </div>
+              </Link>
+            </div>
+          )}
         </div>
       </div>
     </div>

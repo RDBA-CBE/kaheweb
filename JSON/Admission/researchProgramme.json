@@ -1,0 +1,126 @@
+{
+  "bannerCon": {
+    "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+    "title": "Ph.D Programmes",
+    "bannerCon": "To be a leading institution in the field of education, providing quality education and training to students and professionals.",
+    "applyLink": "/"
+  },
+  "ResearchProgramme": {
+    "title": "Ph.D Programmes",
+    "content": [
+      {
+        "tabTi": "Arts & Science",
+        "tabId": "arts-science",
+        "title": "Faculty of Arts, Science, Commerce and Management",
+        "items1": [
+          {
+            "src": "/images/category/image/web-design.jpg",
+            "content": "Biochemistry"
+          },
+          {
+            "src": "/images/category/image/web-design.jpg",
+            "content": "Biotechnology"
+          },
+          {
+            "src": "/images/category/image/web-design.jpg",
+            "content": "Microbiology"
+          },
+          {
+            "src": "/images/category/image/web-design.jpg",
+            "content": "Chemistry"
+          },
+          {
+            "src": "/images/category/image/web-design.jpg",
+            "content": "Physics"
+          },
+          {
+            "src": "/images/category/image/web-design.jpg",
+            "content": "Mathematics"
+          },
+          {
+            "src": "/images/category/image/web-design.jpg",
+            "content": "Computer Science"
+          },
+          {
+            "src": "/images/category/image/web-design.jpg",
+            "content": "Commerce"
+          },
+          {
+            "src": "/images/category/image/web-design.jpg",
+            "content": "Management"
+          },
+          {
+            "src": "/images/category/image/web-design.jpg",
+            "content": "Tamil"
+          },
+          {
+            "src": "/images/category/image/web-design.jpg",
+            "content": "English"
+          }
+        ]
+       
+      },
+      {
+        "tabTi": "Engineering",
+        "tabId": "engineering",
+        "title": "Faculty of Engineering",
+        "items": [
+          {
+            "src": "/images/category/image/web-design.jpg",
+            "content": "Biotechnology"
+          },
+          {
+            "src": "/images/category/image/web-design.jpg",
+            "content": "Civil Engineering"
+          },
+          {
+            "src": "/images/category/image/web-design.jpg",
+            "content": "Computer Science and Engineering"
+          },
+          {
+            "src": "/images/category/image/web-design.jpg",
+            "content": "Electrical and Electronics Engineering"
+          },
+          {
+            "src": "/images/category/image/web-design.jpg",
+            "content": "Electronics and Communication Engineering"
+          },
+          {
+            "src": "/images/category/image/web-design.jpg",
+            "content": "Mechanical Engineering"
+          },
+          {
+            "src": "/images/category/image/web-design.jpg",
+            "content": "Food Technology"
+          }
+        ]
+      },
+      
+      {
+        "tabTi": "Pharmacy",
+        "tabId": "pharmacy",
+        "title": "Faculty of Pharmacy",
+        "items": [
+          {
+            "src": "/images/category/image/web-design.jpg",
+            "content": "Pharmacy"
+          }
+          
+        ]
+      },
+      {
+        "tabTi": "Performing Arts",
+        "tabId": "performing_arts",
+        "title": "Faculty of Performing Arts",
+        "items": [
+          {
+            "src": "/images/category/image/web-design.jpg",
+            "content": "Music"
+          }
+        ]
+      }
+    ],
+    "image":"/images/Kahe/Innerpages/research-programme.png",
+    "apply_link":"https://admissions.kifees.com/phd"
+  }
+}
