@@ -31,8 +31,6 @@ const VissionPage = () => {
         <Recognition data = {aboutData?.recognition}/>
       </section>
       
-
-      
     </>
   );
 };
