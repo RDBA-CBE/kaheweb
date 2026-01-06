@@ -1,0 +1,286 @@
+{
+  "title": "Department of Chemical Engineering",
+  "bannerCon": "The University of Wyoming welcomes students to experience a one-of-a-kind education in the heart of the Mountain West. With our dedication to academic excellence and student-focused education, UW provides an environment thrive both academically and personally. Admission to the University of Wyoming is just the first step to achieving your dreams.",
+  "applyLink": "#",
+  "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+  "tabs": [
+    {
+      "id": "overview",
+      "label": "Overview"
+    },
+    {
+      "id": "programme",
+      "label": "Programme"
+    },
+    {
+      "id": "faculty",
+      "label": "Faculty"
+    },
+    {
+      "id": "infrastructure",
+      "label": "Infrastructure"
+    },
+    {
+      "id": "publications",
+      "label": "Publications"
+    },
+    {
+      "id": "events",
+      "label": "Events"
+    }
+  ],
+  "tabContent": [
+    {
+      "tab": "Overview",
+      "items": [
+        {
+          "type": "overview",
+          "subTitle": "Overview",
+          "contents": "The Department of Chemical Engineering was established in the year 2016 and offers Undergraduate programme in Chemical Engineering for B.Tech students. The Department has well qualified and experienced faculty facilities who constantly motivates, inspires and guides the students for their personal growth and to become technically competent. Chemical Engineering discipline is booming with all the essential facilities and infrastructure to cater the needs of the students and the society. The research specialization of the Department includes waste management, food processing, biopolymers, process design and environment which is constantly striving for the industrial collaboration.",
+          "image": "/images/others/video-07.jpg"
+        }
+      ]
+    },
+
+    {
+      "tab": "Programme",
+      "programmes": {
+        "title": "Programmes",
+        "content": [
+          {
+            "key": "ug",
+            "title": "Under Graduate Programme",
+            "img": "/images/others/health-b-02.png",
+            "items": ["B.Tech. Chemical Engineering"],
+            "type": "programme"
+          }
+        ]
+      },
+      "curriculum": {
+        "title": "Curriculum",
+        "content": [
+          {
+            "key": "be",
+            "title": "B.Tech. Chemical Engineering",
+            "img": "/images/others/health-b-02.png",
+            "type": "curriculum",
+            "items": [
+              {
+                "year": "2020-2021",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/07/FINAL-2020-21-CURRICULAM-AND-SYLLABUS-COPY_CHEMICAL-ENGINEERING.pdf"
+              }
+            ]
+          }
+        ]
+      }
+    },
+
+    {
+      "tab": "Faculty",
+      "faculty": [
+        {
+          "name": "Mr.T.Viswanathan",
+          "qualification": "M.Tech., (Ph.D.)",
+          "designation": "Assistant Professor",
+          "email": "viswanathan.t@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/bio-data/engineering/chemical-engineering/ViswanathanOne%20Page%20Bio%20Data%20Format.pdf",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Mr.R.Ramalingam",
+          "qualification": "M.Tech.",
+          "designation": "Assistant Professor",
+          "email": "ramalingam.ramamoorthi@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2021/11/onepage-biodata-Ram.pdf",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Ms. Sreebavya",
+          "qualification": "",
+          "designation": "Assistant Professor",
+          "email": "",
+          "profile": "",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        }
+      ]
+    },
+
+    {
+      "tab": "Infrastructure",
+      "items": [
+        {
+          "type": "laboratories",
+          "title": "Laboratories",
+          "content": [
+            "Mechanical Operations laboratory",
+            "Technical analysis laboratory",
+            "Heat transfer laboratory",
+            "Mass transfer laboratory",
+            "Chemical Reaction Engineering laboratory",
+            "Process Dynamics and Control laboratory",
+            "Design and Simulation laboratory"
+          ]
+        },
+        {
+          "type": "gallery",
+          "slug": "department-of-chemical-engineering",
+          "images": [
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/03/che4-1-241x180.png",
+              "alt": "",
+              "title": ""
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/03/CHE5-1-251x194.png",
+              "alt": "",
+              "title": ""
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/03/che6-1-279x212.png",
+              "alt": "",
+              "title": ""
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/03/chem1-1-309x233.png",
+              "alt": "",
+              "title": ""
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/03/chem2-307x225.png",
+              "alt": "",
+              "title": ""
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/03/che3-251x200.png",
+              "alt": "",
+              "title": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tab": "Publications",
+      "slug": "department-of-chemical-engineering",
+      "title": "Best Five Papers Faculty wise:",
+      "subtitle": "Paper publications by the Faculty Members",
+      "content": [
+        {
+          "faculty_name": "Dr. Laxmi Deepak Bhatlu",
+          "content": [
+            "Bhatlu, M. L. D., Singh, S. V., & Verma, A. K. (2017). Recovery of naringin from kinnow (Citrus reticulata Blanco) peels by an adsorption-desorption technique using an indigenous resin. Sādhanā, 42(1), 85-94.",
+            "Bhatlu, M. L. D., Katiyar, P., Singh, S. V., & Verma, A. K. (2016). Pre-harvest dropped Kinnow (Citrus reticulata Blanco) waste management through the extraction of naringin and pectin from their peels using indigenous resin. Journal of The Institution of Engineers (India): Series A, 97(3), 285-290.",
+            "Bhatlu, M. L. D., Singh, S. V., & Verma, A. K. (2017). Recovery of naringin from kinnow (Citrus reticulata Blanco) peels by an adsorption-desorption technique using an indigenous resin. Sādhanā, 42(1), 85-94.",
+            "Bhatlu, M. L. D., Bhaumik, M., & Sukanya, K. (2020). Energy management by using lithium-ion batteries, piezo materials, sensors and renewal energy system in the daily life: a review. Journal of Critical Reviews, 7(7), 798-801.",
+            "Kumar, P. P., Bhatlu, M. L. D., Sukanya, K., Karthikeyan, S., & Jayan, N. (2020). Synthesis of magnesium oxide nanoparticle by eco friendly method (green synthesis)–A review. Materials Today: Proceedings."
+          ]
+        },
+        {
+          "faculty_name": "Ms. Neethu Jayan",
+          "content": [
+            "Jayan, N., Bhatlu, M. L. D., Sukanya, K., & Karthikeyan, S. (2020). HEAT TRANSFER AUGMENTATION APPROACH IN DOUBLE PIPE HEAT EXCHANGER. Journal of Critical Reviews, 7(7), 791-794.",
+            "Gokulnathan, E., Pradeep, S., Jayan, N., Bhatlu, M. L. D., & Karthikeyan, S. (2020). Review of heat transfer enhancement on helical coil heat exchanger by the additive passive method. Materials Today: Proceedings.",
+            "Jayan, N., & Bhatlu, M. L. D. (2021). Isolation and studies on zinc removal using microorganisms from contaminated soil. Materials Today: Proceedings.",
+            "Sukanya, K., Bhatlu, M. L. D., Jayan, N., Saranya, K., & Karthikeyan, S. (2020). EFFECT OF NON-NEWTONIAN FLUIDS ON THE PERFORMANCE OF PLATE TYPE HEAT EXCHANGER. Journal of Critical Reviews, 7(7), 2020.",
+            "Bhatlu, M. L. D., Bhaumik, M., Jayan, N., & Sukanya, K. (2020). A STUDY ON INFLUENCE OF INDUSTRY 4.0 IN THE DOMESTIC, INDUSTRIAL AND TRANSPORTATION SECTOR. Journal of Critical Reviews, 7(7), 809-811."
+          ]
+        },
+        {
+          "faculty_name": "Mr. T. Viswanathan",
+          "content": [
+            "Viswanathan, T. (2020). SINTERING BEHAVIOUR OF FINE REACTIVE MGAl2O4 SPINEL POWDER FORMED BY THE CALCINATION OF MAGNESIUM ALUMINATE HYDRATE POWDER. Journal of Critical Reviews, 7(7), 802-808.",
+            "Prabhu, S., Viswanathan, T., Jothivenkatachalam, K., &Jeganathan, K. (2014). Visible light photocatalytic activity of CeO2-ZnO-TiO2 composites for the degradation of rhodamine B. Indian Journal of Materials Science, 2014.",
+            "Viswanathan, T., Pal, S., &Rahaman, A. (2020). Synthesis of magnesium aluminate spinel nanocrystallites by co-precipitation as a function of pH and temperature. Sādhanā, 45(1), 1-6.",
+            "Karthikeyan, S., Bhatlu, M. L. D., Neethu, J., & Sukanya, K. (2019). T. Viswanathan.(2019). Plant Design for 100TPD Production of Methyl Diethanolamine. Journal of Advanced Research in Dynamical and Control Systems, 11(12), 1205-1213.",
+            "Bhatlu, M. L. D., Sukanya, K., Neethu, J., & Karthikeyan, S. (2020). T. Viswanathan.(2020). Road Traffic Noise Measurement: A Review. TEST Engineering and Management, 83, 2580-2584."
+          ]
+        },
+        {
+          "faculty_name": "Mr. S.Karthikeyan",
+          "content": [
+            "Karthikeyan, S., Bhatlu, M. L. D., Neethu, J., & Sukanya, K. (2019). T. Viswanathan.(2019). Plant Design for 100TPD Production of Methyl Diethanolamine. Journal of Advanced Research in Dynamical and Control Systems, 11(12), 1205-1213.",
+            "Karthikeyan, S., Bhatlu, M. L. D., Sukanya, K., & Jayan, N. (2020). NANOVACCINATION: EVOLUTION AND REVIEW. Journal of Critical Reviews, 7(7), 971-975.",
+            "Somasundar, K. G., Soorej, S., Karthikeyan, S., Jayan, N., & Bhatlu, M. L. D. (2020). Review on cooling tower nozzle types. Materials Today: Proceedings.",
+            "Bhatlu, M. L. D., Sukanya, K., Neethu, J., & Karthikeyan, S. (2020). T. Viswanathan.(2020). Road Traffic Noise Measurement: A Review. TEST Engineering and Management, 83, 2580-2584.",
+            "Kumar, P. P., Bhatlu, M. L. D., Sukanya, K., Karthikeyan, S., & Jayan, N. (2020). Synthesis of magnesium oxide nanoparticle by eco-friendly method (green synthesis)–A review. Materials Today: Proceedings."
+          ]
+        }
+      ]
+    },
+    {
+      "tab": "Events",
+      "slug": "department-of-chemical-engineering",
+      "items": [
+        {
+          "title": "National Conference / Seminar / Symposium",
+          "content": [
+            "One Day National Level Undergraduate Conference “Advanced Waste Water Treatment Technologies” on May 03, 2021.",
+            "One day National level symposium on “Breakthrough of Green Energy in Chemical Engineering (GREEN CHEM – 2020)” on February 05, 2020.",
+            "One Day National Level Undergraduate Conference and Workshop-“CATALYTICA” on February 05, 2019.",
+            "One day national level seminar on “Alternate energy”, Mr.T.Venkatesh, Scientist, Agro Processing and Technology Division, CSIR – NIIST on September 28, 2018."
+          ]
+        },
+        {
+          "title": "Workshop",
+          "content": [
+            "Professional Development Program on “UNISIM Software Training” was conducted by Mr. Edwin Jenson, Director, Chemsys Software Solutions, Chennai from 9.3.2020 to 13.3.2020",
+            "Professional Development Program on “Nano-Biotechnology Approach in Biosensors and Biophotonics” was conducted by Dr. B. Mohammed Jaffer Ali, Associate Professor, Center for Green Energy Technology, Pondicherry University from 23.04.2018 to 30.04.2018."
+          ]
+        },
+        {
+          "title": "Webinar",
+          "content": [
+            "One day National Level Webinar on “ROLE OF IONIC LIQUIDS IN HEAVY METALS EXTRACTIONS”  was delivered by Dr.A. Brindha Lakshmi, Assistant Professor (Sl. Gr), Department of Chemical Engineering, AC Tech, Anna University campus, Chennai on 25.07.2020.",
+            "Webinar on “Post-Harvest Technologies”  was delivered by the chief guest, Mr.T.Venkatesh, Scientist, CSIR-NIIST, Thiruvananthapuram on 10.09.2020.",
+            "Webinar on “RECENT TRENDS IN WASTEWATER TREATMENT”  was delivered by the chief guest, Ms.R. Kanimozhi, Assistant Professor, Department of Chemical Engineering, Kalasalingam University on 27.06.2020",
+            "Webinar on “How to write research paper” was delivered by Dr. M. Laxmi Deepak Bhatlu, Associate Professor & Head, Department of Chemical Engineering, Karpagam Academy of Higher Education, Coimbatore on 24.05.2020",
+            "Webinar on “Heavy Metal removal using Microbes” was delivered by Mrs.Neethu Jayan, Assistant Professor, Department of Chemical Engineering, Karpagam Academy of Higher Education, Coimbatore on 05.2020",
+            "Webinar on “Unit Operations” was delivered by Mr. T. Viswanathan, Assistant Professor, Department of Chemical Engineering, Karpagam Academy of Higher Education, Coimbatore on 18.05.2020",
+            "Webinar on “Opportunities for Chemical Engineering Students in Government sector” was delivered by Mr. S. Karthikeyan, Assistant Professor, Department of Chemical Engineering, Karpagam Academy of Higher Education, Coimbatore on 16.05.2020"
+          ]
+        },
+        {
+          "title": "Faculty Development Programme (FDP)",
+          "content": [
+            "Faculty Development Program on “Electrochemical Reactions” was delivered by Dr. T. Kannadasan, Principal, Hindusthan College of Engineering and Technology, Coimbatore from 15.04.2019 to 22.04.2019."
+          ]
+        },
+        {
+          "title": "Short Term Training Programme (STTP)",
+          "content": [
+            "Short Term Training Program on “Polymer Processing Techniques and Applications in Chemical Engineering” by Mr. Britto Shibi, CMO, MedCuore Medical Solutions Private Limited, Chennai from 22.03.2021 to 26.03.2021.",
+            "Short Term Course on “Breakthrough of Green Energy in Chemical Engineering” was delivered by Dr. J. Devi Shree, Associate Professor, Coimbatore Institute of Technology, Coimbatore from 03.02.2020 to 10.2.2020.",
+            "Short Term Course on “WASTEWATER TREATMENT TECHNIQUES”, was delivered by Dr. Florida Tilton , Chairperson and Managing Director, Biozone Research Technologies Pvt Ltd., Chennai from 1.03.2018 to 8.03.2018"
+          ]
+        },
+        {
+          "title": "Guest Lecture",
+          "content": [
+            "Online Guest Lecture on “Polymer 3D Printing Technologies” Google Meet App was delivered by the chief guest, Mr.Paul Pradeep, Founder and CEO at MedCuore Medical Solutions Private Limited, Chennai on 24.12.2020",
+            "Online Guest Lecture on “Polymers in Biomedical Applications” Google Meet App was delivered by the chief guest, Mr.Udayakumar Anandarao, Head, R&D Operations at MedCuore Medical Solutions Private Limited, Chennai on 24.12.2020",
+            "Online Guest Lecture on “Duties and Opportunities for Petrochemical Industries in Industrial Safety” Google Meet App was delivered by the chief guest, Dr. K. Pradeep, Assistant Professor in Geology Engineering, Adama University, Ethiopia on 23.12.2020",
+            "Online Guest Lecture on “Microbial Fuel Cells” Google Meet App was delivered by the chief guest, Ms. Suhasini Srinivasan, Research Scholar, Department of Bioresource Engineering, McGill University, Canada on 08.12.2020",
+            "Online Guest Lecture on “Design Thinking of Active Pharmaceutical Ingredients in Pharmaceutical Industries” was delivered by Anthem Biosciences Pvt Ltd, Bangalore on 30.10.2021.",
+            "Online Guest Lecture on “Need for Design and Innovation of Alternate Fuel Sources in Current Scenario” was delivered by Mr. V. Santhosh, Assistant Professor, Department of Chemical Engineering, Erode Sengunthar Engineering College, on 30.09.2021.",
+            "Online Guest Lecture on “Start-up in Paint Industries and Career Opportunities” was delivered by Mr. Srinivasan, G.M, Founder & CEO, Sriluck Paints, Dharmapuri on 31.07.2021.",
+            "Online Guest Lecture on “An overview of Biological Waste Water Treatment” was delivered by Mr. Balaji.D, Associate Professor, Department of Chemical Engineering, SSN College of Engineering, Chennai on 24.06.2021.",
+            "Online Guest Lecture on “Open Foam – A free CFD software” delivered by Dr. Sachin. L. Borse, Professor, Department of Chemical Engineering, Imperial College of Engineering and Research, Pune on 19.06.2021.",
+            "Guest Lecture on “Physics and Chemistry of Nano Composite Structures” delivered by Dr.N.Ponpandi, Professor &Head, Department of Nanoscience and Technology, Bharathiyar University, Coimbatore on August 21, 2019.",
+            "Guest Lecture on “Chemical Engineering for Industrial Sustainability”  delivered by Mr. A.Anbarasu, Jasmine Ceramic Exports Pvt Ltd Coimbatore on January 25, 2019.",
+            "Guest Lecture on “Intellectual Property Awareness- Student Initiative”  delivered by Mr. J.Karthikeyan, Intellytic Hub Technology Corporation, Coimbatore on December 05, 2018.",
+            "Guest Lecture on “Emerging trends in process automation with DCS overview”  delivered by Mrs. Sreela M.K, Executive – customer, Service Division- Chennai on July 20, 2018."
+          ]
+        }
+      ]
+    }
+  ]
+}

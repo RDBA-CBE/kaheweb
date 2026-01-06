@@ -6,7 +6,7 @@ import BreadCrumb from '@/components/00-Kahe/common-components/BreadCrumb';
 // import CourseData from "../../../../../data/course-details/courseData.json";
 import TabInnerSection from '@/components/00-Kahe/Components/TabInnerSection';
 import { subMenu } from '@/JSON/ACADEMIC/Overview';
-import data from "@/JSON/ACADEMIC/Engineering/dept_of_biotech_eng.json";
+import data from "@/JSON/ACADEMIC/Engineering/dept_of_chemical_eng.json";
 import InnerBanner from '@/components/00-Kahe/common-components/InnerBanner';
 import Sidebar from '../../common-components/Sidebar';
 import { base } from '@/utils/constant.util';
@@ -17,7 +17,7 @@ import Store from '@/redux/store';
 
 console.log('data', data);
 
-const DepartmentOfBiotechEng = () => {
+const DepartmentOfchemEng = () => {
   const breadcrumbItems = [
     { label: 'Academics', href: `academics` },
     {
@@ -25,7 +25,7 @@ const DepartmentOfBiotechEng = () => {
       href: `academics/engineering/`,
     },
 
-    { label: 'Department of Biotechnology' },
+    { label: 'Department of Chemical Engineering' },
   ];
 
   return (
@@ -65,4 +65,4 @@ const DepartmentOfBiotechEng = () => {
   );
 };
 
-export default DepartmentOfBiotechEng;
+export default DepartmentOfchemEng;

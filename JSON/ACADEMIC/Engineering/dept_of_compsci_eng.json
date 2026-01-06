@@ -1,0 +1,730 @@
+{
+  "title": "Department of Computer Science and Engineering",
+  "bannerCon": "The University of Wyoming welcomes students to experience a one-of-a-kind education in the heart of the Mountain West. With our dedication to academic excellence and student-focused education, UW provides an environment thrive both academically and personally. Admission to the University of Wyoming is just the first step to achieving your dreams.",
+  "applyLink": "#",
+  "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+  "tabs": [
+    {
+      "id": "overview",
+      "label": "Overview"
+    },
+    {
+      "id": "programme",
+      "label": "Programme"
+    },
+    {
+      "id": "faculty",
+      "label": "Faculty"
+    },
+    {
+      "id": "infrastructure",
+      "label": "Infrastructure"
+    },
+    {
+      "id": "publications",
+      "label": "Publications"
+    },
+    {
+      "id": "events",
+      "label": "Events"
+    }
+  ],
+  "tabContent": [
+    {
+      "tab": "Overview",
+      "items": [
+        {
+          "type": "overview",
+          "subTitle": "Overview",
+          "contents": "The goal of CSE department is to make the students reach the mark of excellence in IT arena. Eminent personalities from the industry are invited to address the students which in turn raise the level of confidence among the students. The students are motivated to take part in co-curricular activities and to guide them in organizing guest lectures, seminars, competitions etc.",
+          "image": "/images/others/video-07.jpg"
+        },
+        {
+          "type": "vision",
+          "subTitle": "Vision",
+          "src": "/images/Kahe/Innerpages/vision.png",
+          "content": [
+            "To provide Quality technical education in order to transform the students into committed and well-prepared computing professionals with innovative research capabilities, ethical and moral values to build a solid nation."
+          ]
+        },
+        {
+          "type": "mission",
+          "subTitle": "Mission",
+          "src": "/images/Kahe/Innerpages/goal.png",
+          "content": [
+            "Train students in the fundamentals and current technological advancement in the field of Computer Science and Engineering.",
+            "Pursue creative and innovative research in Computer Science and Engineering to serve the needs of Industry and Society.",
+            "Inculcate integrity, ethical and moral values among the students to become responsible citizens."
+          ]
+        }
+      ]
+    },
+    {
+      "tab": "Programme",
+      "programmes": {
+        "title": "Programmes",
+        "content": [
+          {
+            "key": "ug",
+            "title": "Under Graduate Programme",
+            "img": "/images/others/health-b-02.png",
+            "items": ["B.E Computer Science and Engineering (Strength: 240)"],
+            "type": "programme"
+          },
+          {
+            "key": "pg",
+            "title": "Post Graduate Programme",
+            "img": "/images/others/health-b-02.png",
+            "items": ["M.E. Computer Science and Engineering (Strength: 12)"],
+            "type": "programme"
+          },
+          {
+            "key": "res",
+            "title": "Research Programme",
+            "img": "/images/others/health-b-02.png",
+            "items": ["Ph.D in Computer Science and Engineering"],
+            "type": "programme"
+          }
+        ]
+      },
+      "curriculum": {
+        "title": "Curriculum",
+        "content": [
+          {
+            "key": "be",
+            "title": "BE Computer Science and Engineering",
+            "img": "/images/others/health-b-02.png",
+            "type": "curriculum",
+            "items": [
+              {
+                "year": "2020-2021",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/07/CSE-syllabus-2020-2021.pdf"
+              },
+              {
+                "year": "2021-2022",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2021/11/B.E-CSE-2021-22-SYLLABUS.pdf"
+              },
+              {
+                "year": "2022-2023",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2022/09/SYLLABUS-CYBER-SEM-1-AND-2-22-23.pdf"
+              },
+              {
+                "year": "2023-2024",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2023/10/CSE-2023-2024.pdf"
+              },
+              {
+                "year": "2024-2025",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/01/BE-CSE.pdf"
+              },
+              {
+                "year": "2025-2026",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/08/Regulations.Curriculum-Syllabi-B.E.-CSE-2025-2026.pdf"
+              }
+            ]
+          },
+          {
+            "key": "me",
+            "title": "ME Computer Science and Engineering",
+            "img": "/images/others/health-b-02.png",
+            "type": "curriculum",
+            "items": [
+              {
+                "year": "2022-2023",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2022/09/ME-CSE-2022-Final.pdf"
+              },
+              {
+                "year": "2023-2024",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2023/10/ME-2023-2024.pdf"
+              },
+              {
+                "year": "2024-2025",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/01/ME-CSE.pdf"
+              },
+              {
+                "year": "2025-2026",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/08/Regulations.Curriculum-Syllabi-M.E.-CSE-2025-2026.pdf"
+              }
+            ]
+          },
+          {
+            "key": "me",
+            "title": "M.E. Water Resources and Environmental Engineering – FT",
+            "img": "/images/others/health-b-02.png",
+            "type": "curriculum",
+            "items": [
+              {
+                "year": "2019-2020",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2021/04/ME-WRE-FT-2019.pdf"
+              },
+              {
+                "year": "2020-2021",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2021/04/ME-WRE-FT-2020-Curriculum-SYLLABUS-ONLY-converted.pdf"
+              },
+              {
+                "year": "2021-2022",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2021/11/ME-WRE-FT-2021-SYLLABUS.pdf"
+              }
+            ]
+          },
+          {
+            "key": "me",
+            "title": "M.E. Water Resources and Environmental Engineering – PT",
+            "img": "/images/others/health-b-02.png",
+            "type": "curriculum",
+            "items": [
+              {
+                "year": "2019-2020",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2021/01/2019_ME-WRE_PT.pdf"
+              },
+              {
+                "year": "2020-2021",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/12/ME-WRE-PT-2020-2021.pdf"
+              }
+            ]
+          },
+          {
+            "key": "me",
+            "title": "Ph.D. Computer Science and Engineering",
+            "img": "/images/others/health-b-02.png",
+            "type": "curriculum",
+            "items": [
+              {
+                "year": "2020-2021",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/07/PhD-CSE-2020-2021.pdf"
+              },
+              {
+                "year": "2022-2023",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2022/09/PhD-Syllabus-2022-2023.pdf"
+              },
+              {
+                "year": "2023-2024",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2023/10/PHD-2023-2024.pdf"
+              },
+              {
+                "year": "2024-2025",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/01/PHD-CSE.pdf"
+              },
+              {
+                "year": "2025-2026",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/08/Regulations.Curriculum-Syllabi-Ph.D-CSE-2025-2026.pdf"
+              }
+            ]
+          }
+        ]
+      }
+    },
+
+    {
+      "tab": "Faculty",
+      "faculty": [
+        {
+          "name": "Dr.R.Santhosh",
+          "qualification": "M.E., M.B.A., Ph.D.",
+          "designation": "Professor and Head",
+          "email": "santhosh.r@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Dr.R.Santhosh.docx.pdf",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr.N.Mohana Sundaram",
+          "qualification": "M.E., Ph.D.",
+          "designation": "Professor",
+          "email": "mohanasundaram.n@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/04/One-Page-Bio-Data-Mohanasundaram.pdf",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr.M.Vigenesh",
+          "qualification": "M.E., M.B.A, Ph.D.",
+          "designation": "Associate Professor",
+          "email": "vigenesh.murugesan@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/04/Dr.-Vigenesh-onepage.pdf",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr.K.Vanitha",
+          "qualification": "Ph.D",
+          "designation": "Associate Professor",
+          "email": "vanitha.krishnan@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Dr.K.Vanitha.docx.pdf",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr.T.Mohanraj",
+          "qualification": "M.E., Ph.D",
+          "designation": "Assistant Professor",
+          "email": "mohanraj.t@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Dr.T.Mohanraj.docx.pdf",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr.R.Dhanapal",
+          "qualification": "M.E., M.B.A, Ph.D.",
+          "designation": "Assistant Professor",
+          "email": "dhanapal.r@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Dr.R.Dhanapal.docx.pdf",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr.S.P.Sasirekha",
+          "qualification": "B.E., M.E., Ph.D..",
+          "designation": "Assistant Professor",
+          "email": "sasirekha.palanisamy@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Dr.S.P.SASIREKHA.docx.pdf",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr.D.Selva Pandian",
+          "qualification": "M.E., Ph.D.",
+          "designation": "Assistant Professor",
+          "email": "selvapandian.d@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Dr.D.Selvapandian.docx.pdf",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Ms.K.Tharageswari",
+          "qualification": "M.E., (Ph.D.)",
+          "designation": "Assistant Professor",
+          "email": "tharageswari.k@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Mrs.K.Tharageswari.docx.pdf",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Mr.D.Anandhasilambarasan",
+          "qualification": "M.E., Ph.D",
+          "designation": "Assistant Professor",
+          "email": "anandhasilambarasan.duraisamy@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/04/Mr.D.Anandhasilambarasan-One_Page_Biodata.pdf",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Mrs.N.Mekala",
+          "qualification": "M.E., (Ph.D)",
+          "designation": "Assistant Professor",
+          "email": "mekala.natarajan@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Mrs.-N.Mekala.docx.pdf",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Ms.K.Malathi",
+          "qualification": "M.E., (Ph.D)",
+          "designation": "Assistant Professor",
+          "email": "malathi.k@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Ms.K.Malathi.docx.pdf",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr.J.Alfred Daniel",
+          "qualification": "Ph.D",
+          "designation": "Assistant Professor",
+          "email": "alfreddaniel.johnwilliam@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Dr.Alfred-Daniel.docx.pdf",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Mrs.S.Nandhini",
+          "qualification": "M.E., Ph.D",
+          "designation": "Assistant Professor",
+          "email": "nandhini.sivaraj@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Mrs.S.Nandhini.docx.pdf",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Ms.S.Mahalakshmi",
+          "qualification": "Ph.D",
+          "designation": "Assistant Professor",
+          "email": "mahalakshmi.sethuraman@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Mrs.S.Mahalakshmi.docx.pdf",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Ms.A.Shalini",
+          "qualification": "M.E., (Ph.D)",
+          "designation": "Assistant Professor",
+          "email": "shalini.asokan@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Ms.A.Shalini.docx.pdf",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Ms.N.Kiruthika",
+          "qualification": "M.E., (Ph.D)",
+          "designation": "Assistant Professor",
+          "email": "kiruthika.nagaraj@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Ms.N.Kiruthika.docx.pdf",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "S.Gokilavani",
+          "qualification": "Ph.D",
+          "designation": "Assistant Professor",
+          "email": "gokilavani.soundarajan@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Mrs.S.Gokilavani.docx.pdf",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Mrs.Jinsha Lawrence",
+          "qualification": "Ph.D",
+          "designation": "Assistant Professor",
+          "email": "jinsha.lawrence@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Mrs.Jinsha-Lawrence.docx.pdf",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr.R.Hariharan",
+          "qualification": "Ph.D",
+          "designation": "Assistant Professor",
+          "email": "hariharan.ramasamy@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Dr.R.Hariharan.docx.pdf",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Ms.Benilin Leebha",
+          "qualification": "M.E.,",
+          "designation": "Assistant Professor",
+          "email": "Benilinleebha.bennetdavid@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Mrs.Benilin-Leebha.docx.pdf",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Ms.M.Shalini",
+          "qualification": "M.E.,",
+          "designation": "Assistant Professor",
+          "email": "shalini.mani@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Ms.M.Shalini.docx.pdf",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        }
+      ]
+    },
+
+    {
+      "tab": "Infrastructure",
+      "items": [
+        {
+          "type": "laboratories",
+          "title": "Laboratories",
+          "content": [
+            "Structural Engineering Laboratory",
+            "Surveying Laboratory",
+            "Soil Laboratory",
+            "Construction material Laboratory."
+          ]
+        },
+        {
+          "type": "gallery",
+          "slug": "department-of-chemical-engineering",
+          "images": [
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/cse1-571x380.png",
+              "alt": "",
+              "title": ""
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/cse2-591x395.png",
+              "alt": "",
+              "title": ""
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/cse3-558x369.png",
+              "alt": "",
+              "title": ""
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/04/UE-Lab-1-1024x768.jpeg",
+              "alt": "",
+              "title": ""
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/04/I-608-1024x473.jpeg",
+              "alt": "",
+              "title": ""
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/04/I-609-1024x768.jpeg",
+              "alt": "",
+              "title": ""
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/04/I-605-1024x576.jpeg",
+              "alt": "",
+              "title": ""
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/04/I-606-1024x576.jpeg",
+              "alt": "",
+              "title": ""
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/04/Computer-Lab-3-1024x473.jpeg",
+              "alt": "",
+              "title": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tab": "Publications",
+      "slug": "department-of-computer-science-engineering",
+      "title": "Best Five Papers Faculty wise:",
+      "subtitle": "Paper publications by the Faculty Members",
+      "content": [
+        {
+          "faculty_name": "",
+          "content": [
+            "Vignesh, M. (2024). Reinventing concrete: Exploring strength and durability with Portland slag cement. Revista Materia, 27(3).",
+            "Balasundaram, N. (2024). Enhancing concrete performance with e-plastic waste and fly ash: A sustainable approach. Revista Materia, 27(4).",
+            "Balasundaram, N. (2024). An in-depth assessment of the structural integrity and advantages of bamboo reinforced cement concrete elements (BRCC) utilizing an alternative binding material: A comprehensive evaluation. Revista Materia, 27(4).",
+            "Johnpaul, V. (2023). The effects of nano-based bio-carbonates in superhydrophobic concrete—A review. Buildings, 13(6).",
+            "Vijayshankar, G. R. (2023). Changes of geotechnical properties of heavy metal contaminated soil after solidification. Oxidation Communications, 46(3).",
+            "Vijayshankar, G. R. (2023). Effect of phytoremediation on the geotechnical properties of heavy metal contaminated soil. Global Nest Journal, 25(3).",
+            "Johnpaul, V. (2024). Feasibility assessment of medium-scale hydro-power plant: Case study in Kerala, India. Asian Journal of Water Environment and Pollution, 21(1).",
+            "Johnpaul, V. (2024). Optimizing corrosion prediction initiation time for embedded steel in concrete with shell powders using deep learning techniques. Intelligent Systems and Applications in Engineering, 12(2).",
+            "Balasundaram, N. (2024). Analysis of soil characteristics of legacy landfill at Vellalore dump site and study on reclamation of old landfill site. Journal of Balkan Tribological Association, 30(2)."
+          ]
+        }
+      ]
+    },
+    {
+      "tab": "Events",
+      "slug": "department-of-computer-science-engineering",
+      "items": [
+        {
+          "title": "National Conference / Seminar / Symposium",
+          "content": [
+            "Third National Conference “Technical Innovation and Advancement in Computational Science” (NCTIACS -24) -held on Feb 09, 2024.",
+            "Department of Computer Science and Engineering conducted the First International Conference on Emerging Research in Computational Science – 2023 held on 07th – 9th December at Karpagam Academy of Higher Education, Coimbatore brought together around 300 participants from various academic colleges and industry across the globe.",
+            "The Department of CSE has organized a Second National Conference on ‘Technical Innovation and Advancement in Computational Science – NCTIACS -23’-held on 06th February 2023 Ms. K.Sathya, Regional Sales Manager, Dell Technologies, Coimbatore,Ms. Salonisinghal Project Manager, Intel Digital Asia Pacific & amp are invited.",
+            "The Department of CSE has organized a National Level Technical Symposium”RISOVOX-23” on 9thFeburary 2023The keynote session was presented by the eminent Mr.P.Thirumoorthy Tech Lead, TrusTrace, Coimbatore.",
+            "Department of CSE organized an “International Virtual Conference on ‘Advancements in Computational Sciences’”- Alexander Muthurengan Murugaiyan, Senior Lecturer, Department of Computer and Information Science, University of Seychelles, East Africa, Gokulnath Baskaran, Network Architecture, Cognizant Worldwide Limited, London, United Kingdom Rinesh S, Assistant Professor, Department of Computer Science, Jigjiga University, Ethiopia were invited.as Chief guest held on 09 th April 2021.",
+            "Dr.B.Arunkumar, delivered Machine Learning Paradigm-Seminar on AICTE sponsored STTP Organised by Sri Krishna College of Engineering, Coimbatore on 9th December,2020",
+            "Dr.R.Dhanapal, delivered seminar on Network Tools and Practices-Vivekananda College of Engineering for Women-Department of ECE, 18thNovember,2020.",
+            "Department of Computer Science and Engineering organizes National level Technical  Symposium named “AURA 2k20” on 17.02.2020.",
+            "A Seminar on Design Thinking, Nair Vishal Vijay , EDP Coordinator, Karunya Institute of Technology and Sciences, Deemed to be University for II and III Year Students on 11.12.19",
+            "Department of Computer Science and Engineering organised State Level Conference on Advancements in Computational Sciences- Mr.K.Santhosh Kumar, Social Media Analyst, Accent Techno Soft, CBE.delivered the keynote address on 10 th March, 2020 &amp; 11 th March, 2020.",
+            "A Seminar on Digital Electronics Mr.K.Moorthi, Chief Trainer(Retd) in Telecommunication at Signal and Telecommunication Workshop,Southern Railways, Podhanur for II year Students on 28th  August 2019(FN), 29th  August 2019, 30th  August 2019.",
+            "A National Level Conference on Computational Sciences organized by the Department of CSE on April 04, 2018. 82 Participants from various Engineering colleges have attended the Conference.",
+            "A National Level Conference on Advancement in Computational Sciences’17 was organized by the Department of CSE on February 18, 2017. Mr.Vishnu Potty, Vice President, Cognizant Technology Solutions, Chairman- CSI, Coimbatore Chapter was the resource person.",
+            "A National Level Technical Symposium on Innovation in IT was organized by the Department of CSE on February 07, 2017. The invited speaker was Dr.N.K.Karthikeyan, Professor & Head, Dept of IT, Karpagam College of Engineering, Coimbatore.",
+            "A National Level Conference on Wireless, Mobile Computing and Vehicular Networking was organized by the Department of CSE on April 05, 2016. The Experts were Dr.P.Yogesh, Professor, Dept of ICT, Anna University, Guindy Campus, Chennai and Dr.M.Marikannan, Professor, Dept of CSE, IRTT, Erode.",
+            "A National Level Technical Symposium DAEMON 2K16 was organized by the Department of CSE on February 16, 2016.",
+            "CSE Department has organized a Seminar on Internet of Things on January 06, 2016. Mr.Manikandan, Project Engineer, Newareeliya Soft Tech Pvt. Ltd, Coimbatore.",
+            "A National Level Conference on Emerging Trends in Information technology (NCETIT) was organized by the Department of CSE on February 26, 2015. 47 Participants from various Engineering colleges have attended the Conference.",
+            "A National Level Technical Symposium was organized by the Department of CSE on January 22, 2015. A total number of 129 Participants from various Engineering colleges have attended the Symposium.",
+            "A National Level Conference on Emerging Trends in Information technology (NCETIT) was organized by the Department of CSE on February 26, 2015. 47 Participants from various Engineering colleges have attended the Conference."
+          ]
+        },
+        {
+          "title": "FDP",
+          "content": [
+            "Department of Computer Science and Engineering conducted a Faculty Development Program On “AI Advancements: Faculty Empowerment in Deep Learning and Computational Intelligence “from 25-09-2023 to 03-10-2023.",
+            "Mr.T.Mohanraj and Dr.R.Dhanapal, organizes A Faculty development program on Introduction to React JS- Mr. K. RanjithPrabhu, Specialist Programmer, Infosys Pvt,Ltd, 7th November 2020.",
+            "CSE department organized a Guest Lecture on “Data Structures and Algorithms” on July 29, 2019 by Dr. S. Kanimuthu, Associate Professor, Department of Information Technology, Karpagam college of Engineering, Coimbatore.",
+            "CSE department organized a Guest Lecture on “Design and Analysis of Algorithms” on December 11, 2019 by Mr. Sudharshan, Associate Professor, Department of Computer Science and Engineering, Hindustan college of Engineering, Coimbatore.",
+            "CSE Department organized “Inauguration of Computer Science and Engineering Association-2017” by Mr.S.R.Vasanth, Chief Executive Officer, Vertace Consultants, Chennai on August 07, 2017.",
+            "Department of CSE has organized an Extension Activity on “Free Cloud Services” on February 23, 2017 by Dr.R.Santhosh & Dr.B.Arunkumar AP/CSE at Government Boys Higher Secondary School, Sulur, Coimbatore.",
+            "A Three Day BOOT CAMP on Angular JS was organized by the Department of CSE from January 06, 2017 to January 08, 2017.The resource person was Mr.T.Jayamurugan, Cloud & Devops Engineer, Karya Technologies, Chennai.",
+            "CSE Department has organized a Seminar on Career Guidance in Computer Science on January 04, 2017. Dr.Vijayalakshmi, Founder, Hi-Tech, Solutions, India was the resource person.",
+            "CSE Department has Organized a Faculty development program on “Research Challenges in Big Data and Cloud Computing” from September 16, 2016 to September 17, 2016.The Resource Person was Mr.A.Bharanidharan AP/CSE, SREC, Coimbatore.",
+            "A Microsoft Certified C-Training Program on Structural Programming Techniques in Software Development was organized by the CSE Department from August 29, 2016 to August 31, 2016.The chairperson was Dr.Vijayalakshmi, Founder, Hi-Tech, Solutions, India.",
+            "Association Inauguration was organized by the Department of CSE on “Life Skill Development” on August 22, 2016.The invited Dignitary was Mr.Prasanth R.Nayar, Dept of CSE, School of Engineering, Amrita University, Coimbatore.",
+            "CSE Department has Organized a Faculty development program on “Cloud Computing Basics and Hands on Experience on Cloud Simulator tool” on June 06, 2015.The Resource Person was Mr.K.RanjithPrabhu, Software Engineer, KMIT Solution, Tidel Park, Coimbatore.",
+            "CSE Department has Organized a Faculty development program on “Big Data Analytics” on June 05, 2015.The Resource Person was Dr.Kannimuthu, Associate Professor, Department of CSE, Coimbatore Institute of Engineering and Technology, Coimbatore.",
+            "CSE Department has Organized a Faculty development program on How to apply for patents and intellectual property rights on April 24, 2015.The Resource Person was Mr.R.P.Ramanathan, Rtd CEO Tamilnadu Agriculture University.",
+            "CSE Department has Organized a Faculty development program on “Research Methodologies” on April 23, 2015.The Resource Person was Dr.Rajeswari Sivraj, Professor & Head, Department of Biotechnology, Karpagam Academy of Higher Education.",
+            "One day Faculty Development Programme: “Salesforce” is scheduled on September 16, 2017, by Mr.T.Jayamurugan, Karya Technologies, Chennai."
+          ]
+        },
+        {
+          "title": "DLS",
+          "content": [
+            "Department of Computer Science and Engineering conducted a Lecture Series for the teaching faculty members “Student-Centered Pedagogy: A Paradigm Shift in Education” on 4.11.2023.",
+            "The Department of CSE has conducted Lecture Series on “Cyber Security-Threats, Security Issues and Awareness” on 12.07.2023.",
+            "Department of Computer Science and Engineering conducted a Lecture Series for the teaching faculty members on “Unleashing Digital Possibilities with CISCO Packet Tracer” on 12.08.2023.",
+            "Department of Computer Science and Engineering conducted a Lecture Series for the teaching faculty members on “Product Design and Development-Prototyping” on 26.08.2023.",
+            "The Department of Computer Science and Engineering conducted a Lecture Series for the teaching faculty members “ Understanding the secret of writing a good research paper” on 10.02.2024. Dr.L.Selvam, Associate Professor, Department of Computer Science and Engineering.",
+            "The Department of CSE has organized a Lecture Series on “QUESTION PAPER SETTING” on 10th June,2023. Dr. B.Arun Kumar, Professor,KAHE explained the Bloom’s Taxonomy and it is a categorization that defines different levels of intelligence including thinking, learning, and understanding."
+          ]
+        },
+        {
+          "title": "Alumini Talk",
+          "content": [
+            "An Alumni Interaction Session on “User Centric Product Innovation” on 16 Oct 2023, Mr.S.Sanjay 2016-2020 B.E. – CSE, Looperality , was the resource person.",
+            "The Department of Computer Science and Engineering organized an Alumni Interaction Session on “Introduction to Medical Transcription” on 24 Jul 2023. Mrs.V.P.Vijayalakshmi 2009-2013 B.E. – CSE, Quality Analyst, Infosys, MidVoice Transcript Solutions was the resource person.",
+            "The Department of Computer Science and Engineering organized an Alumni Interaction Session on “AI in Software Testing” on 31 Jan 2024. Mrs.Infanta Abinaya K, batch (2011 – 2015), Software Testing Engineer, Park Global HR Services Private Ltd, Coimbatore.",
+            "The Department of Computer Science and Engineering organized an Alumni Interaction Session on “Scope of Data Analytics” on Feb 01, 2024. Mr. Ashik D, batch 2017 – 2020, Technology Process Executive (Data Analyst), Silicon India, Bangalore.",
+            "The Department of Computer Science and Engineering organized an Alumni Interaction Session on “Building Resilience” on Feb 09 ,2024. Mr.J.Godwin, batch (2017 – 2021), Ship Operations Coordinator, Sharaf Shipping LLC, Dubai"
+          ]
+        },
+        {
+          "title": "Other Activites",
+          "content": [
+            "One day National Level TECH FEST-2K26 on 12.02.2026.",
+            "Career Counselling Guidance program on “Next-Gen Software Careers: From Cloud to AI” for the students of IV B.E Computer Science and Engineering on 25.11.2025.",
+            "Faculty Development Program on “Data Science in Practice: Tools, Framework and Case studies” for the faculty members of Computer Science and Engineering from 17.11.2025 to 21.11.2025.",
+            "Conducted two days Hands on Training on “Building Scalable Applications with MongoDB” on 06.10.2025 and 07.10.2025.",
+            "One-day Extension activity on “Awareness program on e-Governance and Digital Service” on 30.09.2025 at village people in Nachipalayam.",
+            "Two-days hands-on-training program on “Advanced MySQL for Full Stack Development” for the students of II B.E. Computer Science and Engineering from 01.09.2025 to 02.09.2025.",
+            "Guest Lecture on “Context Free Grammar and Push Down Automata: Hands-on Approach” on 26.08.2025.",
+            "Participation in the ICT Academy 65th edition of BRIDGE’25 Conference on 21.08.2025 at Hotel Le Meridian, Coimbatore.",
+            "Guest lecture on “Foundations and Applications of Data Analytics and Visualization for the II B.E Computer Science and Engineering” on 13.08.2025.",
+            "Guest Lecture on “Node.js”” for the students of  III B.E. Computer Science and Engineering on 28.07.2025.",
+            "Guest Lecture on “Web development using PHP and MySQL” on 31.07.2025.",
+            "Alumni Meet on 26.07.2025",
+            "Hackathon on “HACK4IMPACT” on 04.08.2025 to 05.08.202",
+            "The Department of CSE has organized a Metaverse Association programme on 20.07.2023. the Chief Guests Dr. K. Muralishankar, Founder and Chief Visionary Officer, Yardstick Digital Solutions, Coimbatore.",
+            "National level Tech Fest- METAVERSE-2K24”was conducted by Department of Computer Science and Engineering on 7thFeburary 2024.",
+            "The Department of CSE has organized a career guidance program “Guidance for Higher Education” on 2nd February, 2023. Resource person Mrs.Soniya Moorthy discussed on the topic “Guidance for Higher Education”.",
+            "The ICT Academy of Tamil Nadu presents the Industry-Institute Interaction Bridge’23 program on 14th march,2023. The theme “Building Human Capital for a Trillion-Dollar Digital Economy”.",
+            "Department of Computer Science and Engineering organizes National level Technical  Symposium named “AURA 2k20” on 17.02.2020.",
+            "Department of Computer Science and Engineering organised State Level Conference on Advancements in Computational Sciences – Mr.K.Santhosh Kumar, Social Media Analyst, Accent Techno Soft, CBE delivered the keynote address on 10 th March, 2020 & 11 th March, 2020."
+          ]
+        },
+        {
+          "title": "Webinar",
+          "content": [
+            "One day Workshop on “Penetration Testing & Security” on 28.08.2025.",
+            "Mr T.MohanRaj and Dr.Laxmi Raja, organizes webinar on Effect of Emerging Technologes in Financial Sectors,- Dr.K.R.Adinadh, Vice President Information Technology, Asirvad Micro Finance Limited . 18thFebruary 2021.",
+            "Laxmi Raja and Mr D. SelvaPandian , organizes webinar on Basic Concepts in Data Protection,Subtitution Ciphers,Transposition Ciphers and Enigma,- Dr.H.Azath, Senior Assistant Professor,School of Computing Science and Engineering, VIT Bhopal University. 24thFebruary 2021.",
+            "Mr D. SelvaPandian and Dr.Laxmi Raja, organizes webinar on Principles and Practice of Sofware Engineering, Mr. Alexander Muthurengan Murugaiyan, Lecture, Department of Computer and Information Science, University of seychelies. Seychelies. 5th March 2021.",
+            "Dr R.Dhanapal and Dr.Laxmi Raja , organizes webinar on Agile Methodology, prof.E. Manju More, Assistant Professor, School of Computing and Information Technology, REVA University, Bangalore. 13th March 2021.",
+            "Laxmi Raja and B.Lanitha, organizes webinar on KNIME Data Analytics Tool,- Dr D.Sudharson, Assistant Professor, Department of AI and DS, Kumaraguru College of Technology,Coimbatore. 07 thJUNE 2021",
+            "Mrs K.Sundareswari and Mr D.Selvapandian, organizes webinar on Time Management and Leadership Skills, – Ms Kalaivan Kannalyan,Image Consultant and Happiness Coach,Look$You,Coimbatore. 19 th JUNE 2021",
+            "Laxmi Raja and Dr R.Dhanapal , organizes webinar on Recent Trend and Techniques in IOT, Dr K.Ramesh,Professor,Department of Computer Science and Engineering, Hindustan Institute of Technology and Science,Chennai.18thJUNE 2021.",
+            "Mrs K.Sundareswari and Dr B.Lanitha, organizes webinar on Role of Diet in COVID, – Ms Nasreen Jones,Active Consultant Nutritionist and Sr.Nutritionist, Feminine Fitness Quotient,Coimbatore .17 th JUNE 2021",
+            "Dr R.Dhanapal and Mr T.Mohanraj , organizes webinar on Block Chain Technology, Dr B.Santhosh Kumar, Professor, Department of Computer Science and Engineering, Guru Nanak Institute of Technology,Hyderabad. 14thJUNE 2021.",
+            "Laxmi Raja and Mrs. K. Sundareswari organizes webinar on the topic “TECHNICAL?RESEARCH ARTICLE WRITING IN IEEE FORMAT”, by Ms. Lakshmi. M. B., Former Graduate Apprentice Trainee, Vikram Sarabhai Space Centre, VSSC, ISRO, Bangalore – 11, Jun 2021",
+            "R. Dhanapal, and Dr. B. Arun Kumar organizes webinar on the topic of “BLOCKCHAIN TECHNOLOGIES” by Dr. D. Sudharson, Assistant Professor, Department of CSE, Hindusthan College of Engineering and Technology, Coimbatore – 31, December, 2020",
+            "Ms.K.Tharageswari and Dr.Laxmi Raja, organizes webinar on Algorithmic Trends Advanced concepts in DAA- Dr.K.Amuthabala, AssistantProfessor, School of Computer and Information and Technology, REVA University. 30th December 2020.",
+            "Mr.T.Mohanraj and Dr.B.Arunkumar, organizes webinar on Current Industrial Expectations In Post Pandemic Scenario Mr.V.PrasannaSreeHari, Solution Architect, HP Inc. 19th November,2020.",
+            "MR.D.Selvapandian and Dr.Laxmi Raja, organizes webinar on Windows server and virtualization- Mr.S.Santhosh, System Administrator ITC Info Tech, Bengaluru, 11th November, 2020.",
+            "Dr.R.Dhanapal and Ms.K.Tharageswari, organizes webinar on Cyber Security-Dr.R.Kaviarasan Assistant Professor, RGM College of Engineering and Technology, Andhra Pradesh. 7th October 2020.",
+            "MR.D.Selvapandian and Dr.Laxmi Raja, organizes webinar on Google Go Programming Language- Dr.RanjeetPowar, 29th June, 2020"
+          ]
+        },
+        {
+          "title": "Workshop",
+          "content": [
+            "One day workshop on “Foundations of SaaS & GTM” on 11.10.2025",
+            "Conducted a workshop on “Advanced Python Programming” from 07.10.2025 to 08.10.2025.",
+            "Workshop on “Configuring and Managing Network Services using Linux Networking” on 24.09.2025.",
+            "Two-days Workshop on “Hands-on Training in Java Essentials” from 15.09.2025 to 16.09.2025",
+            "One day Workshop on “Penetration Testing & Security” on 28.08.2025.",
+            "One day Workshop on “Intelligent Machines: Hands-on with ML, DL and Generative AI” on 21.08.2025.",
+            "The Department of Computer Science and Engineering conducted a workshop for the students on “Exploring Deep Neural Network Applications with Hands-on Training” on 30.01.2024 by Dr.K.Veningston Assistant Professor, Department of Computer Science and Engineering, National Institute of Technology, Srinagar, Jammu& Kashmir.",
+            "The Department of Computer Science and Engineering conducted a Guest Lecture on “CPU Scheduling and Deadlocks” for the II Year students of the Computer Science and Engineering on 31.01.2024 by Dr.C.N.Vanitha, Associate Professor, Department of CSE, Kongu Engineering College, Erode.",
+            "The Department of Computer Science and Engineering conducted a one day Skill Development program on Advanced Networking Techniques on 27.09.2023 by Mrs.M.Sugapriya,Senior Technical Trainer (NSG-Network Security Group) Global Support Training- Sophos Technologies, Ahmedabad.",
+            "Department of Computer Science and Engineering has organised a workshop “Internet of Things” on 20.09.2023. The Resource person Mr.Arun Venkatesh ,Chief Executive Officer,Karyoun Innovation Pvt Ltd,Chennai.",
+            "The Department of CSE has organized a ONE DAY WORKSHOP “OUTCOME BASED EDUCATION” on 08.07.2023. Resource Person Dr. K. Venkadeshwaran, Professor & Program Head(Mechanical) Faculty of Engineering and Technology, Jain University, Bangalore.",
+            "The Department of Computer Science and Engineering conducted a Guest Lecture on “UML Test Cases” Dr.V. Praveena, Professor, Department of CSE, Dr.N.G.P. Institute of Technology, Coimbatore.",
+            "The Department of Computer Science and Engineering conducted a Guest Lecture on “Modernizing Collaboration: Exploring the Intersection of Databases, Cloud Computing and Virtualization” by Dr.Padma Selvaraj, Professor, Department of CST, Madanapalle Institute of Technology & Science, Andhra Pradesh.",
+            "The Department of Computer Science and Engineering conducted a Workshop on “Image Synthesis and Generation using Generative Adversarial Networks with Hands-on training” by speaker Dr.P.Natesan, Professor, Department of Information Technology, Kongu Engineering College, Perundurai.",
+            "The Department of Computer Science and Engineering conducted a Guest Lecture on “Exploring Transaction Management and Concurrency Control in Database Systems” by Dr. R. Manjula Devi, Professor, Department of Computer Science and Engineering, KPR Institute of Engineering and Technology, Coimbatore.",
+            "Dr.B.Arunkumar, organizes workshop on Advances in Computational Science and Technology-Mrs.V.Narmadha, Senior Manager,Newareeliya Soft Tech, CBE, 02nd March, 2020.",
+            "Dr.R.Santhosh, organizes workshop on IoT- Home Automation- Mr.A.VishnuPriyadharshan , CEO, Newareeliya Soft Tech Pvt Ltd, 03rd to 5th March, 2020.",
+            "Mr.D.Selvapandian and Dr.R.Santhosh, organizes workshop on Cyber Security Tools Sankarraj S,CEO, Prompt Infotech, 25th July 2019.",
+            "Mr.T.Mohanraj, organizes workshop on Data Communication and Networking-19th August 2019(FN),20th  August 2019, 21th  August 2019(FN), 22th  August 2019, 26th  August 2019,27th  August 2019.",
+            "A one day workshop on Cybersecurity tools was organized by the department of CSE on July 25, 2019. The resource person was Mr. Sankarraj Subramaniam, CEO, PROMPT Infotech.",
+            "A one day workshop on Data Communication and networking organized by the department of CSE on August 19, 2019. The invited speaker is Mr. Moorthi, Telecom Engineer (Retd), Southern Railways.",
+            "A one day Workshop on Android Soft Skill Development was organized by the Department of CSE on February 08, 2017. The invited speakers were Mr. Bright Varghese and Mr.Plessed Prince, Professor, Dept of IT, Karunya University, Coimbatore.",
+            "A Three Day Workshop on Advanced Digital Marketing was organized by the Department of CSE from February 02, 2017 to February 4, 2017. The resource person was Mr.G.Suresh, E-com specialist / Full web developer, Chennai.",
+            "A one day Workshop on Android was organized by the Department of CSE on August 19, 2016. The invited Dignitary was Mr.K.Balamurugan, Senior Software Engineer, Newareeliya Soft Tech Pvt. Ltd, Coimbatore.",
+            "A one day Workshop on “Hack track” was organized by the Department of CSE on January 23, 2015. The invited Dignitary was Mr.K.RanjithPrabhu, Software Engineer, KMIT Solution, Tidel Park, Coimbatore."
+          ]
+        },
+        {
+          "title": "Seminar",
+          "content": [
+            "Seminar on “SQL Database Design Patterns for Backend Developers” on 17.09.2025.",
+            "Seminar on “Amazon Web Services” on 26.08.2025.",
+            "Seminar on “Building Single Page Applications (SPA) with Vanilla JavaScript techniques” on 30.07.2025.",
+            "The Department of Computer Science and Engineering conducted a Industrial seminar for the students on “Capacity Building Program on Data Analyst” on 13.02.2024 by Mr.Maheswar Narayanan, Senior Manager, Imarticus Learning Private Limited, Coimbatore.",
+            "A webinar for the students on “CLOUD COMPUTING AND AWS” by Dr.Garima Sinha, Faculty of Engineering and Technology, Jain University, Bangalore.",
+            "The Department of Computer Science and Engineering conducted a seminar for the students on “UI and UX design” on 21.09.2023 by Mr.K.BoopathiKumar, CEO, Training Trains, Coimbatore.",
+            "Department of Computer Science and Engineering conducted a webinar for the students on “EDGE COMPUTING AND ITS APPLICATIONS” on 31.08.2023 by Dr.P.Tamil Selvi, Professor/CSE,Rajalakshmi Engineering College,Chennai.",
+            "The Department of Computer Science and Engineering has organised a seminar “Critical Thinking-A Problem Solving Methodology” on 04.07.2023. The resource person MrRaghul Das, Senior Associate Consultant, Infosys Bangalore.",
+            "The Department of CSE has organized a Seminar on “Intellectual Property (IP) Management at Early Stage of Innovation and Start-ups”on 27th January,2023. Dr. Partheepan Rudrapati started his insightful session by stating Intellectual property is a category of property that includes intangible creations of the human intellect, and primarily encompasses copyrights, patents, and trademarks.",
+            "The Department of CSE has organized a Seminar on “AWARENESS ON AMAZON WEB SERVICES””on 31st January,.2023 . The speaker Mr. Thomas Philip Govindrajan, AWS Trust & Safety Manager, Amazon AWS, Bangalore.",
+            "The Department of CSE has organized a Seminar on “Future Innovators with IoT” on 10th Feb 2023. The resource person Mr.Arun Discussed about IoT components and its Uses.",
+            "Dr.B.Arunkumar, delivered Machine Learning Paradigm-Seminar on AICTE sponsored STTP Organised by Sri Krishna College of Engineering, Coimbatore on 9th December,2020.",
+            "Laxmi Raja and Mr D. SelvaPandian , organizes webinar on Basic Concepts in Data Protection,Subtitution Ciphers,Transposition Ciphers and Enigma,- Dr.H.Azath, Senior Assistant Professor,School of Computing Science and Engineering, VIT Bhopal University. 24thFebruary 2021."
+          ]
+        },
+        {
+          "title": "Extension Activity",
+          "content": [
+            "36 Hours National Level “Hacksprint2.0” on 21.01.2026 @ 08.00 AM to 22.01.2026 @ 08.00 PM.",
+            "Department of Computer Science and Engineering in coordination with Extension cell, Karpagam Academy of Higher Education has successfully organized an Extension activity at Government School, Malumichampatty, Coimbatore on 01.09.2023 with the theme, Innovation & Entrepreneurship Outreach Program in Schools-Revolutionizing Connectivity: “Cutting-Edge Concepts in Internet of Things”.",
+            "The Department of Computer Science and Engineering in coordination with Extension cell has successfully conducted an Extension activity for the school students on 11.03.2024 at Ottakkalmandapam, Coimbatore, with the theme “Innovative Realms: Exploring Boundary-Pushing Concepts in 3D Game Development”.",
+            "The Department of Computer Science and Engineering in coordination with Extension cell and Rotaract Club, Karpagam Academy of Higher Education has successfully organized an Extension activity on 31st January, 2023 at Government School, Malumichampatty, Coimbatore with the theme “Cyber Safe Girl Awareness Programme”."
+          ]
+        }
+      ]
+    }
+  ]
+}
