@@ -21,8 +21,8 @@ const DepartmentOfBiomedicalEng = () => {
   const breadcrumbItems = [
     { label: 'Academics', href: `academics` },
     {
-      label: 'Arts, Science, Commerce and Management',
-      href: `academics/arts-science-and-humanities/`,
+      label: 'engineering',
+      href: `academics/engineering/`,
     },
 
     { label: 'Department of Biomedical Engineering' },

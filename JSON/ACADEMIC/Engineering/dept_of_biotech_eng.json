@@ -73,7 +73,7 @@
             "type": "programme"
           },
           {
-            "key": "ug",
+            "key": "res",
             "title": "Research Programme",
             "img": "/images/others/health-b-02.png",
             "items": ["Ph.D Biotechnology (Engineering)"],
@@ -355,69 +355,44 @@
           "slug": "department-of-biochemistry",
           "images": [
             {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/Ultra-Violet-Visible-Spectrometer-150x150.png",
-              "alt": "Visible Spectrometer - Top Science College in Coimbatore",
-              "title": "Visible Spectrometer – Top Science College in Coimbatore"
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/Students-at-the-Biochemistry-and-Micro-biology-Labs1-350x339.png",
+              "alt": "",
+              "title": ""
             },
             {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/High-Perfomance-Liquid-Chromatography-150x150.png",
-              "alt": "Liquid Chromatography - Best college for Science in Coimbatore",
-              "title": "Liquid Chromatography – Best college for Science in Coimbatore"
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/Students-at-the-Biochemistry-and-Micro-biology-Labs2-375x327.png",
+              "alt": "",
+              "title": ""
             },
             {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/GAS-Chromatography-150x150.png",
-              "alt": "Gas Chromatography - Best Engineering college in India",
-              "title": "Gas Chromatography – Best Engineering college in India"
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/Students-at-the-Biochemistry-and-Micro-biology-Labs4-400x339.png",
+              "alt": "",
+              "title": ""
             },
             {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/fourier-trandform-infrared-spectroscopy-150x150.png",
-              "alt": "Infrared Spectroscopy - Best Science College in Tamilnadu",
-              "title": "Infrared Spectroscopy – Best Science College in Tamilnadu"
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/Students-at-the-Teaching-Laboratory2-400x392.png",
+              "alt": "",
+              "title": ""
             },
             {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/Elisa-Plate-Reader-150x150.png",
-              "alt": "Elisa Plate Reader - Best Educational Institute in India",
-              "title": "Elisa Plate Reader – Best Educational Institute in India"
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/Students-operating-Fluorimeter-and-Nephelometer-233x340.png",
+              "alt": "",
+              "title": ""
             },
             {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/bc_gallery1-150x150.png",
-              "alt": "Medical camp - Coimbatore Best Engineering college",
-              "title": "Medical camp – Coimbatore Best Engineering college"
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/Students-operating-the-Fluidized-and-Packed-bed-Colums-450x348.png",
+              "alt": "",
+              "title": ""
             },
             {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/bc_gallery2-150x150.png",
-              "alt": "KAHE Volunteers - Coimbatore degree colleges",
-              "title": "KAHE Volunteers – Coimbatore degree colleges"
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/Students-operating-the-Fluidized-and-Packed-bed-Colums1-350x348.png",
+              "alt": "",
+              "title": ""
             },
             {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/bc_gallery3-150x150.png",
-              "alt": "Karpagam Group - Top 10 Arts Colleges in Coimbatore",
-              "title": "Karpagam Group – Top 10 Arts Colleges in Coimbatore"
-            },
-            {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/bc_gallery4-150x150.png",
-              "alt": "KAHE activities - Top college for Engineering",
-              "title": "KAHE activities – Top college for Engineering"
-            },
-            {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/03/pht-150x150.png",
-              "alt": "Lab experiment - Best Pharmacy College in Coimbatore",
-              "title": "Lab experiment – Best Pharmacy College in Coimbatore"
-            },
-            {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/03/pht-1-150x150.png",
-              "alt": "Initiatives - Best Arts and Science College in India",
-              "title": "Initiatives – Best Arts and Science College in India"
-            },
-            {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/03/pht-2-150x150.png",
-              "alt": "Student Projects - Top Engineering college",
-              "title": "Student Projects – Top Engineering college"
-            },
-            {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/03/pht-3-150x150.png",
-              "alt": "Projects at KAHE - Top college for Arts and Science",
-              "title": "Projects at KAHE – Top college for Arts and Science"
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/Students-working-at-the-Rotary-Drum-Filter-500x382.png",
+              "alt": "",
+              "title": ""
             }
           ]
         }
