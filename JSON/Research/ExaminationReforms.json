@@ -1,0 +1,27 @@
+{
+  "bannerCon": {
+    "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+    "title": "Examination Reforms",
+    "bannerCon": "To be a leading institution in the field of education, providing quality education and training to students and professionals.",
+    "applyLink": "/"
+  },
+  "fundedResearch": {
+    "title": "Examination Reforms",
+
+    "content": [
+      {
+        "subtitle": "KAHE Examination Reforms",
+        "id": 1,
+        "list": [
+          {
+            "src": "/images/Kahe/Innerpages/file.png",
+            "title": "KAHE Examination Reforms",
+            "item": "Open Pdf",
+            "url": "https://kahedu.edu.in/n/wp-content/uploads/2025/03/KAHE_Examinations-reforms.pdf"
+          }
+        ]
+      }
+     
+    ]
+  }
+}
