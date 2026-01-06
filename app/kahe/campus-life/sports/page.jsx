@@ -6,7 +6,7 @@ export const metadata = {
 const page = () => {
   return (
     <>
-      sports
+      sports page
     </>
   );
 };
