@@ -33,6 +33,7 @@ export default function HomeHighlights() {
 
             {/* Content Column */}
             <div className={styles.content}>
+   
               <h3>{item.title}</h3>
               <p>{item.text}</p>
             </div>

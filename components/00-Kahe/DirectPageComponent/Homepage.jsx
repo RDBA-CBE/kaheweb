@@ -15,6 +15,7 @@ import HomeHighlights from "@/components/01-Main-Demo/HomeHighlights/HomeHighlig
 import NewsEvents from "@/components/01-Main-Demo/NewsEvents/NewsEvents";
 import KeyRecruiters from "@/components/01-Main-Demo/KeyRecruiters/KeyRecruiters";
 import VirtualCampusTour from "@/components/01-Main-Demo/VirtualTour/VirtualTour";
+import HomeFeaturesSection from "@/components/01-Main-Demo/HomeFeatures/HomeFeaturesSection";
 
 const Homepage = async ({ getBlog }) => {
   const blog = await getAllPostsMeta();
@@ -25,6 +26,7 @@ const Homepage = async ({ getBlog }) => {
       <RecognitionsSection/>
       <HomeHighlights />
       <AcademicPrograms />
+      <HomeFeaturesSection />
       <NewsEvents />
       <KeyRecruiters />
       <VirtualCampusTour />

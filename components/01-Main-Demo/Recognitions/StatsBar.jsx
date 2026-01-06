@@ -11,7 +11,7 @@ export default function StatsBar() {
       <div className="stats-inner">
         {stats.map((item, index) => (
           <div className="stat-item" key={index}>
-            <h3>{item.value}</h3>
+            <h1>{item.value}</h1>
             <p>{item.label}</p>
           </div>
         ))}

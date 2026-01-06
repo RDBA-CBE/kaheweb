@@ -16,18 +16,18 @@
 /* Grid layout: 75% image, 25% content */
 .grid {
   display: grid;
-  grid-template-columns: 3fr 1fr; /* 75% / 25% */
+  grid-template-columns: 7fr 5fr; /* 75% / 25% */
   gap: 20px;
   align-items: stretch;
 }
 
 /* Reverse layout for alternate rows */
 .reverse {
-  direction: rtl;
+  direction: rtl; 
 }
 
 .reverse > * {
-  direction: ltr; /* keep text normal */
+  direction: ltr; /* keep text normal */ 
 }
 
 /* Image column */
@@ -53,15 +53,49 @@
   justify-content: center;
 }
 
+.reverse .content {
+  background-color: #26a089; /* 🔁 new color */
+}
 .content h3 {
   margin-top: 0;
-  margin-bottom: 16px;
+  margin-bottom: 16px; color: #fff;
 }
 
 .content p {
   margin: 0;
 }
 
+.titleWrap {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  white-space: nowrap;   /* prevents wrapping */
+}
+
+.titleWrap h3 {
+  margin: 0;
+  color: #fff;
+  font-size: 20px;
+}
+
+/* Optional: allow title to wrap but keep icon fixed */
+@media (max-width: 480px) {
+  .titleWrap {
+    white-space: normal;
+  }
+}
+
+
+.titleIcon {
+  width: 36px;
+  height: 36px;
+  object-fit: contain;
+}
+
+.content h3 {
+  margin: 0 0 20px 0;
+  color: #fff; 
+}
 /* Responsive */
 @media (max-width: 768px) {
   .grid {

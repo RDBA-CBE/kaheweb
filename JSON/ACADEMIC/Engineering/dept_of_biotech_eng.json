@@ -351,43 +351,6 @@
           ]
         },
         {
-          "type": "equipment",
-          "title": "Major Research Equipments",
-          "content": [
-            "ELISA Reader",
-            "Thermal Cycler",
-            "Horizontal and Vertical Electrophoresis Unit",
-            "Wet Transfer Unit",
-            "Semi-dry Transfer Unit",
-            "Laminar Chamber for Animal Tissue Culture",
-            "CO2 Incubator",
-            "Inverted Phase Contrast Microscope",
-            "Fluorescence Microscope",
-            "Orbital Shaker",
-            "Rotary Evaporator",
-            "Laminar Chamber for Microbiology",
-            "Refrigerated centrifuge",
-            "Millipore Water System",
-            "Photo Fluorimeter",
-            "Centrifuge (4 bucket)",
-            "Colorimeter",
-            "Soxhlet Apparatus",
-            "Magnetic Stirrer",
-            "Incubator",
-            "Conductivity meter",
-            "Water bath",
-            "Electronic balance",
-            "Microscope",
-            "Hot air oven",
-            "Cyclo mixer",
-            "pH meter",
-            "Lyophilizer (Borg Scientific)",
-            "Bio-rad gel documentation (Biorad)",
-            "Individual Ventilated Caging System (IVC)",
-            "Cooling Microcentrifuge"
-          ]
-        },
-        {
           "type": "gallery",
           "slug": "department-of-biochemistry",
           "images": [

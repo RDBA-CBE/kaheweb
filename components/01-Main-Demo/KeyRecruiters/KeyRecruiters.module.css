@@ -1,21 +1,18 @@
 .section {
   max-width: 1600px;
   margin: 0 auto;
-  padding: 80px 24px;
+  padding: 40px 24px;
 }
 
 .heading {
-  font-size: 32px;
   font-weight: 500;
-  color: #5a6775;
   margin-bottom: 40px;
 }
 
-/* MAIN ROW */
-.row {
+/* LAYOUT */
+.layout {
   display: flex;
   align-items: center;
-  gap: 48px;
 }
 
 /* STATS */
@@ -26,99 +23,101 @@
   flex-shrink: 0;
 }
 
-.statItem h3 {
-  font-size: 42px;
+.stats h3 {
   margin: 0;
-  color: #4a5563;
+  font-size: 52px;
   line-height: 1;
 }
 
-.statItem p {
-  margin: 6px 0 0;
-  color: #7a8795;
-  font-size: 16px;
+.stats p {
+  margin-top: 6px;
+  color: #7a8795; font-size:20px;
 }
 
 .divider {
   width: 1px;
-  height: 64px;
-  background: #cfcfcf;
+  height: 84px;
+  background: #222;
 }
 
-/* SLIDER */
+/* SLIDER — PUSH TO RIGHT EDGE */
 .slider {
   display: flex;
   align-items: center;
-  gap: 20px;
-  flex: 1;
+  gap: 16px;
+  margin-left: auto;        /* 🔥 KEY FIX */
 }
 
+/* ARROWS */
 .arrow {
   background: none;
   border: none;
-  font-size: 30px;
+  font-size: 26px;
   cursor: pointer;
   color: #777;
-  padding: 4px 8px;
 }
 
-/* RESPONSIVE VIEWPORT */
+/* VIEWPORT */
 .viewport {
   overflow: hidden;
-  width: 100%;
+  width: 960px; /* 5 cards */
+  touch-action: pan-y;
 }
 
-/* LOGO STRIP */
-.logos {
+.track {
   display: flex;
-  align-items: center;
   gap: 24px;
-  transition: transform 0.4s ease;
+  transition: transform 0.45s ease;
 }
 
-/* LOGO CARD */
-.logoCard {
-  min-width: 160px;
+/* CARD */
+.card {
+  min-width: 176px;
   height: 72px;
+  background: #fff;
   display: flex;
   align-items: center;
   justify-content: center;
-  background: #fff;
 }
 
-.logoCard img {
-  max-width: 130px;
-  max-height: 56px;
+.card img {
+  max-width: 140px;
+  /*max-height: 56px;*/
+  height: auto;
   object-fit: contain;
 }
 
-/* -------- MOBILE -------- */
+/* RESPONSIVE */
+@media (max-width: 1200px) {
+  .viewport {
+    width: 720px;
+  }
+}
+
+@media (max-width: 900px) {
+  .viewport {
+    width: 520px;
+  }
+}
+
 @media (max-width: 1024px) {
-  .row {
+  .layout {
     flex-direction: column;
     align-items: flex-start;
     gap: 32px;
   }
 
-  .stats {
-    gap: 24px;
-  }
-
   .slider {
-    width: 100%;
+    margin-left: 0;
   }
 }
 
 @media (max-width: 600px) {
-  .statItem h3 {
+  .viewport {
+    width: 100%;
+  }
+
+  .stats h3 {
     font-size: 34px;
-  }
-
-  .divider {
-    height: 48px;
-  }
-
-  .arrow {
-    font-size: 24px;
   }
 }

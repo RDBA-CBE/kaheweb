@@ -5,9 +5,8 @@
 }
 
 .heading {
-  text-align: center;
+  text-align: left;
   margin-bottom: 40px;
-  font-size: 28px;
   font-weight: 500;
 }
 
@@ -67,12 +66,12 @@
 
 .eventsScrolling li p {
   margin: 0;
-  font-size: 14px;
+  font-size: 18px;
   line-height: 1.4;
 }
 
 .eventsScrolling li span {
-  font-size: 12px;
+  font-size: 16px;
   color: #777;
 }
 
