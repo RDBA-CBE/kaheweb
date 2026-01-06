@@ -529,6 +529,62 @@ export const Placement = {
   ],
 };
 
+export const OfficeOfInternationalAffairsJson = {
+  title: "Office of International Affairs",
+  content: [
+   
+    {
+      category: " Office of International Affairs",
+      link: "/office-of-international-affairs/",
+    },
+    {
+      category: "Overview",
+      link: "/office-of-international-affairs/office-of-international-affairs-overview/",
+    },
+    {
+      category: "Partnerships & Scholarships",
+      link: "/office-of-international-affairs/partnerships-scholarships/",
+      items: [
+        {
+          name: "Bon Voyage Scholarship",
+          link: "/office-of-international-affairs/bon-voyage-scholarship/",
+        },
+      ],
+    },
+    {
+      category: "Collaboration and Mobility",
+      link: "/office-of-international-affairs/collaboration-and-exchanges/",
+      items: [
+        {
+          name: "Students Exchange Program",
+          link: "/office-of-international-affairs/collaboration-and-exchanges/students-exchange-program/",
+        },
+        {
+          name: "Faculty Exchange Program",
+          link: "/office-of-international-affairs/collaboration-and-exchanges/faculty-exchange-program/",
+        },
+      ],
+    },
+    {
+      category: "Foreign Languages",
+      link: "/office-of-international-affairs/foreign-languages/",
+    },
+    {
+      category: "International Admissions",
+      link: "/office-of-international-affairs/international-admissions/",
+    },
+    {
+      category: "Testimonials",
+      link: "/office-of-international-affairs/testimonials/",
+    },
+    {
+      category: "Contact",
+      link: "/office-of-international-affairs/contact/",
+    },
+  ],
+};
+
+
 
 
 

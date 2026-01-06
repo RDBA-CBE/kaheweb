@@ -5,7 +5,11 @@ import Link from "next/link";
 import { FaChevronRight } from "react-icons/fa";
 import { useAppContext } from "@/context/Context";
 
-const StickyBreadcrumb = ({ items = [], showHome = true }) => {
+const StickyBreadcrumb = ({
+  items = [],
+  showHome = true,
+  quickLink = true,
+}) => {
   const { sidebar, setSidebar } = useAppContext();
 
   // Default Home item
@@ -54,16 +58,18 @@ const StickyBreadcrumb = ({ items = [], showHome = true }) => {
           );
         })}
       </ol>
-
-      <span className="mobile-menu-bar d-none d-lg-block sidebar">
-        <div
-          href="#"
-          className="hamberger"
-          onClick={() => setSidebar(!sidebar)}
-        >
-          <span>Quick Links</span><i className="feather-menu"></i>
-        </div>
-      </span>
+      {quickLink && (
+        <span className="mobile-menu-bar d-none d-lg-block sidebar">
+          <div
+            href="#"
+            className="hamberger"
+            onClick={() => setSidebar(!sidebar)}
+          >
+            <span>Quick Links</span>
+            <i className="feather-menu"></i>
+          </div>
+        </span>
+      )}
     </nav>
   );
 };

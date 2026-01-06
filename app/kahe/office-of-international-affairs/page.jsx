@@ -1,3 +1,5 @@
+import ExamNotification from "@/components/00-Kahe/ExaminationComponents/ExamNotification";
+import OfficeOfInternationalAffairs from "@/components/00-Kahe/OfficeOfInternationalCompoenets/OfficeOfInternationalAffairs";
 import PlacementCom from "@/components/00-Kahe/Training&PlacementComs/PlacementCom";
 
 export const metadata = {
@@ -7,7 +9,7 @@ export const metadata = {
 const page = () => {
   return (
     <>
-      <PlacementCom/>
+      <OfficeOfInternationalAffairs table={false} />
     </>
   );
 };
