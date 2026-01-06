@@ -1,0 +1,58 @@
+{
+  "bannerCon": {
+    "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+    "title": "Study in India",
+    "bannerCon": "To be a leading institution in the field of education, providing quality education and training to students and professionals."
+  },
+  "Downloads": {
+    "title": "",
+    "content": [
+      {
+        "tabTi": "Applications",
+        "tabId": "applications",
+        "title": "Study in India",
+        "annualResearch15": {
+          "title": "Study in India",
+          "content": [
+            {
+              "subtitle": "Study in India",
+              "id": 1,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "item": "Open Brochure",
+                  "url": "https://kahedu.edu.in/n/wp-content/uploads/2025/03/KAHE_Study-in-India-page.pdf",
+                  "target": "_blank"
+                }
+              ]
+            },
+            {
+              "subtitle": "https://studyinindia.gov.in/studyin_india_sii",
+              "id": 2,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "item": "Open Brochure",
+                  "url": "https://studyinindia.gov.in/",
+                  "target": "_blank"
+                }
+              ]
+            }
+          ],
+          "src": [
+            {
+              "id": 1,
+              "src": "/images/Kahe/Innerpages/image-1.jpg",
+              "target": "_blank"
+            }
+          ]
+        }
+       
+      }
+     
+    
+    ],
+    "image": "/images/Kahe/Innerpages/research-programme.png",
+    "apply_link": "https://admissions.kifees.com/phd"
+  }
+}
