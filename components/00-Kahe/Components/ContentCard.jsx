@@ -12,6 +12,13 @@ const ContentCard = ({ data }) => {
           }}
         ></h2>}
 
+        { data?.title1 &&  <h2
+          className="main-ti text-black"
+          dangerouslySetInnerHTML={{
+            __html: FirstLetterUp(data?.title1)
+          }}
+        ></h2>}
+
         <div className=" omb-sec py-4">
           {data?.content?.map((data, index) => (
             <div className="omb-item1" key={index}>

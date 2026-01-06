@@ -2542,7 +2542,7 @@
   border-bottom: 1px solid #e6e4e4 !important;
 }
 .slider-con .omb-sec {
-grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
 }
 
 .omb-item1 {
@@ -2554,6 +2554,11 @@ grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
   max-height: 280px; /* cap only */
   overflow: auto; /* scroll if content exceeds */
 }
+.mom .omb-item1 {
+ max-height: fit-content;
+ background: #e0fff1;
+}
+
 .omb-item1:hover{
  background: #e0fff1;
 }

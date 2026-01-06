@@ -1,12 +1,9 @@
 "use client";
 
-import { Placement } from "@/JSON/ACADEMIC/Overview";
+import { Administration } from "@/JSON/ACADEMIC/Overview";
 import data from "../../../JSON/Administration/IQAC.json";
 import InnerBanner from "@/components/00-Kahe/common-components/InnerBanner";
 import Sidebar from "../common-components/Sidebar";
-
-
-import TrainingTabInnerSec from "../Components/TrainingTabInnerSec";
 import IQACInnerTab from "../Components/IQACInnerTab";
 
 export const metadata = {
@@ -15,19 +12,19 @@ export const metadata = {
 };
 
 const IQACCom = () => {
-  const Training = data;
+  const IQAC = data;
 
   return (
     <>
-      <InnerBanner data={Training?.bannerCon} />
+      <InnerBanner data={IQAC?.bannerCon} />
 
       <main className="section-wid d-flex section-bg1 ">
         <div className="rbt-course-details-area w-100">
           <div className="row g-5">
             <div className="col-lg-9">
               <IQACInnerTab
-                tabSections={Training.tabs}
-                tabContent={Training.tabContent}
+                tabSections={IQAC.tabs}
+                tabContent={IQAC.tabContent}
               />
             </div>
 
@@ -35,7 +32,7 @@ const IQACCom = () => {
               <div className="course-sidebar sticky-top">
                 <div className="inner">
                   <div className="content-item-content">
-                    <Sidebar subMenu={Placement} />
+                    <Sidebar subMenu={Administration} />
                   </div>
                 </div>
               </div>

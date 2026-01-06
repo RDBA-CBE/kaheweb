@@ -16,7 +16,7 @@ const Commitee = ({ data }) => {
         {data?.content?.map((item, index) => (
           <div className={`${data?.clsName ? data?.clsName : "col-lg-3 col-md-6 col-sm-6 col-12"} d-flex`} key={index}>
             <Link
-              href={item?.url || "#"}
+              href={item?.url || "#"} target={item?.target && item?.target}
               className="rbt-cat-box rbt-cat-box-1 text-center d-flex w-100"
             >
               <div className="inner d-flex flex-column w-100">
