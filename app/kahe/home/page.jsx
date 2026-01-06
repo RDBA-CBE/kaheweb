@@ -1,6 +1,6 @@
 
+import HomePageLayout from "@/app/01-main-demo/(main-demo)";
 import { getAllPostsMeta } from "@/mdx";
-import HomePageLayout from "../01-main-demo/(main-demo)";
 
 export const metadata = {
   title: "Karpagam Academy of Higher Education - Deemed University",
