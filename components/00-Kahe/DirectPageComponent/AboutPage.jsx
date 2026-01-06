@@ -29,10 +29,7 @@ const VissionPage = () => {
 
       <section className="section-wid section-bg1 mb-4">
         <Recognition data = {aboutData?.recognition}/>
-      </section>
-      
-
-      
+      </section>     
     </>
   );
 };
