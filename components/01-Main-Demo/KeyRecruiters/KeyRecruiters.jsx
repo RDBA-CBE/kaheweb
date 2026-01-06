@@ -10,7 +10,21 @@ const recruiters = [
   { name: "LTIMindtree", logo: "/images/Kahe/home/key/LOGO-12.jpg" },
   { name: "Infosys", logo: "/images/Kahe/home/key/LOGO-1.jpg" },
   { name: "CTS", logo: "/images/Kahe/home/key/LOGO-8.jpg" },
+  { name: "Capgemini", logo: "/images/Kahe/home/key/LOGO-9.jpg" },
+  { name: "Amazon", logo: "/images/Kahe/home/key/LOGO-10.jpg" },
+  { name: "IBM", logo: "/images/Kahe/home/key/LOGO-11.jpg" },
+  { name: "Verizon", logo: "/images/Kahe/home/key/LOGO-12.jpg" },
+  { name: "Hexaware", logo: "/images/Kahe/home/key/LOGO-13.jpg" },
+  { name: "Paypal", logo: "/images/Kahe/home/key/LOGO-14.jpg" },
+  { name: "Urjanet", logo: "/images/Kahe/home/key/LOGO-15.jpg" },
+  { name: "Moonraft", logo: "/images/Kahe/home/key/LOGO-16.jpg" },
+  { name: "DXC Technology", logo: "/images/Kahe/home/key/LOGO-17.jpg" },
+  { name: "Aspire", logo: "/images/Kahe/home/key/LOGO-18.jpg" },
+  { name: "Odessa", logo: "/images/Kahe/home/key/LOGO-19.jpg" },
+  { name: "Vernalis", logo: "/images/Kahe/home/key/LOGO-20.jpg" },
 ];
+
+
 
 const data = [...recruiters, ...recruiters];
 

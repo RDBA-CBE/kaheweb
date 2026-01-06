@@ -119,7 +119,7 @@
 // export default Footer;
 
 import React from "react";
-import logo from "../../../public/images/logo/logo.png";
+import logo from "../../../public/images/Kahe/logo/logo-white.png";
 import Link from "next/link";
 
 const Footer = () => {
