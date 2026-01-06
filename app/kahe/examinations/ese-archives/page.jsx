@@ -1,4 +1,5 @@
-import ExamNotification from "@/components/00-Kahe/ExaminationComponents/ExamNotification";
+import EseArchives from "@/components/00-Kahe/ExaminationComponents/EseArchives";
+import EseTest from "@/components/00-Kahe/ExaminationComponents/EseTest";
 
 export const metadata = {
   title: "About Us 01 - Online Courses & Education NEXTJS14 Template",
@@ -7,7 +8,7 @@ export const metadata = {
 const page = () => {
   return (
     <>
-      <ExamNotification  table={false}/>
+      <EseArchives  />
     </>
   );
 };

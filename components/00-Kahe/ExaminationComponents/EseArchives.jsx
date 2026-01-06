@@ -1,7 +1,7 @@
 "use client"
 
 import { Examinations } from "@/JSON/ACADEMIC/Overview";
-import data from "../../../JSON/Examination/ExamNotification.json";
+import data from "../../../JSON/Examination/EseArchive.json";
 import InnerBanner from "@/components/00-Kahe/common-components/InnerBanner";
 import Sidebar from "../common-components/Sidebar";
 
@@ -13,7 +13,7 @@ export const metadata = {
   description: "Online Courses & Education NEXTJS14 Template",
 };
 
-const ExamNotification = (props) => {
+const EseArchives = (props) => {
   const {table = true}=props
   const Examination = data;
 
@@ -27,7 +27,13 @@ const ExamNotification = (props) => {
           <div className="row g-5">
             <div className="col-lg-9">
               {table?
+              <>
               <TableCom data={Examination?.examiNotify} />
+              <TableCom data={Examination?.examTimeTable} />
+             
+
+              </>
+
               :
               <Commitee data={Examination?.examinations} />
 }
@@ -49,4 +55,4 @@ const ExamNotification = (props) => {
   );
 };
 
-export default ExamNotification;
+export default EseArchives;

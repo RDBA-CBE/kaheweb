@@ -1,0 +1,408 @@
+{
+  "bannerCon": {
+    "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+    "title": "End Semester Exam Timetable",
+    "bannerCon": "To be a leading institution in the field of education, providing quality education and training to students and professionals."
+  },
+  "examiNotify": {
+    "title": "End Semester Exam Timetable",
+    "content": [
+      {
+        "head": [
+          {
+            "id": "col1",
+            "label": "S. No."
+          },
+          {
+            "id": "col2",
+            "label": "Faculty of Performing Arts"
+          }
+        ],
+        "data": [
+          {
+            "col1": {
+              "text": "1"
+            },
+            "col2": {
+              "text": "FPA UG 2025 BATCH I YEAR ESE TIME TABLE DEC 2025",
+              "url": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/FPA-UG-2025-BATCH-I-YEAR-ESE-TIME-TABLE-DEC-2025.pdf",
+              "img_icon": "/images/Kahe/Innerpages/file.png",
+              "target": "__blank"
+            }
+          },
+          {
+            "col1": {
+              "text": "2"
+            },
+            "col2": {
+              "text": "FPA PG 2025 BATCH I YEAR ESE TIME TABLE DEC 2025",
+              "url": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/FPA-PG-2025-BATCH-I-YEAR-ESE-TIME-TABLE-DEC-2025.pdf",
+              "img_icon": "/images/Kahe/Innerpages/file.png",
+              "target": "__blank"
+            }
+          }
+        ]
+      },
+      {
+        "head": [
+          {
+            "id": "col1",
+            "label": "S. No."
+          },
+          {
+            "id": "col2",
+            "label": "Faculty of Architecture, Design and Planning"
+          }
+        ],
+        "data": [
+          {
+            "col1": {
+              "text": "1"
+            },
+            "col2": {
+              "text": "B.DES (FD) 2025 BATCH I YEAR ESE TIME TABLE DEC 2025",
+              "url": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/FADP-B.DES-FD-2025-BATCH-I-YEAR-ESE-TIME-TABLE-DEC-2025.pdf",
+              "img_icon": "/images/Kahe/Innerpages/file.png",
+              "target": "__blank"
+            }
+          },
+          {
+            "col1": {
+              "text": "2"
+            },
+            "col2": {
+              "text": "ARCHITECTURE 2025 BATCH I YEAR ESE TIME TABLE DEC 2025",
+              "url": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/FADP-ARCH-2025-BATCH-I-YEAR-ESE-TIME-TABLE-DEC-2025.pdf",
+              "img_icon": "/images/Kahe/Innerpages/file.png",
+              "target": "__blank"
+            }
+          },
+          {
+            "col1": {
+              "text": "3"
+            },
+            "col2": {
+              "text": "B.DES (ID)2025 BATCH I YEAR ESE TIME TABLE DEC 2025",
+              "url": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/FADP-B.DES-ID2025-BATCH-I-YEAR-ESE-TIME-TABLE-DEC-2025.pdf",
+              "img_icon": "/images/Kahe/Innerpages/file.png",
+              "target": "__blank"
+            }
+          },
+          {
+            "col1": {
+              "text": "4"
+            },
+            "col2": {
+              "text": "ARCHITECTURE 2022,2023,2024 BATCH(UG) – DEC 2025",
+              "url": "https://kahedu.edu.in/n/wp-content/uploads/2025/11/ARCHITECTURE-202220232024-BATCHUG-ESE-TIME-TABLE-DECEMBER-2025.pdf",
+              "img_icon": "/images/Kahe/Innerpages/file.png",
+              "target": "__blank"
+            }
+          },
+          {
+            "col1": {
+              "text": "5"
+            },
+            "col2": {
+              "text": "B.DES(ID) 2022,2023,2024 BATCH – DEC 2025",
+              "url": "https://kahedu.edu.in/n/wp-content/uploads/2025/11/B.DESID-202220232024-BATCH-ESE-TIME-TABLE-DECEMBER-2025.pdf",
+              "img_icon": "/images/Kahe/Innerpages/file.png",
+              "target": "__blank"
+            }
+          },
+          {
+            "col1": {
+              "text": "6"
+            },
+            "col2": {
+              "text": "B.DES(FD)2023,2024 BATCH – DEC 2025",
+              "url": "https://kahedu.edu.in/n/wp-content/uploads/2025/11/B.DESFD20232024-BATCH-ESE-TIME-TABLE-DECEMBER-2025.pdf",
+              "img_icon": "/images/Kahe/Innerpages/file.png",
+              "target": "__blank"
+            }
+          },
+          {
+            "col1": {
+              "text": "7"
+            },
+            "col2": {
+              "text": "M.PLAN 2024 BATCH – DEC 2025",
+              "url": "https://kahedu.edu.in/n/wp-content/uploads/2025/11/M.PLAN-2024-BATCH-ESE-TIME-TABLE-DECEMBER-2025.pdf",
+              "img_icon": "/images/Kahe/Innerpages/file.png",
+              "target": "__blank"
+            }
+          }
+        ]
+      },
+      {
+        "head": [
+          {
+            "id": "col1",
+            "label": "S. No."
+          },
+          {
+            "id": "col2",
+            "label": "Faculty of Engineering"
+          }
+        ],
+        "data": [
+          {
+            "col1": {
+              "text": "1"
+            },
+            "col2": {
+              "text": "PG 2025 BATCH – DEC 2025",
+              "url": "https://kahedu.edu.in/n/wp-content/uploads/2025/11/FOE-2025-BATCHPG-ESE-TIME-TABLE-DECEMBER-2025.pdf",
+              "img_icon": "/images/Kahe/Innerpages/file.png",
+              "target": "__blank"
+            }
+          },
+          {
+            "col1": {
+              "text": "2"
+            },
+            "col2": {
+              "text": "UG 2025 BATCH – DEC 2025",
+              "url": "https://kahedu.edu.in/n/wp-content/uploads/2025/11/FOE-2025-BATCHUG-ESE-TIME-TABLE-DECEMBER-2025.pdf",
+              "img_icon": "/images/Kahe/Innerpages/file.png",
+              "target": "__blank"
+            }
+          },
+          {
+            "col1": {
+              "text": "2"
+            },
+            "col2": {
+              "text": "PG 2024 BATCH – NOV 2025",
+              "url": "https://kahedu.edu.in/n/wp-content/uploads/2025/09/ENGINEERING-2024-BATCH-PG-END-SEMESTER-EXAMINATION-TIMETABLE-NOVEMBER-2025.pdf",
+              "img_icon": "/images/Kahe/Innerpages/file.png",
+              "target": "__blank"
+            }
+          },
+          {
+            "col1": {
+              "text": "2"
+            },
+            "col2": {
+              "text": "UG 2024 BATCH – NOV 2025",
+              "url": "https://kahedu.edu.in/n/wp-content/uploads/2025/09/ENGINEERING-2024-BATCH-UG-END-SEMESTER-EXAMINATION-TIMETABLE-NOVEMBER-2025.pdf",
+              "img_icon": "/images/Kahe/Innerpages/file.png",
+              "target": "__blank"
+            }
+          },
+          {
+            "col1": {
+              "text": "2"
+            },
+            "col2": {
+              "text": "UG 2023 BATCH – NOV 2025",
+              "url": "https://kahedu.edu.in/n/wp-content/uploads/2025/09/ENGINEERING-2023-BATCH-UG-END-SEMESTER-EXAMINATION-TIMETABLE-NOVEMBER-2025.pdf",
+              "img_icon": "/images/Kahe/Innerpages/file.png",
+              "target": "__blank"
+            }
+          },
+          {
+            "col1": {
+              "text": "2"
+            },
+            "col2": {
+              "text": "UG 2022 BATCH – SEP 2025",
+              "url": "https://kahedu.edu.in/n/wp-content/uploads/2025/09/FOE-2022-BATCH-UG-1.pdf",
+              "img_icon": "/images/Kahe/Innerpages/file.png",
+              "target": "__blank"
+            }
+          }
+        ]
+      },
+      {
+        "head": [
+          {
+            "id": "col1",
+            "label": "S. No."
+          },
+          {
+            "id": "col2",
+            "label": "Faculty of Arts, Science, Commerce and Management"
+          }
+        ],
+        "data": [
+          {
+            "col1": {
+              "text": "1"
+            },
+            "col2": {
+              "text": "FASCM 2025 UG BATCH",
+              "url": "https://kahedu.edu.in/n/wp-content/uploads/2025/10/FASCM-2025-BATCHUG-ESE-TIME-TABLE-NOVEMBER-2025.pdf",
+              "img_icon": "/images/Kahe/Innerpages/file.png",
+              "target": "__blank"
+            }
+          },
+          {
+            "col1": {
+              "text": "2"
+            },
+            "col2": {
+              "text": "FASCM 2025 PG BATCH",
+              "url": "https://kahedu.edu.in/n/wp-content/uploads/2025/10/FASCM-2025-BATCHPG-ESE-TIME-TABLE-NOVEMBER-2025.pdf",
+              "img_icon": "/images/Kahe/Innerpages/file.png",
+              "target": "__blank"
+            }
+          },
+          {
+            "col1": {
+              "text": "2"
+            },
+            "col2": {
+              "text": "FASCM 2024 UG BATCH",
+              "url": "https://kahedu.edu.in/n/wp-content/uploads/2025/09/2024-BATCH-UG-ESE-TIMETABLE-OCTOBER-2025.pdf",
+              "img_icon": "/images/Kahe/Innerpages/file.png",
+              "target": "__blank"
+            }
+          },
+          {
+            "col1": {
+              "text": "2"
+            },
+            "col2": {
+              "text": "FASCM 2024 PG BATCH",
+              "url": "https://kahedu.edu.in/n/wp-content/uploads/2025/09/2024-BATCH-PG-ESE-TIMETABLE-OCTOBER-2025.pdf",
+              "img_icon": "/images/Kahe/Innerpages/file.png",
+              "target": "__blank"
+            }
+          },
+          {
+            "col1": {
+              "text": "2"
+            },
+            "col2": {
+              "text": "FASCM 2023 UG BATCH",
+              "url": "https://kahedu.edu.in/n/wp-content/uploads/2025/09/2023-BATCH-UG-ESE-TIMETABLE-OCTOBER-2025.pdf",
+              "img_icon": "/images/Kahe/Innerpages/file.png",
+              "target": "__blank"
+            }
+          }
+        ]
+      },
+      {
+        "head": [
+          {
+            "id": "col1",
+            "label": "S. No."
+          },
+          {
+            "id": "col2",
+            "label": "FADP & FPA ESE FEE CIRCULAR (2025)"
+          }
+        ],
+        "data": [
+          {
+            "col1": {
+              "text": "1"
+            },
+            "col2": {
+              "text": "FADP 2025 BATCH I YEAR ESE FEE CIRCULAR DEC 2025",
+              "url": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/FADP-2025-BATCH-I-YEAR-ESE-FEE-CIRCULAR-DEC-2025.pdf",
+              "img_icon": "/images/Kahe/Innerpages/file.png",
+              "target": "__blank"
+            }
+          },
+          {
+            "col1": {
+              "text": "2"
+            },
+            "col2": {
+              "text": "FPA UG & PG 2025 BATCH I YEAR ESE FEE CIRCULAR DEC 2025",
+              "url": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/FPA-UG-PG-2025-BATCH-I-YEAR-ESE-FEE-CIRCULAR-DEC-2025.pdf",
+              "img_icon": "/images/Kahe/Innerpages/file.png",
+              "target": "__blank"
+            }
+          }
+        ]
+      },
+      {
+        "head": [
+          {
+            "id": "col1",
+            "label": "S. No."
+          },
+          {
+            "id": "col2",
+            "label":"Exam Fee Circular for Second- UG ( 2024 Batch) , Second-PG ( 2024 Batch) and Third Year -UG ( 2023 Batch)- FASCM"
+          }
+        ],
+        "data": [
+          {
+            "col1": {
+              "text": "1"
+            },
+            "col2": {
+              "text": "Exam Fee Circular",
+              "url": "https://kahedu.edu.in/n/wp-content/uploads/2025/09/ESE-FASCM-III-II-YEAR-FEE-CIRCULAR.pdf",
+              "img_icon": "/images/Kahe/Innerpages/file.png",
+              "target": "__blank"
+            }
+          }
+        ]
+      },
+      {
+        "head": [
+          {
+            "id": "col1",
+            "label": "S. No."
+          },
+          {
+            "id": "col2",
+            "label":"End Semester Exam Timetable - Archives"
+          }
+        ],
+        "data": [
+          {
+            "col1": {
+              "text": "1"
+            },
+            "col2": {
+              "text": " Archives",
+              "url": "/kahe/examinations/ese-archives"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "examinations": {
+    "bannerCon": {
+      "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+      "title": "Examinations",
+      "bannerCon": "To be a leading institution in the field of education, providing quality education and training to students and professionals.",
+      "applyLink": "/"
+    },
+    "title": "Examinations",
+    "btnText": "View",
+    "content": [
+      {
+        "title": "Exam Notification",
+        "url": "/kahe/examinations/exam-notification"
+      },
+      {
+        "title": "Forms",
+        "url": "/kahe/examinations/forms"
+      },
+      {
+        "title": "CIA",
+        "url": "/kahe/examinations/cia-test"
+      },
+      {
+        "title": "ESE",
+        "url": "/kahe/examinations/ese-test"
+      },
+      {
+        "title": "Results",
+        "url": "https://karpagam.edu.in/Automation/studentOnline.do?param=login&Id=1"
+      },
+      {
+        "title": "eSanad Notification",
+        "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/11/eSanad-notification.pdf"
+      }
+    ]
+  }
+}
