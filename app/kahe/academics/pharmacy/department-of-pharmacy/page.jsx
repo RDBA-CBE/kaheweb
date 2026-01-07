@@ -1,8 +1,16 @@
-export default function DepartmentOfPharmacyPage() {
+import DepartmentOfPharmacy from "@/components/00-Kahe/AcademicsComponents/Pharmacy/DepartmentOfPharmacy";
+
+export const metadata = {
+  title: "Best MSc Biochemistry Colleges in Coimbatore",
+  description: "kahedu.edu.in",
+};
+
+const page = () => {
   return (
-    <div>
-      <h1>Department of Pharmacy</h1>
-      <p>Welcome to the Department of Pharmacy.</p>
-    </div>
+    <>
+     <DepartmentOfPharmacy/>
+    </>
   );
-}
+};
+
+export default page;
