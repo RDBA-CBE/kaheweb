@@ -29,7 +29,7 @@ const TabInnerSection = ({ tabSections, tabContent }) => {
   );
   const eventsContent = tabContent.find((item) => item.tab == "Events");
 
-  const InfraGallery = infrastructureContent.items?.find(
+  const InfraGallery = infrastructureContent?.items?.find(
     (item) => item.type == "gallery"
   );
 
@@ -68,7 +68,7 @@ const TabInnerSection = ({ tabSections, tabContent }) => {
             className=" rbt-review-wrapper review-wrapper section-bg3"
             id="infrastructure"
           >
-            <Infrastructure infrastructureContent={infrastructureContent} />
+            <Infrastructure infrastructureContent={infrastructureContent && infrastructureContent} />
           </div>
         )}
         <div
@@ -76,9 +76,9 @@ const TabInnerSection = ({ tabSections, tabContent }) => {
           style={{ padding: "80px 0" }}
         >
           <Gal_Pub_Event
-            InfraGallery={InfraGallery}
-            publicationsContent={publicationsContent}
-            eventsContent={eventsContent}
+            InfraGallery={InfraGallery && InfraGallery}
+            publicationsContent={publicationsContent && publicationsContent}
+            eventsContent={eventsContent && eventsContent}
           />
         </div>
 

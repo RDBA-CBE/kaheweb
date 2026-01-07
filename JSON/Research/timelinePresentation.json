@@ -1,0 +1,88 @@
+{
+    "bannerCon": {
+      "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+      "title": "Timeline Presentation",
+      "bannerCon": "To be a leading institution in the field of education, providing quality education and training to students and professionals."
+    },
+    "examiNotify": {
+      "title": "Timeline Presentation",
+      "content": [
+        {
+          "head": [
+            {
+              "id": "col1",
+              "label": "S. No."
+            },
+            {
+              "id": "col2",
+              "label": "schedule Name"
+            },
+            {
+                "id": "col3",
+                "label": "schedule On"
+              }
+          ],
+          "data": [
+            {
+              "col1": {
+                "text": "1"
+              },
+              "col2": {
+                "text": "Research Scholars from January 2020 to July 2023 (FT, PT) and January 2024 (FT) will be having a timeline presentation "
+              },
+              "col3": {
+                "text": "19th July 2025 (Saturday)"
+              }
+            },
+            {
+                "col1": {
+                  "text": "2"
+                },
+                "col2": {
+                  "text": "Research Scholars from January 2024 (PT), July 2024 (FT, PT) and January 2025 (FT/PT) will be having a timeline presentation"
+                },
+                "col3": {
+                  "text": "9th August 2025 (Saturday)"
+                }
+              }
+          ]
+        }
+      ]
+    },
+    "examinations": {
+      "bannerCon": {
+        "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+        "title": "Examinations",
+        "bannerCon": "To be a leading institution in the field of education, providing quality education and training to students and professionals.",
+        "applyLink": "/"
+      },
+      "title": "Examinations",
+      "btnText": "View",
+      "content": [
+        {
+          "title": "Exam Notification",
+          "url": "/kahe/examinations/exam-notification"
+        },
+        {
+          "title": "Forms",
+          "url": "/kahe/examinations/forms"
+        },
+        {
+          "title": "CIA",
+          "url": "/kahe/examinations/cia-test"
+        },
+        {
+          "title": "ESE",
+          "url": "/kahe/examinations/ese-test"
+        },
+        {
+          "title": "Results",
+          "url": "https://karpagam.edu.in/Automation/studentOnline.do?param=login&Id=1"
+        },
+        {
+          "title": "eSanad Notification",
+          "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/11/eSanad-notification.pdf"
+        }
+      ]
+    }
+  }

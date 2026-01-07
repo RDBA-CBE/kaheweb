@@ -7,7 +7,7 @@ import { Provider } from "react-redux";
 import Context from "@/context/Context";
 import Store from "@/redux/store";
 import Sidebar2 from "../common-components/Sidebar2";
-import { Research } from "@/JSON/ACADEMIC/Overview";
+import { OfficeOfInternationalAffairsJson, Research } from "@/JSON/ACADEMIC/Overview";
 import ImageLink from "../Components/ImageLink";
 import PaginationTable from "../Components/PaginationTable";
 import SliderContent from "../Components/SliderContent";
@@ -16,8 +16,8 @@ const BonVoyageCom = () => {
   const InterAdmin = data;
 
   const breadcrumbItems = [
-    { label: "Research", href: `research` },
-    { label: "Research Publications", href: `publications` },
+    { label: "Office of International Affairs", href: `/office-of-international-affairs/` },
+    { label: "Bon Voyage Scholarship", href: `publications` },
   ];
 
   return (
@@ -26,7 +26,7 @@ const BonVoyageCom = () => {
         <Context>
           <InnerBanner data={InterAdmin?.bannerCon} />
           <section className="bg-white breadcrumb sticky-top">
-            <StickyBreadcrumb items={breadcrumbItems} />
+            <StickyBreadcrumb items={breadcrumbItems}  />
           </section>
 
           <section className=" section-bg1">
@@ -40,7 +40,7 @@ const BonVoyageCom = () => {
 
          
 
-          <Sidebar2 subMenu={Research} />
+          <Sidebar2 subMenu={OfficeOfInternationalAffairsJson} />
         </Context>
       </Provider>
     </>
