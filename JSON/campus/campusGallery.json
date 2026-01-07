@@ -1,0 +1,112 @@
+{
+  "bannerCon": {
+    "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+    "title": "Gallery",
+    "bannerCon": "To be a leading institution in the field of education, providing quality education and training to students and professionals.",
+    "applyLink": "/"
+  },
+
+  "campusGal": {
+    "title": "Gallery",
+
+    "images": [
+      {
+        "id": 1,
+        "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/Campus6-740x493.png",
+        "alt": "Karpagam Academy of Higher Education | best arts and science college in coimbatore"
+      },
+      {
+        "id": 2,
+        "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/Campus4-774x512.png",
+        "alt": "Karpagam Academy of Higher Education | best placement mba colleges in coimbatore"
+      },
+      {
+        "id": 3,
+        "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/Campus5-857x506.png",
+        "alt": "Karpagam Academy of Higher Education | top 10 colleges in coimbatore for commerce"
+      },
+      {
+        "id": 4,
+        "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/Campus1-811x497.png",
+        "alt": "Karpagam Academy of Higher Education | top 10 colleges in coimbatore for bsc computer science"
+      }
+    ]
+  },
+
+  "campusLifeGal": {
+    "title": "Campus Life",
+
+    "images": [
+      {
+        "id": 1,
+        "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/02/ad-001-722x480.jpg",
+        "alt": "Best Mechanical Engineering Colleges in Tamilnadu"
+      },
+      {
+        "id": 2,
+        "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/02/ad-01-722x480.jpg",
+        "alt": "M.E. Communication Systems colleges in coimbatore"
+      },
+      {
+        "id": 3,
+        "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/02/ad-02-722x480.jpg",
+        "alt": "top 10 engineering colleges in coimbatore"
+      },
+      {
+        "id": 4,
+        "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/02/ad-03-722x480.jpg",
+        "alt": "list of engineering colleges in coimbatore"
+      },
+      {
+        "id": 5,
+        "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/02/ad-04-722x480.jpg",
+        "alt": "best placement mba colleges in coimbatore"
+      },
+      {
+        "id": 6,
+        "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/02/ad-05-722x480.jpg",
+        "alt": "best colleges for mba in tamilnadu"
+      },
+      {
+        "id": 7,
+        "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/02/ad-06-722x480.jpg",
+        "alt": "best college for electronics and communication engineering in tamilnadu"
+      },
+      {
+        "id": 8,
+        "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/02/ad-07-750x650.jpg",
+        "alt": "information technology colleges in coimbatore"
+      },
+      {
+        "id": 9,
+        "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/02/ad-08-750x650.jpg",
+        "alt": "KAHE, List Of Pharmacy Colleges in Coimbatore"
+      },
+      {
+        "id": 10,
+        "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/02/7-722x480.jpg",
+        "alt": "be cyber security colleges in tamilnadu"
+      },
+      {
+        "id": 11,
+        "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/02/8-722x480.jpg",
+        "alt": "b sc data science colleges in coimbatore"
+      },
+      {
+        "id": 12,
+        "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/02/9-722x480.jpg",
+        "alt": "best artificial intelligence and data science colleges in coimbatore"
+      },
+      {
+        "id": 13,
+        "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/02/10-722x480.jpg",
+        "alt": "top 10 pharmacy colleges in tamilnadu"
+      },
+      {
+        "id": 14,
+        "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/02/11-722x480.jpg",
+        "alt": "top 10 b tech colleges in coimbatore"
+      }
+    ]
+  }
+}

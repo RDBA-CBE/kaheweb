@@ -1,0 +1,55 @@
+{
+  "bannerCon": {
+    "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+    "title": "Barrier Free Environment",
+    "bannerCon": "To be a leading institution in the field of education, providing quality education and training to students and professionals.",
+    "applyLink": "/"
+  },
+
+  "barrierFree": {
+    "title": "Barrier Free Environment",
+
+    "images": [
+      {
+        "id": 1,
+        "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/6-1.jpg",
+        "alt": "6"
+      },
+      {
+        "id": 2,
+        "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/2-1.jpg",
+        "alt": "2"
+      },
+      {
+        "id": 3,
+        "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/3-1.jpg",
+        "alt": "3"
+      },
+      {
+        "id": 4,
+        "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/4-1.jpg",
+        "alt": "4"
+      },
+      {
+        "id": 5,
+        "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/7-1.jpg",
+        "alt": "7"
+      },
+      {
+        "id": 6,
+        "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/5-1.jpg",
+        "alt": "5"
+      },
+      {
+        "id": 7,
+        "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/1-1.jpg",
+        "alt": "1"
+      },
+      {
+        "id": 8,
+        "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/8-1.jpg",
+        "alt": "8"
+      }
+    ]
+  }
+}

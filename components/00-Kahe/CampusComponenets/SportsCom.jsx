@@ -4,8 +4,6 @@ import { CampusLife } from "@/JSON/ACADEMIC/Overview";
 import data from "../../../JSON/campus/sports.json";
 import InnerBanner from "@/components/00-Kahe/common-components/InnerBanner";
 import Sidebar from "../common-components/Sidebar";
-
-import TrainingTabInnerSec from "../Components/TrainingTabInnerSec";
 import ContentCard from "../Components/ContentCard";
 import Slider2 from "../common-components/Slider2";
 

@@ -21,7 +21,7 @@ const DepartmentOfPerformingArts = () => {
   const breadcrumbItems = [
     { label: 'Academics', href: `academics` },
     {
-      label: 'performing-arts',
+      label: 'Performing-Arts',
       href: `academics/performing-arts/`,
     },
 

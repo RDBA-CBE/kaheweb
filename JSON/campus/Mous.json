@@ -1,0 +1,46 @@
+{
+  "bannerCon": {
+    "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+    "title": "MoUs",
+    "bannerCon": "To be a leading institution in the field of education, providing quality education and training to students and professionals.",
+    "applyLink": "/"
+  },
+
+  "mous": {
+    "title": "MoU Signed with TATA Consultancy Services",
+
+    "content": "Karpagam Academy of Higher Education MoU signed with TATA Consultancy Services for the Course B.Com. Business Process Services (BPS)",
+    "src": [
+      {
+        "id": 1,
+        "src": "/images/Kahe/team-13.png",
+        "alt": "Karpagam Academy of Higher Education | best b com accounting and finance colleges in coimbatore"
+      },
+      {
+        "id": 2,
+        "src": "/images/Kahe/team-13.png",
+        "alt": "Karpagam Academy of Higher Education | top engineering colleges in coimbatore,India"
+      },
+      {
+        "id": 3,
+        "src": "/images/Kahe/team-13.png",
+        "alt": "Karpagam Academy of Higher Education | b sc computer science colleges in coimbatore"
+      }
+    ]
+
+
+  },
+
+  "CSE":{
+    "content": [
+      {
+        "title1": "Computer Science and Engineering",
+        
+        "content": "The college has signed a MoU with Infosys Technologies, to train its students and create an IT exposure to students of various departments. Courses are organized to both IT and non IT students regularly under the guidance and support of Infosys. Our faculty members are trained by Infosys and they in turn train the students. All students will be certified on successful completion of the course modules",
+        "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/President-1.jpg"
+      }
+    ]
+  }
+  }
+
+  

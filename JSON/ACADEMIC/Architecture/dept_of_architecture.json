@@ -1,0 +1,730 @@
+{
+  "title": "Department of Architecure",
+  "bannerCon": "The University of Wyoming welcomes students to experience a one-of-a-kind education in the heart of the Mountain West. With our dedication to academic excellence and student-focused education, UW provides an environment thrive both academically and personally. Admission to the University of Wyoming is just the first step to achieving your dreams.",
+  "applyLink": "#",
+  "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+  "tabs": [
+    {
+      "id": "overview",
+      "label": "Overview"
+    },
+    {
+      "id": "programme",
+      "label": "Programme"
+    },
+    {
+      "id": "faculty",
+      "label": "Faculty"
+    },
+    {
+      "id": "infrastructure",
+      "label": "Infrastructure"
+    },
+    {
+      "id": "publications",
+      "label": "Publications"
+    },
+    {
+      "id": "events",
+      "label": "Events"
+    }
+  ],
+  "tabContent": [
+    {
+      "tab": "Overview",
+      "items": [
+        {
+          "type": "overview",
+          "subTitle": "Overview",
+          "contents": "The young and dynamic KAHE that we are our need to increase the quality of Architectural education and also open up our perspective to global trends has continuously increased. Established in 2009 with an intake of 40 students for the B.Arch program, we have raised our own bar and introduced M.Arch, M.Plan, B.A. Hons with continual admissions proceeding successfully. 15 – YEAR VISION: The faculty of Architecture, Karpagam Academy of Higher Education aims its energies to make it a University that is renowned in its peer circle and sets a target to make each and every student capable of facing the global markets. We aim to send every student as a compulsory programme for an exchange to different affluent countries based on the student’s affordability. We will then bring out collaboration between all the mentioned (NABA – Milan, ISAD Communicazone – Milan, ARCHIP Czech Republic, University of New Castle, SUMAS Switzerland, NSAD – San Diego United States of America, Sci Arc – California USA) Universities and makes it a sharing of knowledge process. We also aim to have a tie up with Universities stretching from the far South East to the West spreading from Australian Universities to the University in United States. We also intend to strengthen our faculty with faculty exchange programs and to bring in faculties from other esteemed Universities for our guest lecture system. In the span of about 15 years the Faculty of Architecture, Karpagam Academy of Higher Education will be on par with RIBA certified Universities like AAA – London, Boston University and other such contemporaries. We aim to stand tall as one of the best universities in India and also secure a standing at all the International Universities. The need of such centre of excellence in Architecture exemplifies the need for a global outlook and we aim at achieving the same. We at Karpagam Academy of Higher Education are determined to lead and demonstrate excellence through creative understanding of Architecture. We realize that his requires dedicated hard work and team effort of all stake holders. We at Karpagam Academy of Higher Education are ready to strive to achieve this vision. 7 – YEAR STRATEGIC PLAN: Our medium term plan strategizes on strengthening learning techniques and quality through live research projects such as BInUCom. Such projects provides a platform to connect at the international levels with international faculties which encourages the students with a holistic broad spectrum about the challenges of the world. Research projects as such boost the theoretically bound education systems with practical analytics that form a part of a profound solution. Along with collaborative approaches in our research projects, we nurture student exchange facilities with the intent of encouraging a pragmatic outlook amongst native students as well as creating a well versed basis for foreign students in understanding the contextual nuances of our vibrant setting. 3 – YEAR ACTION PLAN: Stretching ourselves into the vision of 3 years action plan, we are inviting a set of students from the University of BATH and University of New Castle to our University to attend classes with our faculties. We will in turn be sending interested students to that University for the exchange purpose. Our research projects success can be gesticulated with the happenings of the BInUCom Research project under the ERASMUS funding. We intend to take many more such research projects which can put us on the altar of research options available for students. Our Vision to make a global presence exemplifies with our activities that are chalked out for the next three years. We have now established connections far and wide into the European countries and the United States of America. We have now arranged for an international workshop in Italy with the following Universities, Domus Academy, NABA in Milan have invited a set of 20 students to their esteemed university for an interaction with the faculty and students. They will also set a problem of design and help us find solution for the same. The ISAD communicazone is another University which has also offered to conduct a workshop with regards to the different types of Interior design studies of which an extremely new subject to the Indian subcontinent is the Yatch design subject. The very welcoming response has been an overwhelming experience for the Faculty of Architecture, Karpagam Academy of Higher Education. The American subcontinent has always been a lucrative global move out for most students in India. We have been on continuous talks to sign a MoU with New School of Architecture and design (NSAD) and Southern California University of Architecture (SCI – ARC). These Universities have been kind enough to accept our proposal for an exchange programme in the Universities for our Architectural students.",
+          "image": "/images/others/video-07.jpg"
+        }
+      ]
+    },
+    {
+      "tab": "Programme",
+      "programmes": {
+        "title": "Programmes",
+        "content": [
+          {
+            "key": "ug",
+            "title": "Under Graduate Programmes",
+            "img": "/images/others/health-b-02.png",
+            "items": [
+              "B.Arch (Strength: 80)",
+              "B. Des. ID – Interior Design (Strength: 30)",
+              "B. Des. FD – Fashion Design (Strength: 30)"
+            ],
+            "type": "programme"
+          },
+          {
+            "key": "pg",
+            "title": "Post Graduate Programmes",
+            "img": "/images/others/health-b-02.png",
+            "items": [
+              "M.Arch – Advance Design (Strength: 20)",
+              "M.Plan – Town and Country Planning (Strength: 20)"
+            ],
+            "type": "programme"
+          }
+        ]
+      },
+      "curriculum": {
+        "title": "Curriculum",
+        "content": [
+          {
+            "key": "barch",
+            "title": "B.Arch",
+            "img": "/images/others/health-b-02.png",
+            "type": "curriculum",
+            "items": [
+              {
+                "year": "2016-2017",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2021/01/2016-B.ARCH-SYLLABUS-1.pdf"
+              },
+              {
+                "year": "2017-2018",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2021/01/2017-B.ARCH-SYLLABUS.pdf"
+              },
+              {
+                "year": "2018-2019",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2021/01/2018-B.ARCH-SYLLABUS.pdf"
+              },
+              {
+                "year": "2019-2020",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2021/01/2019-B.ARCH-SYLLABUS.pdf"
+              },
+              {
+                "year": "2020-2021",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/B.Arch-2020-21-Syllabus-dated-15-July-2020.pdf"
+              },
+              {
+                "year": "2021-2022",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2021/11/B.Arch-Syllabus-2021-22.pdf"
+              },
+              {
+                "year": "2022-2023",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2022/09/B.Arch-Syllabus-2022-2023.pdf"
+              },
+              {
+                "year": "2024-2025",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/01/B.Arch_.pdf"
+              },
+              {
+                "year": "2025-2026",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/09/B.Arch-Syllabus-2025-26-updated-22_08_25.pdf"
+              }
+            ]
+          },
+          {
+            "key": "ba-interior-design",
+            "title": "B.A. (Hons.) Interior Design",
+            "img": "/images/others/health-b-02.png",
+            "type": "curriculum",
+            "items": [
+              {
+                "year": "2017-2018",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2021/01/2017-B.A-ID-SYLLABUS.pdf"
+              },
+              {
+                "year": "2018-2019",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2021/01/2018-B.A-ID-SYLLABUS.pdf"
+              },
+              {
+                "year": "2019-2020",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2021/01/2019-B.A-ID-SYLLABUS.pdf"
+              },
+              {
+                "year": "2020-2021",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/BA-Hons-ID-Syllabus-20-21.pdf"
+              },
+              {
+                "year": "2022-2023",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2022/09/B.Des-ID-Syllabus-2022-2023.pdf"
+              },
+              {
+                "year": "2024-2025",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/01/B.DESID_.pdf"
+              }
+            ]
+          },
+          {
+            "key": "bdes-fashion",
+            "title": "B.Des – Fashion Design",
+            "img": "/images/others/health-b-02.png",
+            "type": "curriculum",
+            "items": [
+              {
+                "year": "2024-2025",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/01/B.Des-FD.pdf"
+              }
+            ]
+          },
+          {
+            "key": "march",
+            "title": "M.Arch – Advance Design",
+            "img": "/images/others/health-b-02.png",
+            "type": "curriculum",
+            "items": [
+              {
+                "year": "2018-2019",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2021/04/46.2018-MARCH-SYLLABUS.pdf"
+              },
+              {
+                "year": "2019-2020",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2021/01/2019-M.ARCH-SYLLABUS.pdf"
+              },
+              {
+                "year": "2020-2021",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/M.Arch-2020-21-Syllabus-dated-15-July-2020.pdf"
+              },
+              {
+                "year": "2021-2022",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2021/11/M.Arch-Syllabus-2021-22.pdf"
+              },
+              {
+                "year": "2022-2023",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2022/09/M.Arch-Syllabus-2022-2023.pdf"
+              },
+              {
+                "year": "2025-2026",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/09/M.Arch-Syllabus-2025-2026-05.03.2025.pdf"
+              }
+            ]
+          },
+          {
+            "key": "mplan",
+            "title": "M.Plan – Town and Country Planning",
+            "img": "/images/others/health-b-02.png",
+            "type": "curriculum",
+            "items": [
+              {
+                "year": "2018-2019",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2021/04/47.2018-MPLAN-SYLLABUS.pdf"
+              },
+              {
+                "year": "2019-2020",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2021/01/2019-M.PLAN-SYLLABUS.pdf"
+              },
+              {
+                "year": "2020-2021",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/M.Plan-TCP-2020-2021.pdf"
+              },
+              {
+                "year": "2021-2022",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2021/11/M.Plan-Syllabus-2021-2022.pdf"
+              },
+              {
+                "year": "2022-2023",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2022/09/M.Plan-Syllabus-2022-2023.pdf"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "tab": "Faculty",
+      "faculty": [
+        {
+          "name": "Ar.P.Kathiravan",
+          "qualification": "B.Arch., M.Tech., (Ph.D.)",
+          "designation": "Professor",
+          "email": "dean.arch@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/One-Page-Bio-Data-Kathiravan-P.pdf"
+        },
+        {
+          "name": "Ar.M.R.Ramakrishnamoorthy",
+          "qualification": "M.Plan.",
+          "designation": "Associate Professor",
+          "email": "ramakrishna.mr@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/One-Page-Bio-Data-Ramakrishnamoorthy-M-R.pdf"
+        },
+        {
+          "name": "Ar.G.Lingeshwaran",
+          "qualification": "M.Arch.",
+          "designation": "Associate Professor",
+          "email": "lingeshwaran.g@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/One-Page-Bio-Data-Lingeshwaran-G.pdf"
+        },
+        {
+          "name": "Ar.M.J.Abitha",
+          "qualification": "B.Arch.",
+          "designation": "Associate Professor",
+          "email": "abitha.mj@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/Ar.-Abitha-One-Page-Bio-Data.pdf"
+        },
+        {
+          "name": "Ar.S.Shivachandran",
+          "qualification": "M.Arch.",
+          "designation": "Associate Professor",
+          "email": "shivachandran.s@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/One-Page-Bio-Data-Shivachandran-S.pdf"
+        },
+        {
+          "name": "Ar.C.Vimal",
+          "qualification": "M.Arch.",
+          "designation": "Associate Professor",
+          "email": "vimal.c@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/One-Page-Bio-Data-Vimal-C.pdf"
+        },
+        {
+          "name": "Dr.S.Alan",
+          "qualification": "ME., Ph.D.",
+          "designation": "Associate Professor",
+          "email": "alan.s@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/One-Page-Bio-Data-Alan-S.pdf"
+        },
+        {
+          "name": "Ar.V.Karthick",
+          "qualification": "M.Arch.",
+          "designation": "Associate Professor",
+          "email": "karthick.v@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/One-Page-Bio-Data-Karthick-V.pdf"
+        },
+        {
+          "name": "Ar.S.Anirudh",
+          "qualification": "",
+          "designation": "Associate Professor",
+          "email": "anirudh.sudhakar@kahedu.edu.in",
+          "profile": ""
+        },
+        {
+          "name": "Mr.J.Panneerselvam",
+          "qualification": "M.F.A.",
+          "designation": "Assistant Professor",
+          "email": "panneer.j@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/One-Page-Bio-Data-Panneersalvam-J.pdf"
+        },
+        {
+          "name": "Ar.R.Karthick",
+          "qualification": "M.Arch.",
+          "designation": "Assistant Professor",
+          "email": "karthick.r@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/One-Page-Bio-Data-Karthick-R.pdf"
+        },
+        {
+          "name": "Ar.D.Karthikeyan",
+          "qualification": "B.F.A.",
+          "designation": "Assistant Professor",
+          "email": "karthikeyan.devaraj@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/One-Page-Bio-Data-Karthikeyan.pdf"
+        },
+        {
+          "name": "Ar.S.Irfan Quaraishi",
+          "qualification": "B.Arch.",
+          "designation": "Assistant Professor",
+          "email": "irfan.s@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/One-Page-Bio-Data-Irfan-S.pdf"
+        },
+        {
+          "name": "Ar.K.P.Rajkumar",
+          "qualification": "B.Arch.",
+          "designation": "Assistant Professor",
+          "email": "rajkumar.kp@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/One-Page-Bio-Data-Rajkumar-K-P.pdf"
+        },
+        {
+          "name": "Ar.G.Jayanandhini",
+          "qualification": "B.Arch., M.Arch.",
+          "designation": "Assistant Professor",
+          "email": "jayanandini.g@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/One-Page-Bio-Data-Jayanandini-G.pdf"
+        },
+        {
+          "name": "Ar.G.Arshia",
+          "qualification": "B.Arch., M.Plan",
+          "designation": "Assistant Professor",
+          "email": "arshia.g@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/Ar.-Arshia-One-Page-Biodata.pdf"
+        },
+        {
+          "name": "Ms.S.Hemamalini",
+          "qualification": "",
+          "designation": "Assistant Professor",
+          "email": "hemamalini.senthilvadivu@kahedu.edu.in",
+          "profile": ""
+        },
+        {
+          "name": "Ms.V.Sruthi",
+          "qualification": "M.Plan",
+          "designation": "Assistant Professor",
+          "email": "sruthi.venkatesh@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/One-Page-Bio-Data-Sruthi-V.pdf"
+        },
+        {
+          "name": "Ms.R.M.Alagu Aishwarya",
+          "qualification": "",
+          "designation": "Assistant Professor",
+          "email": "alaguaishwarya.ramanathan@kahedu.edu.in",
+          "profile": ""
+        },
+        {
+          "name": "Ms.I.Archana Rosry",
+          "qualification": "B.Des., M. Sc",
+          "designation": "Assistant Professor",
+          "email": "archanarosry.isidorfernando@kahedu.edu.in",
+          "profile": ""
+        },
+        {
+          "name": "Ms.A.Ninitha",
+          "qualification": "M.Arch",
+          "designation": "Assistant Professor",
+          "email": "ninitha.arumugakani@kahedu.edu.in",
+          "profile": ""
+        },
+        {
+          "name": "Ms.K.Pranavaa",
+          "qualification": "M.Arch",
+          "designation": "Assistant Professor",
+          "email": "pranavaa.kumaresh@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/Ar.-Pranavaa-K-One-Page-Biodata.pdf"
+        },
+        {
+          "name": "Ms.S.Reehana Kamarnisha",
+          "qualification": "",
+          "designation": "Assistant Professor",
+          "email": "reehana.sagul@kahedu.edu.in",
+          "profile": ""
+        },
+        {
+          "name": "Er.A.Nithya",
+          "qualification": "B.E, M.Plan",
+          "designation": "Assistant Professor",
+          "email": "nithya.arumugam@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/One-Page-Bio-Data-Nithya.pdf"
+        },
+        {
+          "name": "Ms.T.Saravana Priya",
+          "qualification": "",
+          "designation": "Assistant Professor",
+          "email": "saravanapriya.thiraviam@kahedu.edu.in",
+          "profile": ""
+        },
+        {
+          "name": "Ar.Elwin Martin",
+          "qualification": "",
+          "designation": "Assistant Professor",
+          "email": "elwinmartin@kahedu.edu.in",
+          "profile": ""
+        },
+        {
+          "name": "Ms.S.Rinku Sreedhar",
+          "qualification": "M.Arch",
+          "designation": "Assistant Professor",
+          "email": "rinkusreedhar.sreedhar@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/One-Page-Biodata-Ar.-Rinku-Sreedhar.pdf"
+        },
+        {
+          "name": "Ms.S.Janani",
+          "qualification": "",
+          "designation": "Assistant Professor",
+          "email": "janani.samynathan@kahedu.edu.in",
+          "profile": ""
+        },
+        {
+          "name": "Mr.P.Vignesh",
+          "qualification": "B.Arch.,M.Plan",
+          "designation": "Assistant Professor",
+          "email": "vigneshkumar830@gmail.com",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/One-Page-Bio-Data-Vignesh.pdf"
+        }
+      ]
+    },
+    {
+      "tab": "Infrastructure",
+      "items": [
+        {
+          "type": "laboratories",
+          "title": "Laboratories",
+          "content": [
+            "Studios -10",
+            "Lecture Theater – 6",
+            "Computer Lab for UG & PG",
+            "Seminar hall and Exhibit area -2",
+            "Art Court",
+            "Library and Digital Library",
+            "Climatology lab",
+            "Model making lab",
+            "Carpentary workshop",
+            "Store facilities",
+            "Material Museum",
+            "Staff rooms – 3"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gallery",
+      "slug": "department-of-architecture",
+      "images": [
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/1-1-800x449.jpg",
+          "alt": "",
+          "title": ""
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/eve1-4-800x533.jpg",
+          "alt": "",
+          "title": ""
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/eve1-5-800x533.jpg",
+          "alt": "",
+          "title": ""
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/eve1-6-800x533.jpg",
+          "alt": "",
+          "title": ""
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/eve1-7-800x533.jpg",
+          "alt": "",
+          "title": ""
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/eve1-8-800x533.jpg",
+          "alt": "",
+          "title": ""
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/eve1-9-800x533.jpg",
+          "alt": "",
+          "title": ""
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/eve1-10-800x533.jpg",
+          "alt": "",
+          "title": ""
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/eve1-11-800x449.jpg",
+          "alt": "",
+          "title": ""
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/eve1-12-800x449.jpg",
+          "alt": "",
+          "title": ""
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/eve1-13-800x449.jpg",
+          "alt": "",
+          "title": ""
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/eve1-14-800x449.jpg",
+          "alt": "",
+          "title": ""
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/eve1-15-400x600.jpg",
+          "alt": "",
+          "title": ""
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/eve1-16-400x600.jpg",
+          "alt": "",
+          "title": ""
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/eve1-17-400x600.jpg",
+          "alt": "",
+          "title": ""
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/eve1-18-400x600.jpg",
+          "alt": "",
+          "title": ""
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/eve1-19-400x600.jpg",
+          "alt": "",
+          "title": ""
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/eve1-20-1-800x533.jpg",
+          "alt": "",
+          "title": ""
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/eve1-21-800x533.jpg",
+          "alt": "",
+          "title": ""
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/eve1-22-800x533.jpg",
+          "alt": "",
+          "title": ""
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/eve1-23-400x600.jpg",
+          "alt": "",
+          "title": ""
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/eve1-24-800x533.jpg",
+          "alt": "",
+          "title": ""
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/eve1-25-800x449.jpg",
+          "alt": "",
+          "title": ""
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/eve1-26-800x449.jpg",
+          "alt": "",
+          "title": ""
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/eve1-27-800x449.jpg",
+          "alt": "",
+          "title": ""
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/eve1-28-800x533.jpg",
+          "alt": "",
+          "title": ""
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/eve1-29-800x533.jpg",
+          "alt": "",
+          "title": ""
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/eve1-31-800x533.jpg",
+          "alt": "",
+          "title": ""
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/eve1-32-800x533.jpg",
+          "alt": "",
+          "title": ""
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/eve1-33-800x533.jpg",
+          "alt": "",
+          "title": ""
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/eve1-35-450x600.jpg",
+          "alt": "",
+          "title": ""
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/eve1-36-338x600.jpg",
+          "alt": "",
+          "title": ""
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/eve1-37-450x600.jpg",
+          "alt": "",
+          "title": ""
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/eve1-38-800x533.jpg",
+          "alt": "",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "tab": "Publications",
+      "slug": "department-of-architecture",
+      "title": "Best Five Papers Faculty wise:",
+      "subtitle": "Paper publications by the Faculty Members",
+      "content": [
+        {
+          "faculty_name": "2024",
+          "content": [
+            " Janani, V., Ramakrishnamoorthy, M. R., & Jayanandini, G. (2023, November). Integrating Photogrammetry Technology and Smart Innovations for Heritage Structure Conservation in Smart Cities. In 2023 Annual International Conference on Emerging Research Areas:",
+            "International Conference on Intelligent Systems (AICERA/ICIS) (pp. 1-8). IEEE.",
+            "Jayanandini, G., Kathiravan, P., & Murugesh, S. (2023, November). Evaluating The Urban Liveability Index With Data-Driven Insights Of Smart Cities Using Smart Innovative Solutions. In 2023 Annual International Conference on Emerging Research Areas: International Conference on Intelligent Systems (AICERA/ICIS) (pp. 1-7). IEEE.",
+            "Jayanandini, G., Kathiravan, P., & Janani, V. (2023, November). Land use suitability analysis using artificial intelligence and machine learning for developing urban areas. In 2023 Annual International Conference on Emerging Research Areas: International Conference on Intelligent Systems (AICERA/ICIS) (pp. 1-8). IEEE.",
+            "Vignesh Palanichamy, Anu Vijay & Ramakrishna Moorthy (2023, November). Smart innovative congestion pricing strategy for Traffic demand management in smart cities using Structural Equation Modelling. In 2023 Annual International Conference on Emerging Research Areas: International Conference on Intelligent Systems (AICERA/ICIS) (pp. 1-9). IEEE."
+          ]
+        },
+        {
+          "faculty_name": "2023",
+          "content": [
+            "Sasindhar,S., Jayanandini, G., Dhivyabharathi, M.,(2023) A global study on sustainable irrigational practices on agriculture. BioGecko, http://www.biogecko.co.nz/issues.php?id=105",
+            "V. R. A and J. G, ‘Effective Solid Waste Segregation for Sustainable Disposal: Model for Coimbatore City, India,’ 2023 9th International Conference on Advanced Computing and Communication Systems (ICACCS), Coimbatore, India, 2023, pp. 431-436, doi: 10.1109/ICACCS57279.2023.10112674. https://ieeexplore.ieee.org/document/10112674",
+            "ASSESSING THE CHALLENGES AND EFFECTIVENESS OF LAND ACQUISITION PROCESS – A CASE STUDY OF COIMBATORE AIRPORT EXPANSION Eur. Chem. Bull. 2023,12(10), 2876-2892",
+            "*Aishwarya Varsha. P 1, Jayanandini .G 2 https://www.eurchembull.com/uploads/paper/cc7059e0eff6212b7eb048f991e616cd.pdf Doi :  10.48047/ecb/2023.12.10.1982023.04/07/2023",
+            "Jayanandini, G. (2023). Social Equity and Urban Housing Policy Failures: Evaluation for Rehabilitation and Housing Resettlement Plans and Policies in Indian Cities. Review of Pacific Basin Financial Markets and Policies (RPBFMP), 26(03), 1 26. https://ideas.repec.org/a/wsi/rpbfmp/v26y2023i03ns0219091523500212.html. https://www.worldscientific.com/toc/rpbfmp/26/03"
+          ]
+        },
+        {
+          "faculty_name": "2022",
+          "content": [
+            "Baskar, S., Dhote, S., Dhote, T., Jayanandini, G., Akila, D., & Doss, S. (2022). A predictive typological content retrieval method for real‐time applications using multilingual natural language processing.  Expert Systems, e13172. https://onlinelibrary.wiley.com/doi/abs/10.1111/exsy.13172"
+          ]
+        },
+        {
+          "faculty_name": "2020",
+          "content": [
+            "Jayanandini, G. (2020). Redevelopment/Renewal Dimensions for an Effective Development in Traditional Urban Core Areas: A Comparative Study of Different Urban Core Development India and Global. International Journal of Town Planning and Management, 6(1), 19-42. https://architecture.journalspub.info/index.php?journal=JTPM&page=article&op=view&path%5B%5D=622",
+            "Ar. Jayanandini Gopalan, “Examining Environmental and Policy Failures leading upto Kerala Floods 2018-2019”, ICUSE 2020 Conference proceedings, IIT Bombay, February 2020",
+            "Mohan, A., & Jayanandini, G. (2020). Livability in the Micro-urban Blocks: A Case of an Urban Block in Oppanakara Street, Coimbatore. International Journal of Town Planning and Management, 6(2), 01-09. https://architecture.journalspub.info/index.php?journal=JTPM&page=article&op=view&path%5B%5D=659"
+          ]
+        }
+      ]
+    },
+    {
+      "tab": "Events",
+      "slug": "department-of-architecture",
+      "items": [
+        {
+          "title": "Festivals",
+          "content": [
+            "Kolam Fest",
+            "Kural Seminar Series",
+            "Onam",
+            "Pongal",
+            "Christmas",
+            "Freshers Talent Show",
+            "Chakra Flood Light Cricket",
+            "Mosaic – Exhibition and Magazine Release Football Tournament",
+            "Social Activities – Cleaning Drive"
+          ]
+        },
+        {
+          "title": "Workshop",
+          "content": [
+            "Painting Workshop (II and III – B.Arch & B.Des Students) , Date : 18th June 2018 to 23rd June 2018 , Venue : FOA Courtyard"
+          ]
+        },
+        {
+          "title": "Study Tours",
+          "content": [
+            "South India",
+            "North India",
+            "International"
+          ]
+        },
+        {
+          "title": "Extra Curricular Activities",
+          "content": [
+            "National Association for students of acrchitecture"
+          ]
+        },
+        {
+          "title": "Webinar",
+          "content": [
+            "Webinar at FADP through international relations on “Domestic Space and Everyday Built Heritage Environment in Chineses Danwei Housing Context” on 22.08.2025"
+          ]
+        },
+        {
+          "title": "Others",
+          "content": [
+            "Orientation classes as a part of career guidance on “TNPSC/UPSC Exam Preparation” on 23.10.2025 for M.Plan students.",
+            "Inaugural Orientation Program on on 06.08.2025.",
+            "Guest lecture on “Retail Design” on 06.08.2025."
+          ]
+        }
+      ]
+    }
+  ]
+}
