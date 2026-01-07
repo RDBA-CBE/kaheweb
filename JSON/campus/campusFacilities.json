@@ -1,0 +1,326 @@
+{
+  "bannerCon": {
+    "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+    "title": "Sports",
+    "bannerCon": "To be a leading institution in the field of education, providing quality education and training to students and professionals.",
+    "applyLink": "/"
+  },
+
+  "overview": {
+    "content": [
+      {
+        "title1": "Overview",
+        "content": "Karpagam Academy of Higher Education campus exemplifies excellence in every nook and corner. From modern classrooms to hygienic canteens, the highest emphasis is laid on ensuring that student life is enriching in every sense.",
+        "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/indumathi.jpeg"
+      }
+    ]
+  },
+
+  "ECampus": {
+    "title": "E-Classroom",
+    "src": "/images/Kahe/Innerpages/vision.png",
+
+    "desc": "In the era of rapidly emerging technologies, the transition from conventional classrooms to digital classrooms is soon becoming the order of the day. At Karpagam Academy of Higher Education, we believe in being an active participant in every kind of progressive change. Our e-classroom initiative endorses our commitment to align ourselves with the latest technological developments. We have a team of highly proficient content developers who work on the latest technology platforms and to create content with multimedia inputs, rich animation, text, graphics and instruction designs. To make the teaching sessions livelier, interactive video streaming methodology is adopted."
+  },
+
+  "sports": {
+    "title": "KAHE Studio 360°",
+
+    "content": [
+      {
+        "subtitle": "KAHE Studio 360°",
+        "id": 1,
+        "list": [
+          {
+            "src": "/images/Kahe/Innerpages/file.png",
+            "title": "2021-2022",
+            "item": "Click Here",
+            "url": "https://kahedu.edu.in/kahe-media-centre-studio-360/"
+          }
+        ]
+      }
+    ],
+    "src": [{ "id": 1, "src": "/images/Kahe/Innerpages/image-1.jpg" }]
+  },
+
+  "facilities": {
+    "title": "Campus Facilities",
+    "content": [
+      {
+        "title": "Multi Purpose Auditorium",
+        "content": "The auditorium is perhaps the lifeline of every University, throbbing with multifarious activities. At Karpagam, we have a mammoth auditorium that is spaced out to accommodate huge gatherings. To host several events on campus, it is a melting pot for students from within and outside Karpagam Academy of Higher Education.",
+        "src": "/images/Kahe/Innerpages/group.png"
+      },
+      {
+        "title": "General Stores",
+        "content": "To meet the everyday needs of students, a store is available on campus. Well-stocked with all the daily necessities, it goes a long way in making life on campus virtually hassle-free.",
+        "src": "/images/Kahe/Innerpages/group.png"
+      },
+      {
+        "title": "Canteen",
+        "content": "The canteens in the campus are tidy and extremely spacious. It is ensured that the highest standards of health and hygiene are complied with, to serve wholesome and nutritious food to the staff and students.",
+        "src": "/images/Kahe/Innerpages/group.png"
+      }
+    ]
+  },
+
+  "maintenance": {
+    "title": "Maintenance",
+
+    "content": [
+      {
+        "subtitle": "Procedures and Policies for Maintaining Infrastructure",
+        "id": 1,
+        "list": [
+          {
+            "src": "/images/Kahe/Innerpages/file.png",
+            "title": "Procedures and Policies for Maintaining Infrastructure",
+            "item": "Click Here",
+            "url": "https://kahedu.edu.in/n/wp-content/uploads/2020/02/Procedures-and-policies-for-maintaining-infrastructure.pdf"
+          }
+        ]
+      }
+    ],
+    "src": [{ "id": 1, "src": "/images/Kahe/Innerpages/image-1.jpg" }]
+  },
+
+  "transport": {
+    "title": "Transport",
+
+    "content": [
+      {
+        "id": 1,
+        "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/new32-150x150.png"
+      },
+      {
+        "id": 2,
+        "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/06/campus-150x150.jpg"
+      }
+    ]
+  },
+
+  "busSchedule": {
+    "mainiTi": "Bus Schedule",
+    "caption1":"DEPARTMENT OF TRANSPORT",
+    "caption2":"TRANSPORT FACILITIES AVAILABLE FOR STAFF AND STUDENTS",
+     "btn": {
+      "btnText": "Total no. of buses - 26",
+      "btnUrl": "#"
+    },
+    "content": [
+      {
+        "head": [
+          { "id": "col1", "label": "S. No." },
+          { "id": "col2", "label": "Bus No." },
+          { "id": "col3", "label": "Starting Point" },
+          { "id": "col4", "label": "Route" }
+        ],
+        "data": [
+          {
+            "col1": { "text": "1" },
+            "col2": { "text": "1" },
+            "col3": { "text": "Veerapandi Pirivu" },
+            "col4": { "text": "PN Palayam, NSN Palayam" }
+          },
+          {
+            "col1": { "text": "2" },
+            "col2": { "text": "1B" },
+            "col3": { "text": "Goundampalayam" },
+            "col4": { "text": "North CBE, Flower Market, Ukkadam" }
+          },
+          {
+            "col1": { "text": "3" },
+            "col2": { "text": "2" },
+            "col3": { "text": "Kalveerampalayam" },
+            "col4": {
+              "text": "Vadavalli, PN Pudur, Lawley road, Milk Company, Gandhipark, Raja Street"
+            }
+          },
+          {
+            "col1": { "text": "4" },
+            "col2": { "text": "3" },
+            "col3": { "text": "Ondipudur" },
+            "col4": {
+              "text": "Singanallur, ESI, Sowripalayam Pirivu, Ramanathapuram signal"
+            }
+          },
+          {
+            "col1": { "text": "5" },
+            "col2": { "text": "4" },
+            "col3": { "text": "Edayarpalayam" },
+            "col4": {
+              "text": "Kovilmedu, Velandipalayam, Saibaba Colony, Flower Market"
+            }
+          },
+          {
+            "col1": { "text": "6" },
+            "col2": { "text": "5A" },
+            "col3": { "text": "Pollachi" },
+            "col4": { "text": "Kovilpalayam, Kinathukadavu" }
+          },
+          {
+            "col1": { "text": "7" },
+            "col2": { "text": "6" },
+            "col3": { "text": "Saravanampatti" },
+            "col4": { "text": "SRP Mills, Bharathi Nagar, Ganapathy" }
+          },
+          {
+            "col1": { "text": "8" },
+            "col2": { "text": "7" },
+            "col3": { "text": "Cheran Maa Nagar" },
+            "col4": {
+              "text": "SITRA, Hope College, PSG Tech, Lakshmi Mills, Puliakulam, Gem Hospital, Sungam Chinthamani, Olympus"
+            }
+          },
+          {
+            "col1": { "text": "9" },
+            "col2": { "text": "7A" },
+            "col3": { "text": "Ramanujar Nagar" },
+            "col4": {
+              "text": "ESI, Uppilipalayam, Sowripalayam, Meena Estate, Nanjundapuram, Pothanur, GD Tank"
+            }
+          },
+          {
+            "col1": { "text": "10" },
+            "col2": { "text": "10" },
+            "col3": { "text": "Tirupur" },
+            "col4": { "text": "Palladam, Karadivavi, Chettipalayam" }
+          },
+          {
+            "col1": { "text": "11" },
+            "col2": { "text": "10A" },
+            "col3": { "text": "Thennampalayam Pirivu" },
+            "col4": {
+              "text": "Arulpuram, Palladam, Sulur, Paapampatti Pirivu, L&T by pass"
+            }
+          },
+          {
+            "col1": { "text": "12" },
+            "col2": { "text": "12" },
+            "col3": { "text": "Aalandurai" },
+            "col4": {
+              "text": "Madhampatti, Perur, Sundakkamuthur, Kovaipudur, Kuniamuthur, Aathupaalam, Sundarapuram"
+            }
+          },
+          {
+            "col1": { "text": "13" },
+            "col2": { "text": "UA1" },
+            "col3": { "text": "Tirupur" },
+            "col4": { "text": "Palladam, Sulur, Paapampatti Pirivu" }
+          },
+          {
+            "col1": { "text": "14" },
+            "col2": { "text": "UA2" },
+            "col3": { "text": "Palladam" },
+            "col4": { "text": "Karadivavi, Chettipalayam" }
+          },
+          {
+            "col1": { "text": "15" },
+            "col2": { "text": "UA3" },
+            "col3": { "text": "Somanur" },
+            "col4": { "text": "Karanampettai, Sulur, Paapampatti Pirivu" }
+          },
+          {
+            "col1": { "text": "16" },
+            "col2": { "text": "UA4" },
+            "col3": { "text": "Olavakkode" },
+            "col4": { "text": "Palakkad, Walayar" }
+          },
+          {
+            "col1": { "text": "17" },
+            "col2": { "text": "UA5" },
+            "col3": { "text": "Veerapandi Pirivu" },
+            "col4": { "text": "Palladam, Sulur, Paapampatti Pirivu" }
+          },
+          {
+            "col1": { "text": "18" },
+            "col2": { "text": "UA6" },
+            "col3": { "text": "Aanaimalai" },
+            "col4": { "text": "Pollachi, Kinathukadavu" }
+          },
+          {
+            "col1": { "text": "19" },
+            "col2": { "text": "UA7" },
+            "col3": { "text": "Puliampatti" },
+            "col4": { "text": "Negamam, Vadasithur, Kinathukadavu" }
+          },
+          {
+            "col1": { "text": "20" },
+            "col2": { "text": "UA8" },
+            "col3": { "text": "Selvapuram" },
+            "col4": { "text": "Ukkadam, Sundarapuram" }
+          },
+          {
+            "col1": { "text": "21" },
+            "col2": { "text": "UA9" },
+            "col3": { "text": "Ondipudur" },
+            "col4": { "text": "Singanallur, Vellalore, GD Tank" }
+          },
+          {
+            "col1": { "text": "22" },
+            "col2": { "text": "UA10" },
+            "col3": { "text": "Saravanampatti" },
+            "col4": {
+              "text": "SRP Mills, Ganapathy, Gandhipuram, WPT, Lakshmi Mills, Puliakulam, Ramanathapuram, Nanjundapuram, Pothanur"
+            }
+          },
+          {
+            "col1": { "text": "23" },
+            "col2": { "text": "UE1" },
+            "col3": { "text": "Thoppampatti Pirivu" },
+            "col4": {
+              "text": "NGGO Colony Pirivu, Vadamadurai, Thudialur, GN Mills"
+            }
+          },
+          {
+            "col1": { "text": "24" },
+            "col2": { "text": "UE2" },
+            "col3": { "text": "Olavakkode" },
+            "col4": { "text": "Palakkad, Walayar" }
+          },
+          {
+            "col1": { "text": "25" },
+            "col2": { "text": "UE3" },
+            "col3": { "text": "Pollachi" },
+            "col4": { "text": "Kovilpalayam, Kinathukadavu" }
+          },
+          {
+            "col1": { "text": "26" },
+            "col2": { "text": "UE4" },
+            "col3": { "text": "Sivanandha Colony" },
+            "col4": {
+              "text": "100 feet road, Gandhipuram, Women’s Polytechnic, Ukkadam, Kurichi"
+            }
+          }
+        ]
+      }
+    ]
+  },
+
+  "contact": {
+    "title": "Transport Officer:",
+    "content": [
+      {
+        
+        "bgcolor": "bg-lblue shadow-none",
+        "gridCls": " col-md-6 col-sm-6 col-12",
+
+        "ConClsName": "text-start",
+        "subtitle": "Mrs. J. Kalavathi",
+        "content": "Transport Officer",
+        "links": [
+          {
+            "icon": "feather-phone-call",
+            "text": "+91 78458 11244",
+            "url": "tellto:+91 78458 11244"
+          },
+          {
+            "icon": "feather-mail",
+            "text": "karpagamtransport@kce.ac.in",
+            "url": "mailto:karpagamtransport@kce.ac.in"
+          }
+        ]
+      }
+    ]
+  }
+}

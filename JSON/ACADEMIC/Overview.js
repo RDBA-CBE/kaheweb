@@ -529,6 +529,7 @@ export const Placement = {
   ],
 };
 
+
 export const OfficeOfInternationalAffairsJson = {
   title: "Office of International Affairs",
   content: [
@@ -580,6 +581,74 @@ export const OfficeOfInternationalAffairsJson = {
     {
       category: "Contact",
       link: "/office-of-international-affairs/contact/",
+    },
+  ],
+};
+
+export const CampusLife = {
+  title: "Campus Life",
+  content: [
+    {
+      category: "Campus Events",
+      link: "/campus-life/campus-events/",
+    },
+    {
+      category: "Sports",
+      link: "/campus-life/sports/",
+    },
+    {
+      category: "Yugadya Swachh Bharat / NCC / NSS / YRC",
+      link: "/campus-life/yugadya-swachh-bharat-ncc-nss/",
+      items: [
+        {
+          name: "National Cadet Corps",
+          link: "/campus-life/yugadya-swachh-bharat-ncc-nss/national-cadet-corps/",
+        },
+        {
+          name: "Youth Red Cross",
+          link: "/campus-life/yugadya-swachh-bharat-ncc-nss/youth-red-cross/",
+        },
+        {
+          name: "National Service Scheme",
+          link: "/campus-life/yugadya-swachh-bharat-ncc-nss/national-service-scheme/",
+        },
+      ],
+    },
+    {
+      category: "Campus Facilities",
+      link: "/campus-life/campus-facilities/",
+    },
+    {
+      category: "Central Animal House Facility",
+      link: "/campus-life/central-animal-house-facility/",
+    },
+    {
+      category: "Learning Center",
+      link: "/campus-life/learning-center/",
+    },
+    {
+      category: "Barrier Free Environment",
+      link: "/campus-life/barrier-free-environment/",
+    },
+    {
+      category: "Gallery",
+      link: "/campus-life/gallery/",
+    },
+    {
+      category: "Health Facilities",
+      link: "/campus-life/health-facilities/",
+    },
+    {
+      category: "Hostel",
+      link: "/campus-life/hostel/",
+    },
+    {
+      category: "MoUs",
+      link: "/campus-life/mous/",
+    },
+    {
+      category: "Endowment Lectures",
+      link: "/campus-life/endowment-lectures/",
     },
   ],
 };

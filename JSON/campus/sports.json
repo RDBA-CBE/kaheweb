@@ -1,0 +1,97 @@
+{
+  "bannerCon": {
+    "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+    "title": "Sports",
+    "bannerCon": "To be a leading institution in the field of education, providing quality education and training to students and professionals.",
+    "applyLink": "/"
+  },
+  "sports": {
+    "title": "Achievements",
+    "title1": "2021 – 2022 & 2022 – 2023",
+
+    "content": [
+      {
+        "subtitle": "2021-2022",
+        "id": 1,
+        "list": [
+          {
+            "src": "/images/Kahe/Innerpages/file.png",
+            "title": "2021-2022",
+            "item": "Open Pdf",
+            "url": "https://kahedu.edu.in/n/wp-content/uploads/2022/12/Sport-Achivement-2021-2022.pdf"
+          }
+        ]
+      },
+      {
+        "subtitle": "2022-2023",
+        "id": 2,
+        "list": [
+          {
+            "src": "/images/Kahe/Innerpages/file.png",
+            "title": "2022-2023",
+            "item": "Open Pdf",
+            "url": "https://kahedu.edu.in/n/wp-content/uploads/2022/12/Sports-Acheivements-2022-2023.pdf"
+          }
+        ]
+      }
+    ]
+  },
+
+  "yoga": {
+    "title": "International day of Yoga",
+
+    "content": [
+      {
+        "id": 1,
+        "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/DSC_0040-250x150.jpg"
+      },
+      {
+        "id": 2,
+        "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/DSC_0048-250x150.jpg"
+      },
+      {
+        "id": 3,
+        "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/DSC_0065-250x150.jpg"
+      },
+      {
+        "id": 4,
+        "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/DSC_0064-250x150.jpg"
+      },
+      {
+        "id": 5,
+        "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/DSC_0059-250x150.jpg"
+      },
+      {
+        "id": 6,
+        "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/DSC_0054-250x150.jpg"
+      },
+      {
+        "id": 7,
+        "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/DSC_0058-250x150.jpg"
+      },
+      {
+        "id": 8,
+        "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/DSC_0043-250x150.jpg"
+      }
+    ]
+  },
+
+  "sportsday": {
+    "title": "Sports Day Celebrations",
+
+    "content": [
+      {
+        "id": 1,
+        "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/06/img8_sport_lar1-1-compressed-1-250x150.jpg"
+      },
+      {
+        "id": 2,
+        "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/06/img1_sport_lar1-compressed-250x150.jpg"
+      },
+      {
+        "id": 3,
+        "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/06/img61-compressed-250x150.jpg"
+      }
+    ]
+  }
+}

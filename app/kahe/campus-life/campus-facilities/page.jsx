@@ -1,4 +1,4 @@
-import SportsCom from "@/components/00-Kahe/CampusComponenets/SportsCom";
+import CampusFacilitiesCom from "@/components/00-Kahe/CampusComponenets/CampusFacilitiesCom";
 
 export const metadata = {
   title: "About Us 01 - Online Courses & Education NEXTJS14 Template",
@@ -7,7 +7,7 @@ export const metadata = {
 const page = () => {
   return (
     <>
-      <SportsCom/>
+      <CampusFacilitiesCom/>
     </>
   );
 };
