@@ -20,7 +20,7 @@ const OpportunitiesDetails = () => {
 
   const breadcrumbItems = [
     { label: "Research", href: `research` },
-    { label: "Viva-Voce Examination", href: `publications` },
+    { label: "Research Opportunities", href: `publications` },
   ];
 
   return (
