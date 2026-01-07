@@ -88,5 +88,36 @@
         }
       ]
     }
+  },
+  "phd_guide": {
+    "bannerCon": {
+      "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+      "title": "List of PhD Research Supervisors",
+      "bannerCon": "To be a leading institution in the field of education, providing quality education and training to students and professionals.",
+      "applyLink": "/"
+    },
+    "fundedResearch": {
+      "title": "List of PhD Research Supervisors",
+      "content": [
+        {
+          "subtitle": "List of PhD Research Supervisors",
+          "id": 1,
+          "list": [
+            {
+              "src": "/images/Kahe/Innerpages/file.png",
+              "item": "Open Pdf",
+              "url": "https://kahedu.edu.in/n/wp-content/uploads/2025/11/List-of-PhD-Research-Supervisor_Nov_25.pdf",
+              "target": "_blank"
+            }
+          ]
+        }
+      ],
+      "src": [
+        {
+          "id": 1,
+          "src": "/images/Kahe/Innerpages/RTI.jpg"
+        }
+      ]
+    }
   }
 }
