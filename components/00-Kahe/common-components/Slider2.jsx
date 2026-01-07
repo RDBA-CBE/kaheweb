@@ -1,15 +1,31 @@
 "use client";
 
-import Image from "next/image";
-import Link from "next/link";
-
+import { useEffect } from "react";
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Autoplay, Pagination } from "swiper/modules";
 
 import "swiper/css";
 import "swiper/css/pagination";
+import "venobox/dist/venobox.min.css";
 
-const Slider2 = ({ data, start, end }) => {
+const Slider2 = ({ data, start = 0, end }) => {
+  useEffect(() => {
+    let vb;
+
+    import("venobox/dist/venobox.min.js").then((Venobox) => {
+      vb = new Venobox.default({
+        selector: ".child-gallery-single",
+        numeration: true,
+        infinigall: true,
+        spinner: "rotating-plane",
+      });
+    });
+
+    return () => {
+      if (vb && vb.destroy) vb.destroy();
+    };
+  }, []);
+
   return (
     <Swiper
       className="rbt-course-slider"
@@ -26,18 +42,10 @@ const Slider2 = ({ data, start, end }) => {
       spaceBetween={24}
       slidesPerView={4}
       breakpoints={{
-        0: {
-          slidesPerView: 1,
-        },
-        576: {
-          slidesPerView: 2,
-        },
-        768: {
-          slidesPerView: 3,
-        },
-        992: {
-          slidesPerView: 4,
-        },
+        0: { slidesPerView: 1 },
+        576: { slidesPerView: 2 },
+        768: { slidesPerView: 3 },
+        992: { slidesPerView: 4 },
       }}
     >
       {data &&
@@ -45,14 +53,19 @@ const Slider2 = ({ data, start, end }) => {
           <SwiperSlide key={index}>
             <div className="rbt-card variation-01 rbt-hover p-0">
               <div className="rbt-card-img">
-                <Link href={`/course-details/${item.id}`}>
+                <a
+                  href={item.src}
+                  className="child-gallery-single"
+                  data-gall="slider-gallery"
+                >
                   <img
                     src={item.src}
                     width={710}
                     height={488}
                     alt={item.alt ?? "Kahe image"}
+                    className="img-fluid"
                   />
-                </Link>
+                </a>
               </div>
             </div>
           </SwiperSlide>

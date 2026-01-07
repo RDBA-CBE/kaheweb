@@ -1,6 +1,7 @@
 "use client";
+import CampusEventGallery from "@/components/00-Kahe/CampusComponenets/CampusEventGallery";
+import ImageGrid from "@/components/00-Kahe/common-components/ImageGrid";
 import InnerSubBanner from "@/components/00-Kahe/common-components/InnerSubBanner";
-import GalleryPage from "@/components/00-Kahe/DirectPageComponent/GalleryPage";
 import { useEffect, useState } from "react";
 
 const Page = () => {
@@ -8,14 +9,18 @@ const Page = () => {
   const [url, setUrl] = useState(null);
 
   useEffect(() => {
-    const data = sessionStorage.getItem("galleryData");
-    const url = sessionStorage.getItem("galleryUrl");
+    const data = sessionStorage.getItem("camGalData");
+     console.log("data", data);
+    const url = sessionStorage.getItem("camGalUrl");
     setUrl(url);
 
     if (data) {
       setContent(JSON.parse(data));
     }
   }, []);
+
+//   console.log("data", data);
+  
 
   console.log("url", url);
   
@@ -26,13 +31,17 @@ const Page = () => {
 
   const bannerCon = {
     bannerImg: "/images/Kahe/breadcrumb/banner-inner1.jpg",
-    title: "Gallery",
+    title: "Campus Gallery",
   };
 
   return (
     <>
+
+    
       <InnerSubBanner data={bannerCon} />
-      <GalleryPage content={content}/>
+      <CampusEventGallery data={content} />
+     
+      
     
     </>
   );

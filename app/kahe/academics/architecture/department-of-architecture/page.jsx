@@ -1,4 +1,4 @@
-import DepartmentOfPerformingArts from "@/components/00-Kahe/AcademicsComponents/Performing-Arts/DepartmentOfPerformingArts";
+import DepartmentOfArchitecture from "@/components/00-Kahe/AcademicsComponents/architecture/DepartmentOfArchitecture";
 
 export const metadata = {
   title: "Best MSc Biochemistry Colleges in Coimbatore",
@@ -8,7 +8,7 @@ export const metadata = {
 const page = () => {
   return (
     <>
-     <DepartmentOfPerformingArts/>
+     <DepartmentOfArchitecture/>
     </>
   );
 };

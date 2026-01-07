@@ -101,7 +101,7 @@ const ImageLink = ({ data, firstParaLimit, firstParaSplit, order }) => {
                 {item?.url && (
                   <a href={item.url} className="read-more-btn">
                     <span className="rbt-btn-link">
-                      For More Information
+                      {item?.urlText || "For More Information"}
                       <i className="feather-arrow-up-right"></i>
                     </span>
                   </a>
