@@ -29,7 +29,7 @@ const Slider = ({ data, start, end }) => {
                       src={data.src}
                       width={710}
                       height={488}
-                      alt={data.alt ?? "Research image"}
+                      alt={data.alt ?? "Kahe image"}
                     />
                     {/* <div className="rbt-badge-3 bg-white">
                       <span>-{data.discount}%</span>
