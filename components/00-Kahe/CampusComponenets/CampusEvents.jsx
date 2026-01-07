@@ -1,19 +1,26 @@
 "use client";
 
 import { CampusLife } from "@/JSON/ACADEMIC/Overview";
-import data from "../../../JSON/campus/sports.json";
+import data from "../../../JSON/campus/campusEvents.json";
 import InnerBanner from "@/components/00-Kahe/common-components/InnerBanner";
 import Sidebar from "../common-components/Sidebar";
-import ContentCard from "../Components/ContentCard";
+
 import Slider2 from "../common-components/Slider2";
+
+import { FirstLetterUp } from "@/utils/functions.utils";
+import { useRouter } from "next/navigation";
+import ImageGrid from "../common-components/ImageGrid";
+import CampusEveIn from "./CAmpusEveIn";
 
 export const metadata = {
   title: "About Us 01 - Online Courses & Education NEXTJS14 Template",
   description: "Online Courses & Education NEXTJS14 Template",
 };
 
-const SportsCom = () => {
+const CampusEvents = () => {
   const Campus = data;
+  const router = useRouter();
+
 
   return (
     <>
@@ -23,19 +30,11 @@ const SportsCom = () => {
         <div className="rbt-course-details-area w-100">
           <div className="row g-5">
             <div className="col-lg-9">
-              <section className="section-bg1">
-                <ContentCard data={Campus?.sports} />
-              </section>
+             <CampusEveIn data={Campus?.convocation2024} />
 
-              <section className="section-bg1">
-                <h2 className="decor-ti">{Campus?.yoga?.title}</h2>
-                <Slider2 data={Campus?.yoga?.content} />
-              </section>
+             <CampusEveIn data={Campus?.digitalPenne} />
 
-              <section className="section-bg1">
-                <h2 className="decor-ti">{Campus?.sportsday?.title}</h2>
-                <Slider2 data={Campus?.sportsday?.content} />
-              </section>
+              <CampusEveIn data={Campus?.OrientationFASCM} />
             </div>
 
             <div className="col-lg-3 px-0 d-none d-lg-block sidebar-pg">
@@ -54,4 +53,4 @@ const SportsCom = () => {
   );
 };
 
-export default SportsCom;
+export default CampusEvents;

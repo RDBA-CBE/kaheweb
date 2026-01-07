@@ -1,4 +1,4 @@
-import CampusLife from "@/components/00-Kahe/CampusComponenets/CampusLifeCom";
+import CentralAnimalHouse from "@/components/00-Kahe/CampusComponenets/CentralAnimalHouse";
 
 
 export const metadata = {
@@ -8,7 +8,7 @@ export const metadata = {
 const page = () => {
   return (
     <>
-      <CampusLife/>
+      <CentralAnimalHouse/>
     </>
   );
 };

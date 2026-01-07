@@ -1,5 +1,4 @@
-import CampusLife from "@/components/00-Kahe/CampusComponenets/CampusLifeCom";
-
+import CampusEvents from "@/components/00-Kahe/CampusComponenets/CampusEvents";
 
 export const metadata = {
   title: "About Us 01 - Online Courses & Education NEXTJS14 Template",
@@ -8,7 +7,7 @@ export const metadata = {
 const page = () => {
   return (
     <>
-      <CampusLife/>
+      <CampusEvents/>
     </>
   );
 };

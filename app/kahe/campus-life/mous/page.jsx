@@ -1,4 +1,4 @@
-import CampusLife from "@/components/00-Kahe/CampusComponenets/CampusLifeCom";
+import Mous from "@/components/00-Kahe/CampusComponenets/Mous";
 
 
 export const metadata = {
@@ -8,7 +8,7 @@ export const metadata = {
 const page = () => {
   return (
     <>
-      <CampusLife/>
+      <Mous/>
     </>
   );
 };

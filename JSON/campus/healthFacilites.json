@@ -1,0 +1,25 @@
+{
+  "bannerCon": {
+    "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+    "title": "Health Facilities",
+    "bannerCon": "To be a leading institution in the field of education, providing quality education and training to students and professionals.",
+    "applyLink": "/"
+  },
+
+  "health": {
+    "title": "Health Facilities",
+
+    "images": [
+      {
+        "id": 1,
+        "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/WhatsApp-Image-2024-11-06-at-1.14.22-PM-1024x768.jpeg",
+        "alt": ""
+      },
+      {
+        "id": 2,
+        "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/WhatsApp-Image-2024-11-06-at-1.14.40-PM-1024x768.jpeg",
+        "alt": ""
+      }
+    ]
+  }
+}
