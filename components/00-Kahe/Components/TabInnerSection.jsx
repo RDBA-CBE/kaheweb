@@ -76,9 +76,9 @@ const TabInnerSection = ({ tabSections, tabContent }) => {
           style={{ padding: "80px 0" }}
         >
           <Gal_Pub_Event
-            InfraGallery={InfraGallery}
-            publicationsContent={publicationsContent}
-            eventsContent={eventsContent}
+            InfraGallery={InfraGallery && InfraGallery}
+            publicationsContent={publicationsContent && publicationsContent}
+            eventsContent={eventsContent && eventsContent}
           />
         </div>
 

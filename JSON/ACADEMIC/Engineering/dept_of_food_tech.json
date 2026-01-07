@@ -1,0 +1,380 @@
+{
+  "title": "Department of Food Technology",
+  "bannerCon": "The University of Wyoming welcomes students to experience a one-of-a-kind education in the heart of the Mountain West. With our dedication to academic excellence and student-focused education, UW provides an environment thrive both academically and personally. Admission to the University of Wyoming is just the first step to achieving your dreams.",
+  "applyLink": "#",
+  "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+  "tabs": [
+    {
+      "id": "overview",
+      "label": "Overview"
+    },
+    {
+      "id": "programme",
+      "label": "Programme"
+    },
+    {
+      "id": "faculty",
+      "label": "Faculty"
+    },
+    {
+      "id": "infrastructure",
+      "label": "Infrastructure"
+    },
+    {
+      "id": "publications",
+      "label": "Publications"
+    },
+    {
+      "id": "events",
+      "label": "Events"
+    }
+  ],
+  "tabContent": [
+    {
+      "tab": "Overview",
+      "items": [
+        {
+          "type": "overview",
+          "subTitle": "Overview",
+          "contents": "The Department of Food Technology being established in 2018. The Department offers Bachelor in Technology programme in Food Technology (B.Tech).The Department has a strong academic background with highly qualified faculty to provide excellent teaching, practical training and to inculcate research in the frontier areas of Food Technology.",
+          "image": "/images/others/video-07.jpg"
+        }
+      ]
+    },
+    {
+      "tab": "Programme",
+      "programmes": {
+        "title": "Programmes",
+        "content": [
+          {
+            "key": "ug",
+            "title": "Under Graduate Programme",
+            "img": "/images/others/health-b-02.png",
+            "items": [
+              "B.Tech. Food Technology (Strength: 60)"
+            ],
+            "type": "programme"
+          },
+          {
+            "key": "res",
+            "title": "Research Programme",
+            "img": "/images/others/health-b-02.png",
+            "items": [
+              "Ph.D"
+            ],
+            "type": "programme"
+          }
+        ]
+      },
+      "curriculum": {
+        "title": "Curriculum",
+        "content": [
+          {
+            "key": "be",
+            "title": "B.Tech. Food Technology",
+            "img": "/images/others/health-b-02.png",
+            "type": "curriculum",
+            "items": [
+              {
+                "year": "2020-2021",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/07/Food-Tech-curriculam-Syllabus-2020-2021-min.pdf"
+              },
+              {
+                "year": "2022-2023",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2022/09/Food-Technology-2022-23-Regulation-Final.pdf"
+              },
+              {
+                "year": "2023-2024",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2023/10/2023-2024-Food-Tech.pdf"
+              },
+              {
+                "year": "2024-2025",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/01/B.-Tech-Food-Technology.pdf"
+              },
+              {
+                "year": "2025-2026",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/08/Food-Tech-25-26-UG.pdf"
+              }
+            ]
+          },
+          {
+            "key": "be",
+            "title": "Ph.D. Food Technology",
+            "img": "/images/others/health-b-02.png",
+            "type": "curriculum",
+            "items": [
+              {
+                "year": "2024-2025",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/01/Food-Technology-PhD.pdf"
+              },
+              {
+                "year": "2025-2026",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/08/Food-Tech-25-26-PhD.pdf"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "tab": "Faculty",
+      "faculty": [
+        {
+          "name": "Dr. P. Karthik",
+          "qualification": "M.Tech., Ph.D",
+          "designation": "Associate Professor & Head",
+          "email": "karthik.pothiyappan@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/Dr.Karthik-P-1.pdf",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Mrs. Safreena Kabeer",
+          "qualification": "M.Tech, (Ph.D.)",
+          "designation": "Assistant Professor",
+          "email": "safreena.kabeer@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/Mrs.-Safreena-Kabeer-1.pdf",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Mr. T. Viswanathan",
+          "qualification": "M.Tech., (Ph.D)",
+          "designation": "Assistant Professor",
+          "email": "viswanathan.t@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/Mr.-Viswanathan-T-1.pdf",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr. R. Bharathipriya",
+          "qualification": "MFSc., Ph.D.",
+          "designation": "Assistant Professor",
+          "email": "bharathipriya.rajasekaran@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/Dr.-Bharathipriya-R-1.pdf",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Mr. Mame Bajo",
+          "qualification": "M.Tech, (Ph.D.)",
+          "designation": "Assistant Professor",
+          "email": "mamebajo.cherianegeorge@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/Mr.-Mame-Bajo-1.pdf",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr. V. Saranya",
+          "qualification": "M.Tech., Ph.D.",
+          "designation": "Assistant Professor",
+          "email": "saranya.venkatajalam@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/Dr.-Saranya-V-1.pdf",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Ms. R. Sanjana",
+          "qualification": "M.S",
+          "designation": "Assistant Professor",
+          "email": "sanjana.ravi@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/Ms.-Sanjana-R-1.pdf",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Ms. K. Shobana",
+          "qualification": "M.S",
+          "designation": "Assistant Professor",
+          "email": "shobana.kuppusamy@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/Ms.-Shobana-K-1.pdf",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Mr. M. Gangeswar",
+          "qualification": "M.Tech.",
+          "designation": "Assistant Professor",
+          "email": "gangeswar.mohan@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/Mr.-Gangeswar-M-1.pdf",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        }
+      ]
+    },
+    {
+      "tab": "Infrastructure",
+      "items": [
+        {
+          "type": "laboratories",
+          "title": "Laboratories",
+          "content": [
+            "B.Tech. Food Technology Laboratory",
+            "Food Chemistry Laboratory"
+          ]
+        }
+      ]
+    },
+    {
+      "tab": "Publications",
+      "slug": "department-of-food-technology",
+      "title": "Best Five Papers Faculty wise:",
+      "subtitle": "Paper publications by the Faculty Members",
+      "content": [
+        {
+          "faculty_name": "Dr. Karthik P",
+          "content": [
+            "Ezhilarasi, P. N., Karthik, P., Chhanwal, N., & Anandharamakrishnan, C. (2013). Nanoencapsulation techniques for food bioactive components: a review. Food and Bioprocess Technology, 6, 628–647.",
+            "Karthik, P., Ezhilarasi, P. N., & Anandharamakrishnan, C. (2017). Challenges associated in stability of food grade nanoemulsions. Critical Reviews in Food Science and Nutrition, 57(7), 1435–1450.",
+            "Karthik, P., & Anandharamakrishnan, C. (2016). Enhancing omega-3 fatty acids nanoemulsion stability and in-vitro digestibility through emulsifiers. Journal of Food Engineering, 187, 92–105.",
+            "Mu, M., Karthik, P., Chen, J., Holmes, M., & Ettelaie, R. (2021). Effect of amylose and amylopectin content on the colloidal behaviour of emulsions stabilised by OSA-Modified starch. Food Hydrocolloids, 111, 106363.",
+            "Karthik, P., & Anandharamakrishnan, C. (2016). Enhancing omega-3 fatty acids nanoemulsion stability and in-vitro digestibility through emulsifiers. Journal of Food Engineering, 187, 92–105."
+          ]
+        },
+        {
+          "faculty_name": "Mrs. Safreena Kabeer",
+          "content": [
+            "Govindarajan, N., Kabeer, S., & Venketeish, N. (2024). Impact of Different Processing Techniques on the Retention of Zinc in Foods. In Zinc (pp. 223–231). CRC Press.",
+            "Kabeer, S., Govindarajan, N., Radhakrishnan, P., Essa, M. M., & Qoronfleh, M. W. (2023). Effect of drying technique on physiochemical and nutritional properties of Eleusine coracana porridge powder. Journal of Food Science and Technology, 60(12), 3024–3034.",
+            "Kabeer, S., & Nagamanniammai, G. (2023). Effect of freeze and vacuum drying on the retention of nutrient content of brown rice porridge. International Journal of Nutrition, Pharmacology, Neurological Diseases, 13(4), 234–239.",
+            "Kabeer, S., Govindarajan, N., Radhakrishnan, P., Alharbi, H. F., Essa, M. M., & Qoronfleh, M. W. (2023). Formulation of fortified instant weaning food from Musa paradisiaca and Eleusine coracana. Frontiers in Nutrition, 10, 1203955.",
+            "Govindarajan, N., Kabeer, S., & Venketeish, N. (2024). Impact of Different Processing Techniques on the Retention of Zinc in Foods. In Zinc (pp. 223–231). CRC Press."
+          ]
+        },
+        {
+          "faculty_name": "Mr. Viswanathan T",
+          "content": [
+            "Viswanathan T., Hariprasath A., Padalingam S., Haris Nijanth N. J. Phytochemical activities of Delonix regina and its biological activities – a review. High Technology Letters, Volume 29, Issue 12, 2023.",
+            "Theerthagiri Viswanathan, Soumen Pal, Ariful Rahaman, Panchu Gopal Pal. Effect of nanocrystalline magnesium aluminate precursor on spinellization and densification. Transactions of the Indian Ceramic Society, 80(3), 2021.",
+            "Viswanathan T. Sintering behaviour of fine reactive MgAl2O4 spinel powder formed by calcination of magnesium aluminate hydrate powder. Journal of Critical Review, 2020."
+          ]
+        },
+        {
+          "faculty_name": "Dr. Bharathipriya R",
+          "content": [
+            "Rajasekaran, B., Singh, A., Ponnusamy, A., Patil, U., Zhang, B., Hong, H., & Benjakul, S. (2023). Ultrasound treated fish myofibrillar protein. Ultrasonics Sonochemistry.",
+            "Rajasekaran, B., Singh, A., Nagarajan, M., & Benjakul, S. (2022). Effect of chitooligosaccharide on shrimp oil emulsion stability. Food Control, 137, 108899.",
+            "Rajasekaran, B., Singh, A., & Benjakul, S. (2022). Combined effect of chitosan and proteins on shrimp oil emulsions. Journal of Food Science, 87(7), 2879–2893.",
+            "Rajasekaran, B., Singh, A., Zhang, B., Hong, H., & Benjakul, S. (2022). Changes in emulsifying properties during storage. European Journal of Lipid Science and Technology, 124(10), 2200068.",
+            "Rajasekaran, B., Singh, A., Nilsuwan, K., Ma, L., Nazeer, R. A., & Benjakul, S. (2024). Shrimp oil nanoemulsions prepared by microfluidization. RSC Advances, 14(9), 6135–6145."
+          ]
+        },
+        {
+          "faculty_name": "Ms. Sanjana R",
+          "content": [
+            "Indhuleka, A., Sanjana, R., Janet, J., & Ragavi, V. (2020). Importance of vegetables in COVID-19 management. Annals of Phytomedicine, 9(2), 62–79.",
+            "Indhuleka, A., Sanjana, R., Janet, J., & Ragavi, V. (2021). Role of fruits in boosting immunity against COVID-19. Annals of Phytomedicine, 10(Special Issue 1), 146–162.",
+            "Indhuleka, A., Sanjana, R., Janet, J., & Ragavi, V. (2021). Significance of nuts in strengthening immune system. Annals of Phytomedicine, 10(Special Issue 2), S1–S17.",
+            "Soundira Rajan Nithya Priya et al. (2020). Optimization of nutrient-rich herbal noodles. Springer Proceedings in Energy."
+          ]
+        },
+        {
+          "faculty_name": "Mr. Gangeswar M",
+          "content": [
+            "Devarayan, K., Palanisamy, Y., Mohan, G., et al. (2024). Non-invasive measurement of spoilage of packed fish using halochromic sensor. Pigment & Resin Technology.",
+            "Devarayan, K., John, E. U. S., Mohan, G., et al. Development of portable colorimeter for detection of formalin in fish."
+          ]
+        }
+      ]
+    },
+    {
+      "tab": "Events",
+      "slug": "department-of-food-technology",
+      "items": [
+        {
+          "title": "Career Counseling",
+          "content": [
+            "Ms. Kayalvizhi Balasubramanian, Assistant Director, MSME Development Institute, Coimbatore, counseled on “Information on Opportunity in Food Technology” on July 12, 2019."
+          ]
+        },
+        {
+          "title": "Guest Lectures",
+          "content": [
+            "Dr. V. E. Ida Christi delivered a guest lecture on “Food as Nutrient and Medicine” on December 31, 2020.",
+            "Dr. Preethi Marimuthu delivered a guest lecture on “Probiotics- Gut health, Immunity, Safety, Industry and Economic Impact” on December 29, 2020.",
+            "Dr. R. Balakrishnaraja delivered a guest lecture on “Value Addition of Food Products” on December 28, 2020.",
+            "Dr. P. Karthik delivered a special lecture on “Recent Developments in Micro and Nanoencapsulation of Food Bioactive Ingredients by Spray Drying” on December 26, 2020.",
+            "Dr. C. Jusci Kumar delivered a guest lecture on “Food Processing Technology in Bakery” on December 12, 2020.",
+            "Dr. J. Prakash Maran delivered a guest lecture on “Microorganisms and Food Technology” on December 31, 2020.",
+            "Mr. Godwin Berlin Dass delivered a guest lecture on “Unit Operations in Dairy Processing” on February 14, 2020.",
+            "Ms. Kayalvizhi Balasubramanian delivered a guest lecture on “Opportunity in Food Technology” on July 12, 2019.",
+            "Dr. S. Gobikrishnan delivered a guest lecture on “Engineering Aspects in Food Technology” on August 28, 2019.",
+            "Dr. R. K. Sumathi delivered a guest lecture on “Food Borne Illness” on September 06, 2019.",
+            "Dr. T. V. Ranganathan delivered a guest lecture on “Application of Food Analysis in Assessing Food Quality” on January 22, 2020."
+          ]
+        },
+        {
+          "title": "Food Technology Association",
+          "content": [
+            "Dr. Saraswati Eswaran inaugurated the Association of Food Technology and delivered a keynote address on “New and Novel Challenges for Foodpreneurs” on August 28, 2019."
+          ]
+        },
+        {
+          "title": "Industrial Visits",
+          "content": [
+            "Two-day industrial visit to Hindustan Coca-Cola Beverages Pvt. Ltd., Garuda Polyflex Foods, and Indo-American Hybrid Seeds, Bengaluru."
+          ]
+        },
+        {
+          "title": "World Food Day Celebration",
+          "content": [
+            "National Level World Food Day Celebration on October 16, 2020 with keynote address by Dr. C. Anandharamakrishnan on future prospects of Food Processing Technology.",
+            "World Food Day Celebration on October 16, 2019 with keynote address by Mr. Umakant Singh on plant design in food safety."
+          ]
+        },
+        {
+          "title": "Extension Activity",
+          "content": [
+            "Tribal Interaction Programme on Millets at Baralikadu on 13.12.2025 with 50 students and five faculty members.",
+            "Awareness Program on Food Adulterants at Malumichampatty on September 04, 2019."
+          ]
+        },
+        {
+          "title": "Field Visit",
+          "content": [
+            "ABT Group of Industries (Sakthi Dairy Division), Pollachi on July 31, 2019.",
+            "Zenith Medical Equipments, Coimbatore on December 10, 2019.",
+            "Synthite Industries Private Limited, Karamadai on January 27, 2020."
+          ]
+        },
+        {
+          "title": "Value Added Course",
+          "content": [
+            "Value Added Course on “Food Product Development”."
+          ]
+        },
+        {
+          "title": "Others",
+          "content": [
+            "Tribal Interaction Programme on Millets at Baralikadu on 13.12.2025.",
+            "Inauguration of student chapter for Western Ghat Researcher Association on 08.12.2025.",
+            "Two-day workshop on Engineering principles applied to Food Processing and Baking Technology on 27–28.11.2025.",
+            "One-day Seminar on “Design Thinking for AI-Driven Innovations in Food and Nutrition” on 17.10.2025.",
+            "Invited Talk on “IPR (Intellectual Property Rights)” on 08.09.2025.",
+            "Technical Seminar cum Workshop on Food Adulteration and Nutritional Profiling on 28–29.08.2025.",
+            "One-day Technical Seminar on “BioFoodpreneurs: Shaping the Future of Sustainable Food” on 22.08.2025.",
+            "One-day workshop on “Millets: The Super Foods for the Next Generation” on 30.07.2025."
+          ]
+        }
+      ]
+    }
+  ]
+}
