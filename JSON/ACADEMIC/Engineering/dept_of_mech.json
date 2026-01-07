@@ -60,383 +60,519 @@
         }
       ]
     },
-   {
-  "tab": "Programme",
-  "programmes": {
-    "title": "Programmes",
-    "content": [
-      {
-        "key": "ug",
-        "title": "Under Graduate Programme",
-        "img": "/images/others/health-b-02.png",
-        "items": [
-          "B.E. Mechanical Engineering (Strength: 120)"
-        ],
-        "type": "programme"
+    {
+      "tab": "Programme",
+      "programmes": {
+        "title": "Programmes",
+        "content": [
+          {
+            "key": "ug",
+            "title": "Under Graduate Programme",
+            "img": "/images/others/health-b-02.png",
+            "items": [
+              "B.E. Mechanical Engineering (Strength: 120)"
+            ],
+            "type": "programme"
+          },
+          {
+            "key": "pg",
+            "title": "Post Graduate Programme",
+            "img": "/images/others/health-b-02.png",
+            "items": [
+              "M.E. CAD / CAM Robotics (Strength: 6)"
+            ],
+            "type": "programme"
+          },
+          {
+            "key": "res",
+            "title": "Research Programme",
+            "img": "/images/others/health-b-02.png",
+            "items": [
+              "Ph.D. in Mechanical Engineering"
+            ],
+            "type": "programme"
+          }
+        ]
       },
-      {
-        "key": "pg",
-        "title": "Post Graduate Programme",
-        "img": "/images/others/health-b-02.png",
-        "items": [
-          "M.E. CAD / CAM Robotics (Strength: 6)"
-        ],
-        "type": "programme"
-      },
-      {
-        "key": "res",
-        "title": "Research Programme",
-        "img": "/images/others/health-b-02.png",
-        "items": [
-          "Ph.D. in Mechanical Engineering"
-        ],
-        "type": "programme"
+      "curriculum": {
+        "title": "Curriculum",
+        "content": [
+          {
+            "key": "be-ft",
+            "title": "BE Mechanical Engineering – FT",
+            "img": "/images/others/health-b-02.png",
+            "type": "curriculum",
+            "items": [
+              {
+                "year": "2020-2021",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/07/Mechanical-FT-2020-2021-syllabus-min.pdf"
+              },
+              {
+                "year": "2021-2022",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2021/11/2021-FT-Mechanical-Engineering-Curriculum-Syllabus.pdf"
+              },
+              {
+                "year": "2022-2023",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2022/09/FT-Mechanical-Regulation-Curriculum-Syllabus-2022.pdf"
+              },
+              {
+                "year": "2023 and Onwards",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2023/12/BE-Curriculum-Syllabus-Mechanical-2023-Final.pdf"
+              },
+              {
+                "year": "2024 and Onwards",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/01/B.E-Mechanical.pdf"
+              },
+              {
+                "year": "2025 and Onwards",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/08/BE-Mechanical-Engineering-2025-curriculum-syllabus-20.08.2025.pdf"
+              }
+            ]
+          },
+          {
+            "key": "be-pt",
+            "title": "BE Mechanical Engineering – PT",
+            "img": "/images/others/health-b-02.png",
+            "type": "curriculum",
+            "items": [
+              {
+                "year": "2020-2021",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/12/BE-MECH-PT-2020-2021.pdf"
+              },
+              {
+                "year": "2021-2022",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2021/11/2021-PT-Mechanical-Curriculum-Syllabi.pdf"
+              },
+              {
+                "year": "2022-2023",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2022/09/PT-Mechanical-Regulation-Curriculum-Syllabus-2022.pdf"
+              },
+              {
+                "year": "2023 and Onwards",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2023/10/BE-Curriculum-Syllabus-Mechanical-2023-Final.pdf"
+              }
+            ]
+          },
+          {
+            "key": "me-cad",
+            "title": "ME – CAD / CAM Robotics",
+            "img": "/images/others/health-b-02.png",
+            "type": "curriculum",
+            "items": [
+              {
+                "year": "2023 and Onwards",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2023/12/ME-CAD-CAM-Robotics-Curriculum-Syllabus-2023-Final.pdf"
+              },
+              {
+                "year": "2024 and Onwards",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/01/M.E-CAD-CAM.pdf"
+              },
+              {
+                "year": "2025 and Onwards",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/08/ME-CAD-CAM-Robotics-2025-2026-24.07.25.pdf"
+              }
+            ]
+          },
+          {
+            "key": "phd-mech",
+            "title": "Ph.D. Mechanical Engineering",
+            "img": "/images/others/health-b-02.png",
+            "type": "curriculum",
+            "items": [
+              {
+                "year": "2020-2021",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/07/PhD-Mechanical-curriculam-and-syllabus-2020-2021-min.pdf"
+              },
+              {
+                "year": "2021-2022",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2021/11/2021-Ph.D.-Curriculum-Syllabus-Mechanical-Engineering.pdf"
+              },
+              {
+                "year": "2022-2023",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2022/09/Ph.D-syllabus-New.pdf"
+              },
+              {
+                "year": "2023-2024",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2023/12/Ph.D.-Curriculum-Syllabus-Mechanical-Engineering-2023-Final.pdf"
+              },
+              {
+                "year": "2024 and Onwards",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/01/Ph_D-Mechanical.pdf"
+              },
+              {
+                "year": "2025 and Onwards",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/08/PhD_Mech-2025-24.07.25.pdf"
+              }
+            ]
+          }
+        ]
       }
-    ]
-  },
-  "curriculum": {
-    "title": "Curriculum",
-    "content": [
-      {
-        "key": "be-ft",
-        "title": "BE Mechanical Engineering – FT",
-        "img": "/images/others/health-b-02.png",
-        "type": "curriculum",
-        "items": [
-          { "year": "2020-2021", "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/07/Mechanical-FT-2020-2021-syllabus-min.pdf" },
-          { "year": "2021-2022", "link": "https://kahedu.edu.in/n/wp-content/uploads/2021/11/2021-FT-Mechanical-Engineering-Curriculum-Syllabus.pdf" },
-          { "year": "2022-2023", "link": "https://kahedu.edu.in/n/wp-content/uploads/2022/09/FT-Mechanical-Regulation-Curriculum-Syllabus-2022.pdf" },
-          { "year": "2023 and Onwards", "link": "https://kahedu.edu.in/n/wp-content/uploads/2023/12/BE-Curriculum-Syllabus-Mechanical-2023-Final.pdf" },
-          { "year": "2024 and Onwards", "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/01/B.E-Mechanical.pdf" },
-          { "year": "2025 and Onwards", "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/08/BE-Mechanical-Engineering-2025-curriculum-syllabus-20.08.2025.pdf" }
-        ]
-      },
-      {
-        "key": "be-pt",
-        "title": "BE Mechanical Engineering – PT",
-        "img": "/images/others/health-b-02.png",
-        "type": "curriculum",
-        "items": [
-          { "year": "2020-2021", "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/12/BE-MECH-PT-2020-2021.pdf" },
-          { "year": "2021-2022", "link": "https://kahedu.edu.in/n/wp-content/uploads/2021/11/2021-PT-Mechanical-Curriculum-Syllabi.pdf" },
-          { "year": "2022-2023", "link": "https://kahedu.edu.in/n/wp-content/uploads/2022/09/PT-Mechanical-Regulation-Curriculum-Syllabus-2022.pdf" },
-          { "year": "2023 and Onwards", "link": "https://kahedu.edu.in/n/wp-content/uploads/2023/10/BE-Curriculum-Syllabus-Mechanical-2023-Final.pdf" }
-        ]
-      },
-      {
-        "key": "me-cad",
-        "title": "ME – CAD / CAM Robotics",
-        "img": "/images/others/health-b-02.png",
-        "type": "curriculum",
-        "items": [
-          { "year": "2023 and Onwards", "link": "https://kahedu.edu.in/n/wp-content/uploads/2023/12/ME-CAD-CAM-Robotics-Curriculum-Syllabus-2023-Final.pdf" },
-          { "year": "2024 and Onwards", "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/01/M.E-CAD-CAM.pdf" },
-          { "year": "2025 and Onwards", "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/08/ME-CAD-CAM-Robotics-2025-2026-24.07.25.pdf" }
-        ]
-      },
-      {
-        "key": "phd-mech",
-        "title": "Ph.D. Mechanical Engineering",
-        "img": "/images/others/health-b-02.png",
-        "type": "curriculum",
-        "items": [
-          { "year": "2020-2021", "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/07/PhD-Mechanical-curriculam-and-syllabus-2020-2021-min.pdf" },
-          { "year": "2021-2022", "link": "https://kahedu.edu.in/n/wp-content/uploads/2021/11/2021-Ph.D.-Curriculum-Syllabus-Mechanical-Engineering.pdf" },
-          { "year": "2022-2023", "link": "https://kahedu.edu.in/n/wp-content/uploads/2022/09/Ph.D-syllabus-New.pdf" },
-          { "year": "2023-2024", "link": "https://kahedu.edu.in/n/wp-content/uploads/2023/12/Ph.D.-Curriculum-Syllabus-Mechanical-Engineering-2023-Final.pdf" },
-          { "year": "2024 and Onwards", "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/01/Ph_D-Mechanical.pdf" },
-          { "year": "2025 and Onwards", "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/08/PhD_Mech-2025-24.07.25.pdf" }
-        ]
-      }
-    ]
-  }
-}
-,
-    {
-  "tab": "Faculty",
-  "faculty": [
-    {
-      "name": "Dr.S.Marimuthu",
-      "qualification": "M.E., Ph.D.",
-      "designation": "Professor & Head",
-      "email": "mech.hod@kahedu.edu.in",
-      "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/03/MARIMUTHU.pdf",
-      "profileText": "Click Here",
-      "src": "/images/team/team-11.png",
-      "iconSrc": "/images/Kahe/Innerpages/education.png",
-      "target": "_blank"
     },
     {
-      "name": "Dr.Debabrata Barik",
-      "qualification": "M.E., Ph.D.",
-      "designation": "Professor",
-      "email": "debabrata.barik@kahedu.edu.in",
-      "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/10/Dr.-Debabrata-Barik-One-Page-Biodata-Updated-31-10-2025.pdf",
-      "profileText": "Click Here",
-      "src": "/images/team/team-11.png",
-      "iconSrc": "/images/Kahe/Innerpages/education.png",
-      "target": "_blank"
+      "tab": "Faculty",
+      "faculty": [
+        {
+          "name": "Dr.S.Marimuthu",
+          "qualification": "M.E., Ph.D.",
+          "designation": "Professor & Head",
+          "email": "mech.hod@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/03/MARIMUTHU.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr.Debabrata Barik",
+          "qualification": "M.E., Ph.D.",
+          "designation": "Professor",
+          "email": "debabrata.barik@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/10/Dr.-Debabrata-Barik-One-Page-Biodata-Updated-31-10-2025.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr.S.Manivannan",
+          "qualification": "M.Tech., Ph.D.",
+          "designation": "Assistant Professor",
+          "email": "manivannan.s@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/03/Manivannan.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr.R.Karuppasamy",
+          "qualification": "M.E., Ph.D.",
+          "designation": "Assistant Professor",
+          "email": "karuppasamy.r@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/03/Karuppasamy.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr.S.Aravind",
+          "qualification": "M.E., Ph.D.",
+          "designation": "Assistant Professor",
+          "email": "aravind.s@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/03/aravind.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr.P.Ragupathi",
+          "qualification": "M.E., Ph.D.",
+          "designation": "Assistant Professor",
+          "email": "ragupathi.p@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/03/RAGUPATHI.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr.K.SathishKumar",
+          "qualification": "M.Tech., Ph.D.",
+          "designation": "Assistant Professor",
+          "email": "sathishkumar.k@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/03/Sathish-Kumar-K.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr.P.M.Gopal",
+          "qualification": "M.E., Ph.D.",
+          "designation": "Assistant Professor",
+          "email": "gopal.pm@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/03/GOPAL.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr.V.Kavimani",
+          "qualification": "M.E., Ph.D.",
+          "designation": "Assistant Professor",
+          "email": "kavimani.s@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/03/Kavimani.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr.A.Daniel Das",
+          "qualification": "M.E., Ph.D.",
+          "designation": "Assistant Professor",
+          "email": "danieldas.a@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/03/Daniel-Das.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr.C.Thiyagu",
+          "qualification": "M.E., (Ph.D.)",
+          "designation": "Assistant Professor",
+          "email": "thiyagu.chenniappan@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/03/Thiyagu.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Mr.R.Suresh Balaji",
+          "qualification": "M.E. (Ph.D.)",
+          "designation": "Assistant Professor",
+          "email": "rsureshbalajiaerolec@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/03/Suresh-Baalaji.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Mr.N.Sathiesh Kumar",
+          "qualification": "M.E.(Ph.D.)",
+          "designation": "Assistant Professor",
+          "email": "sathieshkumar.n@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/03/SATHIESH-KUMAR-N.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Mr.V.Santhosh",
+          "qualification": "M.E.(Ph.D.)",
+          "designation": "Assistant Professor",
+          "email": "santhosh.velmurugan@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/03/Santhosh.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Mr.M.Ramkumar",
+          "qualification": "M.E., (Ph.D)",
+          "designation": "Assistant Professor",
+          "email": "ramkumar.manimuthu@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/03/RAMKUMAR.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Mr.R.Venkat Raman",
+          "qualification": "M.E., (Ph.D.)",
+          "designation": "Assistant Professor",
+          "email": "venkatraman.ravisankar@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/03/VENKAT-RAMAN-R.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Mr.B.Narenthiran",
+          "qualification": "M.E., (Ph.D.)",
+          "designation": "Assistant Professor",
+          "email": "narenthiran.b@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/03/Narenthiran.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Mr.P.K.Miniappan",
+          "qualification": "M.E., Ph.D",
+          "designation": "Assistant Professor",
+          "email": "miniappan.pk@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/03/MINIAPPAN.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Mr.N.Kalidas",
+          "qualification": "M.E., (Ph.D.)",
+          "designation": "Assistant Professor",
+          "email": "kalidas.natarajan@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/03/kalidas.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Mr.B.Akilan",
+          "qualification": "M.E., (Ph.D.)",
+          "designation": "Assistant Professor",
+          "email": "akilan.b@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/03/AKILAN-B.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        }
+      ]
     },
-    {
-      "name": "Dr.S.Manivannan",
-      "qualification": "M.Tech., Ph.D.",
-      "designation": "Assistant Professor",
-      "email": "manivannan.s@kahedu.edu.in",
-      "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/03/Manivannan.pdf",
-      "profileText": "Click Here",
-      "src": "/images/team/team-11.png",
-      "iconSrc": "/images/Kahe/Innerpages/education.png",
-      "target": "_blank"
-    },
-    {
-      "name": "Dr.R.Karuppasamy",
-      "qualification": "M.E., Ph.D.",
-      "designation": "Assistant Professor",
-      "email": "karuppasamy.r@kahedu.edu.in",
-      "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/03/Karuppasamy.pdf",
-      "profileText": "Click Here",
-      "src": "/images/team/team-11.png",
-      "iconSrc": "/images/Kahe/Innerpages/education.png",
-      "target": "_blank"
-    },
-    {
-      "name": "Dr.S.Aravind",
-      "qualification": "M.E., Ph.D.",
-      "designation": "Assistant Professor",
-      "email": "aravind.s@kahedu.edu.in",
-      "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/03/aravind.pdf",
-      "profileText": "Click Here",
-      "src": "/images/team/team-11.png",
-      "iconSrc": "/images/Kahe/Innerpages/education.png",
-      "target": "_blank"
-    },
-    {
-      "name": "Dr.P.Ragupathi",
-      "qualification": "M.E., Ph.D.",
-      "designation": "Assistant Professor",
-      "email": "ragupathi.p@kahedu.edu.in",
-      "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/03/RAGUPATHI.pdf",
-      "profileText": "Click Here",
-      "src": "/images/team/team-11.png",
-      "iconSrc": "/images/Kahe/Innerpages/education.png",
-      "target": "_blank"
-    },
-    {
-      "name": "Dr.K.SathishKumar",
-      "qualification": "M.Tech., Ph.D.",
-      "designation": "Assistant Professor",
-      "email": "sathishkumar.k@kahedu.edu.in",
-      "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/03/Sathish-Kumar-K.pdf",
-      "profileText": "Click Here",
-      "src": "/images/team/team-11.png",
-      "iconSrc": "/images/Kahe/Innerpages/education.png",
-      "target": "_blank"
-    },
-    {
-      "name": "Dr.P.M.Gopal",
-      "qualification": "M.E., Ph.D.",
-      "designation": "Assistant Professor",
-      "email": "gopal.pm@kahedu.edu.in",
-      "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/03/GOPAL.pdf",
-      "profileText": "Click Here",
-      "src": "/images/team/team-11.png",
-      "iconSrc": "/images/Kahe/Innerpages/education.png",
-      "target": "_blank"
-    },
-    {
-      "name": "Dr.V.Kavimani",
-      "qualification": "M.E., Ph.D.",
-      "designation": "Assistant Professor",
-      "email": "kavimani.s@kahedu.edu.in",
-      "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/03/Kavimani.pdf",
-      "profileText": "Click Here",
-      "src": "/images/team/team-11.png",
-      "iconSrc": "/images/Kahe/Innerpages/education.png",
-      "target": "_blank"
-    },
-    {
-      "name": "Dr.A.Daniel Das",
-      "qualification": "M.E., Ph.D.",
-      "designation": "Assistant Professor",
-      "email": "danieldas.a@kahedu.edu.in",
-      "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/03/Daniel-Das.pdf",
-      "profileText": "Click Here",
-      "src": "/images/team/team-11.png",
-      "iconSrc": "/images/Kahe/Innerpages/education.png",
-      "target": "_blank"
-    },
-    {
-      "name": "Dr.C.Thiyagu",
-      "qualification": "M.E., (Ph.D.)",
-      "designation": "Assistant Professor",
-      "email": "thiyagu.chenniappan@kahedu.edu.in",
-      "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/03/Thiyagu.pdf",
-      "profileText": "Click Here",
-      "src": "/images/team/team-11.png",
-      "iconSrc": "/images/Kahe/Innerpages/education.png",
-      "target": "_blank"
-    },
-    {
-      "name": "Mr.R.Suresh Balaji",
-      "qualification": "M.E. (Ph.D.)",
-      "designation": "Assistant Professor",
-      "email": "rsureshbalajiaerolec@kahedu.edu.in",
-      "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/03/Suresh-Baalaji.pdf",
-      "profileText": "Click Here",
-      "src": "/images/team/team-11.png",
-      "iconSrc": "/images/Kahe/Innerpages/education.png",
-      "target": "_blank"
-    },
-    {
-      "name": "Mr.N.Sathiesh Kumar",
-      "qualification": "M.E.(Ph.D.)",
-      "designation": "Assistant Professor",
-      "email": "sathieshkumar.n@kahedu.edu.in",
-      "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/03/SATHIESH-KUMAR-N.pdf",
-      "profileText": "Click Here",
-      "src": "/images/team/team-11.png",
-      "iconSrc": "/images/Kahe/Innerpages/education.png",
-      "target": "_blank"
-    },
-    {
-      "name": "Mr.V.Santhosh",
-      "qualification": "M.E.(Ph.D.)",
-      "designation": "Assistant Professor",
-      "email": "santhosh.velmurugan@kahedu.edu.in",
-      "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/03/Santhosh.pdf",
-      "profileText": "Click Here",
-      "src": "/images/team/team-11.png",
-      "iconSrc": "/images/Kahe/Innerpages/education.png",
-      "target": "_blank"
-    },
-    {
-      "name": "Mr.M.Ramkumar",
-      "qualification": "M.E., (Ph.D)",
-      "designation": "Assistant Professor",
-      "email": "ramkumar.manimuthu@kahedu.edu.in",
-      "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/03/RAMKUMAR.pdf",
-      "profileText": "Click Here",
-      "src": "/images/team/team-11.png",
-      "iconSrc": "/images/Kahe/Innerpages/education.png",
-      "target": "_blank"
-    },
-    {
-      "name": "Mr.R.Venkat Raman",
-      "qualification": "M.E., (Ph.D.)",
-      "designation": "Assistant Professor",
-      "email": "venkatraman.ravisankar@kahedu.edu.in",
-      "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/03/VENKAT-RAMAN-R.pdf",
-      "profileText": "Click Here",
-      "src": "/images/team/team-11.png",
-      "iconSrc": "/images/Kahe/Innerpages/education.png",
-      "target": "_blank"
-    },
-    {
-      "name": "Mr.B.Narenthiran",
-      "qualification": "M.E., (Ph.D.)",
-      "designation": "Assistant Professor",
-      "email": "narenthiran.b@kahedu.edu.in",
-      "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/03/Narenthiran.pdf",
-      "profileText": "Click Here",
-      "src": "/images/team/team-11.png",
-      "iconSrc": "/images/Kahe/Innerpages/education.png",
-      "target": "_blank"
-    },
-    {
-      "name": "Mr.P.K.Miniappan",
-      "qualification": "M.E., Ph.D",
-      "designation": "Assistant Professor",
-      "email": "miniappan.pk@kahedu.edu.in",
-      "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/03/MINIAPPAN.pdf",
-      "profileText": "Click Here",
-      "src": "/images/team/team-11.png",
-      "iconSrc": "/images/Kahe/Innerpages/education.png",
-      "target": "_blank"
-    },
-    {
-      "name": "Mr.N.Kalidas",
-      "qualification": "M.E., (Ph.D.)",
-      "designation": "Assistant Professor",
-      "email": "kalidas.natarajan@kahedu.edu.in",
-      "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/03/kalidas.pdf",
-      "profileText": "Click Here",
-      "src": "/images/team/team-11.png",
-      "iconSrc": "/images/Kahe/Innerpages/education.png",
-      "target": "_blank"
-    },
-    {
-      "name": "Mr.B.Akilan",
-      "qualification": "M.E., (Ph.D.)",
-      "designation": "Assistant Professor",
-      "email": "akilan.b@kahedu.edu.in",
-      "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/03/AKILAN-B.pdf",
-      "profileText": "Click Here",
-      "src": "/images/team/team-11.png",
-      "iconSrc": "/images/Kahe/Innerpages/education.png",
-      "target": "_blank"
-    }
-  ]
-}
-,
     {
       "tab": "Infrastructure",
       "items": [
         {
           "type": "laboratories",
-          "title": "Laboratories",
+          "title": "Research laboratories",
           "content": [
-            "Structural Engineering Laboratory",
-            "Surveying Laboratory",
-            "Soil Laboratory",
-            "Construction material Laboratory."
+            "Research Laboratories",
+            "Research Centre for Tribology",
+            "Research Centre for Alternative Fuels, Engines and Emissions",
+            "Non-Ferrous Composite Research Laboratory",
+            "Machining Research Laboratory",
+            "Centre for Production Facility and Service",
+            "Material Science Research Laboratories"
+          ]
+        },
+        {
+          "type": "laboratories",
+          "title": "Research laboratories",
+          "content": [
+            "Engineering Practice Lab",
+            "Fluid Mechanics and Machinery Lab",
+            "CAD Lab",
+            "Strength of Materials Lab",
+            "Machining Practices Lab",
+            "Metrology and Measurements Lab",
+            "Kinematics and Dynamics Lab",
+            "Thermal Engineering Lab – I",
+            "Thermal Engineering Lab – II",
+            "CAM Lab",
+            "Robotics and Automation Lab",
+            "Two & Three-Wheeler Lab",
+            "Automotive Chassis & Transmission Lab",
+            "Auto Scanning & Vehicle Testing Lab",
+            "Automobile Vehicle Maintenance & Reconditioning Lab",
+            "Automotive Engines & Components Lab",
+            "Aerodynamics Lab",
+            "Aircraft Structures Lab",
+            "Propulsion Lab",
+            "Airframe Repair and Maintenance and Aero Engine Repair Lab",
+            "Aircraft Systems Lab",
+            "Wind Tunnel Apparatus with Accessories"
           ]
         },
         {
           "type": "gallery",
-          "slug": "department-of-chemical-engineering",
+          "slug": "department-of-mechanical-engineering",
           "images": [
             {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/ci1-348x460.png",
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/23-756x426.png",
               "alt": "",
               "title": ""
             },
             {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/ci2-348x468.png",
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/13-622x345.png",
               "alt": "",
               "title": ""
             },
             {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/ci3-330x434.png",
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/Thermal-Engineering-II-Lab-275x172.png",
               "alt": "",
               "title": ""
             },
             {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/ci5-415x469.png",
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/Thermal-Engineering-I-Lab-274x154.png",
               "alt": "",
               "title": ""
             },
             {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/1-6-660x887.jpg",
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/Robotics-Automation-Lab-274x135.png",
               "alt": "",
               "title": ""
             },
             {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/2-5-530x678.jpg",
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/Non-ferrous-Composite-Research-Lab-277x175.png",
               "alt": "",
               "title": ""
             },
             {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/3-4-614x697.jpg",
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/Metrology-Measurements-Lab-274x147.png",
               "alt": "",
               "title": ""
             },
             {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/4-1-641x896.jpg",
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/Machining-Research-Lab-277x177.png",
               "alt": "",
               "title": ""
             },
             {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/5-1-1024x609.jpg",
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/Fluid-Mechanics-Machinery-Lab-274x161.png",
+              "alt": "",
+              "title": ""
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/Kinematics-Dynamics-Lab-274x171.png",
+              "alt": "",
+              "title": ""
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/Engineering-Practices-Lab-275x166.png",
+              "alt": "",
+              "title": ""
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/CAM-LAB-274x153.png",
+              "alt": "",
+              "title": ""
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/CAD-LAB-273x157.png",
+              "alt": "",
+              "title": ""
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/03/mech-events-6-163x149.png",
+              "alt": "",
+              "title": ""
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/03/mech-events-7-157x150.png",
+              "alt": "",
+              "title": ""
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/03/mech-events-8-162x156.png",
+              "alt": "",
+              "title": ""
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/03/mech-events-10-162x156.png",
+              "alt": "",
+              "title": ""
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/03/mech-events11-162x156.png",
+              "alt": "",
+              "title": ""
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/03/mech-events-12-163x156.png",
               "alt": "",
               "title": ""
             }
@@ -446,114 +582,191 @@
     },
     {
       "tab": "Publications",
-      "slug": "department-of-chemical-engineering",
+      "slug": "department-of-mechanical-engineering",
       "title": "Best Five Papers Faculty wise:",
       "subtitle": "Paper publications by the Faculty Members",
       "content": [
         {
-          "faculty_name": "",
+          "faculty_name": "Dr. A. Daniel Das",
           "content": [
-            "Vignesh, M. (2024). Reinventing concrete: Exploring strength and durability with Portland slag cement. Revista Materia, 27(3).",
-            "Balasundaram, N. (2024). Enhancing concrete performance with e-plastic waste and fly ash: A sustainable approach. Revista Materia, 27(4).",
-            "Balasundaram, N. (2024). An in-depth assessment of the structural integrity and advantages of bamboo reinforced cement concrete elements (BRCC) utilizing an alternative binding material: A comprehensive evaluation. Revista Materia, 27(4).",
-            "Johnpaul, V. (2023). The effects of nano-based bio-carbonates in superhydrophobic concrete—A review. Buildings, 13(6).",
-            "Vijayshankar, G. R. (2023). Changes of geotechnical properties of heavy metal contaminated soil after solidification. Oxidation Communications, 46(3).",
-            "Vijayshankar, G. R. (2023). Effect of phytoremediation on the geotechnical properties of heavy metal contaminated soil. Global Nest Journal, 25(3).",
-            "Johnpaul, V. (2024). Feasibility assessment of medium-scale hydro-power plant: Case study in Kerala, India. Asian Journal of Water Environment and Pollution, 21(1).",
-            "Johnpaul, V. (2024). Optimizing corrosion prediction initiation time for embedded steel in concrete with shell powders using deep learning techniques. Intelligent Systems and Applications in Engineering, 12(2).",
-            "Balasundaram, N. (2024). Analysis of soil characteristics of legacy landfill at Vellalore dump site and study on reclamation of old landfill site. Journal of Balkan Tribological Association, 30(2)."
+            "Venkatesh, R., A. Daniel Das, R. Muthu Kamatchi, Gopal Kaliyaperumal, M. Ajin, and Rajasekaran Shanmugam. (2024). Synthesis and Functional Behavior of Sisal Fiber-Incorporated Epoxy Hybrid Nanocomposite Enriched by Nano-SiC. Journal of The Institution of Engineers (India): Series D, 1–5.",
+            "Das, A. Daniel, R. Suresh Balaji, S. Marimuthu, and S. Manivannan. (2024). Investigating Ethanol-Diesel Mixtures for Improved Compression Ignition (CI) Engine Performance: An Experimental Approach. SAE Technical Paper No. 2023-01-5138.",
+            "Das, A. Daniel, S. Manivannan, R. Venkatesh, and S. Gowtham. (2023). Effect of Tensile Strength on Friction Welding of Tube-to-Tube Plate Processed Samples. Journal of Materials Engineering and Performance, 1–16.",
+            "Das, A. Daniel, and Gizachew Assefa Kerga. (2022). Effect of Cavitation with Vibration on the Powerhouse Structure of Bulb Turbines Installed in Hydropower Stations. Advances in Materials Science & Engineering.",
+            "Das, A. D., K. Sathish Kumar, and R. Prasanna. (2021). Investigating the effect of wire cut EDM of titanium alloy 6242 using TOPSIS. Advances in Materials and Processing Technologies, 8(3), 2824–2836."
+          ]
+        },
+        {
+          "faculty_name": "Dr. D. Barik",
+          "content": [
+            "Barik, D., et al. (2024). Exploration of the dual fuel combustion mode on a DI diesel engine powered with hydrogen and diesel-diethyl ether blend. International Journal of Hydrogen Energy, 52, 827–840.",
+            "Jayapradha, P., & Barik, D. (2024). Experimental investigation on natural convection effects on cylindrical LiFePO4 battery module. Energy Storage, 6, 1–14.",
+            "Arun, M., Barik, D., et al. (2024). Parabolic trough solar collector technology using TiO2 nanofluids with dimpled tubes. Case Studies in Thermal Engineering, 61, 104840.",
+            "Arun, M., Barik, D., & Chandran, S. S. R. (2024). Material recovery framework from waste for clean environment. Chemical Engineering Journal Advances, 18, 100589.",
+            "Arun, M., & Barik, D. (2024). Heat transfer and thermal performance of parabolic solar collector with ribbed surface. International Journal of Energy for a Clean Environment, 25(5), 1–17."
+          ]
+        },
+        {
+          "faculty_name": "Dr. P. M. Gopal",
+          "content": [
+            "Gopal, P. M., Kavimani, V., & Arun Kumar, K. (2024). Electrochemical machining of Mg/FeCoCrNiMn composite. Materials and Manufacturing Processes, 1–12.",
+            "Gopal, P. M., Kavimani, V., Sudhagar, S., Sonar, T., & Venkatesh, S. (2024). Optimization of wire-cut EDM using Taguchi–COPRAS approach. IJIDeM, 1–12.",
+            "Gopal, P. M., Prakash, K. S., et al. (2023). E-waste CRT glass reinforced magnesium composite. Journal of Materials Research and Technology, 27, 2939–2952.",
+            "Aliasker, K. T., Gopal, P. M., et al. (2023). Self-lubricating MoS2 reinforced magnesium composites. Colloids and Surfaces A, 677, 132362.",
+            "Gopal, P. M., Suyambulingam, I., et al. (2023). Biomass-based microcrystalline cellulose from Millettia pinnata leaf. Biomass Conversion and Biorefinery, 1–11."
+          ]
+        },
+        {
+          "faculty_name": "Dr. P. Ragupathi",
+          "content": [
+            "Ragupathi, P., Barik, D., & Praveenkumar, S. (2024). Thermoelectric effect analysis for direct thermal-to-electric conversion. Results in Engineering, 23, 102752.",
+            "Ragupathi, P., & Barik, D. (2024). Minimizing surface temperature of heat sink for sustainability. Evolutionary Manufacturing Practices, 409–418.",
+            "Ragupathi, P., & Barik, D. (2023). Heat-to-power generation efficiency of TEGs using waste heat. International Journal of Energy Research, 3693308.",
+            "Ragupathi, P., Barik, D., Aravind, S., & Vignesh, G. (2021). Performance optimization of thermoelectric generators. IOP Conference Series: MSE, 1059(1), 012053.",
+            "Ragupathi, P., Barik, D., Vignesh, G., & Aravind, S. (2020). Electricity generation from exhaust waste heat. Journal of Applied Science and Engineering, 23(1), 55–60."
+          ]
+        },
+        {
+          "faculty_name": "Dr. R. Karuppasamy",
+          "content": [
+            "Karuppasamy, R., & Barik, D. (2021). Production methods of aluminium foam: A review. Materials Today: Proceedings, 37, 1584–1587.",
+            "Karuppasamy, R., & Daniel, D. A. (2019). Mechanical properties of squeeze casted Al MMC. Journal of Advanced Research in Dynamic & Control Systems, 11(12), 1086–1092.",
+            "Karuppasamy, R., Barik, D., Sivaram, N. M., & Dennison, M. S. (2020). Aluminium foam via stir casting and infiltration. IJME Innovation, 11(1), 34–50.",
+            "Das, A. D., & Karuppasamy, R. (2021). Optimization on hardness of FSW samples using Taguchi method. Materials Today: Proceedings, 37, 596–599.",
+            "Ganapathy, T., et al. (2023). Graphene reinforced biomass-based hybrid epoxy composites. Biomass Conversion and Biorefinery, 1–38."
+          ]
+        },
+        {
+          "faculty_name": "Dr. S. Aravind",
+          "content": [
+            "Samraj, A., Barik, D., et al. (2023). Effect of diethyl ether on diesel engine fueled with waste cooking oil. Processes, 11(9), 2613.",
+            "Aravind, S., & Barik, D. (2023). Taguchi optimization on biooil extraction from Spirogyra algae. International Journal of Energy Research, 6213851.",
+            "Aravind, S., Barik, D., & Ashok, N. (2022). Optimization of algae oil yield using RSM and ANN. International Journal of Photoenergy, 3690635.",
+            "Aravind, S., Barik, D., Ragupathi, P., & Vignesh, G. (2021). Algae oil extraction using Soxhlet method. Materials Today: Proceedings, 43, 308–313.",
+            "Aravind, S., & Daniel Das, A. (2021). Examination of GTAW samples of aluminium alloy using RSM. Materials Today: Proceedings, 37, 614–620."
+          ]
+        },
+        {
+          "faculty_name": "Dr. S. Manivannan",
+          "content": [
+            "Manivannan, S. Smart assessment of environment-assisted cracking of grade 92 material. Materials Research Express.",
+            "Manivannan, S. Stress corrosion cracking of AZ91 alloy. Journal of Materials Engineering and Performance.",
+            "Manivannan, S. Crystal growth behavior of rare earth oxide doped zirconia nanopowders. Journal of Materials Research and Technology.",
+            "Manivannan, S. Synthesis and erosion behaviour of AlCoCrMoNi high entropy alloy coating. Materials Research Express.",
+            "Manivannan, S. Thermal kinetics and phase stability of samaria doped zirconia nanopowders. Ceramics International."
+          ]
+        },
+        {
+          "faculty_name": "Dr. V. Kavimani",
+          "content": [
+            "Kavimani, V., Paramasivam, B., & Raju, S. (2024). Mechanical and thermal performance of polymer composites using CRITIC-TODIM. Measurement, 228, 114251.",
+            "Kavimani, V., et al. (2024). Multi-response optimization on AWJM using CRITIC-COPRAS. IJAMT, 131(9), 4965–4980.",
+            "Kavimani, V., et al. (2023). Corrosion behaviour of Mg-8Li-graphene composite. Surface Topography, 11(3), 035017.",
+            "Kavimani, V., et al. (2023). Biomass-based cellulose from Pandanus tectorius leaves. Biomass Conversion and Biorefinery, 1–12.",
+            "Kavimani, V., et al. (2022). Mechanical and flame retardancy behaviour of graphene-filled epoxy composites. Polymer Bulletin, 79(8), 6289–6307."
           ]
         }
       ]
     },
     {
       "tab": "Events",
-      "slug": "department-of-chemical-engineering",
+      "slug": "department-of-mechanical-engineering",
       "items": [
-        {
-          "title": "Guest Lecture",
-          "content": [
-            "Guest Lecture on “Advanced materials in Structural Engineering and its Applications” on 24.09.2025.",
-            "M. Sumesh, Assistant Professor, Department of Civil Engineering, KAHE – Delivered Lecture Series (Invited Talk) on “Microstructure Characteristics of Cement and Concrete Composites” for PhD students in the Faculty of Engineering, University of Malaya, Malaysia from 13th Nov to 23rd Nov, 2020.",
-            "Guest lecture on Estimating the quantity of RCC Structures by K.Mohandas, HoD & Professor, Department of Civil Engineering, Ashoka Institute of Engineering and Technology, Hyderabad on 30.09.2020",
-            "S.Pratheba, Assistant Professor organized the Guest Lecture on “Hydrology and Water Resources” Dr. KB. Srinivasan, Manager – Projects, Sreevatsa Real Estates Pvt Ltd, Coimbatore, Tamilnadu, India on Aug 08, 2020.",
-            "Solai Mathi, Assistant professor organized the Guest Lecture on “Advanced Solid Mechanics” by Mr.N.Chidambaram, Assistant Professor, Department of Civil Engineering, J.J. College of Engineering and Technology, Tiruchirappalli on Feb 01, 2020.",
-            "M. Sumesh, organized a Guest Lecture on “Ground Improvement Techniques” by M. Samuel Thanaraj, Nehru Group of Institution, Coimbatore on Jan 24, 2020.",
-            "P. Preethi, Assistant professor organized the Guest Lecture on “Advanced Structural Analysis” by Mr.S.Aravind, Assistant Professor, Department of Mechanical Engineering, Karpagam Academy of Higher Education, Coimbatore on Jan 20, 2020.",
-            "Endowment Lecture on conservation of Water Resources in Modern Society by Mr. K. Kalidasan President, Osai Environmental Organisation Coimbatore on June 19, 2019.",
-            "Guest lecture on “Ground Improvement Techniques” by Dr R Kuberan on February 18, 2019.",
-            "Guest Lecture on “Concrete Technology” by B.Srinvasan, Project Manager, Sreevatsa Real Estate Pvt. Ltd on December 20, 2018.",
-            "Guest lecture on “Swachh Bharat” by Shri.Kana Ram Godha, Senior Manager, Sanitation & Livelihoods, Ministry of Housing and Urban Affairs, New Delhi on September 04, 2018.",
-            "Guest lecture on “Design of RC Structures” by Dr.P.Vinayagam Senior Grade on August 24, 2018.",
-            "Guest lecture on “Surveying and Total Station” by E.D.Vishwanath on July 27, 2018.",
-            "Guest Lecture on “Soil Sampling Techniques” by S.Elaiyaraja Professor on July 13, 2018.",
-            "Guest Lecture on Carrier Guidance & Entrepreneurship by Mega Bharathi on July 11, 2018.",
-            "Construction Management & Techniques by Mr.B.Srinivasan, Project Manager Sreevatsa Construction, Coimbatore on July 12, 2017.",
-            "Green Building Concepts by Mr.B.Srinivasan, Project Manager / Sreevatsa Construction, Coimbatore on February 27, 2017.",
-            "Environmental Engineering –I by Elangovan & Superintend Engineering / PWD Aliyar Dam on October 04, 2016.",
-            "Prestressed Concrete by Dr.V.G.Srisanthi & Associate Professor / Coimbatore Institute of Technology, Coimbatore on August 24, 2016.",
-            "Non-destructive technique Practices by Mr.B,Lawrence, CEO/A+CADD Center on January 04, 2016."
-          ]
-        },
-        {
-          "title": "Webinar / Career Guidance / Workshops / Hands on Training Organized",
-          "content": [
-            "Career counselling on “Career Opportunities with Government Banks, Central Government & Railways for Engineers” on 26.11.2025.",
-            "Career Counselling Program on “Building Your Future: Career Pathways for Aspiring Civil Engineers” for Second and Pre-Final year Students on 07.08.2025",
-            "Career Counselling Program on “Building Your Future: Career Pathways for Aspiring Civil Engineers” for Second and Pre-Final year Students on 07.08.2025.",
-            "Sindhu, Assistant Professor, Department of Civil Engineering, KAHE organized a Skill Development on Building Valuation by Er. M. Adaikkalavan on 01.2021",
-            "M. Sumesh, Assistant Professor, Department of Civil Engineering, KAHE organized a Webinar on “Field Testing of Construction Materials” by Dr. V. Karthik, M.E, PhD, Structural Consultant, V.A. Construction, Allivilla Group of Engineers, Salem – 636 007, Tamilnadu, India on Dec 17, 2020.",
-            "M. Sumesh, Assistant Professor, Department of Civil Engineering, KAHE organized a Webinar on “Key Challenges and Career Opportunities for Civil Engineers” by Dr. E. D. Viswanath, Ph.D, CEO, Crea Infrastructure, Salem – 636 001, Tamilnadu, India on Dec 12, 2020.",
-            "P.Preethi, Assistant Professor, organised a Soft Skill Development Program on Etiquettes and mannerisms for successful career for the Civil Engineering students on 2nd November 2020.M.R. Vanithamani, Professor & Director, Faculty of Management Studies, Karpagam College of Engineering, Coimbatore was invited as the resource person.",
-            "M. Sumesh, Assistant Professor, Department of Civil Engineering, KAHE organized a Competitive coaching on “Government Norms for Properties” by Dr. J. Sankar M.E (Struct)., Ph.D, The Proprietor, Surrya Builders, Salem – 636007, Tamilnadu, India on Oct 27, 2020.",
-            "M. Sumesh, Assistant Professor, Department of Civil Engineering, KAHE organized a Skill development program on “Basic Concept and Applications of Vastu in Construction” by Er. P. Sivakumar M.E (Struct)., (Ph.D), Managing Director, Tamilnad Constructions, Karur, Tamilnadu, India on Oct 22, 2020.",
-            "P.Preethi, Assistant Professor, organised a Career Guidance Program on Scope for upcoming Civil Engineers in valuation on 8th October 2020.T.V. Arul Prakash, Proprietor, Chartered Engineer, Registered Valuer, A.P Associates was invited as the resource person.",
-            "Sindhu, Assistant Professor, Department of Civil Engineering, KAHE organized a Endowment Lecture on ‘Entrepreneurship Development in Civil Engineering’ by Dr. Karthik, M.E, PhD,Managing Partner, Sri Murugan Sand, Salem – 636015, Tamilnadu, India on Sep 15, 2020.",
-            "P.Preethi, Assistant Professor, organised a National Level Technical Webinar on BIM concepts in construction 26th June 2020. M.Vasanth Kumar Managing Director, Thiranz Tech Solutions was invited as the resource person.",
-            "Sumesh, Assistant Professor, Department of Civil Engineering, KAHE organized a Skill development program on “Creating a Floor Plan in Layout and Interior Design with SketchUP 2021” by Mr. R. Ramesh Babu, Civil Technical Head, Thiranz Tech Solutions, Malumichampatti, Coimbatore on Feb 08, 2021.",
-            "S.Pratheba, Assistant Professor organized the Webinar on “Introduction to Project Management using Primavera” on Ms. Suganya Sekar, (PMP) Manager – Delivery and Services, Infinity PMC Solutions Pvt Ltd.7/380, Kamarajar salai, Kovilambakkam, Chennai – 600129, India on Jan 27, 2020.",
-            "Pratheba, Assistant Professor organized the  Career Guidance Program on “Entrepreneurship development in Civil Engineering Sectors” by Er. Sudhan Nayak Raj, Managing Director, Olive Green Construction, Coimbatore on Jan 18, 2020.",
-            "Skill Development on “Vasthu Sasthra and Total Station” by Er.J.Shankar, Consultant Suriya Builders, Salem on July 16, 2018.",
-            "Guideline to prepare GATE exam by Gate Academy Members / GATE Academy- Coimbatore on February 08, 2017.",
-            "To create awareness among the students regarding the use of software’s in Civil Engineering Field by Civil Engineering Software – AUTOCADD, C-CUBE TECHNOLOGY on July 20, 2017.",
-            "Practical Demo on SPT Test by Dr.R.Venkatasubramani, Professor & Head/MCET, Pollachi on September 06, 2017.",
-            "STAAD Pro (Design software) by Mr. M. Anandapadmanabhan, Civil Engineer / Manika Sundaram Associates, Coimbatore, from February 20, 2017 to February 22, 2017.",
-            "Career guidance and personality development by Mr.P.Anjesh, PSG College of Technology Coimbatore on January 25, 2016.",
-            "To give practical exposure on basics of solid mechanics by Mr.Karthik, Assistant Professor, KPR Institute of Engineering and Technology on January 22, 2017."
-          ]
-        },
-        {
-          "title": "National Conference",
-          "content": [
-            "Department of Civil Engineering Organized 9thNational Conference on “Recent Trends in Civil Engineering” on 5th March 2020. Dr. S. Senthil Kumar, Professor, KSR College of engineering and Technology was the Chief Guest.",
-            "Department of Civil Engineering Organized 8th National Conference on “Recent Trends in Civil Engineering” on 20thMarch 2019. Dr. G. S. Thirugnanam, Professor, Department of Civil Engineering, Builders Engineering College, Erode was the Chief Guest.",
-            "Department of Civil Engineering Organized 7th National Conference on “Recent Advancements in Civil Engineering (RACE-2k18)” on 15thMarch 2018. The Chief Guest of the conference was Dr. V. Rajkumar, Professor, Department of Civil Engineering, Government College of Engineering, Salem.",
-            "Department of Civil Engineering Organized 6th National Conference on “Research & Innovation in Civil Engineering (ncRICE-2k17)” on 17thMarch 2017. Dr. N. Kottiswaran, Principal, INFO Institute of Engineering, Coimbatore was the Chief Guest.",
-            "Department of Civil Engineering Organized 5th National Conference on “Innovations in Civil Engineering” on 12thMarch 2016. The Chief Guest of the conference was Dr. R. Thenmozhi & Mr. G.L. Sathyamoorthy. PG students and research scholars share their research ideas and present it.",
-            "Department of Civil Engineering Organized 4th National Conference on “Advanced Techniques in Civil Engineering (NCATCE-2015)” on 10thMarch 2015. Dr. G. Prince Arulraj, Professor and Dean of Civil Engineering, S.N.S. College of Technology, Coimbatore was the Chief Guest."
-          ]
-        },
-        {
-          "title": "Technical Symposium",
-          "content": [
-            "National level technical symposium “EGSOW’20” on 18th February 2020. Dr.P. Vinayagam, Professor, Coimbatore Institute of Technology, Coimbatore was invited as the resource person.",
-            "National level technical symposium “EGSOW’19” on 22nd February 2019. Er.S.Sivalingam, Deputy Chief Engineer, Coimbatore was invited as the resource person.",
-            "National level technical symposium “EGSOW’18” on 16th February 2018. Mr.V.Ganeshan, IFS, Chief Conservator of Forest & Field Director, Anamalai Tiger Reserve, Pollachi, Coimbatore was invited as the resource person.",
-            "National level technical symposium “EGSOW’17” on 20th February 2017. Dr. A. Sudhakar, Chief Consultant, Dimensions Coimbatore was invited as the resource person.",
-            "Conducted National level technical symposium “EGSOW’16” on 17th February 2016. Dr.G.S.Thirugnanam, Professor & Head of the Department, Civil Engineering, Institute of Road and Transport Technology was invited as the resource person"
-          ]
-        },
         {
           "title": "Others",
           "content": [
-            "Three Days Skill Development Program on “Plumbing & Drafting” from 03.12.2025 to 05.12.2025",
-            "Five-day Faculty Development Program on “Recent Advances and Sustainable Innovations in Civil Engineering” from 24.11.2025 to 28.11.2025.",
-            "Alumni Talk on “Career Versality” on 19.11.2025.",
-            "One – day National Level Technical Fest titled “EGSOW 26” on 13.02.2026.",
-            "Seminar on “Understanding SPT Data Interpretation and basics of Geophysical Instrumentation” on 17.11.2025.",
-            "Skill Development Program on “Mastering the Total Station for Construction Projects” for II Year & III Year B.E Civil Engineering students on 11.09.2025.",
-            "Skill Development Program on “Framework used in various Building” for II Year & III Year B.E Civil Engineering students on 26.08.2025.",
-            "Alumni Meet on 26.07.2025 for 2021-2025 (UG) and Batch : 2023-2025(PG) (Convocation Day) and honor for the Proficiency, Best Outgoing, Best Alumni Students also."
+            "National Level Technical Fest “MECTROTZ-2026” on 06.02.2026",
+            "National Conference on “Advances in Materials, Manufacturing and Thermal Science (NCAMMT’26)” on 30.01.2026.",
+            "One Week Faculty Development Programme on “Advanced Composite Manufacturing and Characterization Technologies” for the faculty members of Mechanical Engineering, in collaboration with the Center for Material Science, KAHE from 05.01.2026 to 10.01.2026",
+            "One-Week STTP on “Infusing AI/ML and its Applications into the Non-Circuit Engineering Branch Curriculum” at National Institute of Technology (NIT) Warangal from 1st to 6th December 2025.",
+            "To conduct a Road Safety Awareness Programme under our Department Extension Activity for the Public and Students of our Institution on 15.10.2025 at L & T Bypass signal, near to our campus. A sum of ₹2,000/- has been sanctioned for the same.",
+            "Faculty Development Programme on “Curriculum Implementation and Evaluation” from 18.08.2025 to 22.08.2025, through Online.",
+            "Alumni Meet on 26.07.2025 for 2021-2025 (UG) and Batch: 2023-2025(PG) (Convocation Day) and honor for the Best Alumni (from UG FT &PT, PG) also"
+          ]
+        },
+        {
+          "title": "Guest Lectures",
+          "content": [
+            "Guest lecture on “Cost analysis of Agile and Rapid Product Development Design of machine elements” for the III Year B.E Mechanical Engineering students (2023 Batch) on 11.08.2025.",
+            "Guest lecture on “Industrial Applications of Additive Manufacturing” for III Year B.E Mechanical Engineering students on 21.08.2025.",
+            "Guest lecture on “Production Planning and Inventory Control” for the III Year B.E Mechanical Engineering students (2023 Batch) on 12.08.2025.",
+            "Research Opportunities on Welding Consumables organized by Dr. K. Thirunavukkarasu, Dr. V. Kavimani, Mr. A. Daniel Das, and Mr. C. Nithiyapathi on 26.06.2020.",
+            "NBA – Outcome Based Education organized by Dr. K. Thirunavukkarasu, Dr. V. Kavimani, Mr. A. Daniel Das, and Mr. C. Nithiyapathi on 23.07.2020.",
+            "Additive Manufacturing organized by Dr. P. M. Gopal, Dr. V. Kavimani, and Mr. A. Daniel Das on 03.10.2020.",
+            "Materials for Energy Applications organized by Dr. V. Kavimani, Dr. P. M. Gopal, and Mr. A. Daniel Das on 10.10.2020.",
+            "Carbon Nano-Materials and its research potential organized by Dr. S. Manivannan and Mr. A. Daniel Das on 13.10.2020.",
+            "Recent trends in Unconventional Machining Process organized by Dr. K. Thirunavukkarasu, Dr. V. Kavimani, Mr. A. Daniel Das, and Mr. C. Nithiyapathi on 28.10.2020.",
+            "Material Design and Surface Engineering for Bioimplants organized by Dr. S. Manivannan and Mr. A. Daniel Das on 12.12.2020 (FN).",
+            "A Good Career for Your Future organized by Dr. R. Karuppasamy and Mr. A. Daniel Das on 12.12.2020 (AN).",
+            "How to develop your interpersonal skills organized by Dr. R. Karuppasamy and Mr. A. Daniel Das on 13.12.2020.",
+            "Startups organized by Mr. S. Aravind and Mr. A. Daniel Das on 14.12.2020.",
+            "Opportunities for Competitive Exams organized by Mr. P. Paranthaman, Dr. P. M. Gopal, and Dr. V. Kavimani on 16.12.2020.",
+            "Introduction to emerging technologies and scope for Mechanical Engineers in Industries organized by Dr. S. Karuppasamy on 20.12.2020.",
+            "Guest lecture on Jigs and Fixtures on January 17, 2018 by Mr. S. Senniappan, B.E., M/S BINDIA Tools, Coimbatore.",
+            "Guest lecture on Design of Press Tools on January 17, 2018 by Er. S. Senniappan, M/S BINDIA Tools, Coimbatore.",
+            "Guest lecture on PLC System for Mechanical Industries on January 29, 2018 by Axis Global Automation, Chennai.",
+            "Mechanical Engineering Association (MEA) Inauguration and lecture on “Trends and Opportunities in Mechanical Engineering” by Dr. V. S. Sreebalaji on July 26, 2016.",
+            "Motivational lecture by Dr. B. Selvaraj, Professor, Government Arts College, Coimbatore on January 06, 2016.",
+            "Guest lecture on Additive Manufacturing and Reverse Engineering by Mr. Sreedhar Kumar, Senior Manager – TIFAC PSG College of Technology, Coimbatore on March 23, 2016.",
+            "Guest lecture on Product Development in Automobile Industry by Mr. Alfred Vinod Antony on March 28, 2016.",
+            "Guest lecture on Employability and Entrepreneurship by Mr. Mani, CEO, Messer Cutting Systems India Private Limited, Coimbatore on December 15, 2016.",
+            "Guest lecture on Safety in Engineering Industries and Opportunities in Industrial Safety by Mr. Krishna Kumar on January 06, 2017.",
+            "Guest lecture on Automotive Architecture by Mr. Saravanan Chellamuthu, Continental Automotive Components India Pvt. Ltd., Bangalore on March 06, 2017.",
+            "Guest lecture on Interview Techniques for Employability for final year students by Mr. S. Sakthivel, Manager – HRD, Indo Shell Cast Pvt. Ltd., Coimbatore on July 27, 2017.",
+            "Guest lecture on Career Guidance by Mr. Rakshit Kannan, HR Manager, VKC Foot Care India Pvt. Ltd., Coimbatore on August 09, 2017.",
+            "Guest lecture on Entrepreneurship and Startups for Engineers by Mr. M. Sathya Narayanan, Managing Director, Coimbatore on August 09, 2017.",
+            "Guest lecture on Abroad Opportunities for Mechanical and Aerospace Engineers by Mr. T. Mahendran, Plant Head, Al-Arab Contracting Company, Saudi Arabia on August 09, 2017.",
+            "Guest lecture on Healthy Living and Habits by Dr. L. Naveen Prabhu on August 10, 2017.",
+            "Guest lecture on People Behavior and Communication by Mr. Asish Mehta, Managing Director, Mehta Industries, Coimbatore on August 10, 2017.",
+            "Guest lecture on Non Destructive Testing by Mr. Velandi, CEO, Blue Ray Technologies, Coimbatore on August 25, 2017."
+          ]
+        },
+        {
+          "title": "Symposium",
+          "content": [
+            "A symposium MECTROTZ’20 was organized on February 17 and February 18, 2020. The student symposium comprised events including technical paper presentation, project presentation, puzzle solving, racing, and cultural activities.",
+            "A symposium MECTROTZ’19 was organized on February 23 and February 24, 2019. The student symposium comprised events including technical paper presentation, project presentation, puzzle solving, racing, and cultural activities.",
+            "A symposium MECTROTZ’18 was organized on March 06 and March 07, 2018. The student symposium comprised events including technical paper presentation, project presentation, puzzle solving, racing, and cultural activities.",
+            "A symposium MECTROTZ’17 was organized on February 15 and February 16, 2017. The student symposium comprised events including technical paper presentation, project presentation, puzzle solving, racing, and cultural activities.",
+            "A symposium MECTROTZ’16 was organized on March 01 and March 02, 2016. The student symposium comprised events including technical paper presentation, project presentation, puzzle solving, racing, and cultural activities."
+          ]
+        },
+        {
+          "title": "Seminars",
+          "content": [
+            "Seminar on “First steps into 3D modeling with SolidWorks: For beginners” was conducted on August 01, 2025.",
+            "Seminar on “Industry 4.0: Revolutionizing Manufacturing through Automation and Additive Technologies” was conducted on August 05, 2025.",
+            "A one-day seminar on “Circular Economy for Productivity and Sustainability” in connection with National Productivity Day was organized on February 09, 2019.",
+            "A one-day seminar on “Advanced Composites for Naval Applications – Challenges and Opportunities” was organized on February 14, 2019.",
+            "A one-day seminar on “Recent trends in analysis of lightweight materials using finite element simulation as an integrated tool in car body development” was organized on September 27, 2019.",
+            "A one-day seminar on “Industrial Measurements and Metrology” was organized on January 03, 2018. An expert from CADD Leader Training Institute, Coimbatore addressed the students.",
+            "A one-day seminar on “Pneumatic Systems and Its Applications” was organized on January 04, 2018. Mr. T. Suresh, FANUC India Private Limited, was the keynote speaker.",
+            "A one-day seminar on “Recent Trends in Recycling of Bio Waste Management” was organized on January 05, 2018.",
+            "A one-day seminar on “Dronity 1.0 – Drone Technologies and Future of Drones” was organized on December 20, 2017. Mr. Rahul, CEO, Indian Institute of Drones (IID), and Mr. Vinoth Kumar, Director – South Zone, IID addressed the students.",
+            "A one-day seminar on “Motivational and Exposure Talk on Current Status of Business and Start-up Organizations” was organized on December 21, 2017. Ms. Sudha Mani, Area Director at Toastmasters International UK & Ireland and CEO & Founder of Avinash Business Consultants Ltd., addressed the students.",
+            "A one-day seminar with hands-on training in “Tool and Die Design” was conducted on September 29, 2016."
+          ]
+        },
+        {
+          "title": "Workshops",
+          "content": [
+            "A two-day workshop on “Industrial Simulation with ANSYS” was conducted for third-year B.E. Mechanical Engineering students from August 06 to August 07, 2025.",
+            "A one-day workshop on “Composite Manufacturing Processes, Analyses, Modeling and Simulation” was organized on January 04, 2019.",
+            "A three-day workshop on “Revised Assessment and Accreditation Framework of NAAC” was organized from January 17 to January 19, 2019.",
+            "A one-day workshop on “Artificial Intelligence Powered Chatbot” was organized on January 28, 2019.",
+            "A two-day workshop on “Startup in Welding Technology” was organized from October 03 to October 04, 2019.",
+            "A one-day workshop on “Programmable Logic Control (PLC) Programming” was organized on January 30, 2018. Technical experts from Axis Global Automation, Chennai, addressed the students.",
+            "A five-day workshop on “Smart Manufacturing” was organized from March 12 to March 16, 2018.",
+            "A two-day workshop on “Advances in Welding Technology” was organized from December 06 to December 07, 2018.",
+            "A two-day workshop on “Material Testing and Characterization” was organized from December 14 to December 15, 2018.",
+            "A one-day workshop in association with the Indian Welding Society was conducted on March 10, 2017. Experts Dr. N. Murugan, Patron IWS Coimbatore Chapter; Dr. V. Balusamy, Vice Chairman IWS Coimbatore; and Mr. I. Gnanavallal, Secretary IWS India, addressed recent trends in welding technologies.",
+            "A one-day workshop in association with the Society of Automotive Engineers was organized on March 11, 2017 on “Emerging Technologies in the Automotive Sector”. Experts Mr. S. Shanmugam, Vice Chairman, SAE India Southern Section, and Mr. K. Arunkumar, Senior Territory Manager, Mahindra & Mahindra, addressed the students.",
+            "A Non-Destructive Testing (NDT) training workshop was conducted on August 29, 2017. Mr. V. Balakrishnan from CUBES NDT Service, Coimbatore, served as the chief speaker.",
+            "A one-day workshop on “Computer Numerical Control (CNC) Programming” was conducted on August 30, 2017.",
+            "A one-day workshop on “Automotive Architecture” was organized on September 16, 2017. Experts from Continental Automotive Components Pvt. Ltd. addressed the students on automotive design and architecture.",
+            "A one-day workshop on “Non-Destructive Testing” was conducted by experts from Metal Lab on January 03, 2016.",
+            "A one-day workshop on “NX CAD/CAM” was conducted on February 24, 2016 for Mechanical Engineering students.",
+            "A one-day workshop on “Geometric Dimensioning and Tolerancing” was conducted on October 03, 2016."
           ]
         }
       ]
