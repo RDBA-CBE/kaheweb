@@ -1,0 +1,682 @@
+{
+  "title": "Department of Pharmacy",
+  "bannerCon": "The University of Wyoming welcomes students to experience a one-of-a-kind education in the heart of the Mountain West. With our dedication to academic excellence and student-focused education, UW provides an environment thrive both academically and personally. Admission to the University of Wyoming is just the first step to achieving your dreams.",
+  "applyLink": "#",
+  "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+  "tabs": [
+    {
+      "id": "overview",
+      "label": "Overview"
+    },
+    {
+      "id": "programme",
+      "label": "Programme"
+    },
+    {
+      "id": "faculty",
+      "label": "Faculty"
+    },
+    {
+      "id": "infrastructure",
+      "label": "Infrastructure"
+    },
+    {
+      "id": "publications",
+      "label": "Publications"
+    },
+    {
+      "id": "events",
+      "label": "Events"
+    }
+  ],
+  "tabContent": [
+    {
+      "tab": "Overview",
+      "items": [
+        {
+          "type": "overview",
+          "subTitle": "Overview",
+          "contents": "The department was established in 2015 with B.Pharm degree course with the approval of the Pharmacy Council of India (PCI), New Delhi, and has since been deeply rooted in classical pharmacy teaching and research. In 2019, the department started the Pharm. D. course and got approval for M.Pharm in Pharmaceutical Analysis. The discipline covers a broad range of teaching and research areas like pharmacokinetics, drug-receptor theory, identification and validation of drug targets, agonist and antagonist drug discovery, molecular and cellular mechanisms of drug actions, disease-specific systems of pharmacy, drug modality development, pharmacogenetics, and personalized medicine, drug discovery development, and clinical trial, to adverse drug reactions and toxicology. Currently, the department has a strong academic and research team committed to excel in pharmacy education and research missions.The department is strengthened with a drug testing laboratory, Karpagam Pharma LLP, and a Research center equipped with sophisticated instruments and facilities. The students are trained as per the industry’s needs with skill development, program, and placement training programs and will become pharmaceutical drug industry and clinical drug trial professionals.The students are trained to compete in various competitive exams like GPAT and are allotted internship training in hospitals and industries. They also enthusiastically participate in different cultural, sports, NSS, and other outreach programs conducted at the university and national competitions.",
+          "image": "/images/others/video-07.jpg"
+        }
+      ]
+    },
+    {
+      "tab": "Programme",
+      "programmes": {
+        "title": "Programmes",
+        "content": [
+          {
+            "key": "ug",
+            "title": "Under Graduate Programme",
+            "img": "/images/others/health-b-02.png",
+            "items": [
+              "B.Pharm. (Strength: 100)"
+            ],
+            "type": "programme"
+          },
+          {
+            "key": "pg",
+            "title": "Post Graduate Programmes",
+            "img": "/images/others/health-b-02.png",
+            "items": [
+              "Pharm.D (Strength: 30)",
+              "M.Pharm. – Pharmaceutical Analysis (Strength: 18)",
+              "M.Pharm – Pharmaceutics",
+              "M.Pharm – Pharmaceutical Chemistry"
+            ],
+            "type": "programme"
+          },
+          {
+            "key": "research",
+            "title": "Research Programme",
+            "img": "/images/others/health-b-02.png",
+            "items": [
+              "Ph.D – Pharmacy"
+            ],
+            "type": "programme"
+          }
+        ]
+      },
+      "curriculum": {
+        "title": "Curriculum",
+        "content": [
+          {
+            "key": "bpharm",
+            "title": "B.Pharm.",
+            "img": "/images/others/health-b-02.png",
+            "type": "curriculum",
+            "items": [
+              {
+                "year": "2017-2018",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/07/Curriculum-Syllabus_pharmacy-2017-2018.pdf"
+              },
+              {
+                "year": "2018-2019",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2021/01/2018-BPHARM-SYLLABUS.pdf"
+              },
+              {
+                "year": "2019-2020",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2021/01/2019-BPHARM-SYLLABUS.pdf"
+              },
+              {
+                "year": "2020-2021",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/07/B.Pharm_.-2020-2021.pdf"
+              },
+              {
+                "year": "2021-2022",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2021/11/B.Pharm-Syllabus-2021-2022.pdf"
+              },
+              {
+                "year": "2022-2023",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2022/09/B.Pharm-Syllabus-Corrected-2022-23.pdf"
+              },
+              {
+                "year": "2023-2024",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2023/09/B.Pharm-Corrected-Syllabus-2023-24.pdf"
+              },
+              {
+                "year": "2024-2025",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/02/B.Pharm_.pdf"
+              },
+              {
+                "year": "2025-2026",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/11/B.PHARM-Syallabus-Regulation-2025-2026.pdf"
+              }
+            ]
+          },
+          {
+            "key": "pharmd",
+            "title": "Pharm.D",
+            "img": "/images/others/health-b-02.png",
+            "type": "curriculum",
+            "items": [
+              {
+                "year": "2019-2020",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2021/01/2019-PHARM-D-SYLABUS.pdf"
+              },
+              {
+                "year": "2020-2021",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/07/Pharm.-D.-2020-2021.pdf"
+              },
+              {
+                "year": "2021-2022",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2021/11/Pharm.-D-Syllabus-2021-2022.pdf"
+              },
+              {
+                "year": "2022-2023",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2022/09/Pharm.-D-Syllabus-Corrected-22-23.pdf"
+              },
+              {
+                "year": "2023-2024",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2023/09/Pharm.-D-Corrected-Syllabus-2023-24.pdf"
+              },
+              {
+                "year": "2024-2025",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/02/Pharm.D.pdf"
+              },
+              {
+                "year": "2025-2026",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/11/PHARM-D-Regulation-SYALLBUS-2025-2026.pdf"
+              }
+            ]
+          },
+          {
+            "key": "mpharm-analysis",
+            "title": "M.Pharm – Pharmaceutical Analysis",
+            "img": "/images/others/health-b-02.png",
+            "type": "curriculum",
+            "items": [
+              {
+                "year": "2019-2020",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2021/01/2019-MPHARM-SYLLABUS.pdf"
+              },
+              {
+                "year": "2020-2021",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/07/M.Pharm_.-2020-2021.pdf"
+              },
+              {
+                "year": "2021-2022",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2021/11/M.Pharm-Syllabus-2021-2022.pdf"
+              },
+              {
+                "year": "2022-2023",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2022/09/M.Pharm-Syllabus-Corrected-2022-23.pdf"
+              },
+              {
+                "year": "2023-2024",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2023/09/M.Pharm-Corrected-Syllabus-2023-24.pdf"
+              },
+              {
+                "year": "2024-2025",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/02/M.Pharm-Pharmaceutical-Analysis.pdf"
+              },
+              {
+                "year": "2025-2026",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/11/M.Pharm-Analysis-Regulation-Syallabus-25-26.pdf"
+              }
+            ]
+          },
+          {
+            "key": "mpharm-chemistry",
+            "title": "M.Pharm – Pharmaceutical Chemistry",
+            "img": "/images/others/health-b-02.png",
+            "type": "curriculum",
+            "items": [
+              {
+                "year": "2024-2025",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/02/M.Pharm-Pharmaceutical-Chemistry.pdf"
+              },
+              {
+                "year": "2025-2026",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/11/M.Pharm-Regulation-Syallabus-Chemistry-25-26.pdf"
+              }
+            ]
+          },
+          {
+            "key": "mpharm-pharmaceutics",
+            "title": "M.Pharm – Pharmaceutics",
+            "img": "/images/others/health-b-02.png",
+            "type": "curriculum",
+            "items": [
+              {
+                "year": "2024-2025",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/02/M.Pharm-Pharmaceutics.pdf"
+              },
+              {
+                "year": "2025-2026",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/11/M.Pharm-Regulation-Syallabus-25-26-Pharmaceutics.pdf"
+              }
+            ]
+          },
+          {
+            "key": "phd-pharmacy",
+            "title": "Ph.D – Pharmacy",
+            "img": "/images/others/health-b-02.png",
+            "type": "curriculum",
+            "items": [
+              {
+                "year": "2020-2021",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/07/Ph.D.Pharmacy.-2020-2021.pdf"
+              },
+              {
+                "year": "2021-2022",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2021/11/Ph.D-Syllabus-2021-2022.pdf"
+              },
+              {
+                "year": "2022-2023",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2022/09/Ph.D-syllabus-Corrected-2022-23.pdf"
+              },
+              {
+                "year": "2023-2024",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2023/09/Ph.D-Corrected-syllabus-2023-24.pdf"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "tab": "Faculty",
+      "faculty": [
+        {
+          "name": "Dr. D. Kumudha",
+          "qualification": "M.Pharm., Ph.D",
+          "designation": "Professor",
+          "email": "drkumudha.d@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/04/DR.D.KUMUDHA.pdf",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr. P. Senthil Kumar",
+          "qualification": "M.Pharm., Ph.D",
+          "designation": "Professor",
+          "email": "drsenthilkumar.p@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/04/dr-senthilkumar.pdf",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr. Jameera Begum",
+          "qualification": "M.Pharm., Ph.D",
+          "designation": "Professor",
+          "email": "pharmasameera@gmail.com",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/04/Dr.Jemeera-Begum.pdf",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr. T. Devadoss",
+          "qualification": "M.Pharm., Ph.D",
+          "designation": "Professor",
+          "email": "devadoss.thangaraj@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/04/Dr-T-Devadoss.pdf",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr. E. Hemnath",
+          "qualification": "M.Pharm., Ph.D",
+          "designation": "Associate Professor",
+          "email": "hemnathelango@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/04/E.HEMNATH.pdf",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Mr. R. Velmurugan",
+          "qualification": "M.Pharm",
+          "designation": "Associate Professor",
+          "email": "velmurugan.r@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/04/Dr.-VELMURUGAN.pdf",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Mr. R. Rajesh",
+          "qualification": "M.Pharm",
+          "designation": "Associate Professor",
+          "email": "rajesh.ramalingam@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/04/2.Mr_.Rajesh.pdf",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Mrs. Subbulaxmi",
+          "qualification": "M.Pharm",
+          "designation": "Associate Professor",
+          "email": "babysubu@gmail.com",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/04/3.Mrs_.subbulakshmi.pdf",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr. Md. Sheik Tharik",
+          "qualification": "M.Pharm., Ph.D",
+          "designation": "Associate Professor",
+          "email": "ms.tharik@gmail.com",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/04/Mr.Md-Sheik-Tharik.pdf",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Mr. Prem S",
+          "qualification": "M.Pharm",
+          "designation": "Assistant Professor",
+          "email": "premselvam0@gmail.com",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/04/Mr.Prem_.pdf",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Ms. Meenal",
+          "qualification": "M.Pharm",
+          "designation": "Assistant Professor",
+          "email": "meenalgandhi1999@gmail.com",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/04/Ms.MEENAL.pdf",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Ms. Meghana",
+          "qualification": "M.Pharm",
+          "designation": "Assistant Professor",
+          "email": "lavanya.arunachalam@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/04/Ms.MEGHANA.pdf",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Mr. G. Ajith Kumar",
+          "qualification": "M.Pharm",
+          "designation": "Assistant Professor",
+          "email": "ajithkumar.g@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/04/Mr.G.AJITH-KUMAR.pdf",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Ms. M. Archana",
+          "qualification": "M.Pharm",
+          "designation": "Assistant Professor",
+          "email": "archana.m@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/09/Archana-biodata.pdf",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Mr. C. Subasambasivam",
+          "qualification": "M.Pharm",
+          "designation": "Assistant Professor",
+          "email": "subasambasivam@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/04/Mr.CSUBASAMBASIVAM.pdf",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Mr. S. Karthikeyan",
+          "qualification": "M.Pharm",
+          "designation": "Assistant Professor",
+          "email": "skarthikeyan51298@gmail.com",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/04/KARTHIKEYAN.S-ONE-PAGE-BIO-DATA.pdf",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Mrs. D. Darthi",
+          "qualification": "M.Pharm",
+          "designation": "Assistant Professor",
+          "email": "darthideva10@gmail.com",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/04/biodata-format-1-Mrs.Darthi.pdf",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Bibinamol M N",
+          "qualification": "M.Pharm",
+          "designation": "Assistant Professor",
+          "email": "mnbibinamol@gmail.com",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/10/Bibinamol-M-N.pdf",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        }
+      ]
+    },
+    
+    {
+      "tab": "Infrastructure",
+      "items": [
+        {
+          "type": "laboratories",
+          "title": "Laboratory",
+          "content": [
+            "Pharmaceutical Laboratory",
+            "Medicinal Chemistry Laboratory",
+            "Formulation Laboratory"
+          ]
+        },
+        {
+          "type": "gallery",
+          "slug": "department-of-pharmacy",
+          "images": [
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/6-Analysis-lab-scaled-1024x769.jpg",
+              "alt": "",
+              "title": ""
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/7-UV-scaled-1024x864.jpg",
+              "alt": "",
+              "title": ""
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/8-HPLC-scaled-1024x769.jpg",
+              "alt": "",
+              "title": ""
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/9-Disso-scaled-1024x707.jpg",
+              "alt": "",
+              "title": ""
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/16-Lab-1024x756.jpeg",
+              "alt": "",
+              "title": ""
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/17-Lab-1024x718.jpeg",
+              "alt": "",
+              "title": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tab": "Publications",
+      "slug": "department-of-pharmacy",
+      "title": "Best Five Papers Faculty wise:",
+      "subtitle": "Paper publications by the Faculty Members",
+      "content": [
+        {
+          "faculty_name": "Dr. E. Ida Christi",
+          "content": [
+            "Dr. E. Ida Christi, Estimation of Heavy Metals in Selected Medicinal Herbs, International Journal of Research in Pharmaceutical Sciences, Volume 11, Issue 3, August 2020 (ISSN: 0975-7538).",
+            "Dr. E. Ida Christi, Phytochemical Evaluation, Isolation and Quantification of Aminoacid from the Leaves of Sauropus androgynus Linn by HPTLC Method, International Journal of Pharma and Bio Sciences, 2019, Vol.10(4), pp.55–63.",
+            "Dr. E. Ida Christi, Phytochemical Detection, Antioxidant and Antimicrobial Activity Study on Berries of Solanum torvum, Asian Journal of Pharmaceutical and Clinical Research, Vol.11, Issue 11, November 2018.",
+            "Dr. E. Ida Christi, Comparative Phytochemical Study on Some Cassia Species, Asian Journal of Science and Technology, Vol.09, Issue 09, pp.8550–8556, September 2018.",
+            "Dr. E. Ida Christi, Comparative Study of Antilithiatic Effect of Three Customary Plants and Their Antioxidant Activity, World Journal of Pharmaceutical Sciences, 2014, Vol.4(5), pp.1290–1299."
+          ]
+        },
+        {
+          "faculty_name": "Dr. D. Kumudha",
+          "content": [
+            "Dr. D. Kumudha, Synthesis and Evaluation of Substituted Aryl Thiazolidin-4-ones for Analgesic and Anti-inflammatory Activities, Der Pharma Lettre, 2012, Vol.4(4), pp.1149–1154.",
+            "Dr. D. Kumudha, 1,2,4-Triazoles as Biologically Important Agents, International Journal of Pharmaceutical Sciences and Research, 2012, Vol.3(12), pp.4562–4572.",
+            "Dr. D. Kumudha, Synthesis and Evaluation of Some 1,2,4-Triazole Derivatives as Anticonvulsant, Anti-inflammatory and Antimicrobial Agents, Asian Journal of Pharmaceutical Research, 2013, Vol.6(2), pp.5–8.",
+            "Dr. D. Kumudha, Structure Activity Relationship Studies of 5-membered Heterocyclic Derivatives, International Journal of Pharmaceutical and Biological Archives, 2015, Vol.7(1), pp.45–51.",
+            "Dr. D. Kumudha, Synthesis, Characterization and Biological Evaluation of Novel Chalcones and Pyrazoline Derivatives, International Journal of Biology, Pharmacy and Applied Sciences, 2019, Vol.8(8), pp.1413–1421.",
+            "Dr. D. Kumudha, Development and Evaluation of Phytosomes of Artemisia Vulgaris L. for Anticancer Activity, International Journal of Biology, Pharmacy and Allied Sciences, 2020, Vol.9(3), pp.397–407."
+          ]
+        },
+        {
+          "faculty_name": "Dr. G. Saravanan",
+          "content": [
+            "Dr. G. Saravanan, Development and Evaluation of Pulsatile Drug Delivery System for Chronotherapeutic Release of Metoprolol Succinate using Press-Coating Method, International Journal of Biology, Pharmacy and Allied Sciences, 2021, Vol.10(2), pp.423–442.",
+            "Dr. G. Saravanan, Formulation and Evaluation of Ofloxacin Gastro Retentive Floating Tablets, Journal of Global Trends in Pharmaceutical Sciences, 2020, Vol.11(1), pp.7238–7244.",
+            "Dr. G. Saravanan, Anthelmintic Activity of Erythroxylum monogynum Leaves in Pheretima posthuma, International Journal of PharmaO2, 2020, Vol.2(1), pp.0090–0095.",
+            "Dr. G. Saravanan, Raft Forming Drug Delivery Systems: A Review, Chronicles of Pharmaceutical Science, 2017, Vol.1(3), pp.156–169.",
+            "Dr. G. Saravanan, Controlled Release Tablets of Aceclofenac using Ethyl Cellulose, International Journal of Chemical Sciences, 2010, Vol.8(1), pp.315–324."
+          ]
+        },
+        {
+          "faculty_name": "Dr. P. Senthilkumar",
+          "content": [
+            "Dr. P. Senthilkumar, An Overview of Spike Surface Glycoprotein in Severe Acute Respiratory Syndrome–Coronavirus, Frontiers in Molecular Biosciences, 2021, DOI:10.3389/fmolb.2021.637550.",
+            "Dr. P. Senthilkumar, Design, Synthesis and Characterization of Hybridized Pyrazolone Pharmacophore Analogs against Mycobacterium tuberculosis, Archiv der Pharmazie, 2016, Vol.349(5), pp.383–397.",
+            "Dr. P. Senthilkumar, Conventional and Microwave Assisted Synthesis of Pyrazolone Mannich Bases, Bioorganic and Medicinal Chemistry Letters, 2014, Vol.24, pp.2940–2944.",
+            "Dr. P. Senthilkumar, Synthesis of Zidovudine Derivatives with Anti-HIV-1 and Antibacterial Activities, Nucleosides, Nucleotides & Nucleic Acids, 2009, Vol.28, pp.89–102.",
+            "Dr. P. Senthilkumar, Antimycobacterial Activities of Novel Fluoroquinolones, Biomedicine and Pharmacotherapy, 2009, Vol.63, pp.27–35."
+          ]
+        },
+        {
+          "faculty_name": "Mr. M. Kannan",
+          "content": [
+            "Mr. M. Kannan, Terminalia belerica Roxb – A Phytopharmacological Review, International Journal of Research in Pharmaceutical and Biomedical Sciences, 2012, Vol.3(1).",
+            "Mr. M. Kannan, Insecticidal Activity of Ethanolic Extract of Leaves of Annona squamosa, Journal of Chemical and Pharmaceutical Research, 2011, Vol.2(5), pp.177–180.",
+            "Mr. M. Kannan, Anthelmintic Activity of Nerium oleander Flower Extract, Journal of Natural Products and Plant Resources, 2011, Vol.1(4), pp.40–46.",
+            "Mr. M. Kannan, Hepatoprotective Activity of Ethanolic Extract of Spermacoce hispida Linn, International Journal of Pharmaceutical Research and Development, 2011, Vol.2(11).",
+            "Mr. M. Kannan, Flacourtia indica – A Phytopharmacological Review, International Journal of Research in Pharmaceutical and Biomedical Sciences, 2012, Vol.3(1)."
+          ]
+        },
+        {
+          "faculty_name": "Ms. G. Praveena",
+          "content": [
+            "Ms. G. Praveena, Holarrhena antidysenterica Wall: A Review, International Journal of Multidisciplinary Research and Development, 2016, Vol.3(4), pp.114–116.",
+            "Ms. G. Praveena, Wound Healing Activity of Herbal Gel of Holarrhena antidysenterica Wall, Journal of Pharmaceutical Sciences & Research, 2016, Vol.8(5), pp.294–298.",
+            "Ms. G. Praveena, Design Development and Evaluation of Metadoxine Nanoparticles, Journal of Pharmacy Research, 2017, Vol.11(12), pp.1470–1475."
+          ]
+        },
+        {
+          "faculty_name": "Ms. K. Gayathri",
+          "content": [
+            "Ms. K. Gayathri, Development and Evaluation of Phytosomes of Artemisia vulgaris L. for Anticancer Activity, International Journal of Biology, Pharmacy and Allied Sciences, 2020, Vol.9(3), pp.397–407.",
+            "Ms. K. Gayathri, Comparative Studies on Synthesized Silver Nanoparticles for Antifungal Activity, Journal of Pharmaceutical Sciences and Research, 2019, Vol.7(11), pp.2558–2565.",
+            "Ms. K. Gayathri, Development and Characterization of Silver Nanoparticles using Artemisia vulgaris L., Research Journal of Pharmacy and Technology, 2019, Vol.12(10), pp.4822–4826.",
+            "Ms. K. Gayathri, Design Development and Evaluation of Metadoxine Nanoparticles, Journal of Pharmacy Research, 2017, Vol.11(12), pp.1470–1475."
+          ]
+        },
+        {
+          "faculty_name": "Ms. C. Aarthi Priya",
+          "content": [
+            "Ms. C. Aarthi Priya, Formulation and Evaluation of Ofloxacin Gastro Retentive Floating Tablets, Journal of Global Trends in Pharmaceutical Sciences, 2020, Vol.11(1), pp.7238–7244."
+          ]
+        },
+        {
+          "faculty_name": "Ms. S. Kiruthika",
+          "content": [
+            "Ms. S. Kiruthika, Formulation and Evaluation of Ofloxacin Gastro Retentive Floating Tablets, Journal of Global Trends in Pharmaceutical Sciences, 2020, Vol.11(1), pp.7238–7244."
+          ]
+        }
+      ]
+    },
+    {
+      "tab": "Events",
+      "slug": "department-of-pharmacy",
+      "items": [
+        {
+          "title": "Guest Lectures",
+          "content": [
+            "Guest Lecture on “Empowering Women for Inclusive and Sustainable Development” for B.Pharm and Pharm.D girl students (192 participants) on 12.12.2025.",
+            "Guest Lecture on World AIDS Day with the theme “Overcoming Disruption, Transforming the AIDS Response” for I Pharm.D (30 students) and I B.Pharm (100 students) on 01.12.2025.",
+            "Guest Lecture on “Introduction to Pharmacogenetics Testing” for III & IV B.Pharm and IV & V Pharm.D students (296 participants) on 24.11.2025.",
+            "Guest Lecture on “Herbal Nano Formulation” on 30.08.2025.",
+            "Guest Lecture on “Microbial Resistance” by Dr. P. Bharathi, Associate Professor, College of Pharmacy, SRIPMS, Coimbatore on 29.10.2019.",
+            "Guest Lecture on “Autonomous Nervous Systems” by Dr. K. Elango, Retired Professor of Pharmacology, JSS College of Pharmacy, Ooty on 16.10.2019.",
+            "Guest Lecture on “NMR Spectroscopy” by Dr. R. Ranjith Kumar, Associate Professor, Department of Organic Chemistry, Madurai on 11.10.2019.",
+            "Guest Lecture on “Applications of Bioinformatics in Pharmaceutical Sciences” by Dr. Jayakandhan, Professor, Department of Bioinformatics, Alagappa University on 26.07.2019.",
+            "Guest Lecture on “Toxicology” by Dr. C. Senthil Kumar, Professor, Department of Pharmacology, PSG College of Pharmacy, Coimbatore on 15.03.2019.",
+            "Guest Lecture on “Prolonged Drug Delivery System” by Dr. Subramanian, Professor, PSG College of Pharmacy, Coimbatore on 15.03.2019.",
+            "Guest Lecture on “Career Guidance” by Dr. Subramanian, Professor, PSG College of Pharmacy, Coimbatore on 15.03.2019.",
+            "Guest Lecture on “Indian Systems of Medicine and Their Applications” by Dr. R. Kumanan, Professor, Department of Pharmacognosy, Cheran College of Pharmacy, Coimbatore on 12.03.2019.",
+            "Guest Lecture on “Mass Spectrometry – A Headway Device for Pharma Research” by Dr. M. Gandhimathi, Associate Professor, College of Pharmacy, SRIPMS, Coimbatore on 10.10.2018.",
+            "Guest Lecture on “Pharmacology on Peptic Ulcer” by Dr. K. Elango, Retired Professor of Pharmacology, JSS College of Pharmacy, Ooty on 10.10.2018.",
+            "Guest Lecture on “Evaluation of Crude Drugs” by Dr. N. Srinivasan, Professor, Department of Pharmacy, Annamalai University, Chidambaram on 09.10.2018.",
+            "Guest Lecture on “Surface and Interfacial Phenomena – An Overview” by Dr. V. Ganesan, Principal, Erode College of Pharmacy, Erode on 17.09.2018.",
+            "Guest Lecture on “General Aspects in Local Anesthetics” by Dr. M. Kannadasan, Scientist, Department of Pharmacology and Toxicology, Bioscience Research Foundation, Thiruvallur on 12.10.2017.",
+            "Guest Lecture on “Rational Design, Synthesis and Biological Evaluation of Thiazolidinones” by Dr. M. Senthilraja, Professor, Department of Pharmaceutical Chemistry, J.K.K. Nattraja College of Pharmacy, Namakkal on 06.10.2017.",
+            "Guest Lecture on “Herbal Formulation Development and Standardisation” by Dr. G. Shymala, Associate Professor, Department of Pharmacognosy, PSG College of Pharmacy, Coimbatore on 04.10.2017.",
+            "Guest Lecture on “Principles and Applications of Physical Pharmacy” by Dr. N. Jawahar, Associate Professor, Department of Pharmaceutics, JSS College of Pharmacy, Ooty on 03.03.2017.",
+            "Guest Lecture on “Current Scenario in Neurodegenerative Diseases” by Dr. S. Gomathi, Professor, J.K.K. Nattraja College of Pharmacy, Namakkal on 22.02.2017.",
+            "Guest Lecture on “Basic and Steric Features in Organic Molecules” by Dr. T. Sivakumar, Principal, Nandha College of Pharmacy, Erode on 31.01.2017.",
+            "Guest Lecture on “Significance and Applications of Name Reactions in Carbon Chemistry” by Dr. K. J. Rajendra Prasad, UGC Emeritus Professor, Department of Chemistry, Bharathiar University, Coimbatore on 24.10.2016.",
+            "Guest Lecture on “Recent Trends in Coarse Dispersion Technology” by Dr. R. Sampath Kumar, Professor and Principal, J.K.K. Nattraja College of Pharmacy, Namakkal on 07.10.2016.",
+            "Guest Lecture on “General Aspects on Carbohydrates” by Dr. M. Kannadasan, Scientist, Department of Pharmacology and Toxicology, Bioscience Research Foundation, Thiruvallur on 27.09.2016."
+          ]
+        },
+        {
+          "title": "Seminars",
+          "content": [
+            "Seminar on “Innovations in Modern Pharmaceutics and Drug Delivery Research” organized by the Faculty of Pharmacy on 30.10.2019.",
+            "Seminar on “Impact of Nanotechnology in Herbal Formulations” organized by the Faculty of Pharmacy on 13.10.2018.",
+            "Seminar on “Role of Phytoceuticals in Healthcare” organized by the Faculty of Pharmacy on 30.10.2017.",
+            "Seminar on “Countless Miracles of Antibiotics Against Dreadful Diseases” organized by the Faculty of Pharmacy on 07.03.2017.",
+            "Seminar on “Emerging Trends in New Generation Drugs” organized by the Faculty of Pharmacy on 18.11.2016."
+          ]
+        },
+        {
+          "title": "Conferences",
+          "content": [
+            "National Conference on “Pharma Horizons: Designing the Industry of Tomorrow” held on 18.09.2025 and 19.09.2025.",
+            "Two-day National Conference on “Herbal Medicine Research & Global Health – An Ethical Analysis” organized by the Faculty of Pharmacy on 12.03.2020 and 13.03.2020.",
+            "National Level Conference on “Current and Future Prospects in Pharmaceutical Research” organized by the Faculty of Pharmacy on 27.02.2019."
+          ]
+        },
+        {
+          "title": "Webinars",
+          "content": [
+            "National Webinar on “Innovations, Inventions, and Startups in the Profession of Pharmacy” by Dr. S. K. Abdul Rahaman, Principal and Professor, Nirmala College of Pharmacy, Mangalagiri, Andhra Pradesh, organized by the Faculty of Pharmacy on 20.06.2020.",
+            "National Webinar on “Computational Drug Design Case Studies: Classical Virtual Screening Method and Binding Free Energy Calculations of Chemical Space via Machine Learning Tools” by Dr. Pritesh Bhat, Senior Scientist, Schrödinger, Bangalore, organized by the Faculty of Pharmacy on 12.06.2020.",
+            "National Webinar on “Steps Involved to Write a Scientific Manuscript” by Dr. N. Venkatesan, Professor, Aditya Bangalore Institute of Pharmacy Education and Research, Bangalore, organized by the Faculty of Pharmacy on 10.06.2020.",
+            "International Webinar on “In-silico Approaches in Drug Discovery” by Dr. Vigneshwaran Namasivayam, Senior Research Scientist, Rheinische Friedrich-Wilhelms-Universität Bonn, Germany, organized by the Faculty of Pharmacy on 06.06.2020.",
+            "National Webinar on “Flow Chemistry” by Dr. M. K. Kathiravan, Professor and Head, Department of Pharmaceutical Chemistry, SRM College of Pharmacy, Chennai, organized by the Faculty of Pharmacy on 22.05.2020."
+          ]
+        },
+        {
+          "title": "Other",
+          "content": [
+            "National Level Hackathon and Pharma Anveshan – 2026 (Pharma Expo) conducted on 06.03.2026 at the Faculty of Pharmacy, Karpagam Academy of Higher Education.",
+            "One Day Workshop on “Pharmacy Analytics with Excel for Data Management, Computation and Visualization”, a skill development programme for III, IV and V Pharm.D students, conducted on 13.12.2025 at the Faculty of Pharmacy.",
+            "Invited Talk on “Unleashing Your Inner Alchemy for Pharmacy Success” conducted on 10.12.2025 at the Faculty of Pharmacy.",
+            "Awareness Programme on World Diabetes Day 2025 with the theme “Diabetes and Well-being” conducted at Seerapalayam village on 14.11.2025.",
+            "Inauguration and Orientation Programme for I B.Pharm, I Pharm.D and I M.Pharm students (2025 Batch) conducted on 03.11.2025 at the Faculty of Pharmacy, Karpagam Academy of Higher Education.",
+            "One Day Workshop on “Youth Empowerment, Well-being, and Responsible Relationships” conducted on 11.10.2025.",
+            "Awareness Rally on the occasion of World Pharmacist Day with the theme “Think Health, Think Pharmacist” conducted on 25.09.2025.",
+            "National Pharmacovigilance Week celebration with the theme “Your Safety, Just a Click Away: Report to PvPI” conducted from 17.09.2025 to 23.09.2025.",
+            "Workshop on World First Aid Day 2025 with the theme “First Aid and Climate Change” conducted on 13.09.2025.",
+            "Invited Talk on “Burn Care & Beyond: The Vital Role of Skin Donation” conducted on 28.08.2025 for III and V Pharm.D students at the Faculty of Pharmacy, Karpagam Academy of Higher Education.",
+            "Invited Talk on “Hepatitis: Let’s Break It Down” conducted on 30.07.2025 for II and III Pharm.D students."
+          ]
+        }
+      ]
+    }
+  ]
+}
