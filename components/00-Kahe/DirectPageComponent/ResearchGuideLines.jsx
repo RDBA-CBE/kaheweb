@@ -42,10 +42,10 @@ const ResearchGuideLines = (props) => {
             />
           </section> */}
 
-          <section className="section-wid section-bg1 ">
+          <section className="section-wid  ">
             <SliderContent data={research?.fundedResearch} />
           </section>
-          <section className="section-wid ">
+          <section className="section-wid section-bg1 ">
             <IconCard data={research?.form} />
           </section>
 
