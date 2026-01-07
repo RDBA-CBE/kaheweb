@@ -6,7 +6,7 @@ import BreadCrumb from '@/components/00-Kahe/common-components/BreadCrumb';
 // import CourseData from "../../../../../data/course-details/courseData.json";
 import TabInnerSection from '@/components/00-Kahe/Components/TabInnerSection';
 import { subMenu } from '@/JSON/ACADEMIC/Overview';
-import data from "@/JSON/ACADEMIC/Performing-Arts/dept_of_performing_arts.json";
+import data from "@/JSON/ACADEMIC/Architecture/dept_of_architecture.json";
 import InnerBanner from '@/components/00-Kahe/common-components/InnerBanner';
 import Sidebar from '../../common-components/Sidebar';
 import { base } from '@/utils/constant.util';
@@ -17,15 +17,15 @@ import Store from '@/redux/store';
 
 console.log('data', data);
 
-const DepartmentOfPerformingArts = () => {
+const DepartmentOfArchitecture = () => {
   const breadcrumbItems = [
     { label: 'Academics', href: `academics` },
     {
-      label: 'Performing-Arts',
-      href: `academics/performing-arts/`,
+      label: 'Architecture',
+      href: `academics/architecture/`,
     },
 
-    { label: 'Department of Performing Arts' },
+    { label: 'Department of Architecture' },
   ];
 
   return (
@@ -65,4 +65,4 @@ const DepartmentOfPerformingArts = () => {
   );
 };
 
-export default DepartmentOfPerformingArts;
+export default DepartmentOfArchitecture;
