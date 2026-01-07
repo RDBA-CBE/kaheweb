@@ -1,18 +1,17 @@
 "use client";
 
 import { CampusLife } from "@/JSON/ACADEMIC/Overview";
-import data from "../../../JSON/campus/sports.json";
+import data from "../../../JSON/campus/healthFacilites.json";
 import InnerBanner from "@/components/00-Kahe/common-components/InnerBanner";
 import Sidebar from "../common-components/Sidebar";
-import ContentCard from "../Components/ContentCard";
-import Slider2 from "../common-components/Slider2";
+import ImageGrid from "../common-components/ImageGrid";
 
 export const metadata = {
   title: "About Us 01 - Online Courses & Education NEXTJS14 Template",
   description: "Online Courses & Education NEXTJS14 Template",
 };
 
-const SportsCom = () => {
+const HealthFacilities = () => {
   const Campus = data;
 
   return (
@@ -23,19 +22,14 @@ const SportsCom = () => {
         <div className="rbt-course-details-area w-100">
           <div className="row g-5">
             <div className="col-lg-9">
-              <section className="section-bg1">
-                <ContentCard data={Campus?.sports} />
+              <section>
+                <ImageGrid data={Campus?.health} />
               </section>
 
-              <section className="section-bg1">
-                <h2 className="decor-ti">{Campus?.yoga?.title}</h2>
-                <Slider2 data={Campus?.yoga?.content} />
-              </section>
+              
 
-              <section className="section-bg1">
-                <h2 className="decor-ti">{Campus?.sportsday?.title}</h2>
-                <Slider2 data={Campus?.sportsday?.content} />
-              </section>
+                
+            
             </div>
 
             <div className="col-lg-3 px-0 d-none d-lg-block sidebar-pg">
@@ -54,4 +48,4 @@ const SportsCom = () => {
   );
 };
 
-export default SportsCom;
+export default HealthFacilities;

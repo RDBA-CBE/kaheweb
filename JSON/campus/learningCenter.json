@@ -1,0 +1,20 @@
+{
+  "bannerCon": {
+    "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+    "title": "Learning Center",
+    "bannerCon": "To be a leading institution in the field of education, providing quality education and training to students and professionals.",
+    "applyLink": "/"
+  },
+
+  "overview": {
+    "content": [
+      {
+        "title1": "Panniru Thirumurai Research Centre",
+        "content": "The Panniru Thirumurai Research Centre has been established to study and research ancient Tamil Literature, Mythology and Culture. It conducts several symposiums, workshops and music festivals.",
+        "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/indumathi.jpeg",
+        "urlText" :"பன்னிரு திருமுறை ஆய்வு மையம்",
+        "url":"http://panniruthirumurai.org/"
+      }
+    ]
+  }
+}

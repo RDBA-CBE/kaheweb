@@ -1,0 +1,57 @@
+{
+  "bannerCon": {
+    "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+    "title": "Hostel",
+    "bannerCon": "To be a leading institution in the field of education, providing quality education and training to students and professionals.",
+    "applyLink": "/"
+  },
+
+  "boysHostel": {
+    "title": "Boys Hostel",
+
+    "images": [
+      {
+        "id": 1,
+        "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/5.jpg",
+        "alt": "5"
+      },
+      {
+        "id": 2,
+        "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/4.jpg",
+        "alt": "4"
+      },
+      {
+        "id": 3,
+        "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/7.jpg",
+        "alt": "7"
+      },
+      {
+        "id": 4,
+        "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/6.jpg",
+        "alt": "6"
+      }
+    ]
+  },
+
+  "girlsHostel": {
+    "title": "Girls Hostel",
+
+    "images": [
+      {
+        "id": 1,
+        "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/8.jpg",
+        "alt": "1"
+      },
+      {
+        "id": 2,
+        "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/3.jpg",
+        "alt": "2"
+      },
+      {
+        "id": 3,
+        "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/1.jpg",
+        "alt": "3"
+      }
+    ]
+  }
+}

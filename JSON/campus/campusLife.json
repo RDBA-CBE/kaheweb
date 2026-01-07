@@ -1,0 +1,19 @@
+{
+  "bannerCon": {
+    "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+    "title": "Campus Life",
+    "bannerCon": "To be a leading institution in the field of education, providing quality education and training to students and professionals.",
+    "applyLink": "/"
+  },
+
+  "overview": {
+    "content": [
+      {
+        "title1": "Campus Life",
+        "content": "Karpagam Academy of Higher Education campus exemplifies excellence in every nook and corner. From modern classrooms to hygienic canteens, the highest emphasis is laid on ensuring that student life is enriching in every sense.",
+        "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/indumathi.jpeg"
+        
+      }
+    ]
+  }
+}
