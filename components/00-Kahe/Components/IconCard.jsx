@@ -5,7 +5,9 @@ import React from "react";
 const IconCard = ({ data }) => {
   return (
     <section className="fg-wrapper">
+      {data.title &&
       <h2 className="decor-ti">{FirstLetterUp(data.title)}</h2>
+    }
       {data?.caption && <p className="main-sub-ti">{data?.caption}</p>}
       <div className="fg-grid">
         {data?.content?.map((item, index) => (
