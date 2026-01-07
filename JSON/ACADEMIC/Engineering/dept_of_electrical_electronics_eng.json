@@ -1,5 +1,5 @@
 {
-  "title": "Department of Civil Engineering",
+  "title": "Department of Electrical and Electronics Engineering",
   "bannerCon": "The University of Wyoming welcomes students to experience a one-of-a-kind education in the heart of the Mountain West.",
   "applyLink": "#",
   "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
@@ -472,7 +472,7 @@
         },
         {
           "type": "gallery",
-          "slug": "department-of-chemical-engineering",
+          "slug": "department-of-electrical-electronics-engineering",
           "images": [
             {
               "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/ci1-348x460.png",
@@ -653,7 +653,7 @@
     },
     {
       "tab": "Events",
-      "slug": "department-of-chemical-engineering",
+      "slug": "department-of-electrical-electronics-engineering",
       "items": [
         {
           "title": "Conference",

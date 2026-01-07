@@ -1,8 +1,16 @@
-export default function ElectronicsCommunicationEngineeringPage() {
+import DepartmentOfElectronicsCommunicationEng from "@/components/00-Kahe/AcademicsComponents/Engineering/DepartmentOfElectronicsCommunicationEng";
+
+export const metadata = {
+  title: "Best MSc Biochemistry Colleges in Coimbatore",
+  description: "kahedu.edu.in",
+};
+
+const page = () => {
   return (
-    <div>
-      <h1>Department of Electronics and Communication Engineering</h1>
-      <p>Welcome to the Department of Electronics and Communication Engineering.</p>
-    </div>
+    <>
+     <DepartmentOfElectronicsCommunicationEng/>
+    </>
   );
-}
+};
+
+export default page;
