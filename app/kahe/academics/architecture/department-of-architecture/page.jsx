@@ -1,4 +1,4 @@
-import DepartmentOfArchitecture from "@/components/00-Kahe/AcademicsComponents/architecture/DepartmentOfArchitecture";
+import DepartmentOfArchitecture from "@/components/00-Kahe/AcademicsComponents/Architecture/DepartmentOfArchitecture";
 
 export const metadata = {
   title: "Best MSc Biochemistry Colleges in Coimbatore",
