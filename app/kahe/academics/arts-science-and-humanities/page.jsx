@@ -1,5 +1,3 @@
-import BreadCrumb from "@/components/00-Kahe/common-components/BreadCrumb";
-
 
 export const metadata = {
   title: "About Us 01 - Online Courses & Education NEXTJS14 Template",
@@ -8,8 +6,7 @@ export const metadata = {
 const page = () => {
   return (
     <>
-      <BreadCrumb  />
-      <h5>arts-science-and-humanities</h5>
+     Arts
     </>
   );
 };
