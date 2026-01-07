@@ -16,8 +16,8 @@ const BonVoyageCom = () => {
   const InterAdmin = data;
 
   const breadcrumbItems = [
-    { label: "Research", href: `research` },
-    { label: "Research Publications", href: `publications` },
+    { label: "Office of International Affairs", href: `/kahe/office-of-international-affairs/` },
+    { label: "Bon Voyage Scholarship", href: `publications` },
   ];
 
   return (
@@ -26,7 +26,7 @@ const BonVoyageCom = () => {
         <Context>
           <InnerBanner data={InterAdmin?.bannerCon} />
           <section className="bg-white breadcrumb sticky-top">
-            <StickyBreadcrumb items={breadcrumbItems} />
+            <StickyBreadcrumb items={breadcrumbItems}  quickLink={false}/>
           </section>
 
           <section className=" section-bg1">
