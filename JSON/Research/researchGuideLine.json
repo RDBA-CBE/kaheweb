@@ -1,0 +1,68 @@
+{
+  "bannerCon": {
+    "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+    "title": "Research Policy and Guidelines",
+    "bannerCon": "To be a leading institution in the field of education, providing quality education and training to students and professionals."
+  },
+  "fundedResearch": {
+    "title": "Research Policy ",
+    "content": [
+      {
+        "subtitle": "Research Policy 2023",
+        "id": 1,
+        "list": [
+          {
+            "src": "/images/Kahe/Innerpages/file.png",
+            "item": "Open Pdf",
+            "url": "https://kahedu.edu.in/n/wp-content/uploads/2023/01/PhD_Policy-document.pdf",
+            "target": "_blank"
+          }
+        ]
+      }
+    ],
+    "src": [
+      {
+        "id": 1,
+        "src": "/images/Kahe/Innerpages/RTI.jpg"
+      }
+    ]
+  },
+  "form": {
+    "title": "Regulations",
+   
+    "content": [
+      {
+        "title": "Research policy and Regulations” for scholars admitted from July, 2016",
+        "btnText": "View",
+        "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/11/PhD-Regulations.pdf",
+        "src": "/images/Kahe/Innerpages/group.png",
+        "target": "_blank"
+
+      },
+      {
+        "title": "Research policy and Regulations” for scholars admitted from July, 2022",
+        "btnText": "View",
+        "url": "https://kahedu.edu.in/n/wp-content/uploads/2022/09/PhD-regulations_19.09.2022_v2.pdf",
+        "src": "/images/Kahe/Innerpages/group.png",
+        "target": "_blank"
+
+      },
+      {
+        "title": "Regulations for scholars admitted from January, 2023",
+        "btnText": "View",
+        "url": "https://kahedu.edu.in/n/wp-content/uploads/2023/01/PhD-regulations_-02.01.2023_v1.pdf",
+        "src": "/images/Kahe/Innerpages/group.png",
+        "target": "_blank"
+
+      },
+      {
+        "title": "Ph.D Amendment Regulations as on 20.06.2023",
+        "btnText": "View",
+        "url": "https://kahedu.edu.in/n/wp-content/uploads/2023/07/PhD-amendment-regulations-20.06.2023.pdf",
+        "src": "/images/Kahe/Innerpages/group.png",
+        "target": "_blank"
+
+      }
+    ]
+  }
+}
