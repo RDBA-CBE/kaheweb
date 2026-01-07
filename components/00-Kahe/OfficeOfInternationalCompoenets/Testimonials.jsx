@@ -1,7 +1,7 @@
 "use client";
 
 import InnerBanner from "../common-components/InnerBanner";
-import data from "../../../JSON/InternationalAdmissions/ForeignLanguages.json";
+import data from "../../../JSON/InternationalAdmissions/Testimonials.json";
 import StickyBreadcrumb from "../common-components/StickyNavBan";
 import { Provider } from "react-redux";
 import Context from "@/context/Context";
@@ -12,13 +12,14 @@ import ImageLink from "../Components/ImageLink";
 import PaginationTable from "../Components/PaginationTable";
 import SliderContent from "../Components/SliderContent";
 import About from "../Components/About/About";
+import YoutubeVideoSection from "../Components/YoutubeVideoSection";
 
-const ForeignLanguages = () => {
+const Testimonials = () => {
   const InterAdmin = data;
 
   const breadcrumbItems = [
-    { label: "Research", href: `research` },
-    { label: "Research Publications", href: `publications` },
+    { label: "Office of International Affairs", href: `/kahe/office-of-international-affairs/` },
+    { label: "Testimonials", href: `` },
   ];
 
   return (
@@ -30,16 +31,11 @@ const ForeignLanguages = () => {
             <StickyBreadcrumb items={breadcrumbItems}  />
           </section>
         
-
-          <section className=" ">
-            <div className="section-wid">
-              <ImageLink data={InterAdmin?.Overview}  />
-            </div>
-          </section>
-          <section className=" section-bg1">
-            <About data={InterAdmin?.about} />
-          </section>
-          <section className="section-wid">
+          <section className="section-wid section-bg1">
+                 <YoutubeVideoSection data={InterAdmin?.testimonials}/>
+              </section>
+        
+          {/* <section className="section-wid">
             <PaginationTable data={InterAdmin?.StudentsList} />
           </section>
 
@@ -49,7 +45,7 @@ const ForeignLanguages = () => {
 
           <section className="section-wid section-bg1">
             <SliderContent data={InterAdmin?.annualResearch} />
-          </section>
+          </section> */}
 
           <Sidebar2 subMenu={OfficeOfInternationalAffairsJson} />
         </Context>
@@ -58,4 +54,4 @@ const ForeignLanguages = () => {
   );
 };
 
-export default ForeignLanguages;
+export default Testimonials;

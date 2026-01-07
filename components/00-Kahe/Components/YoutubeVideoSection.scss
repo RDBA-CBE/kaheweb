@@ -1,0 +1,114 @@
+// YouTube Video Section Styles
+.kahe-youtube-video-section {
+  
+  .kahe-yt-video-thumb {
+    position: relative;
+    cursor: pointer;
+    
+    img {
+      width: 100%;
+      height: 200px;
+      object-fit: cover;
+      border-radius: 8px;
+    }
+  }
+
+  .kahe-yt-play-overlay {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: rgba(255, 255, 255, 0.9);
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: black;
+    font-size: 24px;
+    cursor: pointer;
+    
+    i {
+      margin-left: 3px; // Slight adjustment for play icon centering
+    }
+  }
+
+  .kahe-yt-share-dropdown {
+    position: absolute;
+    top: 50px;
+    right: 10px;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+    padding: 10px;
+    z-index: 1000;
+  }
+
+  .kahe-yt-share-option {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    background: none;
+    border: none;
+    padding: 8px 12px;
+    cursor: pointer;
+    border-radius: 4px;
+    width: 100%;
+  }
+}
+
+// Modal Styles
+.kahe-yt-video-modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(255, 255, 255, 0.49);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 9999;
+  animation: kahe-fadeIn 0.3s ease-in-out;
+}
+
+.kahe-yt-video-modal-content {
+  position: relative;
+  width: 90%;
+  max-width: 800px;
+  aspect-ratio: 16/9;
+  animation: kahe-scaleIn 0.3s ease-in-out;
+  
+  iframe {
+    border-radius: 8px;
+  }
+}
+
+.kahe-yt-modal-close {
+  position: absolute;
+  top: -40px;
+  right: 0;
+  background: transparent;
+  border: none;
+  color: black;
+  font-size: 24px;
+  cursor: pointer;
+}
+
+// Animations
+@keyframes kahe-fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes kahe-scaleIn {
+  from { 
+    opacity: 0;
+    transform: scale(0.8);
+  }
+  to { 
+    opacity: 1;
+    transform: scale(1);
+  }
+}

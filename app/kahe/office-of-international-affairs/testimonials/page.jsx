@@ -1,7 +1,17 @@
-import React from 'react'
+import ForeignLanguages from "@/components/00-Kahe/OfficeOfInternationalCompoenets/ForeignLanguages";
+import StudentsExProCom from "@/components/00-Kahe/OfficeOfInternationalCompoenets/StudentsExProCom";
+import Testimonials from "@/components/00-Kahe/OfficeOfInternationalCompoenets/Testimonials";
 
-export default function page() {
+export const metadata = {
+  title: "About Us 01 - Online Courses & Education NEXTJS14 Template",
+  description: "Online Courses & Education NEXTJS14 Template",
+};
+const page = () => {
   return (
-    <div>page</div>
-  )
-}
+    <>
+      <Testimonials/>
+    </>
+  );
+};
+
+export default page;
