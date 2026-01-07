@@ -110,13 +110,15 @@
                                 @extend %transition;
 
                                 &:hover {
-                                    color: var(--color-primary) !important;
+                                   /* color: var(--color-primary) !important;*/
+                                   color: #66170E;
                                     background: var(--black-opacity);
                                 }
 
                                 &.active {
-                                    color: var(--color-primary) !important;
+                                    /*color: var(--color-primary) !important;*/
                                     background: var(--black-opacity);
+                                     color: #66170E;
                                 }
                             }
 
@@ -211,7 +213,8 @@
 
                                         &:hover,
                                         &.active {
-                                            color: var(--color-primary) !important;
+                                            /*color: var(--color-primary) !important;*/
+                                            color: #0E6739;
                                             background: var(--black-opacity);
                                         }
                                     }
