@@ -1,0 +1,29 @@
+{
+  "bannerCon": {
+    "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+    "title": "Contact Information",
+    "bannerCon": "To be a leading institution in the field of education, providing quality education and training to students and professionals."
+  },
+ 
+
+  "contact": {
+    "title": "Contact Information",
+    "content": "Office of International Affairs <br/> KARPAGAM ACADEMY OF HIGHER EDUCATION <br/> (Deemed to be University) <br/> (Established Under Section 3 of UGC Act, 1956) <br /> Pollachi Main Road, Eachanari Post, <br /> Coimbatore – 641 021, Tamil Nadu, India.",
+    "src": "/images/Kahe/Innerpages/vission.jpg",
+    "links": [
+      {
+        "title": "Phone : ",
+        "content": "+91-422 – 2980011 – 14",
+        "url": "tellto:+91-422 – 2980011 – 14"
+      },
+      {
+        "title": "Email : ",
+        "content": "office.ir1@kahedu.edu.in",
+        "url": "mailto:office.ir1@kahedu.edu.in"
+      }
+    ]
+
+  }
+
+ 
+}

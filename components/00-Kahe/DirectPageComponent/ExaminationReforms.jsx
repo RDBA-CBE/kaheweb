@@ -18,11 +18,11 @@ const ExaminationReforms = () => {
     { label: "Home", href: `/` },
     {
       label: "Examinations",
-      href: `/kahe/examinations/`,
+      href: `/examinations/`,
     },
     {
       label: "Examination Reforms",
-      href: `/kahe/examinations/examination-reforms/`,
+      href: `/examinations/examination-reforms/`,
     },
   ];
 

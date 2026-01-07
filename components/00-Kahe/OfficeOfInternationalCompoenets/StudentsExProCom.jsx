@@ -7,7 +7,7 @@ import { Provider } from "react-redux";
 import Context from "@/context/Context";
 import Store from "@/redux/store";
 import Sidebar2 from "../common-components/Sidebar2";
-import { Research } from "@/JSON/ACADEMIC/Overview";
+import { OfficeOfInternationalAffairsJson, Research } from "@/JSON/ACADEMIC/Overview";
 import ImageLink from "../Components/ImageLink";
 import PaginationTable from "../Components/PaginationTable";
 import SliderContent from "../Components/SliderContent";
@@ -42,7 +42,7 @@ const StudentsExProCom = () => {
             <SliderContent data={InterAdmin?.annualResearch} />
           </section>
 
-          <Sidebar2 subMenu={Research} />
+          <Sidebar2 subMenu={OfficeOfInternationalAffairsJson} />
         </Context>
       </Provider>
     </>

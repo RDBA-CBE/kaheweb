@@ -24,7 +24,7 @@ const OfficeOfInternationalAffairsOverview = () => {
         <Context>
           <InnerBanner data={research?.bannerCon} />
           <section className="bg-white breadcrumb sticky-top">
-            <StickyBreadcrumb items={breadcrumbItems} quickLink={false}/>
+            <StickyBreadcrumb items={breadcrumbItems} />
           </section>
 
           <AboutOverview data={research?.overview} />
