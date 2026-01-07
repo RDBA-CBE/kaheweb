@@ -18,7 +18,7 @@ const Testimonials = () => {
   const InterAdmin = data;
 
   const breadcrumbItems = [
-    { label: "Office of International Affairs", href: `/kahe/office-of-international-affairs/` },
+    { label: "Office of International Affairs", href: `/office-of-international-affairs/` },
     { label: "Testimonials", href: `` },
   ];
 

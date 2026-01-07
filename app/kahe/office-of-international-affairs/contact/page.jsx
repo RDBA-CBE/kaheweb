@@ -1,7 +1,10 @@
-import React from 'react'
+import Contact from "@/components/00-Kahe/DirectPageComponent/Contact";
+import React from "react";
 
 export default function page() {
   return (
-    <div>page</div>
-  )
+    <div>
+      <Contact />
+    </div>
+  );
 }
