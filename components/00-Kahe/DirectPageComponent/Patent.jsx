@@ -12,7 +12,11 @@ import ContentCard from "../Components/ContentCard";
 import SliderContent from "../Components/SliderContent";
 
 const Patent = (props) => {
-  const { consultancy = false, phd_research = false } = props;
+  const {
+    consultancy = false,
+    phd_research = false,
+    phd_guide = false,
+  } = props;
   const research = data;
   console.log("research", research);
 
@@ -40,6 +44,14 @@ const Patent = (props) => {
     },
   ];
 
+  const breadcrumbItemsPhdGuide = [
+    { label: "Research", href: `research` },
+    {
+      label: "List of PhD Research Supervisors",
+      href: ``,
+    },
+  ];
+
   return (
     <>
       <Provider store={Store}>
@@ -50,6 +62,8 @@ const Patent = (props) => {
                 ? research?.consultancy?.bannerCon
                 : phd_research
                 ? research?.phd_scholars?.bannerCon
+                : phd_guide
+                ? research?.phd_guide?.bannerCon
                 : research?.bannerCon
             }
           />
@@ -60,6 +74,8 @@ const Patent = (props) => {
                   ? breadcrumbItems
                   : phd_research
                   ? breadcrumbItemsPhdResearch
+                  : phd_guide
+                  ? breadcrumbItemsPhdGuide
                   : breadcrumbItemsPatent
               }
             />
@@ -82,6 +98,8 @@ const Patent = (props) => {
                   ? research?.consultancy?.fundedResearch
                   : phd_research
                   ? research?.phd_scholars?.fundedResearch
+                  : phd_guide
+                  ? research?.phd_guide?.fundedResearch
                   : research?.fundedResearch
               }
             />
