@@ -17,7 +17,7 @@ const IconCard = ({ data }) => {
             {item.content && <p className="fg-desc">{item.content}</p>}
             {item?.url && (
               <div className="read-more-btn mt-auto">
-                <Link href={item?.url}>
+                <Link href={item?.url} target={item?.target && item?.target}>
                   <span className="rbt-btn-link">
                     {item?.btnText} <i className="feather-arrow-up-right"></i>
                   </span>
