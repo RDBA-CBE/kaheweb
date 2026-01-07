@@ -1,0 +1,28 @@
+{
+  "bannerCon": {
+    "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+    "title": "Patents",
+    "bannerCon": "To be a leading institution in the field of education, providing quality education and training to students and professionals.",
+    "applyLink": "/"
+  },
+  "fundedResearch": {
+    "title": "Patents",
+
+    "content": [
+      {
+        "subtitle": "Patents",
+        "id": 1,
+        "list": [
+          {
+            "src": "/images/Kahe/Innerpages/file.png",
+            "title": "Patents",
+            "item": "Open Pdf",
+            "url": "https://kahedu.edu.in/n/wp-content/uploads/2023/07/KAHE-IPR-1.pdf",
+            "target":"_blank"
+          }
+        ]
+      }
+     
+    ]
+  }
+}
