@@ -1,0 +1,41 @@
+{
+  "bannerCon": {
+    "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+    "title": "Research Opportunities",
+    "bannerCon": "To be a leading institution in the field of education, providing quality education and training to students and professionals."
+  },
+  "activities": {
+    "title": "Research Opportunities",
+    "items1": [
+      {
+        "clsName": "col-lg-4 col-md-6 col-sm-6 col-12",
+        "src": "/images/category/image/web-design.jpg",
+
+        "url": "https://kahedu.edu.in/n/wp-content/uploads/2024/04/opening-for-project-fellowshipresearch-faculty-scaled.jpg",
+        "content": "Opening for Project Fellowship/Research Faculty"
+      },
+      {
+        "clsName": "col-lg-4 col-md-6 col-sm-6 col-12",
+        "src": "/images/category/image/web-design.jpg",
+
+        "url": "https://kahedu.edu.in/n/wp-content/uploads/2024/04/project-assistant-position.jpeg",
+        "content": "Project Assistant Position"
+      },
+      {
+        "clsName": "col-lg-4 col-md-6 col-sm-6 col-12",
+        "src": "/images/category/image/web-design.jpg",
+
+        "url": "https://kahedu.edu.in/n/wp-content/uploads/2024/04/junior-research-fellow.jpeg",
+        "content": "Junior Research Fellow"
+      },
+      {
+        "clsName": "col-lg-6 col-md-6 col-sm-6 col-12",
+        "src": "/images/category/image/web-design.jpg",
+
+        "url": "https://kahedu.edu.in/n/wp-content/uploads/2024/04/DST-TDT-Ad.pdf",
+        "content": "Project Associate and Scientific Administrative Assistance/ Field Worker Positions Available in DST- Sponsored Project"
+      }
+    ]
+  }
+}
+

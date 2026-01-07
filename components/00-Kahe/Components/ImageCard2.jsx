@@ -1,8 +1,16 @@
 import Link from "next/link";
 import Image from "next/image";
+import { useRouter } from "next/navigation";
 
 const ImageCard2 = ({ data }) => {
   console.log("data", data);
+  const router = useRouter();
+
+  const handleClick = (url) => {
+    if (url) {
+      window.open(url, '_blank');
+    }
+  };
 
   return (
     <>
@@ -11,8 +19,14 @@ const ImageCard2 = ({ data }) => {
           data.map((item, innerIndex) => {
             return (
               <div
-                className={`${item?.clsName ? item?.clsName :"col-lg-3 col-md-6 col-sm-6 col-12"}`}
+                onClick={() => handleClick(item?.url)}
+                className={`${
+                  item?.clsName
+                    ? item?.clsName
+                    : "col-lg-3 col-md-6 col-sm-6 col-12"
+                }${item?.url ? 'cursor-pointer' : ''}`}
                 key={innerIndex}
+                style={{ cursor: item?.url ? 'pointer' : 'default' }}
               >
                 <div className="rbt-cat-box rbt-cat-box-1 list-style">
                   <div className="inner">
