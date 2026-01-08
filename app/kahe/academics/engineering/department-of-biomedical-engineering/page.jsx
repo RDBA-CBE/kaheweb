@@ -1,8 +1,8 @@
 import DepartmentOfBiomedicalEng from "@/components/00-Kahe/AcademicsComponents/Engineering/DepartmentOfBiomedicalEng";
 
 export const metadata = {
-  title: "Best MSc Biochemistry Colleges in Coimbatore",
-  description: "kahedu.edu.in",
+  title: "Best Biomedical Engineering College in Coimbatore, Tamilnadu",
+  description: "KAHE is the best biomedical engineering college in Coimbatore, Tamilnadu offering a comprehensive curriculum for our students to receive the best education.",
 };
 
 const page = () => {

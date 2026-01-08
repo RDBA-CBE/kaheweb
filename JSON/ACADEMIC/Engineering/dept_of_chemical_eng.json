@@ -2,7 +2,7 @@
   "title": "Department of Chemical Engineering",
   "bannerCon": "The University of Wyoming welcomes students to experience a one-of-a-kind education in the heart of the Mountain West.",
   "applyLink": "#",
-  "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+  "bannerImg": "/images/Kahe/academics/engineering/Chemical-Eng/chemicalengineering-banner.png",
   "tabs": [
     {
       "id": "overview",
@@ -37,7 +37,7 @@
           "type": "overview",
           "subTitle": "Overview",
           "contents": "The Department of Chemical Engineering was established in the year 2016 and offers Undergraduate programme in Chemical Engineering for B.Tech students. The Department has well qualified and experienced faculty facilities who constantly motivates, inspires and guides the students for their personal growth and to become technically competent. Chemical Engineering discipline is booming with all the essential facilities and infrastructure to cater the needs of the students and the society. The research specialization of the Department includes waste management, food processing, biopolymers, process design and environment which is constantly striving for the industrial collaboration.",
-          "image": "/images/others/video-07.jpg"
+          "image": "/images/Kahe/academics/engineering/Chemical-Eng/chemicalengineering-overview.png"
         }
       ]
     },
@@ -50,7 +50,7 @@
           {
             "key": "ug",
             "title": "Under Graduate Programme",
-            "img": "/images/others/health-b-02.png",
+            "img": "/images/Kahe/academics/engineering/Chemical-Eng/chemicalengineering-studentprogrammes.png",
             "items": ["B.Tech. Chemical Engineering"],
             "type": "programme"
           }
@@ -62,7 +62,7 @@
           {
             "key": "be",
             "title": "B.Tech. Chemical Engineering",
-            "img": "/images/others/health-b-02.png",
+             "img": "/images/Kahe/academics/engineering/Chemical-Eng/chemicalengineering-studentprogrammes.png",
             "type": "curriculum",
             "items": [
               {

@@ -2,7 +2,7 @@
   "title": "Department of Civil Engineering",
   "bannerCon": "The University of Wyoming welcomes students to experience a one-of-a-kind education in the heart of the Mountain West.",
   "applyLink": "#",
-  "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+  "bannerImg": "/images/Kahe/academics/engineering/Civil-Eng/civilengineering-banner.png",
   "tabs": [
     {
       "id": "overview",
@@ -37,7 +37,7 @@
           "type": "overview",
           "subTitle": "Overview",
           "contents": "Civil Engineering course for Undergraduate Program has been offered at the university campus since 2009. The academic activities of the department emphasis on deep understanding of fundamental concepts, development of creative ability to handle the challenge of Civil Engineering and the analytical ability to solve problems which are interdisciplinary in nature. The Faculty members encourage the student to get involved in the Research activities in the Department.",
-          "image": "/images/others/video-07.jpg"
+          "image": "/images/Kahe/academics/engineering/Civil-Eng/civilengineering-overview.png"
         },
         {
           "type": "vision",
@@ -67,21 +67,21 @@
           {
             "key": "ug",
             "title": "Under Graduate Programme",
-            "img": "/images/others/health-b-02.png",
+            "img": "/images/Kahe/academics/engineering/Civil-Eng/civilengineering-studentprogrammes.png",
             "items": ["B.E Civil Engineering (Strength: 30)"],
             "type": "programme"
           },
           {
             "key": "pg",
             "title": "Post Graduate Programme",
-            "img": "/images/others/health-b-02.png",
+           "img": "/images/Kahe/academics/engineering/Civil-Eng/civilengineering-studentprogrammes.png",
             "items": ["M.E. Structural Engineering (Strength: 6)"],
             "type": "programme"
           },
           {
             "key": "res",
             "title": "Research Programme",
-            "img": "/images/others/health-b-02.png",
+            "img": "/images/Kahe/academics/engineering/Civil-Eng/civilengineering-studentprogrammes.png",
             "items": ["Ph.D in Civil Engineering"],
             "type": "programme"
           }
@@ -93,7 +93,7 @@
           {
             "key": "be",
             "title": "BE Civil Engineering",
-            "img": "/images/others/health-b-02.png",
+           "img": "/images/Kahe/academics/engineering/Civil-Eng/civilengineering-studentprogrammes.png",
             "type": "curriculum",
             "items": [
               {
@@ -125,7 +125,7 @@
           {
             "key": "me",
             "title": "M.E. Structural Engineering",
-            "img": "/images/others/health-b-02.png",
+            "img": "/images/Kahe/academics/engineering/Civil-Eng/civilengineering-studentprogrammes.png",
             "type": "curriculum",
             "items": [
               {
@@ -153,7 +153,7 @@
           {
             "key": "me",
             "title": "M.E. Water Resources and Environmental Engineering – FT",
-            "img": "/images/others/health-b-02.png",
+            "img": "/images/Kahe/academics/engineering/Civil-Eng/civilengineering-studentprogrammes.png",
             "type": "curriculum",
             "items": [
               {
@@ -173,7 +173,7 @@
           {
             "key": "me",
             "title": "M.E. Water Resources and Environmental Engineering – PT",
-            "img": "/images/others/health-b-02.png",
+          "img": "/images/Kahe/academics/engineering/Civil-Eng/civilengineering-studentprogrammes.png",
             "type": "curriculum",
             "items": [
               {
@@ -189,7 +189,7 @@
           {
             "key": "me",
             "title": "Ph.D.Civil Engineering",
-            "img": "/images/others/health-b-02.png",
+           "img": "/images/Kahe/academics/engineering/Civil-Eng/civilengineering-studentprogrammes.png",
             "type": "curriculum",
             "items": [
               {

@@ -1,8 +1,8 @@
 import DepartmentOfchemEng from "@/components/00-Kahe/AcademicsComponents/Engineering/DepartmentOfChemicalEng";
 
 export const metadata = {
-  title: "Best MSc Biochemistry Colleges in Coimbatore",
-  description: "kahedu.edu.in",
+  title: "Best Chemical Engineering Colleges in Coimbatore",
+  description: "Get outstanding learning options to build a successful career in Chemical Engineering by enrolling in KAHE, the best chemical engineering college in Coimbatore.",
 };
 
 const page = () => {

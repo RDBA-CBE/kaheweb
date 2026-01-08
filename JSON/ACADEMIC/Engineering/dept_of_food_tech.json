@@ -2,7 +2,7 @@
   "title": "Department of Food Technology",
   "bannerCon": "The University of Wyoming welcomes students to experience a one-of-a-kind education in the heart of the Mountain West.",
   "applyLink": "#",
-  "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+  "bannerImg": "/images/Kahe/academics/engineering/Food-Technology/foodtechnology-banner.png",
   "tabs": [
     {
       "id": "overview",
@@ -37,7 +37,7 @@
           "type": "overview",
           "subTitle": "Overview",
           "contents": "The Department of Food Technology being established in 2018. The Department offers Bachelor in Technology programme in Food Technology (B.Tech).The Department has a strong academic background with highly qualified faculty to provide excellent teaching, practical training and to inculcate research in the frontier areas of Food Technology.",
-          "image": "/images/others/video-07.jpg"
+          "image": "/images/Kahe/academics/engineering/Food-Technology/foodtechnology-overview.png"
         }
       ]
     },
@@ -49,7 +49,7 @@
           {
             "key": "ug",
             "title": "Under Graduate Programme",
-            "img": "/images/others/health-b-02.png",
+           "img": "/images/Kahe/academics/engineering/Food-Technology/foodtechnology-studentprogrammes.png",
             "items": [
               "B.Tech. Food Technology (Strength: 60)"
             ],
@@ -58,7 +58,7 @@
           {
             "key": "res",
             "title": "Research Programme",
-            "img": "/images/others/health-b-02.png",
+            "img": "/images/Kahe/academics/engineering/Food-Technology/foodtechnology-studentprogrammes.png",
             "items": [
               "Ph.D"
             ],
@@ -72,7 +72,7 @@
           {
             "key": "be",
             "title": "B.Tech. Food Technology",
-            "img": "/images/others/health-b-02.png",
+            "img": "/images/Kahe/academics/engineering/Food-Technology/foodtechnology-studentprogrammes.png",
             "type": "curriculum",
             "items": [
               {
@@ -100,7 +100,7 @@
           {
             "key": "be",
             "title": "Ph.D. Food Technology",
-            "img": "/images/others/health-b-02.png",
+            "img": "/images/Kahe/academics/engineering/Food-Technology/foodtechnology-studentprogrammes.png",
             "type": "curriculum",
             "items": [
               {

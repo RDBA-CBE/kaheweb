@@ -12,7 +12,7 @@ const InnerSubBanner = ({ data }) => {
           backgroundPosition: "top",
         }}
       ></div>
-      <div className="uw-banner-overlay">
+      <div className="">
         <div className="uw-banner-content">
           <div className="uw-banner-header">
             <h2
