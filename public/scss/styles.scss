@@ -884,9 +884,10 @@
 }
 .banner-p::before {
   content: "";
-  width: 120px;          /* adjust line width */
+  width: 30%;          /* adjust line width */
   height: 2px;
-  background-color: rgb(150, 231, 150);
+ /* background-color: rgb(150, 231, 150);*/
+ background-color: #f2bf2c;
   position: absolute;
   top: 0;
   left: 50%;

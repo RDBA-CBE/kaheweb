@@ -1,8 +1,8 @@
 import FormCom from "@/components/00-Kahe/ExaminationComponents/FormCom";
 
 export const metadata = {
-  title: "About Us 01 - Online Courses & Education NEXTJS14 Template",
-  description: "Online Courses & Education NEXTJS14 Template",
+  title: "Forms | Best M.E. Power Systems Engineering College in India",
+  description: "Begin your higher education with KAHE, the best m.e. power systems engineering college in coimbatore. Download the forms and enroll for your desired course.",
 };
 const page = () => {
   return (
