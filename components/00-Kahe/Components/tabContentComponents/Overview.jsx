@@ -64,7 +64,7 @@ const Overview = ({ overviewContent }) => {
             {/* Render first part with proper sentence splitting */}
             {splitResult.firstPart && (
               <div className="first-part-content">
-                {splitChar(splitResult.firstPart, splitLimit)}
+                {splitChar(splitResult.firstPart, splitLimit,overviewItem?.tagClasses)}
               </div>
             )}
           </div>
@@ -80,7 +80,7 @@ const Overview = ({ overviewContent }) => {
         <div className="section-bg2" style={{ margin: "40px 0" }}>
           <div className="section-wid">
             <div className="remaining-content">
-              {splitChar(splitResult.remaining, splitLimit)}
+              {splitChar(splitResult.remaining, splitLimit,overviewItem?.tagClasses)}
             </div>
           </div>
         </div>

@@ -91,10 +91,15 @@
         "title": "Dr.V.Janaka Maya Devi",
         "caption": "President",
         "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/President-1.jpg",
-        "content": "A well accomplished Carnatic Vocalist, Composer and Bharathanatya Acharya with over 40 years of academic and Performance leadership. Guided numerous students for them to excel in their domains.Authored books, published research works and chaired multiple national and international conferences. Composed several songs and have recorded and published.Recognized with prestigious honours for immense contribution to the arts."
+        "content": "A well accomplished Carnatic Vocalist, Composer and Bharathanatya Acharya with over 40 years of academic and Performance leadership. Guided numerous students for them to excel in their domains.Authored books, published research works and chaired multiple national and international conferences. Composed several songs and have recorded and published.Recognized with prestigious honours for immense contribution to the arts.",
+        "tagClasses": {
+          "strong": "highlight-strong",
+          "h1": "title-highlight",
+          "em": "italic-highlight"
+        }
       }
     ],
-    "merits" : {
+    "merits": {
       "title": "Expertise",
       "content": [
         {
@@ -125,7 +130,6 @@
       ]
     },
     "awards": {
-      
       "title": "Awards",
       "btnText": "View",
       "content": [
@@ -137,13 +141,6 @@
         }
       ]
     },
-    
-
-
-
-
-
-
     "adjudicator": {
       "title": "",
       "items1": [
@@ -207,14 +204,7 @@
           "src": "/images/category/image/web-design.jpg",
           "content": "Kannur University, Kannur"
         }
-        
       ]
     }
   }
-  
 }
-
-
-
-
-

@@ -1,3 +1,4 @@
+import React from "react";
 import { split } from "sentence-splitter";
 
 export const removeShortcodes = (content) => {
@@ -5,9 +6,9 @@ export const removeShortcodes = (content) => {
   return content.replace(/\[\/?[^\]]+\]/g, "");
 };
 
-export const truncateText = (text = '', maxLength = 100) => {
-  if (typeof text !== 'string') return '';
-  return text.length > maxLength ? text.slice(0, maxLength) + '...' : text;
+export const truncateText = (text = "", maxLength = 100) => {
+  if (typeof text !== "string") return "";
+  return text.length > maxLength ? text.slice(0, maxLength) + "..." : text;
 };
 
 export const FirstLetterUp = (text = "") => {
@@ -52,14 +53,103 @@ export const FirstLetterUp = (text = "") => {
 // };
 
 
+export const  splitChar = (
+  html = "",
+  maxLength = 500,
+  tagClasses = {} // 👈 dynamic classes from JSON
+) => {
+  if (!html) return null;
+
+  const parser = new DOMParser();
+  const doc = parser.parseFromString(html, "text/html");
+
+  const INLINE_TAG_MAP = {
+    h1: "span",
+    h2: "span",
+    h3: "span",
+    h4: "span",
+    h5: "span",
+    h6: "span",
+    p: "span",
+    div: "span",
+  };
+
+  const processNode = (node, key) => {
+    /* ---------------- TEXT NODE ---------------- */
+    if (node.nodeType === Node.TEXT_NODE) {
+      let text = node.textContent;
+      if (!text.trim()) return null;
+
+      // Space fix after tags
+      if (
+        node.previousSibling &&
+        node.previousSibling.nodeType === Node.ELEMENT_NODE &&
+        !text.startsWith(" ")
+      ) {
+        text = " " + text;
+      }
+
+      const sentenceNodes = split(text);
+
+      const sentenceTexts = sentenceNodes
+        .filter((n) => n.type === "Sentence")
+        .map((n) => {
+          const txt = n.raw.trim();
+          if (txt.length === 1) return txt; // avoid A.
+          return txt.match(/[.!?]$/) ? txt : txt + " ";
+        });
+
+      let current = "";
+      const blocks = [];
+
+      sentenceTexts.forEach((sentence) => {
+        if ((current + sentence).length > maxLength) {
+          if (current) blocks.push(current);
+          current = sentence;
+        } else {
+          current += sentence;
+        }
+      });
+
+      if (current) blocks.push(current);
+
+      return blocks.map((block, i) => (
+        <span key={`${key}-text-${i}`}>{block}</span>
+      ));
+    }
+
+    /* ---------------- ELEMENT NODE ---------------- */
+    if (node.nodeType === Node.ELEMENT_NODE) {
+      const originalTag = node.tagName.toLowerCase();
+      const Tag = INLINE_TAG_MAP[originalTag] || originalTag;
+
+      return React.createElement(
+        Tag,
+        {
+          key,
+          className: tagClasses?.[originalTag] || undefined, // 👈 MAGIC
+        },
+        Array.from(node.childNodes).map((child, i) =>
+          processNode(child, `${key}-${i}`)
+        )
+      );
+    }
+
+    return null;
+  };
+
+  return (
+    <p>
+      {Array.from(doc.body.childNodes).map((node, i) =>
+        processNode(node, `root-${i}`)
+      )}
+    </p>
+  );
+};
 
 
 
-
-
-
-
-export const splitChar = (text = "", maxLength = 500) => {
+export const renderWithSplitChar = (text = "", maxLength = 500) => {
   if (!text) return null;
 
   // Use sentence-splitter which handles abbreviations better
@@ -219,5 +309,3 @@ export const splitFirstAndRemaining = (text, firstLength = 700) => {
 //     remaining: remainingArray.join(" "),
 //   };
 // };
-
-
