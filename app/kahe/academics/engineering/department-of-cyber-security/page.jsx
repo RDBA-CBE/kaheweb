@@ -1,8 +1,18 @@
-export default function DepartmentOfCyberSecurityPage() {
+import DepartmentOfBiotechEng from "@/components/00-Kahe/AcademicsComponents/Engineering/DepartmentOfBiotechEng";
+import DepartmentOfCyberSecurity from "@/components/00-Kahe/AcademicsComponents/Engineering/DepartmentOfCyberSecurity";
+
+export const metadata = {
+  title: "Top 10 Biotechnology Colleges in Coimbatore, Tamilnadu",
+  description: "Are you interested in Biotechnology? KAHE is one of the top 10 biotechnology colleges in Coimbatore. Join KAHE and learn from the top-class educators!",
+};
+
+const page = () => {
   return (
-    <div>
-      <h1>Department of Cyber Security</h1>
-      <p>Welcome to the Department of Cyber Security.</p>
-    </div>
+    <>
+     <DepartmentOfCyberSecurity/>
+     
+    </>
   );
-}
+};
+
+export default page;

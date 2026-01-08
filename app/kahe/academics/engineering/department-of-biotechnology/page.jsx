@@ -9,6 +9,7 @@ const page = () => {
   return (
     <>
      <DepartmentOfBiotechEng/>
+     
     </>
   );
 };
