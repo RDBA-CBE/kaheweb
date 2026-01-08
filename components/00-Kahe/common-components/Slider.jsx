@@ -13,7 +13,7 @@ const Slider = ({ data, start, end }) => {
         effect={"cards"}
         modules={[EffectCards, Pagination, Autoplay]}
         grabCursor={true}
-        autoplay={true}
+        // autoplay={true}
         pagination={{
           el: ".rbt-swiper-pagination",
           clickable: true,

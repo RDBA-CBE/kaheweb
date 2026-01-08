@@ -111,7 +111,7 @@ const ImageLink = ({ data, firstParaLimit, firstParaSplit, order }) => {
 
               {item?.src && (
                 <div className="imageLink-item2">
-                  <img src="/images/Kahe/about/RTI/righttoinformation.png" alt={item.title || ""} />
+                  <img src={item.src || "/images/Kahe/team-13.png"} alt={item.title || ""} />
                 </div>
               )}
 

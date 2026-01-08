@@ -36,8 +36,124 @@
         {
           "type": "overview",
           "subTitle": "Overview",
-          "contents": "Biotechnology is an important tool that can be applied to various economic sectors of special interest to developing countries, such as the production of food crops, livestock management, human health care, chemical industry and environment management. The majority of developing countries including India lack the necessary qualified manpower to exploit such technologies. Further, Biotechnology, as practiced today, requires inputs from not only one area of biological sciences, but requires a fusion of different modern biological and technological sciences. Biotechnology has become a multi-billion dollar industry all over the world. The Department of Biotechnology at KAHE is a center for excellence in research, established in 2001. The progress of the department is consistent over the years and presently holds many research projects funded by the UGC, DST, DBT and ICMR. During the last 10 years, the department has made all round progress and is on par with the well established departments of the KAHE. Scholars in the department are pursuing research in the areas of Nano-biotechnology, Food Technology, Fermentation Technology, Plant Tissue Culture, Animal Tissue Culture, Genetics and Molecular Biology, Microbial Technology and Phytochemistry. It is commendable to mention that the department is the proud recipient of Rs. 2.81crores from the Govt. of India for various research and development programmes. Our Department of Biotechnology has been recognized by DST-FIST for research and academic purpose. Various collaborative research projects are going on in our department with many academic and industries including <br/> -JK Nanosolutions, Karnataka, India <br/>  -University of Hyderabad, India <br/> -Shiraz University, Shiraz, Iran <br/> -Nanjing Agricultural University, Nanjing, China <br/> -East China Normal University, Shanghai, China",
-          "image": "/images/others/video-07.jpg"
+          "contents": "The Department Biotechnology was established in 2001 at Karpagam Arts and Science College then the KASC promoted in 2009 as Karpagam Academy of Higher Education (KAHE) (Deemed University). The Department of Biotechnology offering 4 year B.Sc., Biotechnology programmes, 2 year M.Sc., Biotechnology programme, and Ph.D. in Biotechnology programme. The Department of Biotechnology at KAHE is a Centre for excellence in research with excellent faculty members. The department mainly concentrating research on Natural Products, Phytotherapeutics, Functional Foods, Nano Biotechnology, Plant Molecular Biology, Environmental Toxicology, Cancer Biology and Bioinformatics. Also the department established a Centre of excellence for Natural Products and Functional Foods and Bioinformatics. The progress of the department is consistent over the years and received a research grants Rs. 2.01 crores from DBT, DST, SERB and TNSCST. During the last 10 years, the department has made all round progress and is on par with the well-established departments of the KAHE. It is commendable to mention that the department is recognized by DST and recipient of Rs. 44.80 Lakhs from the DST-FIST, Govt. of India for the infrastructure improvement of the development. Through these research grants our faculties have published more than 254 research articles during last five years. At present the department holds 4 Indian patents. The Department holds two Centre of excellence Centre for Natural Products and Functional Foods and Centre for Bioinformatics with highly sophisticated instruments such as Ultra-High Performance Liquid Chromatography, Atomic Absorption Spectrophotometer, 2D Gel Electrophoresis, Particle Bombardment (Gene Gun), Florescence Microscope, Fourier transform infrared Spectroscopy, High Performance Liquid Chromatography and Gas Chromatography.",
+          "image": [
+            { "src": "/images/others/video-07.jpg" },
+            { "src": "/images/others/video-07.jpg" },
+            { "src": "/images/others/video-07.jpg" }
+          ]
+        },
+
+        {
+          "type": "vision",
+          "subTitle": "Vision",
+          "src": "/images/Kahe/Innerpages/vision.png",
+          "content": [
+            "To impart the knowledge of biology and technology to students to reform society by creating innovative technology and products.",
+            "To develop the department as a potential center for research in various disciplines of biotechnology, genomics, proteomics and bioinformatics."
+          ]
+        },
+        {
+          "type": "mission",
+          "subTitle": "Mission",
+          "src": "/images/Kahe/Innerpages/goal.png",
+          "content": [
+            "Educating the students to acquire knowledge and skills, to comprehend and commercialize technologies and products.",
+            "Training the learners to find out the new technologies and products based on the applications of the life sciences.",
+            "Making the students to involve in multi-disciplinary research for providing the solutions to solve the issues on human and animal health, agriculture and environment by their technologies. "
+          ]
+        },
+
+        {
+          "type": "highlights",
+          "items": {
+            "title": "Highlights",
+            "src": "/images/Kahe/Innerpages/image-1.jpg",
+            "content": [
+              {
+                "icon": "rs-icon-book",
+                "value": "254",
+                "label": "Publications"
+              },
+              {
+                "icon": "rs-icon-book",
+                "value": "9",
+                "label": "Patents"
+              },
+              {
+                "icon": "rs-icon-fund",
+                "value": "23.56 Lks",
+                "label": "Seed money granted"
+              },
+              {
+                "icon": "rs-icon-lab",
+                "value": "8",
+                "text": "Ph.D Awarded"
+              },
+              {
+                "icon": "rs-icon-complete",
+                "value": "84",
+                "text": "Events organized"
+              },
+              {
+                "icon": "rs-icon-ongoing",
+                "value": "15",
+                "text": "Internship and Higher Studies <br /> – Abroad"
+              },
+              {
+                "icon": "rs-icon-ongoing",
+                "value": "10",
+                "text": "Total Number of NPTEL  <br /> Completed Faculty"
+              },
+              {
+                "icon": "rs-icon-ongoing",
+                "value": "30",
+                "text": "Total Number of NPTEL  <br /> Completed Students"
+              },
+              {
+                "icon": "rs-icon-ongoing",
+                "value": "1",
+                "text": "Centre for Natural products <br />  and functional foods"
+              },
+
+              {
+                "icon": "rs-icon-ongoing",
+                "value": "1",
+                "text": "Centre for Bioinformatics "
+              },
+
+              {
+                "icon": "rs-icon-ongoing",
+                "value": "1",
+                "text": "Centre for Bioinformatics "
+              },
+
+              {
+                "icon": "rs-icon-ongoing",
+                "value": "201.86 Lks",
+                "text": "On going - 5 <br/> Funded project"
+              },
+              {
+                "icon": "rs-icon-ongoing",
+                "value": "138 Lks",
+                "text": "Completed - 6 <br/> Funded project"
+              }
+            ]
+          }
+        },
+        {
+          "type": "hod",
+          "items": {
+            "title": "Head of the Department (HOD)",
+            "content": [
+              {
+                "title": "Dr. A. Sangilimuthu",
+                "caption": "HOD",
+                "content": "I am glad to welcome you to the Department of Biotechnology under the Faculty of Arts, Science, Commerce and Management, Karpagam Academy of Higher Education. The Department is recognized as excellent in academic and research by Department of Science and Technology, New Delhi, India and committed to advancing education, research in frontier areas of Biotechnology, empowering young minds with scientific knowledge, research aptitude, and societal responsibility. Since joining the University in 2009, I have had the privilege of witnessing the department grow into a vibrant hub of learning, innovation, and research. Our vision is to nurture students with strong theoretical foundations and hands-on laboratory expertise, preparing them to meet global challenges in healthcare, agriculture, recombinant DNA technology, environmental biotechnology, and industrial biotechnology. As a Professor in the Department, I am proud to be part of a team of passionate and highly qualified faculty members who are deeply committed to academic excellence and research. The department’s research strength is reflected in the extensive publications in SCI/Scopus indexed journals (254 publications for the last 5 years), peer-reviewed contributions, patents, and major funded research projects supported by prestigious scientific bodies such as DBT, DST, SERB, TARE and TNSCST. The Department offers programs designed to meet the expectations of academia, industry, and research organizations. Students gain a strong research exposure through internships, industrial training, and dissertation work of publishable quality in their final semester, giving them an academic and professional advantage in pursuing careers or higher studies in India and abroad. I invite you to explore our website to learn more about the department, our faculty expertise, research focus, academic programs, achievements, and upcoming events. Thank you for your interest in the Department of Biotechnology.",
+                "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/biotech-hod.png"
+              }
+            ]
+          }
         }
       ]
     },
@@ -166,39 +282,61 @@
     },
     {
       "tab": "Faculty",
+      "slug": "department-of-biotechnology",
+      "basic": {
+        "title": "Faculty",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris",
+        "src": "/images/Kahe/Innerpages/vission.jpg",
+        "buttonText": "View All Faculty"
+      },
+
+      "breadcrumbItems": [
+        { "label": "Academics", "href": "`academics`" },
+        {
+          "label": "Arts, Science, Commerce and Management",
+          "href": "academics/arts-science-and-humanities/"
+        },
+
+        {
+          "label": "Department of BioTechnology",
+          "href": "/academics/arts-science-and-humanities/department-of-biotechnology"
+        },
+        { "label": "Faculty" }
+      ],
+
       "faculty": [
         {
-          "name": "Dr.A.Sangilimuthu",
-          "qualification": "M.Sc., M.Phil.,B.Ed., Ph.D.",
+          "name": "Dr. A. Sangilimuthu",
+          "qualification": "M.Sc., M.Phil., B.Ed., Ph.D.",
           "designation": "Professor",
           "email": "sangilimuthu.a@kahedu.edu.in",
           "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/DR.A.Sangilimuthu-One-page-biodata.pdf",
-          "profileText":"View profile",
-          "src":"/images/team/team-11.png",
-          "iconSrc" :"/images/Kahe/Innerpages/education.png",
-          "target":"_blank"
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
         },
         {
           "name": "Dr.S.Balamurugan",
-          "qualification": "Ph.D.,",
+          "qualification": "M.Sc., Ph.D.,",
           "designation": "Associate Professor",
           "email": "balamurugan.shanmugaraj@kahedu.edu.in",
           "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Dr.S-.Balamurugan-One-page-biodata-for-KAHE-website_19.11.-2024.pdf",
-          "profileText":"View profile",
-          "src":"/images/team/team-11.png",
-          "iconSrc" :"/images/Kahe/Innerpages/education.png",
-          "target":"_blank"
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
         },
         {
           "name": "Dr.S.Barathkumar",
-          "qualification": "Ph.D.",
+          "qualification": "M.Sc., Ph.D.",
           "designation": "Assistant Professor",
           "email": "barathkumar.s@kahedu.edu.in",
           "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/Dr.-S.-Barathkumar.pdf",
-          "profileText":"View profile",
-          "src":"/images/team/team-11.png",
-          "iconSrc" :"/images/Kahe/Innerpages/education.png",
-          "target":"_blank"
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
         },
         {
           "name": "Dr.C.Rajkuberan",
@@ -206,10 +344,10 @@
           "designation": "Assistant Professor",
           "email": "rajkuberan.c@kahedu.edu.in",
           "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Dr.-Rajkuberan-One-page-biodata.pdf",
-          "profileText":"View profile",
-          "src":"/images/team/team-11.png",
-          "iconSrc" :"/images/Kahe/Innerpages/education.png",
-          "target":"_blank"
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
         },
         {
           "name": "Dr.A.A.Arunkumar",
@@ -217,10 +355,10 @@
           "designation": "Assistant Professor",
           "email": "drarunkumar.aa@kahedu.edu.in",
           "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Dr-ARUNKUMAR.pdf",
-          "profileText":"View profile",
-          "src":"/images/team/team-11.png",
-          "iconSrc" :"/images/Kahe/Innerpages/education.png",
-          "target":"_blank"
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
         },
         {
           "name": "Dr.D.Prabhu",
@@ -228,10 +366,10 @@
           "designation": "Assistant Professor",
           "email": "prabhu.dhamodharan@kahedu.edu.in",
           "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Dr.-PRABHU.pdf",
-          "profileText":"View profile",
-          "src":"/images/team/team-11.png",
-          "iconSrc" :"/images/Kahe/Innerpages/education.png",
-          "target":"_blank"
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
         },
         {
           "name": "Dr.K.Chinnadurai",
@@ -239,10 +377,10 @@
           "designation": "Assistant Professor",
           "email": "chinnadurai.kuppusamy@kahedu.edu.in",
           "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Dr-Chinnadurai.pdf",
-          "profileText":"View profile",
-          "src":"/images/team/team-11.png",
-          "iconSrc" :"/images/Kahe/Innerpages/education.png",
-          "target":"_blank"
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
         },
         {
           "name": "Dr.K.Gopalakrishnan",
@@ -250,10 +388,10 @@
           "designation": "Assistant Professor",
           "email": "gopalakrishnan.kesavaperumal@kahedu.edu.in",
           "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Dr.K.-Gopalakrishnan.pdf",
-          "profileText":"View profile",
-          "src":"/images/team/team-11.png",
-          "iconSrc" :"/images/Kahe/Innerpages/education.png",
-          "target":"_blank"
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
         },
         {
           "name": "Dr.R.Srinath",
@@ -261,76 +399,87 @@
           "designation": "Assistant Professor",
           "email": "srinath.rajeswaran@kahedu.edu.in",
           "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Dr.-R.-Srinath-One-page-biodata.pdf",
-          "profileText":"View profile",
-          "src":"/images/team/team-11.png",
-          "iconSrc" :"/images/Kahe/Innerpages/education.png",
-          "target":"_blank"
-        },
-        {
-          "name": "Mrs.A.Suchithra",
-          "qualification": "MSc., (Ph.D)",
-          "designation": "Assistant Professor",
-          "email": "suchithra.aruchamy@kahedu.edu.in",
-          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Suchithra-one-page-Biodata.pdf",
-          "profileText":"View profile",
-          "src":"/images/team/team-11.png",
-          "iconSrc" :"/images/Kahe/Innerpages/education.png",
-          "target":"_blank"
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
         },
         {
           "name": "Dr.R.Amsaveni",
-          "qualification": "M.Sc., Ph.D., SET, PGDBD, M. Sc., Botany.,",
+          "qualification": "MSc., (Ph.D)",
           "designation": "Assistant Professor",
           "email": "amsaveni.ramasamy@kahedu.edu.in",
           "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Dr.-R.-Amsaveni-One-page-biodata-Nov-2024.pdf",
-          "profileText":"View profile",
-          "src":"/images/team/team-11.png",
-          "iconSrc" :"/images/Kahe/Innerpages/education.png",
-          "target":"_blank"
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
         },
         {
           "name": "Dr.P.S.Reethy",
-          "qualification": "M.Sc., Ph.D.",
+          "qualification": "M.Sc., Ph.D., SET, PGDBD, M. Sc., Botany.,",
           "designation": "Assistant Professor",
           "email": "reethy.sreedharan@kahedu.edu.in",
           "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/One-page-biodata-Dr.Reethy.pdf",
-          "profileText":"View profile",
-          "src":"/images/team/team-11.png",
-          "iconSrc" :"/images/Kahe/Innerpages/education.png",
-          "target":"_blank"
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
         },
         {
-          "name": "Mr.P.Balamurugan",
-          "qualification": "Ph.D.",
+          "name": "Dr.P.Balamurugan",
+          "qualification": "M.Sc., Ph.D.",
           "designation": "Assistant Professor",
           "email": "balamurugan.pandiyan@kahedu.edu.in",
           "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/One-page-biodata-P.-Balamurugan_2024.pdf",
-          "profileText":"View profile",
-          "src":"/images/team/team-11.png",
-          "iconSrc" :"/images/Kahe/Innerpages/education.png",
-          "target":"_blank"
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
         },
         {
-          "name": "Ms.M.A.Rathi",
+          "name": "Dr.M.A. Rathi",
           "qualification": "Ph.D.",
           "designation": "Assistant Professor",
           "email": "rathi.muthaiyan@kahedu.edu.in",
           "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/One-page-DR.Rathi-.pdf",
-          "profileText":"View profile",
-          "src":"/images/team/team-11.png",
-          "iconSrc" :"/images/Kahe/Innerpages/education.png",
-          "target":"_blank"
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
         },
         {
           "name": "Mrs.P.Nirmaladevi",
-          "qualification": "M.Sc., M.phil., PGDBI., SET., (Ph.D)",
+          "qualification": "Ph.D.",
           "designation": "Assistant Professor",
           "email": "nirmaladevi.panneerselvam@kahedu.edu.in",
           "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/One-page-biodata-2024-Nirmala-devi.pdf",
-          "profileText":"View profile",
-          "src":"/images/team/team-11.png",
-          "iconSrc" :"/images/Kahe/Innerpages/education.png",
-          "target":"_blank"
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr. Dr. M. Rajkumar",
+          "qualification": "M.Sc., M.phil., PGDBI., SET., (Ph.D)",
+          "designation": "Assistant Professor",
+          "email": "rajkumar.manickam@kahedu.edu.in",
+          "profile": "",
+          "profileText": "",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr. V.V. Sathibabu Uddandrao",
+          "qualification": "M.Sc., Ph.D",
+          "designation": "Assistant Professor",
+          "email": "sathibabuuddandrao.veeraraghavulu@kahedu.edu.in",
+          "profile": "",
+          "profileText": "",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
         }
       ]
     },
