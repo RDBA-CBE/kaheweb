@@ -5,18 +5,32 @@ import { FirstLetterUp } from "@/utils/functions.utils";
 import Image from "next/image";
 import Link from "next/link";
 
-const Commitee = ({ data }) => {
+const Commitee = ({ data, paddingtop = false }) => {
   console.log("data", data);
 
   return (
     <div className="commitee">
-      {data?.title && <div className="decor-ti">{FirstLetterUp(data?.title)} </div>}
+      {data?.title && (
+        <div className="decor-ti">{FirstLetterUp(data?.title)} </div>
+      )}
 
-      <div className="row py-5 align-items-stretch gy-4">
+      <div
+        className={`row ${
+          paddingtop ? "" : "py-5"
+        } py-5 align-items-stretch gy-4`}
+      >
         {data?.content?.map((item, index) => (
-          <div className={`${data?.clsName ? data?.clsName : "col-lg-3 col-md-6 col-sm-6 col-12"} d-flex`} key={index}>
+          <div
+            className={`${
+              data?.clsName
+                ? data?.clsName
+                : "col-lg-3 col-md-6 col-sm-6 col-12"
+            } d-flex`}
+            key={index}
+          >
             <Link
-              href={item?.url || "#"} target={item?.target && item?.target}
+              href={item?.url || "#"}
+              target={item?.target && item?.target}
               className="rbt-cat-box rbt-cat-box-1 text-center d-flex w-100"
             >
               <div className="inner d-flex flex-column w-100">
@@ -36,11 +50,14 @@ const Commitee = ({ data }) => {
                     }}
                   />
 
-                  {data?.btnText && <div className="read-more-btn mt-auto">
-                    <span className="rbt-btn-link">
-                      {data?.btnText} <i className="feather-arrow-up-right"></i>
-                    </span>
-                  </div>}
+                  {data?.btnText && (
+                    <div className="read-more-btn mt-auto">
+                      <span className="rbt-btn-link">
+                        {data?.btnText}{" "}
+                        <i className="feather-arrow-up-right"></i>
+                      </span>
+                    </div>
+                  )}
                 </div>
               </div>
             </Link>
