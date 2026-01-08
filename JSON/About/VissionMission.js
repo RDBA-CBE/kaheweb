@@ -6,7 +6,7 @@ import Responsible from "@/public/images/Kahe/icons/Responsible";
 
 export const VissionMissiondata = {
   data: {
-    bannerImg: "/images/Kahe/breadcrumb/banner-inner1.jpg",
+    bannerImg: "/images/Kahe/about/vision-mission/visionandmission-banner.png",
     title: "Our Vision & Mission",
     bannerCon:
       "To be a leading institution in the field of education, providing quality education and training to students and professionals.",
@@ -17,7 +17,7 @@ export const VissionMissiondata = {
     title: "Vision",
     description:
       "To impart value based quality education, to undertake scientific, socially relevant research and instil creativity among the learners, to enable, enlighten and enrich them to serve and lead the society.",
-    src: "/images/Kahe/Innerpages/vission.jpg",
+    src: "/images/Kahe/about/vision-mission/Vision.png",
     alt: "Vision Image",
   },
 

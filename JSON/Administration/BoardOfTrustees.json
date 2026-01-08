@@ -1,7 +1,7 @@
 {
   "BoardofTrustees": {
     "bannerCon": {
-      "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+      "bannerImg": "/images/Kahe/about/administration/boardoftrustees-banner.png",
       "title": "Board of Trustees",
       "bannerCon": "To be a leading institution in the field of education, providing quality education and training to students and professionals.",
       "applyLink": "/"
@@ -38,7 +38,7 @@
 
   "president": {
     "bannerCon": {
-      "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+       "bannerImg": "/images/Kahe/about/administration/boardoftrustees-banner.png",
       "title": "President",
       "bannerCon": "To be a leading institution in the field of education, providing quality education and training to students and professionals.",
       "applyLink": "/"
@@ -56,7 +56,7 @@
 
   "ceo": {
     "bannerCon": {
-      "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+      "bannerImg": "/images/Kahe/about/administration/boardoftrustees-banner.png",
       "title": "CEO",
       "bannerCon": "To be a leading institution in the field of education, providing quality education and training to students and professionals.",
       "applyLink": "/"
@@ -75,7 +75,7 @@
 
   "trustees": {
     "bannerCon": {
-      "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+      "bannerImg": "/images/Kahe/about/administration/boardoftrustees-banner.png",
       "title": "Trustees",
       "bannerCon": "To be a leading institution in the field of education, providing quality education and training to students and professionals.",
       "applyLink": "/"
@@ -97,7 +97,7 @@
 
   "chancellor": {
     "bannerCon": {
-      "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+      "bannerImg": "/images/Kahe/about/administration/chancellor-banner.png",
       "title": "Chancellor",
       "bannerCon": "To be a leading institution in the field of education, providing quality education and training to students and professionals.",
       "applyLink": "/"
@@ -115,7 +115,7 @@
 
   "viceChancellor": {
     "bannerCon": {
-      "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+      "bannerImg": "/images/Kahe/about/administration/vicechancellor-banner.png",
       "title": "Vice Chancellor",
       "bannerCon": "To be a leading institution in the field of education, providing quality education and training to students and professionals.",
       "applyLink": "/"
@@ -133,7 +133,7 @@
 
    "registrar": {
     "bannerCon": {
-      "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+      "bannerImg": "/images/Kahe/about/administration/registrar-banner.png",
       "title": "Registrar",
       "bannerCon": "To be a leading institution in the field of education, providing quality education and training to students and professionals.",
       "applyLink": "/"
@@ -151,7 +151,7 @@
 
    "deans": {
     "bannerCon": {
-      "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+      "bannerImg": "/images/Kahe/about/administration/deans-banner.png",
       "title": "Deans",
       "bannerCon": "To be a leading institution in the field of education, providing quality education and training to students and professionals.",
       "applyLink": "/"
@@ -203,7 +203,7 @@
 
   "controller": {
     "bannerCon": {
-      "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+      "bannerImg": "/images/Kahe/about/administration/boardoftrustees-banner.png",
       "title": "Controller of Examinations",
       "bannerCon": "To be a leading institution in the field of education, providing quality education and training to students and professionals.",
       "applyLink": "/"
@@ -221,7 +221,7 @@
 
   "financeOfficer": {
     "bannerCon": {
-      "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+       "bannerImg": "/images/Kahe/about/administration/boardoftrustees-banner.png",
       "title": "Finance Officer",
       "bannerCon": "To be a leading institution in the field of education, providing quality education and training to students and professionals.",
       "applyLink": "/"

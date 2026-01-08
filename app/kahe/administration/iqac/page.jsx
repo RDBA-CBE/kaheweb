@@ -1,8 +1,8 @@
 import IQACCom from "@/components/00-Kahe/AdministrationComponents.jsx/IQACCom";
 
 export const metadata = {
-  title: "Karpagam Academy of Higher Education - Deemed University",
-  description: "Karpagam Academy of Higher Education (KAHE) offers a wide range of UG, PG &amp; research programs in Engineering, Arts &amp; Science, Management, Architecture, and Pharmacy.",
+  title: "IQAC | Best M Sc Chemistry Colleges in Coimbatore",
+  description: "Know about the Internal Quality Assurance Cell at the best M.Sc chemistry college in Coimbatore. Experience the highest standards of education at KAHE.",
 };
 
 const page = async () => {

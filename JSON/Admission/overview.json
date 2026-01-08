@@ -1,7 +1,7 @@
 {
   "admissionOverview": {
     "bannerCon": {
-      "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+      "bannerImg": "/images/Kahe/admissions/Overview/admissions-overview-banner.png",
       "title": "Admission",
       "bannerCon": "To be a leading institution in the field of education, providing quality education and training to students and professionals.",
       "applyLink": "/"
@@ -37,10 +37,10 @@
           "url": "mailto:admissions@kahedu.edu.in"
         }
       ],
-      "src": "/images/Kahe/Innerpages/vission.jpg",
+      "src": "/images/Kahe/admissions/Overview/overview-admissionsofficer.png",
 
       "btn": "Apply Now",
-      "btnLink": "#"
+      "btnLink": "/kahe/admissions/admission-details/how-to-apply"
     },
 
     "address": {
