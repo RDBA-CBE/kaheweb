@@ -1,13 +1,13 @@
 {
   "bannerCon": {
-    "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+    "bannerImg": "/images/Kahe/admissions/Admission-Details/AdmissionsProcedure/admissionsprocedure-banner.png",
     "title": "Admissions Procedure",
     "bannerCon": "To be a leading institution in the field of education, providing quality education and training to students and professionals.",
     "applyLink": "/"
   },
   "programmes": {
     "title": "Arts, Science, Commerce and Management",
-    "img": "/images/Kahe/Innerpages/image-1.jpg",
+    "img": "/images/Kahe/admissions/Admission-Details/AdmissionsProcedure/arts.png",
     "desc": "Application may be submitted to their respective courses along with their testimonials, eligible candidates will be called for admission.",
     "content": [
       {
@@ -23,7 +23,7 @@
 
   "Engineering": {
     "title": "Engineering",
-    "img": "/images/Kahe/Innerpages/image-1.jpg",
+    "img": "/images/Kahe/admissions/Admission-Details/AdmissionsProcedure/engg.png",
     "desc": "The applicant may submit their applications along with their testimonials. Students have to appear for an entrance examination. Based on the entrance examination and their +2 marks, admission will be provided.",
     "content": [
       {
@@ -35,7 +35,7 @@
 
   "architecture": {
     "title": "Architecture",
-    "img": "/images/Kahe/Innerpages/image-1.jpg",
+    "img": "/images/Kahe/admissions/Admission-Details/AdmissionsProcedure/architecture.png",
     "desc": "Applicant can submit their application for the courses along with NATA (National Aptitude Test in Architecture) score for B.Arch Programme. For other programmes, Students can directly submit their application along with testimonials.",
     "content": [
       {
@@ -63,14 +63,14 @@
 
   "pharmacy": {
     "title": "Pharmacy",
-    "img": "/images/Kahe/Innerpages/image-1.jpg",
+    "img": "/images/Kahe/admissions/Admission-Details/AdmissionsProcedure/pharmacy.png",
     "desc": "Application may be submitted to their respective courses along with their testimonials, eligible candidates will be called for admission."
   },
 
   "contact": {
     "title": "Contact Information",
     "content": "Karpagam Academy of Higher Education, <br/> Eachanari PostPollachi Main Road, <br/> Coimbatore – 641 021, <br/> Tamil Nadu, India.",
-    "src": "/images/Kahe/Innerpages/vission.jpg",
+    "src": "/images/Kahe/admissions/Admission-Details/AdmissionsProcedure/contactinformation.png",
     "links": [
       {
         "title": "Phone : ",

@@ -19,8 +19,8 @@ const VissionPage = () => {
       <section className="bg-lgreen">
         <Mission
           title="Mission"
-          buttonText="View All Requirements"
-          buttonLink="/mission"
+         // buttonText="View All Requirements"
+          //buttonLink="/mission"
           missionItems={VissionMissiondata?.missionData}
         />
       </section>

@@ -6,8 +6,8 @@ import UserCard from "../Components/UserCard";
 
 
 export const metadata = {
-  title: "About Us 01 - Online Courses & Education NEXTJS14 Template",
-  description: "Online Courses & Education NEXTJS14 Template",
+  title: "Board of Trustees | Top BBA Colleges in Coimbatore",
+  description: "The List of the Board of Trustees at the top BBA Colleges in Coimbatore-Karpagam Academy of Higher Education. Become a part of this vibrant learning community.",
 };
 
 

@@ -1,8 +1,8 @@
 import AdmissionProcedure from "@/components/00-Kahe/DirectPageComponent/AdmissionProcedure";
 
 export const metadata = {
-  title: "About Us 01 - Online Courses & Education NEXTJS14 Template",
-  description: "Online Courses & Education NEXTJS14 Template",
+  title: "Top Colleges in Coimbatore for Bachelor of Commerce",
+  description: "KAHE is one of the top 10 colleges in Coimbatore for commerce. Read the Admission Procedure at KAHE and enroll for your desired course at KAHE.",
 };
 const page = () => {
   return (
