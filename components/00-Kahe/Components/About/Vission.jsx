@@ -13,10 +13,11 @@ const Vision = ({ vision, data }) => {
   return (
     <section className="vsn-section">
       <div className="vsn-container">
-        <div className="vsn-right">
-          <img src={vision.src} alt={vision.alt} className="vsn-image" />
-        </div>
-
+        {vision?.src && (
+          <div className="vsn-right">
+            <img src={vision?.src} alt={vision.alt} className="vsn-image" />
+          </div>
+        )}
         <div className="vsn-left">
           <h2
             className="decor-ti"
