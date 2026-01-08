@@ -382,6 +382,10 @@ export const Admissions = {
       link: "/admissions/admission-details/",
       items: [
         {
+          name: "Overview",
+          link: "/admissions/admission-details",
+        },
+        {
           name: "Admissions Procedure",
           link: "/admissions/admission-details/admission-procedure/",
         },

@@ -2757,7 +2757,7 @@
 }
 
 .fg-card {
-  background: #d9e9f4;
+  background: #F4E9E7;
   border-radius: 12px;
   padding: 22px 20px;
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.06);
@@ -3440,3 +3440,10 @@
 .overview-right .rbt-card .rbt-card-img a{
   height: 100%;
 }
+.kahe.rbt-header .mainmenu-nav .mainmenu > li > a{color: #fff;}
+.kahe.rbt-header .mainmenu-nav .mainmenu > li > a:hover{color: #06cf53 !important;}
+.bg-gray-2{background:#cdcdcd;}
+.bg-gray-2 a{color:#222;}
+.kahe .rbt-secondary-menu li a{color:#222;}
+.rbt-header .mainmenu-nav .mainmenu > li.active a{color:#000 !important;}
+.rbt-header .mainmenu-nav .mainmenu > li{color:#000 !important;}

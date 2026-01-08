@@ -1,8 +1,8 @@
 import StatutoryCommitteespage from "@/components/00-Kahe/DirectPageComponent/StatutoryCommitteespage";
 
 export const metadata = {
-  title: "About Us 01 - Online Courses & Education NEXTJS14 Template",
-  description: "Online Courses & Education NEXTJS14 Template",
+  title: "Statutory Committees | Best Biomedical Engineering Colleges",
+  description: "KAHE is the Best Biomedical engineering college in Coimbatore with experienced faculty &amp; state-of-the-art facilities. Check our statutory committee details!",
 };
 const page = () => {
   return (

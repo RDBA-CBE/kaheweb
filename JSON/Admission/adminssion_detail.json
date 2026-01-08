@@ -1,0 +1,43 @@
+{
+ 
+    "bannerCon": {
+      "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+      "title": "Admission Details",
+      "bannerCon": "To be a leading institution in the field of education, providing quality education and training to students and professionals.",
+      "applyLink": "/"
+    },
+    "title": "Admission Details",
+    "btnText": "View",
+    "content": [
+      {
+        "title": "Admission Procedure",
+        "url": "/kahe/admissions/admission-details/admission-procedure/"
+      },
+      {
+        "title": "How to apply",
+        "url": "/kahe/admissions/admission-details/how-to-apply/"
+      },
+      {
+        "title": "Under Graduate Programmes",
+        "url": "/kahe/admissions/admission-details/ug-programs/"
+      },
+      {
+        "title": "Post Graduate Programmes",
+        "url": "/kahe/admissions/admission-details/pg-programs/"
+      },
+      {
+        "title": "Research Programmes",
+        "url": "/kahe/admissions/admission-details/research-programs/"
+      },
+      {
+        "title": "Fee Refund Policy",
+        "url": "https://kahedu.edu.in/n/wp-content/uploads/2023/07/fee-refund-policy.pdf",
+        "target":"_blank"
+      }
+    ]
+}
+
+
+
+
+

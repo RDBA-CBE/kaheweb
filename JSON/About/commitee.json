@@ -1,7 +1,7 @@
 {
   "statutaryCommitee": {
     "bannerCon": {
-      "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+      "bannerImg": "/images/Kahe/about/commitee/statutorycommitee-banner.png",
       "title": "Statutory Commitee",
       "bannerCon": "To be a leading institution in the field of education, providing quality education and training to students and professionals.",
       "applyLink": "/"
@@ -31,7 +31,7 @@
 
   "NonStatutaryCommitee": {
     "bannerCon": {
-      "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+     "bannerImg": "/images/Kahe/about/commitee/nonstatutorycommitee-banner.png",
       "title": "Non Statutory Committees",
       "bannerCon": "To be a leading institution in the field of education, providing quality education and training to students and professionals.",
       "applyLink": "/"
@@ -60,7 +60,7 @@
 
   "NscCommittees": {
     "bannerCon": {
-      "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+     "bannerImg": "/images/Kahe/about/commitee/statutorycommitee-banner.png",
       "title": "Committee",
       "bannerCon": "To be a leading institution in the field of education, providing quality education and training to students and professionals.",
       "applyLink": "/"
@@ -173,7 +173,7 @@
 
   "NscCells": {
     "bannerCon": {
-      "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+      "bannerImg": "/images/Kahe/about/commitee/statutorycommitee-banner.png",
       "title": "Committee",
       "bannerCon": "To be a leading institution in the field of education, providing quality education and training to students and professionals.",
       "applyLink": "/"
@@ -246,7 +246,7 @@
 
   "Ombudsperson": {
     "bannerCon": {
-      "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+       "bannerImg": "/images/Kahe/about/commitee/statutorycommitee-banner.png",
       "title": "Ombudsperson",
       "bannerCon": "To be a leading institution in the field of education, providing quality education and training to students and professionals.",
       "applyLink": "/"
@@ -265,7 +265,7 @@
 
   "RTI": {
     "bannerCon": {
-      "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+      "bannerImg": "/images/Kahe/about/RTI/righttoinformation-banner.png",
       "title": "Right to Information (RTI)",
       "bannerCon": "To be a leading institution in the field of education, providing quality education and training to students and professionals.",
       "applyLink": "/"
@@ -275,7 +275,7 @@
     "content": [
       {
         "content": "As per the Central Information Commission (CIC) decision, Deemed to be University is not a Public Authority under Section 2(h) of the RTI Act, 2005.",
-        "src": "/images/Kahe/Innerpages/RTI.jpg",
+        "src": "/images/Kahe/about/RTI/righttoinformation.png",
         "url": "https://kahedu.edu.in/n/wp-content/uploads/2020/10/CIC-RM-C-2014-000433-MP.pdf"
       }
     ]

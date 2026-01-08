@@ -6,27 +6,46 @@
     "applyLink": "/"
   },
   "title": "List of Partner Universities",
-
   "AsiaList": {
     "subTitle": "Asia",
-
     "content": [
       {
         "head": [
-          { "id": "col1", "label": "Sl No" },
-          { "id": "col2", "label": "Partner Institution" },
-          { "id": "col3", "label": "Country Name" },
-          { "id": "col4", "label": "Department" },
-          { "id": "col5", "label": "Scope of Collaboration" }
+          {
+            "id": "col1",
+            "label": "Sl No"
+          },
+          {
+            "id": "col2",
+            "label": "Partner Institution"
+          },
+          {
+            "id": "col3",
+            "label": "Country Name"
+          },
+          {
+            "id": "col4",
+            "label": "Department"
+          },
+          {
+            "id": "col5",
+            "label": "Scope of Collaboration"
+          }
         ],
         "data": [
           {
-            "col1": { "text": "1" },
+            "col1": {
+              "text": "1"
+            },
             "col2": {
               "text": "Southern Taiwan University of Science and Technology"
             },
-            "col3": { "text": "Taiwan" },
-            "col4": { "text": "All" },
+            "col3": {
+              "text": "Taiwan"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Faculty Exchanges",
@@ -38,10 +57,18 @@
             }
           },
           {
-            "col1": { "text": "2" },
-            "col2": { "text": "Ming Chi University of Technology" },
-            "col3": { "text": "Taiwan" },
-            "col4": { "text": "All" },
+            "col1": {
+              "text": "2"
+            },
+            "col2": {
+              "text": "Ming Chi University of Technology"
+            },
+            "col3": {
+              "text": "Taiwan"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Faculty Exchanges",
@@ -53,10 +80,18 @@
             }
           },
           {
-            "col1": { "text": "3" },
-            "col2": { "text": "National Changhua University of Education" },
-            "col3": { "text": "Taiwan" },
-            "col4": { "text": "All" },
+            "col1": {
+              "text": "3"
+            },
+            "col2": {
+              "text": "National Changhua University of Education"
+            },
+            "col3": {
+              "text": "Taiwan"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Faculty Exchanges",
@@ -66,10 +101,18 @@
             }
           },
           {
-            "col1": { "text": "4" },
-            "col2": { "text": "National Kaohsiung Normal University" },
-            "col3": { "text": "Taiwan" },
-            "col4": { "text": "All" },
+            "col1": {
+              "text": "4"
+            },
+            "col2": {
+              "text": "National Kaohsiung Normal University"
+            },
+            "col3": {
+              "text": "Taiwan"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Faculty Exchanges",
@@ -80,10 +123,18 @@
             }
           },
           {
-            "col1": { "text": "5" },
-            "col2": { "text": "National United University" },
-            "col3": { "text": "Taiwan" },
-            "col4": { "text": "All" },
+            "col1": {
+              "text": "5"
+            },
+            "col2": {
+              "text": "National United University"
+            },
+            "col3": {
+              "text": "Taiwan"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Faculty Exchanges",
@@ -95,10 +146,18 @@
             }
           },
           {
-            "col1": { "text": "6" },
-            "col2": { "text": "Asia University" },
-            "col3": { "text": "Taiwan" },
-            "col4": { "text": "All" },
+            "col1": {
+              "text": "6"
+            },
+            "col2": {
+              "text": "Asia University"
+            },
+            "col3": {
+              "text": "Taiwan"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Faculty Exchanges",
@@ -113,10 +172,18 @@
             }
           },
           {
-            "col1": { "text": "7" },
-            "col2": { "text": "National Chung Hsing University" },
-            "col3": { "text": "Taiwan" },
-            "col4": { "text": "All" },
+            "col1": {
+              "text": "7"
+            },
+            "col2": {
+              "text": "National Chung Hsing University"
+            },
+            "col3": {
+              "text": "Taiwan"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "To Facilitate Joint Research",
@@ -128,10 +195,18 @@
             }
           },
           {
-            "col1": { "text": "8" },
-            "col2": { "text": "University of Malaya" },
-            "col3": { "text": "Malaysia" },
-            "col4": { "text": "All" },
+            "col1": {
+              "text": "8"
+            },
+            "col2": {
+              "text": "University of Malaya"
+            },
+            "col3": {
+              "text": "Malaysia"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Faculty Exchanges",
@@ -142,10 +217,18 @@
             }
           },
           {
-            "col1": { "text": "9" },
-            "col2": { "text": "Universiti Malaysia, Perlis" },
-            "col3": { "text": "Malaysia" },
-            "col4": { "text": "All" },
+            "col1": {
+              "text": "9"
+            },
+            "col2": {
+              "text": "Universiti Malaysia, Perlis"
+            },
+            "col3": {
+              "text": "Malaysia"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Faculty Exchanges",
@@ -158,10 +241,18 @@
             }
           },
           {
-            "col1": { "text": "10" },
-            "col2": { "text": "Universiti Teknologi MARA" },
-            "col3": { "text": "Malaysia" },
-            "col4": { "text": "All" },
+            "col1": {
+              "text": "10"
+            },
+            "col2": {
+              "text": "Universiti Teknologi MARA"
+            },
+            "col3": {
+              "text": "Malaysia"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Faculty Exchanges",
@@ -173,10 +264,18 @@
             }
           },
           {
-            "col1": { "text": "11" },
-            "col2": { "text": "Saint Louis University" },
-            "col3": { "text": "Philippines" },
-            "col4": { "text": "All" },
+            "col1": {
+              "text": "11"
+            },
+            "col2": {
+              "text": "Saint Louis University"
+            },
+            "col3": {
+              "text": "Philippines"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Faculty Exchanges",
@@ -187,10 +286,18 @@
             }
           },
           {
-            "col1": { "text": "12" },
-            "col2": { "text": "Ateneo de Davao University" },
-            "col3": { "text": "Philippines" },
-            "col4": { "text": "All" },
+            "col1": {
+              "text": "12"
+            },
+            "col2": {
+              "text": "Ateneo de Davao University"
+            },
+            "col3": {
+              "text": "Philippines"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Student and Faculty Exchange / International Learning Sessions",
@@ -203,10 +310,18 @@
             }
           },
           {
-            "col1": { "text": "13" },
-            "col2": { "text": "Hanoi University of Pharmacy" },
-            "col3": { "text": "Vietnam" },
-            "col4": { "text": "All" },
+            "col1": {
+              "text": "13"
+            },
+            "col2": {
+              "text": "Hanoi University of Pharmacy"
+            },
+            "col3": {
+              "text": "Vietnam"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Exchange of Students",
@@ -218,10 +333,18 @@
             }
           },
           {
-            "col1": { "text": "14" },
-            "col2": { "text": "National Central University" },
-            "col3": { "text": "Taiwan" },
-            "col4": { "text": "All" },
+            "col1": {
+              "text": "14"
+            },
+            "col2": {
+              "text": "National Central University"
+            },
+            "col3": {
+              "text": "Taiwan"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Faculty visits for teaching and research",
@@ -232,10 +355,18 @@
             }
           },
           {
-            "col1": { "text": "15" },
-            "col2": { "text": "Holy Name University" },
-            "col3": { "text": "Philippines" },
-            "col4": { "text": "All" },
+            "col1": {
+              "text": "15"
+            },
+            "col2": {
+              "text": "Holy Name University"
+            },
+            "col3": {
+              "text": "Philippines"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Faculty visits for teaching and research",
@@ -246,10 +377,18 @@
             }
           },
           {
-            "col1": { "text": "16" },
-            "col2": { "text": "University of Northern Philippines" },
-            "col3": { "text": "Philippines" },
-            "col4": { "text": "All" },
+            "col1": {
+              "text": "16"
+            },
+            "col2": {
+              "text": "University of Northern Philippines"
+            },
+            "col3": {
+              "text": "Philippines"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Faculty, Staff and Student Exchange Programs",
@@ -261,10 +400,18 @@
             }
           },
           {
-            "col1": { "text": "17" },
-            "col2": { "text": "University of the Immaculate Conception" },
-            "col3": { "text": "Philippines" },
-            "col4": { "text": "All" },
+            "col1": {
+              "text": "17"
+            },
+            "col2": {
+              "text": "University of the Immaculate Conception"
+            },
+            "col3": {
+              "text": "Philippines"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Promotion of joint research and teaching projects",
@@ -276,10 +423,18 @@
             }
           },
           {
-            "col1": { "text": "18" },
-            "col2": { "text": "Mariano Marcos State University" },
-            "col3": { "text": "Philippines" },
-            "col4": { "text": "All" },
+            "col1": {
+              "text": "18"
+            },
+            "col2": {
+              "text": "Mariano Marcos State University"
+            },
+            "col3": {
+              "text": "Philippines"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Develop international programs (short courses and TNE)",
@@ -293,10 +448,18 @@
             }
           },
           {
-            "col1": { "text": "19" },
-            "col2": { "text": "Aklan State University" },
-            "col3": { "text": "Philippines" },
-            "col4": { "text": "All" },
+            "col1": {
+              "text": "19"
+            },
+            "col2": {
+              "text": "Aklan State University"
+            },
+            "col3": {
+              "text": "Philippines"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Faculty visits for teaching and research",
@@ -307,10 +470,18 @@
             }
           },
           {
-            "col1": { "text": "20" },
-            "col2": { "text": "Nha trang university" },
-            "col3": { "text": "Vietnam" },
-            "col4": { "text": "All" },
+            "col1": {
+              "text": "20"
+            },
+            "col2": {
+              "text": "Nha trang university"
+            },
+            "col3": {
+              "text": "Vietnam"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Faculty Exchanges",
@@ -321,10 +492,18 @@
             }
           },
           {
-            "col1": { "text": "21" },
-            "col2": { "text": "National Taipei University of technology" },
-            "col3": { "text": "Taiwan" },
-            "col4": { "text": "All" },
+            "col1": {
+              "text": "21"
+            },
+            "col2": {
+              "text": "National Taipei University of technology"
+            },
+            "col3": {
+              "text": "Taiwan"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Faculty Exchanges",
@@ -335,10 +514,18 @@
             }
           },
           {
-            "col1": { "text": "22" },
-            "col2": { "text": "AL-Shamal Private University" },
-            "col3": { "text": "Syria" },
-            "col4": { "text": "All" },
+            "col1": {
+              "text": "22"
+            },
+            "col2": {
+              "text": "AL-Shamal Private University"
+            },
+            "col3": {
+              "text": "Syria"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Faculty Exchanges",
@@ -349,10 +536,18 @@
             }
           },
           {
-            "col1": { "text": "23" },
-            "col2": { "text": "Kyungpook National University" },
-            "col3": { "text": "South korea" },
-            "col4": { "text": "CCMP Lab" },
+            "col1": {
+              "text": "23"
+            },
+            "col2": {
+              "text": "Kyungpook National University"
+            },
+            "col3": {
+              "text": "South korea"
+            },
+            "col4": {
+              "text": "CCMP Lab"
+            },
             "col5": {
               "list": [
                 "Faculty visits for teaching and research",
@@ -363,10 +558,18 @@
             }
           },
           {
-            "col1": { "text": "24" },
-            "col2": { "text": "Universitas Sumatera Utara" },
-            "col3": { "text": "Indonesia" },
-            "col4": { "text": "All" },
+            "col1": {
+              "text": "24"
+            },
+            "col2": {
+              "text": "Universitas Sumatera Utara"
+            },
+            "col3": {
+              "text": "Indonesia"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Faculty Exchanges",
@@ -377,10 +580,18 @@
             }
           },
           {
-            "col1": { "text": "25" },
-            "col2": { "text": "University of Tehran" },
-            "col3": { "text": "Iran" },
-            "col4": { "text": "All" },
+            "col1": {
+              "text": "25"
+            },
+            "col2": {
+              "text": "University of Tehran"
+            },
+            "col3": {
+              "text": "Iran"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Joint research activities",
@@ -393,10 +604,18 @@
             }
           },
           {
-            "col1": { "text": "26" },
-            "col2": { "text": "Ho Chi Minh City University of Education" },
-            "col3": { "text": "Vietnam" },
-            "col4": { "text": "All" },
+            "col1": {
+              "text": "26"
+            },
+            "col2": {
+              "text": "Ho Chi Minh City University of Education"
+            },
+            "col3": {
+              "text": "Vietnam"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Faculty visits for teaching and research",
@@ -407,10 +626,18 @@
             }
           },
           {
-            "col1": { "text": "27" },
-            "col2": { "text": "University of Bohol" },
-            "col3": { "text": "Philippines" },
-            "col4": { "text": "All" },
+            "col1": {
+              "text": "27"
+            },
+            "col2": {
+              "text": "University of Bohol"
+            },
+            "col3": {
+              "text": "Philippines"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Faculty Exchanges",
@@ -421,10 +648,18 @@
             }
           },
           {
-            "col1": { "text": "28" },
-            "col2": { "text": "Prince of Songkla University" },
-            "col3": { "text": "Thailand" },
-            "col4": { "text": "All" },
+            "col1": {
+              "text": "28"
+            },
+            "col2": {
+              "text": "Prince of Songkla University"
+            },
+            "col3": {
+              "text": "Thailand"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Beneficial UG/PG student exchange programs",
@@ -435,10 +670,18 @@
             }
           },
           {
-            "col1": { "text": "29" },
-            "col2": { "text": "Quirino State University" },
-            "col3": { "text": "Philippines" },
-            "col4": { "text": "All" },
+            "col1": {
+              "text": "29"
+            },
+            "col2": {
+              "text": "Quirino State University"
+            },
+            "col3": {
+              "text": "Philippines"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Faculty Exchanges",
@@ -449,10 +692,18 @@
             }
           },
           {
-            "col1": { "text": "30" },
-            "col2": { "text": "Western Gailee college" },
-            "col3": { "text": "Israel" },
-            "col4": { "text": "All" },
+            "col1": {
+              "text": "30"
+            },
+            "col2": {
+              "text": "Western Gailee college"
+            },
+            "col3": {
+              "text": "Israel"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Faculty Exchanges",
@@ -463,10 +714,18 @@
             }
           },
           {
-            "col1": { "text": "31" },
-            "col2": { "text": "Pathumthani University" },
-            "col3": { "text": "Thailand" },
-            "col4": { "text": "All" },
+            "col1": {
+              "text": "31"
+            },
+            "col2": {
+              "text": "Pathumthani University"
+            },
+            "col3": {
+              "text": "Thailand"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Faculty Exchanges",
@@ -477,10 +736,18 @@
             }
           },
           {
-            "col1": { "text": "32" },
-            "col2": { "text": "Infrastructure University Kuala Lumpur" },
-            "col3": { "text": "Malaysia" },
-            "col4": { "text": "All" },
+            "col1": {
+              "text": "32"
+            },
+            "col2": {
+              "text": "Infrastructure University Kuala Lumpur"
+            },
+            "col3": {
+              "text": "Malaysia"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Offer of academic courses and curriculum",
@@ -498,10 +765,18 @@
             }
           },
           {
-            "col1": { "text": "33" },
-            "col2": { "text": "Foreign Trade University" },
-            "col3": { "text": "Vietnam" },
-            "col4": { "text": "All" },
+            "col1": {
+              "text": "33"
+            },
+            "col2": {
+              "text": "Foreign Trade University"
+            },
+            "col3": {
+              "text": "Vietnam"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Faculty Exchanges",
@@ -514,10 +789,18 @@
             }
           },
           {
-            "col1": { "text": "34" },
-            "col2": { "text": "Shu-Te university" },
-            "col3": { "text": "Taiwan" },
-            "col4": { "text": "All" },
+            "col1": {
+              "text": "34"
+            },
+            "col2": {
+              "text": "Shu-Te university"
+            },
+            "col3": {
+              "text": "Taiwan"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Student exchange for upskilling and Twinning/Dual degrees",
@@ -529,10 +812,18 @@
             }
           },
           {
-            "col1": { "text": "35" },
-            "col2": { "text": "UNIMAS" },
-            "col3": { "text": "Malaysia" },
-            "col4": { "text": "All" },
+            "col1": {
+              "text": "35"
+            },
+            "col2": {
+              "text": "UNIMAS"
+            },
+            "col3": {
+              "text": "Malaysia"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Exchange programs for staff and students for joint research and teaching",
@@ -543,10 +834,18 @@
             }
           },
           {
-            "col1": { "text": "36" },
-            "col2": { "text": "Shakrim University Semey" },
-            "col3": { "text": "Kazakhstan" },
-            "col4": { "text": "All" },
+            "col1": {
+              "text": "36"
+            },
+            "col2": {
+              "text": "Shakrim University Semey"
+            },
+            "col3": {
+              "text": "Kazakhstan"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Faculty Exchanges",
@@ -557,10 +856,18 @@
             }
           },
           {
-            "col1": { "text": "37" },
-            "col2": { "text": "Cavite state University" },
-            "col3": { "text": "Philippines" },
-            "col4": { "text": "All" },
+            "col1": {
+              "text": "37"
+            },
+            "col2": {
+              "text": "Cavite state University"
+            },
+            "col3": {
+              "text": "Philippines"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Exchange of students",
@@ -573,12 +880,18 @@
             }
           },
           {
-            "col1": { "text": "38" },
+            "col1": {
+              "text": "38"
+            },
             "col2": {
               "text": "Abra State Institute of Sciences and Technology (ASIST)"
             },
-            "col3": { "text": "Philippines" },
-            "col4": { "text": "All" },
+            "col3": {
+              "text": "Philippines"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Faculty visits for teaching and research",
@@ -590,17 +903,35 @@
             }
           },
           {
-            "col1": { "text": "39" },
-            "col2": { "text": "Taipei Economic and culture centre" },
-            "col3": { "text": "Taiwan" },
-            "col4": { "text": "-" },
-            "col5": { "text": "MoU" }
+            "col1": {
+              "text": "39"
+            },
+            "col2": {
+              "text": "Taipei Economic and culture centre"
+            },
+            "col3": {
+              "text": "Taiwan"
+            },
+            "col4": {
+              "text": "-"
+            },
+            "col5": {
+              "text": "MoU"
+            }
           },
           {
-            "col1": { "text": "40" },
-            "col2": { "text": "Chungbuk national university" },
-            "col3": { "text": "South korea" },
-            "col4": { "text": "All" },
+            "col1": {
+              "text": "40"
+            },
+            "col2": {
+              "text": "Chungbuk national university"
+            },
+            "col3": {
+              "text": "South korea"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Exchange of students, faculty, and staff for lectures and visits",
@@ -610,10 +941,18 @@
             }
           },
           {
-            "col1": { "text": "41" },
-            "col2": { "text": "CHENG SHIU UNIVERSITY" },
-            "col3": { "text": "Taiwan" },
-            "col4": { "text": "All" },
+            "col1": {
+              "text": "41"
+            },
+            "col2": {
+              "text": "CHENG SHIU UNIVERSITY"
+            },
+            "col3": {
+              "text": "Taiwan"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Faculty visits for teaching and research",
@@ -624,10 +963,18 @@
             }
           },
           {
-            "col1": { "text": "42" },
-            "col2": { "text": "Chienkuo Technology University" },
-            "col3": { "text": "Taiwan" },
-            "col4": { "text": "All" },
+            "col1": {
+              "text": "42"
+            },
+            "col2": {
+              "text": "Chienkuo Technology University"
+            },
+            "col3": {
+              "text": "Taiwan"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Faculty Exchanges",
@@ -638,10 +985,18 @@
             }
           },
           {
-            "col1": { "text": "43" },
-            "col2": { "text": "National University of Kaohsiung" },
-            "col3": { "text": "Taiwan" },
-            "col4": { "text": "All" },
+            "col1": {
+              "text": "43"
+            },
+            "col2": {
+              "text": "National University of Kaohsiung"
+            },
+            "col3": {
+              "text": "Taiwan"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Exchange of students",
@@ -653,10 +1008,18 @@
             }
           },
           {
-            "col1": { "text": "44" },
-            "col2": { "text": "Inti International University" },
-            "col3": { "text": "Malaysia" },
-            "col4": { "text": "All" },
+            "col1": {
+              "text": "44"
+            },
+            "col2": {
+              "text": "Inti International University"
+            },
+            "col3": {
+              "text": "Malaysia"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Student mobility (Twinning, Joint, Dual degrees)",
@@ -668,10 +1031,18 @@
             }
           },
           {
-            "col1": { "text": "45" },
-            "col2": { "text": "Nanhua University" },
-            "col3": { "text": "Taiwan" },
-            "col4": { "text": "All" },
+            "col1": {
+              "text": "45"
+            },
+            "col2": {
+              "text": "Nanhua University"
+            },
+            "col3": {
+              "text": "Taiwan"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Student exchanges (field trips, volunteering)",
@@ -683,10 +1054,18 @@
             }
           },
           {
-            "col1": { "text": "46" },
-            "col2": { "text": "Fo Guang University" },
-            "col3": { "text": "Taiwan" },
-            "col4": { "text": "All" },
+            "col1": {
+              "text": "46"
+            },
+            "col2": {
+              "text": "Fo Guang University"
+            },
+            "col3": {
+              "text": "Taiwan"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Students Exchange",
@@ -700,10 +1079,18 @@
             }
           },
           {
-            "col1": { "text": "47" },
-            "col2": { "text": "Providence university" },
-            "col3": { "text": "Taiwan" },
-            "col4": { "text": "All" },
+            "col1": {
+              "text": "47"
+            },
+            "col2": {
+              "text": "Providence university"
+            },
+            "col3": {
+              "text": "Taiwan"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Faculty exchanges for collaborative research",
@@ -713,17 +1100,35 @@
             }
           },
           {
-            "col1": { "text": "48" },
-            "col2": { "text": "Foxconn" },
-            "col3": { "text": "Taiwan" },
-            "col4": { "text": "-" },
-            "col5": { "text": "MoU" }
+            "col1": {
+              "text": "48"
+            },
+            "col2": {
+              "text": "Foxconn"
+            },
+            "col3": {
+              "text": "Taiwan"
+            },
+            "col4": {
+              "text": "-"
+            },
+            "col5": {
+              "text": "MoU"
+            }
           },
           {
-            "col1": { "text": "49" },
-            "col2": { "text": "Keimyung university" },
-            "col3": { "text": "South Korea" },
-            "col4": { "text": "All" },
+            "col1": {
+              "text": "49"
+            },
+            "col2": {
+              "text": "Keimyung university"
+            },
+            "col3": {
+              "text": "South Korea"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Faculty visits for teaching and research",
@@ -734,10 +1139,18 @@
             }
           },
           {
-            "col1": { "text": "50" },
-            "col2": { "text": "National Yang Ming Chiao Tung University" },
-            "col3": { "text": "Taiwan" },
-            "col4": { "text": "All" },
+            "col1": {
+              "text": "50"
+            },
+            "col2": {
+              "text": "National Yang Ming Chiao Tung University"
+            },
+            "col3": {
+              "text": "Taiwan"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Faculty visits for teaching and research",
@@ -748,10 +1161,18 @@
             }
           },
           {
-            "col1": { "text": "51" },
-            "col2": { "text": "National Dong Hwa University (NDHU)" },
-            "col3": { "text": "Taiwan" },
-            "col4": { "text": "All" },
+            "col1": {
+              "text": "51"
+            },
+            "col2": {
+              "text": "National Dong Hwa University (NDHU)"
+            },
+            "col3": {
+              "text": "Taiwan"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Possibilities for faculty and staff exchanges",
@@ -762,10 +1183,18 @@
             }
           },
           {
-            "col1": { "text": "52" },
-            "col2": { "text": "National Ilan University (NIU)" },
-            "col3": { "text": "Taiwan" },
-            "col4": { "text": "All" },
+            "col1": {
+              "text": "52"
+            },
+            "col2": {
+              "text": "National Ilan University (NIU)"
+            },
+            "col3": {
+              "text": "Taiwan"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Exchange of students through recognized programs",
@@ -777,12 +1206,18 @@
             }
           },
           {
-            "col1": { "text": "53" },
+            "col1": {
+              "text": "53"
+            },
             "col2": {
               "text": "National Pingtung University of Science and Technolgy"
             },
-            "col3": { "text": "Taiwan" },
-            "col4": { "text": "All" },
+            "col3": {
+              "text": "Taiwan"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Faculty visits for teaching and research",
@@ -793,10 +1228,18 @@
             }
           },
           {
-            "col1": { "text": "54" },
-            "col2": { "text": "University of Taipei (UT)" },
-            "col3": { "text": "Taiwan" },
-            "col4": { "text": "All" },
+            "col1": {
+              "text": "54"
+            },
+            "col2": {
+              "text": "University of Taipei (UT)"
+            },
+            "col3": {
+              "text": "Taiwan"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Exchange of academic materials and information",
@@ -808,10 +1251,18 @@
             }
           },
           {
-            "col1": { "text": "55" },
-            "col2": { "text": "Chung Yuan Christian University" },
-            "col3": { "text": "Taiwan" },
-            "col4": { "text": "All" },
+            "col1": {
+              "text": "55"
+            },
+            "col2": {
+              "text": "Chung Yuan Christian University"
+            },
+            "col3": {
+              "text": "Taiwan"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Faculty exchange",
@@ -823,10 +1274,18 @@
             }
           },
           {
-            "col1": { "text": "56" },
-            "col2": { "text": "Shih Chien University" },
-            "col3": { "text": "Taiwan" },
-            "col4": { "text": "All" },
+            "col1": {
+              "text": "56"
+            },
+            "col2": {
+              "text": "Shih Chien University"
+            },
+            "col3": {
+              "text": "Taiwan"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Faculty visits for teaching and research",
@@ -837,10 +1296,18 @@
             }
           },
           {
-            "col1": { "text": "57" },
-            "col2": { "text": "Myongji University" },
-            "col3": { "text": "South korea" },
-            "col4": { "text": "All" },
+            "col1": {
+              "text": "57"
+            },
+            "col2": {
+              "text": "Myongji University"
+            },
+            "col3": {
+              "text": "South korea"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Student exchanges (Twinning, Joint, Dual Degrees)",
@@ -851,12 +1318,18 @@
             }
           },
           {
-            "col1": { "text": "58" },
+            "col1": {
+              "text": "58"
+            },
             "col2": {
               "text": "Taiwan Steel University of Science and Technology"
             },
-            "col3": { "text": "Taiwan" },
-            "col4": { "text": "All" },
+            "col3": {
+              "text": "Taiwan"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Admissions for in-service and second degree programs",
@@ -871,10 +1344,18 @@
             }
           },
           {
-            "col1": { "text": "59" },
-            "col2": { "text": "Taiwan University of Technology" },
-            "col3": { "text": "Taiwan" },
-            "col4": { "text": "All" },
+            "col1": {
+              "text": "59"
+            },
+            "col2": {
+              "text": "Taiwan University of Technology"
+            },
+            "col3": {
+              "text": "Taiwan"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Faculty visits for teaching and research",
@@ -885,10 +1366,18 @@
             }
           },
           {
-            "col1": { "text": "60" },
-            "col2": { "text": "Tainan University of Technology" },
-            "col3": { "text": "Taiwan" },
-            "col4": { "text": "All" },
+            "col1": {
+              "text": "60"
+            },
+            "col2": {
+              "text": "Tainan University of Technology"
+            },
+            "col3": {
+              "text": "Taiwan"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Faculty visits for teaching and research",
@@ -899,10 +1388,18 @@
             }
           },
           {
-            "col1": { "text": "61" },
-            "col2": { "text": "SEGi University" },
-            "col3": { "text": "Malaysia" },
-            "col4": { "text": "All" },
+            "col1": {
+              "text": "61"
+            },
+            "col2": {
+              "text": "SEGi University"
+            },
+            "col3": {
+              "text": "Malaysia"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Academic Programme Collaborations",
@@ -914,10 +1411,18 @@
             }
           },
           {
-            "col1": { "text": "62" },
-            "col2": { "text": "Chaoyang University of Technology" },
-            "col3": { "text": "Taiwan" },
-            "col4": { "text": "All" },
+            "col1": {
+              "text": "62"
+            },
+            "col2": {
+              "text": "Chaoyang University of Technology"
+            },
+            "col3": {
+              "text": "Taiwan"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Faculty Exchange",
@@ -928,10 +1433,18 @@
             }
           },
           {
-            "col1": { "text": "63" },
-            "col2": { "text": "University Technology Sarawak" },
-            "col3": { "text": "Malaysia" },
-            "col4": { "text": "All" },
+            "col1": {
+              "text": "63"
+            },
+            "col2": {
+              "text": "University Technology Sarawak"
+            },
+            "col3": {
+              "text": "Malaysia"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Develop professional/industrial training programmes",
@@ -943,12 +1456,18 @@
             }
           },
           {
-            "col1": { "text": "64" },
+            "col1": {
+              "text": "64"
+            },
             "col2": {
               "text": "National Kaohsiung University of Science and Technology"
             },
-            "col3": { "text": "Taiwan" },
-            "col4": { "text": "All" },
+            "col3": {
+              "text": "Taiwan"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Exchange of scholars and researchers",
@@ -960,10 +1479,18 @@
             }
           },
           {
-            "col1": { "text": "65" },
-            "col2": { "text": "National Chi Nan University" },
-            "col3": { "text": "Taiwan" },
-            "col4": { "text": "All" },
+            "col1": {
+              "text": "65"
+            },
+            "col2": {
+              "text": "National Chi Nan University"
+            },
+            "col3": {
+              "text": "Taiwan"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Joint research and academic activities",
@@ -974,30 +1501,165 @@
                 "Faculty Exchanges"
               ]
             }
+          },
+          {
+            "col1": {
+              "text": "66"
+            },
+            "col2": {
+              "text": "Tzu Chi University"
+            },
+            "col3": {
+              "text": "Taiwan"
+            },
+            "col4": {
+              "text": "All"
+            },
+            "col5": {
+              "list": [
+                "Visit by and exchange of graduate and undergraduate students for study and research",
+                "Visit by and exchange of faculties for research, teaching and collaboration",
+                "Exchange of information including library materials and research publications",
+                "Joint research activities"
+              ]
+            }
+          },
+          {
+            "col1": {
+              "text": "67"
+            },
+            "col2": {
+              "text": "Gyeongsang National University"
+            },
+            "col3": {
+              "text": "South Korea"
+            },
+            "col4": {
+              "text": "Core – Facility Center for Photochemistry & Nanomaterials"
+            },
+            "col5": {
+              "list": [
+                "Exchange among members for lab tours or collaborative research programs",
+                "Networking with industries to foster community based research",
+                "Exchange of information and materials",
+                "Joint research projects",
+                "Other cooperation activities such as conferences and workshops agreed by both parties",
+                "Exchange of faculty and students"
+              ]
+            }
+          },
+          {
+            "col1": {
+              "text": "68"
+            },
+            "col2": {
+              "text": "Jeonbuk National University"
+            },
+            "col3": {
+              "text": "South Korea"
+            },
+            "col4": {
+              "text": "All"
+            },
+            "col5": {
+              "list": [
+                "Exchange of faculty, staff and researchers",
+                "Exchange of students",
+                "Exchange of academic materials, publications and information",
+                "Conducting joint research projects",
+                "Organizing academic meetings"
+              ]
+            }
+          },
+          {
+            "col1": {
+              "text": "69"
+            },
+            "col2": {
+              "text": "Tbilisi State Medical University"
+            },
+            "col3": {
+              "text": "Georgia"
+            },
+            "col4": {
+              "text": "All"
+            },
+            "col5": {
+              "list": [
+                "Exchange of faculty, staff and researchers",
+                "Exchange of students",
+                "Exchange of academic publications and scholarly information",
+                "Collaboration on sustainable development goals",
+                "Promotion of other academic activities that enhance the agreed goals"
+              ]
+            }
+          },
+          {
+            "col1": {
+              "text": "70"
+            },
+            "col2": {
+              "text": "Multimedia University"
+            },
+            "col3": {
+              "text": "Malaysia"
+            },
+            "col4": {
+              "text": "All"
+            },
+            "col5": {
+              "list": [
+                "Enhancing cooperation between the parties",
+                "Development of academic and cultural interchanges, scientific research and internationalization objectives",
+                "Faculty exchanges",
+                "Student exchanges"
+              ]
+            }
           }
         ]
       }
     ]
   },
-
   "EuropeList": {
     "subTitle": "Europe",
-
     "content": [
       {
         "head": [
-          { "id": "col1", "label": "Sl No" },
-          { "id": "col2", "label": "Partner Institution" },
-          { "id": "col3", "label": "Country Name" },
-          { "id": "col4", "label": "Department" },
-          { "id": "col5", "label": "Scope of Collaboration" }
+          {
+            "id": "col1",
+            "label": "Sl No"
+          },
+          {
+            "id": "col2",
+            "label": "Partner Institution"
+          },
+          {
+            "id": "col3",
+            "label": "Country Name"
+          },
+          {
+            "id": "col4",
+            "label": "Department"
+          },
+          {
+            "id": "col5",
+            "label": "Scope of Collaboration"
+          }
         ],
         "data": [
           {
-            "col1": { "text": "1" },
-            "col2": { "text": "Near East University" },
-            "col3": { "text": "North Cyprus" },
-            "col4": { "text": "Engineering" },
+            "col1": {
+              "text": "1"
+            },
+            "col2": {
+              "text": "Near East University"
+            },
+            "col3": {
+              "text": "North Cyprus"
+            },
+            "col4": {
+              "text": "Engineering"
+            },
             "col5": {
               "list": [
                 "Faculty Exchanges",
@@ -1008,10 +1670,18 @@
             }
           },
           {
-            "col1": { "text": "2" },
-            "col2": { "text": "University of Arad" },
-            "col3": { "text": "Romania" },
-            "col4": { "text": "All" },
+            "col1": {
+              "text": "2"
+            },
+            "col2": {
+              "text": "University of Arad"
+            },
+            "col3": {
+              "text": "Romania"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Faculty Exchanges",
@@ -1023,17 +1693,35 @@
             }
           },
           {
-            "col1": { "text": "3" },
-            "col2": { "text": "Adam Mickiewicz University" },
-            "col3": { "text": "Poland" },
-            "col4": { "text": "All" },
-            "col5": { "text": "Students Exchanges" }
+            "col1": {
+              "text": "3"
+            },
+            "col2": {
+              "text": "Adam Mickiewicz University"
+            },
+            "col3": {
+              "text": "Poland"
+            },
+            "col4": {
+              "text": "All"
+            },
+            "col5": {
+              "text": "Students Exchanges"
+            }
           },
           {
-            "col1": { "text": "4" },
-            "col2": { "text": "MIREA-Russian Technological university" },
-            "col3": { "text": "Russia" },
-            "col4": { "text": "All" },
+            "col1": {
+              "text": "4"
+            },
+            "col2": {
+              "text": "MIREA-Russian Technological university"
+            },
+            "col3": {
+              "text": "Russia"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "International Exchange programs including Twinning, Joint degree, and Dual degree programmes",
@@ -1044,12 +1732,18 @@
             }
           },
           {
-            "col1": { "text": "5" },
+            "col1": {
+              "text": "5"
+            },
             "col2": {
               "text": "St.petersburg state marine technical university"
             },
-            "col3": { "text": "Russia" },
-            "col4": { "text": "All" },
+            "col3": {
+              "text": "Russia"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Faculty Exchanges",
@@ -1060,10 +1754,18 @@
             }
           },
           {
-            "col1": { "text": "6" },
-            "col2": { "text": "Bahcesehir University" },
-            "col3": { "text": "Turkey" },
-            "col4": { "text": "All" },
+            "col1": {
+              "text": "6"
+            },
+            "col2": {
+              "text": "Bahcesehir University"
+            },
+            "col3": {
+              "text": "Turkey"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Exchange of students for study including Twinning Program, Joint Degree and Dual degree options",
@@ -1077,10 +1779,18 @@
             }
           },
           {
-            "col1": { "text": "7" },
-            "col2": { "text": "a.MoU - 'Lucian Blaga' University of Sibiu" },
-            "col3": { "text": "Romania" },
-            "col4": { "text": "All" },
+            "col1": {
+              "text": "7"
+            },
+            "col2": {
+              "text": "a.MoU - 'Lucian Blaga' University of Sibiu"
+            },
+            "col3": {
+              "text": "Romania"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Faculty visits for teaching and research",
@@ -1091,12 +1801,18 @@
             }
           },
           {
-            "col1": { "text": "8" },
+            "col1": {
+              "text": "8"
+            },
             "col2": {
               "text": "b.Erasmus – 'Lucian Blaga' University of Sibiu"
             },
-            "col3": { "text": "Romania" },
-            "col4": { "text": "All" },
+            "col3": {
+              "text": "Romania"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Exchange information on research and educational programmes",
@@ -1109,10 +1825,18 @@
             }
           },
           {
-            "col1": { "text": "9" },
-            "col2": { "text": "Perm National Research Polytechnic University" },
-            "col3": { "text": "Russia" },
-            "col4": { "text": "All" },
+            "col1": {
+              "text": "9"
+            },
+            "col2": {
+              "text": "Perm National Research Polytechnic University"
+            },
+            "col3": {
+              "text": "Russia"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Exchange information on research and educational programmes",
@@ -1124,10 +1848,18 @@
             }
           },
           {
-            "col1": { "text": "10" },
-            "col2": { "text": "MIT Square" },
-            "col3": { "text": "London" },
-            "col4": { "text": "All" },
+            "col1": {
+              "text": "10"
+            },
+            "col2": {
+              "text": "MIT Square"
+            },
+            "col3": {
+              "text": "London"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Establishing Centre of Excellences",
@@ -1153,10 +1885,18 @@
             }
           },
           {
-            "col1": { "text": "11" },
-            "col2": { "text": "University of Zagreb" },
-            "col3": { "text": "Croatia" },
-            "col4": { "text": "All" },
+            "col1": {
+              "text": "11"
+            },
+            "col2": {
+              "text": "University of Zagreb"
+            },
+            "col3": {
+              "text": "Croatia"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Faculty Exchanges",
@@ -1167,10 +1907,18 @@
             }
           },
           {
-            "col1": { "text": "12" },
-            "col2": { "text": "University 'G. d’Annunzio' Chieti-Pescara" },
-            "col3": { "text": "Italy" },
-            "col4": { "text": "All" },
+            "col1": {
+              "text": "12"
+            },
+            "col2": {
+              "text": "University 'G. d’Annunzio' Chieti-Pescara"
+            },
+            "col3": {
+              "text": "Italy"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Faculty Exchanges",
@@ -1181,12 +1929,18 @@
             }
           },
           {
-            "col1": { "text": "13" },
+            "col1": {
+              "text": "13"
+            },
             "col2": {
               "text": "a. MoU / b. Erasmus – University of Economics – Varna"
             },
-            "col3": { "text": "Bulgaria" },
-            "col4": { "text": "All" },
+            "col3": {
+              "text": "Bulgaria"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Mutual exchange of experience in academic activity",
@@ -1200,17 +1954,35 @@
             }
           },
           {
-            "col1": { "text": "14" },
-            "col2": { "text": "a. MoU / b. Erasmus – Powislanksi university" },
-            "col3": { "text": "Poland" },
-            "col4": { "text": "All" },
-            "col5": { "text": "Erasmus+ Programme" }
+            "col1": {
+              "text": "14"
+            },
+            "col2": {
+              "text": "a. MoU / b. Erasmus – Powislanksi university"
+            },
+            "col3": {
+              "text": "Poland"
+            },
+            "col4": {
+              "text": "All"
+            },
+            "col5": {
+              "text": "Erasmus+ Programme"
+            }
           },
           {
-            "col1": { "text": "15" },
-            "col2": { "text": "University of Pitesti" },
-            "col3": { "text": "Romania" },
-            "col4": { "text": "All" },
+            "col1": {
+              "text": "15"
+            },
+            "col2": {
+              "text": "University of Pitesti"
+            },
+            "col3": {
+              "text": "Romania"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Exchange visits of teaching and research staff for seminars and joint projects",
@@ -1223,10 +1995,18 @@
             }
           },
           {
-            "col1": { "text": "16" },
-            "col2": { "text": "Institute of Advanced Materials & IAAM" },
-            "col3": { "text": "Sweden" },
-            "col4": { "text": "All" },
+            "col1": {
+              "text": "16"
+            },
+            "col2": {
+              "text": "Institute of Advanced Materials & IAAM"
+            },
+            "col3": {
+              "text": "Sweden"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Faculty Exchanges",
@@ -1239,10 +2019,18 @@
             }
           },
           {
-            "col1": { "text": "17" },
-            "col2": { "text": "Halic university" },
-            "col3": { "text": "Turkey" },
-            "col4": { "text": "All" },
+            "col1": {
+              "text": "17"
+            },
+            "col2": {
+              "text": "Halic university"
+            },
+            "col3": {
+              "text": "Turkey"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Faculty Exchanges",
@@ -1252,10 +2040,18 @@
             }
           },
           {
-            "col1": { "text": "18" },
-            "col2": { "text": "Primorskaya State Academy of Agriculture" },
-            "col3": { "text": "Russia" },
-            "col4": { "text": "All" },
+            "col1": {
+              "text": "18"
+            },
+            "col2": {
+              "text": "Primorskaya State Academy of Agriculture"
+            },
+            "col3": {
+              "text": "Russia"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Faculty Exchanges",
@@ -1266,10 +2062,18 @@
             }
           },
           {
-            "col1": { "text": "19" },
-            "col2": { "text": "Tambov State Technical University" },
-            "col3": { "text": "Russia" },
-            "col4": { "text": "All" },
+            "col1": {
+              "text": "19"
+            },
+            "col2": {
+              "text": "Tambov State Technical University"
+            },
+            "col3": {
+              "text": "Russia"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Exchanging students and staff for joint study/scientific programs and internships",
@@ -1282,10 +2086,18 @@
             }
           },
           {
-            "col1": { "text": "20" },
-            "col2": { "text": "Trabzon University" },
-            "col3": { "text": "Turkey" },
-            "col4": { "text": "All" },
+            "col1": {
+              "text": "20"
+            },
+            "col2": {
+              "text": "Trabzon University"
+            },
+            "col3": {
+              "text": "Turkey"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Exchange of scholars for research of mutual interest",
@@ -1297,10 +2109,18 @@
             }
           },
           {
-            "col1": { "text": "21" },
-            "col2": { "text": "Barnavichy state university" },
-            "col3": { "text": "Belarus" },
-            "col4": { "text": "All" },
+            "col1": {
+              "text": "21"
+            },
+            "col2": {
+              "text": "Barnavichy state university"
+            },
+            "col3": {
+              "text": "Belarus"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Joint scientific seminars, Conferences, Symposiums",
@@ -1311,10 +2131,18 @@
             }
           },
           {
-            "col1": { "text": "22" },
-            "col2": { "text": "Togliatti academy of Management" },
-            "col3": { "text": "Russia" },
-            "col4": { "text": "All" },
+            "col1": {
+              "text": "22"
+            },
+            "col2": {
+              "text": "Togliatti academy of Management"
+            },
+            "col3": {
+              "text": "Russia"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Joint research",
@@ -1326,10 +2154,18 @@
             }
           },
           {
-            "col1": { "text": "23" },
-            "col2": { "text": "Omsk State Technical University" },
-            "col3": { "text": "Russia" },
-            "col4": { "text": "All" },
+            "col1": {
+              "text": "23"
+            },
+            "col2": {
+              "text": "Omsk State Technical University"
+            },
+            "col3": {
+              "text": "Russia"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Faculty visits for teaching and research",
@@ -1340,10 +2176,18 @@
             }
           },
           {
-            "col1": { "text": "24" },
-            "col2": { "text": "Pyatigorsk State University" },
-            "col3": { "text": "Russia" },
-            "col4": { "text": "All" },
+            "col1": {
+              "text": "24"
+            },
+            "col2": {
+              "text": "Pyatigorsk State University"
+            },
+            "col3": {
+              "text": "Russia"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Faculty visits for teaching and research",
@@ -1354,10 +2198,18 @@
             }
           },
           {
-            "col1": { "text": "25" },
-            "col2": { "text": "University of Alicante" },
-            "col3": { "text": "Spain" },
-            "col4": { "text": "All" },
+            "col1": {
+              "text": "25"
+            },
+            "col2": {
+              "text": "University of Alicante"
+            },
+            "col3": {
+              "text": "Spain"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Exchange of researchers, staff and students while removing academic obstacles",
@@ -1369,10 +2221,18 @@
             }
           },
           {
-            "col1": { "text": "26" },
-            "col2": { "text": "Industrial University of Tyumen (IUT)" },
-            "col3": { "text": "Russia" },
-            "col4": { "text": "All" },
+            "col1": {
+              "text": "26"
+            },
+            "col2": {
+              "text": "Industrial University of Tyumen (IUT)"
+            },
+            "col3": {
+              "text": "Russia"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Exchange of research materials and publications",
@@ -1384,12 +2244,18 @@
             }
           },
           {
-            "col1": { "text": "27" },
+            "col1": {
+              "text": "27"
+            },
             "col2": {
               "text": "State Institute of Economics Finance Law and Technology"
             },
-            "col3": { "text": "Russia" },
-            "col4": { "text": "All" },
+            "col3": {
+              "text": "Russia"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Faculty visits for teaching and research",
@@ -1400,10 +2266,18 @@
             }
           },
           {
-            "col1": { "text": "28" },
-            "col2": { "text": "Murmansk State Technical University (MSTU)" },
-            "col3": { "text": "Russia" },
-            "col4": { "text": "All" },
+            "col1": {
+              "text": "28"
+            },
+            "col2": {
+              "text": "Murmansk State Technical University (MSTU)"
+            },
+            "col3": {
+              "text": "Russia"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Joint research projects",
@@ -1416,10 +2290,18 @@
             }
           },
           {
-            "col1": { "text": "29" },
-            "col2": { "text": "Omsk state transport university" },
-            "col3": { "text": "Russia" },
-            "col4": { "text": "All" },
+            "col1": {
+              "text": "29"
+            },
+            "col2": {
+              "text": "Omsk state transport university"
+            },
+            "col3": {
+              "text": "Russia"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Faculty visits for teaching and research",
@@ -1430,10 +2312,18 @@
             }
           },
           {
-            "col1": { "text": "30" },
-            "col2": { "text": "Istanbul aydin university" },
-            "col3": { "text": "Turkey" },
-            "col4": { "text": "All" },
+            "col1": {
+              "text": "30"
+            },
+            "col2": {
+              "text": "Istanbul aydin university"
+            },
+            "col3": {
+              "text": "Turkey"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Exchange of students for study and research",
@@ -1448,10 +2338,18 @@
             }
           },
           {
-            "col1": { "text": "31" },
-            "col2": { "text": "Yasar University" },
-            "col3": { "text": "Turkey" },
-            "col4": { "text": "All" },
+            "col1": {
+              "text": "31"
+            },
+            "col2": {
+              "text": "Yasar University"
+            },
+            "col3": {
+              "text": "Turkey"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Development of joint academic courses and programs",
@@ -1464,10 +2362,18 @@
             }
           },
           {
-            "col1": { "text": "32" },
-            "col2": { "text": "Canakkale Onsekiz Mart University" },
-            "col3": { "text": "Turkey" },
-            "col4": { "text": "All" },
+            "col1": {
+              "text": "32"
+            },
+            "col2": {
+              "text": "Canakkale Onsekiz Mart University"
+            },
+            "col3": {
+              "text": "Turkey"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Exchange of academic members and researchers",
@@ -1479,10 +2385,18 @@
             }
           },
           {
-            "col1": { "text": "33" },
-            "col2": { "text": "Recep Tayyip University" },
-            "col3": { "text": "Turkey" },
-            "col4": { "text": "All" },
+            "col1": {
+              "text": "33"
+            },
+            "col2": {
+              "text": "Recep Tayyip University"
+            },
+            "col3": {
+              "text": "Turkey"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Exchanges of undergraduate, master’s, and PhD students",
@@ -1499,10 +2413,18 @@
             }
           },
           {
-            "col1": { "text": "34" },
-            "col2": { "text": "Adiyaman University (AU)" },
-            "col3": { "text": "Turkey" },
-            "col4": { "text": "All" },
+            "col1": {
+              "text": "34"
+            },
+            "col2": {
+              "text": "Adiyaman University (AU)"
+            },
+            "col3": {
+              "text": "Turkey"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Faculty visits for teaching and research",
@@ -1513,10 +2435,18 @@
             }
           },
           {
-            "col1": { "text": "35" },
-            "col2": { "text": "Zonguldak Bulent Ecevit University" },
-            "col3": { "text": "Turkey" },
-            "col4": { "text": "All" },
+            "col1": {
+              "text": "35"
+            },
+            "col2": {
+              "text": "Zonguldak Bulent Ecevit University"
+            },
+            "col3": {
+              "text": "Turkey"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Exchange academic materials and information",
@@ -1529,10 +2459,18 @@
             }
           },
           {
-            "col1": { "text": "36" },
-            "col2": { "text": "Duze University" },
-            "col3": { "text": "Turkey" },
-            "col4": { "text": "All" },
+            "col1": {
+              "text": "36"
+            },
+            "col2": {
+              "text": "Duze University"
+            },
+            "col3": {
+              "text": "Turkey"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Exchange of staff and students",
@@ -1545,10 +2483,18 @@
             }
           },
           {
-            "col1": { "text": "37" },
-            "col2": { "text": "University of Sussex" },
-            "col3": { "text": "United Kingdom" },
-            "col4": { "text": "All" },
+            "col1": {
+              "text": "37"
+            },
+            "col2": {
+              "text": "University of Sussex"
+            },
+            "col3": {
+              "text": "United Kingdom"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Development of joint research (doctoral/post-doctoral)",
@@ -1561,10 +2507,18 @@
             }
           },
           {
-            "col1": { "text": "38" },
-            "col2": { "text": "Constanta Maritime University" },
-            "col3": { "text": "Romania" },
-            "col4": { "text": "All" },
+            "col1": {
+              "text": "38"
+            },
+            "col2": {
+              "text": "Constanta Maritime University"
+            },
+            "col3": {
+              "text": "Romania"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Faculty visits for teaching and research",
@@ -1575,10 +2529,18 @@
             }
           },
           {
-            "col1": { "text": "39" },
-            "col2": { "text": "Cyprus Aydin University" },
-            "col3": { "text": "North Cyprus" },
-            "col4": { "text": "All" },
+            "col1": {
+              "text": "39"
+            },
+            "col2": {
+              "text": "Cyprus Aydin University"
+            },
+            "col3": {
+              "text": "North Cyprus"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Exchange of students for study and research",
@@ -1592,10 +2554,18 @@
             }
           },
           {
-            "col1": { "text": "40" },
-            "col2": { "text": "International Black Sea University" },
-            "col3": { "text": "Georgia" },
-            "col4": { "text": "All" },
+            "col1": {
+              "text": "40"
+            },
+            "col2": {
+              "text": "International Black Sea University"
+            },
+            "col3": {
+              "text": "Georgia"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Exchange of staff for training or research",
@@ -1609,10 +2579,18 @@
             }
           },
           {
-            "col1": { "text": "41" },
-            "col2": { "text": "Universidade De Jaen" },
-            "col3": { "text": "Spain" },
-            "col4": { "text": "All" },
+            "col1": {
+              "text": "41"
+            },
+            "col2": {
+              "text": "Universidade De Jaen"
+            },
+            "col3": {
+              "text": "Spain"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Exchange of staff and students for research purposes",
@@ -1623,10 +2601,18 @@
             }
           },
           {
-            "col1": { "text": "42" },
-            "col2": { "text": "Eotvos Lorand University" },
-            "col3": { "text": "Hungary" },
-            "col4": { "text": "All" },
+            "col1": {
+              "text": "42"
+            },
+            "col2": {
+              "text": "Eotvos Lorand University"
+            },
+            "col3": {
+              "text": "Hungary"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Exchange of staff and students for research purposes",
@@ -1637,10 +2623,18 @@
             }
           },
           {
-            "col1": { "text": "43" },
-            "col2": { "text": "Dunarea de Jos University of Galati" },
-            "col3": { "text": "Romania" },
-            "col4": { "text": "All" },
+            "col1": {
+              "text": "43"
+            },
+            "col2": {
+              "text": "Dunarea de Jos University of Galati"
+            },
+            "col3": {
+              "text": "Romania"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Development of joint research projects",
@@ -1653,10 +2647,18 @@
             }
           },
           {
-            "col1": { "text": "44" },
-            "col2": { "text": "University of York" },
-            "col3": { "text": "United Kingdom" },
-            "col4": { "text": "All" },
+            "col1": {
+              "text": "44"
+            },
+            "col2": {
+              "text": "University of York"
+            },
+            "col3": {
+              "text": "United Kingdom"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Short term Students Exchange",
@@ -1667,10 +2669,18 @@
             }
           },
           {
-            "col1": { "text": "45" },
-            "col2": { "text": "University of Cagliari" },
-            "col3": { "text": "Italy" },
-            "col4": { "text": "All" },
+            "col1": {
+              "text": "45"
+            },
+            "col2": {
+              "text": "University of Cagliari"
+            },
+            "col3": {
+              "text": "Italy"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Joint research activities",
@@ -1685,10 +2695,18 @@
             }
           },
           {
-            "col1": { "text": "46" },
-            "col2": { "text": "Obuda University" },
-            "col3": { "text": "Hungary" },
-            "col4": { "text": "All" },
+            "col1": {
+              "text": "46"
+            },
+            "col2": {
+              "text": "Obuda University"
+            },
+            "col3": {
+              "text": "Hungary"
+            },
+            "col4": {
+              "text": "All"
+            },
             "col5": {
               "list": [
                 "Joint Research and mutual fund raising",
@@ -1702,6 +2720,339 @@
             }
           }
         ]
+      }
+    ]
+  },
+  "AfricaList": {
+    "subTitle": "Africa",
+    "content": [
+      {
+        "head": [
+          {
+            "id": "col1",
+            "label": "Sl No"
+          },
+          {
+            "id": "col2",
+            "label": "Partner Institution"
+          },
+          {
+            "id": "col3",
+            "label": "Country Name"
+          },
+          {
+            "id": "col4",
+            "label": "Department"
+          },
+          {
+            "id": "col5",
+            "label": "Scope of Collaboration"
+          }
+        ],
+        "data": [
+          {
+            "col1": {
+              "text": "1"
+            },
+            "col2": {
+              "text": "Bahir Dar institute of Technology"
+            },
+            "col3": {
+              "text": "Ethiopia"
+            },
+            "col4": {
+              "text": "All"
+            },
+            "col5": {
+              "list": [
+                "To encourage visits by faculty from one university to the other for the purpose ofengaging in teaching and research",
+                "To facilitate the exchange of qualified students from one university to the other for the purpose of upskilling in undergraduate and graduate programs as non-degree seeking exchange students",
+                "To foster the exchange of academic publications and scholarly information",
+                "To promote other academic activities which enhance the aforementioned goals"
+              ]
+            }
+          },
+          {
+            "col1": {
+              "text": "2"
+            },
+            "col2": {
+              "text": "VAAL University of Technology"
+            },
+            "col3": {
+              "text": "South Africa"
+            },
+            "col4": {
+              "text": "All"
+            },
+            "col5": {
+              "list": [
+                "Students exchange for research and study",
+                "Faculty Exchanges",
+                "Short term Training Programs",
+                "Visiting Scholar Activities",
+                "Short term training Programs",
+                "Dual Degree and Joint Degree programs",
+                "Fellowship Programs"
+              ]
+            }
+          },
+          {
+            "col1": {
+              "text": "3"
+            },
+            "col2": {
+              "text": "University of Venda"
+            },
+            "col3": {
+              "text": "South Africa"
+            },
+            "col4": {
+              "text": "All"
+            },
+            "col5": {
+              "list": [
+                "To hold jointly organised meetings/workshops, on subjects of mutual interest",
+                "To use staff members from the respective partner University as external examiners, specifically at postgraduate levels",
+                "To benchmark their teaching and learning methods",
+                "To exchange staff and students, including exchange of administrators",
+                "To develop joint staff development programmes",
+                "To undertake collaborative research, teaching and learning and community engagement activities and share the results",
+                "To cooperate in the field of community engagement, including work integrated learning",
+                "To cooperate with each other and as appropriate, with relevant national, regional, and international institutions operating within the region in the design, implementation and assessment of capacity development initiatives to achieve maximum impact on matters of common interest",
+                "To develop joint student initiatives"
+              ]
+            }
+          },
+          {
+            "col1": {
+              "text": "4"
+            },
+            "col2": {
+              "text": "THE UNIVERSITY OF KWAZULU-NATAL"
+            },
+            "col3": {
+              "text": "South Africa"
+            },
+            "col4": {
+              "text": "All"
+            },
+            "col5": {
+              "list": [
+                "Exchange of students for study and research",
+                "Short-term programs",
+                "Exchange of academic staff for teaching and research",
+                "Collaboration on research projects and publications",
+                "Organizing joint seminars, conferences and other scientific events",
+                "Cooperation in online learning and organization of webinars",
+                "Development of joint and dual degree programs or articulation and progression agreements",
+                "Organizing joint cultural activities designed to promote international understanding"
+              ]
+            }
+          },
+          {
+            "col1": {
+              "text": "5"
+            },
+            "col2": {
+              "text": "Jimma University"
+            },
+            "col3": {
+              "text": "Ethiopia"
+            },
+            "col4": {
+              "text": "All"
+            },
+            "col5": {
+              "list": [
+                "To encourage visits by faculty from one university to the other for the purpose of engaging in teaching and research",
+                "To facilitate the exchange of qualified students from one university to the other for the purpose of: Up skilling in undergraduate and graduate programs as non-degree seeking exchange students and  Twinning, Join degree or Dual degree programs with credit transfer facilities through mutual consent",
+                "To foster the exchange of academic publications and scholarly information",
+                "To promote other academic activities which enhance the aforementioned goals"
+              ]
+            }
+          },
+          {
+            "col1": {
+              "text": "6"
+            },
+            "col2": {
+              "text": "Botswana International University of Science and Technology"
+            },
+            "col3": {
+              "text": "Botswana"
+            },
+            "col4": {
+              "text": "All"
+            },
+            "col5": {
+              "list": [
+                "Exchange of faculty and researchers for the purpose of teaching, conducting lectures, conducting research, and exchange of expertise",
+                "Exchange of students, subject to terms to be outlined in a separate student exchange agreement",
+                "Conducting collaborative research projects",
+                "Jointly organize symposia, Seminars and Conferences",
+                "Exchange of academic information and conferences"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "AmericaList": {
+    "subTitle": "America",
+    "content": [
+      {
+        "head": [
+          {
+            "id": "col1",
+            "label": "Sl No"
+          },
+          {
+            "id": "col2",
+            "label": "Partner Institution"
+          },
+          {
+            "id": "col3",
+            "label": "Country Name"
+          },
+          {
+            "id": "col4",
+            "label": "Department"
+          },
+          {
+            "id": "col5",
+            "label": "Scope of Collaboration"
+          }
+        ],
+        "data": [
+          {
+            "col1": { "text": "1" },
+            "col2": { "text": "Embry–Riddle Aeronautical University" },
+            "col3": { "text": "USA" },
+            "col4": { "text": "SONG-Lab, Electrical Engineering and Computer science department, Daytone Beach Campus" },
+            "col5": {
+              "list": [
+                "Faculty Exchanges",
+                "Students Exchanges",
+                "Exchange of Academic Publications",
+                "To Promote Academic Activities"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "2" },
+            "col2": { "text": "Crown University International Chartered Inc." },
+            "col3": { "text": "Argentina" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Faculty Exchanges",
+                "Students Exchanges",
+                "Exchange of Academic Publications",
+                "To Promote Academic Activities"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "3" },
+            "col2": { "text": "Universidade Paulista" },
+            "col3": { "text": "Brazil" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Exchange of teaching and research personnel",
+                "Students Exchanges",
+                "Cooperative development of course and academic programs.",
+                "Development of joint scientific and/or technical research projects.",
+                "Colloboration in the area of academic Publications.",
+                "Other activities of mutual interest regarding academic or scientific and technological researching matters",
+                "Proctoring Test Center"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "4" },
+            "col2": { "text": "Yeshiva University" },
+            "col3": { "text": "USA" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Collaborative academic degree programs",
+                "Instructional and cultural Programs",
+                "Exchange of Students",
+                "Exchange of Faculty and staff",
+                "Cooperative Education"
+              ]
+            }
+          },
+          {
+            "col1": { "text": "5" },
+            "col2": { "text": "The Federal University of Tocantins" },
+            "col3": { "text": "Brazil" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Faculty Exchanges",
+                "Students Exchanges",
+                "Joint Publications",
+                "Dual Degree Programs",
+                "Joint organization of seminars, workshops, courses, conferences, lectures and other similar activities related to their academic and scientific programs."
+              ]
+            }
+          },
+          {
+            "col1": { "text": "6" },
+            "col2": { "text": "University of Campinas" },
+            "col3": { "text": "Brazil" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "To foster academic cooperation by means of common research projects and or the exchange of the technical-administrative staff of each institution",
+                "Students Exchanges.",
+                "Faculty Exchanges."
+              ]
+            }
+          },
+          {
+            "col1": { "text": "7" },
+            "col2": { "text": "Universidade Do Estado Do Rio De Janeiro" },
+            "col3": { "text": "Brazil" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Agree to the establishment of friendly and cooperative relations."
+              ]
+            }
+          },
+          {
+            "col1": { "text": "8" },
+            "col2": { "text": "Universidade Federal De Ciencias Da Saude De Porto Alegre" },
+            "col3": { "text": "Brazil" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "The object is to promote academic cooperation in order to promote the exchange of academic staffs/researches, graduate students, Undergraduate students, with mutual recognition of undergraduate studies, of the respective institutions."
+              ]
+            }
+          },
+          {
+            "col1": { "text": "9" },
+            "col2": { "text": "Universidad Autónoma del Estado de Hidalgo" },
+            "col3": { "text": "Mexico" },
+            "col4": { "text": "All" },
+            "col5": {
+              "list": [
+                "Exchange of faculty, staff and researchers",
+                "Exchange of students",
+                "To foster the exchange of academic publications and Scholarly information.",
+                "To Collaborate on possible sustainable Development goals.",
+                "To promote other academic activities which enhance the aforementioned goals."
+              ]
+            }
+          }
+        ]
+        
       }
     ]
   }
