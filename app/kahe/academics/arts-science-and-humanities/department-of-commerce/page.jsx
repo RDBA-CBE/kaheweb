@@ -1,4 +1,4 @@
-import DeptOfCommerce from "@/components/00-Kahe/AcademicsComponents/DeptOfCommerce.jsx";
+import DeptOfCommerce from "@/components/00-Kahe/AcademicsComponents/Arts/DeptOfCommerce.jsx";
 
 
 export const metadata = {

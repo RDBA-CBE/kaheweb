@@ -59,7 +59,19 @@ const TrainingTabInnerSec = ({ tabSections, tabContent }) => {
               <ImageCard2 data={funcOfTrainingContent?.activities?.items1} />
             </section>
 
-            <section className="section-bg1">
+            {funcOfTrainingContent?.OtherActivities && (
+              <section className="section-bg1">
+                <h4 className="main-sub-ti ">
+                  {FirstLetterUp(funcOfTrainingContent?.OtherActivities?.title)}
+                </h4>
+
+                <ImageCard2
+                  data={funcOfTrainingContent?.OtherActivities?.items1}
+                />
+              </section>
+            )}
+
+            <section className="mb-5">
               <div className=" training">
                 <ImageCard
                   visionItem={funcOfTrainingContent?.offerToTheStudent}

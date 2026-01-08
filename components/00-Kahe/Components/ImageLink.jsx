@@ -3,6 +3,7 @@
 import { useEffect, useState } from "react";
 import {
   FirstLetterUp,
+  renderWithSplitChar,
   splitChar,
   splitFirstAndRemaining,
 } from "@/utils/functions.utils";
@@ -56,7 +57,7 @@ const ImageLink = ({ data, firstParaLimit, firstParaSplit, order }) => {
 
                 {/* First part */}
                 {firstPart && (
-                  <p>{splitChar(firstPart, firstParaSplit ?? 700)}</p>
+                  <p>{splitChar(firstPart, firstParaSplit ?? 700,item?.tagClasses)}</p>
                 )}
 
                 {item?.links && item?.links.length > 0 && (
@@ -110,13 +111,13 @@ const ImageLink = ({ data, firstParaLimit, firstParaSplit, order }) => {
 
               {item?.src && (
                 <div className="imageLink-item2">
-                  <img src="/images/Kahe/about/RTI/righttoinformation.png" alt={item.title || ""} />
+                  <img src={item.src || "/images/Kahe/team-13.png"} alt={item.title || ""} />
                 </div>
               )}
 
               {/* Remaining part */}
               {remaining && (
-                <p className="mt-4">{splitChar(remaining, splitLimit)}</p>
+                <p className="mt-4">{splitChar(remaining, splitLimit,item?.tagClasses)}</p>
               )}
             </div>
           );

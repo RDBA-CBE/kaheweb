@@ -1,16 +1,11 @@
 "use client";
 
 import BreadCrumb from "@/components/00-Kahe/common-components/BreadCrumb";
-// import MenuData from "@/data/kahe/MegaMenu.json";
-// import BreadcrumbImage from "../../../../../public/images/Kahe/breadcrumb/banner-inner1.jpg";
-// import CourseData from "../../../../../data/course-details/courseData.json";
 import TabInnerSection from "@/components/00-Kahe/Components/TabInnerSection";
 import { subMenu } from "@/JSON/ACADEMIC/Overview";
-import data from "../../../JSON/ACADEMIC/Arts/dept_of_biochemistry.json";
+import data from "../../../../JSON/ACADEMIC/Arts/dept_of_biochemistry.json";
 import InnerBanner from "@/components/00-Kahe/common-components/InnerBanner";
-import Sidebar from "../common-components/Sidebar";
-import { base } from "@/utils/constant.util";
-import Sidebar2 from "../common-components/Sidebar2";
+import Sidebar2 from "../../common-components/Sidebar2";
 import { Provider } from "react-redux";
 import Context from "@/context/Context";
 import Store from "@/redux/store";

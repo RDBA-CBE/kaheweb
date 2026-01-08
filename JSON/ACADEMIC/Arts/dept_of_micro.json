@@ -1,5 +1,5 @@
 {
-  "title": "Department of Biotechnology",
+  "title": "Department of Microbiology",
   "bannerCon": "The University of Wyoming welcomes students to experience a one-of-a-kind education in the heart of the Mountain West.",
   "applyLink": "#",
   "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
@@ -36,12 +36,9 @@
         {
           "type": "overview",
           "subTitle": "Overview",
-          "contents": "The Department Biotechnology was established in 2001 at Karpagam Arts and Science College then the KASC promoted in 2009 as Karpagam Academy of Higher Education (KAHE) (Deemed University). The Department of Biotechnology offering 4 year B.Sc., Biotechnology programmes, 2 year M.Sc., Biotechnology programme, and Ph.D. in Biotechnology programme. The Department of Biotechnology at KAHE is a Centre for excellence in research with excellent faculty members. The department mainly concentrating research on Natural Products, Phytotherapeutics, Functional Foods, Nano Biotechnology, Plant Molecular Biology, Environmental Toxicology, Cancer Biology and Bioinformatics. Also the department established a Centre of excellence for Natural Products and Functional Foods and Bioinformatics. The progress of the department is consistent over the years and received a research grants Rs. 2.01 crores from DBT, DST, SERB and TNSCST. During the last 10 years, the department has made all round progress and is on par with the well-established departments of the KAHE. It is commendable to mention that the department is recognized by DST and recipient of Rs. 44.80 Lakhs from the DST-FIST, Govt. of India for the infrastructure improvement of the development. Through these research grants our faculties have published more than 254 research articles during last five years. At present the department holds 4 Indian patents. The Department holds two Centre of excellence Centre for Natural Products and Functional Foods and Centre for Bioinformatics with highly sophisticated instruments such as Ultra-High Performance Liquid Chromatography, Atomic Absorption Spectrophotometer, 2D Gel Electrophoresis, Particle Bombardment (Gene Gun), Florescence Microscope, Fourier transform infrared Spectroscopy, High Performance Liquid Chromatography and Gas Chromatography.",
-          "image": [
-            { "src": "/images/others/video-07.jpg" },
-            { "src": "/images/others/video-07.jpg" },
-            { "src": "/images/others/video-07.jpg" }
-          ]
+          "contents": "The Department of Microbiology was established in the academic year 2002-2003, with more than 5000 sq. ft. of laboratory facility. The department comprises all the essential equipment and provides a holistic atmosphere for the students to work around. The facility encompasses Fermenter, HPLC, GC-FID, Walk-in Cold Room, Walk-in Hot Room, Multi ELISA Reader, Free Drier, Phase Contrast Microscope, Shaker Incubator, PCR, Agarose Gel Electrophoresis and SDS-PAGE Electrophoresis.The department possesses excellent library facilities, which includes latest editions of Books, National/International Journals and Magazines covering all fields of Microbiology i.e., Bacteriology, Virology, Microbial Physiology, Microbial Genetics, Mycology, Parasitology, Immunology, Industrial Microbiology, Environmental Microbiology etc. The department offers B.Sc., M.Sc., and Ph.D. research programs. The department is equipped with well-qualified, dedicated and experienced faculty members.The faculty members are regularly updating their knowledge by attending online and offline Faculty Development Programme (FDP) through SWAYAM, and Faculty Immersion Programme (FIP). The department has received six major research grants from various funding agencies such as UGC, ICMR, DBT, DST and TNSCST for research work since the inception of the department and received 1.14 crore as research grant. The salient findings of the research activities of the department are regularly being published in Web of Science and Scopus indexed journals and presented in international and national conferences and other scientific meets. The publications are widely cited and fetched good h-index. Further, 10 patents have been granted and 35 gene sequences have so far been submitted. The department is regularly organizing conferences, seminars, workshops/skill development programs, guest lectures, exhibitions and competitions. It is conducting Value Added Courses (VAC) like Mushroom Cultivation, Pharmaceutical Microbiology and Biofertilizers etc. Thus, students can get placed in both private and government sectors.The goal of our department is to promote quality and value-based education by motivating the practical skills of students and creating awareness on the recent advances in Microbiology which will make each student as a renovator to seek remedy for the future with a mission and vision.",
+          "image": "/images/others/video-07.jpg"
+         
         },
 
         {
@@ -49,8 +46,9 @@
           "subTitle": "Vision",
           "src": "/images/Kahe/Innerpages/vision.png",
           "content": [
-            "To impart the knowledge of biology and technology to students to reform society by creating innovative technology and products.",
-            "To develop the department as a potential center for research in various disciplines of biotechnology, genomics, proteomics and bioinformatics."
+            "To provide quality education of global standard on current advances in life sciences, technology and social demands, with emphasis on commitment to educational excellence and social progress."
+
+            
           ]
         },
         {
@@ -58,9 +56,7 @@
           "subTitle": "Mission",
           "src": "/images/Kahe/Innerpages/goal.png",
           "content": [
-            "Educating the students to acquire knowledge and skills, to comprehend and commercialize technologies and products.",
-            "Training the learners to find out the new technologies and products based on the applications of the life sciences.",
-            "Making the students to involve in multi-disciplinary research for providing the solutions to solve the issues on human and animal health, agriculture and environment by their technologies. "
+            "To promote quality and value-based education by motivating the technical skills of students and creating awareness on the recent advances in Microbiology and research fields worldwide, making each student a better citizen of India."
           ]
         },
 
@@ -72,13 +68,13 @@
             "content": [
               {
                 "icon": "rs-icon-book",
-                "value": "254",
-                "label": "Publications"
+                "value": "2002",
+                "label": "Established"
               },
               {
                 "icon": "rs-icon-book",
-                "value": "9",
-                "label": "Patents"
+                "value": "11",
+                "label": "Faculty & Staff"
               },
               {
                 "icon": "rs-icon-fund",

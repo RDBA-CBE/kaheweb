@@ -74,7 +74,7 @@ const PerformingArtsDean = (props) => {
           </section>
 
           <div className="section-wid ">
-            <ImageLink data={InterAdmin?.PerformingArtsDean} />
+            <ImageLink data={InterAdmin?.PerformingArtsDean} firstParaLimit={9999} firstParaSplit={9999} />
           </div>
           <section className="bg-lgreen section-bg1">
             <Mission title="Accomplishments" missionItems={missionData} />

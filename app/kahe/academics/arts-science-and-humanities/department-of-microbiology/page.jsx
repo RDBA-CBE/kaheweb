@@ -1,15 +1,14 @@
-import BreadCrumb from "@/components/00-Kahe/common-components/BreadCrumb";
-
+import DeptOfMicroBio from "@/components/00-Kahe/AcademicsComponents/Arts/DeptOfMicroBio";
 
 export const metadata = {
-  title: "About Us 01 - Online Courses & Education NEXTJS14 Template",
-  description: "Online Courses & Education NEXTJS14 Template",
+  title: "Best Microbiology College in Coimbatore, Tamilnadu",
+  description: "KAHE is the Best Microbiology College in Coimbatore. Get the best start to your career in microbiology with modern teaching methods and cutting-edge facilities.",
 };
+
 const page = () => {
   return (
     <>
-      <BreadCrumb  />
-      <h5>Dept of micro biology</h5>
+     <DeptOfMicroBio/>
     </>
   );
 };

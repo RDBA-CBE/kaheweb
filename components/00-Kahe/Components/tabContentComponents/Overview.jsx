@@ -1,12 +1,15 @@
 "use client";
 
-import { 
-  FirstLetterUp, 
-  splitChar, 
-  splitFirstAndRemaining 
+import {
+  FirstLetterUp,
+  splitChar,
+  splitFirstAndRemaining,
 } from "@/utils/functions.utils";
 import React, { useEffect, useState } from "react";
 import ImageCard from "../ImageCard";
+import Slider from "../../common-components/Slider";
+import CounterStyle from "../CounterStyle";
+import ImageLink from "../ImageLink";
 
 const Overview = ({ overviewContent }) => {
   const overviewItem = overviewContent?.find(
@@ -15,8 +18,14 @@ const Overview = ({ overviewContent }) => {
   const visionItem = overviewContent?.find((item) => item.type === "vision");
   const missionItem = overviewContent?.find((item) => item.type === "mission");
 
+  const highlightItem = overviewContent?.find((item) => item.type === "highlights");
+  const hodItem = overviewContent?.find((item) => item.type === "hod");
+
   const [splitLimit, setSplitLimit] = useState(350);
-  const [splitResult, setSplitResult] = useState({ firstPart: "", remaining: "" });
+  const [splitResult, setSplitResult] = useState({
+    firstPart: "",
+    remaining: "",
+  });
 
   // Decide split size by screen width
   const getSplitLimit = (width) => {
@@ -42,7 +51,10 @@ const Overview = ({ overviewContent }) => {
   useEffect(() => {
     if (overviewItem?.contents) {
       // Use splitFirstAndRemaining with 2 paragraphs worth of content
-      const result = splitFirstAndRemaining(overviewItem.contents, splitLimit * 2);
+      const result = splitFirstAndRemaining(
+        overviewItem.contents,
+        splitLimit * 2
+      );
       setSplitResult(result);
     }
   }, [overviewItem, splitLimit]);
@@ -51,7 +63,7 @@ const Overview = ({ overviewContent }) => {
 
   return (
     <div className="overview-main-wrapper" id="overview">
-      <div className="overview-flex section-bg1">
+      <div className="overview-flex section-bg1 d-xl-flex ">
         <div className="overview-left">
           <div className="overview-left-in">
             <h2
@@ -60,19 +72,25 @@ const Overview = ({ overviewContent }) => {
                 __html: FirstLetterUp(overviewItem.subTitle),
               }}
             ></h2>
-            
+
             {/* Render first part with proper sentence splitting */}
             {splitResult.firstPart && (
               <div className="first-part-content">
-                {splitChar(splitResult.firstPart, splitLimit)}
+                {splitChar(splitResult.firstPart, splitLimit,overviewItem?.tagClasses)}
               </div>
             )}
           </div>
         </div>
 
-        <div className="overview-right">
-          <img src={overviewItem.image} alt="overview image" />
-        </div>
+        {Array.isArray(overviewItem.image) && overviewItem.image.length > 0 ? (
+          <div className="overview-right pb--60 swiper rbt-dot-bottom-center banner-swiper-active">
+            <Slider data={overviewItem.image} />
+          </div>
+        ) : (
+          <div className="overview-right">
+            <img src={overviewItem.image} alt="overview image" />
+          </div>
+        )}
       </div>
 
       {/* Render remaining content if exists */}
@@ -80,7 +98,7 @@ const Overview = ({ overviewContent }) => {
         <div className="section-bg2" style={{ margin: "40px 0" }}>
           <div className="section-wid">
             <div className="remaining-content">
-              {splitChar(splitResult.remaining, splitLimit)}
+              {splitChar(splitResult.remaining, splitLimit,overviewItem?.tagClasses)}
             </div>
           </div>
         </div>
@@ -91,6 +109,19 @@ const Overview = ({ overviewContent }) => {
           <ImageCard visionItem={visionItem} missionItem={missionItem} />
         </div>
       )}
+
+     {highlightItem && (
+       <section className="section-bg1">
+         <CounterStyle data={highlightItem?.items} />
+       </section>
+     )}
+
+     {hodItem &&
+      <section className="section-wid section-bg1">
+        <ImageLink data={hodItem?.items} />
+      </section>
+      
+     }
     </div>
   );
 };
