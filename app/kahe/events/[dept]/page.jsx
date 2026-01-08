@@ -25,9 +25,23 @@ const Page = () => {
     title: "Events",
   };
 
+  //  const breadcrumbItems = [
+  //   { label: "Academics", href: `academics` },
+  //   {
+  //     label: "Arts, Science, Commerce and Management",
+  //     href: `academics/arts-science-and-humanities/`,
+  //   },
+
+  //   { label: "Department of BioTechnology",
+  //        href: `/academics/arts-science-and-humanities/department-of-biotechnology`,
+  //    },
+  //   { label: "Faculty" },
+  // ];
+
   return (
     <>
       <InnerSubBanner data={bannerCon} />
+      {/* <Breadcrumb items={breadcrumbItems} /> */}
       <Eventspage eventsContent={eventsContent}/>
      
     </>

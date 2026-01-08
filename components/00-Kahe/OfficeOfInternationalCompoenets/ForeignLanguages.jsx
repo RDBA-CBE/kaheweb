@@ -7,7 +7,10 @@ import { Provider } from "react-redux";
 import Context from "@/context/Context";
 import Store from "@/redux/store";
 import Sidebar2 from "../common-components/Sidebar2";
-import { OfficeOfInternationalAffairsJson, Research } from "@/JSON/ACADEMIC/Overview";
+import {
+  OfficeOfInternationalAffairsJson,
+  Research,
+} from "@/JSON/ACADEMIC/Overview";
 import ImageLink from "../Components/ImageLink";
 import PaginationTable from "../Components/PaginationTable";
 import SliderContent from "../Components/SliderContent";
@@ -27,13 +30,16 @@ const ForeignLanguages = () => {
         <Context>
           <InnerBanner data={InterAdmin?.bannerCon} />
           <section className="bg-white breadcrumb sticky-top">
-            <StickyBreadcrumb items={breadcrumbItems}  />
+            <StickyBreadcrumb items={breadcrumbItems} />
           </section>
-        
 
           <section className=" ">
             <div className="section-wid">
-              <ImageLink data={InterAdmin?.Overview}  />
+              <ImageLink
+                data={InterAdmin?.Overview}
+                firstParaLimit={9999}
+                firstParaSplit={9999}
+              />
             </div>
           </section>
           <section className=" section-bg1">

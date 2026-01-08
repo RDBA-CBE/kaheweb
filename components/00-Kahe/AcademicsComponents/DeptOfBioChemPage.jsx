@@ -8,8 +8,6 @@ import TabInnerSection from "@/components/00-Kahe/Components/TabInnerSection";
 import { subMenu } from "@/JSON/ACADEMIC/Overview";
 import data from "../../../JSON/ACADEMIC/Arts/dept_of_biochemistry.json";
 import InnerBanner from "@/components/00-Kahe/common-components/InnerBanner";
-import Sidebar from "../common-components/Sidebar";
-import { base } from "@/utils/constant.util";
 import Sidebar2 from "../common-components/Sidebar2";
 import { Provider } from "react-redux";
 import Context from "@/context/Context";
