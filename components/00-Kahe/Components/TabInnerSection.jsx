@@ -42,10 +42,6 @@ const TabInnerSection = ({ tabSections, tabContent }) => {
 
         {overviewContent && <Overview overviewContent={overviewContent} />}
 
-        {/* {NumericalsContent} */}
-
-        
-
         {programmeContent && (
           <div
             className="rbt-course-feature-box details-wrapper section-bg1"

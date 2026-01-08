@@ -1,0 +1,813 @@
+{
+  "title": "Department of Microbiology",
+  "bannerCon": "The University of Wyoming welcomes students to experience a one-of-a-kind education in the heart of the Mountain West.",
+  "applyLink": "#",
+  "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+  "tabs": [
+    {
+      "id": "overview",
+      "label": "Overview"
+    },
+    {
+      "id": "programme",
+      "label": "Programme"
+    },
+    {
+      "id": "faculty",
+      "label": "Faculty"
+    },
+    {
+      "id": "infrastructure",
+      "label": "Infrastructure"
+    },
+    {
+      "id": "publications",
+      "label": "Publications"
+    },
+    {
+      "id": "events",
+      "label": "Events"
+    }
+  ],
+  "tabContent": [
+    {
+      "tab": "Overview",
+      "items": [
+        {
+          "type": "overview",
+          "subTitle": "Overview",
+          "contents": "The Department of Microbiology was established in the academic year 2002-2003, with more than 5000 sq. ft. of laboratory facility. The department comprises all the essential equipment and provides a holistic atmosphere for the students to work around. The facility encompasses Fermenter, HPLC, GC-FID, Walk-in Cold Room, Walk-in Hot Room, Multi ELISA Reader, Free Drier, Phase Contrast Microscope, Shaker Incubator, PCR, Agarose Gel Electrophoresis and SDS-PAGE Electrophoresis.The department possesses excellent library facilities, which includes latest editions of Books, National/International Journals and Magazines covering all fields of Microbiology i.e., Bacteriology, Virology, Microbial Physiology, Microbial Genetics, Mycology, Parasitology, Immunology, Industrial Microbiology, Environmental Microbiology etc. The department offers B.Sc., M.Sc., and Ph.D. research programs. The department is equipped with well-qualified, dedicated and experienced faculty members.The faculty members are regularly updating their knowledge by attending online and offline Faculty Development Programme (FDP) through SWAYAM, and Faculty Immersion Programme (FIP). The department has received six major research grants from various funding agencies such as UGC, ICMR, DBT, DST and TNSCST for research work since the inception of the department and received 1.14 crore as research grant. The salient findings of the research activities of the department are regularly being published in Web of Science and Scopus indexed journals and presented in international and national conferences and other scientific meets. The publications are widely cited and fetched good h-index. Further, 10 patents have been granted and 35 gene sequences have so far been submitted. The department is regularly organizing conferences, seminars, workshops/skill development programs, guest lectures, exhibitions and competitions. It is conducting Value Added Courses (VAC) like Mushroom Cultivation, Pharmaceutical Microbiology and Biofertilizers etc. Thus, students can get placed in both private and government sectors.The goal of our department is to promote quality and value-based education by motivating the practical skills of students and creating awareness on the recent advances in Microbiology which will make each student as a renovator to seek remedy for the future with a mission and vision.",
+          "image": "/images/others/video-07.jpg"
+         
+        },
+
+        {
+          "type": "vision",
+          "subTitle": "Vision",
+          "src": "/images/Kahe/Innerpages/vision.png",
+          "content": [
+            "To provide quality education of global standard on current advances in life sciences, technology and social demands, with emphasis on commitment to educational excellence and social progress."
+
+            
+          ]
+        },
+        {
+          "type": "mission",
+          "subTitle": "Mission",
+          "src": "/images/Kahe/Innerpages/goal.png",
+          "content": [
+            "To promote quality and value-based education by motivating the technical skills of students and creating awareness on the recent advances in Microbiology and research fields worldwide, making each student a better citizen of India."
+          ]
+        },
+
+        {
+          "type": "highlights",
+          "items": {
+            "title": "Highlights",
+            "src": "/images/Kahe/Innerpages/image-1.jpg",
+            "content": [
+              {
+                "icon": "rs-icon-book",
+                "value": "2002",
+                "label": "Established"
+              },
+              {
+                "icon": "rs-icon-book",
+                "value": "11",
+                "label": "Faculty & Staff"
+              },
+              {
+                "icon": "rs-icon-fund",
+                "value": "23.56 Lks",
+                "label": "Seed money granted"
+              },
+              {
+                "icon": "rs-icon-lab",
+                "value": "8",
+                "text": "Ph.D Awarded"
+              },
+              {
+                "icon": "rs-icon-complete",
+                "value": "84",
+                "text": "Events organized"
+              },
+              {
+                "icon": "rs-icon-ongoing",
+                "value": "15",
+                "text": "Internship and Higher Studies <br /> – Abroad"
+              },
+              {
+                "icon": "rs-icon-ongoing",
+                "value": "10",
+                "text": "Total Number of NPTEL  <br /> Completed Faculty"
+              },
+              {
+                "icon": "rs-icon-ongoing",
+                "value": "30",
+                "text": "Total Number of NPTEL  <br /> Completed Students"
+              },
+              {
+                "icon": "rs-icon-ongoing",
+                "value": "1",
+                "text": "Centre for Natural products <br />  and functional foods"
+              },
+
+              {
+                "icon": "rs-icon-ongoing",
+                "value": "1",
+                "text": "Centre for Bioinformatics "
+              },
+
+              {
+                "icon": "rs-icon-ongoing",
+                "value": "1",
+                "text": "Centre for Bioinformatics "
+              },
+
+              {
+                "icon": "rs-icon-ongoing",
+                "value": "201.86 Lks",
+                "text": "On going - 5 <br/> Funded project"
+              },
+              {
+                "icon": "rs-icon-ongoing",
+                "value": "138 Lks",
+                "text": "Completed - 6 <br/> Funded project"
+              }
+            ]
+          }
+        },
+        {
+          "type": "hod",
+          "items": {
+            "title": "Head of the Department (HOD)",
+            "content": [
+              {
+                "title": "Dr. A. Sangilimuthu",
+                "caption": "HOD",
+                "content": "I am glad to welcome you to the Department of Biotechnology under the Faculty of Arts, Science, Commerce and Management, Karpagam Academy of Higher Education. The Department is recognized as excellent in academic and research by Department of Science and Technology, New Delhi, India and committed to advancing education, research in frontier areas of Biotechnology, empowering young minds with scientific knowledge, research aptitude, and societal responsibility. Since joining the University in 2009, I have had the privilege of witnessing the department grow into a vibrant hub of learning, innovation, and research. Our vision is to nurture students with strong theoretical foundations and hands-on laboratory expertise, preparing them to meet global challenges in healthcare, agriculture, recombinant DNA technology, environmental biotechnology, and industrial biotechnology. As a Professor in the Department, I am proud to be part of a team of passionate and highly qualified faculty members who are deeply committed to academic excellence and research. The department’s research strength is reflected in the extensive publications in SCI/Scopus indexed journals (254 publications for the last 5 years), peer-reviewed contributions, patents, and major funded research projects supported by prestigious scientific bodies such as DBT, DST, SERB, TARE and TNSCST. The Department offers programs designed to meet the expectations of academia, industry, and research organizations. Students gain a strong research exposure through internships, industrial training, and dissertation work of publishable quality in their final semester, giving them an academic and professional advantage in pursuing careers or higher studies in India and abroad. I invite you to explore our website to learn more about the department, our faculty expertise, research focus, academic programs, achievements, and upcoming events. Thank you for your interest in the Department of Biotechnology.",
+                "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/biotech-hod.png"
+              }
+            ]
+          }
+        }
+      ]
+    },
+
+    {
+      "tab": "Programme",
+      "programmes": {
+        "title": "Programmes",
+        "content": [
+          {
+            "key": "ug",
+            "title": "Under Graduate Programme",
+            "img": "/images/others/health-b-02.png",
+            "items": ["B.Sc. Biotechnology (Strength: 60)"],
+            "type": "programme"
+          },
+          {
+            "key": "pg",
+            "title": "Post Graduate Programmes",
+            "img": "/images/others/health-b-02.png",
+            "items": ["M.Sc. Biotechnology (Strength: 60)"],
+            "type": "programme"
+          },
+          {
+            "key": "res",
+            "title": "Research Programmes",
+            "img": "/images/others/health-b-02.png",
+            "items": ["M.Phil Biotechnology", "Ph.D. Biotechnology"],
+            "type": "programme"
+          }
+        ]
+      },
+      "curriculum": {
+        "title": "Curriculum",
+        "content": [
+          {
+            "key": "bsc",
+            "title": "B.Sc Biotechnology",
+            "img": "/images/others/health-b-02.png",
+            "type": "curriculum",
+            "items": [
+              {
+                "year": "2020-2021",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/07/B.Sc_.-Biotechnology-2020-2021.pdf"
+              },
+              {
+                "year": "2021-2022",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/11/UG-2021-2022.pdf"
+              },
+              {
+                "year": "2022-2023",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/11/UG-2022-2023.pdf"
+              },
+              {
+                "year": "2023-2024",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/11/UG-2023-2024.pdf"
+              },
+              {
+                "year": "2024-2025",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/11/UG-2024-2025.pdf"
+              },
+              {
+                "year": "2025-2026",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/11/UG-2025-2026.pdf"
+              }
+            ]
+          },
+          {
+            "key": "msc",
+            "title": "M.Sc Biotechnology",
+            "img": "/images/others/health-b-02.png",
+            "type": "curriculum",
+            "items": [
+              {
+                "year": "2018-2019",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2021/01/2018-M.Sc_.-Biotechnology_Syllabus_Final.pdf"
+              },
+              {
+                "year": "2019-2020",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/07/B.Sc_.-Biotechnology-2020-2021.pdf"
+              },
+              {
+                "year": "2020-2021",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/07/B.Sc_.-Biotechnology-2020-2021.pdf"
+              },
+              {
+                "year": "2021-2022",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/07/B.Sc_.-Biotechnology-2020-2021.pdf"
+              },
+              {
+                "year": "2022-2023",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/11/UG-2022-2023.pdf"
+              },
+              {
+                "year": "2023-2024",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/11/UG-2023-2024.pdf"
+              },
+              {
+                "year": "2024-2025",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/11/UG-2025-2026.pdf"
+              },
+              {
+                "year": "2025-2026",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/11/UG-2025-2026.pdf"
+              }
+            ]
+          },
+          {
+            "key": "phd",
+            "title": "Ph.D. Biotechnology",
+            "img": "/images/others/health-b-02.png",
+            "type": "curriculum",
+            "items": [
+              {
+                "year": "2020-2021",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/07/UG-Biochemistry_Syllabus_2020-2021.pdf"
+              },
+              {
+                "year": "2022-2023",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/07/UG-Biochemistry_Syllabus_2020-2021.pdf"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "tab": "Faculty",
+      "slug": "department-of-biotechnology",
+      "basic": {
+        "title": "Faculty",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris",
+        "src": "/images/Kahe/Innerpages/vission.jpg",
+        "buttonText": "View All Faculty"
+      },
+
+      "breadcrumbItems": [
+        { "label": "Academics", "href": "`academics`" },
+        {
+          "label": "Arts, Science, Commerce and Management",
+          "href": "academics/arts-science-and-humanities/"
+        },
+
+        {
+          "label": "Department of BioTechnology",
+          "href": "/academics/arts-science-and-humanities/department-of-biotechnology"
+        },
+        { "label": "Faculty" }
+      ],
+
+      "faculty": [
+        {
+          "name": "Dr. A. Sangilimuthu",
+          "qualification": "M.Sc., M.Phil., B.Ed., Ph.D.",
+          "designation": "Professor",
+          "email": "sangilimuthu.a@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/DR.A.Sangilimuthu-One-page-biodata.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr.S.Balamurugan",
+          "qualification": "M.Sc., Ph.D.,",
+          "designation": "Associate Professor",
+          "email": "balamurugan.shanmugaraj@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Dr.S-.Balamurugan-One-page-biodata-for-KAHE-website_19.11.-2024.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr.S.Barathkumar",
+          "qualification": "M.Sc., Ph.D.",
+          "designation": "Assistant Professor",
+          "email": "barathkumar.s@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/Dr.-S.-Barathkumar.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr.C.Rajkuberan",
+          "qualification": "M.Sc., Ph.D.",
+          "designation": "Assistant Professor",
+          "email": "rajkuberan.c@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Dr.-Rajkuberan-One-page-biodata.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr.A.A.Arunkumar",
+          "qualification": "M.Sc., Ph.D.",
+          "designation": "Assistant Professor",
+          "email": "drarunkumar.aa@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Dr-ARUNKUMAR.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr.D.Prabhu",
+          "qualification": "M.Sc., Ph.D.",
+          "designation": "Assistant Professor",
+          "email": "prabhu.dhamodharan@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Dr.-PRABHU.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr.K.Chinnadurai",
+          "qualification": "M.Phil., Ph.D.",
+          "designation": "Assistant Professor",
+          "email": "chinnadurai.kuppusamy@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Dr-Chinnadurai.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr.K.Gopalakrishnan",
+          "qualification": "M.Sc., Ph.D.",
+          "designation": "Assistant Professor",
+          "email": "gopalakrishnan.kesavaperumal@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Dr.K.-Gopalakrishnan.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr.R.Srinath",
+          "qualification": "M.Sc., Ph.D",
+          "designation": "Assistant Professor",
+          "email": "srinath.rajeswaran@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Dr.-R.-Srinath-One-page-biodata.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr.R.Amsaveni",
+          "qualification": "MSc., (Ph.D)",
+          "designation": "Assistant Professor",
+          "email": "amsaveni.ramasamy@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Dr.-R.-Amsaveni-One-page-biodata-Nov-2024.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr.P.S.Reethy",
+          "qualification": "M.Sc., Ph.D., SET, PGDBD, M. Sc., Botany.,",
+          "designation": "Assistant Professor",
+          "email": "reethy.sreedharan@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/One-page-biodata-Dr.Reethy.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr.P.Balamurugan",
+          "qualification": "M.Sc., Ph.D.",
+          "designation": "Assistant Professor",
+          "email": "balamurugan.pandiyan@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/One-page-biodata-P.-Balamurugan_2024.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr.M.A. Rathi",
+          "qualification": "Ph.D.",
+          "designation": "Assistant Professor",
+          "email": "rathi.muthaiyan@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/One-page-DR.Rathi-.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Mrs.P.Nirmaladevi",
+          "qualification": "Ph.D.",
+          "designation": "Assistant Professor",
+          "email": "nirmaladevi.panneerselvam@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/One-page-biodata-2024-Nirmala-devi.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr. Dr. M. Rajkumar",
+          "qualification": "M.Sc., M.phil., PGDBI., SET., (Ph.D)",
+          "designation": "Assistant Professor",
+          "email": "rajkumar.manickam@kahedu.edu.in",
+          "profile": "",
+          "profileText": "",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr. V.V. Sathibabu Uddandrao",
+          "qualification": "M.Sc., Ph.D",
+          "designation": "Assistant Professor",
+          "email": "sathibabuuddandrao.veeraraghavulu@kahedu.edu.in",
+          "profile": "",
+          "profileText": "",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        }
+      ]
+    },
+
+    {
+      "tab": "Infrastructure",
+      "items": [
+        {
+          "type": "infrastructure",
+          "title": "Department Infrastructure",
+          "content": [
+            {
+              "title": "Staff room",
+              "count": "05"
+            },
+            {
+              "title": "Class room",
+              "count": "08"
+            }
+          ]
+        },
+        {
+          "type": "laboratories",
+          "title": "Facilities laboratories List",
+          "content": [
+            "UG & PG Biotechnology labs",
+            "Plant Tissue culture lab",
+            "Microbiology lab",
+            "Animal Tissue culture lab",
+            "Research and Development lab",
+            "Animal house and Instrumentation lab",
+            "Central Instrumentation Facility",
+            "Drug design and development lab"
+          ]
+        },
+        {
+          "type": "equipment",
+          "title": "Major Research Equipments",
+          "content": [
+            "Inverted, Binocular and Trinocular Microscope",
+            "Fluorescence microscope",
+            "Phase contrast microscope",
+            "Deep Freezers",
+            "PCR",
+            "Real Time PCR",
+            "ELISA",
+            "AAS",
+            "UV-Visible Spectrophotometer",
+            "Gel documentation system",
+            "Southern Blotting Unit",
+            "Western Blotting Unit",
+            "Electrophoresis units",
+            "Walk-in Cold room",
+            "Walk-in Hot room",
+            "Cooling Centrifuge",
+            "Ultra Centrifuge",
+            "CO2, BOD and Biological Incubators",
+            "2D PAGE system",
+            "Particle gun bombardment"
+          ]
+        },
+
+        {
+          "type": "library",
+          "title": "Department Library",
+          "content": [
+            "Total number of reference books: 107",
+            "Newsletters : 15",
+            "Journals : 15",
+            "Proceedings : 22",
+            "Ph.D thesis : 32"
+          ]
+        },
+        {
+          "type": "gallery",
+          "slug": "department-of-biotechnology",
+          "images": [
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/SCIENCE-ACADEMIES-14-3-150x150.png",
+              "alt": "Karpagam Academy of Higher Education | information technology colleges in coimbatore"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/SCIENCE-ACADEMIES-14-2-150x150.png",
+              "alt": "Karpagam Academy of Higher Education | be cyber security colleges in tamilnadu"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/SCIENCE-ACADEMIES-14-1-150x150.png",
+              "alt": "Karpagam Academy of Higher Education | b.tech artificial intelligence and data science colleges in tamilnadu"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/NCBHW14-1-150x150.png",
+              "alt": "Karpagam Academy of Higher Education | artificial intelligence colleges in tamilnadu"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/NCBHW14-150x150.png",
+              "alt": "Karpagam Academy of Higher Education | best mba colleges in coimbatore under tancet"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/NCBBE-14_2-150x150.png",
+              "alt": "Karpagam Academy of Higher Education | best mca colleges in tamilnadu,India"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tab": "Publications",
+      "slug": "department-of-biotechnology",
+      "title": "Best Five Papers Faculty wise:",
+      "subtitle": "Paper Publications by the Faculty Members",
+      "content": [
+        {
+          "faculty_name": "Dr.A.SANGILIMUTHU",
+          "content": [
+            "Suvathika, G., Manoharan, S.P., Baskar, S., Rajiv, A., Swaminathan, H., & Yadav, S.A. (2025). Evaluation and identification of nutritional factors, cytotoxic condition, and protodioscin in Dioscorea alata tuber. South African Journal of Botany, 178, 131–138. (Impact Factor: 2.7)",
+            "Arumugam, G., & Alagar Yadav, S. (2024). Synergistic inhibitory actions of resveratrol, epigallocatechin-3-gallate, and diallyl trisulfide against skin cancer cell line A431 through mitochondrial caspase-dependent pathway: a combinational drug approach. Medical Oncology, 41(3), 64. (Impact Factor: 2.8)",
+            "Lakshmanan, M., Yadav, S.A., Meti, M., Kaveri, S., Subban, R., Celestina, S.K., & Subramanyam, R. (2024). Molecular interaction studies of P3CL on bovine serum albumin through a biophysical approach.Journal of Biomolecular Structure and Dynamics, 1–9. (Impact Factor: 5.235)",
+            "Gnanaselvan, S., Yadav, S.A., & Manoharan, S.P. (2024). Structure-based virtual screening of anti-breast cancer compounds from Artemisia absinthium — insights through molecular docking, pharmacokinetics, and molecular dynamic simulations.Journal of Biomolecular Structure and Dynamics, 42 (6), 3267–3285. (Impact Factor: 5.235)",
+            "Manoharan, S.P., Yadav, S.A., Pandiyan, B., & Suvathika, G. (2023). Tragia plukenetii-assisted omega-decenol as a potential anticancer agent: its isolation,characterization, and validation.Applied Biochemistry and Biotechnology, 195(3), 1699–1722. (Impact Factor: 3.1)"
+          ]
+        },
+        {
+          "faculty_name": "Dr. S. BARATHKUMAR",
+          "content": [
+            "Geethalakshmi, S., Barathkumar, S., & Prabu, G. (2015). The MYB transcription factor family genes in sugarcane(Saccharum sp.). Plant Molecular Biology Reporter, 33, 512-531.",
+            "Sadasivam, B., & Gajjeraman, P. (2016). Characterization of Water-Deficit Stress-Responsive R2R3-MYBTranscription Factor Gene, ScMYB50/23 from Sugarcane. Indian Journal of Science and Technology, 9, 37.",
+            "Giruba, K. G., Barathkumar, S., Immanuel, G., & Sivagnanavelmurugan, M. (2023). Antidiabetic effect and haematological changes in alloxan induced diabetic rats treated with trash fish, Odonus niger liver oil in comparision with cod liver oil. Biochemical & Cellular Archives, 23(1)."
+          ]
+        },
+        {
+          "faculty_name": "Dr. S. BALAMURUGAN",
+          "content": [
+            "Balamurugan, S., Ravi, K., & Baladevan, K. (2025). Plant molecular farming: a promising frontier for orphan drug production. Biotechnology Letters, 47(3), 56. (Impact Factor: 2.1)",
+            "Chandra, H.M., Balamurugan, S., Sharma, A., & Ramalingam, S. (2024). Elicitation and precursor-induced approaches for the enhancement of α-tocopherol production using suspensioncultures of Solanum lycopersicum. Current Plant Biology, 39, 100377. (Impact Factor: 4.5)",
+            "Balamurugan, S., Khorattanakulchai, N., Panapitakkul, C., Malla, A., Im-Erbsin, R., Inthawong, M., &Phoolcharoen, W. (2022). Preclinical evaluation of a plant-derived SARS-CoV-2 subunit vaccine: protective efficacy, immunogenicity,safety, and toxicity. Vaccine, 40(32), 4440–4452. (Impact Factor: 3.5)",
+            "Khorattanakulchai, N., Manopwisedjaroen, S., Rattanapisit, K., Panapitakkul, C., Kemthong, T., Suttisan, N.,Balamurugan, S., & Phoolcharoen, W. (2022). Receptor-binding domain proteins of SARS-CoV-2 variants produced in Nicotiana benthamiana elicitneutralizing antibodies against variants of concern. Journal of Medical Virology, 94(9), 4265–4276. (Impact Factor: 4.6)",
+            "Singh, R., Ren, Z., Shi, Y., Lin, S., Kwon, K.C., Balamurugan, S., & Daniell, H. (2021). Affordable oral health care: dental biofilm disruption using chloroplast-made enzymes with chewing gum delivery. Plant Biotechnology Journal, 19(10), 2113–2125. (Impact Factor: 10.5)"
+          ]
+        },
+        {
+          "faculty_name": "Dr. C. RAJKUBERAN",
+          "content": [
+            "Sakthivel, A., Chandrasekaran, R., Balasubramaniam, S., Sathyanarayanan, H., Gnanajothi, K., & T, S. (2025). Nanomaterials as potential plant growth modulators: applications, mechanism of uptake, and toxicity — a comprehensive review. BioNanoScience, 15(1), 53. (Impact Factor: 3.2)",
+            "Natarajan, K., Chandrasekaran, R., Sundararaj, R., Joseph, J., & Asaithambi, K. (2025). Neuroprotective assessment of the nutraceutical (Betanin) in neuroblastoma cell line SH-SY5Y: An in vitro and in silico approach. Neurochemical Research, 50(1), 54. (Impact Factor: 3.038)",
+            "Joseph, J., T, S.K., Krishnan, M., & Chandrasekaran, R. (2025). Carthamidin-mediated silver nanoparticle synthesis, characterization, and anticancer activity — Invitro Approach. BioNanoScience, 15(1), 76. ( Impact Factor: 3.2)",
+            "Chandrasekaran, R., Krishnan, M., Chacko, S., Gawade, O., Hasan, S., Joseph, J., & Jiang, H. (2023). Assessment of anticancer properties of cumin seed (Cuminum cyminum) against bone cancer. Frontiers in Oncology, 13, 1322875. (Impact Factor: 4.7)",
+            "Chandrasekaran, R., Krishnan, M., Bupesh, G., Chacko, S., Gawade, O., Hasan, S., & Sagadevan, S. (2023). Prospective features of functional 2D nanomaterial graphene oxide in the wound healing process. Journal of Drug Delivery Science and Technology, 82, 104352. (Impact Factor: 4.7)"
+          ]
+        },
+        {
+          "faculty_name": "Dr. A. A. ARUNKUMAR",
+          "content": [
+            "Arunkumar, Anbu Aravazhi, Thirunavukkarasu Sivaraman, and Arunachalam Manimekalan. “Species Diversity and Habitat Inventory of Puntius sp. from Various Water Bodies of South India.” Journal of Pharmaceutical Sciences and Research 9(10) (2017): 1775-1784.",
+            "Arunkumar Anbu Aravazhi, Nagaraj VIJAYA LAKSHMI, and Arunachalam “Osteological characterization of the genus Puntius (Teleostei: Cyprinidae) recorded from six river systems of southern Western Ghats, India.” Iranian Journal of Ichthyology 5(2) (2018):139-166.",
+            "Arunkumar, Anbu Aravazhi, and Arunachalam Manimekalan. “Freshwater fish fauna of rivers of the southern Western Ghats, India.” (2018).",
+            "Priyanka, S., Athira, S.V., Shreeyashwanth, R., Arunkumar, A.A.Adsorption Of Wastewater Using Green Nanoparticles Synthesized from Murraya koenigii and Coriandrum sativum. Indian Journal of Environmental Protection, 2021, 41(3), pp. 325–332.",
+            "Chandrasekar, Divya, and Anbu Aravazhi Arunkumar. “Morphological and Osteological Characterization of Three Fish Species from River Noyyal of Coimbatore District, Tamil Nadu, India.” Uttar Pradesh Journal Of Zoology (2023): 44 (23), pp. 266-281."
+          ]
+        },
+        {
+          "faculty_name": "Dr. D. PRABHU",
+          "content": [
+            "Sureshan, M., Prabhu, D., & Saraboji, K. (2025). Structure-based designing of anti-filarial molecules targeting the key antioxidant enzyme glutathione peroxidase (GPx) of Wuchereria bancrofti: An integrated in silico and in vitro approach. Computers in Biology and Medicine, 195, 110669. (Impact Factor: 6.3)",
+            "Prabhu, D., Dharshini, M.K.D., Rajamanikandan, S., Padmavathi, A.R., Velusamy, P., & Gopinath, S.C.B. (2025). Potential anti-filarial molecules against ATP Binding site of MurE Enzyme: A molecular Docking and Dynamics approach to Combat Lymphatic Filariasis. Biotechnology and Applied Biochemistry, 72(5), 1184–1194. (Impact Factor: 2.7)",
+            "Prabhu, D., Shankari, G., Rajamanikandan, S., Jeyakanthan, J., Velusamy, P., Gopinath, S.C.B., & Pattabi, S.(2024). Designing potential lead compounds targeting aminoglycoside N(6′)-acetyltransferase in Serratia marcescens: A drug discovery strategy. International Journal of Biological Macromolecules, 281(Pt 1), 136976. (Impact Factor: 8.2)",
+            "Vyas, K., Prabaker, S., Prabhu, D., Sakthivelu, M., Rajamanikandan, S., Velusamy, P., Su, C.H., Gopinath, S.C.B., & Pachaiappan, R. (2024). Study of an inhibitory effect of plant polyphenolic compounds against digestive enzymes using bench-working experimental evidence predicted by molecular docking and dynamics. Int J Biol Macromol. 259 (Pt 1): 129222, 2024 (Impact Factor: 8.2).",
+            "Prabhu D, Rajamanikandan S, Amala M, Saritha P, Jeyakanthan J, Ramasamy, P. Functional Characterization, Mechanism and Mode of Action of the Putative Streptomycin Adenylyltransferase from Serratia marcescens. Antibiotics (Basel), 11, 1722, 2022 (Impact Factor: 5.22)."
+          ]
+        },
+        {
+          "faculty_name": "Dr. K. CHINNADURAI",
+          "content": [
+            "Kuppusamy, C., Ganesh, A., Sambanthan, K., Muthukumarasamy, E., & Paulraj, B.Enzyme modulation studies of fumaronitrile on freshwater fish Oreochromis mossambicus. International Journal of Bioassays, 2278, 778X. (Impact Factor: 4.8)",
+            "Chinnadurai, K., Eyini, M., & Balaji, P. (2019). Modulation of the reproductive hormone aromatase and vitellogenin in fumaronitrile-exposed Oreochromis mossambicus. Current Topics in Toxicology, 15, 123–131. (Impact Factor: 3.6)",
+            "Chinnadurai, K., Balaji, P., & Eyini, M. (2019). Evaluation of micronucleus assay and genotoxic effect in Oreochromis mossambicus exposed to fumaronitrile. Toxicology International, 26, 70–79. (Impact Factor: 1.9)",
+            "Chinnadurai, K., Prema, P., Veeramanikandan, V., Kumar, K.R., Nguyen, V.H., Marraiki, N., & Balaji, P. (2022). Toxicity evaluation and oxidative stress response of fumaronitrile, a persistent organic pollutant (POP) of industrial wastewater, on tilapia fish (Oreochromis mossambicus). Environmental Research, 204, 112030. (Impact Factor: 7.7)"
+          ]
+        },
+        {
+          "faculty_name": "Dr. K. GOPALAKRISHNAN",
+          "content": [
+            "Sravani, S., Gopalakrishnan, A., John, A. S., Ramasubramanian, R., Kesavaperumal, G.,Prabhu, N. M., … & Natarajan, S. B. (2024). Incidence of mud crab reovirus (MCRV)outbreak in polyculture ponds of Andhra Pradesh, south east coast of India. Journal of Invertebrate Pathology, 204, 108092. (IF:2.4).",
+            "Parthasarathy, S., Rajeswaran, S., Rajan, D. K., Ganesh, A., Shanmugan, P., & Kesavaperumal, G. (2024). Bio-valorization of Secondary Metabolites Produced by Actinobacterium SRV02, Isolated from Shell Waste Environment Combats Clinical Bacterial Pathogens and Ameliorates Anticancer Effects Against Lung Cancer Cells. Waste and Biomass Valorization, 15(12), 7043-7056. (IF:2.8).",
+            "Islam, S., Dutta, P., Sahay, O., Gopalakrishnan, K., Muhury, S. R., Parameshwar, P., …& Santra, M. K. (2022). Feedback‐regulated transcriptional repression of FBXO31 byc‐Myc triggers ovarian cancer tumorigenesis. International Journal of Cancer, 150(9), 1512-1524. (IF:4.7)",
+            "Chandrakumar, D., Manigundan, K., Gopalakrishnan, K., Karuppiah, V., Prasad, N. R.,Radhakrishnan, M., … & Balagurunathan, R. (2020). Novel Strain of Nocardiopsis sp.CN2 from Andaman Nicobar Islands: Isolation, Taxonomy, Fermentation, and Antiproliferative Effect on Cervical Cancer Cells. Biomedical and Biotechnology Research Journal (BBRJ), 4(3), 200-208. (IF:1.4).",
+            "Kannan, S., Ragavan, P., Gopalakrishnan, K., Salah, M., & Balasubramani, K. (2021). Mangrove floristics, forest structure and mapping of Neil Island (Andaman and Nicobar Islands, India) with emphasis on the diversity of Rhizophora species and the significance of small island mangroves. Botanica Marina, 64(3), 227-241. (IF:2.1)"
+          ]
+        },
+        {
+          "faculty_name": "Dr. R. SRINATH",
+          "content": [
+            "Rajeswaran, S., & Rajan, D.K. (2025). Neophytadiene: Biological activities and drug development prospects. Phytomedicine, 156872. (Impact Factor: 8.3)",
+            "Sathishkumar, R.S., Sundaramanickam, A., Srinath, R., Ramesh, T., Saranya, K., Meena, M., & Surya, P. (2019). Green synthesis of silver nanoparticles by bloom-forming marine microalgae Trichodesmium erythraeum and its applications in antioxidant, drug-resistant bacteria, and cytotoxicity activity. Journal of Saudi Chemical Society, 23(8), 1180–1191. (Impact Factor: 5.8)",
+            "Rajeswaran, S., Veeraiyan, B., Saravanan, V., Manickam, E., & Danaraj, J. (2025). Biogenic facile green synthesis of actinobacterium exopolysaccharide-fabricated zinc oxide nanoparticles for diverse biomedical applications. Biomass Conversion and Biorefinery, 15(1), 787–801. (Impact Factor: 4.1)",
+            "Rajeswaran, S., Somasundaram Thirugnanasambandan, S., Dewangan, N.K., Moorthy, R.K., Kandasamy, S., & Vilwanathan, R. (2020). Multifarious pharmacological applications of green-routed eco-friendly iron nanoparticles synthesized by Streptomyces sp. (SRT12). Biological Trace Element Research, 194(1), 273–283. (Impact Factor: 3.6)",
+            "Rajeswaran, S., Thirugnanasambandan, S.S., & Vilwanathan, R. (2024). Immunostimulatory effects of exopolysaccharide produced by mangrove habitat actinobacterium isolated from the marine environment of Tuticorin. Waste and Biomass Valorization, 15(6), 3823–3840. (Impact Factor: 2.8)"
+          ]
+        },
+        {
+          "faculty_name": "Dr. Rathi M A",
+          "content": [
+            "Meenakshi, S.R., Selvaraj, J., Javed, M.K., Sharmila, J., Rajkumar, P., Manikandan, V.R., Meenakshi, K.C., Rathi, M.A., Poornima, K., Chella Perumal, P., & Gopalakrishnan, V.K. (2024). Investigating the colon toxicity and carcinogenic role of monosodium glutamate compared with Dimethylhydrazine in male Wistar rats: Exploring the link to childhood colon cancer risk. Journal of King Saud University – Science, 36 (11). https://doi.org/10.1016/j.jksus.2024.103507 (Impact Factor: 3.6)",
+            "Manikandan, V.R., Meenakshi, K.C., Rathi, M.A., Gopalakrishnan, V.K. (2024) Reconnoitering the role of Lipid Metabolites in Ferroptosis. Advances in Redox Research, 14(1). https://doi.org/10.1016/j.arres.2024.100117 (Impact Factor:2.7).",
+            "Vijay, R., Drisya, V.M., Femil Selta, D.R., Rathi, M. A., Gopalakrishnan, V.K., Alkhalifah, D. H., Hozzein, W.N., (2023). Synthesis and characterization of silver nanomaterial from aqueous extract of Commelina forskaolii and its potential antimicrobial activity against Gram negative pathogens. Journal of King Saud University – Science,35(1). https://doi.org/10.1016/j.jksus.2022.102373 (Impact Factor :3.6).",
+            "Manikandan, V.R., Meenakshi, K.C., Meenakshi, S. R., Gopalakrishnan, V.K., Rathi, M.A., Guru, K.D., Mikhlid, H. A., Bader, O. A., Ameer, K., Ponnuswamy, V., (2024). Deciphering the therapeutic, larvicidal, and chemical pollutant degrading properties of leaves-mediated silver nanoparticles obtained from Alpinia purpurata. BioResources, 19(2). ( Impact Factor :1.74).",
+            "Kannappan, P., Meenakshi, K.C, Manikandan, V.R., Shankari, G., Prabhu, D., Rathi, M A., Chella Perumal, P., Balaji Raju, Gopalakrishnan, V.K. (2025). Exploring the anticancer potential of Jerantinine A from Tabernaemontana coronaria against prostate, breast, and ovarian cancers: a computational approach. Journal of Complementary and Integrative Medicine 22(2). 10.1515/jcim-2024-0443. (Impact Factor1.41)"
+          ]
+        },
+        {
+          "faculty_name": "Mrs. P. Nirmaladevi",
+          "content": [
+            "Dugganaboyana, G.K., Kannankumar, M.K.G., Shivaramakrishna, S., Raju, M.V., Chandrasekaran, M.K., Ahalliya,R.M., Panneerselvam, N., Palanisamy, C.P., & Kanniappan, G.V. (2025). Phytochemical insights, antioxidant activity and therapeutic potential of Cassia senna against prostate cancer in Wistar albino rats. Deleted Journal, 7(10). https://doi.org/10.1007/s42452-025-07392-5. (Impact Factor: 2.6)",
+            "Sugunadevi, G., Suresh, K., & Panneerselvam, N. (2025). Anticarcinogenic effect of Mosinone-A on Mrna Expression of Cell Cycle-Associated Proteins In Dmba-Induced Hamster Buccal Pouch Carcinogenesis. International Journal of Biology,Pharmacy and Allied Health Sciences, 14(special issue (3)). International Journal of Biology, Pharmacy and Allied Health Sciences, 14(Special Issue 3). https://doi.org/10.31032/IJBPAS/2025/14.3.1040."
+          ]
+        },
+        {
+          "faculty_name": "Dr. R. AMSAVENI",
+          "content": [
+            "Bhuvaneshwari, V., & Amsaveni, R. (2025). Emerging threat of scrub typhus: A call for greater awareness and research. International Immunopharmacology, 164, 115387. (Impact factor 4.7).",
+            "Bhuvaneshwari, V., & Amsaveni, R. (2025). Exploring quercetin based nano formulation in combating human Metapneumovirus infections. International Immunopharmacology, 153, 114510. (Impact factor 4.7).",
+            "Vinothini, S. L., Brindha, A., Geethanjali, B., Yuvanandhan, S., Tamilselvi, S., Bhuvaneshwari, V., & Amsaveni, R. (2025). Isolation and Characterization of Protease-Producing Bacteria from Metal-Contaminated Soil for Thrombolytic Therapy. The Microbe, 100460.",
+            "Amsaveni, R., & Bhuvaneshwari, V. (2025). The growing threat of Guillain-Barré syndrome: Why awareness matters. Ceylon Journal of Science, 54(3).",
+            "Amsaveni, R., & Bhuvaneshwari, V. (2024, December). Molecular Docking and Pharmacokinetic Assessment of Oleanolic Acid Targeting Human ERRα: A Computational Approach for Anti-Cancer Drug Design. In 2024 International Conference on Emerging Research in Computational Science (ICERCS)(pp. 1-4)."
+          ]
+        },
+        {
+          "faculty_name": "Dr.REETHY.P.S",
+          "content": [
+            "Reethy, P. S., & Lalitha, K. V. (2021). Characterization of V. cholerae O1 biotype El Tor serotype Ogawa possessing the ctxB gene of the classical biotype isolated from well water associated with the cholera outbreak in Kerala, South India. Journal of Water and Health, 19(3), 478-487. (Impact Factor:2.4).",
+            "Reethy, P. S., & Lalitha, K. V. (2021). Antimicrobial Resistance in Vibrio cholerae from Aquatic Environment. (Impact Factor:0.2)",
+            "Reethy, P. S., & Lalitha, K. V. (2020). Phenotypic and genotypic characterization of nonO1/nonO139 Vibrio cholerae from aquaculture farm sediments. (Impact Factor:0.2)."
+          ]
+        },
+        {
+          "faculty_name": "Mr. P. BALAMURUGAN",
+          "content": [
+            "Manoharan, S. P., Yadav, S. A., Suvathika, G., Anandhan, P., & Pandiyan, B. (2024). Screening of Phosphoinositide-3 Kinase Inhibitors from Argemone mexicana Leaves. Biomedical and Pharmacology Journal, 17(2), 1103-1114. (Impact Factor: 1.5)",
+            "Gnanaselvan, S., Yadav, S. A., Manoharan, S. P., & Pandiyan, B. (2023). Uncovering the anticancer potential of phytomedicine and polyherbal’s synergism against cancer—A review. Biointerface Res. Appl. Chem, 13, 356. (Impact Factor: 1.4)",
+            "Manoharan, S. P., Yadav, S. A., Pandiyan, B., & Suvathika, G. (2023). Tragia plukenetii-assisted omega-decenol as potential anticancer agent: Its isolation, characterization, and validation. Applied biochemistry and biotechnology, 195(3), 1699-1722. (Impact Factor: 3.0)",
+            "Pandiyan, B., Yadav, S. A., Karpagavalli, M., Gayathiri, E., Gnanaselvan, S., & Manoharan, S. P. (2022). A Comprehensive Review on Medicinal Plants against Lung Cancer. Oriental Journal of Chemistry, 38(3), 688. (Impact Factor: 0.6).",
+            "Pandiyan, B., Yadav, S. A., Faruck, L. H., & Bakshi, H. (2020). Metabolic profiling and biological activities of artabotrys hexapetalus (LF) bandari leaves. International Journal of Research in Pharmaceutical Sciences, 11(2),2371-2382."
+          ]
+        },
+        {
+          "faculty_name": "Dr. M. Rajkumar",
+          "content": [
+            "Rajkumar, M., Presley, S. D., Govindaraj, P., Girigoswami, K., Meenambigai, K., Deepak, P., … & Menaa, F.(2025). Biomedical Prowess of Clitoria mariana (L.) Flower Methanolic Extract: A Comprehensive In Vitro, Ex Vivo, and In Vivo Evaluation. Chemistry & Biodiversity, e01051. (Impact factor: 2.5)",
+            "Rajkumar, M., Rajkumar, P., Prathap, N., Govindaraj, P., Madhankumar, R., Deepak, P., & Shanmugarathinam, A.(2025). Investigation of In Vitro Antioxidant, Antibacterial and Anticancer Activities of Eco-Friendly Synthesized Silver Nanoparticles Using Alangium salvifolium (L.) Plant Fruit Extract. Biomedical Materials & Devices, 1-18. (Impact factor: 4.2)",
+            "Rajkumar, M., Presley, S. D., Begum, M. Y., Alamri, A., Al Fatease, A., Girigoswami, K., … & Deepak, P. (2025). Biogenic Synthesis of CuO-TiO2 Nanocomposites from Senna auriculata (L.) Roxb. Plant Extract and its Evaluation of Antioxidant, Antibacterial and Anticancer Activity of HepG2 Cell lines. Biocatalysis and Agricultural Biotechnology, 103787. (Impact factor: 3.8)",
+            "Ragavendran, C., Kamaraj, C., Alam, M. W., & Rajkumar, M. (2025). Eco-friendly synthesis of zinc oxide nanoparticles using Caralluma adscendens stem extract: Characterization, antibacterial, antioxidant, and cytotoxic effects of breast cancer cells. Inorganic Chemistry Communications, 180, 115035. (Impact factor:5.4)",
+            "Muthu, R., Manickam, R., Thamarai, R., Sivasamy, S., Mahendran, K., & Prabhakaran, R. (2025). NanoMarine therapeutics: a new wave in drug delivery from oceanic bioresources targeting colon cancer via miRNA modulation. Frontiers in Genetics, 16, 1668618. (Impact factor: 2.8)."
+          ]
+        },
+        {
+          "faculty_name": "Dr. V V Sathibabu Uddandrao",
+          "content": [
+            "Uddandrao, V.V.S., Krishna, D., Vasantha, M.N., Jayashree, G., Roy, A., Ravikkumar, V.R., Sengottuvelu, S., Chandrasekaran, P., Kathirvelan, C., Parim, B.N., Das, K., & Kumar, U. (2025). Combination of hydroxycitric acid and capsaicin regulates IRS-1/AMPK-mTOR-SREBP-1c Axis/NLRP3-NF-κB/Nrf-2-ARE signaling pathways to ameliorate the two-hit process in high-fat diet-induced hepatic steatosis. Biochimica et Biophysica Acta – Molecular and Cell Biology of Lipids, 1870(8), 159682.https://doi.org/10.1016/j.bbalip.2025.159682. (Impact Factor: 3.3)",
+            "Uddandrao, V.V.S., Brahma Naidu, P., Chandrasekaran, P., & Saravanan, G. (2024). Pathophysiology of obesity-related infertility and its prevention and treatment by potential phytotherapeutics. International Journal of Obesity (2005), 48(2), 147–165.https://doi.org/10.1038/s41366-023-01411-4. (Impact Factor: 3.8)",
+            "Uddandrao, V.V.S., Chandrasekaran, P., Saravanan, G., Brahmanaidu, P., Sengottuvelu, S., Ponmurugan, P., Vadivukkarasi, S., & Kumar, U. (2023). Phytoformulation with hydroxycitric acid and capsaicin protects against high-fat-diet-induced obesity cardiomyopathy by reducing cardiac lipid deposition and ameliorating inflammation and apoptosis in the heart. Journal of Traditional and Complementary Medicine, 14(2), 162–172.https://doi.org/10.1016/j.jtcme.2023.08.004. (Impact Factor: 3.0)",
+            "Sathibabu Uddandrao, V.V., Brahmanaidu, P., Ravindarnaik, R., Suresh, P., Vadivukkarasi, S., & Saravanan, G.(2019). Restorative potentiality of S-allylcysteine against diabetic nephropathy through attenuation of oxidative stress and inflammation in streptozotocin-nicotinamide-induced diabetic rats. European Journal of Nutrition, 58(6), 2425–2437.https://doi.org/10.1007/s00394-018-1795-x. (Impact Factor: 4.3)",
+            "Uddandrao, V. V. S., Parim, B., Ramavat, R., Pothani, S., Vadivukkarasi, S., P, P., P, C., & Ganapathy, S. (2023). Effect of S-allylcysteine against diabetic nephropathy via inhibition of MEK1/2-ERK1/2-RSK2 signalling pathway in streptozotocin-nicotinamide-induced diabetic rats. Archives of physiology and biochemistry, 129(1), 213–221. https://doi.org/10.1080/13813455.2020.1811731. (Impact Factor: 2.7)"
+          ]
+        }
+      ]
+    },
+    {
+      "tab": "Events",
+      "slug": "department-of-biotechnology",
+      "items": [
+        {
+          "title": "International Conference",
+          "content": [
+            "International Conference on “Advances in Therapeutic Molecules and Drug Design” on January 10, 2019."
+          ]
+        },
+        {
+          "title": "National Conferences",
+          "content": [
+            "Two days National Conference on “Advanced Biotechnological Strategies and Biogenic Molecules for Clinical Applications” on 18th and 19th December,2025.",
+            "National Conference on Advance Techniques in Plant Science and Technology on February 13, 2020 and February 14, 2020.",
+            "National Level Competition for Bio-Science Students Becon Fest, IIT-Delhi on July 05, 2018 and July 06, 2018.",
+            "National Conference on “Plant Based Drugs – Biotechnological Implications” on August 10, 2017 and August 11, 2017.",
+            "National Conference on “Microbial Biotechnology for Sustainable Agriculture and Food Safety” on July 27, 2017 and July 28, 2017."
+          ]
+        },
+        {
+          "title": "Workshop",
+          "content": [
+            "National level Lecture Workshop on Avenues of Biotechnology to next Generation from Dynamics to Molecular mechanisms on December 19, 2019 and December 20, 2019",
+            "Science Academics Lecture Workshop funded by INSA-IASC-NASC, Bangalore, New Delhi on June 27, 2018 and June 28, 2018.",
+            "Science Academies Lecture Workshop on “Recent advances in Biological Sciences” during July 24, 2017 and July 25, 2017."
+          ]
+        },
+        {
+          "title": "Association Meet",
+          "content": [
+            "Department Association (TECHNOSTRAND) Inauguration on December 2019.",
+            "Department Association (TECHNOSTRAND) Inauguration on July 2018."
+          ]
+        },
+        {
+          "title": "Faculty Development Programme",
+          "content": [
+            "Three days Faculty Development Program on “Role of Artificial Intelligence in Biotechnology” for our faculty members from 26.11.2025 to 28.11.2025.",
+            "Seven days national level Faculty Development Program on “Innovations in Biotechnology as Lifesaving Prospective” on August 03, 2020 to August 09, 2020"
+          ]
+        },
+        {
+          "title": "Webinar",
+          "content": [
+            "Webinar on “ITC and its data analysis using dynamic approach” on May 18, 2020",
+            "Webinar on “Structural Biology: A road map to drug discovery” on May 27, 2020"
+          ]
+        },
+        {
+          "title": "Extension activities",
+          "content": [
+            "“Awareness Programme on Prevention and Management of Tuberculosis” at Othakkalmandapam, Coimbatore on 04.08.2025.",
+            "AIDS Awareness Programme for young peoples on December 01, 2020"
+          ]
+        },
+        {
+          "title": "Others",
+          "content": [
+            "Technical Fest “Xenviron-2026” on 05.02.2026.",
+            "One Day hands on training on “Exploring the Science of Separation: Gas Chromatography with Live Demonstration” on 25.09.2025.",
+            "One Day Hands on training on “Exploring Heavy Metal Analysis through Atomic Absorption Spectroscopy” on 17.09.2025",
+            "Guest lecture cum workshop on “Emerging Trends in Intellectual Property Rights and patent Systems” on 03.09.2025",
+            "“Medicinal Plants Expo and Student Association Inauguration (Technostrand-2025) on 05.08.2025"
+          ]
+        }
+      ]
+    }
+  ]
+}

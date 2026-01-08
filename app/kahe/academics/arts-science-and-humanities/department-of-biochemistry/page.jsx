@@ -1,4 +1,4 @@
-import DeptOfBioChemPage from "@/components/00-Kahe/AcademicsComponents/DeptOfBioChemPage";
+import DeptOfBioChemPage from "@/components/00-Kahe/AcademicsComponents/Arts/DeptOfBioChemPage";
 
 export const metadata = {
   title: "Best MSc Biochemistry Colleges in Coimbatore",
