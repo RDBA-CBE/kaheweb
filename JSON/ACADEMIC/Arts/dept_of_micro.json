@@ -21,8 +21,20 @@
       "label": "Infrastructure"
     },
     {
+      "id": "students",
+      "label": "Students"
+    },
+    {
+      "id": "patents",
+      "label": "Patents/MoUs"
+    },
+    {
       "id": "publications",
       "label": "Publications"
+    },
+    {
+      "id": "gallery",
+      "label": "Gallery"
     },
     {
       "id": "events",
@@ -499,7 +511,6 @@
               "title": "Practical Session"
             },
 
-            
             {
               "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/ug-lab-150x150.jpg",
               "alt": "Best UG lab facilities at Karpagam Academy"
@@ -569,6 +580,93 @@
               "alt": "Department of Microbiology - best placement colleges in coimbatore"
             }
           ]
+        }
+      ]
+    },
+    {
+      "tab": "students",
+      "title": "students",
+      "content": [
+        {
+          "data1": {
+            "type": "vision",
+            "subTitle": "Association",
+            "src": "/images/Kahe/Innerpages/vision.png",
+            "content": [
+              "MICROINNOVATA is the association of the Department of Microbiology. In the year 2025, the association was inaugurated with an insightful and thought-provoking guest lecture on the topic “Microbiology – Beyond Classrooms and Laboratories”."
+            ]
+          },
+          "data2": {
+            "type": "mission",
+            "subTitle": "Achievements /Awards",
+            "src": "/images/Kahe/Innerpages/goal.png",
+            "content": [
+              "The students of the department visited countries like Taiwan and Poland for the Internship and Student Exchange program.",
+              "Best student project under Student Projects Scheme (2023 – 2024) was awarded by Tamil Nādu State Council for Science and Technology (TNSCST), Chennai."
+            ]
+          }
+        },
+        {
+          "data1": {
+            "type": "mission",
+            "subTitle": "Placement",
+            "src": "/images/Kahe/Innerpages/goal.png",
+            "content": [
+              "The students of the Department of Microbiology (50< students in 2024-25) have been placed in several industries and organizations like BIOCON, Microbiological Laboratories, Indian Immunologicals, BECQ Radiological Service Provider LLP., Amura Health Care, Cotivity, Corrohealth, Optum, Molecular Connections and Clarus"
+            ]
+          },
+          "data2": {
+            "type": "mission",
+            "subTitle": "Alumni",
+            "src": "/images/Kahe/Innerpages/goal.png",
+            "content": [
+              "The department alumni encompass scientists in Pharmaceutical and Biotechnology Industries, research associates and Teachers in universities and colleges in India and abroad. The department of Microbiology is organising Alumni Interaction Sessions every month for the benefit of the students in the department."
+            ]
+          }
+        }
+      ]
+    },
+
+    {
+      "tab": "patents",
+      "title": "Patents/MoUs",
+      "content": [
+        {
+          "data1": {
+            "type": "vision",
+            "subTitle": "Association",
+            "src": "/images/Kahe/Innerpages/vision.png",
+            "content": [
+              "MICROINNOVATA is the association of the Department of Microbiology. In the year 2025, the association was inaugurated with an insightful and thought-provoking guest lecture on the topic “Microbiology – Beyond Classrooms and Laboratories”."
+            ]
+          },
+          "data2": {
+            "type": "mission",
+            "subTitle": "Achievements /Awards",
+            "src": "/images/Kahe/Innerpages/goal.png",
+            "content": [
+              "The students of the department visited countries like Taiwan and Poland for the Internship and Student Exchange program.",
+              "Best student project under Student Projects Scheme (2023 – 2024) was awarded by Tamil Nādu State Council for Science and Technology (TNSCST), Chennai."
+            ]
+          }
+        },
+        {
+          "data1": {
+            "type": "mission",
+            "subTitle": "Placement",
+            "src": "/images/Kahe/Innerpages/goal.png",
+            "content": [
+              "The students of the Department of Microbiology (50< students in 2024-25) have been placed in several industries and organizations like BIOCON, Microbiological Laboratories, Indian Immunologicals, BECQ Radiological Service Provider LLP., Amura Health Care, Cotivity, Corrohealth, Optum, Molecular Connections and Clarus"
+            ]
+          },
+          "data2": {
+            "type": "mission",
+            "subTitle": "Alumni",
+            "src": "/images/Kahe/Innerpages/goal.png",
+            "content": [
+              "The department alumni encompass scientists in Pharmaceutical and Biotechnology Industries, research associates and Teachers in universities and colleges in India and abroad. The department of Microbiology is organising Alumni Interaction Sessions every month for the benefit of the students in the department."
+            ]
+          }
         }
       ]
     },
