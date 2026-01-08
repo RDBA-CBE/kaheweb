@@ -1,0 +1,501 @@
+{
+  "title": "Department of Electronics and Communication Engineering",
+  "bannerCon": "The University of Wyoming welcomes students to experience a one-of-a-kind education in the heart of the Mountain West.",
+  "applyLink": "#",
+  "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+  "tabs": [
+    {
+      "id": "overview",
+      "label": "Overview"
+    },
+    {
+      "id": "programme",
+      "label": "Programme"
+    },
+    {
+      "id": "faculty",
+      "label": "Faculty"
+    },
+    {
+      "id": "infrastructure",
+      "label": "Infrastructure"
+    },
+    {
+      "id": "publications",
+      "label": "Publications"
+    },
+    {
+      "id": "events",
+      "label": "Events"
+    }
+  ],
+  "tabContent": [
+    {
+      "tab": "Overview",
+      "items": [
+        {
+          "type": "overview",
+          "subTitle": "Overview",
+          "contents": "The department of Electronics and Communication Engineering was established in the year 2009. The research specializations of the department are VLSI Design, Wireless Communications, Embedded Systems, Robotics, Digital image processing, Neural network, Human machine interface, Digital signal Processing.Our department has a very good infrastructure for pursuing R & D in the areas of embedded system design, VLSI design using cadence and Bio signal & Image processing. We also have specialized labs like Embedded systems lab sponsored by Texas Instruments, Fully fledged Cadence Lab for VLSI design and development of products on Low power, and area and also a Bio signal processing lab. Our department has recognized as DELL EMC centre of Academic Excellence Data Science and Big Data Analytics by ICT Academy. The department faculty members has filed Patents and applied funding proposal for SERB, DST.",
+          "image": "/images/others/video-07.jpg"
+        },
+        {
+          "type": "vision",
+          "subTitle": "Vision",
+          "src": "/images/Kahe/Innerpages/vision.png",
+          "content": [
+            "To transform the students into industry ready technocrats and instill research in the minds of the young graduates to serve the society."
+          ]
+        },
+        {
+          "type": "mission",
+          "subTitle": "Mission",
+          "src": "/images/Kahe/Innerpages/goal.png",
+          "content": [
+            "To empower the students with enriched skills in the field of Electronics and Communication Engineering and also promote research by providing an excellent academic environment, inculcating values of discipline and dedication to serve the society."
+          ]
+        }
+      ]
+    },
+    {
+      "tab": "Programme",
+      "programmes": {
+        "title": "Programmes",
+        "content": [
+          {
+            "key": "ug",
+            "title": "Under Graduate Programme",
+            "img": "/images/others/health-b-02.png",
+            "items": [
+              "B.E. Electronics and Communication Engineering (Strength: 180)"
+            ],
+            "type": "programme"
+          },
+          {
+            "key": "pg",
+            "title": "Post Graduate Programme",
+            "img": "/images/others/health-b-02.png",
+            "items": [
+              "M.E. VLSI Design (Strength: 6)"
+            ],
+            "type": "programme"
+          },
+          {
+            "key": "res",
+            "title": "Research Programme",
+            "img": "/images/others/health-b-02.png",
+            "items": [
+              "Ph.D. Electronics and Communication Engineering"
+            ],
+            "type": "programme"
+          }
+        ]
+      },
+      "curriculum": {
+        "title": "Curriculum",
+        "content": [
+          {
+            "key": "be-ece",
+            "title": "BE Electronics and Communication Engineering",
+            "img": "/images/others/health-b-02.png",
+            "type": "curriculum",
+            "items": [
+              {
+                "year": "2020-2021",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/07/ECE-2020-2021-CURRICULUMSYLLABUS.pdf"
+              },
+              {
+                "year": "2021-2022",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2021/11/ECE-syllabus-2021-2022.pdf"
+              },
+              {
+                "year": "2022-2023",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2022/09/currreg-ECE-2022-2023-25.03.22.pdf"
+              },
+              {
+                "year": "2023-2024",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2023/10/2023-2024-Syllabus-ECE-5.10.2023.pdf"
+              },
+              {
+                "year": "2024-2025",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/01/ECE.pdf"
+              }
+            ]
+          },
+          {
+            "key": "me-vlsi",
+            "title": "ME VLSI Design",
+            "img": "/images/others/health-b-02.png",
+            "type": "curriculum",
+            "items": [
+              {
+                "year": "2023-2024",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2023/10/ECE-M.E.VLSI-Design-Syllabus-11.10.2023.pdf"
+              },
+              {
+                "year": "2024-2025",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/01/M.E-VLSI-Design.pdf"
+              }
+            ]
+          },
+          {
+            "key": "phd-ece",
+            "title": "Ph.D. Electronics and Communication Engineering",
+            "img": "/images/others/health-b-02.png",
+            "type": "curriculum",
+            "items": [
+              {
+                "year": "2020-2021",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/07/PhD-syllabus-20-21-final-ECE.pdf"
+              },
+              {
+                "year": "2021-2022",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2021/11/PhD-syllabus-2021-22-April2021.pdf"
+              },
+              {
+                "year": "2022-2023",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2022/09/PhD-syllabus-2022-23-Jul22.pdf"
+              },
+              {
+                "year": "2023-2024",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2023/10/ECE-Ph.D-Syllabus-2023-Final-Print-12.10.2023.pdf"
+              },
+              {
+                "year": "2024-2025",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/01/Ph.D-ECE.pdf"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "tab": "Faculty",
+      "faculty": [
+        {
+          "name": "Dr.S.Malathy",
+          "qualification": "M.E., Ph.D.",
+          "designation": "Professor & Head",
+          "email": "ece.hod@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/1.Malathy.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr.S.Ashok Kumar",
+          "qualification": "M.E., Ph.D.",
+          "designation": "Associate Professor",
+          "email": "ashokkumar.shanmugaraj@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/2.Ashok-Kumar.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr.S.Esakki Rajavel",
+          "qualification": "M.E., Ph.D.",
+          "designation": "Assistant Professor",
+          "email": "esakkirajavel.sethuramasubramanian@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/3.Esakki-Rajavel.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Mr.T.Senthil Kumar",
+          "qualification": "M.E., (Ph.D.)",
+          "designation": "Assistant Professor",
+          "email": "senthilkumar.thiyagarajan@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/4.Senthil-Kumar.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Ms.M.Ramya",
+          "qualification": "M.E., (Ph.D.)",
+          "designation": "Assistant Professor",
+          "email": "ramya.murugesan@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/5.Ramya_.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Ms.N.Abirami",
+          "qualification": "M.E., (Ph.D.)",
+          "designation": "Assistant Professor",
+          "email": "abirami.nakeeran@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/6.Abirami.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Ms.V.S.Harikrishnan",
+          "qualification": "M.E.",
+          "designation": "Assistant Professor",
+          "email": "harikrishnan.selvaraj@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/7.Harikrishnan.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Ms.S.Priyatharsini",
+          "qualification": "M.E.",
+          "designation": "Assistant Professor",
+          "email": "priyatharsini.shanmugavel@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/8.S.Priyatharsini.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Ms.V.Banumathy",
+          "qualification": "M.E.",
+          "designation": "Assistant Professor",
+          "email": "banumathy.velu@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/9.banumathy-v.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Ms.R.Vinitha",
+          "qualification": "M.E.",
+          "designation": "Assistant Professor",
+          "email": "vinitha.ramalingam@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/10.Vinitha.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Ms.E.J.Priyadharsini",
+          "qualification": "M.Tech",
+          "designation": "Assistant Professor",
+          "email": "priyadharsini.jawahar@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/11.E.J.Priyadharsini.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Ms.R.Pavithra",
+          "qualification": "M.E.",
+          "designation": "Assistant Professor",
+          "email": "pavithra.ramasamy@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/12.Pavithra-.-R.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Ms.C.Sri Kiruthika",
+          "qualification": "M.E.",
+          "designation": "Assistant Professor",
+          "email": "srikiruthika.chandraseka@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/13.Sri-kiruthika.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Ms.S.Sanjana",
+          "qualification": "M.E.",
+          "designation": "Assistant Professor",
+          "email": "sanjana.sathiskumar@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/14.Sanjana.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Ms.M.Kanimozhi",
+          "qualification": "M.E.",
+          "designation": "Assistant Professor",
+          "email": "kanimozhi.manuvel@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/15.Kanimozhi.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Ms.K.Sowmiya",
+          "qualification": "M.E.",
+          "designation": "Assistant Professor",
+          "email": "sowmiya.kolandasamy@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/16.Ms_.Sowmya.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        }
+      ]
+    },
+    {
+      "tab": "Infrastructure",
+      "items": [
+        {
+          "type": "laboratories",
+          "title": "Laboratories",
+          "content": [
+            "Communication system lab",
+            "Digital Electronics lab",
+            "VLSI Research lab ( Cadence tools)",
+            "Digital Signal Processing lab",
+            "Microprocessor lab",
+            "Electronics devices and circuit lab",
+            "Linear Integrated Circuits lab",
+            "Optical and Microwave lab",
+            "Texas Instruments Lab"
+          ]
+        },
+        {
+          "type": "gallery",
+          "slug": "department-of-electronics-communication-engineering",
+          "images": [
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/ECE_1-583x376.jpg",
+              "alt": "",
+              "title": ""
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/ECE_2-609x380.jpg",
+              "alt": "",
+              "title": ""
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/ECE_3-626x393.jpg",
+              "alt": "",
+              "title": ""
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/ci5-415x469.png",
+              "alt": "",
+              "title": ""
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/ECE_4-639x390.jpg",
+              "alt": "",
+              "title": ""
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/ECE_6-598x342.jpg",
+              "alt": "",
+              "title": ""
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/ECE_7-632x360.jpg",
+              "alt": "",
+              "title": ""
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/ECE_8-615x360.jpg",
+              "alt": "",
+              "title": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tab": "Publications",
+      "slug": "department-of-electronics-and-communication-engineering",
+      "title": "Best Five Papers Faculty wise:",
+      "subtitle": "Paper publications by the Faculty Members",
+      "content": [
+        {
+          "faculty_name": "Dr. S. Malathy",
+          "content": [
+            "Dr. S. Malathy, Professor, ECE Department, Revolutionising AI Deployment: Survey on Hardware Acceleration for Machine Learning Optimisation and Resilience, Communications on Applied Nonlinear Analysis, Vol. 31, No. 4s, pp. 329–340, Scopus, 2024.",
+            "Dr. S. Malathy, Professor, ECE Department, Analysis of Revolutionizing Deep Space Optical Communication Networks with AI Advancements, Communications on Applied Nonlinear Analysis, Vol. 31, pp. 177–192, Scopus, 2024."
+          ]
+        },
+        {
+          "faculty_name": "Dr. S. Ashok Kumar",
+          "content": [
+            "Dr. S. Ashok Kumar, Associate Professor, ECE Department, Investigation of Charge Plasma based Nanowire Field Effect Transistor for Sub 5 nm, IETE Journal of Research, Taylor & Francis, SCI, Impact Factor: 1.5, January 2024. DOI: 10.1080/03772063.2024.2309227."
+          ]
+        },
+        {
+          "faculty_name": "Dr. S. Esakki Rajavel",
+          "content": [
+            "Dr. S. Esakki Rajavel, Assistant Professor, Efficient video compression using HEVC and non-linear convolutional Mobile VNet based rate-distortion optimization, ICTACT Journal on Image and Video Processing, Vol. 14, Issue 4, May 2024, UGC Care.",
+            "Dr. S. Esakki Rajavel, Assistant Professor, RF Power Amplifier Design Technique for 5G Wireless Communication Systems, ICTACT Journal on Microelectronics, Vol. 10, Issue 1, April 2024, UGC Care.",
+            "Dr. S. Esakki Rajavel, Assistant Professor, IoT-Enabled Landslide Monitoring System using LoRa Technology, International Journal of Advanced Research Trends in Engineering and Technology, Vol. 11, Issue 8, pp. 1–7, 2024.",
+            "Dr. S. Esakki Rajavel, Assistant Professor, Design of Monopole Circular Patch Antenna Based on DGS for UWB Applications, Antennas for Industrial and Medical Applications, Taylor & Francis, Chapter 2, 2024.",
+            "Dr. S. Esakki Rajavel, Assistant Professor, Attention Based Fused CNN for the Early Prediction of Gastrointestinal Disease, SSRG International Journal of Electronics and Communication Engineering, Vol. 11, Issue 8, pp. 301–311, Scopus, 2024."
+          ]
+        },
+        {
+          "faculty_name": "Ms. M. Ramya",
+          "content": [
+            "Ms. M. Ramya, Assistant Professor, Gastric cancer classification in saliva data samples, Journal of Experimental & Theoretical Artificial Intelligence, Taylor & Francis, SCI, Impact Factor: 2.2, January 2024. DOI: https://doi.org/10.1080/0952813X.2023.2301371."
+          ]
+        },
+        {
+          "faculty_name": "Ms. N. Abirami",
+          "content": [
+            "Ms. N. Abirami, Assistant Professor, Analysis of Revolutionizing Deep Space Optical Communication Networks with AI Advancements, Communications on Applied Nonlinear Analysis, Vol. 31, pp. 177–192, Scopus, 2024."
+          ]
+        },
+        {
+          "faculty_name": "Ms. S. Priyatharsini",
+          "content": [
+            "Ms. S. Priyatharsini, Assistant Professor, Autonomous Firefighting Robot for Detection and Prevention, International Research Journal of Multidisciplinary Scope, Vol. 5, pp. 969–976, Scopus, 2024."
+          ]
+        }
+      ]
+    },
+    {
+      "tab": "Events",
+      "slug": "department-of-electronics-communication-engineering",
+      "items": [
+        {
+          "title": "Others",
+          "content": [
+            "National Level Conference on Advanced Technologies and Sustainable Materials in Electronics, Signal Processing and Circuit Design on 13.03.2026.",
+            "Five-Day Skill Training Programme on Solar Energy Technologies: Fundamentals to Device Fabrication from 15.12.2025 to 19.12.2025 at CSIR–CECRI, Karaikudi.",
+            "Four-Day Skill Training Programme on Fundamentals of Robotics System Design from 05.01.2026 to 08.01.2026.",
+            "Seminar on Advanced Controllers in Industrial Usage on 18.12.2025 for II Year ECE students.",
+            "Six-Day Online Faculty Development Programme on Harnessing Artificial Intelligence for the Future of Wireless Communication and Signal Processing from 08.12.2025 to 13.12.2025.",
+            "One-Day National Level Technical Fest TRONIX–2K26 on 06.02.2026.",
+            "Seminar on Opportunities and Aspects of Embedded System on 20.11.2025 for Final Year ECE students.",
+            "Seminar on Career Guidance and Awareness Program on Essential Software for Electrical Engineers on 07.10.2025.",
+            "Distinguished Lecture on Sensor Fusion Techniques for Autonomous Vehicles on 30.08.2025.",
+            "Seminar on Adhoc and Sensor Networks for Disaster Management on 19.09.2025.",
+            "Distinguished Lecture Series on Image Forgery Detection and Digital Watermarking on 27.09.2025.",
+            "Career Counselling Session on The Engineer’s Blueprint for Acing Bank Exams on 29.09.2025.",
+            "One-Day Seminar on Smart Antennas and Reconfigurable Systems using RF MEMS Technology on 25.09.2025.",
+            "Guest Lecture on Smart Automotive Systems: The Role of Modern Sensors and Embedded Systems for Third Year ECE students on 12.09.2025.",
+            "Seminar on Role of Sensors and Transducers in Modern Engineering Applications on 30.08.2025.",
+            "Seminar on Image Forgery Detection and Digital Water Marking on 27.09.2025.",
+            "Online AICTE Recognized National Level Faculty Development Programme / Short Term Course on Curriculum Implementation and Evaluation from 18.08.2025 to 22.08.2025.",
+            "Seminar on Opportunities in IoT and Embedded Systems and Alumni Interaction for First Year ECE students on 29.07.2025.",
+            "Seminar on Smart Ideas Start Here: IoT for Young Entrepreneurs on 29.07.2025.",
+            "Seminar on Transforming Students into Industry Ready Professionals on 29.07.2025.",
+            "Extension Programme on E-Waste to E-Wisdom: A Journey of Responsible Recycling at Othakalmandapam, Coimbatore on 23.07.2025."
+          ]
+        }
+      ]
+    }
+  ]
+}
