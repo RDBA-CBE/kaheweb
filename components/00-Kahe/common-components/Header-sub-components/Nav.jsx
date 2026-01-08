@@ -17,6 +17,9 @@ const Nav = () => {
   const [activeChild, setActiveChild] = useState(null);
   const [activeChildMenu, setActiveChildMenu] = useState(null);
   const [isMobile, setIsMobile] = useState(false);
+  const [isClosing, setIsClosing] = useState(false);
+  const [disableHover, setDisableHover] = useState(false);
+
 
   const pathname = usePathname();
 
@@ -70,6 +73,17 @@ const Nav = () => {
     }
   };
 
+  const closeAllMenus = () => {
+    setDisableHover(true);
+    setActiveMenuItem(null);
+    setActiveSub(null);
+    setActiveChild(null);
+    setActiveChildMenu(null);
+    setTimeout(() => {
+      setDisableHover(false);
+    }, 1000);
+  };
+
   // Hover handlers for desktop
   const handleSubMenuHover = (item) => {
     if (!isMobile) {
@@ -82,6 +96,11 @@ const Nav = () => {
   const handleChildHover = (child) => {
     if (!isMobile) {
       setActiveChild(child);
+      if (child.children || child.sub_children) {
+        setActiveChildMenu(child.title);
+      } else {
+        setActiveChildMenu(null);
+      }
     }
   };
 
@@ -97,7 +116,20 @@ const Nav = () => {
     activeSub && activeSub.children && activeSub.children.length > 0;
 
   return (
-    <nav className="mainmenu-nav">
+    <>
+      <style jsx>{`
+        .with-megamenu.disable-hover:hover .rbt-megamenu {
+          opacity: 0 !important;
+          visibility: hidden !important;
+          transform: translateY(-10px) !important;
+        }
+        .with-megamenu.force-open .rbt-megamenu {
+          opacity: 1 !important;
+          visibility: visible !important;
+          transform: translateY(0) !important;
+        }
+      `}</style>
+      <nav className="mainmenu-nav">
       <ul className="mainmenu">
         {MenuData.menuData.map((menu, index) => {
           const isOpen = activeMenuItem === menu.menuType;
@@ -108,7 +140,19 @@ const Nav = () => {
               key={index}
               className={`with-megamenu ${
                 menu.hasMenuChild ? "has-menu-child-item" : ""
-              } ${menu.hasPositionStatic ? "position-static" : ""}`}
+              } ${menu.hasPositionStatic ? "position-static" : ""} ${
+                isOpen ? "force-open" : ""
+              } ${disableHover ? "disable-hover" : ""}`}
+              onMouseEnter={() => {
+                if (!isMobile && !disableHover) {
+                  setActiveMenuItem(menu.menuType);
+                }
+              }}
+              onMouseLeave={() => {
+                if (!isMobile && !disableHover) {
+                  setActiveMenuItem(null);
+                }
+              }}
             >
               {/* TOP LEVEL BUTTON */}
               <Link
@@ -133,7 +177,12 @@ const Nav = () => {
                         ? "grid-item-3"
                         : "grid-item-1"
                   } ${isOpen ? "active d-block" : ""}`}
-                  onMouseLeave={handleMouseLeave}
+                  onMouseLeave={() => {}}
+                  onClick={(e) => {
+                    if (e.target.tagName === 'A' || e.target.closest('a')) {
+                      closeAllMenus();
+                    }
+                  }}
                 >
                   <div className="wrapper">
                     <div className="row row--15">
@@ -170,6 +219,8 @@ const Nav = () => {
                                   if (isMobile && item.children) {
                                     e.preventDefault();
                                     toggleSubMenu(item);
+                                  } else {
+                                    closeAllMenus();
                                   }
                                 }}
                               >
@@ -201,7 +252,7 @@ const Nav = () => {
                               <li
                                 key={idx}
                                 className={
-                                  child.children
+                                  (child.children || child.sub_children)
                                     ? "has-submenu has-menu-child-item position-relative"
                                     : ""
                                 }
@@ -215,23 +266,18 @@ const Nav = () => {
                                   }`}
                                   href={child.link}
                                   target={child.target ? child.target : "_self"}
-                                  onClick={(e) => {
-                                    if (isMobile && child.children) {
-                                      e.preventDefault();
-                                      toggleChildMenu(child.title);
-                                    } else if (isMobile) {
-                                      setActiveChild(child);
-                                    }
+                                  onClick={() => {
+                                    closeAllMenus();
                                   }}
                                 >
                                   {child.title}
-                                  {child.children && (
+                                  {(child.children || child.sub_children) && (
                                     <i className="feather-chevron-right ms-2"></i>
                                   )}
                                 </Link>
 
                                 {/* CHILD SUBMENU */}
-                                {child.children && (
+                                {(child.children || child.sub_children) && (
                                   <ul
                                     className={`mega-menu-item submenu-list child-submenu position-absolute ${
                                       activeChildMenu === child.title
@@ -245,11 +291,14 @@ const Nav = () => {
                                       zIndex: 1000,
                                     }}
                                   >
-                                    {child.children.map((grand, g) => (
+                                    {(child.children || child.sub_children)?.map((grand, g) => (
                                       <li key={g}>
                                         <Link
                                           href={grand.link}
-                                          onClick={() => setActiveChild(grand)}
+                                          onClick={() => {
+                                            setActiveChild(grand);
+                                            closeAllMenus();
+                                          }}
                                           target={
                                             grand.target
                                               ? grand.target
@@ -318,6 +367,7 @@ const Nav = () => {
         })}
       </ul>
     </nav>
+    </>
   );
 };
 export default Nav;

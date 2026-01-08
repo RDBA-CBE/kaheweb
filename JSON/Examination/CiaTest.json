@@ -1,12 +1,12 @@
 {
   "bannerCon": {
-    "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
-    "title": "Forms",
-    "bannerCon": "To be a leading institution in the field of education, providing quality education and training to students and professionals.",
+    "bannerImg": "/images/Kahe/examination/CIA/cia-banner.webp",
+    "title": "CIA",
+    "bannerCon": "Measuring understanding continuously, ensuring academic growth.",
     "applyLink": "/"
   },
   "ciaTest": {
-    "title": "Application Forms",
+    "title": "CIA",
 
     "content": [
       {

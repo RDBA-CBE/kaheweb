@@ -46,7 +46,7 @@ const Eventspage = ({ eventsContent }) => {
                       <ul className="rbt-course-main-content liststyle">
                         {item.content.map((list, subIndex) => (
                           <li key={subIndex}>
-                            <Link href="/lesson">
+                            <div >
                               <div className="course-content-left">
                                 <i className="feather-file-text"></i>
 
@@ -55,7 +55,7 @@ const Eventspage = ({ eventsContent }) => {
                                   dangerouslySetInnerHTML={{ __html: list }}
                                 ></span>
                               </div>
-                            </Link>
+                            </div>
                           </li>
                         ))}
                       </ul>

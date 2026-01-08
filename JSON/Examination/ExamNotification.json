@@ -1,8 +1,8 @@
 {
   "bannerCon": {
-    "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+    "bannerImg": "/images/Kahe/examination/Exam-Notification/examnotification-banner.webp",
     "title": "Exam Notification",
-    "bannerCon": "To be a leading institution in the field of education, providing quality education and training to students and professionals.",
+    "bannerCon": "Important dates and details, stay informed and prepared.",
     "applyLink": "/"
   },
   "examiNotify": {
@@ -457,9 +457,9 @@
   },
   "examinations": {
     "bannerCon": {
-      "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+      "bannerImg": "/images/Kahe/examination/Overview/overview-banner.webp",
       "title": "Examinations",
-      "bannerCon": "To be a leading institution in the field of education, providing quality education and training to students and professionals.",
+      "bannerCon": "Not just marks, but mastery, every exam a step forward.",
       "applyLink": "/"
     },
     "title": "Examinations",
