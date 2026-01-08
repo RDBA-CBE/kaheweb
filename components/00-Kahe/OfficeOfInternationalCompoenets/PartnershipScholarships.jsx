@@ -51,13 +51,17 @@ const PartnershipScholarships = () => {
             <PaginationTable data={InterAdmin?.AsiaList} />
           </section>
 
-          <section className="section-wid section-bg1">
+          <section className="section-wid ">
             <PaginationTable data={InterAdmin?.EuropeList} />
           </section>
 
-          <section className="section-wid section-bg1">
-            <PaginationTable data={InterAdmin?.FacultyList} />
+          <section className="section-wid ">
+            <PaginationTable data={InterAdmin?.AfricaList} />
           </section>
+          <section className="section-wid section-bg1">
+            <PaginationTable data={InterAdmin?.AmericaList} />
+          </section>
+          
 
           <Sidebar2 subMenu={Research} />
         </Context>
