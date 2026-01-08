@@ -220,6 +220,30 @@
 
     {
       "tab": "Faculty",
+      "slug": "department-of-civil-engineering",
+      "basic": {
+        "title": "Faculty",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris",
+        "src": "/images/Kahe/Innerpages/vission.jpg",
+        "buttonText": "View All Faculty"
+      },
+      "breadcrumbItems": [
+        {
+          "label": "Academics",
+          "href": "/academics"
+        },
+        {
+          "label": "Engineering",
+          "href": "academics/engineering/"
+        },
+        {
+          "label": "Department of Civil Engineering",
+          "href": "/academics/engineering/department-of-civil-engineering"
+        },
+        {
+          "label": "Faculty"
+        }
+      ],
       "faculty": [
         {
           "name": "Dr.N.Balasundaram",

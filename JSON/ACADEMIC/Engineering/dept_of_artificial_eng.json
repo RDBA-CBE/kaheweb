@@ -42,7 +42,7 @@
         {
           "type": "vision",
           "subTitle": "Vision",
-          "src":"/images/Kahe/Innerpages/vision.png",
+          "src": "/images/Kahe/Innerpages/vision.png",
           "content": [
             "To provide scientific research at the highest international standard, integrating cutting-edge multidisciplinary approaches to solving significant problems in biology and medicine.",
             "Motivate students to develop as internationally competitive professionals with excellent leadership, communication with teamwork skills."
@@ -51,7 +51,7 @@
         {
           "type": "mission",
           "subTitle": "Mission",
-          "src":"/images/Kahe/Innerpages/goal.png",
+          "src": "/images/Kahe/Innerpages/goal.png",
           "content": [
             "To provide a high quality education and learning experience for our undergraduate and postgraduate students through.",
             "To encourage students to develop mathematical models.",
@@ -61,7 +61,6 @@
         }
       ]
     },
-
     {
       "tab": "Programme",
       "programmes": {
@@ -71,21 +70,28 @@
             "key": "ug",
             "title": "Under Graduate Programme",
             "img": "/images/others/health-b-02.png",
-            "items": ["B.Sc. Biochemistry"],
+            "items": [
+              "B.Sc. Biochemistry"
+            ],
             "type": "programme"
           },
           {
             "key": "pg",
             "title": "Post Graduate Programmes",
             "img": "/images/others/health-b-02.png",
-            "items": ["M.Sc. Biochemistry (Strength: 30)"],
+            "items": [
+              "M.Sc. Biochemistry (Strength: 30)"
+            ],
             "type": "programme"
           },
           {
             "key": "res",
             "title": "Research Programmes",
             "img": "/images/others/health-b-02.png",
-            "items": ["M.Phil Biochemistry", "Ph.D. Biochemistry"],
+            "items": [
+              "M.Phil Biochemistry",
+              "Ph.D. Biochemistry"
+            ],
             "type": "programme"
           }
         ]
@@ -172,9 +178,32 @@
         ]
       }
     },
-
     {
       "tab": "Faculty",
+      "slug": "department-of-artificial-intelligence-and-data-science",
+      "basic": {
+        "title": "Faculty",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris",
+        "src": "/images/Kahe/Innerpages/vission.jpg",
+        "buttonText": "View All Faculty"
+      },
+      "breadcrumbItems": [
+        {
+          "label": "Academics",
+          "href": "/academics"
+        },
+        {
+          "label": "Engineering",
+          "href": "academics/engineering/"
+        },
+        {
+          "label": "Department of Artificial Intelligence and Data Science",
+          "href": "/academics/engineering/department-of-artificial-intelligence-and-data-science"
+        },
+        {
+          "label": "Faculty"
+        }
+      ],
       "faculty": [
         {
           "name": "Dr. V. K. Gopalakrishnan",
@@ -182,10 +211,10 @@
           "designation": "Professor",
           "email": "",
           "profile": "",
-          "profileText":"View profile",
-          "src":"/images/team/team-11.png",
-          "iconSrc" :"/images/Kahe/Innerpages/education.png",
-          "target":"_blank"
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
         },
         {
           "name": "Dr.M.Sridhar Muthusami",
@@ -193,10 +222,10 @@
           "designation": "Associate Professor",
           "email": "sridhar.m@kahedu.edu.in",
           "profile": "https://kahedu.edu.in//bio-data/arts/biochemistry/DR%20M%20SRIDHAR%20MUTHUSAMI.pdf",
-          "profileText":"View profile",
-          "src":"/images/team/team-11.png",
-          "iconSrc" :"/images/Kahe/Innerpages/education.png",
-          "target":"_blank"
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
         },
         {
           "name": "Mr. S. Rajamanikandan",
@@ -204,10 +233,10 @@
           "designation": "Associate Professor",
           "email": "",
           "profile": "",
-          "profileText":"View profile",
-          "src":"/images/team/team-11.png",
-          "iconSrc" :"/images/Kahe/Innerpages/education.png",
-          "target":"_blank"
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
         },
         {
           "name": "Dr.A.Ramakrishnan",
@@ -215,10 +244,10 @@
           "designation": "Assistant Professor",
           "email": "ramakrishnan.a@kahedu.edu.in",
           "profile": "https://kahedu.edu.in/bio-data/arts/biochemistry/Dr.%20A.%20Ramakrishnan.pdf",
-          "profileText":"View profile",
-          "src":"/images/team/team-11.png",
-          "iconSrc" :"/images/Kahe/Innerpages/education.png",
-          "target":"_blank"
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
         },
         {
           "name": "Dr.Kongkona Saikia",
@@ -226,10 +255,10 @@
           "designation": "Assistant Professor",
           "email": "kongkonasaikia.sobhasaikia@kahedu.edu.in",
           "profile": "https://kahedu.edu.in/n/wp-content/uploads/2021/11/One-page-biodata_Kongkona.pdf",
-          "profileText":"View profile",
-          "src":"/images/team/team-11.png",
-          "iconSrc" :"/images/Kahe/Innerpages/education.png",
-          "target":"_blank"
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
         },
         {
           "name": "Dr.Rathi M.A",
@@ -237,10 +266,10 @@
           "designation": "Assistant Professor",
           "email": "rathi.muthaiyan@kahedu.edu.in",
           "profile": "https://kahedu.edu.in/n/wp-content/uploads/2023/07/rathi-26.7.23.pdf",
-          "profileText":"View profile",
-          "src":"/images/team/team-11.png",
-          "iconSrc" :"/images/Kahe/Innerpages/education.png",
-          "target":"_blank"
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
         },
         {
           "name": "Dr.Femil Selta D",
@@ -248,10 +277,10 @@
           "designation": "Assistant Professor",
           "email": "femilselta.danielraja@kahedu.edu.in",
           "profile": "https://kahedu.edu.in/n/wp-content/uploads/2023/07/femil-26.7.23.pdf",
-          "profileText":"View profile",
-          "src":"/images/team/team-11.png",
-          "iconSrc" :"/images/Kahe/Innerpages/education.png",
-          "target":"_blank"
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
         },
         {
           "name": "Dr.K.Surekha",
@@ -259,10 +288,10 @@
           "designation": "Assistant Professor",
           "email": "surekha.kannan@kahedu.edu.in",
           "profile": "https://kahedu.edu.in/n/wp-content/uploads/2023/07/Surekha-K-17.07.2023.pdf",
-          "profileText":"View profile",
-          "src":"/images/team/team-11.png",
-          "iconSrc" :"/images/Kahe/Innerpages/education.png",
-          "target":"_blank"
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
         },
         {
           "name": "Dr.M.Bharathi",
@@ -270,10 +299,10 @@
           "designation": "Assistant Professor",
           "email": "bharathi.m@kahedu.edu.in",
           "profile": "https://kahedu.edu.in/n/wp-content/uploads/2023/07/Bharathi-M-17.07.2023.pdf",
-          "profileText":"View profile",
-          "src":"/images/team/team-11.png",
-          "iconSrc" :"/images/Kahe/Innerpages/education.png",
-          "target":"_blank"
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
         },
         {
           "name": "Mrs.P. Nirmala Devi",
@@ -281,14 +310,13 @@
           "designation": "Assistant Professor",
           "email": "nirmaladevi.panneerselvam@kahedu.edu.in",
           "profile": "",
-          "profileText":"View profile",
-          "src":"/images/team/team-11.png",
-          "iconSrc" :"/images/Kahe/Innerpages/education.png",
-          "target":"_blank"
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
         }
       ]
     },
-
     {
       "tab": "Infrastructure",
       "items": [

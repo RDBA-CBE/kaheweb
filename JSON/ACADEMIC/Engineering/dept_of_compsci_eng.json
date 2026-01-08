@@ -216,6 +216,30 @@
 
     {
       "tab": "Faculty",
+      "slug": "department-of-computer-science-and-engineering",
+      "basic": {
+        "title": "Faculty",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris",
+        "src": "/images/Kahe/Innerpages/vission.jpg",
+        "buttonText": "View All Faculty"
+      },
+      "breadcrumbItems": [
+        {
+          "label": "Academics",
+          "href": "/academics"
+        },
+        {
+          "label": "Engineering",
+          "href": "academics/engineering/"
+        },
+        {
+          "label": "Department of Computer Science and Engineering",
+          "href": "/academics/engineering/department-of-computer-science-and-engineering"
+        },
+        {
+          "label": "Faculty"
+        }
+      ],
       "faculty": [
         {
           "name": "Dr.R.Santhosh",

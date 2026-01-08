@@ -6,6 +6,7 @@ import { FaChevronRight } from "react-icons/fa";
 // import { useAppContext } from "@/context/Context";
 
 const Breadcrumb = ({ items = [], showHome = true }) => {
+console.log('✌️items --->', items);
   // const { sidebar, setSidebar } = useAppContext();
 
   // Default Home item
