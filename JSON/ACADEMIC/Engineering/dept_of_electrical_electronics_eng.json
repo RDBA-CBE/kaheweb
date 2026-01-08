@@ -2,7 +2,7 @@
   "title": "Department of Electrical and Electronics Engineering",
   "bannerCon": "The University of Wyoming welcomes students to experience a one-of-a-kind education in the heart of the Mountain West.",
   "applyLink": "#",
-  "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+  "bannerImg": "/images/Kahe/academics/engineering/EEE/eee-banner.png",
   "tabs": [
     {
       "id": "overview",
@@ -37,7 +37,7 @@
           "type": "overview",
           "subTitle": "Overview",
           "contents": "The Department of Electrical and Electronics Engineering offers Bachelor of Engineering in Electrical and Electronics Engineering and Master of Engineering in Power Systems Engineering. Research programmes include Ph.D. in Electrical and Electronics Engineering. The research specializations of the department are Power Systems, High Voltage Engineering, Power Electronics and Drives, Control and Instrumentation, Embedded System Technology, Electric Drives and Embedded Control. The Department has well-equipped Machines, Power Electronics and Power System Laboratories and a team of dedicated faculty members with industry as well as academic experience.",
-          "image": "/images/others/video-07.jpg"
+          "image": "/images/Kahe/academics/engineering/EEE/eee-overview.png"
         },
         {
           "type": "vision",
@@ -67,7 +67,7 @@
           {
             "key": "ug",
             "title": "Under Graduate Programme",
-            "img": "/images/others/health-b-02.png",
+            "img": "/images/Kahe/academics/engineering/EEE/eee-studentprogrammes.png",
             "items": [
               "B.E. Electrical and Electronics Engineering (Strength: 60)"
             ],
@@ -76,7 +76,7 @@
           {
             "key": "pg",
             "title": "Post Graduate Programme",
-            "img": "/images/others/health-b-02.png",
+           "img": "/images/Kahe/academics/engineering/EEE/eee-studentprogrammes.png",
             "items": [
               "M.E. Power Systems Engineering (Strength: 6)"
             ],
@@ -85,7 +85,7 @@
           {
             "key": "res",
             "title": "Research Programme",
-            "img": "/images/others/health-b-02.png",
+           "img": "/images/Kahe/academics/engineering/EEE/eee-studentprogrammes.png",
             "items": [
               "Ph.D. Electrical and Electronics Engineering"
             ],
@@ -99,7 +99,7 @@
           {
             "key": "be-ft",
             "title": "BE Electrical and Electronics Engineering – FT",
-            "img": "/images/others/health-b-02.png",
+            "img": "/images/Kahe/academics/engineering/EEE/eee-studentprogrammes.png",
             "type": "curriculum",
             "items": [
               {
@@ -131,7 +131,7 @@
           {
             "key": "be-pt",
             "title": "BE Electrical and Electronics Engineering – PT",
-            "img": "/images/others/health-b-02.png",
+            "img": "/images/Kahe/academics/engineering/EEE/eee-studentprogrammes.png",
             "type": "curriculum",
             "items": [
               {
@@ -151,7 +151,7 @@
           {
             "key": "me-ft",
             "title": "ME Power Systems Engineering – FT",
-            "img": "/images/others/health-b-02.png",
+            "img": "/images/Kahe/academics/engineering/EEE/eee-studentprogrammes.png",
             "type": "curriculum",
             "items": [
               {
@@ -187,7 +187,7 @@
           {
             "key": "me-pt",
             "title": "ME Power Systems Engineering – PT",
-            "img": "/images/others/health-b-02.png",
+           "img": "/images/Kahe/academics/engineering/EEE/eee-studentprogrammes.png",
             "type": "curriculum",
             "items": [
               {
@@ -211,7 +211,7 @@
           {
             "key": "phd",
             "title": "Ph.D. Electrical and Electronics Engineering",
-            "img": "/images/others/health-b-02.png",
+          "img": "/images/Kahe/academics/engineering/EEE/eee-studentprogrammes.png",
             "type": "curriculum",
             "items": [
               {

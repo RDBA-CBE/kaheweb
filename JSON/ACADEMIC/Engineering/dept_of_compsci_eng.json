@@ -2,7 +2,7 @@
   "title": "Department of Computer Science and Engineering",
   "bannerCon": "The University of Wyoming welcomes students to experience a one-of-a-kind education in the heart of the Mountain West.",
   "applyLink": "#",
-  "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+  "bannerImg": "/images/Kahe/academics/engineering/CSE/computerscience-banner.png",
   "tabs": [
     {
       "id": "overview",
@@ -37,7 +37,7 @@
           "type": "overview",
           "subTitle": "Overview",
           "contents": "The goal of CSE department is to make the students reach the mark of excellence in IT arena. Eminent personalities from the industry are invited to address the students which in turn raise the level of confidence among the students. The students are motivated to take part in co-curricular activities and to guide them in organizing guest lectures, seminars, competitions etc.",
-          "image": "/images/others/video-07.jpg"
+          "image": "/images/Kahe/academics/engineering/CSE/computerscience-overview.png"
         },
         {
           "type": "vision",
@@ -67,21 +67,21 @@
           {
             "key": "ug",
             "title": "Under Graduate Programme",
-            "img": "/images/others/health-b-02.png",
+            "img": "/images/Kahe/academics/engineering/CSE/computerscience-studentprogrammes.png",
             "items": ["B.E Computer Science and Engineering (Strength: 240)"],
             "type": "programme"
           },
           {
             "key": "pg",
             "title": "Post Graduate Programme",
-            "img": "/images/others/health-b-02.png",
+            "img": "/images/Kahe/academics/engineering/CSE/computerscience-studentprogrammes.png",
             "items": ["M.E. Computer Science and Engineering (Strength: 12)"],
             "type": "programme"
           },
           {
             "key": "res",
             "title": "Research Programme",
-            "img": "/images/others/health-b-02.png",
+            "img": "/images/Kahe/academics/engineering/CSE/computerscience-studentprogrammes.png",
             "items": ["Ph.D in Computer Science and Engineering"],
             "type": "programme"
           }
@@ -93,7 +93,7 @@
           {
             "key": "be",
             "title": "BE Computer Science and Engineering",
-            "img": "/images/others/health-b-02.png",
+             "img": "/images/Kahe/academics/engineering/CSE/computerscience-studentprogrammes.png",
             "type": "curriculum",
             "items": [
               {
@@ -125,7 +125,7 @@
           {
             "key": "me",
             "title": "ME Computer Science and Engineering",
-            "img": "/images/others/health-b-02.png",
+            "img": "/images/Kahe/academics/engineering/CSE/computerscience-studentprogrammes.png",
             "type": "curriculum",
             "items": [
               {
@@ -149,7 +149,7 @@
           {
             "key": "me",
             "title": "M.E. Water Resources and Environmental Engineering – FT",
-            "img": "/images/others/health-b-02.png",
+            "img": "/images/Kahe/academics/engineering/CSE/computerscience-studentprogrammes.png",
             "type": "curriculum",
             "items": [
               {
@@ -169,7 +169,7 @@
           {
             "key": "me",
             "title": "M.E. Water Resources and Environmental Engineering – PT",
-            "img": "/images/others/health-b-02.png",
+             "img": "/images/Kahe/academics/engineering/CSE/computerscience-studentprogrammes.png",
             "type": "curriculum",
             "items": [
               {
@@ -185,7 +185,7 @@
           {
             "key": "me",
             "title": "Ph.D. Computer Science and Engineering",
-            "img": "/images/others/health-b-02.png",
+            "img": "/images/Kahe/academics/engineering/CSE/computerscience-studentprogrammes.png",
             "type": "curriculum",
             "items": [
               {
