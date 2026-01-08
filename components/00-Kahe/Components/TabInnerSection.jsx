@@ -10,6 +10,7 @@ import Publications from "./tabContentComponents/Publications";
 import Programmes from "./tabContentComponents/Programmes";
 import ProgrammesMbl from "./tabContentComponents/ProgrammesMbl";
 import Gal_Pub_Event from "./tabContentComponents/Gal_Pub_Event";
+import StudentsCom from "./tabContentComponents/StudentsCom";
 
 const TabInnerSection = ({ tabSections, tabContent }) => {
   const tabItems = tabContent;
@@ -32,6 +33,10 @@ const TabInnerSection = ({ tabSections, tabContent }) => {
   const InfraGallery = infrastructureContent?.items?.find(
     (item) => item.type == "gallery"
   );
+
+  const studentsContent = tabContent.find((item) => item.tab == "students");
+  console.log("studentsContent", studentsContent);
+  
 
   return (
     <>
@@ -71,6 +76,17 @@ const TabInnerSection = ({ tabSections, tabContent }) => {
             <Infrastructure infrastructureContent={infrastructureContent && infrastructureContent} />
           </div>
         )}
+
+        {
+          studentsContent && (
+            <div
+              className=" section-bg1"
+              id="students"
+            >
+              <StudentsCom data = {studentsContent}/>
+            </div>
+          )
+        }
         <div
           className="section-bg1  course-content  coursecontent-wrapper"
           style={{ padding: "80px 0" }}
