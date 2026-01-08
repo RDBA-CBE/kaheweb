@@ -88,7 +88,7 @@ const Overview = ({ overviewContent }) => {
           </div>
         ) : (
           <div className="overview-right">
-            <img src={overviewItem.image} alt="overview image" />
+            <img src={overviewItem?.image} alt="overview image" />
           </div>
         )}
       </div>
