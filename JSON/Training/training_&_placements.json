@@ -5,7 +5,18 @@
     "bannerCon": "To be a leading institution in the field of education, providing quality education and training to students and professionals.",
     "applyLink": "/"
   },
-
+  "trainingPlacement": {
+    "title": "Training and Placement Cell",
+    "imgUrl": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/board-of-trustee.jpg",
+    "content": [
+      {
+        "title": "",
+        "caption": "President",
+        "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/President-1.jpg",
+        "content": "Training to make the students employable begins right from the first year. Faculty with subject expertise strives to install skills required by the corporate sector. The Training department makes an imperative move to produce industry ready candidates to cater the needs of current corporate expectations. The department strives to achieve the institution’s vision and meet heights to bestow learning culture as per the Industry standards and create a competitive environment and shape the student generation to reach intensive sky scraping career goals.The tentative program gives a glimpse of the need based training."
+      }
+    ]
+  },
   "tabs": [
     {
       "id": "trainers",
@@ -23,149 +34,336 @@
   "tabContent": [
     {
       "tab": "trainers",
-
       "publications": {
         "title": "Training & Placement Staff",
         "content": [
           {
             "head": [
-              { "id": "col1", "label": "Sl. No" },
-              { "id": "col2", "label": "Name" },
-              { "id": "col3", "label": "Qualification" },
-              { "id": "col4", "label": "Designation" }
+              {
+                "id": "col1",
+                "label": "Sl. No"
+              },
+              {
+                "id": "col2",
+                "label": "Name"
+              },
+              {
+                "id": "col3",
+                "label": "Qualification"
+              },
+              {
+                "id": "col4",
+                "label": "Designation"
+              }
             ],
             "data": [
               {
-                "col1": { "text": "1" },
-                "col2": { "text": "Mr. Krishnakumar Athithan A" },
-                "col3": { "text": "B.E., M.E., (Ph.D)" },
-                "col4": { "text": "Training Officer" }
+                "col1": {
+                  "text": "1"
+                },
+                "col2": {
+                  "text": "Mr. Krishnakumar Athithan A"
+                },
+                "col3": {
+                  "text": "B.E., M.E., (Ph.D)"
+                },
+                "col4": {
+                  "text": "Training Officer"
+                }
               },
               {
-                "col1": { "text": "2" },
-                "col2": { "text": "Mrs. Aswini M" },
-                "col3": { "text": "M.A." },
-                "col4": { "text": "Verbal and Softskill Trainer" }
+                "col1": {
+                  "text": "2"
+                },
+                "col2": {
+                  "text": "Mrs. Aswini M"
+                },
+                "col3": {
+                  "text": "M.A."
+                },
+                "col4": {
+                  "text": "Verbal and Softskill Trainer"
+                }
               },
               {
-                "col1": { "text": "3" },
-                "col2": { "text": "Ms. Jaya Surya S" },
-                "col3": { "text": "M.A." },
-                "col4": { "text": "Verbal and Softskill Trainer" }
+                "col1": {
+                  "text": "3"
+                },
+                "col2": {
+                  "text": "Ms. Jaya Surya S"
+                },
+                "col3": {
+                  "text": "M.A."
+                },
+                "col4": {
+                  "text": "Verbal and Softskill Trainer"
+                }
               },
               {
-                "col1": { "text": "4" },
-                "col2": { "text": "Ms. Abitha A" },
-                "col3": { "text": "M.A." },
-                "col4": { "text": "Verbal and Softskill Trainer" }
+                "col1": {
+                  "text": "4"
+                },
+                "col2": {
+                  "text": "Ms. Abitha A"
+                },
+                "col3": {
+                  "text": "M.A."
+                },
+                "col4": {
+                  "text": "Verbal and Softskill Trainer"
+                }
               },
               {
-                "col1": { "text": "5" },
-                "col2": { "text": "Ms. Swetha S" },
-                "col3": { "text": "M.A., B.Ed." },
-                "col4": { "text": "Verbal and Softskill Trainer" }
+                "col1": {
+                  "text": "5"
+                },
+                "col2": {
+                  "text": "Ms. Swetha S"
+                },
+                "col3": {
+                  "text": "M.A., B.Ed."
+                },
+                "col4": {
+                  "text": "Verbal and Softskill Trainer"
+                }
               },
               {
-                "col1": { "text": "6" },
-                "col2": { "text": "Ms. Maha Lakshmi P" },
-                "col3": { "text": "M.A." },
-                "col4": { "text": "Verbal and Softskill Trainer" }
+                "col1": {
+                  "text": "6"
+                },
+                "col2": {
+                  "text": "Ms. Maha Lakshmi P"
+                },
+                "col3": {
+                  "text": "M.A."
+                },
+                "col4": {
+                  "text": "Verbal and Softskill Trainer"
+                }
               },
               {
-                "col1": { "text": "7" },
-                "col2": { "text": "Ms. Prahanya M" },
-                "col3": { "text": "M.A." },
-                "col4": { "text": "Verbal and Softskill Trainer" }
+                "col1": {
+                  "text": "7"
+                },
+                "col2": {
+                  "text": "Ms. Prahanya M"
+                },
+                "col3": {
+                  "text": "M.A."
+                },
+                "col4": {
+                  "text": "Verbal and Softskill Trainer"
+                }
               },
               {
-                "col1": { "text": "8" },
-                "col2": { "text": "Ms. Kaviya D" },
-                "col3": { "text": "M.Sc." },
-                "col4": { "text": "Aptitude Trainer" }
+                "col1": {
+                  "text": "8"
+                },
+                "col2": {
+                  "text": "Ms. Kaviya D"
+                },
+                "col3": {
+                  "text": "M.Sc."
+                },
+                "col4": {
+                  "text": "Aptitude Trainer"
+                }
               },
               {
-                "col1": { "text": "9" },
-                "col2": { "text": "Ms. Dharshini D" },
-                "col3": { "text": "M.Sc." },
-                "col4": { "text": "Aptitude Trainer" }
+                "col1": {
+                  "text": "9"
+                },
+                "col2": {
+                  "text": "Ms. Dharshini D"
+                },
+                "col3": {
+                  "text": "M.Sc."
+                },
+                "col4": {
+                  "text": "Aptitude Trainer"
+                }
               },
               {
-                "col1": { "text": "10" },
-                "col2": { "text": "Ms. Sathiyadharani R" },
-                "col3": { "text": "M.Sc., B.Ed" },
-                "col4": { "text": "Aptitude Trainer" }
+                "col1": {
+                  "text": "10"
+                },
+                "col2": {
+                  "text": "Ms. Sathiyadharani R"
+                },
+                "col3": {
+                  "text": "M.Sc., B.Ed"
+                },
+                "col4": {
+                  "text": "Aptitude Trainer"
+                }
               },
               {
-                "col1": { "text": "11" },
-                "col2": { "text": "Ms. Harini D" },
-                "col3": { "text": "M.Sc." },
-                "col4": { "text": "Aptitude Trainer" }
+                "col1": {
+                  "text": "11"
+                },
+                "col2": {
+                  "text": "Ms. Harini D"
+                },
+                "col3": {
+                  "text": "M.Sc."
+                },
+                "col4": {
+                  "text": "Aptitude Trainer"
+                }
               },
               {
-                "col1": { "text": "12" },
-                "col2": { "text": "Ms. Dhivyadharshini T" },
-                "col3": { "text": "M.Sc., B.Ed" },
-                "col4": { "text": "Aptitude Trainer" }
+                "col1": {
+                  "text": "12"
+                },
+                "col2": {
+                  "text": "Ms. Dhivyadharshini T"
+                },
+                "col3": {
+                  "text": "M.Sc., B.Ed"
+                },
+                "col4": {
+                  "text": "Aptitude Trainer"
+                }
               },
               {
-                "col1": { "text": "13" },
-                "col2": { "text": "Ms. Kowsalya P" },
-                "col3": { "text": "M.Sc., B.Ed" },
-                "col4": { "text": "Aptitude Trainer" }
+                "col1": {
+                  "text": "13"
+                },
+                "col2": {
+                  "text": "Ms. Kowsalya P"
+                },
+                "col3": {
+                  "text": "M.Sc., B.Ed"
+                },
+                "col4": {
+                  "text": "Aptitude Trainer"
+                }
               },
               {
-                "col1": { "text": "14" },
-                "col2": { "text": "Ms. Poorani R" },
-                "col3": { "text": "M.Sc." },
-                "col4": { "text": "Aptitude Trainer" }
+                "col1": {
+                  "text": "14"
+                },
+                "col2": {
+                  "text": "Ms. Poorani R"
+                },
+                "col3": {
+                  "text": "M.Sc."
+                },
+                "col4": {
+                  "text": "Aptitude Trainer"
+                }
               },
               {
-                "col1": { "text": "15" },
-                "col2": { "text": "MS. Vikashini N S" },
-                "col3": { "text": "M.Sc." },
-                "col4": { "text": "Aptitude Trainer" }
+                "col1": {
+                  "text": "15"
+                },
+                "col2": {
+                  "text": "MS. Vikashini N S"
+                },
+                "col3": {
+                  "text": "M.Sc."
+                },
+                "col4": {
+                  "text": "Aptitude Trainer"
+                }
               },
               {
-                "col1": { "text": "16" },
-                "col2": { "text": "Ms. Haripriya V" },
-                "col3": { "text": "MCA., (Ph.D)" },
-                "col4": { "text": "Technical Trainer" }
+                "col1": {
+                  "text": "16"
+                },
+                "col2": {
+                  "text": "Ms. Haripriya V"
+                },
+                "col3": {
+                  "text": "MCA., (Ph.D)"
+                },
+                "col4": {
+                  "text": "Technical Trainer"
+                }
               },
               {
-                "col1": { "text": "17" },
-                "col2": { "text": "Ms. Shanmuga Priya S" },
-                "col3": { "text": "MCA., (Ph.D)" },
-                "col4": { "text": "Technical Trainer" }
+                "col1": {
+                  "text": "17"
+                },
+                "col2": {
+                  "text": "Ms. Shanmuga Priya S"
+                },
+                "col3": {
+                  "text": "MCA., (Ph.D)"
+                },
+                "col4": {
+                  "text": "Technical Trainer"
+                }
               },
               {
-                "col1": { "text": "18" },
-                "col2": { "text": "Ms. Haripriya M P" },
-                "col3": { "text": "MCA" },
-                "col4": { "text": "Technical Trainer" }
+                "col1": {
+                  "text": "18"
+                },
+                "col2": {
+                  "text": "Ms. Haripriya M P"
+                },
+                "col3": {
+                  "text": "MCA"
+                },
+                "col4": {
+                  "text": "Technical Trainer"
+                }
               },
               {
-                "col1": { "text": "19" },
-                "col2": { "text": "Mr. Bharani Shridharan K" },
-                "col3": { "text": "B. Tech." },
-                "col4": { "text": "Technical Trainer" }
+                "col1": {
+                  "text": "19"
+                },
+                "col2": {
+                  "text": "Mr. Bharani Shridharan K"
+                },
+                "col3": {
+                  "text": "B. Tech."
+                },
+                "col4": {
+                  "text": "Technical Trainer"
+                }
               },
               {
-                "col1": { "text": "20" },
-                "col2": { "text": "Ms. Sivaranjani S" },
-                "col3": { "text": "MBA" },
-                "col4": { "text": "Junior Assistant" }
+                "col1": {
+                  "text": "20"
+                },
+                "col2": {
+                  "text": "Ms. Sivaranjani S"
+                },
+                "col3": {
+                  "text": "MBA"
+                },
+                "col4": {
+                  "text": "Junior Assistant"
+                }
               },
               {
-                "col1": { "text": "21" },
-                "col2": { "text": "Ms. Jothi Pushpam P" },
-                "col3": { "text": "Dip. (CSE)" },
-                "col4": { "text": "Junior Assistant" }
+                "col1": {
+                  "text": "21"
+                },
+                "col2": {
+                  "text": "Ms. Jothi Pushpam P"
+                },
+                "col3": {
+                  "text": "Dip. (CSE)"
+                },
+                "col4": {
+                  "text": "Junior Assistant"
+                }
               },
               {
-                "col1": { "text": "22" },
-                "col2": { "text": "Ms. Shobana" },
-                "col3": { "text": "B.Sc." },
-                "col4": { "text": "Junior Assistant" }
+                "col1": {
+                  "text": "22"
+                },
+                "col2": {
+                  "text": "Ms. Shobana"
+                },
+                "col3": {
+                  "text": "B.Sc."
+                },
+                "col4": {
+                  "text": "Junior Assistant"
+                }
               }
             ]
           }
@@ -207,12 +405,36 @@
           }
         ]
       },
-
       "activities": {
-        "title": "List of Research Centres",
+        "title": "The key objectives of the  Training and Placement cell",
         "items1": [
           {
-            "clsName": "col-lg-4 col-md-6 col-sm-6 col-12",
+            "clsName": "col-lg-6 col-md-6 col-sm-6 col-12",
+            "src": "/images/category/image/web-design.jpg",
+            "content": "To viaduct the gap between the industry and fresh graduates and to fit the requirements of industrial need."
+          },
+          {
+            "clsName": "col-lg-6 col-md-6 col-sm-6 col-12",
+            "src": "/images/category/image/web-design.jpg",
+            "content": "To bring forth and develop a incessant institute-industry interaction"
+          },
+          {
+            "clsName": "col-lg-6 col-md-6 col-sm-6 col-12",
+            "src": "/images/category/image/web-design.jpg",
+            "content": "To shore up the industry to identify the best talents"
+          },
+          {
+            "clsName": "col-lg-6 col-md-6 col-sm-6 col-12",
+            "src": "/images/category/image/web-design.jpg",
+            "content": "To prepare the student community towards the niche need that matches the requirements of employers."
+          }
+        ]
+      },
+      "OtherActivities": {
+        "title": "Other Activities",
+        "items1": [
+          {
+            "clsName": "col-lg-6 col-md-6 col-sm-6 col-12",
             "src": "/images/category/image/web-design.jpg",
             "content": "Counseling on job opportunities."
           },
@@ -222,7 +444,7 @@
             "content": "Train students for BEC exam for different levels (‎Business Preliminary – ‎Business Higher – ‎Business Vantage)"
           },
           {
-            "clsName": "col-lg-4 col-md-6 col-sm-6 col-12",
+            "clsName": "col-lg-6 col-md-6 col-sm-6 col-12",
             "src": "/images/category/image/web-design.jpg",
             "content": "Helping students in industry visits"
           }
@@ -240,23 +462,22 @@
           "To identify student representatives, encourage team spirit and team work among them"
         ]
       },
-
       "responsibilities": {
-        "type": "mission",
-        "subTitle": "Mission",
+        "type": "Responsibilities of Department coordinators (related to Training and Placement)",
+        "subTitle": "Responsibilities of Department coordinators (related to Training and Placement)",
         "src": "/images/Kahe/Innerpages/goal.png",
         "content": [
-          "To provide a high quality education and learning experience for our undergraduate and postgraduate students through.",
-          "To encourage students to develop mathematical models.",
-          "To make students as professionals with social and economic responsibilities.",
-          "To encourage collaborative research with other disciplines."
+          "To facilitate the communication process  between department, Career Development and Corporate Relations Cell.",
+          "To acquire the information from the placement team and identify and organize the students for training based on the eligibility.",
+          "To recognize the vibrant student representatives for the department who will vigorously partake in placement work.",
+          "Make clear to the students about the activities of the Career Development and Corporate Relations.",
+          "Be present at the time of campus interview along with the student representatives to motivate and facilitate students of their department, collect the list of selected students and inform the students individually."
         ]
       }
     },
     {
       "tab": "training_methodology",
       "title": "Training Methodology",
-      
       "engineering": {
         "title": "Engineering",
         "content": [
@@ -301,7 +522,7 @@
       },
       "arts_science": {
         "title": "Arts Science and Humanities",
-        "clsName":"col-lg-4 col-md-6 col-sm-6 col-12",
+        "clsName": "col-lg-4 col-md-6 col-sm-6 col-12",
         "content": [
           {
             "year": "1st Year",
