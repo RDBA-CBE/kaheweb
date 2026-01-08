@@ -3,8 +3,8 @@ import FundedResearch from "@/components/00-Kahe/DirectPageComponent/FundedResea
 
 
 export const metadata = {
-  title: "About Us 01 - Online Courses & Education NEXTJS14 Template",
-  description: "Online Courses & Education NEXTJS14 Template",
+  title: "Examinations | Top Computer Technology Colleges",
+  description: "With a focus on research &amp; innovation, we offer a wide range of courses at KAHE, one of the top computer technology colleges in Coimbatore.",
 };
 const page = () => {
   return (
