@@ -233,10 +233,10 @@
             {
               "title": "Supportive Department",
               "link": "/#",
-              "children": [
+              "sub_children": [
                 {
                   "title": "Science and Humanities",
-                  "link": "/kahe/academics/engineering/department-of-science-and-humanities/"
+                  "link": "/kahe/academics/engineering/science-and-humanities/"
                 }
               ]
             }
@@ -541,8 +541,7 @@
           "title": "Examination Reforms",
           "link": "/kahe/examinations/examination-reforms/",
           "desc": "Learn more about KAHE overview.",
-          "src": "/images/banner/co-men.png",
-          "target": "_blank"
+          "src": "/images/banner/co-men.png"
         }
       ]
     },
