@@ -19,14 +19,18 @@ const Vision = ({ vision, data }) => {
           </div>
         )}
         <div className="vsn-left">
+          {vision?.title &&
           <h2
             className="decor-ti"
             dangerouslySetInnerHTML={{ __html: FirstLetterUp(vision?.title) }}
           ></h2>
+        }
+          {vision?.description &&
           <p
             className="vsn-desc"
             dangerouslySetInnerHTML={{ __html: vision.description }}
           ></p>
+        }
 
           {vision?.buttonText && (
             <div className="col-lg-6 col-md-6 col-12 d-flex mt-5">
