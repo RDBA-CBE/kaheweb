@@ -37,6 +37,8 @@ const Infrastructure = ({ infrastructureContent }) => {
     (item) => item.type == "library"
   );
 
+  const para = infrastructureContent.items?.find((item) => item.type == "para");
+
   const gallery = infrastructureContent.items?.find(
     (item) => item.type == "gallery"
   );
@@ -62,6 +64,16 @@ const Infrastructure = ({ infrastructureContent }) => {
         </div>
         <div className="row gy-5">
           <div className="col-lg-12">
+            {para && (
+              <div className="row ">
+                <p
+                  className="mb-0"
+                  dangerouslySetInnerHTML={{
+                    __html: FirstLetterUp(para.content),
+                  }}
+                ></p>
+              </div>
+            )}
             {infraCon && (
               <div className="row mb--30">
                 {infraCon.title && (
@@ -80,9 +92,7 @@ const Infrastructure = ({ infrastructureContent }) => {
                       <div>
                         <StudentsIcon className="dept-icon" />
                         <p className="simple-counter-title">{item?.title}</p>
-                      
                       </div>
-                      
                     </div>
                   ))}
                 </div>
@@ -102,7 +112,7 @@ const Infrastructure = ({ infrastructureContent }) => {
             )}
 
             {labItem && (
-              <div className="lab row g-5 mb--30 mt-5">
+              <div className="lab row g-5 mb--30">
                 <h3
                   className="main-sub-ti"
                   dangerouslySetInnerHTML={{
@@ -120,6 +130,17 @@ const Infrastructure = ({ infrastructureContent }) => {
                     ))}
                   </ul>
                 </div> */}
+
+                {labItem.desc && (
+                  <div className="row ">
+                    <p
+                      className="mb-5 ms-2"
+                      dangerouslySetInnerHTML={{
+                        __html: FirstLetterUp(labItem.desc),
+                      }}
+                    ></p>
+                  </div>
+                )}
 
                 <div className="dept-wrapper mt-0 ">
                   {labItem?.content?.map((item, i) => (
@@ -142,6 +163,17 @@ const Infrastructure = ({ infrastructureContent }) => {
                     __html: FirstLetterUp(equipementItem?.title),
                   }}
                 ></h3>
+
+                {equipementItem.desc && (
+                  <div className="row ">
+                    <p
+                      className="mb-5 ms-2"
+                      dangerouslySetInnerHTML={{
+                        __html: FirstLetterUp(equipementItem.desc),
+                      }}
+                    ></p>
+                  </div>
+                )}
 
                 <div className="dept-wrapper">
                   {equipementItem?.content?.map((item, i) => (
@@ -171,6 +203,17 @@ const Infrastructure = ({ infrastructureContent }) => {
                       __html: FirstLetterUp(library.title),
                     }}
                   ></h3>
+                )}
+
+                {library.desc && (
+                  <div className="row ">
+                    <p
+                      className="mb-5"
+                      dangerouslySetInnerHTML={{
+                        __html: FirstLetterUp(library.desc),
+                      }}
+                    ></p>
+                  </div>
                 )}
 
                 <div className="dept-wrapper mt-0">

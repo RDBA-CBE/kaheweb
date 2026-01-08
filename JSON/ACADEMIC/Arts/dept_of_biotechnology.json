@@ -144,9 +144,10 @@
         {
           "type": "hod",
           "items": {
-            "title": "Head of the Department (HOD)",
+            
             "content": [
               {
+                "title1": "Head of the Department (HOD)",
                 "title": "Dr. A. Sangilimuthu",
                 "caption": "HOD",
                 "content": "I am glad to welcome you to the Department of Biotechnology under the Faculty of Arts, Science, Commerce and Management, Karpagam Academy of Higher Education. The Department is recognized as excellent in academic and research by Department of Science and Technology, New Delhi, India and committed to advancing education, research in frontier areas of Biotechnology, empowering young minds with scientific knowledge, research aptitude, and societal responsibility. Since joining the University in 2009, I have had the privilege of witnessing the department grow into a vibrant hub of learning, innovation, and research. Our vision is to nurture students with strong theoretical foundations and hands-on laboratory expertise, preparing them to meet global challenges in healthcare, agriculture, recombinant DNA technology, environmental biotechnology, and industrial biotechnology. As a Professor in the Department, I am proud to be part of a team of passionate and highly qualified faculty members who are deeply committed to academic excellence and research. The department’s research strength is reflected in the extensive publications in SCI/Scopus indexed journals (254 publications for the last 5 years), peer-reviewed contributions, patents, and major funded research projects supported by prestigious scientific bodies such as DBT, DST, SERB, TARE and TNSCST. The Department offers programs designed to meet the expectations of academia, industry, and research organizations. Students gain a strong research exposure through internships, industrial training, and dissertation work of publishable quality in their final semester, giving them an academic and professional advantage in pursuing careers or higher studies in India and abroad. I invite you to explore our website to learn more about the department, our faculty expertise, research focus, academic programs, achievements, and upcoming events. Thank you for your interest in the Department of Biotechnology.",
@@ -291,7 +292,7 @@
       },
 
       "breadcrumbItems": [
-        { "label": "Academics", "href": "`academics`" },
+        { "label": "Academics", "href": "academics" },
         {
           "label": "Arts, Science, Commerce and Management",
           "href": "academics/arts-science-and-humanities/"
