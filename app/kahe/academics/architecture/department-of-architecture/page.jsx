@@ -8,7 +8,8 @@ export const metadata = {
 const page = () => {
   return (
     <>
-     <DepartmentOfArchitecture/>
+    page
+     {/* <DepartmentOfArchitecture/> */}
     </>
   );
 };
