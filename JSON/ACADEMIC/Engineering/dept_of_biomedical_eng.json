@@ -2,7 +2,7 @@
   "title": "Department of Biomedical Engineering",
   "bannerCon": "The University of Wyoming welcomes students to experience a one-of-a-kind education in the heart of the Mountain West.",
   "applyLink": "#",
-  "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+  "bannerImg": "/images/Kahe/academics/engineering/Biomedical-Eng/biomedicalengineering-banner.png",
   "tabs": [
     {
       "id": "overview",
@@ -37,7 +37,7 @@
           "type": "overview",
           "subTitle": "Overview",
           "contents": "Biomedical Engineering is a multidisciplinary field that integrates biology and engineering and applying engineering principles to healthcare. Biomedical Engineering is a relatively newly introduced branch of Engineering. The demand of Biomedical Engineers is growing as it helps to address the gap of medical and engineering to develop quality health care products.Department of Biomedical Engineering was established in the year 2016. Department Biomedical Engineering has well qualified and dedicated faculty members engaged in research and development. The Department has established the Center for Biophotonics and technology to promote inhouse research activities among students and faculty members. Young department to receive grants from Department of Science and Technology, Delhi. Our department holds the track record of providing 85-90 % placement and facilitates students to start their startups for developing biomedical devices.",
-          "image": "/images/others/video-07.jpg"
+          "image": "/images/Kahe/academics/engineering/Biomedical-Eng/biomedicalengineering-overview.png"
         },
         {
           "type": "vision",
@@ -68,7 +68,7 @@
           {
             "key": "ug",
             "title": "Under Graduate Programme",
-            "img": "/images/others/health-b-02.png",
+            "img": "/images/Kahe/academics/engineering/Biomedical-Eng/biomedicalengineering-studentprogrammes.png",
             "items": ["B.E – Biomedical Engineering (Strength: 60)"],
             "type": "programme"
           }
@@ -80,7 +80,7 @@
           {
             "key": "be",
             "title": "B.E – Biomedical Engineering",
-            "img": "/images/others/health-b-02.png",
+            "img": "/images/Kahe/academics/engineering/Biomedical-Eng/biomedicalengineering-studentprogrammes.png",
             "type": "curriculum",
             "items": [
               {
@@ -115,6 +115,30 @@
 
     {
       "tab": "Faculty",
+      "slug": "department-of-biomedical-engineering",
+      "basic": {
+        "title": "Faculty",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris",
+        "src": "/images/Kahe/Innerpages/vission.jpg",
+        "buttonText": "View All Faculty"
+      },
+      "breadcrumbItems": [
+        {
+          "label": "Academics",
+          "href": "/academics"
+        },
+        {
+          "label": "Engineering",
+          "href": "academics/engineering/"
+        },
+        {
+          "label": "Department of Biomedical Engineering",
+          "href": "/academics/engineering/department-of-biomedical-engineering"
+        },
+        {
+          "label": "Faculty"
+        }
+      ],
       "faculty": [
         {
           "name": "Dr.Kamalraj Subramaniam",

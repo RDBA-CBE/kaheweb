@@ -19,7 +19,7 @@ console.log('data', data);
 
 const DepartmentOfArtificialIntelligence = () => {
   const breadcrumbItems = [
-    { label: 'Academics', href: `academics` },
+    { label: 'Academics', href: "academics" },
     {
       label: 'Arts, Science, Commerce and Management',
       href: `academics/arts-science-and-humanities/`,
