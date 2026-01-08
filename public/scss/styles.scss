@@ -814,6 +814,9 @@
 //   align-items: center;
 //   justify-content: flex-end;
 // }
+
+
+
 .uw-banner-overlay {
   position: absolute;
   top: 0;
@@ -821,6 +824,7 @@
   width: 50%;
   height: 100%;
   background:url("../images/Kahe/breadcrumb/gradiant-transparent.png") no-repeat right;
+   background-position: right;
   display: flex;
   align-items: center;
   justify-content: flex-end;
@@ -935,6 +939,12 @@
 }
 
 /* Media Queries for Responsive Design */
+
+@media (max-width: 1700px) {
+  .uw-banner-overlay {
+   background-position: left;
+  }
+} 
 @media (max-width: 1024px) {
   .uw-banner-container {
     height: 450px;
@@ -959,6 +969,7 @@
 @media (max-width: 800px) {
   .uw-banner-overlay {
     width: 100%;
+    background-position: right;
   }
 }
 
