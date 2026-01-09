@@ -1,0 +1,619 @@
+{
+  "title": "Department of Artificial Intelligence & Data Science",
+  "bannerCon": "The University of Wyoming welcomes students to experience a one-of-a-kind education in the heart of the Mountain West.",
+  "applyLink": "#",
+  "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+  "tabs": [
+    {
+      "id": "overview",
+      "label": "Overview"
+    },
+    {
+      "id": "programme",
+      "label": "Programme"
+    },
+    {
+      "id": "faculty",
+      "label": "Faculty"
+    },
+    {
+      "id": "infrastructure",
+      "label": "Infrastructure"
+    },
+    {
+      "id": "students",
+      "label": "Students"
+    },
+    {
+      "id": "patents",
+      "label": "Patents/MoUs"
+    },
+    {
+      "id": "publications",
+      "label": "Publications"
+    },
+    {
+      "id": "gallery",
+      "label": "Gallery"
+    },
+    {
+      "id": "events",
+      "label": "Events"
+    }
+  ],
+  "tabContent": [
+    {
+      "tab": "Overview",
+      "items": [
+        {
+          "type": "overview",
+          "subTitle": "Overview",
+          "contents": "TEstablished in 2021, the Department of Artificial Intelligence and Data Science at the undergraduate level stands as a forward-thinking center for academic and technical excellence, dedicated to shaping skilled professionals in the rapidly evolving domains of AI and data science. The department offers a contemporary curriculum that integrates theoretical foundations with practical, project-based learning, ensuring students gain hands-on experience with the latest tools and methodologies. Students benefit from state-of-the-art laboratories, experienced faculty, and industry partnerships that foster exposure to real-world challenges, research opportunities, and career-oriented events. Emphasizing an interdisciplinary approach, the department encourages innovation in areas such as machine learning, big data analytics, and ethical AI, while nurturing qualities like leadership, critical thinking, and social responsibility. Since its inception in 2021, the department has aimed to produce graduates who are technically adept, ethically grounded, and adaptable to the future needs of industry and society.",
+          "image": "/images/others/video-07.jpg"
+        },
+        {
+          "type": "vision",
+          "subTitle": "Vision",
+          "src": "/images/Kahe/Innerpages/vision.png",
+          "content": [
+            "The vision of the Artificial Intelligence and Data Science (AI & DS) department is to establish itself as a leader in the field by driving innovation and preparing graduates who are industry-ready and socially responsible."
+          ]
+        },
+        {
+          "type": "mission",
+          "subTitle": "Mission",
+          "src": "/images/Kahe/Innerpages/goal.png",
+          "content": [
+            "To provide quality education that integrates core principles of AI and Data Science with hands-on experience to develop industry-ready professionals.",
+            "To promote innovation and research by fostering collaborations with industry, academia, and interdisciplinary domains.",
+            "To instill ethical values and social responsibility to ensure the development of AI solutions that benefit society."
+          ]
+        },
+        {
+          "type": "highlights",
+          "items": {
+            "title": "Highlights",
+            "src": "/images/Kahe/Innerpages/image-1.jpg",
+            "content": [
+              {
+                "icon": "rs-icon-book",
+                "value": "2021",
+                "label": "Established"
+              },
+              {
+                "icon": "rs-icon-book",
+                "value": "(Ay 2025-2026): 988",
+                "label": "Student Strength"
+              },
+              {
+                "icon": "rs-icon-fund",
+                "value": "21",
+                "label": "Higher Studies"
+              },
+              {
+                "icon": "rs-icon-lab",
+                "value": "126",
+                "text": "Total Number of NPTEL Courses Completed"
+              },
+              {
+                "icon": "rs-icon-complete",
+                "value": "Last 5 Years – 129 Patents - 5",
+                "text": "Publications"
+              },
+              {
+                "icon": "rs-icon-complete",
+                "value": "543",
+                "text": "Internship -National"
+              }
+            ]
+          }
+        },
+        {
+          "type": "hod",
+          "items": {
+            "content": [
+              {
+                "title1": "Head of the Department (HOD)",
+                "title": "Dr. G. ANITHA",
+                "caption": "Professor and Head",
+                "content": "Karpagam Academy of Higher Educations Department of Artificial Intelligence, Data Science provides undergraduate students with a top-notch education. Important subjects like artificial intelligence (AI), data analytics, machine learning, deep learning, computer vision, natural language processing (NLP), data science, big data, and generative AI are all covered in our courses.In modern labs and smart classrooms, students learn while practicing. Through projects, research, and internships, they also gain practical experience that strengthens their technical and collaboration abilities. Students are prepared for jobs in corporations, research, or perhaps launching their own businesses after graduation.We train students to contribute to the development of technology in the future as well as to stay current with emerging technologies. Our mission is to develop professionals in data science and artificial intelligence who are capable, accountable, socially conscious and prepared to take on challenges wherever in the world.",
+                "src": "/images/Kahe/team-13.png"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "tab": "Programme",
+      "programmes": {
+        "title": "Programmes",
+        "content": [
+          {
+            "key": "ug",
+            "title": "B.Sc. Artificial Intelligence and Data Science",
+            "img": "/images/others/health-b-02.png",
+            "multiItems": [
+              {
+                "title": "Programme",
+                "desc": "Undergraduate programme in Artificial Intelligence and Data Science"
+              }
+            ],
+            "type": "programme"
+          }
+        ]
+      },
+      "curriculum": {
+        "title": "Curriculum",
+        "content": [
+          {
+            "key": "bsc-ai-ds",
+            "title": "B.Sc. Artificial Intelligence and Data Science",
+            "img": "/images/others/health-b-02.png",
+            "type": "curriculum",
+            "items": [
+              {
+                "year": "2021-2022",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2022/09/2021-BSc-CS-AI-DS-COLOR-CODED.pdf"
+              },
+              {
+                "year": "2022-2023",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2022/07/8E_BSc_CS__AI_DS.pdf"
+              },
+              {
+                "year": "2023-2024",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2024/04/B-SC-CS-AI-DS.pdf"
+              },
+              {
+                "year": "2024-2025",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/01/B.-Sc.-AI-DS.pdf"
+              },
+              {
+                "year": "2025-2026",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/10/AIDS-SYLLABUS-2025-2026.pdf"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "tab": "Faculty",
+      "slug": "department-of-ai-and-ds",
+      "basic": {
+        "title": "Faculty",
+        "description": "Our faculty members are the major cause for our sustained capacity to impart vivacious and value-based education for the student community. This platform paves a pathway to our faculty members to progress their knowledge and to carry the observed concepts to the classrooms and laboratories, thus, serving the students in the department",
+        "src": "/images/Kahe/Innerpages/vission.jpg",
+        "buttonText": "View All Faculty"
+      },
+      "breadcrumbItems": [
+        {
+          "label": "Academics",
+          "href": "academics"
+        },
+        {
+          "label": "Arts, Science, Commerce and Management",
+          "href": "academics/arts-science-and-humanities/"
+        },
+        {
+          "label": "Department of Artificial Intelligence & Data Science",
+          "href": "/academics/arts-science-and-humanities/department-of-ai-and-ds"
+        },
+        {
+          "label": "Faculty"
+        }
+      ],
+      "faculty": [
+        {
+          "name": "Dr. G. Anitha",
+          "qualification": "MCA., M.Phil., Ph.D.",
+          "designation": "Associate Professor & Head",
+          "email": "anitha.g@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/07/G.-ANITHA.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Mrs. S. Senthilpriya",
+          "qualification": "MCA., M.Phil. (Ph.D)",
+          "designation": "Assistant Professor",
+          "email": "senthilpriya.ssampathkumar@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/07/S.-S.-SENTHILPRIYA.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr. R. Chennappan",
+          "qualification": "MCA., M.Sc. (Physics)., M.Phil., SET",
+          "designation": "Associate Professor",
+          "email": "chennappan.rajendran@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/07/R.-CHENNAPPAN.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Mrs. A. Hema Ambiha",
+          "qualification": "MCA., M.Phil. (Ph.D)",
+          "designation": "Assistant Professor",
+          "email": "hemaambiha.aravindakshan@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/07/A.-HEMA-AMBIHA.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Mrs. P. Sathiyapriya",
+          "qualification": "MCA., M.Phil. (Ph.D)",
+          "designation": "Assistant Professor",
+          "email": "sathiyapriya.palanisamy@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/07/P.-SATHIYAPRIYA.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Mr. H. Ramprasanth",
+          "qualification": "MCA., M.Phil. (Ph.D)",
+          "designation": "Assistant Professor",
+          "email": "ramprasanth.haldorai@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/07/H.-RAMPRASANTH.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Mrs. A. Vinitha",
+          "qualification": "MCA.",
+          "designation": "Assistant Professor",
+          "email": "vinitha.ashokan@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/07/A.-VINITHA.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Mr. G. Samprakash",
+          "qualification": "MCA., (Ph.D)",
+          "designation": "Assistant Professor",
+          "email": "samprakash.gnanaprakasam@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/07/G.-SAMPRAKASH.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Mrs. N. Nithya",
+          "qualification": "M.Sc., M.Phil., B.Ed.",
+          "designation": "Assistant Professor",
+          "email": "nithya.nagarajan@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/07/N.-NITHYA.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Ms. V. Kowsalya",
+          "qualification": "MCA., (Ph.D)",
+          "designation": "Assistant Professor",
+          "email": "kowsalya.velmani@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/07/V.KOWSALYA.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Ms. R. Sowmiya",
+          "qualification": "MCA.",
+          "designation": "Assistant Professor",
+          "email": "sowmiya.raghavan@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/07/R.SOWMIYA.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Ms. P. E. Anusree",
+          "qualification": "MCA., NET",
+          "designation": "Assistant Professor",
+          "email": "anusree.gangadharan@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/08/Anu-Sree-One-page-Bio-data.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Mrs. N. Uma Maheshwari",
+          "qualification": "MCA., M.Phil.",
+          "designation": "Assistant Professor",
+          "email": "umamaheswari.narayanan@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/07/N.-UMA-MAHESWARI.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Ms. R. K. Keerthana",
+          "qualification": "MCA.",
+          "designation": "Assistant Professor",
+          "email": "keerthana.raju@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/07/R.K.-KEERTHANA.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr. V. Vadivu",
+          "qualification": "M.Sc. (IT)., M.Phil., Ph.D.",
+          "designation": "Assistant Professor",
+          "email": "vadivu.vijayan@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/07/V.-VADIVU.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Ms. N. Shanmugalakshmi",
+          "qualification": "MCA.",
+          "designation": "Assistant Professor",
+          "email": "shanmugalakshmi.neelamegam@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/07/N.-SHANMUGALAKSHMI.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Mrs. N. Krithika",
+          "qualification": "MCA.",
+          "designation": "Assistant Professor",
+          "email": "krithika.nataraj@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/07/N.-KRITHIIKA.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr. S. Senthil Kumar",
+          "qualification": "MCA., M.Phil., Ph.D.",
+          "designation": "Assistant Professor",
+          "email": "senthilkumar.seethapathy@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/07/S.-SENTHIL-KUMAR.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr. P. Vijayakumar",
+          "qualification": "M.Sc., M.Phil., Ph.D.",
+          "designation": "Assistant Professor",
+          "email": "vijayakumar.perumal@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/07/P.-VIJAYAKUMAR.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        }
+      ]
+    },
+    {
+      "tab": "Publications",
+      "slug": "department-of-ai-and-ds",
+      "breadcrumbItems": [
+        {
+          "label": "Academics",
+          "href": "academics"
+        },
+        {
+          "label": "Arts, Science, Commerce and Management",
+          "href": "academics/arts-science-and-humanities/"
+        },
+        {
+          "label": "Department of Artificial Intelligence & Data Science",
+          "href": "/academics/arts-science-and-humanities/department-of-ai-and-ds"
+        },
+        {
+          "label": "Publication"
+        }
+      ],
+      "title": "Best Five Papers Faculty wise:",
+      "subtitle": "Paper Publications by the Faculty Members",
+      "content": [
+        {
+          "faculty_name": "Dr. G. Anitha",
+          "content": [
+            "Yalini, S., & Anitha, G. (2025). Machine learning framework for accurate mental stress detection in university students using random forest classification. Proceedings of the International Conference on Emerging Trends in Engineering & Applications (ICETEA 2025), IEEE. https://doi.org/10.1109/ICETEA64585.2025.11099999",
+            "Keerthana, S., & Anitha, G. (2025). A study on cardiovascular disease detection in diabetic patients. Proceedings of the Eleventh International Conference on Biosignals, Images, and Instrumentation (ICBSII 2025), IEEE. https://doi.org/10.1109/ICBSII65145.2025.11013590",
+            "Sabeena, K. R., & Anitha, G. (2025). Sales prediction using machine learning algorithms. Taylor & Francis. https://doi.org/10.1201/9781003606659",
+            "Rutravigneshwaran, P., Anitha, G., & Prathapchandran, K. (2024). Trust-based support vector regressive (TSVR) security mechanism to identify malicious nodes in the Internet of Battlefield Things (IoBT). International Journal of System Assurance Engineering and Management, 15(1), 287–299. https://doi.org/10.1007/s13198-022-01719-w",
+            "Gnanaselvi, J., & Anitha, G. (2020). A survey on deep learning techniques. Strad Research, 7(8), 400–405."
+          ]
+        },
+        {
+          "faculty_name": "Mrs. S. Senthilpriya",
+          "content": [
+            "Balaji, N., & Senthil Priya, S. S. (2025). Clickbait prediction through feature extraction and feature selection by examining attributes, social influence, content, and engagement. Journal of Neonatal Surgery, 14(24S), 273–284. https://www.jneonatalsurg.com/index.php/jns/article/view/5925"
+          ]
+        },
+        {
+          "faculty_name": "Dr. R. Chennappan",
+          "content": [
+            "Althaf Ali, A., Gunavathie, M. A., Srinivasan, V., Aruna, M., Chennappan, R., & Matheena, M. (2025). Securing electronic health records using blockchain-enabled federated learning for IoT-based smart healthcare. Clinical eHealth. https://doi.org/10.1016/j.ceh.2025.04.002",
+            "Chennappan, R., & Mathumathi, E. (2025). Elevating software defect prediction performance through an optimized GA-DT and PSO-ACO hybrid approach. Journal of Harbin Institute of Technology (New Series), 32(3), 66–74.",
+            "Sowmiya, N., & Chennappan, R. (2025). A new algorithm for deducing user search intensities from feedback sessions. CRC Press.",
+            "Chennappan, R., Vinitha, A., Vinitha, S., & Gunasundari, R. (2025). Automated disaster monitoring through social media posts using whale optimization and ANN. IGI Global. https://doi.org/10.4018/979-8-3693-5231-1.ch011",
+            "Chennappan, R., Nandhakumar, S., & Palarimath, S. (2024). O-RAN in private network for digital health applications using Twofish encryption in the Internet of Things. Springer Nature Singapore.",
+            "Chennappan, R., & Vidyaathulasiraman. (2023). An automated software failure prediction technique using hybrid machine learning algorithms. Journal of Engineering Research, 11(1), 100002. https://doi.org/10.1016/j.jer.2023.100002"
+          ]
+        },
+        {
+          "faculty_name": "Mrs. A. Hema Ambiha",
+          "content": [
+            "Muthupandi, T., & Hema, A. A. (2025). Bioinformatics of athletes to record cardiovascular issues using KNN algorithm. CRC Press.",
+            "Hema Ambiha, A. (2024). Blockchain-driven encryption and dual authentication for secure healthcare data transmission in the cloud. Journal of Computational Analysis and Applications, 33(8), 4906–4917.",
+            "Hema Ambiha, A., & Athira, A. (2024). Smart agriculture rice leaf disease detection using deep learning model. ICERCS 2024. https://doi.org/10.1109/ICERCS63125.2024.10895956",
+            "Ambiha, A. H., & Subithra, V. (2024). Predicting sham claims in vehicle insurance using machine learning techniques. ICSSAS 2024, IEEE.",
+            "Ambiha, A. H., & Pragaladan, R. (2024). Enhancing healthcare data security in cloud environments with dual authentication and optimal key-tuned encryption.",
+            "Ambiha, A. H., et al. (2024). A novel development of medical technology and AI for intelligent healthcare. Springer Nature Singapore.",
+            "Aravindakshan, H. A., & Rengasamy, P. (2024). Enhancing healthcare data security in cloud environments. ITMO Journal.",
+            "Karthikeyan, M. P., et al. (2023). Hybrid optimization techniques for data privacy preserving in the metaverse ecosystem. IGI Global.",
+            "Hema Ambiha, A., et al. (2024). Deep residual network for lung cancer detection on CT images. IEEE InC4 2024."
+          ]
+        },
+        {
+          "faculty_name": "Mrs. P. Sathiyapriya",
+          "content": [
+            "Vulture Optimization Algorithm Based Hierarchical Routing Strategy (VOA-HRS) for Vehicular Ad Hoc Networks, December 2023.",
+            "Sepsis prediction using machine learning and deep learning algorithms. ICMRI 2023."
+          ]
+        },
+        {
+          "faculty_name": "Books",
+          "content": [
+            "Smart Sensor Networks and Internet of Things (IoT). SKRGC Publication, August 2025.",
+            "An Introduction to ML, DL and Natural Language Processing. Leilani Katie Publication and Press, August 2025."
+          ]
+        },
+        {
+          "faculty_name": "Mrs. A. Vinitha",
+          "content": [
+            "Divani, N., & Vinitha, A. (2025). Machine learning-based detection of malicious URLs in Twitter. ICMLAS 2025, IEEE. https://doi.org/10.1109/ICMLAS64557.2025.10968493"
+          ]
+        },
+        {
+          "faculty_name": "Ms. R. Sowmiya",
+          "content": [
+            "Jayarathna, S., Sowmiya, R., et al. (2025). 3D CT liver lesion extraction and classification using 3D-CNN with GLRLM. ICoACT 2025. https://doi.org/10.1109/ICoACT63339.2025.11004788"
+          ]
+        },
+        {
+          "faculty_name": "Ms. P. E. Anusree",
+          "content": [
+            "K. V., & Anusree, P. E. (2025). Stock market analysis and forecasting using deep learning. ICMLAS 2025, IEEE. https://doi.org/10.1109/ICMLAS64557.2025.10968208"
+          ]
+        },
+        {
+          "faculty_name": "Dr. S. Senthil Kumar",
+          "content": [
+            "Senthil Kumar, S., et al. (2025). Integrating brain-inspired computation with big-data analytics for advanced diagnostics in neuroradiology. Neuroscience Informatics, 5(2), 100202. https://doi.org/10.1016/j.neuri.2025.100202"
+          ]
+        }
+      ]
+    },
+    {
+      "tab": "Events",
+      "slug": "department-of-ai-and-ds",
+      "breadcrumbItems": [
+        {
+          "label": "Academics",
+          "href": "academics"
+        },
+        {
+          "label": "Arts, Science, Commerce and Management",
+          "href": "academics/arts-science-and-humanities/"
+        },
+        {
+          "label": "Department of Artificial Intelligence & Data Science",
+          "href": "/academics/arts-science-and-humanities/department-of-ai-and-ds"
+        },
+        {
+          "label": "Events"
+        }
+      ],
+      "items": [
+        {
+          "title": "Event Organized",
+          "multiContent": [
+            {
+              "title": "Conference",
+              "content": [
+                "Association Inauguration “AI TechIgnite” on 21.08.2025.",
+                "Two Days Hands-on Training on “Latest Innovations in Emerging Tools & Technologies powered by AI” on 07.08.2025 and 08.08.2025.",
+                "Alumni Talk on “Full Stack Deployment with Micro Services” on 01.08.2025 by alumni Mr. Vinoth Kumar G (MCA 2023), Junior Software Engineer, Caliber Interconnects Pvt. Ltd., Coimbatore.",
+                "Extension Program on “Digital Scam Awareness Program” on 31.07.2025 with 2 faculty members and 65 students at Seerapalayam, Coimbatore.",
+                "Skill Development Programme on “Unlocking the Power of Blockchain Technologies in AI” on 14.07.2025."
+              ],
+              "images": {
+                "images": [
+                  {
+                    "id": 1,
+                    "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/AI-event-1.jpg",
+                    "alt": "Karpagam Academy of Higher Education | best b com accounting and finance colleges in coimbatore"
+                  },
+                  {
+                    "id": 2,
+                    "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/AI-event-2.jpg",
+                    "alt": "Karpagam Academy of Higher Education | top engineering colleges in coimbatore,India"
+                  },
+                  {
+                    "id": 3,
+                    "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/AI-event-3.jpg",
+                    "alt": "Karpagam Academy of Higher Education | b sc computer science colleges in coimbatore"
+                  },
+                  {
+                    "id": 4,
+                    "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/AI-event-4.jpg",
+                    "alt": "Karpagam Academy of Higher Education | b sc computer science colleges in coimbatore"
+                  },
+                  {
+                    "id": 5,
+                    "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/AI-event-5.jpg",
+                    "alt": "Karpagam Academy of Higher Education | b sc computer science colleges in coimbatore"
+                  },
+                  {
+                    "id": 6,
+                    "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/AI-event-6.jpg",
+                    "alt": "Karpagam Academy of Higher Education | b sc computer science colleges in coimbatore"
+                  },
+                  {
+                    "id": 7,
+                    "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/AI-event-7.jpg",
+                    "alt": "Karpagam Academy of Higher Education | b sc computer science colleges in coimbatore"
+                  }
+                ]
+              }
+            }
+          ]
+        },{
+              "title": "Others",
+              "content": [
+                "Two Days Hands on Training on “Latest Innovations in Advanced AI Technologies” for II B.Sc CS (AI & DS) Students on 22.12.2025 and 23.12.2025.",
+                "Faculty Development Program on “Sustainable Cities & Communities with the emerging trends of Artificial Intelligence & Machine Learning” from 17.12.2025 to 21.12.2025 via hybrid mode for Computer Science stream faculty members.",
+                "One-day Seminar on “Recent Innovations in AI powered by Realtime Applications Development” for II B.Sc. CS (AI & DS) students on 19.12.2025.",
+                "One-day Seminar on “Recent Trends and Technologies in Realtime Projects” for III B.Sc. CS (AI & DS) students on 18.12.2025.",
+                "Skill Development Programme on “Future Forward – AI Tools Driving the Next Wave of Innovation” for II B.Sc. CS (AI & DS) students on 17.12.2025.",
+                "Two Days Workshop on “Latest Innovations in AI Tools and Technology powered by OpenCV control” for III B.Sc. CS (AI & DS) students on 16.12.2025 and 17.12.2025.",
+                "One-day Orientation Program on “Awareness on Government Examinations” for the I UG students on 11.12.2025.",
+                "Association Inauguration “AI TechIgnite” on 21.08.2025.",
+                "Two Days Hands on Training on “Latest Innovations in Emerging Tools & Technologies powered by AI” on 07.08.2025 and 08.08.2025.",
+                "Extension Program on Digital Scam Awareness on 31.07.2025.",
+                "Alumni Talk on “Full Stack Deployment with Micro Services” on 01.08.2025 by alumni Mr. Vinoth Kumar G (MCA 2023), Junior Software Engineer, Caliber Interconnects Pvt. Ltd., Coimbatore.",
+                "Extension Program on Digital Scam Awareness on 31.07.2025 conducted at Seerapalayam with 2 faculty members and 65 students."
+              ]
+            }
+        
+            
+          
+      ]
+    }
+  ]
+}
