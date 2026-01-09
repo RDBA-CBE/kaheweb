@@ -218,6 +218,37 @@
                                             background: var(--black-opacity);
                                         }
                                     }
+                                    
+                                    // Sub children accordion styles
+                                    &.has-submenu {
+                                        .child-submenu {
+                                            display: none;
+                                            padding-left: 20px;
+                                            margin-top: 5px;
+                                            background: rgba(0, 0, 0, 0.02);
+                                            border-left: 2px solid #0E6739;
+                                            
+                                            &.active {
+                                                display: block;
+                                            }
+                                            
+                                            li {
+                                                margin-left: 0;
+                                                
+                                                a {
+                                                    padding: 8px 14px;
+                                                    font-size: 14px;
+                                                    color: #666;
+                                                    margin-left: 0;
+                                                    
+                                                    &:hover {
+                                                        color: #0E6739;
+                                                        background: rgba(14, 103, 57, 0.1);
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
                                 }
                             }
 
