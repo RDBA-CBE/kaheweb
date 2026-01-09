@@ -129,23 +129,57 @@
             "key": "ug",
             "title": "B.Sc. Programme",
             "img": "/images/others/health-b-02.png",
-            "items": [
-              "Duration: The undergraduate programme in Microbiology offers: • 3-year B.Sc. Microbiology • 4-year B.Sc. Microbiology (Hons.) with Research or B.Sc. Microbiology (Hons.)"
+            "multiItems": [
+              {
+                "title": "Duration",
+                "desc": " The undergraduate programme in Microbiology offers:",
+                "list": [
+                  "3-year B.Sc. Microbiology",
+                  "4-year B.Sc. Microbiology (Hons.) with Research or B.Sc. Microbiology (Hons.)"
+                ]
+              },
+              {
+                "title": "Eligibility",
+                "desc": " Candidates who have passed Higher Secondary Education (XII) or any equivalent examination conducted by a State Government, University, or Board under the 10+2 pattern, with Biology, Botany, Zoology, or Chemistry as subjects at the higher secondary level."
+              },
+              {
+                "title": "Curriculum and Syllabus"
+              }
             ],
             "type": "programme"
           },
           {
             "key": "pg",
-            "title": "Post Graduate Programmes",
+            "title": "M.Sc. Programme",
             "img": "/images/others/health-b-02.png",
-            "items": ["M.Sc. Biotechnology (Strength: 60)"],
+            "multiItems": [
+              {
+                "title": "Duration",
+                "desc": "  2 years"
+              },
+              {
+                "title": "Eligibility",
+                "desc": " B.Sc. in Microbiology / Applied Microbiology / Industrial Microbiology / Medical Microbiology / Botany / Zoology / Biology / Biotechnology / Industrial Biotechnology / Molecular Biology / Genetic Engineering / Biochemistry / Agriculture / Forestry / Medical Laboratory Technology / Life Sciences."
+              },
+              {
+                "title": "Curriculum and Syllabus"
+              }
+            ],
             "type": "programme"
           },
           {
             "key": "res",
-            "title": "Research Programmes",
+            "title": "Ph.D. Programme",
             "img": "/images/others/health-b-02.png",
-            "items": ["M.Phil Biotechnology", "Ph.D. Biotechnology"],
+            "multiItems": [
+              {
+                "title": "Eligibility",
+                "desc": " A 1-year / 2-semester Master’s degree programme after a 4-year / 8-semester Bachelor’s degree programme; OR a 2-year / 4-semester Master’s degree programme after a 3-year Bachelor’s degree programme; OR a qualification equivalent to a Master’s degree, with at least 55% marks in aggregate or equivalent grade."
+              },
+              {
+                "title": "Curriculum and Syllabus"
+              }
+            ],
             "type": "programme"
           }
         ]
@@ -155,89 +189,105 @@
         "content": [
           {
             "key": "bsc",
-            "title": "B.Sc Biotechnology",
+            "title": "B.Sc. Microbiology",
             "img": "/images/others/health-b-02.png",
             "type": "curriculum",
             "items": [
               {
                 "year": "2020-2021",
-                "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/07/B.Sc_.-Biotechnology-2020-2021.pdf"
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/07/Microbiology-UG-2020-2021.pdf"
               },
               {
                 "year": "2021-2022",
-                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/11/UG-2021-2022.pdf"
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2021/11/B.Sc-Microbiology-Syllabus-2021-2022.pdf"
               },
               {
                 "year": "2022-2023",
-                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/11/UG-2022-2023.pdf"
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2022/09/UG-Microbiology.pdf"
               },
               {
                 "year": "2023-2024",
-                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/11/UG-2023-2024.pdf"
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2024/04/B.Sc_.-Microbiology.pdf"
               },
               {
                 "year": "2024-2025",
-                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/11/UG-2024-2025.pdf"
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/01/B.-Sc.-Microbiology.pdf"
               },
               {
                 "year": "2025-2026",
-                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/11/UG-2025-2026.pdf"
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/10/Microbiology-UG-Syllabus-2025-2026.pdf"
               }
             ]
           },
           {
             "key": "msc",
-            "title": "M.Sc Biotechnology",
+            "title": "M.Sc. Microbiology",
             "img": "/images/others/health-b-02.png",
             "type": "curriculum",
             "items": [
               {
                 "year": "2018-2019",
-                "link": "https://kahedu.edu.in/n/wp-content/uploads/2021/01/2018-M.Sc_.-Biotechnology_Syllabus_Final.pdf"
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/PG-SYLLABUS_Microbilogy.pdf"
               },
               {
                 "year": "2019-2020",
-                "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/07/B.Sc_.-Biotechnology-2020-2021.pdf"
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2021/01/2019-MB-PG-SYLLABUS.pdf"
               },
               {
                 "year": "2020-2021",
-                "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/07/B.Sc_.-Biotechnology-2020-2021.pdf"
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/07/Microbiology-PG-2020-2021.pdf"
               },
               {
                 "year": "2021-2022",
-                "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/07/B.Sc_.-Biotechnology-2020-2021.pdf"
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2021/11/M.Sc-Microbiology-Syllabus-2021-2022.pdf"
               },
               {
                 "year": "2022-2023",
-                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/11/UG-2022-2023.pdf"
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2022/09/PG-Microbiology.pdf"
               },
               {
                 "year": "2023-2024",
-                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/11/UG-2023-2024.pdf"
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2023/08/M.Sc-Microbiology-Syllabus-2023-2024.pdf"
               },
               {
                 "year": "2024-2025",
-                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/11/UG-2025-2026.pdf"
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/01/M.Sc_.-Microbiology.pdf"
               },
               {
                 "year": "2025-2026",
-                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/11/UG-2025-2026.pdf"
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/09/PG-MB.pdf"
               }
             ]
           },
           {
             "key": "phd",
-            "title": "Ph.D. Biotechnology",
+            "title": "Ph.D. Microbiology",
             "img": "/images/others/health-b-02.png",
             "type": "curriculum",
             "items": [
               {
                 "year": "2020-2021",
-                "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/07/UG-Biochemistry_Syllabus_2020-2021.pdf"
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/07/Microbiology-PhD-2020-2021.pdf"
+              },
+              {
+                "year": "2021-2022",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2021/11/Ph.D-Microbiology-Syllabus-2021-2022.pdf"
               },
               {
                 "year": "2022-2023",
-                "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/07/UG-Biochemistry_Syllabus_2020-2021.pdf"
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2022/09/Research-Microbiology.pdf"
+              },
+              {
+                "year": "2023-2024",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2023/08/Research-Syllabus-Microbiology-2023-2024.pdf"
+              },
+              {
+                "year": "2024-2025",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/01/Ph.-D-Microbiology.pdf"
+              },
+              {
+                "year": "2025-2026",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/09/PhD-MB.pdf"
               }
             ]
           }
@@ -455,6 +505,19 @@
         {
           "type": "gallery",
           "slug": "department-of-microbiology",
+          "breadcrumbItems": [
+            { "label": "Academics", "href": "academics" },
+            {
+              "label": "Arts, Science, Commerce and Management",
+              "href": "academics/arts-science-and-humanities/"
+            },
+
+            {
+              "label": "Department of Microbiology",
+              "href": "/academics/arts-science-and-humanities/department-of-microbiology"
+            },
+            { "label": "Gallery" }
+          ],
 
           "images": [
             {
@@ -630,271 +693,525 @@
     {
       "tab": "patents",
       "title": "Patents/MoUs",
-      "content": [
-        {
-          "data1": {
-            "type": "vision",
-            "subTitle": "Association",
-            "src": "/images/Kahe/Innerpages/vision.png",
-            "content": [
-              "MICROINNOVATA is the association of the Department of Microbiology. In the year 2025, the association was inaugurated with an insightful and thought-provoking guest lecture on the topic “Microbiology – Beyond Classrooms and Laboratories”."
-            ]
-          },
-          "data2": {
-            "type": "mission",
-            "subTitle": "Achievements /Awards",
-            "src": "/images/Kahe/Innerpages/goal.png",
-            "content": [
-              "The students of the department visited countries like Taiwan and Poland for the Internship and Student Exchange program.",
-              "Best student project under Student Projects Scheme (2023 – 2024) was awarded by Tamil Nādu State Council for Science and Technology (TNSCST), Chennai."
-            ]
-          }
-        },
-        {
-          "data1": {
-            "type": "mission",
-            "subTitle": "Placement",
-            "src": "/images/Kahe/Innerpages/goal.png",
-            "content": [
-              "The students of the Department of Microbiology (50< students in 2024-25) have been placed in several industries and organizations like BIOCON, Microbiological Laboratories, Indian Immunologicals, BECQ Radiological Service Provider LLP., Amura Health Care, Cotivity, Corrohealth, Optum, Molecular Connections and Clarus"
-            ]
-          },
-          "data2": {
-            "type": "mission",
-            "subTitle": "Alumni",
-            "src": "/images/Kahe/Innerpages/goal.png",
-            "content": [
-              "The department alumni encompass scientists in Pharmaceutical and Biotechnology Industries, research associates and Teachers in universities and colleges in India and abroad. The department of Microbiology is organising Alumni Interaction Sessions every month for the benefit of the students in the department."
-            ]
-          }
-        }
-      ]
+      "items": {
+        "qualityPolicyTitle": "Patents",
+        "qualityPolicyText": "The following patents were awarded to the faculty members of the department",
+        "list": [
+          "A composition and Apparatus for Preparing Biofertilizer/Bio-simulant from Seaweeds and Seagrass in Abelmoschus Esculentus",
+          "Development of 4-Butyl-5-(Isopropoxymethyl)-2- Methylmorpholine from Aspergillus Terreus KMBF 1501 AS"
+        ],
+
+        "mottoTitle": "MOU",
+        "mottContnet": "MoU was signed between Department of Microbiology, Karpagam Academy of Higher Education (KAHE), Coimbatore and Centre for Medicinal Plants Research (CMPR), a Research Centre owned and managed by Arya Vaidya Sala Kottakkal, Malappuram, Kerala in the year 2023."
+      }
     },
     {
       "tab": "Publications",
       "slug": "department-of-microbiology",
+      "breadcrumbItems": [
+        { "label": "Academics", "href": "academics" },
+        {
+          "label": "Arts, Science, Commerce and Management",
+          "href": "academics/arts-science-and-humanities/"
+        },
+
+        {
+          "label": "Department of Microbiology",
+          "href": "/academics/arts-science-and-humanities/department-of-microbiology"
+        },
+        { "label": "Publication" }
+      ],
       "title": "Best Five Papers Faculty wise:",
       "subtitle": "Paper Publications by the Faculty Members",
       "content": [
         {
-          "faculty_name": "Dr.A.SANGILIMUTHU",
+          "faculty_name": "Dr. B. V. Pradeep",
           "content": [
-            "Suvathika, G., Manoharan, S.P., Baskar, S., Rajiv, A., Swaminathan, H., & Yadav, S.A. (2025). Evaluation and identification of nutritional factors, cytotoxic condition, and protodioscin in Dioscorea alata tuber. South African Journal of Botany, 178, 131–138. (Impact Factor: 2.7)",
-            "Arumugam, G., & Alagar Yadav, S. (2024). Synergistic inhibitory actions of resveratrol, epigallocatechin-3-gallate, and diallyl trisulfide against skin cancer cell line A431 through mitochondrial caspase-dependent pathway: a combinational drug approach. Medical Oncology, 41(3), 64. (Impact Factor: 2.8)",
-            "Lakshmanan, M., Yadav, S.A., Meti, M., Kaveri, S., Subban, R., Celestina, S.K., & Subramanyam, R. (2024). Molecular interaction studies of P3CL on bovine serum albumin through a biophysical approach.Journal of Biomolecular Structure and Dynamics, 1–9. (Impact Factor: 5.235)",
-            "Gnanaselvan, S., Yadav, S.A., & Manoharan, S.P. (2024). Structure-based virtual screening of anti-breast cancer compounds from Artemisia absinthium — insights through molecular docking, pharmacokinetics, and molecular dynamic simulations.Journal of Biomolecular Structure and Dynamics, 42 (6), 3267–3285. (Impact Factor: 5.235)",
-            "Manoharan, S.P., Yadav, S.A., Pandiyan, B., & Suvathika, G. (2023). Tragia plukenetii-assisted omega-decenol as a potential anticancer agent: its isolation,characterization, and validation.Applied Biochemistry and Biotechnology, 195(3), 1699–1722. (Impact Factor: 3.1)"
+            "Smitha K. V., & Pradeep, B. V. (2025). Characterization of fibrinolytic enzyme from Bacillus altitudinis S-CSR 0020 and its clot-degrading capacity. Current Microbiology, 82(4), 166.",
+            "Vijayaraghavan, P., Veeramanikandan, V., Pradeep, B. V., Pothiraj, C., Alarjani, K. M., Al Farraj, D. A., Nguyen, V. H., & Balaji, P. (2024). Enhanced aerobic naphthalene degradation utilizing indigenous microbial flora as a biocatalyst in oil-contaminated wastewater. Topics in Catalysis, 67(17), 1183–1193.",
+            "Prema, P., Ali, D., Nguyen, V. H., Pradeep, B. V., Veeramanikandan, V., Daglia, M., Arciola, C. R., & Balaji, P. A. (2024). Response surface methodological approach for large-scale production of antibacterials from Lactiplantibacillus plantarum. Antibiotics, 13, 437.",
+            "Gobinath, R. M., Pothiraj, C., Arumugam, R., Periyakaruppiah, P., Ali, D., Alarifi, S., Veeramanikandan, V., Pradeep, B. V., Nguyen, V. H., & Balaji, P. (2024). Biocatalytic conversion of lignocellulosic water hyacinth biomass for sustainable ethanol production. Topics in Catalysis, 67, 1066–1076.",
+            "Aiswarya, S. L., Sudharsun, B., Veeramanikandan, V., Sasikumar, J. M., & Pradeep, B. V. (2025). Antibacterial and cytotoxic effects of bioactive compounds from halophilic actinomycetes. Microbiology and Biotechnology Letters, 53(4), 1–11."
           ]
         },
         {
-          "faculty_name": "Dr. S. BARATHKUMAR",
+          "faculty_name": "Dr. J. M. Sasikumar",
           "content": [
-            "Geethalakshmi, S., Barathkumar, S., & Prabu, G. (2015). The MYB transcription factor family genes in sugarcane(Saccharum sp.). Plant Molecular Biology Reporter, 33, 512-531.",
-            "Sadasivam, B., & Gajjeraman, P. (2016). Characterization of Water-Deficit Stress-Responsive R2R3-MYBTranscription Factor Gene, ScMYB50/23 from Sugarcane. Indian Journal of Science and Technology, 9, 37.",
-            "Giruba, K. G., Barathkumar, S., Immanuel, G., & Sivagnanavelmurugan, M. (2023). Antidiabetic effect and haematological changes in alloxan induced diabetic rats treated with trash fish, Odonus niger liver oil in comparision with cod liver oil. Biochemical & Cellular Archives, 23(1)."
+            "Hassen, H., Yusuf, Z., & Sasikumar, J. M. (2025). Biocarbon derived from Lantana camara leaf and seed for adsorption of heavy metals. Discover Environment, 3, 51.",
+            "Veeramanikandan, V., Hema, T., Ramesh, M., Sasikumar, J. M., Prema, P., Barathinivas, A., Kumar, K. R., Mohamed, H., Multisanti, C., & Paulraj, B. In vivo assessment of zinc-doped cadmium sulphide nanoparticles toxicity in zebrafish. Environmental Pollution, 381, 127026.",
+            "Sasikumar, J. M., Abdella, S., Egigu, M. C., Balakrishnan, S., & Raja, P. R. J. (2025). Partial characterization and antibacterial activity of silver nanoparticles using Verbena officinalis. Plant Science Today, 12(2), 1–9.",
+            "Sasikumar, J. M., & Subramanyam, S. (2025). Under-exploited wild edible fruits of Western Ghats – A review. Springer Nature, Switzerland, 287–303.",
+            "Sinshaw, G., Jeyaramraja, P. R., Sasikumar, J. M., & Ayele, A. (2024). Isolation of polygalacturonase producing Aspergillus niger. Journal of Experimental Biology and Agricultural Sciences, 12(3), 379–389."
           ]
         },
         {
-          "faculty_name": "Dr. S. BALAMURUGAN",
+          "faculty_name": "Dr. R. Usha",
           "content": [
-            "Balamurugan, S., Ravi, K., & Baladevan, K. (2025). Plant molecular farming: a promising frontier for orphan drug production. Biotechnology Letters, 47(3), 56. (Impact Factor: 2.1)",
-            "Chandra, H.M., Balamurugan, S., Sharma, A., & Ramalingam, S. (2024). Elicitation and precursor-induced approaches for the enhancement of α-tocopherol production using suspensioncultures of Solanum lycopersicum. Current Plant Biology, 39, 100377. (Impact Factor: 4.5)",
-            "Balamurugan, S., Khorattanakulchai, N., Panapitakkul, C., Malla, A., Im-Erbsin, R., Inthawong, M., &Phoolcharoen, W. (2022). Preclinical evaluation of a plant-derived SARS-CoV-2 subunit vaccine: protective efficacy, immunogenicity,safety, and toxicity. Vaccine, 40(32), 4440–4452. (Impact Factor: 3.5)",
-            "Khorattanakulchai, N., Manopwisedjaroen, S., Rattanapisit, K., Panapitakkul, C., Kemthong, T., Suttisan, N.,Balamurugan, S., & Phoolcharoen, W. (2022). Receptor-binding domain proteins of SARS-CoV-2 variants produced in Nicotiana benthamiana elicitneutralizing antibodies against variants of concern. Journal of Medical Virology, 94(9), 4265–4276. (Impact Factor: 4.6)",
-            "Singh, R., Ren, Z., Shi, Y., Lin, S., Kwon, K.C., Balamurugan, S., & Daniell, H. (2021). Affordable oral health care: dental biofilm disruption using chloroplast-made enzymes with chewing gum delivery. Plant Biotechnology Journal, 19(10), 2113–2125. (Impact Factor: 10.5)"
+            "Jayakala Devi, R., Usha, R., Rajkishore, S. K., & Raveendran. (2025). Development of value-added products from tea waste. Biomass Conversion and Biorefinery, 15, 5111–5140.",
+            "Suchithra, M. R., Muniswami, D. M., Suba Sri, M., Usha, R., Rasheeq, A. A., Preethi, B. A., & Dineshkumar, R. (2022). Green microalgae as biostimulants for tomato cultivation. South African Journal of Botany, 146, 740–750.",
+            "Arya, S., & Usha, R. (2024). Phytochemicals as quorum sensing inhibitors against dental biofilm. Journal of Pure and Applied Microbiology, 18(1), 100–117.",
+            "Danaraj, J., Rajiv, P., Usha, R., Venil, C. K., & Shami, A. (2022). Mycogenic nanoparticles: synthesis and applications. Elsevier, 357–373.",
+            "Venil, C. K., Usha, R., & Renuka Devi, P. (2020). Biotechnological potential of microbial pigments from mangrove ecosystems. Academic Press, 303–313."
           ]
         },
         {
-          "faculty_name": "Dr. C. RAJKUBERAN",
+          "faculty_name": "Dr. M. Kulandhaivel",
           "content": [
-            "Sakthivel, A., Chandrasekaran, R., Balasubramaniam, S., Sathyanarayanan, H., Gnanajothi, K., & T, S. (2025). Nanomaterials as potential plant growth modulators: applications, mechanism of uptake, and toxicity — a comprehensive review. BioNanoScience, 15(1), 53. (Impact Factor: 3.2)",
-            "Natarajan, K., Chandrasekaran, R., Sundararaj, R., Joseph, J., & Asaithambi, K. (2025). Neuroprotective assessment of the nutraceutical (Betanin) in neuroblastoma cell line SH-SY5Y: An in vitro and in silico approach. Neurochemical Research, 50(1), 54. (Impact Factor: 3.038)",
-            "Joseph, J., T, S.K., Krishnan, M., & Chandrasekaran, R. (2025). Carthamidin-mediated silver nanoparticle synthesis, characterization, and anticancer activity — Invitro Approach. BioNanoScience, 15(1), 76. ( Impact Factor: 3.2)",
-            "Chandrasekaran, R., Krishnan, M., Chacko, S., Gawade, O., Hasan, S., Joseph, J., & Jiang, H. (2023). Assessment of anticancer properties of cumin seed (Cuminum cyminum) against bone cancer. Frontiers in Oncology, 13, 1322875. (Impact Factor: 4.7)",
-            "Chandrasekaran, R., Krishnan, M., Bupesh, G., Chacko, S., Gawade, O., Hasan, S., & Sagadevan, S. (2023). Prospective features of functional 2D nanomaterial graphene oxide in the wound healing process. Journal of Drug Delivery Science and Technology, 82, 104352. (Impact Factor: 4.7)"
+            "Preethi Rathna, R., & Kulandhaivel, M. (2025). Advancements in wound healing therapeutics. Archives of Microbiology, 206(4), 199.",
+            "Kulandhaivel, M. (2024). Enhanced quinalphos degradation using Enterobacter cloacae. Journal of Applied Biology and Biotechnology, 12(6), 96–104.",
+            "Preethi Rathna, R., & Kulandhaivel, M. (2024). Optimization of PHB production using sugarcane. Journal of Polymers and the Environment, 1–16.",
+            "Sahila, M. M., Govindan, M. S., Shainy, N. K., Nubla, P., & Kulandhaivel, M. (2025). Dye-degrading bacteria for bioremediation. Nature Environment and Pollution Technology, 24(1), 1–12."
           ]
         },
         {
-          "faculty_name": "Dr. A. A. ARUNKUMAR",
+          "faculty_name": "Dr. M. Kalpana Devi",
           "content": [
-            "Arunkumar, Anbu Aravazhi, Thirunavukkarasu Sivaraman, and Arunachalam Manimekalan. “Species Diversity and Habitat Inventory of Puntius sp. from Various Water Bodies of South India.” Journal of Pharmaceutical Sciences and Research 9(10) (2017): 1775-1784.",
-            "Arunkumar Anbu Aravazhi, Nagaraj VIJAYA LAKSHMI, and Arunachalam “Osteological characterization of the genus Puntius (Teleostei: Cyprinidae) recorded from six river systems of southern Western Ghats, India.” Iranian Journal of Ichthyology 5(2) (2018):139-166.",
-            "Arunkumar, Anbu Aravazhi, and Arunachalam Manimekalan. “Freshwater fish fauna of rivers of the southern Western Ghats, India.” (2018).",
-            "Priyanka, S., Athira, S.V., Shreeyashwanth, R., Arunkumar, A.A.Adsorption Of Wastewater Using Green Nanoparticles Synthesized from Murraya koenigii and Coriandrum sativum. Indian Journal of Environmental Protection, 2021, 41(3), pp. 325–332.",
-            "Chandrasekar, Divya, and Anbu Aravazhi Arunkumar. “Morphological and Osteological Characterization of Three Fish Species from River Noyyal of Coimbatore District, Tamil Nadu, India.” Uttar Pradesh Journal Of Zoology (2023): 44 (23), pp. 266-281."
+            "Dhunaa, K., Flory, S. M., Kavithaa, K., Geetha, M., Kalpana Devi, M., Panimalar, A. K., Roselin, G., & Arul, N. (2025). Selenium nanoparticles and hepatoprotective activity. Nanochemistry Research, 10(3), 280–292.",
+            "Nikesh, B., & Kalpana Devi, M. (2024). Insecticidal activity of green tea dust extract. Proceedings of ICRAMST, 503–514.",
+            "Vijaya Lakshmi, E., & Kalpana Devi, M. (2024). Development of edible pectin film from orange peel waste. Proceedings of ICRAMST, 515–526."
           ]
         },
         {
-          "faculty_name": "Dr. D. PRABHU",
+          "faculty_name": "M. Subasri",
           "content": [
-            "Sureshan, M., Prabhu, D., & Saraboji, K. (2025). Structure-based designing of anti-filarial molecules targeting the key antioxidant enzyme glutathione peroxidase (GPx) of Wuchereria bancrofti: An integrated in silico and in vitro approach. Computers in Biology and Medicine, 195, 110669. (Impact Factor: 6.3)",
-            "Prabhu, D., Dharshini, M.K.D., Rajamanikandan, S., Padmavathi, A.R., Velusamy, P., & Gopinath, S.C.B. (2025). Potential anti-filarial molecules against ATP Binding site of MurE Enzyme: A molecular Docking and Dynamics approach to Combat Lymphatic Filariasis. Biotechnology and Applied Biochemistry, 72(5), 1184–1194. (Impact Factor: 2.7)",
-            "Prabhu, D., Shankari, G., Rajamanikandan, S., Jeyakanthan, J., Velusamy, P., Gopinath, S.C.B., & Pattabi, S.(2024). Designing potential lead compounds targeting aminoglycoside N(6′)-acetyltransferase in Serratia marcescens: A drug discovery strategy. International Journal of Biological Macromolecules, 281(Pt 1), 136976. (Impact Factor: 8.2)",
-            "Vyas, K., Prabaker, S., Prabhu, D., Sakthivelu, M., Rajamanikandan, S., Velusamy, P., Su, C.H., Gopinath, S.C.B., & Pachaiappan, R. (2024). Study of an inhibitory effect of plant polyphenolic compounds against digestive enzymes using bench-working experimental evidence predicted by molecular docking and dynamics. Int J Biol Macromol. 259 (Pt 1): 129222, 2024 (Impact Factor: 8.2).",
-            "Prabhu D, Rajamanikandan S, Amala M, Saritha P, Jeyakanthan J, Ramasamy, P. Functional Characterization, Mechanism and Mode of Action of the Putative Streptomycin Adenylyltransferase from Serratia marcescens. Antibiotics (Basel), 11, 1722, 2022 (Impact Factor: 5.22)."
+            "Suba Sri, M., & Usha, R. (2025). Osteogenic potential of nano hydroxyapatite. Cell Tissue Bank, 26, 13.",
+            "Suba Sri, M., Subhashini, M., Devi, M. K., Devi, R. J., & Usha, R. (2024). Green synthesis of nanohydroxyapatite. Biomass Conversion and Biorefinery, 14(16), 19393–19407.",
+            "Abraham, A., Kumar, M. S., Krishna, D. A., & Suba Sri, M. (2024). Development of nano-hydroxyapatite membrane. Biomass Conversion and Biorefinery, 32289–32301.",
+            "Suba Sri, M., & Usha, R. (2025). Terminalia arjuna mediated nano-hydroxyapatite enhances osteogenesis. Research Journal of Biotechnology, 20(11), 154–173."
           ]
         },
         {
-          "faculty_name": "Dr. K. CHINNADURAI",
+          "faculty_name": "Dr. R. Priyadharshini",
           "content": [
-            "Kuppusamy, C., Ganesh, A., Sambanthan, K., Muthukumarasamy, E., & Paulraj, B.Enzyme modulation studies of fumaronitrile on freshwater fish Oreochromis mossambicus. International Journal of Bioassays, 2278, 778X. (Impact Factor: 4.8)",
-            "Chinnadurai, K., Eyini, M., & Balaji, P. (2019). Modulation of the reproductive hormone aromatase and vitellogenin in fumaronitrile-exposed Oreochromis mossambicus. Current Topics in Toxicology, 15, 123–131. (Impact Factor: 3.6)",
-            "Chinnadurai, K., Balaji, P., & Eyini, M. (2019). Evaluation of micronucleus assay and genotoxic effect in Oreochromis mossambicus exposed to fumaronitrile. Toxicology International, 26, 70–79. (Impact Factor: 1.9)",
-            "Chinnadurai, K., Prema, P., Veeramanikandan, V., Kumar, K.R., Nguyen, V.H., Marraiki, N., & Balaji, P. (2022). Toxicity evaluation and oxidative stress response of fumaronitrile, a persistent organic pollutant (POP) of industrial wastewater, on tilapia fish (Oreochromis mossambicus). Environmental Research, 204, 112030. (Impact Factor: 7.7)"
+            "Priyadharshini, R., Brindha, T., & Uthandi, S. (2023). Thermophilic microbes from Manikaran geothermal springs and biomass saccharification. Biomass Conversion and Biorefinery, 13, 15161–15172.",
+            "Mani, T., Joshi, J. B., Priyadharshini, R., & Uthandi, S. (2023). Flagellin-induced defense response in tobacco. BMC Microbiology, 23, 284.",
+            "Manikandan, A., Sugitha, T., Priyadharshini, R., & Sivakumar, U. (2022). Bioxylitol production from corncob hydrolysate. Waste and Biomass Valorization."
           ]
         },
         {
-          "faculty_name": "Dr. K. GOPALAKRISHNAN",
+          "faculty_name": "M. Shakila Begam",
           "content": [
-            "Sravani, S., Gopalakrishnan, A., John, A. S., Ramasubramanian, R., Kesavaperumal, G.,Prabhu, N. M., … & Natarajan, S. B. (2024). Incidence of mud crab reovirus (MCRV)outbreak in polyculture ponds of Andhra Pradesh, south east coast of India. Journal of Invertebrate Pathology, 204, 108092. (IF:2.4).",
-            "Parthasarathy, S., Rajeswaran, S., Rajan, D. K., Ganesh, A., Shanmugan, P., & Kesavaperumal, G. (2024). Bio-valorization of Secondary Metabolites Produced by Actinobacterium SRV02, Isolated from Shell Waste Environment Combats Clinical Bacterial Pathogens and Ameliorates Anticancer Effects Against Lung Cancer Cells. Waste and Biomass Valorization, 15(12), 7043-7056. (IF:2.8).",
-            "Islam, S., Dutta, P., Sahay, O., Gopalakrishnan, K., Muhury, S. R., Parameshwar, P., …& Santra, M. K. (2022). Feedback‐regulated transcriptional repression of FBXO31 byc‐Myc triggers ovarian cancer tumorigenesis. International Journal of Cancer, 150(9), 1512-1524. (IF:4.7)",
-            "Chandrakumar, D., Manigundan, K., Gopalakrishnan, K., Karuppiah, V., Prasad, N. R.,Radhakrishnan, M., … & Balagurunathan, R. (2020). Novel Strain of Nocardiopsis sp.CN2 from Andaman Nicobar Islands: Isolation, Taxonomy, Fermentation, and Antiproliferative Effect on Cervical Cancer Cells. Biomedical and Biotechnology Research Journal (BBRJ), 4(3), 200-208. (IF:1.4).",
-            "Kannan, S., Ragavan, P., Gopalakrishnan, K., Salah, M., & Balasubramani, K. (2021). Mangrove floristics, forest structure and mapping of Neil Island (Andaman and Nicobar Islands, India) with emphasis on the diversity of Rhizophora species and the significance of small island mangroves. Botanica Marina, 64(3), 227-241. (IF:2.1)"
+            "Shakila Begam M., E. Anusha Boorani, P. Akilandeswari and B. V. Pradeep. (2024). Bioethanol Production from Water Hyacinth (Eichhornia crassipes) using different microbial inoculants. Journal of Pure and Applied Microbiology, 18(1), 323–331.",
+            "Shakila Begam M., Boorani E. A., Akilandeswari P., & Pradeep B. V. (2024). Bioethanol Production from Water Hyacinth (Eichhornia crassipes) using Different Microbial Inoculants. Journal of Pure and Applied Microbiology, 1–9."
           ]
         },
         {
-          "faculty_name": "Dr. R. SRINATH",
+          "faculty_name": "Dr. P. Akilandeswari",
           "content": [
-            "Rajeswaran, S., & Rajan, D.K. (2025). Neophytadiene: Biological activities and drug development prospects. Phytomedicine, 156872. (Impact Factor: 8.3)",
-            "Sathishkumar, R.S., Sundaramanickam, A., Srinath, R., Ramesh, T., Saranya, K., Meena, M., & Surya, P. (2019). Green synthesis of silver nanoparticles by bloom-forming marine microalgae Trichodesmium erythraeum and its applications in antioxidant, drug-resistant bacteria, and cytotoxicity activity. Journal of Saudi Chemical Society, 23(8), 1180–1191. (Impact Factor: 5.8)",
-            "Rajeswaran, S., Veeraiyan, B., Saravanan, V., Manickam, E., & Danaraj, J. (2025). Biogenic facile green synthesis of actinobacterium exopolysaccharide-fabricated zinc oxide nanoparticles for diverse biomedical applications. Biomass Conversion and Biorefinery, 15(1), 787–801. (Impact Factor: 4.1)",
-            "Rajeswaran, S., Somasundaram Thirugnanasambandan, S., Dewangan, N.K., Moorthy, R.K., Kandasamy, S., & Vilwanathan, R. (2020). Multifarious pharmacological applications of green-routed eco-friendly iron nanoparticles synthesized by Streptomyces sp. (SRT12). Biological Trace Element Research, 194(1), 273–283. (Impact Factor: 3.6)",
-            "Rajeswaran, S., Thirugnanasambandan, S.S., & Vilwanathan, R. (2024). Immunostimulatory effects of exopolysaccharide produced by mangrove habitat actinobacterium isolated from the marine environment of Tuticorin. Waste and Biomass Valorization, 15(6), 3823–3840. (Impact Factor: 2.8)"
+            "Janani, S., Akilandeswari, P., & Pradeep, B. V. (2025). Degradation of chicken feather using keratinase enzyme produced by Bacillus thuringiensis and biofertilizing prospective for sustainable agriculture practices. Research Journal of Biotechnology, 43(3), 115–128.",
+            "Karthick Kumar, S. B., Akilandeswari, P., Pradeep, B. V., Shakila Begam, M., Julbihar Ahamed, K., & Vijayaselvendran, R. K. (2025). Isolation and Identification of Streptomyces geysiriensis IN7 from Marine Water and Evaluating the Efficiency of Their Bioactive Compounds against Commonly Exposed Multidrug-Resistant Pathogens. Biology Bulletin Reviews, 14, 254–264.",
+            "Kavisri, S., Akilandeswari, P., & Pradeep, B. V. (2024). Antidiabetic Activity of Xanthan Gum from Xanthamonas sp. isolated from infected leaves of cabbage. Vol. 414, 495."
           ]
         },
         {
-          "faculty_name": "Dr. Rathi M A",
+          "faculty_name": "Dr. M. Geetha",
           "content": [
-            "Meenakshi, S.R., Selvaraj, J., Javed, M.K., Sharmila, J., Rajkumar, P., Manikandan, V.R., Meenakshi, K.C., Rathi, M.A., Poornima, K., Chella Perumal, P., & Gopalakrishnan, V.K. (2024). Investigating the colon toxicity and carcinogenic role of monosodium glutamate compared with Dimethylhydrazine in male Wistar rats: Exploring the link to childhood colon cancer risk. Journal of King Saud University – Science, 36 (11). https://doi.org/10.1016/j.jksus.2024.103507 (Impact Factor: 3.6)",
-            "Manikandan, V.R., Meenakshi, K.C., Rathi, M.A., Gopalakrishnan, V.K. (2024) Reconnoitering the role of Lipid Metabolites in Ferroptosis. Advances in Redox Research, 14(1). https://doi.org/10.1016/j.arres.2024.100117 (Impact Factor:2.7).",
-            "Vijay, R., Drisya, V.M., Femil Selta, D.R., Rathi, M. A., Gopalakrishnan, V.K., Alkhalifah, D. H., Hozzein, W.N., (2023). Synthesis and characterization of silver nanomaterial from aqueous extract of Commelina forskaolii and its potential antimicrobial activity against Gram negative pathogens. Journal of King Saud University – Science,35(1). https://doi.org/10.1016/j.jksus.2022.102373 (Impact Factor :3.6).",
-            "Manikandan, V.R., Meenakshi, K.C., Meenakshi, S. R., Gopalakrishnan, V.K., Rathi, M.A., Guru, K.D., Mikhlid, H. A., Bader, O. A., Ameer, K., Ponnuswamy, V., (2024). Deciphering the therapeutic, larvicidal, and chemical pollutant degrading properties of leaves-mediated silver nanoparticles obtained from Alpinia purpurata. BioResources, 19(2). ( Impact Factor :1.74).",
-            "Kannappan, P., Meenakshi, K.C, Manikandan, V.R., Shankari, G., Prabhu, D., Rathi, M A., Chella Perumal, P., Balaji Raju, Gopalakrishnan, V.K. (2025). Exploring the anticancer potential of Jerantinine A from Tabernaemontana coronaria against prostate, breast, and ovarian cancers: a computational approach. Journal of Complementary and Integrative Medicine 22(2). 10.1515/jcim-2024-0443. (Impact Factor1.41)"
-          ]
-        },
-        {
-          "faculty_name": "Mrs. P. Nirmaladevi",
-          "content": [
-            "Dugganaboyana, G.K., Kannankumar, M.K.G., Shivaramakrishna, S., Raju, M.V., Chandrasekaran, M.K., Ahalliya,R.M., Panneerselvam, N., Palanisamy, C.P., & Kanniappan, G.V. (2025). Phytochemical insights, antioxidant activity and therapeutic potential of Cassia senna against prostate cancer in Wistar albino rats. Deleted Journal, 7(10). https://doi.org/10.1007/s42452-025-07392-5. (Impact Factor: 2.6)",
-            "Sugunadevi, G., Suresh, K., & Panneerselvam, N. (2025). Anticarcinogenic effect of Mosinone-A on Mrna Expression of Cell Cycle-Associated Proteins In Dmba-Induced Hamster Buccal Pouch Carcinogenesis. International Journal of Biology,Pharmacy and Allied Health Sciences, 14(special issue (3)). International Journal of Biology, Pharmacy and Allied Health Sciences, 14(Special Issue 3). https://doi.org/10.31032/IJBPAS/2025/14.3.1040."
-          ]
-        },
-        {
-          "faculty_name": "Dr. R. AMSAVENI",
-          "content": [
-            "Bhuvaneshwari, V., & Amsaveni, R. (2025). Emerging threat of scrub typhus: A call for greater awareness and research. International Immunopharmacology, 164, 115387. (Impact factor 4.7).",
-            "Bhuvaneshwari, V., & Amsaveni, R. (2025). Exploring quercetin based nano formulation in combating human Metapneumovirus infections. International Immunopharmacology, 153, 114510. (Impact factor 4.7).",
-            "Vinothini, S. L., Brindha, A., Geethanjali, B., Yuvanandhan, S., Tamilselvi, S., Bhuvaneshwari, V., & Amsaveni, R. (2025). Isolation and Characterization of Protease-Producing Bacteria from Metal-Contaminated Soil for Thrombolytic Therapy. The Microbe, 100460.",
-            "Amsaveni, R., & Bhuvaneshwari, V. (2025). The growing threat of Guillain-Barré syndrome: Why awareness matters. Ceylon Journal of Science, 54(3).",
-            "Amsaveni, R., & Bhuvaneshwari, V. (2024, December). Molecular Docking and Pharmacokinetic Assessment of Oleanolic Acid Targeting Human ERRα: A Computational Approach for Anti-Cancer Drug Design. In 2024 International Conference on Emerging Research in Computational Science (ICERCS)(pp. 1-4)."
-          ]
-        },
-        {
-          "faculty_name": "Dr.REETHY.P.S",
-          "content": [
-            "Reethy, P. S., & Lalitha, K. V. (2021). Characterization of V. cholerae O1 biotype El Tor serotype Ogawa possessing the ctxB gene of the classical biotype isolated from well water associated with the cholera outbreak in Kerala, South India. Journal of Water and Health, 19(3), 478-487. (Impact Factor:2.4).",
-            "Reethy, P. S., & Lalitha, K. V. (2021). Antimicrobial Resistance in Vibrio cholerae from Aquatic Environment. (Impact Factor:0.2)",
-            "Reethy, P. S., & Lalitha, K. V. (2020). Phenotypic and genotypic characterization of nonO1/nonO139 Vibrio cholerae from aquaculture farm sediments. (Impact Factor:0.2)."
-          ]
-        },
-        {
-          "faculty_name": "Mr. P. BALAMURUGAN",
-          "content": [
-            "Manoharan, S. P., Yadav, S. A., Suvathika, G., Anandhan, P., & Pandiyan, B. (2024). Screening of Phosphoinositide-3 Kinase Inhibitors from Argemone mexicana Leaves. Biomedical and Pharmacology Journal, 17(2), 1103-1114. (Impact Factor: 1.5)",
-            "Gnanaselvan, S., Yadav, S. A., Manoharan, S. P., & Pandiyan, B. (2023). Uncovering the anticancer potential of phytomedicine and polyherbal’s synergism against cancer—A review. Biointerface Res. Appl. Chem, 13, 356. (Impact Factor: 1.4)",
-            "Manoharan, S. P., Yadav, S. A., Pandiyan, B., & Suvathika, G. (2023). Tragia plukenetii-assisted omega-decenol as potential anticancer agent: Its isolation, characterization, and validation. Applied biochemistry and biotechnology, 195(3), 1699-1722. (Impact Factor: 3.0)",
-            "Pandiyan, B., Yadav, S. A., Karpagavalli, M., Gayathiri, E., Gnanaselvan, S., & Manoharan, S. P. (2022). A Comprehensive Review on Medicinal Plants against Lung Cancer. Oriental Journal of Chemistry, 38(3), 688. (Impact Factor: 0.6).",
-            "Pandiyan, B., Yadav, S. A., Faruck, L. H., & Bakshi, H. (2020). Metabolic profiling and biological activities of artabotrys hexapetalus (LF) bandari leaves. International Journal of Research in Pharmaceutical Sciences, 11(2),2371-2382."
-          ]
-        },
-        {
-          "faculty_name": "Dr. M. Rajkumar",
-          "content": [
-            "Rajkumar, M., Presley, S. D., Govindaraj, P., Girigoswami, K., Meenambigai, K., Deepak, P., … & Menaa, F.(2025). Biomedical Prowess of Clitoria mariana (L.) Flower Methanolic Extract: A Comprehensive In Vitro, Ex Vivo, and In Vivo Evaluation. Chemistry & Biodiversity, e01051. (Impact factor: 2.5)",
-            "Rajkumar, M., Rajkumar, P., Prathap, N., Govindaraj, P., Madhankumar, R., Deepak, P., & Shanmugarathinam, A.(2025). Investigation of In Vitro Antioxidant, Antibacterial and Anticancer Activities of Eco-Friendly Synthesized Silver Nanoparticles Using Alangium salvifolium (L.) Plant Fruit Extract. Biomedical Materials & Devices, 1-18. (Impact factor: 4.2)",
-            "Rajkumar, M., Presley, S. D., Begum, M. Y., Alamri, A., Al Fatease, A., Girigoswami, K., … & Deepak, P. (2025). Biogenic Synthesis of CuO-TiO2 Nanocomposites from Senna auriculata (L.) Roxb. Plant Extract and its Evaluation of Antioxidant, Antibacterial and Anticancer Activity of HepG2 Cell lines. Biocatalysis and Agricultural Biotechnology, 103787. (Impact factor: 3.8)",
-            "Ragavendran, C., Kamaraj, C., Alam, M. W., & Rajkumar, M. (2025). Eco-friendly synthesis of zinc oxide nanoparticles using Caralluma adscendens stem extract: Characterization, antibacterial, antioxidant, and cytotoxic effects of breast cancer cells. Inorganic Chemistry Communications, 180, 115035. (Impact factor:5.4)",
-            "Muthu, R., Manickam, R., Thamarai, R., Sivasamy, S., Mahendran, K., & Prabhakaran, R. (2025). NanoMarine therapeutics: a new wave in drug delivery from oceanic bioresources targeting colon cancer via miRNA modulation. Frontiers in Genetics, 16, 1668618. (Impact factor: 2.8)."
-          ]
-        },
-        {
-          "faculty_name": "Dr. V V Sathibabu Uddandrao",
-          "content": [
-            "Uddandrao, V.V.S., Krishna, D., Vasantha, M.N., Jayashree, G., Roy, A., Ravikkumar, V.R., Sengottuvelu, S., Chandrasekaran, P., Kathirvelan, C., Parim, B.N., Das, K., & Kumar, U. (2025). Combination of hydroxycitric acid and capsaicin regulates IRS-1/AMPK-mTOR-SREBP-1c Axis/NLRP3-NF-κB/Nrf-2-ARE signaling pathways to ameliorate the two-hit process in high-fat diet-induced hepatic steatosis. Biochimica et Biophysica Acta – Molecular and Cell Biology of Lipids, 1870(8), 159682.https://doi.org/10.1016/j.bbalip.2025.159682. (Impact Factor: 3.3)",
-            "Uddandrao, V.V.S., Brahma Naidu, P., Chandrasekaran, P., & Saravanan, G. (2024). Pathophysiology of obesity-related infertility and its prevention and treatment by potential phytotherapeutics. International Journal of Obesity (2005), 48(2), 147–165.https://doi.org/10.1038/s41366-023-01411-4. (Impact Factor: 3.8)",
-            "Uddandrao, V.V.S., Chandrasekaran, P., Saravanan, G., Brahmanaidu, P., Sengottuvelu, S., Ponmurugan, P., Vadivukkarasi, S., & Kumar, U. (2023). Phytoformulation with hydroxycitric acid and capsaicin protects against high-fat-diet-induced obesity cardiomyopathy by reducing cardiac lipid deposition and ameliorating inflammation and apoptosis in the heart. Journal of Traditional and Complementary Medicine, 14(2), 162–172.https://doi.org/10.1016/j.jtcme.2023.08.004. (Impact Factor: 3.0)",
-            "Sathibabu Uddandrao, V.V., Brahmanaidu, P., Ravindarnaik, R., Suresh, P., Vadivukkarasi, S., & Saravanan, G.(2019). Restorative potentiality of S-allylcysteine against diabetic nephropathy through attenuation of oxidative stress and inflammation in streptozotocin-nicotinamide-induced diabetic rats. European Journal of Nutrition, 58(6), 2425–2437.https://doi.org/10.1007/s00394-018-1795-x. (Impact Factor: 4.3)",
-            "Uddandrao, V. V. S., Parim, B., Ramavat, R., Pothani, S., Vadivukkarasi, S., P, P., P, C., & Ganapathy, S. (2023). Effect of S-allylcysteine against diabetic nephropathy via inhibition of MEK1/2-ERK1/2-RSK2 signalling pathway in streptozotocin-nicotinamide-induced diabetic rats. Archives of physiology and biochemistry, 129(1), 213–221. https://doi.org/10.1080/13813455.2020.1811731. (Impact Factor: 2.7)"
+            "Geetha, M. (2024). Microbial Synthesis of Zinc Oxide Nanoparticles and Their Potential Biological Application as an Antimicrobial and Anticancer Agent. Biocatalyst and Agricultural Biotechnology, 67, 103417.",
+            "Subitha, R., Shanmugaraju, V., Nirmala Devi, N., Geetha, M., Ishwarya, R., & Brindha, G. (2025). Biosynthesis of Iron Oxide Nanoparticles Using Martynia annua Aqueous Leaf Extract, Its Antioxidant Potential and Antibacterial Ability Against Selected Wound Pathogens. International Journal of Environmental Sciences, 11(22), 5167–5177."
           ]
         }
-      ]
+      ],
+
+      "researchContent": {
+        "title": "Research Areas",
+
+        "desc": "Antimicrobial Resistance, Microalgal research, Actinomycetes, Nanomaterials from microbes and plants, Microbial metabolites"
+      },
+
+      "researchProjects": {
+        "subtitle": "Research Projects",
+        "content": [
+          {
+            "title": "Research Projects",
+            "content": [
+              "A major research Project by DBT-NER (BPMC) entitled “Sustainable Management of Tea waste to transform the Tea industry into Carbon Neutral and Zero Waste Industry” was granted in the year 2022 for three years (Completed).",
+              "An E-YUVA Fellowship Grant was awarded to the students of the department of Microbiology on “Antimicrobial Textiles Coated with Prodigiosin Pigment Extracted from Serratia Marcescens” in 2023 (Completed)."
+            ]
+          }
+        ]
+      }
     },
+
     {
       "tab": "Events",
       "slug": "department-of-biotechnology",
+      "breadcrumbItems": [
+        { "label": "Academics", "href": "academics" },
+        {
+          "label": "Arts, Science, Commerce and Management",
+          "href": "academics/arts-science-and-humanities/"
+        },
+
+        {
+          "label": "Department of Microbiology",
+          "href": "/academics/arts-science-and-humanities/department-of-microbiology"
+        },
+        { "label": "Events" }
+      ],
+
       "items": [
         {
-          "title": "International Conference",
-          "content": [
-            "International Conference on “Advances in Therapeutic Molecules and Drug Design” on January 10, 2019."
+          "title": "Events",
+
+          "multiContent": [
+            {
+              "title": "Conference",
+              "content": "A two-day National Conference on “Strategies to combat the Strategies to Combat the Menace of Multidrug Resistant (MDR) Pathogens” was organized by the Department of Microbiology, FASCM, Karpagam Academy of Higher Education, during 07-03-2025 and 08-03-2025.",
+              "images": {
+                "images": [
+                  {
+                    "id": 1,
+                    "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/event-1.jpg",
+                    "alt": "Karpagam Academy of Higher Education | best b com accounting and finance colleges in coimbatore"
+                  },
+                  {
+                    "id": 2,
+                    "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/event-2.jpg",
+                    "alt": "Karpagam Academy of Higher Education | top engineering colleges in coimbatore,India"
+                  },
+                  {
+                    "id": 3,
+                    "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/event-3png.jpg",
+                    "alt": "Karpagam Academy of Higher Education | b sc computer science colleges in coimbatore"
+                  }
+                ]
+              }
+            },
+            {
+              "title": "Workshop and Training programmes",
+              "content": "The department has conducted training programmes and workshops during 2024-25 for the benefit of the students of the Microbiology.",
+              "table": {
+                "content": [
+                  {
+                    "head": [
+                      { "id": "col1", "label": "S. No." },
+                      {
+                        "id": "col2",
+                        "label": "Title of the Workshop / Training Program"
+                      }
+                    ],
+                    "data": [
+                      {
+                        "col1": { "text": "1" },
+                        "col2": { "text": "Techniques in Fermentation Process" }
+                      },
+                      {
+                        "col1": { "text": "2" },
+                        "col2": {
+                          "text": "Protein Separation Mastery and Research Methods"
+                        }
+                      },
+                      {
+                        "col1": { "text": "3" },
+                        "col2": { "text": "Techniques in Mushroom Cultivation" }
+                      },
+                      {
+                        "col1": { "text": "4" },
+                        "col2": {
+                          "text": "Fermentation Process and Bioprocess Techniques"
+                        }
+                      },
+                      {
+                        "col1": { "text": "5" },
+                        "col2": { "text": "Plasmid DNA Isolation and Analysis" }
+                      },
+                      {
+                        "col1": { "text": "6" },
+                        "col2": {
+                          "text": "Fermentor Operation and Process Control"
+                        }
+                      },
+                      {
+                        "col1": { "text": "7" },
+                        "col2": {
+                          "text": "Intellectual Property Rights (IPR) and Research Methods"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              "images": {
+                "images": [
+                  {
+                    "id": 1,
+                    "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/event-4.jpg",
+                    "alt": "Conference Image 2",
+                    "title": "Workshop on Fermentor Operation and Process Control"
+                  },
+                  {
+                    "id": 2,
+                    "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12…-on-Fermentor-Operation-and-Process-Control-1.jpg",
+                    "alt": "Conference Image 2"
+                  },
+                  {
+                    "id": 3,
+                    "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/event-6.jpg",
+                    "alt": "Conference Image 1"
+                  }
+                ]
+              }
+            },
+            {
+              "title": "Guest Lecture",
+              "table": {
+                "content": [
+                  {
+                    "head": [
+                      { "id": "col1", "label": "S. No." },
+                      {
+                        "id": "col2",
+                        "label": "Title of the Workshop / Training Program"
+                      }
+                    ],
+                    "data": [
+                      {
+                        "col1": { "text": "1" },
+                        "col2": {
+                          "text": "The Current and Future Significance of the Microbiome in Vaccine Manufacturing"
+                        }
+                      },
+                      {
+                        "col1": { "text": "2" },
+                        "col2": {
+                          "text": "Generative AI related Job Roles and skill sets of Life Sciences Students"
+                        }
+                      },
+                      {
+                        "col1": { "text": "3" },
+                        "col2": {
+                          "text": "Impact of Research and Innovation in Higher Education"
+                        }
+                      },
+                      {
+                        "col1": { "text": "4" },
+                        "col2": {
+                          "text": "Microbial Nexus- A Walk Through in to The Modern Industries"
+                        }
+                      },
+                      {
+                        "col1": { "text": "5" },
+                        "col2": {
+                          "text": "Sustainable Waste Management through Microbial Interventions"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            },
+
+            {
+              "title": "Exhibition",
+              "content": "The Department of Microbiology organized an exhibition titled “Microworld: Unveiling the Invisible” on September 18, 2025, to commemorate International Microorganisms Day. By aligning with the United Nations Sustainable Development Goal (SDG) 3 (Good Health and Well-Being), the event highlighted the importance of microorganisms in disease prevention, treatment, environmental sustainability, and the development of innovative healthcare solutions."
+            },
+            {
+              "title": "Extension activity",
+              "content": "The Department organised an awareness camp in connection with World Hepatitis Day, celebrated on July 28th 2025 in an adopted village in Coimbatore (T.N.), India. The event aimed at raising global awareness about viral hepatitis, a group of infectious diseases that cause liver inflammation."
+            },
+            {
+              "title": "Faculty Development Programme",
+              "content": "Faculty Development program (FDP) on Microbial Products for Sustainable Development was organized by the Department of Microbiology during May 20th, 2024 to May 24th, 2024."
+            },
+            {
+              "title": "Upcoming Events",
+              "contentList": [
+                "The Department is organising a two-day National Conference on Microbiome-Centered Sustainable Approaches to Health and Environmental Monitoring” during 16-12-2025 and 17-12-2025.",
+                "The department is organising a Faculty Development program (FDP) on “Harnessing Microbes for Sustainable Environmental Restoration” during 28-11-2025 to 29-11-2025 for the faculty members of Life Sciences."
+              ]
+            }
           ]
         },
         {
-          "title": "National Conferences",
+          "title": "Conferences",
           "content": [
-            "Two days National Conference on “Advanced Biotechnological Strategies and Biogenic Molecules for Clinical Applications” on 18th and 19th December,2025.",
-            "National Conference on Advance Techniques in Plant Science and Technology on February 13, 2020 and February 14, 2020.",
-            "National Level Competition for Bio-Science Students Becon Fest, IIT-Delhi on July 05, 2018 and July 06, 2018.",
-            "National Conference on “Plant Based Drugs – Biotechnological Implications” on August 10, 2017 and August 11, 2017.",
-            "National Conference on “Microbial Biotechnology for Sustainable Agriculture and Food Safety” on July 27, 2017 and July 28, 2017."
+            "National Conference on “Microbiome-Centered Sustainable Approaches to Health and Environmental Monitoring” held on 16.12.2025 and 17.12.2025.",
+            "Department of Microbiology organised a two-day National Conference on “Espials of Biomolecules” on February 26, 2020. Dr. Ravindrakumar, Principal Scientist, Molecular Biology and Biotechnology Division, ICAR – National Bureau of Fish Genetic Resources, Lucknow, and Dr. T. T. Ajith Kumar, Principal Scientist, NBFGR – Peninsula Marine Fish Genetic Resource Centre (ICAR), CMFRI Campus, Kochi, Kerala, presided as the Chief Guests.",
+            "Department of Microbiology and Biotechnology organised a two-day National Conference on “Microbial Biotechnology Sustainable Agriculture and Food Safety” on July 27, 2017 and July 28, 2017. Dr. N. Mathivanan, Director, CAS in Botany, Guindy Campus, University of Madras, Chennai; Dr. Murali Gopal, Principal Scientist (Microbiology), ICAR-CPCRI, Kasaragod, Kerala; and Dr. U. Sivakumar, Professor, Department of Microbiology, TNAU, Coimbatore, presided as the Chief Guests. Department of Microbiology also organised a National Conference on “Microbial Prospects for Credible Development – Scope and Outcome” on January 24, 2017 and January 25, 2017. Dr. S. Jagannathan, Senior Research Officer, Pasteur Institute of India, Coonoor, presided as the Chief Guest."
           ]
         },
         {
           "title": "Workshop",
+
           "content": [
-            "National level Lecture Workshop on Avenues of Biotechnology to next Generation from Dynamics to Molecular mechanisms on December 19, 2019 and December 20, 2019",
-            "Science Academics Lecture Workshop funded by INSA-IASC-NASC, Bangalore, New Delhi on June 27, 2018 and June 28, 2018.",
-            "Science Academies Lecture Workshop on “Recent advances in Biological Sciences” during July 24, 2017 and July 25, 2017."
+            "Two-day Workshop on “Artificial Intelligence and Machine Learning for Modern Microbiology” held on 05.01.2026 and 06.01.2026.",
+            "One-day Workshop on “Fermentor Operation and Process Control” held on 27.09.2025.",
+            "Two-day Workshop on “Intellectual Property Rights (IPR) and Research Methods” held from 24.09.2025 to 25.09.2025. A sum of ₹9,654/- was sanctioned for the same.",
+            "Virtual workshop entitled “Development of bioproduct from single cell protein for entrepreneur development” held on 30.01.2021.",
+            "Virtual workshop entitled “Mushroom cultivation” conducted by Dr. M. Kulandhaivel on 29.01.2021.",
+            "In association with Institution Innovation Council and Intellectual Property Rights Cell, the Workshop on “GO PATENT – Intellectual Property Rights” was successfully conducted on 31 December 2020. The resource person was Dr. A. Usha Raja Nandhini, Associate Professor, Faculty of Biotechnology, Mother Teresa Women’s University, Attuvambatti, Kodaikanal.",
+            "Virtual Workshop on “Biofertilizer Production and Maintenance – A Potential Strategy for cultivation of soil beneficial microorganism, making as a commercial product” by Dr. R. Dineshkumar, Assistant Professor, Department of Microbiology, Karpagam Academy of Higher Education, held on 17 November 2020.",
+            "Department of Microbiology organised an in-house Workshop on “Mushroom cultivation” by Dr. M. Kulandhaivel on October 01, 2019.",
+            "Department of Microbiology organised an in-house Workshop on “Mushroom cultivation” by Dr. M. Kulandhaivel on October 03, 2018.",
+            "Department of Microbiology organised a Workshop on “Screening of Microbial Metabolites – II” by Dr. P. Srinivasan and Dr. S. Ramalakshmi on December 19 and December 20, 2017.",
+            "Department of Microbiology organised an in-house Workshop on “Mushroom cultivation” by Dr. M. Kulandhaivel on December 07, 2017.",
+            "Department of Microbiology organised a Workshop on “Screening of Microbial Metabolites – I” by Dr. P. Srinivasan and Dr. S. Ramalakshmi on August 17 and August 18, 2017.",
+            "Department of Microbiology organised a two-day Workshop on “Advances of Fish Biology” by Dr. P. Srinivasan and Dr. V. Usharani on June 06 and June 07, 2017.",
+            "Department of Microbiology organised an in-house Workshop on “Aquaculture and Gene Amplification – II” by Dr. P. Srinivasan on February 28, 2017.",
+            "Department of Microbiology organised Hands-on Training on “Cytomorphometric Techniques and Rapid Diagnosis – III” by Dr. M. Kulandhaivel and Mr. P. Srinivasan on February 16, 2017.",
+            "Department of Microbiology organised an in-house Workshop on “Mushroom cultivation” by Dr. M. Kulandhaivel on July 22, 2016.",
+            "Department of Microbiology organised Hands-on Training on “Cytomorphometric Techniques and Rapid Diagnosis – II” by Dr. M. Kulandhaivel and Dr. D. Teepica Priadarsini on March 09, 2016.",
+            "Department of Microbiology organised an in-house Workshop on “Mushroom cultivation” by Dr. M. Kulandhaivel on October 07, 2015."
           ]
         },
         {
-          "title": "Association Meet",
+          "title": "Guest Lecture",
           "content": [
-            "Department Association (TECHNOSTRAND) Inauguration on December 2019.",
-            "Department Association (TECHNOSTRAND) Inauguration on July 2018."
+            "Guest Lecture on “Sustainable Waste Management through Microbial Interventions” held on 26.08.2025.",
+            "The “Louis Pasteur Endowment Lecture” delivered by Dr. N. Gopal, Professor, Department of Agriculture Microbiology, Tamil Nadu Agricultural University, Coimbatore, held on 29.01.2020.",
+            "Department of Microbiology organised a Guest Lecture on “Mushroom Diversity and Biotechnology Application” on October 15, 2019. Dr. A. A. Panneer Selvam, Associate Professor, Department of Botany and Microbiology, AVVM Sri Pushpa College (Autonomous), Poondi, presided as the Chief Guest.",
+            "Department of Microbiology organised a Guest Lecture on “Genomic and Knowledge-Based Futuristic Innovation in Applied Microbiology” on November 30, 2018. Dr. S. Babu, Professor and Director, VIT Centre for Agricultural Innovation and Learning, VIT, Vellore, presided as the Chief Guest.",
+            "Department of Microbiology organised a Guest Lecture on “Biofertilizers and Biocontrol” on February 12, 2018. Dr. P. Thamizhchelvan, Proprietor, Vishakan Biotech, Coimbatore, presided as the Chief Guest.",
+            "Department of Microbiology organised a Guest Lecture on “Drug Discovery in India” on February 14, 2017. Dr. Kumar, Scientist, Kavin Bioresearch, Chennai, presided as the Chief Guest.",
+            "Department of Microbiology organised a Guest Lecture on “Marine Environment & Bioprospecting Potential” on December 07, 2017. Dr. K. Kathiresan, Professor, Centre of Advanced Study in Marine Biology, Annamalai University, Parangipettai, Chidambaram, presided as the Chief Guest.",
+            "Department of Microbiology organised a Guest Lecture on “Recent Diagnostic Modalities for Leptospirosis” on March 01, 2016. Dr. R. Nataraja Seenivasan, Professor, Department of Microbiology, Bharathidasan University, Trichy, presided as the Chief Guest."
           ]
         },
         {
           "title": "Faculty Development Programme",
           "content": [
-            "Three days Faculty Development Program on “Role of Artificial Intelligence in Biotechnology” for our faculty members from 26.11.2025 to 28.11.2025.",
-            "Seven days national level Faculty Development Program on “Innovations in Biotechnology as Lifesaving Prospective” on August 03, 2020 to August 09, 2020"
+            "Two-day Faculty Development Program on Contemporary and Advanced research in life science. on 04th & 05th June 2020.  K. Ponmurugan, Research Associate, King Saud University, Saudi Arabia ,  Dr. A.K Murugan, Scientist, King Faisal Specialist Hospital & Research, Riyadh, Dr. S. Balasubramanian, Associate professor, Institute national de la recherche scientifique – Eau Terre Environment Research Centre, Canada and Dr.M.Saravanan, Associate Professor, Mekelle University, Ethiopia presided as the Chief Guests."
           ]
         },
         {
           "title": "Webinar",
           "content": [
-            "Webinar on “ITC and its data analysis using dynamic approach” on May 18, 2020",
-            "Webinar on “Structural Biology: A road map to drug discovery” on May 27, 2020"
+            "Virtual lab tour to the illustrious Micro Health Reference Laboratories (MHRL), Qatar, held on 17.12.2020. Instructors included Ms. Surabhi Ganga, Cytogeneticist, and Ms. Fathima Rafah, Microbiologist, Department of Histopathology, Genetics and Pathology, MHRL. Ms. Anilda Marry William, Technical Head, Department of Molecular Biology and Microbiology, also participated.",
+            "The Entrepreneur Development – Early to Rise webinar held on 30 June 2020. Dr. Lipin Dev M. S., Director, VT Ecogreen Tech Pvt. Ltd., Coimbatore, served as the resource person.",
+            "Entrepreneur Development webinar on “Expertise Turn into Profit” held on 30 July 2020. Mr. Vinoth Rayer, Technology Partner and Director, Al Saqr Agritech L.L.C., Deira, Dubai, UAE, presided as the Chief Guest.",
+            "Live Webinar on “Impact of Probiotics in Combating COVID-19 – A Potential Preventive Strategy” held on 12 October 2020. The resource person was Dr. Prakash M. Halami, Chief Scientist and Professor (AcSIR), Head, Microbiology and Fermentation Technology Department, CSIR – Central Food Technological Research Institute, Mysore, India.",
+            "Live Webinar on “Marine Microbes – A Wonder of the World” held on 11 December 2020. The resource person was Dr. K. Kathiresan, Honorary Professor, CAS in Marine Biology, Annamalai University, Chidambaram, Tamil Nadu.",
+            "Department of Microbiology, Karpagam Academy of Higher Education (KAHE), Coimbatore, along with the Directorate of Research (DoR) and Internal Quality Assurance Cell (IQAC) of SAFI Institute of Advanced Study (SIAS), organised the first talk of the International Webinar / Virtual Talk Series Novo Scienza ‘20–‘21 on “Deciphering the Role of α-Synuclein in Regulating Exocytosis” on 31 December 2020. The resource person was Dr. Rohith Kumar N., Post-Doctoral Fellow, Tata Institute of Fundamental Research (TIFR), Mumbai."
           ]
         },
         {
-          "title": "Extension activities",
-          "content": [
-            "“Awareness Programme on Prevention and Management of Tuberculosis” at Othakkalmandapam, Coimbatore on 04.08.2025.",
-            "AIDS Awareness Programme for young peoples on December 01, 2020"
+          "title": "Orientation / Induction Programme / Other Activities",
+          "multiContent": [
+            {
+              "content": "Inauguration of Department Association “Microinnovata” on 01.08.2025"
+            },
+            {
+              "title": "Association Inaugural",
+              "contentList": [
+                "Department of Microbiology organised the Association Inauguration on September 29, 2019. Mr. K. Vimal Kumar, Senior HR Manager, Visionary RCM Infotech, presided as the Chief Guest.",
+                "Department of Microbiology organised the Association Inauguration on August 29, 2018. Mr. Michel Joseph, HR Manager, VWR Lab Products Pvt. Ltd., Coimbatore, presided as the Chief Guest.",
+                "Department of Microbiology organised the Association Inauguration on August 10, 2017. Dr. M. Murugan, Head and Associate Professor, Department of Microbiology, Madurai Kamaraj University, Madurai, presided as the Chief Guest.",
+                "Department of Microbiology organised the Association Inauguration on August 12, 2016. Dr. S. Marimuthu, Associate Vice President, T. Stanes & Company Limited, Coimbatore, presided as the Chief Guest.",
+                "Department of Microbiology organised the Association Inauguration on July 31, 2015. Ms. Preethi Marimuthu, CEO, Tropical Bioscience, Coimbatore, presided as the Chief Guest."
+              ]
+            },
+            {
+              "title": "Organ Day",
+              "contentList": [
+                "Department of Microbiology organised Organ Day on August 13, 2019. Dr. G. Saravanan, Nephrologist, Karpagam Hospital, Coimbatore, presided as the Chief Guest.",
+                "Department of Microbiology organised Organ Day on August 13, 2019. Dr. J. K. V. C. Parthiban, Neuro & Spine Surgeon; Dr. Prasanth Vaijyanth, Heart & Lung Transplantation Surgeon, KMCH, Coimbatore; Dr. Ananda Vijai, Liver Transplantation Surgeon, GEM Hospital, Coimbatore; Dr. Sanjay Ramkumar, Skin Transplantation Surgeon, Ganga Hospital, Coimbatore; Dr. K. S. Ramalingam, Neurologist, Coimbatore Kidney Centre, Coimbatore; and Mr. Karthik, Eye Bank Manager, Aravind Eye Care System, Coimbatore, presided as the Chief Guests."
+              ]
+            },
+            {
+              "title": "Extension Activity",
+              "contentList": [
+                "An awareness camp on Coronavirus (COVID-19) prevention on 12.12.2020 at Arisipalayam, Nachipalayam, and Muthumalai villages. The awareness camp was jointly organized by the National Service Scheme and Department of Microbiology of Karpagam Academy of Higher Education, Coimbatore.",
+                "Department of Microbiology organised Awareness Campaign on Health and Hygiene for the employees of Vellalore waste dumping yard, Coimbatore on September 27, 2019.",
+                "Department of Microbiology & NCC organised Awareness Campaign on 12 Step Hand Wash demo to infection prevention for Nachipalayam and Malumichampatti people, Coimbatore on November 28, 2018.",
+                "Department of Microbiology organised Awareness Campaign to control Dengue to Arisipalayam Village people, Coimbatore on October 13, 2017.",
+                "Department of Microbiology organised Awareness Campaign to control Malaria & Dengue to Achiptty Village people, Pollachi, on January 31, 2017.",
+                "Department of Microbiology organised Awareness Campaign on Health and Hygiene for the employees of Vellalore waste dumping yard, Coimbatore on January 22, 2016."
+              ]
+            },
+            {
+              "title": "Endowment Lecture",
+              "contentList": [
+                "Endowment Lecture on “Bioprospecting potential of associated microbes from marine flora and fauna” on 24th December, 2020. The resource person was Dr. M. Arumugam, currently serving as Associate Professor, Faculty of Marine Biology, Annamalai University, Parangipettai.",
+                "Department of Microbiology organised Louis Pasteur Endowment Lecture on January 29, 2020."
+              ]
+            },
+            {
+              "title": "Exhibition",
+              "contentList": [
+                "The Virtual Science Exhibition-2020 organized by the Department of Microbiology, Karpagam Academy of Higher Education on 29.10.2020.",
+                "The Third Annual Startup Entrepreneurship Exhibition-2020 organised by the Department of Microbiology, Karpagam Academy of Higher Education on 06.03.2020.",
+                "Department of Science and Microbiology organised exhibition on Start up Bioentrepreneur for all UG and PG students of Microbiology on October 01, 2018.",
+                "Department of Science and Microbiology organised exhibition on Start up Bioentrepreneur for all UG and PG students of Microbiology on February 10, 2017."
+              ]
+            }
           ]
         },
         {
           "title": "Others",
           "content": [
-            "Technical Fest “Xenviron-2026” on 05.02.2026.",
-            "One Day hands on training on “Exploring the Science of Separation: Gas Chromatography with Live Demonstration” on 25.09.2025.",
-            "One Day Hands on training on “Exploring Heavy Metal Analysis through Atomic Absorption Spectroscopy” on 17.09.2025",
-            "Guest lecture cum workshop on “Emerging Trends in Intellectual Property Rights and patent Systems” on 03.09.2025",
-            "“Medicinal Plants Expo and Student Association Inauguration (Technostrand-2025) on 05.08.2025"
+            "Career Guidance Programme on “Career guidance in GATE (Graduate Aptitude Test in Engineering) for Life Sciences” for Post Graduate and final year undergraduate students on 22.12.2025.",
+            "Two-day Faculty Development Program on “Harnessing Microbes for Sustainable Environmental Restoration” from 28.11.2025 to 29.11.2025.",
+            "CSIR-NET Coaching classes for the II MSc Microbiology and Biotechnology students for 21 days from 18.09.2025 to 18.10.2025.",
+            "One-day Exhibition on “Microworld – Unveiling the Invisible” on the occasion of “International Microorganisms Day” on 18.09.2025.",
+            "Career Guidance Programme on “Career guidance in HACCP (Food safety)” on 13.08.2025."
           ]
+        }
+      ]
+    },
+
+    {
+      "tab": "gallery",
+      "slug": "department-of-biotechnology",
+      "title": "Gallery",
+      "breadcrumbItems": [
+        { "label": "Academics", "href": "academics" },
+        {
+          "label": "Arts, Science, Commerce and Management",
+          "href": "academics/arts-science-and-humanities/"
+        },
+
+        {
+          "label": "Department of Microbiology",
+          "href": "/academics/arts-science-and-humanities/department-of-microbiology"
+        },
+        { "label": "Gallery" }
+      ],
+      "images": [
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Exibition.jpg",
+          "alt": "Exibition",
+          "title": "Exhibition"
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Microinnovata-1024x768.jpg",
+          "alt": "Microinnovata",
+          "title": "Microinnovata"
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Guest-lecture-on-Sustainable-Waste-Management-through-Microbial-Interventions-1024x540.jpg",
+          "alt": "Guest lecture on “Sustainable Waste Management through Microbial Interventions”",
+          "title": "Guest lecture on “Sustainable Waste Management through Microbial Interventions”"
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/National-Conference-on-Strategies-to-combat-the-Strategies-to-Combat-the-Menace-of-Multidrug-Resistant-MDR-Pathogens-2-1024x769.jpg",
+          "alt": "National Conference on “Strategies to combat the Strategies to Combat the Menace of Multidrug Resistant (MDR) Pathogens”-2",
+          "title": "National Conference on “Strategies to combat the Strategies to Combat the Menace of Multidrug Resistant (MDR) Pathogens”"
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/National-Conference-on-Strategies-to-combat-the-Strategies-to-Combat-the-Menace-of-Multidrug-Resistant-MDR-Pathogens-1-1024x769.jpg",
+          "alt": "National Conference on “Strategies to combat the Strategies to Combat the Menace of Multidrug Resistant (MDR) Pathogens”-1",
+          "title": "National Conference on “Strategies to combat the Strategies to Combat the Menace of Multidrug Resistant (MDR) Pathogens”"
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/National-Conference-on-Strategies-to-combat-the-Strategies-to-Combat-the-Menace-of-Multidrug-Resistant-MDR-Pathogens-1024x769.jpg",
+          "alt": "National Conference on “Strategies to combat the Strategies to Combat the Menace of Multidrug Resistant (MDR) Pathogens”",
+          "title": "National Conference on “Strategies to combat the Strategies to Combat the Menace of Multidrug Resistant (MDR) Pathogens”"
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Picture4-2-1024x768.jpg",
+          "alt": "Picture4"
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Picture3-2-768x1024.jpg",
+          "alt": "Picture3"
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Picture2-2-768x1024.jpg",
+          "alt": "Picture2"
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Picture1-1-1-1024x768.jpg",
+          "alt": "Picture1"
         }
       ]
     }

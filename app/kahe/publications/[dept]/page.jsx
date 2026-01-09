@@ -1,4 +1,5 @@
 "use client";
+import Breadcrumb from "@/components/00-Kahe/common-components/BreadCrumb";
 import InnerSubBanner from "@/components/00-Kahe/common-components/InnerSubBanner";
 import PublicationPage from "@/components/00-Kahe/DirectPageComponent/PublicationPage";
 import { FirstLetterUp } from "@/utils/functions.utils";
@@ -27,8 +28,8 @@ const Page = () => {
   return (
     <>
       <InnerSubBanner data={bannerCon} />
-      <PublicationPage publicationsContent={content}/>
-    
+      <Breadcrumb items={content?.breadcrumbItems} />
+      <PublicationPage publicationsContent={content} />
     </>
   );
 };

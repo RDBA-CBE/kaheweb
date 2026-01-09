@@ -857,7 +857,8 @@
 .banner-ti {
   font-size: 38px;
   font-weight: 500;
-  margin: 0; margin-bottom: 0px;
+  margin: 0;
+  margin-bottom: 0px;
   color: #fff;
   text-align: center;
 }
@@ -884,10 +885,10 @@
 }
 .banner-p::before {
   content: "";
-  width: 30%;          /* adjust line width */
+  width: 30%; /* adjust line width */
   height: 2px;
- /* background-color: rgb(150, 231, 150);*/
- background-color: #f2bf2c;
+  /* background-color: rgb(150, 231, 150);*/
+  background-color: #f2bf2c;
   position: absolute;
   top: 0;
   left: 50%;
@@ -1091,7 +1092,7 @@
 .kahe-transfer-img-overlay {
   background: rgba(0, 0, 0, 0.48);
   height: 100%;
-  width: 40%;
+  width: 100%;
   display: flex;
   align-items: flex-end;
   padding-bottom: 30px;
@@ -1730,11 +1731,15 @@
   width: 100%;
   padding: 16px;
   border-radius: 0 0 14px 14px;
-  height: 100px;
+  height: 100%;
   display: flex;
   align-items: flex-start;
   flex-direction: column;
-  justify-content: center;
+  justify-content: flex-end;
+}
+
+.program-overlay-box span{
+  color: white;
 }
 
 .overlay-btn {
@@ -2776,7 +2781,7 @@
 }
 
 .fg-card {
-  background: #F4E9E7;
+  background: #f4e9e7;
   border-radius: 12px;
   padding: 22px 20px;
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.06);
@@ -2946,7 +2951,7 @@
   height: 100%;
   width: 100%;
   inset: 0;
-     background: linear-gradient(rgb(0 0 0 / 81%), rgb(0 0 0 / 81%));
+  background: linear-gradient(rgb(0 0 0 / 81%), rgb(0 0 0 / 81%));
   z-index: 0;
 }
 
@@ -3448,21 +3453,34 @@
   transform: scale(1) !important;
 }
 
-
-.overview-right  .rbt-card .rbt-card-img{
+.overview-right .rbt-card .rbt-card-img {
   height: 100%;
 }
 .overview-right .rbt-card .rbt-card-img a img {
   height: 100%;
 }
 
-.overview-right .rbt-card .rbt-card-img a{
+.overview-right .rbt-card .rbt-card-img a {
   height: 100%;
 }
-.kahe.rbt-header .mainmenu-nav .mainmenu > li > a{color: #fff;}
-.kahe.rbt-header .mainmenu-nav .mainmenu > li > a:hover{color: #06cf53 !important;}
-.bg-gray-2{background:#cdcdcd;}
-.bg-gray-2 a{color:#222;}
-.kahe .rbt-secondary-menu li a{color:#222;}
-.rbt-header .mainmenu-nav .mainmenu > li.active a{color:#000 !important;}
-.rbt-header .mainmenu-nav .mainmenu > li{color:#000 !important;}
+.kahe.rbt-header .mainmenu-nav .mainmenu > li > a {
+  color: #fff;
+}
+.kahe.rbt-header .mainmenu-nav .mainmenu > li > a:hover {
+  color: #06cf53 !important;
+}
+.bg-gray-2 {
+  background: #cdcdcd;
+}
+.bg-gray-2 a {
+  color: #222;
+}
+.kahe .rbt-secondary-menu li a {
+  color: #222;
+}
+.rbt-header .mainmenu-nav .mainmenu > li.active a {
+  color: #000 !important;
+}
+.rbt-header .mainmenu-nav .mainmenu > li {
+  color: #000 !important;
+}

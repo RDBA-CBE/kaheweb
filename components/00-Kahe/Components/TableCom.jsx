@@ -7,20 +7,36 @@ const TableCom = ({ data }) => {
     <div className="rbt-dashboard-content bg-color-white tab-in">
       <div className="content">
         {/* Title */}
-        {data.title && (
+        {data?.title && (
           <div className="row">
             <div className="col-lg-12">
               <div className="section-title">
                 <h2
                   className="decor-ti"
                   dangerouslySetInnerHTML={{
-                    __html: FirstLetterUp(data.title),
+                    __html: FirstLetterUp(data?.title),
                   }}
                 />
               </div>
             </div>
           </div>
         )}
+        {data?.title1 && (
+          <div className="row">
+            <div className="col-lg-12">
+              <div className="section-title">
+                <h2
+                  className="main-ti text-black"
+                  dangerouslySetInnerHTML={{
+                    __html: FirstLetterUp(data?.title1),
+                  }}
+                />
+              </div>
+            </div>
+          </div>
+        )}
+
+        {data?.desc && <p className="mb-5">{data?.desc}</p>}
 
         {/* MULTIPLE TABLES */}
         <div className="row gy-5">
