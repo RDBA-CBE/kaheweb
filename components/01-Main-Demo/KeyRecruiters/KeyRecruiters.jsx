@@ -24,12 +24,10 @@ const recruiters = [
   { name: "Vernalis", logo: "/images/Kahe/home/key/LOGO-20.jpg" },
 ];
 
-
-
 const data = [...recruiters, ...recruiters];
+const CARD_WIDTH = 200; // card + gap
 
 export default function KeyRecruiters() {
-  const CARD_WIDTH = 200;
   const [index, setIndex] = useState(0);
   const startX = useRef(0);
 

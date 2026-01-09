@@ -1,8 +1,8 @@
 {
   "title": "Department of Mechanical Engineering",
-  "bannerCon": "Learning the science of motion, building strength through innovation.",
+  "bannerCon": "Promoting research-based learning in mechanical engineering to support industrial and technological development.",
   "applyLink": "#",
-  "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+  "bannerImg": "/images/Kahe/academics/engineering/Mechanical-Eng/mechanicalengineering-banner.png",
   "tabs": [
     {
       "id": "overview",
@@ -37,7 +37,7 @@
           "type": "overview",
           "subTitle": "Overview",
           "contents": "The Department of Mechanical Engineering draws its strength from a team of dedicated faculty members with both academic and industrial experience. The department is well equipped with laboratories. The software packages available in the Department include AutoCAD, Solid works, CATIA, Edge-CAM and ANSYS.Among the various activities of the department, the Karpagam Academy of Higher Education Society of Automotive Engineers (SAE) stands out with its many guest lectures by eminent personalities from academic and industries. Our students have won second prize for “BEST BUILD QUALITY AWARD’ in BAJA SAE 2012 national level competition. In addition to that our students have also participated in SUPRA (F1 car modeling and fabrication competition and EFFICYLE (Hybrid Three Wheeler) competition. Apart from the national level participation, students also participate in International level competition like FORMULA UNIMAP 2013- Malaysia. Frequent industrial visits to renowned industries are one of the key activities of the department. The department has a separate library with a collection of various Reference Books, E-Journals, and Student Project Reports. Mechanical Sciences Association (MSA) is actively conducting various conferences, workshops, symposiums etc. The department maintains a close liaison with a number of Universities and Industries in and out of the country through faculty research and collaborative projects.",
-          "image": "/images/others/video-07.jpg"
+          "image": "/images/Kahe/academics/engineering/Mechanical-Eng/mechanicalengineering-overview.png"
         },
         {
           "type": "vision",
@@ -68,7 +68,7 @@
           {
             "key": "ug",
             "title": "Under Graduate Programme",
-            "img": "/images/others/health-b-02.png",
+            "img": "/images/Kahe/academics/engineering/Mechanical-Eng/mechanicalengineering-studentprogrammes.png",
             "items": [
               "B.E. Mechanical Engineering (Strength: 120)"
             ],
@@ -77,7 +77,7 @@
           {
             "key": "pg",
             "title": "Post Graduate Programme",
-            "img": "/images/others/health-b-02.png",
+            "img": "/images/Kahe/academics/engineering/Mechanical-Eng/mechanicalengineering-studentprogrammes.png",
             "items": [
               "M.E. CAD / CAM Robotics (Strength: 6)"
             ],
@@ -86,7 +86,7 @@
           {
             "key": "res",
             "title": "Research Programme",
-            "img": "/images/others/health-b-02.png",
+           "img": "/images/Kahe/academics/engineering/Mechanical-Eng/mechanicalengineering-studentprogrammes.png",
             "items": [
               "Ph.D. in Mechanical Engineering"
             ],
@@ -100,7 +100,7 @@
           {
             "key": "be-ft",
             "title": "BE Mechanical Engineering – FT",
-            "img": "/images/others/health-b-02.png",
+           "img": "/images/Kahe/academics/engineering/Mechanical-Eng/mechanicalengineering-studentprogrammes.png",
             "type": "curriculum",
             "items": [
               {
@@ -132,7 +132,7 @@
           {
             "key": "be-pt",
             "title": "BE Mechanical Engineering – PT",
-            "img": "/images/others/health-b-02.png",
+           "img": "/images/Kahe/academics/engineering/Mechanical-Eng/mechanicalengineering-studentprogrammes.png",
             "type": "curriculum",
             "items": [
               {
@@ -156,7 +156,7 @@
           {
             "key": "me-cad",
             "title": "ME – CAD / CAM Robotics",
-            "img": "/images/others/health-b-02.png",
+           "img": "/images/Kahe/academics/engineering/Mechanical-Eng/mechanicalengineering-studentprogrammes.png",
             "type": "curriculum",
             "items": [
               {
@@ -176,7 +176,7 @@
           {
             "key": "phd-mech",
             "title": "Ph.D. Mechanical Engineering",
-            "img": "/images/others/health-b-02.png",
+            "img": "/images/Kahe/academics/engineering/Mechanical-Eng/mechanicalengineering-studentprogrammes.png",
             "type": "curriculum",
             "items": [
               {

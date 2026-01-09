@@ -1,7 +1,16 @@
+/* ================= CARD ================= */
 .card {
   background: #f1f1f1;
-  border: 0px solid #e5e5e5;
   padding: 30px;
+  flex: 1;
+  min-width: 0;
+  max-width: 100%;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  box-sizing: border-box;
+  border-radius: 6px; /* optional: rounded corners */
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1); /* optional: subtle shadow */
 }
 
 /* Grey top strip */
@@ -16,6 +25,7 @@
   text-align: center;
   border: 1px solid #ddd;
   background: #fff;
+  margin: 0 auto; /* center the date box */
 }
 
 .month {
@@ -40,6 +50,8 @@
   width: 100%;
   height: 220px;
   overflow: hidden;
+  margin: 16px 0;
+  border-radius: 4px;
 }
 
 .imageWrapper img {
@@ -50,23 +62,55 @@
 
 /* Content */
 .content {
-  padding: 16px;
+  padding: 0 0 16px 0;
+  flex-grow: 1;
 }
 
 .title {
   margin: 0;
   font-size: 20px;
-  line-height: 1.5;
-  color: #000; font-weight: 500;
-}
-.cardsContainer {
-  display: flex;
-  gap: 0;                 /* no gap */
+  line-height: 1.4;
+  color: #000;
+  font-weight: 500;
+  word-break: normal;        /* prevent vertical letters */
+  overflow-wrap: break-word;
+  white-space: normal;
+  text-align: center;        /* optional: center text */
 }
 
-/* Add vertical divider between cards */
+/* ================= CONTAINER ================= */
+.cardsContainer {
+  display: flex;
+  gap: 24px;
+  width: 100%;
+  flex-wrap: wrap; /* allow wrapping on desktop if needed */
+}
+
+/* Vertical divider (desktop) */
 .cardsContainer > *:not(:last-child) {
   border-right: 1px solid #dcdcdc;
-  padding-right: 24px;    /* space before line */
-  margin-right: 24px;     /* space after line */
+  padding-right: 24px;
+}
+
+/* ================= RESPONSIVE ================= */
+@media (max-width: 1024px) {
+  .cardsContainer {
+    flex-direction: column;   /* stack cards vertically */
+    gap: 16px;
+  }
+
+  .cardsContainer > * {
+    flex: 1 1 100%;           /* full width cards */
+    max-width: 100%;
+    border-right: none;       /* remove desktop divider */
+    padding-right: 0;
+  }
+
+  .title {
+    font-size: 18px;          /* optional: adjust font for mobile */
+  }
+
+  .imageWrapper {
+    height: 200px;            /* optional: smaller image on mobile */
+  }
 }

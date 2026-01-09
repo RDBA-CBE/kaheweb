@@ -1,0 +1,511 @@
+{
+  "title": "Library",
+  "bannerCon": "The University of Wyoming welcomes students to experience a one-of-a-kind education in the heart of the Mountain West.",
+  "bannerImg": "/images/Kahe/academics/arts-and-science/biochemistry/biochemistry-banner.png",
+  "tabs": [
+    {
+      "id": "Library",
+      "label": "Library"
+    },
+    {
+      "id": "e_resources",
+      "label": "E - Resources"
+    },
+    {
+      "id": "Newsletter",
+      "label": "Newsletter"
+    }
+  ],
+  "tabContent": [
+    {
+      "tab": "Library",
+      "NscCommittees": {
+        "title": "Reference section",
+        "content": [
+          {
+            "id": 1,
+            "title": "There are 9,561 books."
+          },
+          {
+            "id": 2,
+            "title": "National and International books."
+          },
+          {
+            "id": 3,
+            "title": "Dictionaries."
+          },
+          {
+            "id": 4,
+            "title": "Directories."
+          },
+          {
+            "id": 5,
+            "title": "Encyclopedia."
+          },
+          {
+            "id": 6,
+            "title": "Year books."
+          },
+          {
+            "id": 7,
+            "title": "General knowledge books."
+          },
+          {
+            "id": 8,
+            "title": "Science and technology books."
+          },
+          {
+            "id": 9,
+            "title": "Proceedings."
+          },
+          {
+            "id": 10,
+            "title": "Abstracts."
+          },
+          {
+            "id": 11,
+            "title": "Index."
+          },
+          {
+            "id": 12,
+            "title": "Quotation Books."
+          },
+          {
+            "id": 13,
+            "title": "Quiz books."
+          },
+          {
+            "id": 14,
+            "title": "Manuals."
+          },
+          {
+            "id": 15,
+            "title": "General books."
+          }
+        ]
+      },
+      "about": {
+        "title": "About Library",
+        "content": "Karpagam Academy of Higher Education genesis goes back to September 1995 when it was initiated as Karpagam Arts & Science College. The college was promoted by the Karpagam Charity Trust."
+      },
+      "membership": {
+        "title": "Membership",
+        "caption": "Karpagam strives to offer a package of value added benefits that are tailored to nurture the educational experience of the students:",
+        "content": [
+          {
+            "title": "UG Students",
+            "content": "UG & PG Students Research scholars (M.Phil & Ph.D.) and Staff members",
+            "src": "/images/Kahe/Innerpages/group.png"
+          },
+          {
+            "title": "UG Students",
+            "content": "UG Students are issued 2 books",
+            "src": "/images/Kahe/Innerpages/group.png"
+          },
+          {
+            "title": "PG Student",
+            "content": "PG Students are issued 4 books",
+            "src": "/images/Kahe/Innerpages/group.png"
+          },
+          {
+            "title": "Research Scholars",
+            "content": "Research Scholars are issued 4 books",
+            "src": "/images/Kahe/Innerpages/group.png"
+          },
+          {
+            "title": "Staff Members",
+            "content": "Staff members are issued 9 books",
+            "src": "/images/Kahe/Innerpages/group.png"
+          }
+        ]
+      },
+      "ClassificationSystem": [
+        {
+          "clsName": "col-lg-12 col-md-6 col-sm-6 col-12",
+          "src": "/images/category/image/web-design.jpg",
+          "content": "The library books are classified according to the Dewey Decimal Classification (DDC) System."
+        },
+        {
+          "clsName": "col-lg-6 col-md-6 col-sm-6 col-12",
+          "src": "/images/category/image/web-design.jpg",
+          "content": "OPAC helps in locating the books on the shelves."
+        },
+        {
+          "clsName": "col-lg-6 col-md-6 col-sm-6 col-12",
+          "src": "/images/category/image/web-design.jpg",
+          "content": "Books are arranged on the shelves in numerical order."
+        }
+      ],
+      "E_Library": [
+        {
+          "clsName": "col-lg-6 col-md-6 col-sm-6 col-12",
+          "src": "/images/category/image/web-design.jpg",
+          "content": "Library functions from 8.00 A.M. – 8.00 P.M."
+        },
+        {
+          "clsName": "col-lg-6 col-md-6 col-sm-6 col-12",
+          "src": "/images/category/image/web-design.jpg",
+          "content": "Transaction timings are from 9.00 A.M. – 4.30 P.M."
+        }
+      ],
+      "LibrarySections": {
+        "tab": "Library Sections",
+        "items": [
+          {
+            "type": "laboratories",
+            "title": "Facilities laboratories List",
+            "content": [
+              "Technical section",
+              "Lending section (Circulation)",
+              "Reference section",
+              "Periodical section"
+            ]
+          },
+          {
+            "type": "equipment",
+            "title": "Technical section",
+            "content": [
+              "Books processing",
+              "Book Acquisition, Accessioning",
+              "Classification",
+              "Sealing",
+              "Spine label affixing",
+              "Bar coding affixing",
+              "Book slip affixing / Book pocket affixing",
+              "Binding Work",
+              "Updating in the computer",
+              "Registration of new members"
+            ]
+          },
+          {
+            "type": "LibrarySections",
+            "title": "Lending section",
+            "content": [
+              "There are 1,05,087 books.",
+              "400-500 books are daily lent and returned.",
+              "Presently books are issued through the Smart cards.",
+              "The due date of returning is 15 days (Students)",
+              "The due date of returning is 30 days (Staff)",
+              "If the Students fail to return a fine of Rs.1/- is charged for each day.",
+              "If the Staff fail to return a fine of Rs.5/- is charged for each day.",
+              "Open access system."
+            ]
+          }
+        ]
+      },
+      "timing": [
+        {
+          "clsName": "col-lg-6 col-md-6 col-sm-6 col-12",
+          "src": "/images/category/image/web-design.jpg",
+          "content": "Library functions from 8.00 A.M. – 8.00 P.M."
+        },
+        {
+          "clsName": "col-lg-6 col-md-6 col-sm-6 col-12",
+          "src": "/images/category/image/web-design.jpg",
+          "content": "Transaction timings are from 9.00 A.M. – 4.30 P.M."
+        }
+      ],
+      "PeriodicalSection": {
+        "tab": "Periodical section",
+        "items": [
+          {
+            "type": "laboratories",
+            "title": "Journals",
+            "content": [
+              "National & International – 194"
+            ]
+          },
+          {
+            "type": "equipment",
+            "title": "Magazines",
+            "content": [
+              "National & International – 138",
+              "News Letters & Complimentary Copy"
+            ]
+          },
+          {
+            "type": "LibrarySections",
+            "title": "Others",
+            "content": [
+              "Back Volumes – 13158",
+              "Project Reports – 14592",
+              "Newspaper Clipping",
+              "Articles",
+              "Annual Reports",
+              "Conference Reports",
+              "Seminar Reports",
+              "Publishers Catalogue (Books & Periodicals)",
+              "Question Papers",
+              "Course Materials"
+            ]
+          }
+        ]
+      },
+      "Computerized": {
+        "title": "Computerized Library",
+        "content": [
+          {
+            "id": 1,
+            "title": "Anti – Discrimination Committee",
+            "url": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Anti-Discrimination-Committee.pdf"
+          },
+          {
+            "id": 2,
+            "title": "Anti – Ragging Committee",
+            "url": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Anti-Ragging-Committee.pdf"
+          },
+          {
+            "id": 3,
+            "title": "Cultural Committee",
+            "url": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Cultural-Committee.pdf"
+          },
+          {
+            "id": 4,
+            "title": "Environmental Monitoring Committee",
+            "url": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Environmental-Monitoring-Committee.pdf"
+          },
+          {
+            "id": 5,
+            "title": "Ethics Monitoring Committee",
+            "url": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Ethics-Monitoring-Committee.pdf"
+          },
+          {
+            "id": 6,
+            "title": "Extension Programme Committee",
+            "url": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Extension-Programme-Committee.pdf"
+          },
+          {
+            "id": 7,
+            "title": "Hostel Committee",
+            "url": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Hostel-Committee.pdf"
+          },
+          {
+            "id": 8,
+            "title": "Internal Committee for Disabled Students",
+            "url": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Internal-Committee-for-Disabled-Students.pdf"
+          },
+          {
+            "id": 9,
+            "title": "Library Advisory Committee",
+            "url": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Library-Advisory-Committee.pdf"
+          },
+          {
+            "id": 10,
+            "title": "Research Advisory Committee",
+            "url": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Research-Advisory-Committee.pdf"
+          },
+          {
+            "id": 11,
+            "title": "Research Guides Recognition Committee",
+            "url": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Research-Guides-Recognition-Committee.pdf"
+          },
+          {
+            "id": 12,
+            "title": "Research Project Evaluation Committee",
+            "url": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Research-Project-Evaluation-Committee.pdf"
+          },
+          {
+            "id": 13,
+            "title": "SC ST Committee",
+            "url": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/SC-ST-Committee.pdf"
+          },
+          {
+            "id": 14,
+            "title": "Sexual Harassment Committee",
+            "url": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Sexual-Harassment-Committee.pdf"
+          },
+          {
+            "id": 15,
+            "title": "Student Disciplinary Committee",
+            "url": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Student-Disciplinary-Committee.pdf"
+          },
+          {
+            "id": 16,
+            "title": "Student Grievance Redressal Committee",
+            "url": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Student-Grievance-Redressal-Committee.pdf"
+          },
+          {
+            "id": 17,
+            "title": "Student Grievance Redressal FADP",
+            "url": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Student-Grievance-Redressal-FADP.pdf"
+          },
+          {
+            "id": 18,
+            "title": "Student Grievance Redressal FASCM",
+            "url": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Student-Grievance-Redressal-FASCM.pdf"
+          },
+          {
+            "id": 19,
+            "title": "Student Grievance Redressal FoE",
+            "url": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Student-Grievance-Redressal-FoE.pdf"
+          },
+          {
+            "id": 20,
+            "title": "Student Grievance Redressal FoP",
+            "url": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Student-Grievance-Redressal-FoP.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "tab": "e_resource",
+      "ciaTest": {
+        "title": "E-LEARNING FACILITIES – ONLINE DATABASE DETAILS 2019-2020",
+        "content": [
+          {
+            "subtitle": "Springer (E-Journal Package)",
+            "id": 1,
+            "list": [
+              {
+                "src": "/images/Kahe/Innerpages/file.png",
+                "item": "View",
+                "url": "https://www.springer.com",
+                "target": "__blank"
+              }
+            ]
+          },
+          {
+            "subtitle": "DELNET (Developing Library Network)",
+            "id": 1,
+            "list": [
+              {
+                "src": "/images/Kahe/Innerpages/file.png",
+                "item": "View",
+                "url": "http://delnet.in/",
+                "target": "__blank"
+              }
+            ]
+          },
+          {
+            "subtitle": "Scopus",
+            "id": 1,
+            "list": [
+              {
+                "src": "/images/Kahe/Innerpages/file.png",
+                "item": "View",
+                "url": "https://www.scopus.com/",
+                "target": "__blank"
+              }
+            ]
+          },
+          {
+            "subtitle": "NPTEL (National Programme on Technology Enhanced Learning)",
+            "id": 1,
+            "list": [
+              {
+                "src": "/images/Kahe/Innerpages/file.png",
+                "item": "View",
+                "url": "https://nptel.ac.in/",
+                "target": "__blank"
+              }
+            ]
+          },
+          {
+            "subtitle": "UGC-MHRD National Digital Library (NDL)",
+            "id": 1,
+            "list": [
+              {
+                "src": "/images/Kahe/Innerpages/file.png",
+                "item": "View",
+                "url": "https://ndl.iitkgp.ac.in/",
+                "target": "__blank"
+              }
+            ]
+          },
+          {
+            "subtitle": "Inflibnet – Shodhganga",
+            "id": 1,
+            "list": [
+              {
+                "src": "/images/Kahe/Innerpages/file.png",
+                "item": "View",
+                "url": "http://community.worldlibrary.in/",
+                "target": "__blank"
+              }
+            ]
+          },
+          {
+            "subtitle": "Inflibnet – e-shodhsindhu World e-Books Library (WEL) & South Asia Archive (SAA)",
+            "id": 1,
+            "list": [
+              {
+                "src": "/images/Kahe/Innerpages/file.png",
+                "item": "View",
+                "url": "http://community.worldlibrary.in/",
+                "target": "__blank"
+              }
+            ]
+          },
+          {
+            "subtitle": "Knimbus – Digital Library",
+            "id": 1,
+            "list": [
+              {
+                "src": "/images/Kahe/Innerpages/file.png",
+                "item": "View",
+                "url": "http://kahedu.new.knimbus.com/user#/home",
+                "target": "__blank"
+              }
+            ]
+          },
+          {
+            "subtitle": "KAHE – Learning Management System (LMS)",
+            "id": 1,
+            "list": [
+              {
+                "src": "/images/Kahe/Innerpages/file.png",
+                "item": "View",
+                "url": "https://kahedu.edu.in/academics/library/learning-management-system-lms/",
+                "target": "__blank"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "tab": "Newsletter",
+      "Newsletter": {
+        "title": "E-LEARNING FACILITIES – ONLINE DATABASE DETAILS 2019-2020",
+        "content": [
+          {
+            "subtitle": "Newsletter Jan – Mar 2024",
+            "id": 1,
+            "list": [
+              {
+                "src": "/images/Kahe/Innerpages/file.png",
+                "item": "View",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2025/02/Newsletter-Jan-Mar-2024.pdf",
+                "target": "__blank"
+              }
+            ]
+          },
+          {
+            "subtitle": "Newsletter April – June 2024",
+            "id": 1,
+            "list": [
+              {
+                "src": "/images/Kahe/Innerpages/file.png",
+                "item": "View",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2025/02/Newsletter-April-June-2024.pdf",
+                "target": "__blank"
+              }
+            ]
+          },
+          {
+            "subtitle": "Newsletter Jul – Sep 2024",
+            "id": 1,
+            "list": [
+              {
+                "src": "/images/Kahe/Innerpages/file.png",
+                "item": "View",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2025/02/Newsletter-Jul-Sep-2024.pdf",
+                "target": "__blank"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,8 +1,16 @@
-export default function ScienceAndHumanitiesPage() {
+import DepartmentOfScienceHumanities from "@/components/00-Kahe/AcademicsComponents/Engineering/DepartmentOfScienceHumanities";
+
+export const metadata = {
+  title: "Department of Science and Humanities College in Coimbatore",
+  description: "Join the top science and humanities college in Coimbatore where our staff provide our students with the best possible education, research, and industry exposure",
+};
+
+const page = () => {
   return (
-    <div>
-      <h1>Science and Humanities</h1>
-      <p>Welcome to the Science and Humanities Department.</p>
-    </div>
+    <>
+     <DepartmentOfScienceHumanities />
+    </>
   );
-}
+};
+
+export default page;

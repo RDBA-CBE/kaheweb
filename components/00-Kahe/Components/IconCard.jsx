@@ -12,9 +12,11 @@ const IconCard = ({ data }) => {
       <div className="fg-grid">
         {data?.content?.map((item, index) => (
           <div className="fg-card" key={index}>
+            {item?.src &&
             <div className="fg-icon mb-5">
               <img src={item.src} alt={item.title} width={50} />
             </div>
+            }
             <h4 className="main-sub-ti mb-4">{item.title}</h4>
             {item.content && <p className="fg-desc">{item.content}</p>}
             {item?.url && (
