@@ -11,6 +11,7 @@ import Programmes from "./tabContentComponents/Programmes";
 import ProgrammesMbl from "./tabContentComponents/ProgrammesMbl";
 import Gal_Pub_Event from "./tabContentComponents/Gal_Pub_Event";
 import StudentsCom from "./tabContentComponents/StudentsCom";
+import QuoteBox from "./About/QuoteBox";
 
 const TabInnerSection = ({ tabSections, tabContent }) => {
   const tabItems = tabContent;
@@ -35,8 +36,10 @@ const TabInnerSection = ({ tabSections, tabContent }) => {
   );
 
   const studentsContent = tabContent.find((item) => item.tab == "students");
-  console.log("studentsContent", studentsContent);
-  
+
+  const patentsContent = tabContent.find((item) => item.tab == "patents");
+
+   const galleryContent = tabContent.find((item) => item.tab == "gallery");
 
   return (
     <>
@@ -73,20 +76,26 @@ const TabInnerSection = ({ tabSections, tabContent }) => {
             className=" rbt-review-wrapper review-wrapper section-bg3"
             id="infrastructure"
           >
-            <Infrastructure infrastructureContent={infrastructureContent && infrastructureContent} />
+            <Infrastructure
+              infrastructureContent={
+                infrastructureContent && infrastructureContent
+              }
+            />
           </div>
         )}
 
-        {
-          studentsContent && (
-            <div
-              className=" section-bg1"
-              id="students"
-            >
-              <StudentsCom data = {studentsContent}/>
-            </div>
-          )
-        }
+        {studentsContent && (
+          <div className=" section-bg1" id="students">
+            <StudentsCom data={studentsContent} />
+          </div>
+        )}
+
+        {patentsContent && (
+          <div className=" section-bg1" id="patents">
+            <QuoteBox data={patentsContent?.items} />
+          </div>
+        )}
+
         <div
           className="section-bg1  course-content  coursecontent-wrapper"
           style={{ padding: "80px 0" }}
@@ -95,6 +104,7 @@ const TabInnerSection = ({ tabSections, tabContent }) => {
             InfraGallery={InfraGallery && InfraGallery}
             publicationsContent={publicationsContent && publicationsContent}
             eventsContent={eventsContent && eventsContent}
+            galleryContent={galleryContent && galleryContent}
           />
         </div>
 

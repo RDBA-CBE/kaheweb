@@ -1,3 +1,4 @@
+import { FirstLetterUp } from "@/utils/functions.utils";
 import Link from "next/link";
 import { useEffect, useState } from "react";
 import "venobox/dist/venobox.min.css";
@@ -21,9 +22,41 @@ const GalleryPage = ({ content }) => {
     title: "Events",
   };
 
+  const goBack = () => {
+    window.history.back();
+  };
+
   return (
     <>
       <section className="section-wid gal-pg section-bg1">
+        <div className="section-title d-flex justify-content-lg-between ">
+          <h2
+            className="decor-ti "
+            dangerouslySetInnerHTML={{
+              __html: FirstLetterUp(content.title),
+            }}
+          ></h2>
+
+          <div className=" d-flex ">
+            <div className="py-0">
+              <div
+                onClick={goBack}
+                className="kahe-btn-primary rbt-btn hover-icon-reverse"
+                style={{ cursor: "pointer" }}
+              >
+                <span className="icon-reverse-wrapper">
+                  <span className="btn-text">Go Back</span>
+                  <span className="btn-icon">
+                    <i className="feather-arrow-right"></i>
+                  </span>
+                  <span className="btn-icon">
+                    <i className="feather-arrow-right"></i>
+                  </span>
+                </span>
+              </div>
+            </div>
+          </div>
+        </div>
         <div className="lab-container parent-gallery-container">
           {content.images.map((item, i) => (
             <Link

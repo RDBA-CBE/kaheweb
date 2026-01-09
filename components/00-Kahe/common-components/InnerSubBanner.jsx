@@ -10,13 +10,16 @@ const InnerSubBanner = ({ data }) => {
         style={{
           backgroundImage: `url(${data?.bannerImg})`,
           backgroundPosition: "top",
+          display:"flex",
+          alignItems:"center",
         }}
       ></div>
-      <div className="">
+      <div className="mt-4">
         <div className="uw-banner-content">
           <div className="uw-banner-header">
             <h2
               className="banner-ti"
+              style={{zIndex:"100"}}
               dangerouslySetInnerHTML={{ __html: data?.title }}
             ></h2>
           </div>
