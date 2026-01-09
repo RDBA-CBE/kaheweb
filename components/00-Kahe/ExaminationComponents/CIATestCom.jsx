@@ -23,7 +23,14 @@ const CIATestCom = () => {
         <div className="rbt-course-details-area w-100">
           <div className="row g-5">
             <div className="col-lg-9">
-              <ContentCard data={Examination?.ciaTest} />
+              <ContentCard data={Examination?.timeTable} />
+              <div className="mt-5">
+                <ContentCard data={Examination?.circular} />
+              </div>
+              <div className="mt-5">
+                <ContentCard data={Examination?.instructions} />
+              </div>
+
             </div>
 
             <div className="col-lg-3 px-0 d-none d-lg-block sidebar-pg">

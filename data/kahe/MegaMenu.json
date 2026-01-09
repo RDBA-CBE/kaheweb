@@ -332,62 +332,73 @@
         {
           "id": 12,
           "title": "Best Practices",
-          "link": "/kahe/about"
+          "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/01/7-2-Best-Practices.pdf",
+          "target": "_blank"
         },
         {
           "id": 13,
           "title": "Capacity Development and Skills Enhancement Initiatives",
-          "link": "/kahe/about"
+          "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/05/Capacity-development-and-skills-enhancement-_1_.pdf",
+          "target": "_blank"
         },
         {
           "id": 14,
           "title": "Institutional Distinctiveness",
-          "link": "/kahe/about"
+          "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/01/7-3-Institutional-Distinctiveness.pdf",
+          "target": "_blank"
         },
         {
           "id": 15,
           "title": "Course Outcomes",
-          "link": "/kahe/about"
+          "link": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/Course-Outcomes-1.pdf",
+          "target": "_blank"
         },
         {
           "id": 16,
           "title": "IT Policy",
-          "link": "/kahe/about"
+          "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/07/IT-POLICY.pdf",
+          "target": "_blank"
         },
         {
           "id": 17,
           "title": "Energy Efficiency and Clean Energy Policy 2023",
-          "link": "/kahe/about"
+          "link": "https://kahedu.edu.in/policy/Energy-Efficiency-and-Clean-Energy-Policy-2023.pdf",
+          "target": "_blank"
         },
         {
           "id": 18,
           "title": "Environmental Quality and Energy Policy 2023",
-          "link": "/kahe/about"
+          "link": "https://kahedu.edu.in/policy/Environmental-Quality-and-Energy-Policy-2023.pdf",
+          "target": "_blank"
         },
         {
           "id": 19,
           "title": "Smoke Free Campus Policy 2023",
-          "link": "/kahe/about"
+          "link": "https://kahedu.edu.in/policy/Smoke-Free-Campus-Policy-2023.pdf",
+          "target": "_blank"
         },
         {
           "id": 20,
           "title": "Strategic Plan and Deployment Documents",
-          "link": "/kahe/about"
+          "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/07/Strategic-Plan-and-Deployment-Documents.pdf",
+          "target": "_blank"
         },
         {
           "id": 21,
           "title": "List of Dedicated courses on SDG",
-          "link": "/kahe/about"
+          "link": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/List-of-Dedicated-courses-on-SDGs.pdf",
+          "target": "_blank"
         },
         {
           "id": 22,
           "title": "Organogram",
-          "link": "/kahe/about"
+          "link": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/KAHE_Organogram.pdf",
+          "target": "_blank"
         },
         {
           "id": 23,
           "title": "Reports",
-          "link": "/kahe/about"
+          "link": ""
         }
       ]
     },
@@ -541,7 +552,8 @@
           "title": "Examination Reforms",
           "link": "/kahe/examinations/examination-reforms/",
           "desc": "Learn more about KAHE overview.",
-          "src": "/images/banner/co-men.png"
+          "src": "/images/banner/co-men.png",
+          "target": "_blank"
         }
       ]
     },
@@ -648,12 +660,6 @@
           "id": 14,
           "title": "Annual Research Congress",
           "link": "/kahe/research/annual-research-congress/"
-        },
-        {
-          "id": 15,
-          "title": "Research Database",
-          "link": "https://kaherdb.in/",
-          "desc": "Learn more about KAHE overview."
         },
         {
           "id": 16,
@@ -893,14 +899,6 @@
           "link": "/kahe/campus-life/health-facilities/",
           "desc": "Learn more about KAHE overview.",
           "src": "/images/banner/co-men.png"
-        },
-        {
-          "id": 14,
-          "title": "Research Database",
-          "link": "https://kaherdb.in/",
-          "desc": "Learn more about KAHE overview.",
-          "src": "/images/banner/co-men.png",
-          "target": "_blank"
         }
       ]
     }
