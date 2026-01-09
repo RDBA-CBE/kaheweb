@@ -1,8 +1,8 @@
 import BonVoyageCom from "@/components/00-Kahe/OfficeOfInternationalCompoenets/BonVoyageCom";
 
 export const metadata = {
-  title: "About Us 01 - Online Courses & Education NEXTJS14 Template",
-  description: "Online Courses & Education NEXTJS14 Template",
+  title: "Bon Voyage | Best Engineering Colleges in Coimbatore",
+  description: "Bon Voyage - Best Engineering Colleges in Coimbatore",
 };
 const page = () => {
   return (

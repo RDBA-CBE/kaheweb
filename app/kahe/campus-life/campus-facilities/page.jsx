@@ -1,8 +1,8 @@
 import CampusFacilitiesCom from "@/components/00-Kahe/CampusComponenets/CampusFacilitiesCom";
 
 export const metadata = {
-  title: "About Us 01 - Online Courses & Education NEXTJS14 Template",
-  description: "Online Courses & Education NEXTJS14 Template",
+  title: "Campus Facilities | Top 5 Engineering colleges in Coimbatore",
+  description: "KAHE is one of the top 5 engineering colleges in Coimbatore with world-class facilities, a lush-green environment, and experienced faculty. Join KAHE!",
 };
 const page = () => {
   return (

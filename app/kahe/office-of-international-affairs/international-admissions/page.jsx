@@ -1,8 +1,8 @@
 import InternationalAdmission from "@/components/00-Kahe/OfficeOfInternationalCompoenets/InternationalAdmission";
 
 export const metadata = {
-  title: "About Us 01 - Online Courses & Education NEXTJS14 Template",
-  description: "Online Courses & Education NEXTJS14 Template",
+  title: "International Admissions | Best IT Colleges in Coimbatore",
+  description: "OAt KAHE, we are dedicated to providing a transformative educational experience that prepares students for success in an ever-changing global landscape.",
 };
 const page = () => {
   return (
