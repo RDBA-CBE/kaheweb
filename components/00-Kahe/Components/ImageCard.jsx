@@ -31,7 +31,7 @@ const ImageCard = ({ visionItem, missionItem }) => {
 
             {visionItem.content && (
               <ul className="rbt-list-style-1">
-                {visionItem.content.map((v, i) => (
+                {visionItem.content?.map((v, i) => (
                   <li key={i}>
                     <i className="feather-check"></i>
                     <span
@@ -70,7 +70,7 @@ const ImageCard = ({ visionItem, missionItem }) => {
             )}
             {missionItem.content && (
               <ul className="rbt-list-style-1">
-                {missionItem.content.map((v, i) => (
+                {missionItem.content?.map((v, i) => (
                   <li key={i}>
                     <i className="feather-check"></i>
                     <span

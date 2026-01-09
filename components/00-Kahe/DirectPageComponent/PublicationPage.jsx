@@ -70,7 +70,7 @@ const PublicationPage = ({ publicationsContent }) => {
                   }}
                 >
                   <ol>
-                    {item.content.map((pub, idx) => (
+                    {item.content?.map((pub, idx) => (
                       <li key={idx}>{pub}</li>
                     ))}
                   </ol>

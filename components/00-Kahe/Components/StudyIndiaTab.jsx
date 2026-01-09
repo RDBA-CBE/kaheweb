@@ -22,7 +22,7 @@ const StudyIndiaTab = ({ data }) => {
             <div className="row g-5 ">
               <div className="col-lg-12 ">
                 <div className="tab-content pt-4" id="myTabContent-4">
-                  {data.content.map((item, index) => (
+                  {data.content?.map((item, index) => (
                     <div
                       key={index}
                       className={`tab-pane fade ${
