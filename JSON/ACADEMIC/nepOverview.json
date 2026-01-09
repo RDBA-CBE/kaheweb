@@ -1,0 +1,78 @@
+{
+  "bannerCon": {
+    "bannerImg": "/images/Kahe/examination/CIA/cia-banner.webp",
+    "title": "Overview",
+    "bannerCon": "Measuring understanding continuously, ensuring academic growth.",
+    "applyLink": "/"
+  },
+  "ciaTest": {
+    "title": "Saarathi’S",
+
+    "content": [
+      {
+        "subtitle": "Saarathi’s – 2023",
+        "id": 1,
+        "list": [
+          {
+            "src": "/images/Kahe/Innerpages/file.png",
+            "item": "Open Pdf",
+            "url": "https://kahedu.edu.in/n/wp-content/uploads/2024/04/saarthis.docx.pdf",
+            "target":"__blank"
+          }
+        
+        ]
+      }
+    ]
+  },
+  "ciaTest1": {
+    "title": "Saarathi’s Activities",
+
+    "content": [
+      {
+        "subtitle": "NEP Quiz",
+        "id": 1,
+        "list": [
+          {
+            "src": "/images/Kahe/Innerpages/file.png",
+            "item": "Open Pdf",
+            "url": "https://kahedu.edu.in/n/wp-content/uploads/2024/04/NEP-Quiz-feb-2024.pdf",
+            "target":"__blank"
+          }
+        
+        ]
+      },
+      {
+        "subtitle": "NEP Guest Lecture",
+        "id": 1,
+        "list": [
+          {
+            "src": "/images/Kahe/Innerpages/file.png",
+            "item": "Open Pdf",
+            "url": "https://kahedu.edu.in/n/wp-content/uploads/2024/04/NEP-guest-lecture.pdf",
+            "target":"__blank"
+          }
+        
+        ]
+      }
+    ]
+  },
+  "ciaTest2": {
+    "title": "Events",
+
+    "content": [
+      {
+        "subtitle": "Report on NEP – 2020",
+        "id": 1,
+        "list": [
+          {
+            "src": "/images/Kahe/Innerpages/file.png",
+            "item": "Open Pdf",
+            "url": "https://kahedu.edu.in/n/wp-content/uploads/2024/04/Report-on-NEP-2020-Final.pdf",
+            "target":"__blank"
+          }
+        
+        ]
+      }
+    ]
+  }
+}
