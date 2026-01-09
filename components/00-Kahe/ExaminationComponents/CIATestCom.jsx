@@ -1,6 +1,8 @@
+
+
 "use client";
 
-import { Examinations } from "@/JSON/ACADEMIC/Overview";
+import { Examinations, subMenu } from "@/JSON/ACADEMIC/Overview";
 import data from "../../../JSON/Examination/CiaTest.json";
 import InnerBanner from "@/components/00-Kahe/common-components/InnerBanner";
 import Sidebar from "../common-components/Sidebar";
@@ -26,17 +28,20 @@ const CIATestCom = (props) => {
       <main className="section-wid d-flex section-bg1 ">
         <div className="rbt-course-details-area w-100">
           <div className="row g-5">
+          <div className="col-lg-9">
+
             <ContentCard
               data={overview ? nepOverviewData?.ciaTest : Examination?.ciaTest}
             />
             {overview && <ContentCard data={nepOverviewData?.ciaTest1} />}
             {overview && <ContentCard data={nepOverviewData?.ciaTest2} />}
+            </div>
             <div className="col-lg-3 px-0 d-none d-lg-block sidebar-pg">
               <div className="course-sidebar sticky-top">
                 <div className="inner">
                   <div className="content-item-content">
                     <Sidebar
-                      subMenu={overview ? nepOverviewData : Examinations}
+                      subMenu={subMenu}
                     />
                   </div>
                 </div>
@@ -50,3 +55,4 @@ const CIATestCom = (props) => {
 };
 
 export default CIATestCom;
+
