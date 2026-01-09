@@ -2,8 +2,8 @@ import CentralAnimalHouse from "@/components/00-Kahe/CampusComponenets/CentralAn
 
 
 export const metadata = {
-  title: "About Us 01 - Online Courses & Education NEXTJS14 Template",
-  description: "Online Courses & Education NEXTJS14 Template",
+  title: "Central Animal House Facility | Architecture Colleges",
+  description: "KAHE, the top M.Sc biotechnology college in Coimbatore has a Central Animal House Facility approved by the Ministry of Environment and Forest. Check it out.",
 };
 const page = () => {
   return (

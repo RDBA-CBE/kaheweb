@@ -2,8 +2,8 @@ import ForeignLanguages from "@/components/00-Kahe/OfficeOfInternationalCompoene
 import StudentsExProCom from "@/components/00-Kahe/OfficeOfInternationalCompoenets/StudentsExProCom";
 
 export const metadata = {
-  title: "About Us 01 - Online Courses & Education NEXTJS14 Template",
-  description: "Online Courses & Education NEXTJS14 Template",
+  title: "Foreign Languages | Best College, Tamilnadu",
+  description: "KAHE is the best college in Coimbatore, Tamilnadu. We offer a wide range of courses and research opportunities. Join KAHE to upgrade your career.",
 };
 const page = () => {
   return (

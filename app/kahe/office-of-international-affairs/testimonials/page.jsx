@@ -3,8 +3,8 @@ import StudentsExProCom from "@/components/00-Kahe/OfficeOfInternationalCompoene
 import Testimonials from "@/components/00-Kahe/OfficeOfInternationalCompoenets/Testimonials";
 
 export const metadata = {
-  title: "About Us 01 - Online Courses & Education NEXTJS14 Template",
-  description: "Online Courses & Education NEXTJS14 Template",
+  title: "Testimonials",
+  description: "Testimonials KAHE - Voices of our students and alumni, sharing experiences and success stories.",
 };
 const page = () => {
   return (

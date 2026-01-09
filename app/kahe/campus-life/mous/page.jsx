@@ -2,8 +2,8 @@ import Mous from "@/components/00-Kahe/CampusComponenets/Mous";
 
 
 export const metadata = {
-  title: "About Us 01 - Online Courses & Education NEXTJS14 Template",
-  description: "Online Courses & Education NEXTJS14 Template",
+  title: "MoUs - Top 10 Arts and Science Colleges in Coimbatore",
+  description: "KAHE is one of the top 10 Arts and Science Colleges in Coimbatore that collaborated with top companies across various industries. Check them out!",
 };
 const page = () => {
   return (

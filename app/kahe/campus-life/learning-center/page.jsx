@@ -2,8 +2,8 @@ import LearningCenter from "@/components/00-Kahe/CampusComponenets/LearningCente
 
 
 export const metadata = {
-  title: "About Us 01 - Online Courses & Education NEXTJS14 Template",
-  description: "Online Courses & Education NEXTJS14 Template",
+  title: "Learning Center | Top 10 Pharmacy Colleges in Coimbatore",
+  description: "Check out the Learning Center and the world-class research facilities at the top 10 pharmacy colleges in Coimbatore - Karpagam Academy of Higher Education.",
 };
 const page = () => {
   return (
