@@ -53,114 +53,114 @@ export const FirstLetterUp = (text = "") => {
 // };
 
 
-export const splitChar = (
-  html = "",
-  maxLength = 500,
-  tagClasses = {}
-) => {
-  if (!html) return null;
+// export const splitChar = (
+//   html = "",
+//   maxLength = 500,
+//   tagClasses = {}
+// ) => {
+//   if (!html) return null;
 
-  // Check if we're in a browser environment
-  if (typeof window === 'undefined' || typeof DOMParser === 'undefined') {
-    // Fallback for server-side rendering - return same structure as client
-    return <div dangerouslySetInnerHTML={{ __html: html }} />;
-  }
+//   // Check if we're in a browser environment
+//   if (typeof window === 'undefined' || typeof DOMParser === 'undefined') {
+//     // Fallback for server-side rendering - return same structure as client
+//     return <div dangerouslySetInnerHTML={{ __html: html }} />;
+//   }
 
-  try {
-    const parser = new DOMParser();
-    const doc = parser.parseFromString(html, "text/html");
+//   try {
+//     const parser = new DOMParser();
+//     const doc = parser.parseFromString(html, "text/html");
 
-    // Keep original tags instead of converting to span
-    const processNode = (node, key) => {
-      /* ---------------- TEXT NODE ---------------- */
-      if (node.nodeType === 3) { // Use number instead of Node.TEXT_NODE
-        let text = node.textContent;
-        if (!text?.trim()) return null;
+//     // Keep original tags instead of converting to span
+//     const processNode = (node, key) => {
+//       /* ---------------- TEXT NODE ---------------- */
+//       if (node.nodeType === 3) { // Use number instead of Node.TEXT_NODE
+//         let text = node.textContent;
+//         if (!text?.trim()) return null;
 
-        // Space fix after tags
-        if (
-          node.previousSibling &&
-          node.previousSibling.nodeType === 1 && // Use number instead of Node.ELEMENT_NODE
-          !text.startsWith(" ")
-        ) {
-          text = " " + text;
-        }
+//         // Space fix after tags
+//         if (
+//           node.previousSibling &&
+//           node.previousSibling.nodeType === 1 && // Use number instead of Node.ELEMENT_NODE
+//           !text.startsWith(" ")
+//         ) {
+//           text = " " + text;
+//         }
 
-        // For short text, don't split
-        if (text.length <= maxLength) {
-          return React.createElement('span', { key }, text);
-        }
+//         // For short text, don't split
+//         if (text.length <= maxLength) {
+//           return React.createElement('span', { key }, text);
+//         }
 
-        const sentenceNodes = split(text);
+//         const sentenceNodes = split(text);
 
-        const sentenceTexts = sentenceNodes
-          .filter((n) => n.type === "Sentence")
-          .map((n) => {
-            const txt = n.raw?.trim() || '';
-            if (txt.length === 1) return txt;
-            return txt.match(/[.!?]$/) ? txt : txt + " ";
-          });
+//         const sentenceTexts = sentenceNodes
+//           .filter((n) => n.type === "Sentence")
+//           .map((n) => {
+//             const txt = n.raw?.trim() || '';
+//             if (txt.length === 1) return txt;
+//             return txt.match(/[.!?]$/) ? txt : txt + " ";
+//           });
 
-        let current = "";
-        const blocks = [];
+//         let current = "";
+//         const blocks = [];
 
-        sentenceTexts.forEach((sentence) => {
-          if ((current + sentence).length > maxLength) {
-            if (current) blocks.push(current);
-            current = sentence;
-          } else {
-            current += sentence;
-          }
-        });
+//         sentenceTexts.forEach((sentence) => {
+//           if ((current + sentence).length > maxLength) {
+//             if (current) blocks.push(current);
+//             current = sentence;
+//           } else {
+//             current += sentence;
+//           }
+//         });
 
-        if (current) blocks.push(current);
+//         if (current) blocks.push(current);
 
-        return blocks.map((block, i) =>
-          React.createElement('span', { key: `${key}-text-${i}` }, block)
-        );
-      }
+//         return blocks.map((block, i) =>
+//           React.createElement('span', { key: `${key}-text-${i}` }, block)
+//         );
+//       }
 
-      /* ---------------- ELEMENT NODE ---------------- */
-      if (node.nodeType === 1) { // Use number instead of Node.ELEMENT_NODE
-        const originalTag = node.tagName?.toLowerCase() || 'div';
+//       /* ---------------- ELEMENT NODE ---------------- */
+//       if (node.nodeType === 1) { // Use number instead of Node.ELEMENT_NODE
+//         const originalTag = node.tagName?.toLowerCase() || 'div';
         
-        // Keep original tag
-        const Tag = originalTag;
+//         // Keep original tag
+//         const Tag = originalTag;
 
-        return React.createElement(
-          Tag,
-          {
-            key,
-            className: tagClasses?.[originalTag] || undefined,
-          },
-          Array.from(node.childNodes || []).map((child, i) =>
-            processNode(child, `${key}-${i}`)
-          )
-        );
-      }
+//         return React.createElement(
+//           Tag,
+//           {
+//             key,
+//             className: tagClasses?.[originalTag] || undefined,
+//           },
+//           Array.from(node.childNodes || []).map((child, i) =>
+//             processNode(child, `${key}-${i}`)
+//           )
+//         );
+//       }
 
-      return null;
-    };
+//       return null;
+//     };
 
-    return React.createElement(
-      'div',
-      null,
-      Array.from(doc.body?.childNodes || []).map((node, i) =>
-        processNode(node, `root-${i}`)
-      )
-    );
-  } catch (error) {
-    // Fallback if parsing fails
-    console.warn('splitChar parsing failed:', error);
-    return React.createElement('div', {
-      dangerouslySetInnerHTML: { __html: html }
-    });
-  }
-};
+//     return React.createElement(
+//       'div',
+//       null,
+//       Array.from(doc.body?.childNodes || []).map((node, i) =>
+//         processNode(node, `root-${i}`)
+//       )
+//     );
+//   } catch (error) {
+//     // Fallback if parsing fails
+//     console.warn('splitChar parsing failed:', error);
+//     return React.createElement('div', {
+//       dangerouslySetInnerHTML: { __html: html }
+//     });
+//   }
+// };
 
 
 
-export const splitChars = (text = "", maxLength = 500) => {
+export const splitChar = (text = "", maxLength = 500) => {
   if (!text) return null;
 
   // Use sentence-splitter which handles abbreviations better
