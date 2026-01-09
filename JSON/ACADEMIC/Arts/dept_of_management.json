@@ -54,360 +54,369 @@
       ]
     },
     {
-  "tab": "Programme",
-  "programmes": {
-    "title": "Programmes",
-    "content": [
-      {
-        "key": "ug",
-        "title": "Under Graduate Programme",
-        "img": "/images/others/health-b-02.png",
-        "items": [
-          "BBA (Strength: 120)"
-        ],
-        "type": "programme"
+      "tab": "Programme",
+      "programmes": {
+        "title": "Programmes",
+        "content": [
+          {
+            "key": "ug",
+            "title": "Under Graduate Programme",
+            "img": "/images/others/health-b-02.png",
+            "items": [
+              "BBA (Strength: 120)"
+            ],
+            "type": "programme"
+          },
+          {
+            "key": "pg",
+            "title": "Post Graduate Programme",
+            "img": "/images/others/health-b-02.png",
+            "items": [
+              "MBA (Strength: 120)"
+            ],
+            "type": "programme"
+          },
+          {
+            "key": "res",
+            "title": "Research Programmes",
+            "img": "/images/others/health-b-02.png",
+            "items": [
+              "M.Phil in Management",
+              "Ph.D. in Management"
+            ],
+            "type": "programme"
+          }
+        ]
       },
-      {
-        "key": "pg",
-        "title": "Post Graduate Programme",
-        "img": "/images/others/health-b-02.png",
-        "items": [
-          "MBA (Strength: 120)"
-        ],
-        "type": "programme"
-      },
-      {
-        "key": "res",
-        "title": "Research Programmes",
-        "img": "/images/others/health-b-02.png",
-        "items": [
-          "M.Phil in Management",
-          "Ph.D. in Management"
-        ],
-        "type": "programme"
+      "curriculum": {
+        "title": "Curriculum",
+        "content": [
+          {
+            "key": "bba",
+            "title": "BBA",
+            "img": "/images/others/health-b-02.png",
+            "type": "curriculum",
+            "items": [
+              {
+                "year": "2020-2021",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/07/BBA-2020-21.pdf"
+              },
+              {
+                "year": "2021-2022",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2021/11/BBA-2021.pdf"
+              },
+              {
+                "year": "2022-2023",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2022/09/BBA-2022.pdf"
+              },
+              {
+                "year": "2023-2024",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2024/04/BBA.pdf"
+              },
+              {
+                "year": "2024-2025",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/01/BBA.pdf"
+              },
+              {
+                "year": "2025-2026",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/09/BBA-Syllabus-2025-2026-Final-1.pdf"
+              }
+            ]
+          },
+          {
+            "key": "mba",
+            "title": "MBA",
+            "img": "/images/others/health-b-02.png",
+            "type": "curriculum",
+            "items": [
+              {
+                "year": "2018-2019",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2021/01/2018-MBA-Syllabus.pdf"
+              },
+              {
+                "year": "2019-2020",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2021/01/2019-MBA-Syllabus.pdf"
+              },
+              {
+                "year": "2020-2021",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/07/MBA-2020-21.pdf"
+              },
+              {
+                "year": "2022-2023",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2022/09/MBA-2022-.pdf"
+              },
+              {
+                "year": "2023-2024",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2023/08/MBA-Syllabus-2023-24.pdf"
+              },
+              {
+                "year": "2024-2025",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/01/MBA.pdf"
+              },
+              {
+                "year": "2025-2026",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/10/MBA-Syllabus-2025-2026.pdf"
+              }
+            ]
+          },
+          {
+            "key": "phd",
+            "title": "Ph.D. Management",
+            "img": "/images/others/health-b-02.png",
+            "type": "curriculum",
+            "items": [
+              {
+                "year": "2020-2021",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/07/Managament-PhD-2020-2021.pdf"
+              },
+              {
+                "year": "2021-2022",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2021/11/PH.D-2021.pdf"
+              },
+              {
+                "year": "2022-2023",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2022/09/PhD-MANAGEMENT-2022.pdf"
+              },
+              {
+                "year": "2024-2025",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/01/Ph.D-Management.pdf"
+              },
+              {
+                "year": "2025-2026",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/09/PhD-in-Management-2025.pdf"
+              }
+            ]
+          }
+        ]
       }
-    ]
-  },
-  "curriculum": {
-    "title": "Curriculum",
-    "content": [
-      {
-        "key": "bba",
-        "title": "BBA",
-        "img": "/images/others/health-b-02.png",
-        "type": "curriculum",
-        "items": [
-          {
-            "year": "2020-2021",
-            "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/07/BBA-2020-21.pdf"
-          },
-          {
-            "year": "2021-2022",
-            "link": "https://kahedu.edu.in/n/wp-content/uploads/2021/11/BBA-2021.pdf"
-          },
-          {
-            "year": "2022-2023",
-            "link": "https://kahedu.edu.in/n/wp-content/uploads/2022/09/BBA-2022.pdf"
-          },
-          {
-            "year": "2023-2024",
-            "link": "https://kahedu.edu.in/n/wp-content/uploads/2024/04/BBA.pdf"
-          },
-          {
-            "year": "2024-2025",
-            "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/01/BBA.pdf"
-          },
-          {
-            "year": "2025-2026",
-            "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/09/BBA-Syllabus-2025-2026-Final-1.pdf"
-          }
-        ]
+    },
+    {
+      "tab": "Faculty",
+      "slug": "department-of-management",
+      "basic": {
+        "title": "Faculty",
+        "description": "Our faculty members are the major cause for our sustained capacity to impart vivacious and value-based education for the student community. This platform paves a pathway to our faculty members to progress their knowledge and to carry the observed concepts to the classrooms and laboratories, thus, serving the students in the department",
+        "src": "/images/Kahe/Innerpages/vission.jpg",
+        "buttonText": "View All Faculty"
       },
-      {
-        "key": "mba",
-        "title": "MBA",
-        "img": "/images/others/health-b-02.png",
-        "type": "curriculum",
-        "items": [
-          {
-            "year": "2018-2019",
-            "link": "https://kahedu.edu.in/n/wp-content/uploads/2021/01/2018-MBA-Syllabus.pdf"
-          },
-          {
-            "year": "2019-2020",
-            "link": "https://kahedu.edu.in/n/wp-content/uploads/2021/01/2019-MBA-Syllabus.pdf"
-          },
-          {
-            "year": "2020-2021",
-            "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/07/MBA-2020-21.pdf"
-          },
-          {
-            "year": "2022-2023",
-            "link": "https://kahedu.edu.in/n/wp-content/uploads/2022/09/MBA-2022-.pdf"
-          },
-          {
-            "year": "2023-2024",
-            "link": "https://kahedu.edu.in/n/wp-content/uploads/2023/08/MBA-Syllabus-2023-24.pdf"
-          },
-          {
-            "year": "2024-2025",
-            "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/01/MBA.pdf"
-          },
-          {
-            "year": "2025-2026",
-            "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/10/MBA-Syllabus-2025-2026.pdf"
-          }
-        ]
-      },
-      {
-        "key": "phd",
-        "title": "Ph.D. Management",
-        "img": "/images/others/health-b-02.png",
-        "type": "curriculum",
-        "items": [
-          {
-            "year": "2020-2021",
-            "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/07/Managament-PhD-2020-2021.pdf"
-          },
-          {
-            "year": "2021-2022",
-            "link": "https://kahedu.edu.in/n/wp-content/uploads/2021/11/PH.D-2021.pdf"
-          },
-          {
-            "year": "2022-2023",
-            "link": "https://kahedu.edu.in/n/wp-content/uploads/2022/09/PhD-MANAGEMENT-2022.pdf"
-          },
-          {
-            "year": "2024-2025",
-            "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/01/Ph.D-Management.pdf"
-          },
-          {
-            "year": "2025-2026",
-            "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/09/PhD-in-Management-2025.pdf"
-          }
-        ]
-      }
-    ]
-  }
-}
-,
-   {
-  "tab": "Faculty",
-  "slug": "department-of-management",
-  "basic": {
-    "title": "Faculty",
-    "description": "Our faculty members are the major cause for our sustained capacity to impart vivacious and value-based education for the student community. This platform paves a pathway to our faculty members to progress their knowledge and to carry the observed concepts to the classrooms and laboratories, thus, serving the students in the department",
-    "src": "/images/Kahe/Innerpages/vission.jpg",
-    "buttonText": "View All Faculty"
-  },
-  "breadcrumbItems": [
-    { "label": "Academics", "href": "academics" },
-    { "label": "Arts, Science, Commerce and Management", "href": "academics/arts-science-and-humanities/" },
-    { "label": "Department of Management", "href": "/academics/arts-science-and-humanities/department-of-management" },
-    { "label": "Faculty" }
-  ],
-  "faculty": [
-    {
-      "name": "Dr. R. Manju Shree",
-      "qualification": "M.Phil., Ph.D",
-      "designation": "Professor & Head",
-      "email": "manjushree.raman@kahedu.edu.in",
-      "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/1.-Dr.R.-Manju-Shree.pdf",
-      "profileText": "Click Here",
-      "src": "/images/team/team-11.png",
-      "iconSrc": "/images/Kahe/Innerpages/education.png",
-      "target": "_blank"
+      "breadcrumbItems": [
+        {
+          "label": "Academics",
+          "href": "academics"
+        },
+        {
+          "label": "Arts, Science, Commerce and Management",
+          "href": "academics/arts-science-and-humanities/"
+        },
+        {
+          "label": "Department of Management",
+          "href": "/academics/arts-science-and-humanities/department-of-management"
+        },
+        {
+          "label": "Faculty"
+        }
+      ],
+      "faculty": [
+        {
+          "name": "Dr. R. Manju Shree",
+          "qualification": "M.Phil., Ph.D",
+          "designation": "Professor & Head",
+          "email": "manjushree.raman@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/1.-Dr.R.-Manju-Shree.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr. M. Nandhini",
+          "qualification": "M.Com., MBA., M.Phil., Ph.D., SET",
+          "designation": "Professor",
+          "email": "nandhini.m@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/2.-Dr.-M.-Nandhini.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr. R. Thiyagarajan",
+          "qualification": "M.Phil., Ph.D.",
+          "designation": "Professor",
+          "email": "thiyagarajanr.ramanathan@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/3.-Dr.R.Thiyagarajan.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr. K. Prabhakaran",
+          "qualification": "M.Phil., Ph.D.",
+          "designation": "Professor",
+          "email": "prabhakaran.kaligounder@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/18.Dr_.Prabhakaren.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr. A. Dharmaraj",
+          "qualification": "B.Com., M.Com., M.Phil., Ph.D., MBA., PGDCA",
+          "designation": "Associate Professor",
+          "email": "dharmaraj.a@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/4.Dr_.-A.-Dharmaraj.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr. G. Sumathi",
+          "qualification": "MBA., M.Phil., M.Com., Ph.D.",
+          "designation": "Associate Professor",
+          "email": "sumathi.g@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/5.-Dr.G.-Sumathi.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr. A. Martin Jayaraj",
+          "qualification": "MBA., Ph.D.",
+          "designation": "Associate Professor",
+          "email": "martin.a@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/6.-Dr.-A.-Martin-Jayaraj.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr. K. Hemalatha",
+          "qualification": "MBA., Ph.D.",
+          "designation": "Associate Professor",
+          "email": "hemalatha.kanthaswamy@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/17.Dr_.-K.-Hemalatha.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr. T. Y. Ebenezer Paul Rajan",
+          "qualification": "MBA., M.Phil., MA., Ph.D.",
+          "designation": "Associate Professor",
+          "email": "drebenezerpaulrajan.ty@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/8.-Dr.-Ebenezer-Paul-Rajan.-T.Y.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr. M. Usha",
+          "qualification": "MBA., M.Phil., Ph.D.",
+          "designation": "Associate Professor",
+          "email": "drusha.m@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/9.-Dr.M.-Usha.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr. N. Ramesh Kumar",
+          "qualification": "MBA., Ph.D.",
+          "designation": "Associate Professor",
+          "email": "rameshkumar.natesan@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/14.Dr_.N.Ramesh-Kumar.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr. J. Sudarvel",
+          "qualification": "MBA., Ph.D.",
+          "designation": "Assistant Professor",
+          "email": "drjsudarvel.j@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/7.-Dr.-J.-Sudarvel.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr. G. Meena Suganthi",
+          "qualification": "MBA., Ph.D.",
+          "designation": "Assistant Professor",
+          "email": "meenasuganthi.govindaraj@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/10.-Dr.-Meena-Suguanthi.-G.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr. P. Chitra",
+          "qualification": "MBA., Ph.D.",
+          "designation": "Assistant Professor",
+          "email": "chitra.poosari@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/11.-Dr.-P.-Chitra.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Ms. S. Madumathy",
+          "qualification": "MBA",
+          "designation": "Assistant Professor",
+          "email": "madumathy.srinivasaragavan@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/12.-Ms.-S.-Madumathy.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Ms. R. Anupama",
+          "qualification": "MBA",
+          "designation": "Assistant Professor",
+          "email": "anupama.rajan@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/13.-Ms.R.-Anupama.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Mr. R. Shankar Raman",
+          "qualification": "MBA., Ph.D.",
+          "designation": "Assistant Professor",
+          "email": "shankarraman.radjaramane@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/15.-Mr.R.Shankar-Raman.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr. G. Kalpana",
+          "qualification": "MBA., Ph.D.",
+          "designation": "Assistant Professor",
+          "email": "kalpanakalees@gmail.com",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/16.-Dr.G.Kalpana.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        }
+      ]
     },
-    {
-      "name": "Dr. M. Nandhini",
-      "qualification": "M.Com., MBA., M.Phil., Ph.D., SET",
-      "designation": "Professor",
-      "email": "nandhini.m@kahedu.edu.in",
-      "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/2.-Dr.-M.-Nandhini.pdf",
-      "profileText": "Click Here",
-      "src": "/images/team/team-11.png",
-      "iconSrc": "/images/Kahe/Innerpages/education.png",
-      "target": "_blank"
-    },
-    {
-      "name": "Dr. R. Thiyagarajan",
-      "qualification": "M.Phil., Ph.D.",
-      "designation": "Professor",
-      "email": "thiyagarajanr.ramanathan@kahedu.edu.in",
-      "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/3.-Dr.R.Thiyagarajan.pdf",
-      "profileText": "Click Here",
-      "src": "/images/team/team-11.png",
-      "iconSrc": "/images/Kahe/Innerpages/education.png",
-      "target": "_blank"
-    },
-    {
-      "name": "Dr. K. Prabhakaran",
-      "qualification": "M.Phil., Ph.D.",
-      "designation": "Professor",
-      "email": "prabhakaran.kaligounder@kahedu.edu.in",
-      "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/18.Dr_.Prabhakaren.pdf",
-      "profileText": "Click Here",
-      "src": "/images/team/team-11.png",
-      "iconSrc": "/images/Kahe/Innerpages/education.png",
-      "target": "_blank"
-    },
-    {
-      "name": "Dr. A. Dharmaraj",
-      "qualification": "B.Com., M.Com., M.Phil., Ph.D., MBA., PGDCA",
-      "designation": "Associate Professor",
-      "email": "dharmaraj.a@kahedu.edu.in",
-      "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/4.Dr_.-A.-Dharmaraj.pdf",
-      "profileText": "Click Here",
-      "src": "/images/team/team-11.png",
-      "iconSrc": "/images/Kahe/Innerpages/education.png",
-      "target": "_blank"
-    },
-    {
-      "name": "Dr. G. Sumathi",
-      "qualification": "MBA., M.Phil., M.Com., Ph.D.",
-      "designation": "Associate Professor",
-      "email": "sumathi.g@kahedu.edu.in",
-      "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/5.-Dr.G.-Sumathi.pdf",
-      "profileText": "Click Here",
-      "src": "/images/team/team-11.png",
-      "iconSrc": "/images/Kahe/Innerpages/education.png",
-      "target": "_blank"
-    },
-    {
-      "name": "Dr. A. Martin Jayaraj",
-      "qualification": "MBA., Ph.D.",
-      "designation": "Associate Professor",
-      "email": "martin.a@kahedu.edu.in",
-      "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/6.-Dr.-A.-Martin-Jayaraj.pdf",
-      "profileText": "Click Here",
-      "src": "/images/team/team-11.png",
-      "iconSrc": "/images/Kahe/Innerpages/education.png",
-      "target": "_blank"
-    },
-    {
-      "name": "Dr. K. Hemalatha",
-      "qualification": "MBA., Ph.D.",
-      "designation": "Associate Professor",
-      "email": "hemalatha.kanthaswamy@kahedu.edu.in",
-      "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/17.Dr_.-K.-Hemalatha.pdf",
-      "profileText": "Click Here",
-      "src": "/images/team/team-11.png",
-      "iconSrc": "/images/Kahe/Innerpages/education.png",
-      "target": "_blank"
-    },
-    {
-      "name": "Dr. T. Y. Ebenezer Paul Rajan",
-      "qualification": "MBA., M.Phil., MA., Ph.D.",
-      "designation": "Associate Professor",
-      "email": "drebenezerpaulrajan.ty@kahedu.edu.in",
-      "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/8.-Dr.-Ebenezer-Paul-Rajan.-T.Y.pdf",
-      "profileText": "Click Here",
-      "src": "/images/team/team-11.png",
-      "iconSrc": "/images/Kahe/Innerpages/education.png",
-      "target": "_blank"
-    },
-    {
-      "name": "Dr. M. Usha",
-      "qualification": "MBA., M.Phil., Ph.D.",
-      "designation": "Associate Professor",
-      "email": "drusha.m@kahedu.edu.in",
-      "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/9.-Dr.M.-Usha.pdf",
-      "profileText": "Click Here",
-      "src": "/images/team/team-11.png",
-      "iconSrc": "/images/Kahe/Innerpages/education.png",
-      "target": "_blank"
-    },
-    {
-      "name": "Dr. N. Ramesh Kumar",
-      "qualification": "MBA., Ph.D.",
-      "designation": "Associate Professor",
-      "email": "rameshkumar.natesan@kahedu.edu.in",
-      "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/14.Dr_.N.Ramesh-Kumar.pdf",
-      "profileText": "Click Here",
-      "src": "/images/team/team-11.png",
-      "iconSrc": "/images/Kahe/Innerpages/education.png",
-      "target": "_blank"
-    },
-    {
-      "name": "Dr. J. Sudarvel",
-      "qualification": "MBA., Ph.D.",
-      "designation": "Assistant Professor",
-      "email": "drjsudarvel.j@kahedu.edu.in",
-      "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/7.-Dr.-J.-Sudarvel.pdf",
-      "profileText": "Click Here",
-      "src": "/images/team/team-11.png",
-      "iconSrc": "/images/Kahe/Innerpages/education.png",
-      "target": "_blank"
-    },
-    {
-      "name": "Dr. G. Meena Suganthi",
-      "qualification": "MBA., Ph.D.",
-      "designation": "Assistant Professor",
-      "email": "meenasuganthi.govindaraj@kahedu.edu.in",
-      "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/10.-Dr.-Meena-Suguanthi.-G.pdf",
-      "profileText": "Click Here",
-      "src": "/images/team/team-11.png",
-      "iconSrc": "/images/Kahe/Innerpages/education.png",
-      "target": "_blank"
-    },
-    {
-      "name": "Dr. P. Chitra",
-      "qualification": "MBA., Ph.D.",
-      "designation": "Assistant Professor",
-      "email": "chitra.poosari@kahedu.edu.in",
-      "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/11.-Dr.-P.-Chitra.pdf",
-      "profileText": "Click Here",
-      "src": "/images/team/team-11.png",
-      "iconSrc": "/images/Kahe/Innerpages/education.png",
-      "target": "_blank"
-    },
-    {
-      "name": "Ms. S. Madumathy",
-      "qualification": "MBA",
-      "designation": "Assistant Professor",
-      "email": "madumathy.srinivasaragavan@kahedu.edu.in",
-      "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/12.-Ms.-S.-Madumathy.pdf",
-      "profileText": "Click Here",
-      "src": "/images/team/team-11.png",
-      "iconSrc": "/images/Kahe/Innerpages/education.png",
-      "target": "_blank"
-    },
-    {
-      "name": "Ms. R. Anupama",
-      "qualification": "MBA",
-      "designation": "Assistant Professor",
-      "email": "anupama.rajan@kahedu.edu.in",
-      "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/13.-Ms.R.-Anupama.pdf",
-      "profileText": "Click Here",
-      "src": "/images/team/team-11.png",
-      "iconSrc": "/images/Kahe/Innerpages/education.png",
-      "target": "_blank"
-    },
-    {
-      "name": "Mr. R. Shankar Raman",
-      "qualification": "MBA., Ph.D.",
-      "designation": "Assistant Professor",
-      "email": "shankarraman.radjaramane@kahedu.edu.in",
-      "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/15.-Mr.R.Shankar-Raman.pdf",
-      "profileText": "Click Here",
-      "src": "/images/team/team-11.png",
-      "iconSrc": "/images/Kahe/Innerpages/education.png",
-      "target": "_blank"
-    },
-    {
-      "name": "Dr. G. Kalpana",
-      "qualification": "MBA., Ph.D.",
-      "designation": "Assistant Professor",
-      "email": "kalpanakalees@gmail.com",
-      "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/16.-Dr.G.Kalpana.pdf",
-      "profileText": "Click Here",
-      "src": "/images/team/team-11.png",
-      "iconSrc": "/images/Kahe/Innerpages/education.png",
-      "target": "_blank"
-    }
-  ]
-}
-,
     {
       "tab": "Infrastructure",
       "items": [
@@ -679,160 +688,138 @@
     },
     {
       "tab": "Publications",
-      "slug": "department-of-microbiology",
+      "slug": "department-of-management",
       "title": "Best Five Papers Faculty wise:",
       "subtitle": "Paper Publications by the Faculty Members",
       "content": [
         {
-          "faculty_name": "Dr.A.SANGILIMUTHU",
+          "faculty_name": "Dr. R. MANJU SHREE",
           "content": [
-            "Suvathika, G., Manoharan, S.P., Baskar, S., Rajiv, A., Swaminathan, H., & Yadav, S.A. (2025). Evaluation and identification of nutritional factors, cytotoxic condition, and protodioscin in Dioscorea alata tuber. South African Journal of Botany, 178, 131–138. (Impact Factor: 2.7)",
-            "Arumugam, G., & Alagar Yadav, S. (2024). Synergistic inhibitory actions of resveratrol, epigallocatechin-3-gallate, and diallyl trisulfide against skin cancer cell line A431 through mitochondrial caspase-dependent pathway: a combinational drug approach. Medical Oncology, 41(3), 64. (Impact Factor: 2.8)",
-            "Lakshmanan, M., Yadav, S.A., Meti, M., Kaveri, S., Subban, R., Celestina, S.K., & Subramanyam, R. (2024). Molecular interaction studies of P3CL on bovine serum albumin through a biophysical approach.Journal of Biomolecular Structure and Dynamics, 1–9. (Impact Factor: 5.235)",
-            "Gnanaselvan, S., Yadav, S.A., & Manoharan, S.P. (2024). Structure-based virtual screening of anti-breast cancer compounds from Artemisia absinthium — insights through molecular docking, pharmacokinetics, and molecular dynamic simulations.Journal of Biomolecular Structure and Dynamics, 42 (6), 3267–3285. (Impact Factor: 5.235)",
-            "Manoharan, S.P., Yadav, S.A., Pandiyan, B., & Suvathika, G. (2023). Tragia plukenetii-assisted omega-decenol as a potential anticancer agent: its isolation,characterization, and validation.Applied Biochemistry and Biotechnology, 195(3), 1699–1722. (Impact Factor: 3.1)"
+            "Manju Shree Raman (2023). SGX-listed companies navigate corporate governance and regulatory challenges, Singapore Inc.: A Century of Business Success in Global Market. DOI: 10.4324/9781032660547-5.",
+            "Waghmare, G., Sundaram, S., Raman, M.S. et al. (2023). Blockchain in Supply Chain Management Prevailing in Smart Cities: Prospects and Approaches. Handbook of Research on Data-Driven Mathematical Modeling in Smart Cities. DOI: 10.4018/978-1-6684-6408-3.ch007.",
+            "Sundram, S., Raman, M.S., Balamuralitharan, S. (2023). Influence of process parameters on machining studies on stir casted MMCs with AA6351 and TiO2 by grey and desirability approaches. Materials Today: Proceedings, 77(1). DOI: 10.1016/j.matpr.2023.01.091.",
+            "Arora, T.K., Chaubey, P.K., Raman, M.S. et al. (2022). Optimal Facial Feature Based Emotional Recognition Using Deep Learning Algorithm. Computational Intelligence and Neuroscience. DOI: 10.1155/2022/8379202.",
+            "Kassahun, Z.W., Raman, M.S. (2021). Antecedents of Employees Work Engagement: A Study on Ethiopian Universities. Revista Gestão Inovação e Tecnologias, 11(4). DOI: 10.47059/revistageintec.v11i4.2470."
           ]
         },
         {
-          "faculty_name": "Dr. S. BARATHKUMAR",
+          "faculty_name": "Dr. M. NANDHINI",
           "content": [
-            "Geethalakshmi, S., Barathkumar, S., & Prabu, G. (2015). The MYB transcription factor family genes in sugarcane(Saccharum sp.). Plant Molecular Biology Reporter, 33, 512-531.",
-            "Sadasivam, B., & Gajjeraman, P. (2016). Characterization of Water-Deficit Stress-Responsive R2R3-MYBTranscription Factor Gene, ScMYB50/23 from Sugarcane. Indian Journal of Science and Technology, 9, 37.",
-            "Giruba, K. G., Barathkumar, S., Immanuel, G., & Sivagnanavelmurugan, M. (2023). Antidiabetic effect and haematological changes in alloxan induced diabetic rats treated with trash fish, Odonus niger liver oil in comparision with cod liver oil. Biochemical & Cellular Archives, 23(1)."
+            "Nandhini, M. (2024). Influence of online digital communication in the decision-making process amongst engineering students. Salud, Ciencia y Tecnología – Serie de Conferencias, 3, 700–710.",
+            "Nandhini, M. (2024). DeFi’s transformative influence on the global financial landscape. Digital Technologies, Ethics, and Decentralization in the Digital Era, 1, 99–120.",
+            "Nandhini, M. (2023). Determinants of capital structure with reference to paper industry. E3S Web of Conferences, 1.",
+            "Nandhini, M. (2023). Financial performance analysis of selected textile companies. E3S Web of Conferences, 1.",
+            "Nandhini, M. (2019). Factors influencing working women’s buying behavior of gold jewelry. International Journal of Recent Technology and Engineering, 8(3), 1186–1189."
           ]
         },
         {
-          "faculty_name": "Dr. S. BALAMURUGAN",
+          "faculty_name": "Dr. R. THIYAGARAJAN",
           "content": [
-            "Balamurugan, S., Ravi, K., & Baladevan, K. (2025). Plant molecular farming: a promising frontier for orphan drug production. Biotechnology Letters, 47(3), 56. (Impact Factor: 2.1)",
-            "Chandra, H.M., Balamurugan, S., Sharma, A., & Ramalingam, S. (2024). Elicitation and precursor-induced approaches for the enhancement of α-tocopherol production using suspensioncultures of Solanum lycopersicum. Current Plant Biology, 39, 100377. (Impact Factor: 4.5)",
-            "Balamurugan, S., Khorattanakulchai, N., Panapitakkul, C., Malla, A., Im-Erbsin, R., Inthawong, M., &Phoolcharoen, W. (2022). Preclinical evaluation of a plant-derived SARS-CoV-2 subunit vaccine: protective efficacy, immunogenicity,safety, and toxicity. Vaccine, 40(32), 4440–4452. (Impact Factor: 3.5)",
-            "Khorattanakulchai, N., Manopwisedjaroen, S., Rattanapisit, K., Panapitakkul, C., Kemthong, T., Suttisan, N.,Balamurugan, S., & Phoolcharoen, W. (2022). Receptor-binding domain proteins of SARS-CoV-2 variants produced in Nicotiana benthamiana elicitneutralizing antibodies against variants of concern. Journal of Medical Virology, 94(9), 4265–4276. (Impact Factor: 4.6)",
-            "Singh, R., Ren, Z., Shi, Y., Lin, S., Kwon, K.C., Balamurugan, S., & Daniell, H. (2021). Affordable oral health care: dental biofilm disruption using chloroplast-made enzymes with chewing gum delivery. Plant Biotechnology Journal, 19(10), 2113–2125. (Impact Factor: 10.5)"
+            "The Challenges before Indian Management Education. Journal of Management Outlook, 3(1), 2013.",
+            "Paradigm shift in higher education and impact of distance learning in Industry 4.0 and Society 5.0. CRC Press, 2023.",
+            "Rise of Emotional Branding in Service Sector. Intercontinental Journal of Marketing Research Review, 3(1), 2013.",
+            "Accreditation of Indian B-Schools for Quality Assurance. International Journal of Research in Management and Technology, 4(1), 2014.",
+            "TQM in Higher Education – A Conceptual Model. International Journal of Management, 6(1), 2015."
           ]
         },
         {
-          "faculty_name": "Dr. C. RAJKUBERAN",
+          "faculty_name": "Dr. A. DHARMARAJ",
           "content": [
-            "Sakthivel, A., Chandrasekaran, R., Balasubramaniam, S., Sathyanarayanan, H., Gnanajothi, K., & T, S. (2025). Nanomaterials as potential plant growth modulators: applications, mechanism of uptake, and toxicity — a comprehensive review. BioNanoScience, 15(1), 53. (Impact Factor: 3.2)",
-            "Natarajan, K., Chandrasekaran, R., Sundararaj, R., Joseph, J., & Asaithambi, K. (2025). Neuroprotective assessment of the nutraceutical (Betanin) in neuroblastoma cell line SH-SY5Y: An in vitro and in silico approach. Neurochemical Research, 50(1), 54. (Impact Factor: 3.038)",
-            "Joseph, J., T, S.K., Krishnan, M., & Chandrasekaran, R. (2025). Carthamidin-mediated silver nanoparticle synthesis, characterization, and anticancer activity — Invitro Approach. BioNanoScience, 15(1), 76. ( Impact Factor: 3.2)",
-            "Chandrasekaran, R., Krishnan, M., Chacko, S., Gawade, O., Hasan, S., Joseph, J., & Jiang, H. (2023). Assessment of anticancer properties of cumin seed (Cuminum cyminum) against bone cancer. Frontiers in Oncology, 13, 1322875. (Impact Factor: 4.7)",
-            "Chandrasekaran, R., Krishnan, M., Bupesh, G., Chacko, S., Gawade, O., Hasan, S., & Sagadevan, S. (2023). Prospective features of functional 2D nanomaterial graphene oxide in the wound healing process. Journal of Drug Delivery Science and Technology, 82, 104352. (Impact Factor: 4.7)"
+            "Dharmaraj, A. et al. (2024). Machine Learning-Based Real-Time Fraud Detection in Financial Transactions. ACCAI 2024. DOI: 10.1109/ACCAI61061.2024.10602350.",
+            "Dharmaraj, A. (2020). Causes of stress among public sector bank employees. Journal of Critical Reviews, 7(3).",
+            "Senthilkumar, C.B., Dharmaraj, A. et al. (2020). Women empowerment through self-help groups. Journal of Critical Reviews, 7(6).",
+            "Lal, A.K., Dharmaraj, A. (2016). Training and competency development in hotel industry. Man in India, 96(9).",
+            "Pratheep, S., Dharmaraj, A. (2016). Job stress among bank employees. Man in India, 96(9)."
           ]
         },
         {
-          "faculty_name": "Dr. A. A. ARUNKUMAR",
+          "faculty_name": "Dr. G. SUMATHI",
           "content": [
-            "Arunkumar, Anbu Aravazhi, Thirunavukkarasu Sivaraman, and Arunachalam Manimekalan. “Species Diversity and Habitat Inventory of Puntius sp. from Various Water Bodies of South India.” Journal of Pharmaceutical Sciences and Research 9(10) (2017): 1775-1784.",
-            "Arunkumar Anbu Aravazhi, Nagaraj VIJAYA LAKSHMI, and Arunachalam “Osteological characterization of the genus Puntius (Teleostei: Cyprinidae) recorded from six river systems of southern Western Ghats, India.” Iranian Journal of Ichthyology 5(2) (2018):139-166.",
-            "Arunkumar, Anbu Aravazhi, and Arunachalam Manimekalan. “Freshwater fish fauna of rivers of the southern Western Ghats, India.” (2018).",
-            "Priyanka, S., Athira, S.V., Shreeyashwanth, R., Arunkumar, A.A.Adsorption Of Wastewater Using Green Nanoparticles Synthesized from Murraya koenigii and Coriandrum sativum. Indian Journal of Environmental Protection, 2021, 41(3), pp. 325–332.",
-            "Chandrasekar, Divya, and Anbu Aravazhi Arunkumar. “Morphological and Osteological Characterization of Three Fish Species from River Noyyal of Coimbatore District, Tamil Nadu, India.” Uttar Pradesh Journal Of Zoology (2023): 44 (23), pp. 266-281."
+            "Sumathi, G., Velmurugan, R. (2020). Stress and work-life balance among female faculty. Journal of Critical Reviews, 7(4).",
+            "Sumathi, G. (2017). Quality of work life in private companies. International Journal of Multidisciplinary Research and Development.",
+            "Sumathi, G. (2017). Women entrepreneurs in globalized economy. International Journal of Research in IT and Management.",
+            "Sumathi, G., Velmurugan, R. (2018). Work-life balance of female faculty. International Journal of Pure and Applied Mathematics.",
+            "Sumathi, G., Velmurugan, R. (2018). Job satisfaction of female faculty. International Journal of Engineering & Technology."
           ]
         },
         {
-          "faculty_name": "Dr. D. PRABHU",
+          "faculty_name": "Dr. A. MARTIN JAYARAJ",
           "content": [
-            "Sureshan, M., Prabhu, D., & Saraboji, K. (2025). Structure-based designing of anti-filarial molecules targeting the key antioxidant enzyme glutathione peroxidase (GPx) of Wuchereria bancrofti: An integrated in silico and in vitro approach. Computers in Biology and Medicine, 195, 110669. (Impact Factor: 6.3)",
-            "Prabhu, D., Dharshini, M.K.D., Rajamanikandan, S., Padmavathi, A.R., Velusamy, P., & Gopinath, S.C.B. (2025). Potential anti-filarial molecules against ATP Binding site of MurE Enzyme: A molecular Docking and Dynamics approach to Combat Lymphatic Filariasis. Biotechnology and Applied Biochemistry, 72(5), 1184–1194. (Impact Factor: 2.7)",
-            "Prabhu, D., Shankari, G., Rajamanikandan, S., Jeyakanthan, J., Velusamy, P., Gopinath, S.C.B., & Pattabi, S.(2024). Designing potential lead compounds targeting aminoglycoside N(6′)-acetyltransferase in Serratia marcescens: A drug discovery strategy. International Journal of Biological Macromolecules, 281(Pt 1), 136976. (Impact Factor: 8.2)",
-            "Vyas, K., Prabaker, S., Prabhu, D., Sakthivelu, M., Rajamanikandan, S., Velusamy, P., Su, C.H., Gopinath, S.C.B., & Pachaiappan, R. (2024). Study of an inhibitory effect of plant polyphenolic compounds against digestive enzymes using bench-working experimental evidence predicted by molecular docking and dynamics. Int J Biol Macromol. 259 (Pt 1): 129222, 2024 (Impact Factor: 8.2).",
-            "Prabhu D, Rajamanikandan S, Amala M, Saritha P, Jeyakanthan J, Ramasamy, P. Functional Characterization, Mechanism and Mode of Action of the Putative Streptomycin Adenylyltransferase from Serratia marcescens. Antibiotics (Basel), 11, 1722, 2022 (Impact Factor: 5.22)."
+            "Impact of HRM practices on organizational performance in logistics sector. Journal of Data Acquisition and Processing, 38(4), 2023.",
+            "Work-life balance and employee retention among eye doctors. Turkish Online Journal of Qualitative Inquiry, 12(4), 2021.",
+            "AI healthcare study on stress during COVID-19. Turkish Journal of Physiotherapy and Rehabilitation, 32(3), 2021.",
+            "Brand trust and customer retention in BSNL. Journal of Advanced Research in Dynamical & Control Systems, 11(11), 2019.",
+            "Risk management in petroleum refinery projects. Journal of Advanced Research in Dynamical & Control Systems, 11(10), 2019."
           ]
         },
         {
-          "faculty_name": "Dr. K. CHINNADURAI",
+          "faculty_name": "Dr. J. SUDARVEL",
           "content": [
-            "Kuppusamy, C., Ganesh, A., Sambanthan, K., Muthukumarasamy, E., & Paulraj, B.Enzyme modulation studies of fumaronitrile on freshwater fish Oreochromis mossambicus. International Journal of Bioassays, 2278, 778X. (Impact Factor: 4.8)",
-            "Chinnadurai, K., Eyini, M., & Balaji, P. (2019). Modulation of the reproductive hormone aromatase and vitellogenin in fumaronitrile-exposed Oreochromis mossambicus. Current Topics in Toxicology, 15, 123–131. (Impact Factor: 3.6)",
-            "Chinnadurai, K., Balaji, P., & Eyini, M. (2019). Evaluation of micronucleus assay and genotoxic effect in Oreochromis mossambicus exposed to fumaronitrile. Toxicology International, 26, 70–79. (Impact Factor: 1.9)",
-            "Chinnadurai, K., Prema, P., Veeramanikandan, V., Kumar, K.R., Nguyen, V.H., Marraiki, N., & Balaji, P. (2022). Toxicity evaluation and oxidative stress response of fumaronitrile, a persistent organic pollutant (POP) of industrial wastewater, on tilapia fish (Oreochromis mossambicus). Environmental Research, 204, 112030. (Impact Factor: 7.7)"
+            "Impact of demographic factors on solar energy awareness. E3S Web of Conferences, 477, 2024.",
+            "Weekend effect of stock returns in India. Studies in Systems, Decision and Control, 525, 2024.",
+            "Stock price trend prediction using GA-BPNN. Studies in Systems, Decision and Control, 536, 2024.",
+            "AI and creativity in marketing. 2024.",
+            "Seasonality effect in Indian stock market. Journal of Advanced Research in Dynamical and Control Systems, 2018."
           ]
         },
         {
-          "faculty_name": "Dr. K. GOPALAKRISHNAN",
+          "faculty_name": "Dr. T. Y. EBENEZER PAUL RAJAN",
           "content": [
-            "Sravani, S., Gopalakrishnan, A., John, A. S., Ramasubramanian, R., Kesavaperumal, G.,Prabhu, N. M., … & Natarajan, S. B. (2024). Incidence of mud crab reovirus (MCRV)outbreak in polyculture ponds of Andhra Pradesh, south east coast of India. Journal of Invertebrate Pathology, 204, 108092. (IF:2.4).",
-            "Parthasarathy, S., Rajeswaran, S., Rajan, D. K., Ganesh, A., Shanmugan, P., & Kesavaperumal, G. (2024). Bio-valorization of Secondary Metabolites Produced by Actinobacterium SRV02, Isolated from Shell Waste Environment Combats Clinical Bacterial Pathogens and Ameliorates Anticancer Effects Against Lung Cancer Cells. Waste and Biomass Valorization, 15(12), 7043-7056. (IF:2.8).",
-            "Islam, S., Dutta, P., Sahay, O., Gopalakrishnan, K., Muhury, S. R., Parameshwar, P., …& Santra, M. K. (2022). Feedback‐regulated transcriptional repression of FBXO31 byc‐Myc triggers ovarian cancer tumorigenesis. International Journal of Cancer, 150(9), 1512-1524. (IF:4.7)",
-            "Chandrakumar, D., Manigundan, K., Gopalakrishnan, K., Karuppiah, V., Prasad, N. R.,Radhakrishnan, M., … & Balagurunathan, R. (2020). Novel Strain of Nocardiopsis sp.CN2 from Andaman Nicobar Islands: Isolation, Taxonomy, Fermentation, and Antiproliferative Effect on Cervical Cancer Cells. Biomedical and Biotechnology Research Journal (BBRJ), 4(3), 200-208. (IF:1.4).",
-            "Kannan, S., Ragavan, P., Gopalakrishnan, K., Salah, M., & Balasubramani, K. (2021). Mangrove floristics, forest structure and mapping of Neil Island (Andaman and Nicobar Islands, India) with emphasis on the diversity of Rhizophora species and the significance of small island mangroves. Botanica Marina, 64(3), 227-241. (IF:2.1)"
+            "Impact of online food delivery on restaurants in Ernakulam. Global Perspectives on Business Environment-I, 2023.",
+            "Impact of GST on electronic stores. Global Perspectives on Business Environment-I, 2023.",
+            "Recent Trends from Past Trends – III. ISBN: 978-81-19147-85-4, 2023.",
+            "Impact of digital payment apps among college students. ISBN: 978-81-19147-85-4, 2023.",
+            "Consumer perception towards electric vehicles in Ernakulam. ISBN: 978-81-19147-85-4, 2023."
           ]
         },
         {
-          "faculty_name": "Dr. R. SRINATH",
+          "faculty_name": "Dr. M. USHA",
           "content": [
-            "Rajeswaran, S., & Rajan, D.K. (2025). Neophytadiene: Biological activities and drug development prospects. Phytomedicine, 156872. (Impact Factor: 8.3)",
-            "Sathishkumar, R.S., Sundaramanickam, A., Srinath, R., Ramesh, T., Saranya, K., Meena, M., & Surya, P. (2019). Green synthesis of silver nanoparticles by bloom-forming marine microalgae Trichodesmium erythraeum and its applications in antioxidant, drug-resistant bacteria, and cytotoxicity activity. Journal of Saudi Chemical Society, 23(8), 1180–1191. (Impact Factor: 5.8)",
-            "Rajeswaran, S., Veeraiyan, B., Saravanan, V., Manickam, E., & Danaraj, J. (2025). Biogenic facile green synthesis of actinobacterium exopolysaccharide-fabricated zinc oxide nanoparticles for diverse biomedical applications. Biomass Conversion and Biorefinery, 15(1), 787–801. (Impact Factor: 4.1)",
-            "Rajeswaran, S., Somasundaram Thirugnanasambandan, S., Dewangan, N.K., Moorthy, R.K., Kandasamy, S., & Vilwanathan, R. (2020). Multifarious pharmacological applications of green-routed eco-friendly iron nanoparticles synthesized by Streptomyces sp. (SRT12). Biological Trace Element Research, 194(1), 273–283. (Impact Factor: 3.6)",
-            "Rajeswaran, S., Thirugnanasambandan, S.S., & Vilwanathan, R. (2024). Immunostimulatory effects of exopolysaccharide produced by mangrove habitat actinobacterium isolated from the marine environment of Tuticorin. Waste and Biomass Valorization, 15(6), 3823–3840. (Impact Factor: 2.8)"
+            "Financial distress analysis for the prediction of corporate bankruptcy – a case study of a public sector company in India, Salud, Ciencia y Tecnología – Serie de Conferencias, Vol. 3, 2024, Scopus.",
+            "Exploring the influence of sensory brand recognition on brand loyalty within the quick service restaurant industry: an analysis of branded food retailers in Kerala, Salud, Ciencia y Tecnología – Serie de Conferencias, Vol. 3, 2024, Scopus.",
+            "Usha, M., Nandhini, M., Palanivelu, P. An Analysis on Impact of Coronavirus Lockdown among Students. Test Engineering and Management, Vol. 83, May–June 2020, pp. 16067–16070.",
+            "Usha, M., Nandhini, M., Palanivelu, P. An analysis on employee perspective towards adopted retention factors. International Journal of Current Research, Vol. 8(11), November 2016, pp. 41419–41422.",
+            "Usha, M., Nandhini, M., Palanivelu, P. A study on the problems of knitted garment exporting units in Tirupur. Journal of Advance Research in Dynamical & Control Systems, Vol. 13, Special Issue, September 2017."
           ]
         },
         {
-          "faculty_name": "Dr. Rathi M A",
+          "faculty_name": "Dr. G. MEENA SUGUANTHI",
           "content": [
-            "Meenakshi, S.R., Selvaraj, J., Javed, M.K., Sharmila, J., Rajkumar, P., Manikandan, V.R., Meenakshi, K.C., Rathi, M.A., Poornima, K., Chella Perumal, P., & Gopalakrishnan, V.K. (2024). Investigating the colon toxicity and carcinogenic role of monosodium glutamate compared with Dimethylhydrazine in male Wistar rats: Exploring the link to childhood colon cancer risk. Journal of King Saud University – Science, 36 (11). https://doi.org/10.1016/j.jksus.2024.103507 (Impact Factor: 3.6)",
-            "Manikandan, V.R., Meenakshi, K.C., Rathi, M.A., Gopalakrishnan, V.K. (2024) Reconnoitering the role of Lipid Metabolites in Ferroptosis. Advances in Redox Research, 14(1). https://doi.org/10.1016/j.arres.2024.100117 (Impact Factor:2.7).",
-            "Vijay, R., Drisya, V.M., Femil Selta, D.R., Rathi, M. A., Gopalakrishnan, V.K., Alkhalifah, D. H., Hozzein, W.N., (2023). Synthesis and characterization of silver nanomaterial from aqueous extract of Commelina forskaolii and its potential antimicrobial activity against Gram negative pathogens. Journal of King Saud University – Science,35(1). https://doi.org/10.1016/j.jksus.2022.102373 (Impact Factor :3.6).",
-            "Manikandan, V.R., Meenakshi, K.C., Meenakshi, S. R., Gopalakrishnan, V.K., Rathi, M.A., Guru, K.D., Mikhlid, H. A., Bader, O. A., Ameer, K., Ponnuswamy, V., (2024). Deciphering the therapeutic, larvicidal, and chemical pollutant degrading properties of leaves-mediated silver nanoparticles obtained from Alpinia purpurata. BioResources, 19(2). ( Impact Factor :1.74).",
-            "Kannappan, P., Meenakshi, K.C, Manikandan, V.R., Shankari, G., Prabhu, D., Rathi, M A., Chella Perumal, P., Balaji Raju, Gopalakrishnan, V.K. (2025). Exploring the anticancer potential of Jerantinine A from Tabernaemontana coronaria against prostate, breast, and ovarian cancers: a computational approach. Journal of Complementary and Integrative Medicine 22(2). 10.1515/jcim-2024-0443. (Impact Factor1.41)"
+            "A Deep Learning Ensemble Framework for Fake News Stance Detection and Classification. Nanotechnology Perceptions, Vol. 20, No. S2, May 2024, pp. 643–663.",
+            "Empirical Learning on Machine Learning Approaches for Discovery and Forecast of Coronavirus. International Journal of Mechanical Engineering, Vol. 7, February 2022, pp. 1580–1583.",
+            "Feasibility Analysis on Implementation of ERP Packages in Small and Medium Enterprises. Indian Journal of Natural Science, Vol. 12, Issue 66, 2021, pp. 31781–31783.",
+            "Analysis of Financial Technology as an Opportunity to Market or Disruption of Industry. Design Engineering, Issue 6, 2021.",
+            "Empirical Analysis on Quality of Higher Education. International Journal of Test Engineering and Management, March–April 2020, pp. 19231–19237."
           ]
         },
         {
-          "faculty_name": "Mrs. P. Nirmaladevi",
+          "faculty_name": "Dr. N. RAMESH KUMAR",
           "content": [
-            "Dugganaboyana, G.K., Kannankumar, M.K.G., Shivaramakrishna, S., Raju, M.V., Chandrasekaran, M.K., Ahalliya,R.M., Panneerselvam, N., Palanisamy, C.P., & Kanniappan, G.V. (2025). Phytochemical insights, antioxidant activity and therapeutic potential of Cassia senna against prostate cancer in Wistar albino rats. Deleted Journal, 7(10). https://doi.org/10.1007/s42452-025-07392-5. (Impact Factor: 2.6)",
-            "Sugunadevi, G., Suresh, K., & Panneerselvam, N. (2025). Anticarcinogenic effect of Mosinone-A on Mrna Expression of Cell Cycle-Associated Proteins In Dmba-Induced Hamster Buccal Pouch Carcinogenesis. International Journal of Biology,Pharmacy and Allied Health Sciences, 14(special issue (3)). International Journal of Biology, Pharmacy and Allied Health Sciences, 14(Special Issue 3). https://doi.org/10.31032/IJBPAS/2025/14.3.1040."
+            "A Review on Customer’s Attitude towards Branded Retail Store with Special Reference to Coimbatore. International Journal of Management, IT & Engineering, Vol. 9, Issue 5(2), 2019, pp. 52–55.",
+            "A Study on Consumer’s Perception on Fruits and Vegetables with Special Reference to Retail Outlets in Coimbatore City. IOSR Journal of Business and Management, Vol. 21, Issue 3, March 2019, pp. 23–26.",
+            "A Study on the Effect of Organisational Climate on Employees Performance in Dairy Industry in Coimbatore City. International Journal of Business and Management Invention, Vol. 8, 2019, pp. 56–59.",
+            "Human Resource Practices in Organized Retail Sectors: A Study of Selected Retailers. International Journal of Engineering and Management Science, Vol. 5, Issue 1, 2014.",
+            "Consumer Perception Towards Store Loyalty & Store Image in the Coimbatore District. International Journal of Marketing Management, Vol. 2, Issue 1, 2012."
           ]
         },
         {
-          "faculty_name": "Dr. R. AMSAVENI",
+          "faculty_name": "Dr. PRABHAGARAN",
           "content": [
-            "Bhuvaneshwari, V., & Amsaveni, R. (2025). Emerging threat of scrub typhus: A call for greater awareness and research. International Immunopharmacology, 164, 115387. (Impact factor 4.7).",
-            "Bhuvaneshwari, V., & Amsaveni, R. (2025). Exploring quercetin based nano formulation in combating human Metapneumovirus infections. International Immunopharmacology, 153, 114510. (Impact factor 4.7).",
-            "Vinothini, S. L., Brindha, A., Geethanjali, B., Yuvanandhan, S., Tamilselvi, S., Bhuvaneshwari, V., & Amsaveni, R. (2025). Isolation and Characterization of Protease-Producing Bacteria from Metal-Contaminated Soil for Thrombolytic Therapy. The Microbe, 100460.",
-            "Amsaveni, R., & Bhuvaneshwari, V. (2025). The growing threat of Guillain-Barré syndrome: Why awareness matters. Ceylon Journal of Science, 54(3).",
-            "Amsaveni, R., & Bhuvaneshwari, V. (2024, December). Molecular Docking and Pharmacokinetic Assessment of Oleanolic Acid Targeting Human ERRα: A Computational Approach for Anti-Cancer Drug Design. In 2024 International Conference on Emerging Research in Computational Science (ICERCS)(pp. 1-4)."
+            "Forecasting Stock Price Volatility: An Empirical Study in India. Finance India, Vol. 34, Issue 4, December 2021.",
+            "Prioritization of Technology Initiatives to Achieve Digital Transformation Maturity. European Chemical Bulletin, Vol. 12, Special Issue 8, 2023, pp. 5752–5762.",
+            "The Effectiveness of Technical Indicators in Predicting Index Price Movement: A Study on S&P CNX Nifty. International Journal of Finance, Vol. 1, Issue 2, February 2011, pp. 147–152.",
+            "A Study on Relationship between FII’s Inflows and Stock Market Indices in India. International Journal of Accounting, Vol. 1, Issue 2, August 2011, pp. 73–81.",
+            "A Study on Risk Perception and Portfolio Management of Equity Investors in Coimbatore City. Journal of Management & Science, Vol. 1, Issue 2, December 2011, pp. 1–10."
           ]
         },
         {
-          "faculty_name": "Dr.REETHY.P.S",
+          "faculty_name": "Dr. K. HEMALATHA",
           "content": [
-            "Reethy, P. S., & Lalitha, K. V. (2021). Characterization of V. cholerae O1 biotype El Tor serotype Ogawa possessing the ctxB gene of the classical biotype isolated from well water associated with the cholera outbreak in Kerala, South India. Journal of Water and Health, 19(3), 478-487. (Impact Factor:2.4).",
-            "Reethy, P. S., & Lalitha, K. V. (2021). Antimicrobial Resistance in Vibrio cholerae from Aquatic Environment. (Impact Factor:0.2)",
-            "Reethy, P. S., & Lalitha, K. V. (2020). Phenotypic and genotypic characterization of nonO1/nonO139 Vibrio cholerae from aquaculture farm sediments. (Impact Factor:0.2)."
-          ]
-        },
-        {
-          "faculty_name": "Mr. P. BALAMURUGAN",
-          "content": [
-            "Manoharan, S. P., Yadav, S. A., Suvathika, G., Anandhan, P., & Pandiyan, B. (2024). Screening of Phosphoinositide-3 Kinase Inhibitors from Argemone mexicana Leaves. Biomedical and Pharmacology Journal, 17(2), 1103-1114. (Impact Factor: 1.5)",
-            "Gnanaselvan, S., Yadav, S. A., Manoharan, S. P., & Pandiyan, B. (2023). Uncovering the anticancer potential of phytomedicine and polyherbal’s synergism against cancer—A review. Biointerface Res. Appl. Chem, 13, 356. (Impact Factor: 1.4)",
-            "Manoharan, S. P., Yadav, S. A., Pandiyan, B., & Suvathika, G. (2023). Tragia plukenetii-assisted omega-decenol as potential anticancer agent: Its isolation, characterization, and validation. Applied biochemistry and biotechnology, 195(3), 1699-1722. (Impact Factor: 3.0)",
-            "Pandiyan, B., Yadav, S. A., Karpagavalli, M., Gayathiri, E., Gnanaselvan, S., & Manoharan, S. P. (2022). A Comprehensive Review on Medicinal Plants against Lung Cancer. Oriental Journal of Chemistry, 38(3), 688. (Impact Factor: 0.6).",
-            "Pandiyan, B., Yadav, S. A., Faruck, L. H., & Bakshi, H. (2020). Metabolic profiling and biological activities of artabotrys hexapetalus (LF) bandari leaves. International Journal of Research in Pharmaceutical Sciences, 11(2),2371-2382."
-          ]
-        },
-        {
-          "faculty_name": "Dr. M. Rajkumar",
-          "content": [
-            "Rajkumar, M., Presley, S. D., Govindaraj, P., Girigoswami, K., Meenambigai, K., Deepak, P., … & Menaa, F.(2025). Biomedical Prowess of Clitoria mariana (L.) Flower Methanolic Extract: A Comprehensive In Vitro, Ex Vivo, and In Vivo Evaluation. Chemistry & Biodiversity, e01051. (Impact factor: 2.5)",
-            "Rajkumar, M., Rajkumar, P., Prathap, N., Govindaraj, P., Madhankumar, R., Deepak, P., & Shanmugarathinam, A.(2025). Investigation of In Vitro Antioxidant, Antibacterial and Anticancer Activities of Eco-Friendly Synthesized Silver Nanoparticles Using Alangium salvifolium (L.) Plant Fruit Extract. Biomedical Materials & Devices, 1-18. (Impact factor: 4.2)",
-            "Rajkumar, M., Presley, S. D., Begum, M. Y., Alamri, A., Al Fatease, A., Girigoswami, K., … & Deepak, P. (2025). Biogenic Synthesis of CuO-TiO2 Nanocomposites from Senna auriculata (L.) Roxb. Plant Extract and its Evaluation of Antioxidant, Antibacterial and Anticancer Activity of HepG2 Cell lines. Biocatalysis and Agricultural Biotechnology, 103787. (Impact factor: 3.8)",
-            "Ragavendran, C., Kamaraj, C., Alam, M. W., & Rajkumar, M. (2025). Eco-friendly synthesis of zinc oxide nanoparticles using Caralluma adscendens stem extract: Characterization, antibacterial, antioxidant, and cytotoxic effects of breast cancer cells. Inorganic Chemistry Communications, 180, 115035. (Impact factor:5.4)",
-            "Muthu, R., Manickam, R., Thamarai, R., Sivasamy, S., Mahendran, K., & Prabhakaran, R. (2025). NanoMarine therapeutics: a new wave in drug delivery from oceanic bioresources targeting colon cancer via miRNA modulation. Frontiers in Genetics, 16, 1668618. (Impact factor: 2.8)."
-          ]
-        },
-        {
-          "faculty_name": "Dr. V V Sathibabu Uddandrao",
-          "content": [
-            "Uddandrao, V.V.S., Krishna, D., Vasantha, M.N., Jayashree, G., Roy, A., Ravikkumar, V.R., Sengottuvelu, S., Chandrasekaran, P., Kathirvelan, C., Parim, B.N., Das, K., & Kumar, U. (2025). Combination of hydroxycitric acid and capsaicin regulates IRS-1/AMPK-mTOR-SREBP-1c Axis/NLRP3-NF-κB/Nrf-2-ARE signaling pathways to ameliorate the two-hit process in high-fat diet-induced hepatic steatosis. Biochimica et Biophysica Acta – Molecular and Cell Biology of Lipids, 1870(8), 159682.https://doi.org/10.1016/j.bbalip.2025.159682. (Impact Factor: 3.3)",
-            "Uddandrao, V.V.S., Brahma Naidu, P., Chandrasekaran, P., & Saravanan, G. (2024). Pathophysiology of obesity-related infertility and its prevention and treatment by potential phytotherapeutics. International Journal of Obesity (2005), 48(2), 147–165.https://doi.org/10.1038/s41366-023-01411-4. (Impact Factor: 3.8)",
-            "Uddandrao, V.V.S., Chandrasekaran, P., Saravanan, G., Brahmanaidu, P., Sengottuvelu, S., Ponmurugan, P., Vadivukkarasi, S., & Kumar, U. (2023). Phytoformulation with hydroxycitric acid and capsaicin protects against high-fat-diet-induced obesity cardiomyopathy by reducing cardiac lipid deposition and ameliorating inflammation and apoptosis in the heart. Journal of Traditional and Complementary Medicine, 14(2), 162–172.https://doi.org/10.1016/j.jtcme.2023.08.004. (Impact Factor: 3.0)",
-            "Sathibabu Uddandrao, V.V., Brahmanaidu, P., Ravindarnaik, R., Suresh, P., Vadivukkarasi, S., & Saravanan, G.(2019). Restorative potentiality of S-allylcysteine against diabetic nephropathy through attenuation of oxidative stress and inflammation in streptozotocin-nicotinamide-induced diabetic rats. European Journal of Nutrition, 58(6), 2425–2437.https://doi.org/10.1007/s00394-018-1795-x. (Impact Factor: 4.3)",
-            "Uddandrao, V. V. S., Parim, B., Ramavat, R., Pothani, S., Vadivukkarasi, S., P, P., P, C., & Ganapathy, S. (2023). Effect of S-allylcysteine against diabetic nephropathy via inhibition of MEK1/2-ERK1/2-RSK2 signalling pathway in streptozotocin-nicotinamide-induced diabetic rats. Archives of physiology and biochemistry, 129(1), 213–221. https://doi.org/10.1080/13813455.2020.1811731. (Impact Factor: 2.7)"
+            "An Analysis of Weak Form Efficiency in Sectoral Indices with Special Reference to NSE. Indian Journal of Applied Research, Vol. 5, Issue 3, March 2015.",
+            "An Analysis on Weak Form Efficiency of CNX IT – Evidence from NSE. SS International Research Network, Vol. 5, Issue 3, May 2015.",
+            "An Analysis of Weak Form Efficiency in Sectoral Indices with Reference to NSE. Global Journal for Research Analysis, Vol. 4, Issue 7, July 2015, pp. 387–390.",
+            "A Study on Equity Share Price Movement of Sun Pharmaceutical Limited. International Research Journal of Engineering and Technology, Vol. 2, Issue 6, September 2015.",
+            "An Analysis of Weak Form Efficiency in Realty Sector with Special Reference to NSE. International Educational Scientific Research Journal, Vol. 2, Issue 6, June 2016."
           ]
         }
       ]
@@ -842,65 +829,119 @@
       "slug": "department-of-management",
       "items": [
         {
-          "title": "International Conference",
+          "title": "Symposium / Conference",
           "content": [
-            "International Conference on “Advances in Therapeutic Molecules and Drug Design” on January 10, 2019."
+            "Online Symposium “MANALTICS 2K21” was inaugurated by Mr.Parthasarathy Subramaniam, Associate Vice President, ICICI Lombard GIC Ltd., Coimbatore. on 01.02.2021.",
+            "One day Symposium ‘Manaltics’ was inaugurated by Mr. JFD. Sandeep, Managing Director, Vaikunth Knits Pvt Ltd on11.03.2020.",
+            "Symposium on ‘Manaltics’ was organized and inaugurated by Mr. Navaneeth. V. G, Asia’s Record holding Motivation Speaker on March 06, 2018."
           ]
         },
         {
-          "title": "National Conferences",
+          "title": "Workshops / Training Programmes / Seminars",
           "content": [
-            "Two days National Conference on “Advanced Biotechnological Strategies and Biogenic Molecules for Clinical Applications” on 18th and 19th December,2025.",
-            "National Conference on Advance Techniques in Plant Science and Technology on February 13, 2020 and February 14, 2020.",
-            "National Level Competition for Bio-Science Students Becon Fest, IIT-Delhi on July 05, 2018 and July 06, 2018.",
-            "National Conference on “Plant Based Drugs – Biotechnological Implications” on August 10, 2017 and August 11, 2017.",
-            "National Conference on “Microbial Biotechnology for Sustainable Agriculture and Food Safety” on July 27, 2017 and July 28, 2017."
+            "One-day Workshop on “Trend Analysis for Entrepreneurs: Using SPSS for Decision-Making” for I-year MBA students on 05.01.2026.",
+            "One-day Workshop on “Research Methodology for Beginners” on 23.12.2025.",
+            "One-day Workshop on “Stock Market Live Training” on 26.08.2025.",
+            "Entrepreneurship Development Programme conducted from 02.08.2021 to 06.08.2021.",
+            "Workshop on Intellectual Property Rights conducted from 07.06.2021 to 11.06.2021.",
+            "Workshop on Research Methodology conducted from 24.05.2021 to 28.05.2021.",
+            "Workshop on Dropshipping Startups conducted by Mr. Mohideen Abdul Kamal, Assistant Professor, Vocational Training Center (Ministry of Manpower), Muscat, Oman, on 21.01.2021.",
+            "Workshop on Defensive Techniques conducted by Mr. S. Karthick, Trainer, Defensive Technique, on 25.11.2019.",
+            "Workshop on Business Case Writing and Analysis conducted by Dr. T. Rangarajan and Dr. Kalyanai Rangarajan, Management Consultants (IIM–A Alumni), on 18.08.2018 and 19.08.2018.",
+            "Workshop on Innovative Teaching and Motivation for Research for Young Faculty conducted by Dr. Malabika Deo, Professor, Department of Commerce, Pondicherry University, and Dr. M. Selvam, Advisor, IQAC, Bharathidasan University, on 13.10.2018.",
+            "Training Programme on Human Rights conducted by Mr. V. P. Sharathi, Dr. R. Sujatha, Dr. Kamalaveni, Mr. M. Madhivanan, and Mr. C. Paventhan on 16.11.2018.",
+            "Seminar on International Day of Elimination of Violence Against Women conducted by Ms. N. Divya and Mr. Sureshkumar on 26.11.2018.",
+            "Hands-on Training on Model Building using AMOS conducted by Dr. M. Uma Shankar, Kongu Engineering College, Erode, from 15.12.2018 to 16.12.2018.",
+            "Workshop on Small Industries Day conducted on 11.10.2017.",
+            "Training Programme on Rights of Women sponsored by NHRC – National Human Rights Commission, New Delhi, conducted on 28.07.2017.",
+            "Workshop on Goods and Services Taxation: Procedural and Administrative Mechanism in India conducted on 25.07.2017.",
+            "Seminar on Capital Market Awareness and Equity Investing conducted on 08.10.2015, with a guest talk by Mr. Venugopal Rayirathi, Senior Associate, Lotus Knowlwealth Pvt. Ltd., Mumbai."
           ]
         },
         {
-          "title": "Workshop",
+          "title": "National Conference",
           "content": [
-            "National level Lecture Workshop on Avenues of Biotechnology to next Generation from Dynamics to Molecular mechanisms on December 19, 2019 and December 20, 2019",
-            "Science Academics Lecture Workshop funded by INSA-IASC-NASC, Bangalore, New Delhi on June 27, 2018 and June 28, 2018.",
-            "Science Academies Lecture Workshop on “Recent advances in Biological Sciences” during July 24, 2017 and July 25, 2017."
+            "One-day National Conference on “Innovation Driven Business to Foster Sustainable Development in the Indian Economy” conducted on 06.03.2020.",
+            "One-day National Conference on “Rural Banking and Agribusiness for Economic Transformation” conducted on 24.01.2018 in association with NABARD.",
+            "One-day National Conference on “Concurrent Issues and Challenges in Lean Management” conducted on 12.02.2015."
           ]
         },
         {
-          "title": "Association Meet",
+          "title": "Guest Lecture",
           "content": [
-            "Department Association (TECHNOSTRAND) Inauguration on December 2019.",
-            "Department Association (TECHNOSTRAND) Inauguration on July 2018."
+            "Guest Lecture on “HR Horizons: Unlocking MBA Career Paths” for II-year MBA HR specialization students conducted on 04.12.2025.",
+            "Guest Lecture on “Emerging Career Paths for MBA Graduates in 2025 and Beyond” conducted on 29.10.2025.",
+            "Guest Lecture on “Mastering the Basics of Financial Management” conducted on 02.09.2025.",
+            "Guest Lecture on “Smart Money Moves: Investing for a Secure Future” conducted on 11.09.2025.",
+            "Guest Lecture on “Preparation for TNPSC Examinations” for I-year BBA students conducted on 28.07.2025.",
+            "Webinar on “Labour Law Compliance in India” delivered by Mr. S. Muthukumar, Assistant Manager – Statutory Compliance, Talent Pro India HR Pvt. Ltd., Chennai, on 30.10.2021.",
+            "Webinar on “Challenges Faced by the Retail Industry in the Present Scenario” delivered by Mr. Venki Manoharan, Product Architect, US Technology, San Antonio, Texas, on 29.10.2021.",
+            "Webinar on “Emerging Trends in Supply Chain Management” delivered by Ms. Vijayalakshmi Babukumar, Site Supply Chain Head, ALSTOM, Coimbatore, on 18.09.2021.",
+            "Webinar on “Introduction to the Securities Market and Role of Regulators” delivered by Mr. B. Badrinarayanan, Senior Consultant, BSE Ltd., Chennai, and Mr. B. Karthik, Regional Head, CDSL, Chennai, on 31.05.2021.",
+            "Webinar on “Leadership Branding in Startups” delivered by Mr. Rakesh Menon, Co-founder & CEO, Mantle Training & Consulting, Coimbatore, on 12.05.2021.",
+            "Webinar on “GST and Input Tax Credit Mechanism” delivered by Mr. A. Sarfudeen, Senior Software Trainer, Institute of Computer Accountant, Coimbatore, on 07.05.2021.",
+            "Webinar on “Agility and Employability Skills for Project Management” delivered by Mr. M. Sri Sudharshan, Head – PMO, CES Limited, Chennai, on 30.04.2021.",
+            "Webinar on “Partnership and Limited Liability Partnership” delivered by Mr. G. Balasubramaniam, Company Secretary, ROOTS Multi Clean Ltd., Coimbatore, on 19.04.2021.",
+            "Budget Talk 2K21 delivered by Dr. R. Asokan, Associate Professor, Department of Economics, Government Arts College for Women, Salem, on 23.03.2021.",
+            "Webinar on “Believe in Yourself” delivered by Mr. P. Anavarathamani, Inspirational and Business Coach, Coimbatore, on 01.03.2021.",
+            "Webinar on “Career Orientation for MBA Students in the VUCA World” delivered by Dr. A. V. Jose, Vice President & Head – HR, ESAF Small Finance Bank, Thrissur, on 09.02.2021.",
+            "Alumni Online Interaction on “Industry Expectation from Students” delivered by Mr. Ajaay Kiran, Talent Acquisition Partner, Mastree, Bangalore, on 05.02.2021.",
+            "Alumni Online Interaction on “The Power Plan for Career Success” delivered by Mr. B. Ramkumar, Assistant Manager – HR, Focus Prism Pvt. Ltd., Coimbatore, on 05.02.2021.",
+            "Webinar on “Product Design and Development” delivered by Dr. Florence Bharathy Kennedy, Senior Lecturer, Eastern University, Sri Lanka, on 30.01.2021.",
+            "Webinar on “Rural Entrepreneurship: Opportunities and Challenges” delivered by Mr. K. Prakash, Assistant Professor, SRM Institute of Science and Technology, Chennai, on 30.12.2020.",
+            "Webinar on “Leadership Lessons from the Military” delivered by Dr. Prasad Begde, Assistant Professor, Sur University College, Oman, on 30.11.2020.",
+            "Webinar on “Investment in Stock Market and Mutual Fund” delivered by Mr. K. Thangaraj, Faculty, ACS Capital Market Academy, Coimbatore, on 27.11.2020.",
+            "Webinar on “Right to Information Act” delivered by Mr. S. Vivekanandan, Advocate, Combined District Court, Coimbatore, on 26.11.2020.",
+            "Webinar on “Trade Setup for Beginners Using Technical Analysis” delivered by Mr. V. Saravana Krishnan, Assistant Professor, Christ University, Bangalore, on 11.09.2020.",
+            "Webinar on “Creating a Successful Startup and Pitching for Investment” delivered by Mr. Arun Raaj Manickaraj, Founder & CEO, Orenda Social Enterprise Pvt. Ltd., Coimbatore, on 13.08.2020.",
+            "Webinar on “Business Analytics and Data-Driven Decision Making” delivered by Mr. Pathy Thangavelu, Business Head, Zillion Cubes, Coimbatore, on 18.06.2020.",
+            "Guest Lecture on “Business Operations Management” delivered by Mr. Rajkaal Prabhu, Managing Director, Ranjith Enterprises, Coimbatore, on 18.12.2019.",
+            "Guest Lecture on “Elimination of Violence Against Women” delivered by Mr. RVB Madhavan, Founder, Aram Foundation Charitable Trust, Coimbatore, on 25.11.2019.",
+            "Guest Lecture on “Rights and Responsibilities of a Citizen” delivered by Mr. V. P. Sarathi, Advocate & Chief Legal Adviser, VPS Law Firm, on 26.11.2019.",
+            "Guest Lecture on “Digital Marketing Tools” delivered by Mr. Paul, Co-founder, CADD BIM Technologies, on 07.09.2019.",
+            "Guest Lecture on “SAP and Its Applications” delivered by Mr. Venkatesh, SAP Consultant, G-Tec Education, on 06.09.2019.",
+            "Guest Lecture on “Certification Programs like CMA, CFA and FRM” delivered by Mr. D. Ramaswamy, Founder, Ledaa, on 04.09.2019.",
+            "Guest Lecture on “Cross Culture Management” delivered by Mr. Michael Vogt, Professor, Denmark, on 12.02.2019.",
+            "Guest Lecture on “Cyber Crime Awareness” delivered by Mr. D. Sai Nataraj, CEO, Duratech Solutions, on 26.11.2018.",
+            "Guest Lecture on “Personality Development and Goal Setting” delivered by Dr. R. Sujatha, Consultant Member, Tamil Nadu State Planning Commission, on 16.11.2018."
           ]
         },
         {
-          "title": "Faculty Development Programme",
+          "title": "Hands on Training Programme",
           "content": [
-            "Three days Faculty Development Program on “Role of Artificial Intelligence in Biotechnology” for our faculty members from 26.11.2025 to 28.11.2025.",
-            "Seven days national level Faculty Development Program on “Innovations in Biotechnology as Lifesaving Prospective” on August 03, 2020 to August 09, 2020"
+            "Hands on Training on “Capital Market” was conducted by Annamalai Capital Services (P) Ltd. during the period from December 2019 to January 2020.",
+            "Hands on Training on “Business Analytics” was conducted by Mr. Somayajulu, Mentor, Makeintern, from 16.09.2019 to 20.09.2019."
           ]
         },
         {
-          "title": "Webinar",
+          "title": "Skill Based Training",
           "content": [
-            "Webinar on “ITC and its data analysis using dynamic approach” on May 18, 2020",
-            "Webinar on “Structural Biology: A road map to drug discovery” on May 27, 2020"
-          ]
-        },
-        {
-          "title": "Extension activities",
-          "content": [
-            "“Awareness Programme on Prevention and Management of Tuberculosis” at Othakkalmandapam, Coimbatore on 04.08.2025.",
-            "AIDS Awareness Programme for young peoples on December 01, 2020"
+            "One Day Trade Expo was conducted on February 17, 2021. Ms. Mahalakshmi Saravanan, Founder and CEO of Women Entrepreneurs India, Coimbatore, delivered the keynote address.",
+            "One Day Trade Expo was conducted on January 09, 2020. Mr. M. Umar, Export Manager, Texmo Aquasub Engineering, Coimbatore, delivered the keynote address.",
+            "One Day Trade Expo was conducted on December 21, 2017. Mr. R. K. Saravanan, Marketing Manager, Ms. Krishnaveni Carbon Products Pvt. Limited, Coimbatore, delivered the keynote address.",
+            "One Day Trade Expo was conducted on December 22, 2016. Mr. N. Shanmugha Sundaram, Deputy General Manager – Business Development, Aqua Sub Engineering, Coimbatore, delivered the keynote address.",
+            "One Day Trade Expo was conducted on December 29, 2015. Mr. K. Raghunandanan, Joint General Manager, Larsen & Toubro, delivered the keynote address."
           ]
         },
         {
           "title": "Others",
           "content": [
-            "Technical Fest “Xenviron-2026” on 05.02.2026.",
-            "One Day hands on training on “Exploring the Science of Separation: Gas Chromatography with Live Demonstration” on 25.09.2025.",
-            "One Day Hands on training on “Exploring Heavy Metal Analysis through Atomic Absorption Spectroscopy” on 17.09.2025",
-            "Guest lecture cum workshop on “Emerging Trends in Intellectual Property Rights and patent Systems” on 03.09.2025",
-            "“Medicinal Plants Expo and Student Association Inauguration (Technostrand-2025) on 05.08.2025"
+            "Essay Writing and Poster Presentation Competition on “Intellectual Property Rights (IPR) & Technology Transfer” for BBA and MBA students was conducted from January 07, 2026 to January 09, 2026.",
+            "Career Guidance Program on “Banking – Government and Private Sector” was conducted on December 18, 2025 for I-year MBA ‘A & B’ students.",
+            "Alumni Talk on “From Campus to CEO: My Journey to Tech Entrepreneur” was conducted on December 17, 2025 by alumni (2016–2018 batch) Mr. Manikandan Ravikumar, Founder & Managing Director, Infolexus Solutions.",
+            "Alumni Talk on “How to Build a Career in the New-Age Job Market” was conducted on December 16, 2025 by alumni (2009–2012 batch) Mr. Nishar Anwar, Soft Skills Trainer.",
+            "Career Program on “Strategic Management in the Contemporary Business Environment” was conducted on December 15, 2025 for II-year MBA ‘A & B’ students.",
+            "Awareness Programme on “Commodity Derivatives” was conducted on December 04, 2025 for II-year MBA Finance specialization students.",
+            "Reels Competition was conducted in connection with World Entrepreneurs Day on November 25, 2025.",
+            "Five-Day Faculty Development Programme on “Research Lifecycle – From Clean Data to Scopus / WoS Publication” was conducted for Management faculty members from November 22, 2025 to November 26, 2025.",
+            "Street Play on NEP 2020 was organized on November 05, 2025.",
+            "Orientation Programme on Banking was conducted on October 30, 2025.",
+            "Alumni Talk on “Success Stories in Entrepreneurship” was conducted on September 26, 2025 by alumni (2014–2016 batch) Mr. Mahendran, Owner, Mahe’s Promoters & Builders.",
+            "Alumni Talk on “Entrepreneurship in Action – Plan and Execution” was conducted on September 25, 2025 by alumni (2018–2020 batch).",
+            "C.K. Prahalad Memorial Lecture on “The Fortune at the Bottom of the Pyramid” was conducted on September 22, 2025.",
+            "Motivational Talk on “Building Confidence and Self-Belief” was conducted on September 01, 2025.",
+            "Faculty Development Programme on “Next-Gen Research Methodologies: Advancing Social Science Research using AI & JAMOVI” was conducted from September 15, 2025 to September 19, 2025 through online mode.",
+            "NEP 2020 Awareness Programme was conducted on August 29, 2025."
           ]
         }
       ]

@@ -558,7 +558,7 @@
         },
         {
           "type": "gallery",
-          "slug": "department-of-microbiology",
+          "slug": "department-of-biotechnology",
           "images": [
             {
               "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Fermentor-1024x576.jpg",
@@ -770,7 +770,7 @@
     },
     {
       "tab": "Publications",
-      "slug": "department-of-microbiology",
+      "slug": "department-of-biotechnology",
       "title": "Best Five Papers Faculty wise:",
       "subtitle": "Paper Publications by the Faculty Members",
       "content": [
