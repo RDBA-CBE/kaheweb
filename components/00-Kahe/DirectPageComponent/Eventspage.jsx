@@ -44,7 +44,7 @@ const Eventspage = ({ eventsContent }) => {
                   >
                     <div className="accordion-body card-body pr--0">
                       <ul className="rbt-course-main-content liststyle">
-                        {item.content.map((list, subIndex) => (
+                        {item.content?.map((list, subIndex) => (
                           <li key={subIndex}>
                             <div >
                               <div className="course-content-left">

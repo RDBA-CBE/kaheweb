@@ -122,7 +122,7 @@ const Infrastructure = ({ infrastructureContent }) => {
 
                 {/* <div className="col-lg-12 mt-0">
                   <ul className="rbt-list-style-1">
-                    {labItem.content.map((item, i) => (
+                    {labItem.content?.map((item, i) => (
                       <li key={i}>
                         <i className="feather-check"></i>
                         <span dangerouslySetInnerHTML={{ __html: item }}></span>

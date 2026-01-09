@@ -38,7 +38,7 @@ const DownloadTab = ({ data }) => {
                     id="myTab-4"
                     role="tablist"
                   >
-                    {data.content.map((item, index) => (
+                    {data.content?.map((item, index) => (
                       <li role="presentation" key={index}>
                         <Link
                           href="#"
@@ -63,7 +63,7 @@ const DownloadTab = ({ data }) => {
 
               <div className="col-lg-12 ">
                 <div className="tab-content pt-4" id="myTabContent-4">
-                  {data.content.map((item, index) => (
+                  {data.content?.map((item, index) => (
                     <div
                       key={index}
                       className={`tab-pane fade ${

@@ -412,279 +412,2715 @@
       "items": [
         {
           "type": "laboratories",
-          "title": "Laboratories",
-            "content": [
-              {
-                "head": [
-                  {
-                    "id": "col1",
-                    "label": "Programme"
+          "title": "Class Room Details",
+          "content": [
+            {
+              "head": [
+                {
+                  "id": "col1",
+                  "label": "Programme"
+                },
+                {
+                  "id": "col2",
+                  "label": "Program Code"
+                },
+                {
+                  "id": "col3",
+                  "label": "Year"
+                },
+                {
+                  "id": "col4",
+                  "label": "Section"
+                },
+                {
+                  "id": "col5",
+                  "label": "Strength"
+                },
+                {
+                  "id": "col6",
+                  "label": "Block"
+                },
+                {
+                  "id": "col7",
+                  "label": "Room No."
+                }
+              ],
+              "data": [
+                {
+                  "col1": {
+                    "text": "B.E. Computer Science and Engineering"
                   },
-                  {
-                    "id": "col2",
-                    "label": "Program Code"
+                  "col2": {
+                    "text": "CSE"
                   },
-                  {
-                    "id": "col3",
-                    "label": "Year"
+                  "col3": {
+                    "text": "IV"
                   },
-                  {
-                    "id": "col4",
-                    "label": "Section"
+                  "col4": {
+                    "text": "A"
                   },
-                  {
-                    "id": "col5",
-                    "label": "Strength"
+                  "col5": {
+                    "text": "64"
                   },
-                  {
-                    "id": "col6",
-                    "label": "Block"
+                  "col6": {
+                    "text": "I"
                   },
-                  {
-                    "id": "col7",
-                    "label": "Room No."
+                  "col7": {
+                    "text": "605"
                   }
-                ],
-                "data": [
-                  {
-                    "col1": { "text": "B.E. Computer Science and Engineering" },
-                    "col2": { "text": "CSE" },
-                    "col3": { "text": "IV" },
-                    "col4": { "text": "A" },
-                    "col5": { "text": "64" },
-                    "col6": { "text": "I" },
-                    "col7": { "text": "605" }
+                },
+                {
+                  "col1": {
+                    "text": "B.E. Computer Science and Engineering"
                   },
-                  {
-                    "col1": { "text": "B.E. Computer Science and Engineering" },
-                    "col2": { "text": "CSE" },
-                    "col3": { "text": "III" },
-                    "col4": { "text": "A" },
-                    "col5": { "text": "64" },
-                    "col6": { "text": "I" },
-                    "col7": { "text": "608" }
+                  "col2": {
+                    "text": "CSE"
                   },
-                  {
-                    "col1": { "text": "B.E. Computer Science and Engineering" },
-                    "col2": { "text": "CSE" },
-                    "col3": { "text": "II" },
-                    "col4": { "text": "A" },
-                    "col5": { "text": "71" },
-                    "col6": { "text": "I" },
-                    "col7": { "text": "609" }
+                  "col3": {
+                    "text": "III"
                   },
-                  {
-                    "col1": { "text": "B.E. Computer Science and Engineering" },
-                    "col2": { "text": "CSE" },
-                    "col3": { "text": "II" },
-                    "col4": { "text": "B" },
-                    "col5": { "text": "61" },
-                    "col6": { "text": "I" },
-                    "col7": { "text": "606" }
+                  "col4": {
+                    "text": "A"
                   },
-                  {
-                    "col1": { "text": "M.E. Computer Science and Engineering" },
-                    "col2": { "text": "CSE" },
-                    "col3": { "text": "II" },
-                    "col4": { "text": "A" },
-                    "col5": { "text": "5" },
-                    "col6": { "text": "I" },
-                    "col7": { "text": "604" }
+                  "col5": {
+                    "text": "64"
                   },
-                  {
-                    "col1": { "text": "M.E. Computer Science and Engineering" },
-                    "col2": { "text": "CSE" },
-                    "col3": { "text": "I" },
-                    "col4": { "text": "A" },
-                    "col5": { "text": "10" },
-                    "col6": { "text": "I" },
-                    "col7": { "text": "602" }
+                  "col6": {
+                    "text": "I"
+                  },
+                  "col7": {
+                    "text": "608"
                   }
-                ]
-              }
-            ],
-            "sub_title":"Lab Details",
-            "contents":"The Department is well equipped with computer labs with a Server (HP Proliant ML350G6 Xeon Processor 2.4GHz) and 255 Personal Computers (Processor – Intel Core i7, RAM: 16 GB; HDD: SSD500GB; Monitor – 19 inches wide LG- LED) with intranet and internet facilities.",
-            "images":[
-              "https://kahedu.edu.in/n/wp-content/uploads/2019/11/cse1-571x380.png",
-              "https://kahedu.edu.in/n/wp-content/uploads/2019/11/cse2-591x395.png",
-              "https://kahedu.edu.in/n/wp-content/uploads/2019/11/cse3-558x369.png",
-              "https://kahedu.edu.in/n/wp-content/uploads/2024/04/UE-Lab-1-1024x768.jpeg",
-              "https://kahedu.edu.in/n/wp-content/uploads/2024/04/I-608-1024x473.jpeg",
-              "https://kahedu.edu.in/n/wp-content/uploads/2024/04/I-605-1024x576.jpeg",
-              "https://kahedu.edu.in/n/wp-content/uploads/2024/04/I-609-1024x768.jpeg",
-              "https://kahedu.edu.in/n/wp-content/uploads/2024/04/I-606-1024x576.jpeg",
-              "https://kahedu.edu.in/n/wp-content/uploads/2024/04/Computer-Lab-3-1024x473.jpeg"
-            ]
-            
-          
+                },
+                {
+                  "col1": {
+                    "text": "B.E. Computer Science and Engineering"
+                  },
+                  "col2": {
+                    "text": "CSE"
+                  },
+                  "col3": {
+                    "text": "II"
+                  },
+                  "col4": {
+                    "text": "A"
+                  },
+                  "col5": {
+                    "text": "71"
+                  },
+                  "col6": {
+                    "text": "I"
+                  },
+                  "col7": {
+                    "text": "609"
+                  }
+                },
+                {
+                  "col1": {
+                    "text": "B.E. Computer Science and Engineering"
+                  },
+                  "col2": {
+                    "text": "CSE"
+                  },
+                  "col3": {
+                    "text": "II"
+                  },
+                  "col4": {
+                    "text": "B"
+                  },
+                  "col5": {
+                    "text": "61"
+                  },
+                  "col6": {
+                    "text": "I"
+                  },
+                  "col7": {
+                    "text": "606"
+                  }
+                },
+                {
+                  "col1": {
+                    "text": "M.E. Computer Science and Engineering"
+                  },
+                  "col2": {
+                    "text": "CSE"
+                  },
+                  "col3": {
+                    "text": "II"
+                  },
+                  "col4": {
+                    "text": "A"
+                  },
+                  "col5": {
+                    "text": "5"
+                  },
+                  "col6": {
+                    "text": "I"
+                  },
+                  "col7": {
+                    "text": "604"
+                  }
+                },
+                {
+                  "col1": {
+                    "text": "M.E. Computer Science and Engineering"
+                  },
+                  "col2": {
+                    "text": "CSE"
+                  },
+                  "col3": {
+                    "text": "I"
+                  },
+                  "col4": {
+                    "text": "A"
+                  },
+                  "col5": {
+                    "text": "10"
+                  },
+                  "col6": {
+                    "text": "I"
+                  },
+                  "col7": {
+                    "text": "602"
+                  }
+                }
+              ]
+            }
+          ],
+          "sub_title": "Lab Details",
+          "contents": "The Department is well equipped with computer labs with a Server (HP Proliant ML350G6 Xeon Processor 2.4GHz) and 255 Personal Computers (Processor – Intel Core i7, RAM: 16 GB; HDD: SSD500GB; Monitor – 19 inches wide LG- LED) with intranet and internet facilities.",
+          "images": [
+            "https://kahedu.edu.in/n/wp-content/uploads/2019/11/cse1-571x380.png",
+            "https://kahedu.edu.in/n/wp-content/uploads/2019/11/cse2-591x395.png",
+            "https://kahedu.edu.in/n/wp-content/uploads/2019/11/cse3-558x369.png",
+            "https://kahedu.edu.in/n/wp-content/uploads/2024/04/UE-Lab-1-1024x768.jpeg",
+            "https://kahedu.edu.in/n/wp-content/uploads/2024/04/I-608-1024x473.jpeg",
+            "https://kahedu.edu.in/n/wp-content/uploads/2024/04/I-605-1024x576.jpeg",
+            "https://kahedu.edu.in/n/wp-content/uploads/2024/04/I-609-1024x768.jpeg",
+            "https://kahedu.edu.in/n/wp-content/uploads/2024/04/I-606-1024x576.jpeg",
+            "https://kahedu.edu.in/n/wp-content/uploads/2024/04/Computer-Lab-3-1024x473.jpeg"
+          ]
         }
       ]
     },
     {
       "tab": "Publications",
-      "slug": "department-of-biotechnology",
+      "slug": "department-of-cyber-security",
       "title": "Best Five Papers Faculty wise:",
       "subtitle": "Paper publications by the Faculty Members",
       "content": [
         {
-          "faculty_name": "Dr. R. Thilagavathi",
-          "content": [
-            "Hosseini-Zare MS, Sarhadi M, Zarei M, Thilagavathi R, Selvam C. Synergistic effects of curcumin and its analogs with other bioactive compounds: A comprehensive review. Eur J Med Chem. 2021 Jan 15; 210:113072. Epub 2020 Dec 3. PMID: 33310285. Impact Factor: 5.5",
-            "Selvam C, Mock CD, Mathew OP, Ranganna K, Thilagavathi R. Discovery of Vascular Endothelial Growth Factor Receptor-2 (VEGFR-2) Inhibitors by Ligand-based Virtual High Throughput Screening. Mol Inform. 2020 Jul; 39(7):e1900150. Epub 2020 Mar 13. PMID: 32147949. Impact Factor: 2.7",
-            "Maryam S. Hosseini-Zare,   Ramasamy Thilagavathi and  Chelliah Selvam. Targeting severe acute respiratory syndrome-coronavirus (SARS-CoV-1) with structurally diverse inhibitors: a comprehensive review. RSC Adv., 2020, 10, 28287. Impact Factor: 3.07",
-            "Selvam, C., Prabu, S. L., Jordan, B. C., Purushothaman, Y., Umamaheswari, A., Hosseini Zare, M. S., Thilagavathi, R. Molecular mechanisms of curcumin and its analogs in colon cancer prevention and treatment: Life Sciences, 2019, 239:117032 (Impact factor: 3.44)",
-            "Selvam, C., Jordan, B.C., Prakash, S., Mutisya, D., Thilagavathi, R. Pterocarpan scaffold: A natural lead molecule with diverse pharmacological properties, European journal of Medicinal Chemistry, 2017, 128, 219-236. (Impact factor: 4.519)."
+          "title": "DR. D. Selvapandian Publications",
+          "head": [
+            {
+              "id": "col1",
+              "label": "S.No"
+            },
+            {
+              "id": "col2",
+              "label": "Author Name"
+            },
+            {
+              "id": "col3",
+              "label": "Title of the Paper"
+            },
+            {
+              "id": "col4",
+              "label": "Journal Name"
+            },
+            {
+              "id": "col5",
+              "label": "Year of Publication"
+            },
+            {
+              "id": "col6",
+              "label": "Volume"
+            },
+            {
+              "id": "col7",
+              "label": "Issue No"
+            },
+            {
+              "id": "col8",
+              "label": "PP"
+            }
+          ],
+          "data": [
+            {
+              "col1": {
+                "text": "1"
+              },
+              "col2": {
+                "text": "S Priyanka, SA Suje, D Selvapandian, V Narasimharaj"
+              },
+              "col3": {
+                "text": "Smart Farming: Intelligent Animal Detection Framework in Agriculture using IoT Sensors"
+              },
+              "col4": {
+                "text": "2023 2nd International Conference on Edge Computing and Applications"
+              },
+              "col5": {
+                "text": "2023"
+              },
+              "col6": {
+                "text": "2"
+              },
+              "col7": {
+                "text": ""
+              },
+              "col8": {
+                "text": "1336-1341"
+              }
+            },
+            {
+              "col1": {
+                "text": "2"
+              },
+              "col2": {
+                "text": "K Kalaivani, NC Vijayakumar, P Poovizhi, D Selvapandian"
+              },
+              "col3": {
+                "text": "An Efficient Rainfall Forecasting System using Machine Learning Methods"
+              },
+              "col4": {
+                "text": "International Conference on Electrical, Electronics, Information and Communication Technologies (ICEEICT)"
+              },
+              "col5": {
+                "text": "2023"
+              },
+              "col6": {
+                "text": "2"
+              },
+              "col7": {
+                "text": ""
+              },
+              "col8": {
+                "text": "01-06"
+              }
+            },
+            {
+              "col1": {
+                "text": "3"
+              },
+              "col2": {
+                "text": "Muthulakshmi K; Kalaivani K; Uma J; Primya T; Sivakumaran AR; Selvapandian D"
+              },
+              "col3": {
+                "text": "Classification of DDoS in Software-Defined IoT Networks using Hybrid Feature Selection Technique with DL"
+              },
+              "col4": {
+                "text": "International Conference on Smart Technologies in Computing, Electrical and Electronics (ICSTCEE)"
+              },
+              "col5": {
+                "text": "2022"
+              },
+              "col6": {
+                "text": "3"
+              },
+              "col7": {
+                "text": ""
+              },
+              "col8": {
+                "text": "12-18"
+              }
+            },
+            {
+              "col1": {
+                "text": "4"
+              },
+              "col2": {
+                "text": "S Gokuldev; D Selvapandian; K.Satheshkumar; T. Deepa"
+              },
+              "col3": {
+                "text": "A Framework for Rainfall Forecasting based Crop Analysis using Deep Learning"
+              },
+              "col4": {
+                "text": "9th International Conference on Advanced Computing and Communication Systems (ICACCS)"
+              },
+              "col5": {
+                "text": "2023"
+              },
+              "col6": {
+                "text": "9"
+              },
+              "col7": {
+                "text": ""
+              },
+              "col8": {
+                "text": "2234-2240"
+              }
+            },
+            {
+              "col1": {
+                "text": "5"
+              },
+              "col2": {
+                "text": "G Yogapriya, R Shalini Kumari, S Suganthi, K Agalya, T Elangovan, D Selva Pandian"
+              },
+              "col3": {
+                "text": "Crop Yield Identification Using CNN"
+              },
+              "col4": {
+                "text": "International Conference on Artificial Intelligence and Knowledge Discovery in Concurrent Engineering (ICECONF)"
+              },
+              "col5": {
+                "text": "2023"
+              },
+              "col6": {
+                "text": "3"
+              },
+              "col7": {
+                "text": ""
+              },
+              "col8": {
+                "text": "1-4"
+              }
+            }
           ]
         },
         {
-          "faculty_name": "Mrs. V. Vijayalakshmi",
-          "content": [
-            "Vijayalakshmi, Mayya Varsha, P. Vishnupriya, S. Sri Sowmiya, and S. Arun Karthi, Synthesis and characterization of Ch–PEG–Ag nanoparticles using Ficus caricafor the application of medical textiles, AIP Conference Proceedings, 2240, 080001 (2020).",
-            "Vijayalakshmi Varadarajan, Mayya Varsha, Keerthiga Vijayasekaran andShinde Vaibhav Shankar, Comparative studies of hydroxyapatite (HAp) nanoparticles synthesized by using different green templates, AIP Conference Proceedings, 2240, 080002 (2020).",
-            "Vijayalakshmi, P.A. Hina Kousar, Sukhi Das. Optimization and Characterization Of Chitosan Based Nanocarrier for The Application Of Cancer Drug Delivery. Journal of Critical Reviews ISSN-2394-5125 Vol 7, Issue 7, 2020.",
-            "Kumararaja, G., Sundaraganapathy, R., Constantine, I., Vijayalakshmi, V., & Rahim, S. F. A. (2019). Comparative studies on synthesized silver nanoparticles using Artemisia vulgaris Linn., and Cinnamomum zeylanicum Nees., for their antifungal activity. Journal of Pharmaceutical Sciences and Research, 11(7), 2558-2565."
+          "title": "Dr. J. Alfred Daniel Publications",
+          "head": [
+            {
+              "id": "col1",
+              "label": "S.No"
+            },
+            {
+              "id": "col2",
+              "label": "Author Name"
+            },
+            {
+              "id": "col3",
+              "label": "Title of the Paper"
+            },
+            {
+              "id": "col4",
+              "label": "Journal Name"
+            },
+            {
+              "id": "col5",
+              "label": "Year of Publication"
+            },
+            {
+              "id": "col6",
+              "label": "Volume"
+            },
+            {
+              "id": "col7",
+              "label": "Issue No"
+            },
+            {
+              "id": "col8",
+              "label": "PP"
+            }
+          ],
+          "data": [
+            {
+              "col1": {
+                "text": "1"
+              },
+              "col2": {
+                "text": "van Henten, E., Montenegro, C., Popovic, M., Vougioukas, S., Daniel, A., & Han, G"
+              },
+              "col3": {
+                "text": "Embracing Robotics and Intelligent Machine Systems for Smart Agricultural Applications"
+              },
+              "col4": {
+                "text": "IEEE Robotics & Automation Magazine"
+              },
+              "col5": {
+                "text": "2023"
+              },
+              "col6": {
+                "text": "30"
+              },
+              "col7": {
+                "text": "4"
+              },
+              "col8": {
+                "text": "8-112"
+              }
+            },
+            {
+              "col1": {
+                "text": "2"
+              },
+              "col2": {
+                "text": "Alfred Daniel, J., Chandru Vignesh, C., Muthu, B. A., Senthil Kumar, R., Sivaparthipan, C. B., & Marin, C. E. M"
+              },
+              "col3": {
+                "text": "Fully Convolutional Neural Networks For Lidar–Camera Fusion For Pedestrian Detection In Autonomous Vehicle"
+              },
+              "col4": {
+                "text": "Multimedia Tools and Applications"
+              },
+              "col5": {
+                "text": "2023"
+              },
+              "col6": {
+                "text": "82"
+              },
+              "col7": {
+                "text": "16"
+              },
+              "col8": {
+                "text": "25107-25130"
+              }
+            },
+            {
+              "col1": {
+                "text": "3"
+              },
+              "col2": {
+                "text": "Chinnappan, C. V., John William, A. D., Nidamanuri, S. K. C., Jayalakshmi, S., Bogani, R., Thanapal, P., & Syed Masood, J. A. I."
+              },
+              "col3": {
+                "text": "IOT-Enabled Chlorine Level Assessment and Prediction in Water Monitoring System Using Machine Learning"
+              },
+              "col4": {
+                "text": "Electronics"
+              },
+              "col5": {
+                "text": "2023"
+              },
+              "col6": {
+                "text": "12"
+              },
+              "col7": {
+                "text": "6"
+              },
+              "col8": {
+                "text": "1458"
+              }
+            },
+            {
+              "col1": {
+                "text": "4"
+              },
+              "col2": {
+                "text": "Ali, M. H., Jaber, M. M., Alfred Daniel, J., Vignesh, C. C., Meenakshisundaram, I., Kumar, B. S., & Punitha, P."
+              },
+              "col3": {
+                "text": "Autonomous vehicles decision-making enhancement using self-determination theory and mixed-precision neural networks"
+              },
+              "col4": {
+                "text": "Multimedia Tools and Applications"
+              },
+              "col5": {
+                "text": "2023"
+              },
+              "col6": {
+                "text": "9"
+              },
+              "col7": {
+                "text": ""
+              },
+              "col8": {
+                "text": "1-24"
+              }
+            },
+            {
+              "col1": {
+                "text": "5"
+              },
+              "col2": {
+                "text": "John William, A. D., Rajendran, S., Pranam, P., Berry, Y., Sreedharan, A., Gul, J., & Paul, A."
+              },
+              "col3": {
+                "text": "Blockchain technologies: smart contracts for consumer electronics data sharing and secure payment"
+              },
+              "col4": {
+                "text": "Electronics"
+              },
+              "col5": {
+                "text": "2022"
+              },
+              "col6": {
+                "text": "12"
+              },
+              "col7": {
+                "text": "1"
+              },
+              "col8": {
+                "text": "208"
+              }
+            }
           ]
         },
         {
-          "faculty_name": "Ms. R. Ragavi",
-          "content": [
-            "Vijithra and Ragavi Ravichandran., Biowarfare – A Peril Gaining Ground, Journal of Critical Reviews. ISSN-2394-5125 Vol 7, Issue 7, 2020."
+          "title": "Dr. M. Vigenesh Publications",
+          "head": [
+            {
+              "id": "col1",
+              "label": "S.No"
+            },
+            {
+              "id": "col2",
+              "label": "Author Name"
+            },
+            {
+              "id": "col3",
+              "label": "Title of the Paper"
+            },
+            {
+              "id": "col4",
+              "label": "Journal Name"
+            },
+            {
+              "id": "col5",
+              "label": "Year of Publication"
+            },
+            {
+              "id": "col6",
+              "label": "Volume"
+            },
+            {
+              "id": "col7",
+              "label": "Issue No"
+            },
+            {
+              "id": "col8",
+              "label": "PP"
+            }
+          ],
+          "data": [
+            {
+              "col1": {
+                "text": "1"
+              },
+              "col2": {
+                "text": "Ramkumar, M., Gowtham, M.S., Syed Jamaesha, S., Vigenesh, M."
+              },
+              "col3": {
+                "text": "Attention induced multi-head convolutional neural network organization with MobileNetv1 transfer learning and COVID-19 diagnosis using jellyfish search optimization process on chest X-ray images"
+              },
+              "col4": {
+                "text": "Biomedical Signal Processing and Control"
+              },
+              "col5": {
+                "text": "2024"
+              },
+              "col6": {
+                "text": "93"
+              },
+              "col7": {
+                "text": "106133"
+              },
+              "col8": {
+                "text": ""
+              }
+            },
+            {
+              "col1": {
+                "text": "2"
+              },
+              "col2": {
+                "text": "Gowtham, M.S., Vigenesh, M., Ramkumar, M."
+              },
+              "col3": {
+                "text": "An artificial immune system-based algorithm for selfish node detection in Mobile Ad Hoc Networks (MANETs)"
+              },
+              "col4": {
+                "text": "Transactions on Emerging Telecommunications Technologies"
+              },
+              "col5": {
+                "text": "2024"
+              },
+              "col6": {
+                "text": "35"
+              },
+              "col7": {
+                "text": "2"
+              },
+              "col8": {
+                "text": ""
+              }
+            },
+            {
+              "col1": {
+                "text": "3"
+              },
+              "col2": {
+                "text": "Vigenesh, M., Santhosh, R."
+              },
+              "col3": {
+                "text": "An efficient stream region sink position analysis model for routing attack detection in mobile ad hoc networks"
+              },
+              "col4": {
+                "text": "Computers and Electrical Engineering"
+              },
+              "col5": {
+                "text": "2019"
+              },
+              "col6": {
+                "text": "74"
+              },
+              "col7": {
+                "text": ""
+              },
+              "col8": {
+                "text": "273-280"
+              }
+            },
+            {
+              "col1": {
+                "text": "4"
+              },
+              "col2": {
+                "text": "Vigenesh, M., Ravivarman, G., Singh, P., Sharma, D., Tiwari, M."
+              },
+              "col3": {
+                "text": "An Intense Systematic Review of Mobile Agent Based Harmful Threats and Attack Detection Systems in IOT Networks"
+              },
+              "col4": {
+                "text": "International Conference on Advance Computing and Innovative Technologies in Engineering (ICACITE 2023)"
+              },
+              "col5": {
+                "text": "2023"
+              },
+              "col6": {
+                "text": "3"
+              },
+              "col7": {
+                "text": ""
+              },
+              "col8": {
+                "text": "824–827"
+              }
+            },
+            {
+              "col1": {
+                "text": "5"
+              },
+              "col2": {
+                "text": "Singh, P., Vishnoi, R., Malik, S., Antran Vijay, S.A., Borade, M.R."
+              },
+              "col3": {
+                "text": "Advancing Wireless Communication: A Comprehensive Study on Multi-User MIMO-OFDM Techniques"
+              },
+              "col4": {
+                "text": "Proceedings of International Conference on Contemporary Computing and Informatics (IC3I 2023)"
+              },
+              "col5": {
+                "text": "2023"
+              },
+              "col6": {
+                "text": "1"
+              },
+              "col7": {
+                "text": ""
+              },
+              "col8": {
+                "text": "2126–2130"
+              }
+            }
           ]
         },
         {
-          "faculty_name": "Ms. T. V. Jemilakshmi",
-          "content": [
-            "V. Jemilakshmi, Postharvest Quality Enhancement of Fruits and Vegetables Using Edible Coatings. Journal of Critical Reviews. ISSN-2394-5125 Vol 7, Issue 7, 2020."
+          "title": "Dr. R. Dhanapal Publications",
+          "head": [
+            {
+              "id": "col1",
+              "label": "S.No"
+            },
+            {
+              "id": "col2",
+              "label": "Author Name"
+            },
+            {
+              "id": "col3",
+              "label": "Title of the Paper"
+            },
+            {
+              "id": "col4",
+              "label": "Journal Name"
+            },
+            {
+              "id": "col5",
+              "label": "Year of Publication"
+            },
+            {
+              "id": "col6",
+              "label": "Volume"
+            },
+            {
+              "id": "col7",
+              "label": "Issue No"
+            },
+            {
+              "id": "col8",
+              "label": "PP"
+            }
+          ],
+          "data": [
+            {
+              "col1": {
+                "text": "1"
+              },
+              "col2": {
+                "text": "R. Dhanapal, K. Chandramohan, A. Manikandan, S. Ramalingam"
+              },
+              "col3": {
+                "text": "Performance Evaluation of VANET using Directional Location Aided Routing (D-LAR) Protocol with Sleep Scheduling Algorithm"
+              },
+              "col4": {
+                "text": "Ain Shams Engineering",
+                "journalLink": ""
+              },
+              "col5": {
+                "text": "March 2024"
+              },
+              "col6": {
+                "text": "15"
+              },
+              "col7": {
+                "text": "3"
+              },
+              "col8": {
+                "text": "102458 (1-7)"
+              }
+            },
+            {
+              "col1": {
+                "text": "2"
+              },
+              "col2": {
+                "text": "R. Dhanapal, P. Anbumani, GKD Prasanna Venkatesan"
+              },
+              "col3": {
+                "text": "PIRAP: AASM: An Advanced Attribute-Based Security Model for Enhancing Trustworthy Data Sharing in Cloud Computing"
+              },
+              "col4": {
+                "text": "International Journal of Cooperative Information Systems",
+                "journalLink": ""
+              },
+              "col5": {
+                "text": "Jan 2024"
+              },
+              "col6": {
+                "text": "33"
+              },
+              "col7": {
+                "text": "1"
+              },
+              "col8": {
+                "text": "2350008 (1-20)"
+              }
+            },
+            {
+              "col1": {
+                "text": "3"
+              },
+              "col2": {
+                "text": "S. Harihara Gopalan, V. Vignesh, D. Udaya Suriya Rajkumar, A.K. Velmurugan, D. Deepa, R. Dhanapal"
+              },
+              "col3": {
+                "text": "Fuzzified swarm intelligence framework using FPSOR algorithm for high-speed MANET-Internet of Things (IoT)"
+              },
+              "col4": {
+                "text": "Measurement: Sensors",
+                "journalLink": ""
+              },
+              "col5": {
+                "text": "February 2024"
+              },
+              "col6": {
+                "text": "31"
+              },
+              "col7": {
+                "text": "–"
+              },
+              "col8": {
+                "text": "101000 (1-8)"
+              }
+            },
+            {
+              "col1": {
+                "text": "4"
+              },
+              "col2": {
+                "text": "Nilabar Nisha U, Manikandan A, Venkataramanan C, Dhanapal R"
+              },
+              "col3": {
+                "text": "A Score based link delay aware routing protocol to improve energy optimization in wireless sensor network"
+              },
+              "col4": {
+                "text": "Journal of Engineering Research",
+                "journalLink": "https://www.sciencedirect.com/journal/journal-of-engineering-research"
+              },
+              "col5": {
+                "text": "December 2023"
+              },
+              "col6": {
+                "text": "11"
+              },
+              "col7": {
+                "text": "4"
+              },
+              "col8": {
+                "text": "404-413"
+              }
+            },
+            {
+              "col1": {
+                "text": "5"
+              },
+              "col2": {
+                "text": "Vishwanadham Mandala, T. Senthilnathan, S. Suganyadevi, S. Gobhinath, Dhanasekaran Selvaraj, R. Dhanapal"
+              },
+              "col3": {
+                "text": "An optimized back propagation neural network for automated evaluation of health condition using sensor data"
+              },
+              "col4": {
+                "text": "Measurement: Sensors",
+                "journalLink": ""
+              },
+              "col5": {
+                "text": "February 2024"
+              },
+              "col6": {
+                "text": "29"
+              },
+              "col7": {
+                "text": "–"
+              },
+              "col8": {
+                "text": "100846 (1-7)"
+              }
+            }
           ]
         },
         {
-          "faculty_name": "Ms. K. Santhiya",
-          "content": [
-            "Santhiya K, Santhosh S and Anushya V. An outlook on Covid-19: Global Perspective. Proteus Journal. Vol 8, 126 -141. Impact Factor: 1"
+          "title": "Dr. R. Santhosh Publications",
+          "head": [
+            {
+              "id": "col1",
+              "label": "S.No"
+            },
+            {
+              "id": "col2",
+              "label": "Author Name"
+            },
+            {
+              "id": "col3",
+              "label": "Title of the Paper"
+            },
+            {
+              "id": "col4",
+              "label": "Journal Name"
+            },
+            {
+              "id": "col5",
+              "label": "Year of Publication"
+            },
+            {
+              "id": "col6",
+              "label": "Volume"
+            },
+            {
+              "id": "col7",
+              "label": "Issue No"
+            },
+            {
+              "id": "col8",
+              "label": "PP"
+            }
+          ],
+          "data": [
+            {
+              "col1": {
+                "text": "1"
+              },
+              "col2": {
+                "text": "Sivadasan, E.T.; Mohana Sundaram, N.; Santhosh, R.",
+                "authorLinks": [
+                  "https://www.scopus.com/authid/detail.uri?authorId=56857578300",
+                  "https://www.scopus.com/authid/detail.uri?authorId=56267303900",
+                  "https://www.scopus.com/authid/detail.uri?authorId=57392375700"
+                ]
+              },
+              "col3": {
+                "text": "Stock market forecasting using deep learning with long short-term memory and gated recurrent unit"
+              },
+              "col4": {
+                "text": "Soft Computing",
+                "journalLink": "https://www.scopus.com/sourceid/28554?origin=resultslist"
+              },
+              "col5": {
+                "text": "2024"
+              },
+              "col6": {
+                "text": "28"
+              },
+              "col7": {
+                "text": "4"
+              },
+              "col8": {
+                "text": "3267–3282"
+              }
+            },
+            {
+              "col1": {
+                "text": "2"
+              },
+              "col2": {
+                "text": "Premkumar, N.; Santhosh, R.",
+                "authorLinks": [
+                  "https://www.scopus.com/authid/detail.uri?authorId=57226561076",
+                  "https://www.scopus.com/authid/detail.uri?authorId=57392375700"
+                ]
+              },
+              "col3": {
+                "text": "Pelican optimization algorithm with blockchain for secure load balancing in fog computing",
+                "paperLink": "https://www.scopus.com/record/display.uri?eid=2-s2.0-85176748913&origin=resultslist"
+              },
+              "col4": {
+                "text": "Multimedia Tools and Applications",
+                "journalLink": "https://www.scopus.com/sourceid/25627?origin=resultslist"
+              },
+              "col5": {
+                "text": "2023"
+              },
+              "col6": {
+                "text": "1"
+              },
+              "col7": {
+                "text": "1"
+              },
+              "col8": {
+                "text": "1–23"
+              }
+            },
+            {
+              "col1": {
+                "text": "3"
+              },
+              "col2": {
+                "text": "Bhanu, D.; Santhosh, R.",
+                "authorLinks": [
+                  "https://www.scopus.com/authid/detail.uri?authorId=57191960002",
+                  "https://www.scopus.com/authid/detail.uri?authorId=57392375700"
+                ]
+              },
+              "col3": {
+                "text": "Fuzzy enhanced location aware secure multicast routing protocol for balancing energy and security in wireless sensor network",
+                "paperLink": "https://www.scopus.com/record/display.uri?eid=2-s2.0-85168916578&origin=resultslist"
+              },
+              "col4": {
+                "text": "Wireless Networks",
+                "journalLink": "https://www.scopus.com/sourceid/17569?origin=resultslist"
+              },
+              "col5": {
+                "text": "2023"
+              },
+              "col6": {
+                "text": "1"
+              },
+              "col7": {
+                "text": "1"
+              },
+              "col8": {
+                "text": "1–20"
+              }
+            },
+            {
+              "col1": {
+                "text": "4"
+              },
+              "col2": {
+                "text": "Khan, M.S.A.; Santhosh, R.",
+                "authorLinks": [
+                  "https://www.scopus.com/authid/detail.uri?authorId=57323807300",
+                  "https://www.scopus.com/authid/detail.uri?authorId=57392375700"
+                ]
+              },
+              "col3": {
+                "text": "Task scheduling in cloud computing using hybrid optimization algorithm",
+                "paperLink": "https://www.scopus.com/record/display.uri?eid=2-s2.0-85118557415&origin=resultslist"
+              },
+              "col4": {
+                "text": "Soft Computing",
+                "journalLink": "https://www.scopus.com/sourceid/28554?origin=resultslist"
+              },
+              "col5": {
+                "text": "2022"
+              },
+              "col6": {
+                "text": "26"
+              },
+              "col7": {
+                "text": "23"
+              },
+              "col8": {
+                "text": "13069–13079"
+              }
+            },
+            {
+              "col1": {
+                "text": "5"
+              },
+              "col2": {
+                "text": "Khan, M.S.A.; Santhosh, R.",
+                "authorLinks": [
+                  "https://www.scopus.com/authid/detail.uri?authorId=57323807300",
+                  "https://www.scopus.com/authid/detail.uri?authorId=57392375700"
+                ]
+              },
+              "col3": {
+                "text": "Hybrid Optimization Algorithm for VM Migration in Cloud Computing",
+                "paperLink": "https://www.scopus.com/record/display.uri?eid=2-s2.0-85132337111&origin=resultslist"
+              },
+              "col4": {
+                "text": "Computers and Electrical Engineering",
+                "journalLink": "https://www.scopus.com/sourceid/18159?origin=resultslist"
+              },
+              "col5": {
+                "text": "2022"
+              },
+              "col6": {
+                "text": "102"
+              },
+              "col7": {
+                "text": "–"
+              },
+              "col8": {
+                "text": "108–152"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Dr. S. P. Sasirekha Publications",
+          "head": [
+            {
+              "id": "col1",
+              "label": "S.No"
+            },
+            {
+              "id": "col2",
+              "label": "Author Name"
+            },
+            {
+              "id": "col3",
+              "label": "Title of the Paper"
+            },
+            {
+              "id": "col4",
+              "label": "Journal Name"
+            },
+            {
+              "id": "col5",
+              "label": "Year of Publication"
+            },
+            {
+              "id": "col6",
+              "label": "Volume"
+            },
+            {
+              "id": "col7",
+              "label": "Issue No"
+            },
+            {
+              "id": "col8",
+              "label": "PP"
+            }
+          ],
+          "data": [
+            {
+              "col1": {
+                "text": "1"
+              },
+              "col2": {
+                "text": "Swathika, R.; Radha, N.; Sasirekha, S. P.; Dhanabal, S."
+              },
+              "col3": {
+                "text": "Flood susceptibility in urban environment using multi-layered neural network model from satellite imagery sources"
+              },
+              "col4": {
+                "text": "Global Nest Journal"
+              },
+              "col5": {
+                "text": "2023"
+              },
+              "col6": {
+                "text": "25"
+              },
+              "col7": {
+                "text": "8"
+              },
+              "col8": {
+                "text": "60–73"
+              }
+            },
+            {
+              "col1": {
+                "text": "2"
+              },
+              "col2": {
+                "text": "Sherubha, P.; Jubair Ahmed, L.; Kannan, K. S.; Sasirekha, S. P."
+              },
+              "col3": {
+                "text": "Adaptive boosting model for breast cancer prediction"
+              },
+              "col4": {
+                "text": "Journal of Intelligent and Fuzzy Systems"
+              },
+              "col5": {
+                "text": "2023"
+              },
+              "col6": {
+                "text": "45"
+              },
+              "col7": {
+                "text": "2"
+              },
+              "col8": {
+                "text": "3417–3431"
+              }
+            },
+            {
+              "col1": {
+                "text": "3"
+              },
+              "col2": {
+                "text": "Sherubha, P.; Sasirekha, S. P.; Dinesh Kumar Anguraj, A.; Vakula Rani, J."
+              },
+              "col3": {
+                "text": "An Efficient Unsupervised Learning Approach for Detecting Anomaly in Cloud"
+              },
+              "col4": {
+                "text": "Computer Systems Science and Engineering"
+              },
+              "col5": {
+                "text": "2023"
+              },
+              "col6": {
+                "text": "45"
+              },
+              "col7": {
+                "text": "1"
+              },
+              "col8": {
+                "text": "149–166"
+              }
+            },
+            {
+              "col1": {
+                "text": "4"
+              },
+              "col2": {
+                "text": "Nagendra Singh; Sasirekha, S. P.; Amol Dhakne; Sai Thrinath, B. V.; Ramya, D.; Thiagarajan, R."
+              },
+              "col3": {
+                "text": "IOT enabled hybrid model with learning ability for E-health care systems"
+              },
+              "col4": {
+                "text": "Measurement: Sensors"
+              },
+              "col5": {
+                "text": "2022"
+              },
+              "col6": {
+                "text": "24"
+              },
+              "col7": {
+                "text": "1"
+              },
+              "col8": {
+                "text": "1–5"
+              }
+            },
+            {
+              "col1": {
+                "text": "5"
+              },
+              "col2": {
+                "text": "Sherubha, P.; Sasirekha, S. P.; Manikandan, V.; Gowsic, K.; Mohanasundaram, N."
+              },
+              "col3": {
+                "text": "Graph based event measurement for analyzing distributed anomalies in sensor networks"
+              },
+              "col4": {
+                "text": "Sādhanā"
+              },
+              "col5": {
+                "text": "2020"
+              },
+              "col6": {
+                "text": "45"
+              },
+              "col7": {
+                "text": "–"
+              },
+              "col8": {
+                "text": "1–5"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Dr. T. Mohanraj Publications",
+          "head": [
+            {
+              "id": "col1",
+              "label": "S.No"
+            },
+            {
+              "id": "col2",
+              "label": "Author Name"
+            },
+            {
+              "id": "col3",
+              "label": "Title of the Paper"
+            },
+            {
+              "id": "col4",
+              "label": "Journal Name"
+            },
+            {
+              "id": "col5",
+              "label": "Year of Publication"
+            },
+            {
+              "id": "col6",
+              "label": "Volume"
+            },
+            {
+              "id": "col7",
+              "label": "Issue No"
+            },
+            {
+              "id": "col8",
+              "label": "PP"
+            }
+          ],
+          "data": [
+            {
+              "col1": {
+                "text": "1"
+              },
+              "col2": {
+                "text": "Mohanraj, T.; Santhosh, R."
+              },
+              "col3": {
+                "text": "Security and privacy issue in multi-cloud accommodating Intrusion Detection System"
+              },
+              "col4": {
+                "text": "Distributed and Parallel Databases"
+              },
+              "col5": {
+                "text": "2023"
+              },
+              "col6": {
+                "text": "41"
+              },
+              "col7": {
+                "text": "1"
+              },
+              "col8": {
+                "text": "155–155"
+              }
+            },
+            {
+              "col1": {
+                "text": "2"
+              },
+              "col2": {
+                "text": "Mohanraj, T.; Santhosh, R."
+              },
+              "col3": {
+                "text": "Hybrid encryption algorithm for big data security in the Hadoop distributed file system"
+              },
+              "col4": {
+                "text": "Computer Assisted Methods in Engineering and Science"
+              },
+              "col5": {
+                "text": "2022"
+              },
+              "col6": {
+                "text": "29"
+              },
+              "col7": {
+                "text": "1–2"
+              },
+              "col8": {
+                "text": "33–48"
+              }
+            },
+            {
+              "col1": {
+                "text": "3"
+              },
+              "col2": {
+                "text": "Pavalarajan, S.; Arun Kumar, B.; Shahul Hammed, S.; Haripriya, K.; Preethi, C.; Mohanraj, T."
+              },
+              "col3": {
+                "text": "Detection of Alzheimer’s disease at Early Stage using Machine Learning"
+              },
+              "col4": {
+                "text": "International Conference on Advanced Computing Technologies and Applications"
+              },
+              "col5": {
+                "text": "2022"
+              },
+              "col6": {
+                "text": "3"
+              },
+              "col7": {
+                "text": "4"
+              },
+              "col8": {
+                "text": "1–5"
+              }
+            },
+            {
+              "col1": {
+                "text": "4"
+              },
+              "col2": {
+                "text": "Mohanraj, T.; Santhosh, R."
+              },
+              "col3": {
+                "text": "Multi-swarm optimization model for multi-cloud scheduling for enhanced quality of services"
+              },
+              "col4": {
+                "text": "Soft Computing"
+              },
+              "col5": {
+                "text": "2022"
+              },
+              "col6": {
+                "text": "26"
+              },
+              "col7": {
+                "text": "23"
+              },
+              "col8": {
+                "text": "12985–12995"
+              }
+            },
+            {
+              "col1": {
+                "text": "5"
+              },
+              "col2": {
+                "text": "Sreehari, K.; Anas, T. P.; Krishna, A. S. A.; Mohamed Suhail, B.; Mohanraj, T."
+              },
+              "col3": {
+                "text": "Automated Database Management System using Artificial Intelligence"
+              },
+              "col4": {
+                "text": "International Conference on Electronics and Sustainable Communication Systems"
+              },
+              "col5": {
+                "text": "2022"
+              },
+              "col6": {
+                "text": "21"
+              },
+              "col7": {
+                "text": "2"
+              },
+              "col8": {
+                "text": "789–796"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Mr. Anandhasilambarasan Publications",
+          "head": [
+            {
+              "id": "col1",
+              "label": "S.No"
+            },
+            {
+              "id": "col2",
+              "label": "Author Name"
+            },
+            {
+              "id": "col3",
+              "label": "Title of the Paper"
+            },
+            {
+              "id": "col4",
+              "label": "Journal Name"
+            },
+            {
+              "id": "col5",
+              "label": "Year of Publication"
+            },
+            {
+              "id": "col6",
+              "label": "Volume"
+            },
+            {
+              "id": "col7",
+              "label": "Issue No"
+            },
+            {
+              "id": "col8",
+              "label": "PP"
+            }
+          ],
+          "data": [
+            {
+              "col1": {
+                "text": "1"
+              },
+              "col2": {
+                "text": "Kumar, P.; Anandhasilambarasan, D.; Kumar, B.; Karthigaikumar, P.; Ingle, A."
+              },
+              "col3": {
+                "text": "Improving UHVDC Wall Bearings Electric Reliability: Grading Ring Optimization and Field Investigation"
+              },
+              "col4": {
+                "text": "International Conference on Advances in Computation, Communication and Information Technology"
+              },
+              "col5": {
+                "text": "2023"
+              },
+              "col6": {
+                "text": ""
+              },
+              "col7": {
+                "text": ""
+              },
+              "col8": {
+                "text": "123–127"
+              }
+            },
+            {
+              "col1": {
+                "text": "2"
+              },
+              "col2": {
+                "text": "Sharma, U.C.; Kumar; J.R.R.; Kumari, M.; Latha, B.; Jadhav, P."
+              },
+              "col3": {
+                "text": "Analyzing and Developing the Security of DNS-Based Authentication in Wireless Sensor Network"
+              },
+              "col4": {
+                "text": "International Conference on Smart Generation Computing, Communication and Networking, SMART GENCON 2023"
+              },
+              "col5": {
+                "text": "2023"
+              },
+              "col6": {
+                "text": "3"
+              },
+              "col7": {
+                "text": ""
+              },
+              "col8": {
+                "text": ""
+              }
+            },
+            {
+              "col1": {
+                "text": "3"
+              },
+              "col2": {
+                "text": "Kumar, J.R.R.; Chaturvedi, M.; Anandhasilambarasan, D.; Nawadkar, A.R.; Va, M."
+              },
+              "col3": {
+                "text": "Assessing the Efficiency of AI for Multivariate Data Analysis"
+              },
+              "col4": {
+                "text": "International Conference on Smart Generation Computing, Communication and Networking, SMART GENCON 2023"
+              },
+              "col5": {
+                "text": "2023"
+              },
+              "col6": {
+                "text": "3"
+              },
+              "col7": {
+                "text": ""
+              },
+              "col8": {
+                "text": ""
+              }
+            },
+            {
+              "col1": {
+                "text": "4"
+              },
+              "col2": {
+                "text": "Joyce Jacob, J.; Jadhav, V.D.; Singh, B.; Ganguli, R.; Anandhasilambarasan, D."
+              },
+              "col3": {
+                "text": "The Estimation Analysis and Impact of Mobile Device Security on Wireless Network Security"
+              },
+              "col4": {
+                "text": "International Conference on Smart Generation Computing, Communication and Networking, SMART GENCON 2023"
+              },
+              "col5": {
+                "text": "2023"
+              },
+              "col6": {
+                "text": "3"
+              },
+              "col7": {
+                "text": ""
+              },
+              "col8": {
+                "text": ""
+              }
+            },
+            {
+              "col1": {
+                "text": "5"
+              },
+              "col2": {
+                "text": "Prakash, E.P.; Satheshkumar, K.; Anandhasilambarasan, D.; Prasath, B."
+              },
+              "col3": {
+                "text": "An Intelligent Deep Learning Strategy for Breast Cancer prediction using feature ensemble learning"
+              },
+              "col4": {
+                "text": "IEEE International Conference on Research Methodologies in Knowledge Management, Artificial Intelligence and Telecommunication Engineering, RMKMATE 2023"
+              },
+              "col5": {
+                "text": "2023"
+              },
+              "col6": {
+                "text": "1"
+              },
+              "col7": {
+                "text": ""
+              },
+              "col8": {
+                "text": ""
+              }
+            }
+          ]
+        },
+        {
+          "title": "Mrs. K. Malathi Publications",
+          "head": [
+            {
+              "id": "col1",
+              "label": "S.No"
+            },
+            {
+              "id": "col2",
+              "label": "Author Name"
+            },
+            {
+              "id": "col3",
+              "label": "Title of the Paper"
+            },
+            {
+              "id": "col4",
+              "label": "Journal Name"
+            },
+            {
+              "id": "col5",
+              "label": "Year of Publication"
+            },
+            {
+              "id": "col6",
+              "label": "Volume"
+            },
+            {
+              "id": "col7",
+              "label": "Issue No"
+            },
+            {
+              "id": "col8",
+              "label": "PP"
+            }
+          ],
+          "data": [
+            {
+              "col1": {
+                "text": "1"
+              },
+              "col2": {
+                "authors": [
+                  {
+                    "name": "K Malathi"
+                  },
+                  {
+                    "name": "N. Mohanasundaram"
+                  },
+                  {
+                    "name": "Santhosh R",
+                    "link": "https://ieeexplore.ieee.org/author/37089791541"
+                  },
+                  {
+                    "name": "Parthasarathy V",
+                    "link": "https://ieeexplore.ieee.org/author/37089755209"
+                  },
+                  {
+                    "name": "Saravana Kumar G",
+                    "link": "https://ieeexplore.ieee.org/author/799847613012744"
+                  },
+                  {
+                    "name": "Somnath Roy"
+                  },
+                  {
+                    "name": "Bappaditya Kanrar"
+                  }
+                ]
+              },
+              "col3": {
+                "text": "Identification Tea Pest Infestation Against Red Spider Mite And Red Slug Catterpillar",
+                "join_link": "https://ieeexplore.ieee.org/abstract/document/10434106/"
+              },
+              "col4": {
+                "text": "2023 International Conference on Emerging Research in Computational Science (ICERCS)"
+              },
+              "col5": {
+                "text": "Feb 2024"
+              },
+              "col6": {
+                "text": "–"
+              },
+              "col7": {
+                "text": "–"
+              },
+              "col8": {
+                "text": "ICERCS2023-949"
+              }
+            },
+            {
+              "col1": {
+                "text": "2"
+              },
+              "col2": {
+                "authors": [
+                  {
+                    "name": "D Aishwarya"
+                  },
+                  {
+                    "name": "RP Charulatha"
+                  },
+                  {
+                    "name": "M Niranjan"
+                  },
+                  {
+                    "name": "K Malathi"
+                  }
+                ]
+              },
+              "col3": {
+                "text": "Intelligent Autism Disease Prediction System Using Machine Learning",
+                "join_link": "https://ieeexplore.ieee.org/abstract/document/10220779/"
+              },
+              "col4": {
+                "text": "2023 5th International Conference on Inventive Research in Computing Applications (ICIRCA)"
+              },
+              "col5": {
+                "text": "2023/08/03"
+              },
+              "col6": {
+                "text": "–"
+              },
+              "col7": {
+                "text": "–"
+              },
+              "col8": {
+                "text": "1146-1151"
+              }
+            },
+            {
+              "col1": {
+                "text": "3"
+              },
+              "col2": {
+                "authors": [
+                  {
+                    "name": "D Aishwarya"
+                  },
+                  {
+                    "name": "RP Charulatha"
+                  },
+                  {
+                    "name": "M Niranjan"
+                  },
+                  {
+                    "name": "K Malathi"
+                  }
+                ]
+              },
+              "col3": {
+                "text": "Effective Prediction of Autism Disease using Data Mining Techniques",
+                "join_link": "https://ieeexplore.ieee.org/abstract/document/10134517/"
+              },
+              "col4": {
+                "text": "2023 International Conference on Inventive Computation Technologies (ICICT)"
+              },
+              "col5": {
+                "text": "2023/04/26"
+              },
+              "col6": {
+                "text": "–"
+              },
+              "col7": {
+                "text": "–"
+              },
+              "col8": {
+                "text": "761-766"
+              }
+            },
+            {
+              "col1": {
+                "text": "4"
+              },
+              "col2": {
+                "authors": [
+                  {
+                    "name": "JS Gopinath"
+                  },
+                  {
+                    "name": "A Elsden Christober"
+                  },
+                  {
+                    "name": "KL Ravindrananth"
+                  },
+                  {
+                    "name": "K Malathi"
+                  }
+                ]
+              },
+              "col3": {
+                "text": "LoRa WAN Communication using Wireless Sensor Network",
+                "join_link": "https://ieeexplore.ieee.org/abstract/document/9936293/"
+              },
+              "col4": {
+                "text": "2022 International Conference on Edge Computing and Applications (ICECAA)"
+              },
+              "col5": {
+                "text": "2022/10/13"
+              },
+              "col6": {
+                "text": "–"
+              },
+              "col7": {
+                "text": "–"
+              },
+              "col8": {
+                "text": "406-412"
+              }
+            },
+            {
+              "col1": {
+                "text": "5"
+              },
+              "col2": {
+                "authors": [
+                  {
+                    "name": "Riyasdeen A",
+                    "link": "https://ieeexplore.ieee.org/author/37089591934"
+                  },
+                  {
+                    "name": "Vimal T",
+                    "link": "https://ieeexplore.ieee.org/author/37089591502"
+                  },
+                  {
+                    "name": "Thilipkumar V.S",
+                    "link": "https://ieeexplore.ieee.org/author/37089587947"
+                  },
+                  {
+                    "name": "Malathi K",
+                    "link": "https://ieeexplore.ieee.org/author/37089588298"
+                  }
+                ]
+              },
+              "col3": {
+                "text": "Machine Learning Approaches based Fake News Detection",
+                "join_link": "https://ieeexplore.ieee.org/abstract/document/9936460/"
+              },
+              "col4": {
+                "text": "2022 International Conference on Edge Computing and Applications (ICECAA)"
+              },
+              "col5": {
+                "text": "2022/10/13"
+              },
+              "col6": {
+                "text": "–"
+              },
+              "col7": {
+                "text": "–"
+              },
+              "col8": {
+                "text": "1406-1410"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Mrs. K. Tharageswari Publications",
+          "head": [
+            {
+              "id": "col1",
+              "label": "S.No"
+            },
+            {
+              "id": "col2",
+              "label": "Author Name"
+            },
+            {
+              "id": "col3",
+              "label": "Title of the Paper"
+            },
+            {
+              "id": "col4",
+              "label": "Journal Name"
+            },
+            {
+              "id": "col5",
+              "label": "Year of Publication"
+            },
+            {
+              "id": "col6",
+              "label": "Volume"
+            },
+            {
+              "id": "col7",
+              "label": "Issue No"
+            },
+            {
+              "id": "col8",
+              "label": "PP"
+            }
+          ],
+          "data": [
+            {
+              "col1": {
+                "text": "1"
+              },
+              "col2": {
+                "authors": [
+                  {
+                    "name": "Palanikumar S"
+                  },
+                  {
+                    "name": "Queen M.P.F"
+                  },
+                  {
+                    "name": "Mathupriya S"
+                  },
+                  {
+                    "name": "Tharageswari K"
+                  }
+                ]
+              },
+              "col3": {
+                "text": "PALMPRINT AUTHENTICATION USING SYMBOLIC AGGREGATE APPROXIMATION FEATURES WITH IMPROVED ENHANCEMENT TECHNIQUES"
+              },
+              "col4": {
+                "text": "ARPN Journal of Engineering and Applied Sciences"
+              },
+              "col5": {
+                "text": "2023"
+              },
+              "col6": {
+                "text": "18"
+              },
+              "col7": {
+                "text": "4"
+              },
+              "col8": {
+                "text": "401-411"
+              }
+            },
+            {
+              "col1": {
+                "text": "2"
+              },
+              "col2": {
+                "authors": [
+                  {
+                    "name": "Tharageswari K"
+                  },
+                  {
+                    "name": "Mohana Sundaram N"
+                  },
+                  {
+                    "name": "Santhosh R"
+                  }
+                ]
+              },
+              "col3": {
+                "text": "A CONCATENATION APPROACH-BASED DISEASE PREDICTION MODEL FOR SUSTAINABLE HEALTH CARE SYSTEM"
+              },
+              "col4": {
+                "text": "System Research and Information Technologies"
+              },
+              "col5": {
+                "text": "2023"
+              },
+              "col6": {
+                "text": ""
+              },
+              "col7": {
+                "text": "3"
+              },
+              "col8": {
+                "text": "81-95"
+              }
+            },
+            {
+              "col1": {
+                "text": "3"
+              },
+              "col2": {
+                "authors": [
+                  {
+                    "name": "Tharageswari K"
+                  },
+                  {
+                    "name": "Kumar P.M.V"
+                  },
+                  {
+                    "name": "Kiruba J"
+                  }
+                ]
+              },
+              "col3": {
+                "text": "An Efficient Gusture Recognition For Dumb And Deaf People Using Iot"
+              },
+              "col4": {
+                "text": "Journal of Critical Reviews"
+              },
+              "col5": {
+                "text": "2020"
+              },
+              "col6": {
+                "text": "7"
+              },
+              "col7": {
+                "text": "4"
+              },
+              "col8": {
+                "text": "858-861"
+              }
+            },
+            {
+              "col1": {
+                "text": "4"
+              },
+              "col2": {
+                "authors": [
+                  {
+                    "name": "Saraswathi R"
+                  },
+                  {
+                    "name": "Pavithra D"
+                  },
+                  {
+                    "name": "Gokuldev S"
+                  },
+                  {
+                    "name": "Jebakumar D.I"
+                  },
+                  {
+                    "name": "Tharageswari K"
+                  }
+                ]
+              },
+              "col3": {
+                "text": "Designing the Prediction Protocol based on Sparrow Search Optimization Algorithm with Vibrational Auto Encoder in E-Healthcare"
+              },
+              "col4": {
+                "text": "International Conference on Smart Systems and Inventive Technology, ICSSIT 2023"
+              },
+              "col5": {
+                "text": "2023"
+              },
+              "col6": {
+                "text": ""
+              },
+              "col7": {
+                "text": "5"
+              },
+              "col8": {
+                "text": "1437-1444"
+              }
+            },
+            {
+              "col1": {
+                "text": "5"
+              },
+              "col2": {
+                "authors": [
+                  {
+                    "name": "Thomas A.K"
+                  },
+                  {
+                    "name": "Poovizhi P"
+                  },
+                  {
+                    "name": "Saravanan M"
+                  },
+                  {
+                    "name": "Tharageswari K"
+                  }
+                ]
+              },
+              "col3": {
+                "text": "Animal Intrusion Detection using Deep Learning for Agricultural Fields"
+              },
+              "col4": {
+                "text": "International Conference on Smart Systems and Inventive Technology, 2023"
+              },
+              "col5": {
+                "text": "2023"
+              },
+              "col6": {
+                "text": ""
+              },
+              "col7": {
+                "text": "5"
+              },
+              "col8": {
+                "text": "1021-1027"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Mrs. N. Mekala Publications",
+          "head": [
+            {
+              "id": "col1",
+              "label": "S.No"
+            },
+            {
+              "id": "col2",
+              "label": "Author Name"
+            },
+            {
+              "id": "col3",
+              "label": "Title of the Paper"
+            },
+            {
+              "id": "col4",
+              "label": "Journal Name"
+            },
+            {
+              "id": "col5",
+              "label": "Year of Publication"
+            },
+            {
+              "id": "col6",
+              "label": "Volume"
+            },
+            {
+              "id": "col7",
+              "label": "Issue No"
+            },
+            {
+              "id": "col8",
+              "label": "PP"
+            }
+          ],
+          "data": [
+            {
+              "col1": {
+                "text": "1"
+              },
+              "col2": {
+                "text": "C. Suganthi; K. Padmanaban; S. V. Sudha; N. Mekala"
+              },
+              "col3": {
+                "text": "Neuro-quantum Dimensions based Digital Image Processing for Optimal Edge Extraction"
+              },
+              "col4": {
+                "text": "Neuro Quantology"
+              },
+              "col5": {
+                "text": "2022"
+              },
+              "col6": {
+                "text": "20"
+              },
+              "col7": {
+                "text": "8"
+              },
+              "col8": {
+                "text": "324-330"
+              }
+            },
+            {
+              "col1": {
+                "text": "2"
+              },
+              "col2": {
+                "text": "K. Vinothkumar; N. Mekala; S. P. Sasirekha; R. Reshma"
+              },
+              "col3": {
+                "text": "Predicting High-Risk Areas for Crime Hotspot Using Hybrid KNN Machine Learning Framework",
+                "join_link": "https://www.scopus.com/record/display.uri?eid=2-s2.0-85172228758&origin=resultslist"
+              },
+              "col4": {
+                "text": "2023 5th International Conference on Inventive Research in Computing Applications (ICIRCA)"
+              },
+              "col5": {
+                "text": "2023"
+              },
+              "col6": {
+                "text": "–"
+              },
+              "col7": {
+                "text": "1"
+              },
+              "col8": {
+                "text": "845-852"
+              }
+            },
+            {
+              "col1": {
+                "text": "3"
+              },
+              "col2": {
+                "text": "K. Vinothkumar; K. S. Ranjith; R. R. Vikram; N. Mekala"
+              },
+              "col3": {
+                "text": "Crime Hotspot Identification using SVM in Machine Learning",
+                "join_link": "https://www.scopus.com/record/display.uri?eid=2-s2.0-85159081969&origin=resultslist"
+              },
+              "col4": {
+                "text": "2023 International Conference on Sustainable Computing and Data Communication Systems (ICSCDS)"
+              },
+              "col5": {
+                "text": "2023"
+              },
+              "col6": {
+                "text": "–"
+              },
+              "col7": {
+                "text": "1"
+              },
+              "col8": {
+                "text": "366-369"
+              }
+            },
+            {
+              "col1": {
+                "text": "4"
+              },
+              "col2": {
+                "text": "R. Reshma; R. Santhosh; N. Mekala"
+              },
+              "col3": {
+                "text": "An analytical approach to fraudulent credit card transaction detection using various machine learning algorithms",
+                "join_link": "https://scholar.google.com/scholar?oi=bibs&cluster=2105575960665464239&btnI=1&hl=en"
+              },
+              "col4": {
+                "text": "2023 Second International Conference on Electronics and Renewable Systems (ICEARS)"
+              },
+              "col5": {
+                "text": "2023"
+              },
+              "col6": {
+                "text": "–"
+              },
+              "col7": {
+                "text": "1"
+              },
+              "col8": {
+                "text": "1400-1404"
+              }
+            },
+            {
+              "col1": {
+                "text": "5"
+              },
+              "col2": {
+                "text": "S. Dharshini; S. Geetha; S. Arya; N. Mekala"
+              },
+              "col3": {
+                "text": "An Enhanced Brain Tumor Detection Scheme using a Hybrid Deep Learning Model",
+                "join_link": "https://scholar.google.com/scholar?oi=bibs&cluster=8289623815213405017&btnI=1&hl=en"
+              },
+              "col4": {
+                "text": "2023 Second International Conference on Electronics and Renewable Systems (ICEARS)"
+              },
+              "col5": {
+                "text": "2023"
+              },
+              "col6": {
+                "text": "–"
+              },
+              "col7": {
+                "text": "1"
+              },
+              "col8": {
+                "text": "1395-1399"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Ms. K. Vanitha Publications",
+          "head": [
+            {
+              "id": "col1",
+              "label": "S.No"
+            },
+            {
+              "id": "col2",
+              "label": "Author Name"
+            },
+            {
+              "id": "col3",
+              "label": "Title of the Paper"
+            },
+            {
+              "id": "col4",
+              "label": "Journal Name"
+            },
+            {
+              "id": "col5",
+              "label": "Year of Publication"
+            },
+            {
+              "id": "col6",
+              "label": "Volume"
+            },
+            {
+              "id": "col7",
+              "label": "Issue No"
+            },
+            {
+              "id": "col8",
+              "label": "PP"
+            }
+          ],
+          "data": [
+            {
+              "col1": {
+                "text": "1"
+              },
+              "col2": {
+                "text": "N. Thrimoorthy; R. Chandramma; Soumya Unnikrishnan; K. Vanitha"
+              },
+              "col3": {
+                "text": "Ornstein Uhlenbeck Cache Obliviousness Neural Congestion Control in Wireless Network for IOT Data Transmission",
+                "join_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oyE0J0gAAAAJ&sortby=pubdate&citation_for_view=oyE0J0gAAAAJ:maZDTaKrznsC"
+              },
+              "col4": {
+                "text": "International Journal of Computer Networks and Applications"
+              },
+              "col5": {
+                "text": "2023"
+              },
+              "col6": {
+                "text": "10"
+              },
+              "col7": {
+                "text": "1"
+              },
+              "col8": {
+                "text": "68-83"
+              }
+            },
+            {
+              "col1": {
+                "text": "2"
+              },
+              "col2": {
+                "text": "Dr. Heli Amit Shah; Sweta Kumari Barnwal; Ms. Sakshi Sharma; Arjun Singh; Dr. Monika Abrol; K. Vanitha"
+              },
+              "col3": {
+                "text": "A Time-Frequency Grounded ECG Feature Abstraction Systems based Advanced Design for Improvement of ANN for CA classification",
+                "join_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oyE0J0gAAAAJ&sortby=pubdate&citation_for_view=oyE0J0gAAAAJ:hMod-77fHWUC"
+              },
+              "col4": {
+                "text": "International Journal of Intelligent Systems and Applications in Engineering"
+              },
+              "col5": {
+                "text": "2023"
+              },
+              "col6": {
+                "text": "11"
+              },
+              "col7": {
+                "text": "8"
+              },
+              "col8": {
+                "text": "319-327"
+              }
+            },
+            {
+              "col1": {
+                "text": "3"
+              },
+              "col2": {
+                "text": "K. Chokkanathan; T. R. Mahesh; M. Mohamed Musthafa; K. Vanitha; V. Vivek"
+              },
+              "col3": {
+                "text": "MLPDR: High Performance ML Algorithms for the Prediction of Diabetes Retinopathy",
+                "join_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oyE0J0gAAAAJ&sortby=pubdate&citation_for_view=oyE0J0gAAAAJ:RYcK_YlVTxYC"
+              },
+              "col4": {
+                "text": "IEEE Xplore – 2023 International Conference on Network, Multimedia and Information Technology (NMITCON)"
+              },
+              "col5": {
+                "text": "2023"
+              },
+              "col6": {
+                "text": "–"
+              },
+              "col7": {
+                "text": "–"
+              },
+              "col8": {
+                "text": "1-7"
+              }
+            },
+            {
+              "col1": {
+                "text": "4"
+              },
+              "col2": {
+                "text": "T. R. Mahesh; T. Rajan; K. Vanitha; H. K. Shashikala"
+              },
+              "col3": {
+                "text": "Intelligent Systems for Medical Diagnostics with the Detection of Diabetic Retinopathy at Reduced Entropy",
+                "join_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oyE0J0gAAAAJ&sortby=pubdate&citation_for_view=oyE0J0gAAAAJ:J_g5lzvAfSwC"
+              },
+              "col4": {
+                "text": "IEEE Xplore – 2023 International Conference on Network, Multimedia and Information Technology (NMITCON)"
+              },
+              "col5": {
+                "text": "2023"
+              },
+              "col6": {
+                "text": "–"
+              },
+              "col7": {
+                "text": "–"
+              },
+              "col8": {
+                "text": "1-8"
+              }
+            },
+            {
+              "col1": {
+                "text": "5"
+              },
+              "col2": {
+                "text": "Greeshma G. S; Dr. Bindiya Ahuja; Harshita Samota; Dr. K. Vanitha; Alok Dubey; Sheetal Mujoo; Saneesh P. S."
+              },
+              "col3": {
+                "text": "A Novel Approach for Biomedical Text Classification Using Deep Learning and NLP for Disease Prediction"
+              },
+              "col4": {
+                "text": "International Journal of Intelligent Systems and Applications in Engineering"
+              },
+              "col5": {
+                "text": "2024"
+              },
+              "col6": {
+                "text": "12"
+              },
+              "col7": {
+                "text": "3"
+              },
+              "col8": {
+                "text": "21-30"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Mrs. S. Nandhini Publications",
+          "head": [
+            {
+              "id": "col1",
+              "label": "S.No"
+            },
+            {
+              "id": "col2",
+              "label": "Author Name"
+            },
+            {
+              "id": "col3",
+              "label": "Title of the Paper"
+            },
+            {
+              "id": "col4",
+              "label": "Journal Name"
+            },
+            {
+              "id": "col5",
+              "label": "Year of Publication"
+            },
+            {
+              "id": "col6",
+              "label": "Volume"
+            },
+            {
+              "id": "col7",
+              "label": "Issue No"
+            },
+            {
+              "id": "col8",
+              "label": "PP"
+            }
+          ],
+          "data": [
+            {
+              "col1": {
+                "text": "1"
+              },
+              "col2": {
+                "text": "Mrs. S. Nandhini"
+              },
+              "col3": {
+                "text": "A Hierarchical OLSR Wireless Sensor Network Attack Detection using Machine Learning Approach"
+              },
+              "col4": {
+                "text": "Second International Conference on Applied Artificial Intelligence and Computing (ICAAIC 2023), IEEE Xplore"
+              },
+              "col5": {
+                "text": "2023"
+              },
+              "col6": {
+                "text": "–"
+              },
+              "col7": {
+                "text": "2nd"
+              },
+              "col8": {
+                "text": "–"
+              }
+            },
+            {
+              "col1": {
+                "text": "2"
+              },
+              "col2": {
+                "text": "Mrs. S. Nandhini"
+              },
+              "col3": {
+                "text": "Survey on Wireless Sensor Network Attack Detection using Machine Learning Approach"
+              },
+              "col4": {
+                "text": "7th International Conference on Intelligent Computing and Control Systems (ICICCS-2023)"
+              },
+              "col5": {
+                "text": "2023"
+              },
+              "col6": {
+                "text": "–"
+              },
+              "col7": {
+                "text": "7th"
+              },
+              "col8": {
+                "text": "–"
+              }
+            },
+            {
+              "col1": {
+                "text": "3"
+              },
+              "col2": {
+                "text": "Mrs. S. Nandhini"
+              },
+              "col3": {
+                "text": "IoT Based Prediction of Rainfall Forecast in Coastal Regions using Deep Reinforcement Model",
+                "join_link": "https://doi.org/10.1016/j.measen.2023.100877"
+              },
+              "col4": {
+                "text": "Measurement: Sensors (2023)"
+              },
+              "col5": {
+                "text": "2023"
+              },
+              "col6": {
+                "text": "–"
+              },
+              "col7": {
+                "text": "–"
+              },
+              "col8": {
+                "text": "–"
+              }
+            }
           ]
         }
       ]
     },
     {
-      "tab": "Events",
-      "slug": "department-of-biotechnology",
+      "tab": "Eventsss",
+      "slug": "department-of-cyber-security",
       "items": [
+        {
+          "title": "National Conference / Seminar / Symposium",
+          "content": [
+            "2nd National Level Conference on “Innovations in Cyber Security and Information Engineering” (ICSIE’26) (Hybrid Mode) on 06.03.2026.",
+            "Third National Conference “Technical Innovation and Advancement in Computational Science” (NCTIACS -24) -held on Feb 09, 2024.",
+            "Department of Computer Science and Engineering conducted the First International Conference on Emerging Research in Computational Science – 2023 held on 07th – 9th December at Karpagam Academy of Higher Education, Coimbatore brought together around 300 participants from various academic colleges and industry across the globe.",
+            "The Department of CSE has organized a Second National Conference on ‘Technical Innovation and Advancement in Computational Science – NCTIACS -23’-held on 06th February 2023 Ms. K.Sathya, Regional Sales Manager, Dell Technologies, Coimbatore,Ms. Salonisinghal Project Manager, Intel Digital Asia Pacific &amp; amp are invited.",
+            "The Department of CSE has organized a National Level Technical Symposium”RISOVOX-23” on 9thFeburary 2023The keynote session was presented by the eminent Mr.P.Thirumoorthy Tech Lead, TrusTrace, Coimbatore.",
+            "Department of CSE organized an “International Virtual Conference on",
+            "Advancements in Computational Sciences Alexander Muthurengan Murugaiyan, Senior Lecturer, Department of Computer and Information Science, University of Seychelles, East Africa,Gokulnath Baskaran, Network Architecture, Cognizant Worldwide Limited, London, United Kingdom , Rinesh S, Assistant Professor, Department of Computer Science, Jigjiga University, Ethiopia were invited.as Chief guest held on 09 th April 2021",
+            "Dr.B.Arunkumar, delivered Machine Learning Paradigm-Seminar on AICTE sponsored STTP Organised by Sri Krishna College of Engineering, Coimbatore on 9<sup>th</sup> December,2020",
+            "Dr.R.Dhanapal, delivered seminar on Network Tools and Practices-Vivekananda College of Engineering for Women-Department of ECE, 18<sup>th</sup>November,2020.",
+            "Department of Computer Science and Engineering organizes National level Technical &nbsp;Symposium named “AURA 2k20” on 17.02.2020.",
+            "A Seminar on Design Thinking, Nair Vishal Vijay , EDP Coordinator, Karunya Institute of Technology and Sciences, Deemed to be University for II and III Year Students on 11.12.19",
+            "Department of Computer Science and Engineering organised State Level Conference on Advancements in Computational Sciences- Mr.K.Santhosh Kumar, Social Media Analyst, Accent Techno Soft, CBE.delivered the keynote address on 10 th March, 2020 &amp;amp; 11 th March, 2020.",
+            "A Seminar on Digital Electronics Mr.K.Moorthi, Chief Trainer(Retd) in Telecommunication at Signal and Telecommunication Workshop,Southern Railways, Podhanur for II year Students on 28th&nbsp; August 2019(FN), 29th&nbsp; August 2019, 30th&nbsp; August 2019.",
+            "A National Level Conference on Computational Sciences organized by the Department of CSE on April 04, 2018. 82 Participants from various Engineering colleges have attended the Conference.",
+            "A National Level Conference on Advancement in Computational Sciences’17 was organized by the Department of CSE on February 18, 2017. Mr.Vishnu Potty, Vice President, Cognizant Technology Solutions, Chairman- CSI, Coimbatore Chapter was the resource person.",
+            "A National Level Technical Symposium on Innovation in IT was organized by the Department of CSE on February 07, 2017. The invited speaker was Dr.N.K.Karthikeyan, Professor &amp; Head, Dept of IT, Karpagam College of Engineering, Coimbatore.",
+            "A National Level Conference on Wireless, Mobile Computing and Vehicular Networking was organized by the Department of CSE on April 05, 2016. The Experts were Dr.P.Yogesh, Professor, Dept of ICT, Anna University, Guindy Campus, Chennai and Dr.M.Marikannan, Professor, Dept of CSE, IRTT, Erode.",
+            "A National Level Technical Symposium DAEMON 2K16 was organized by the Department of CSE on February 16, 2016.",
+            "CSE Department has organized a Seminar on Internet of Things on January 06, 2016. Mr.Manikandan, Project Engineer, Newareeliya Soft Tech Pvt. Ltd, Coimbatore.",
+            "A National Level Conference on Emerging Trends in Information technology (NCETIT) was organized by the Department of CSE on February 26, 2015. 47 Participants from various Engineering colleges have attended the Conference.",
+            "A National Level Technical Symposium was organized by the Department of CSE on January 22, 2015. A total number of 129 Participants from various Engineering colleges have attended the Symposium.",
+            "A National Level Conference on Emerging Trends in Information technology (NCETIT) was organized by the Department of CSE on February 26, 2015. 47 Participants from various Engineering colleges have attended the Conference."
+          ]
+        },
+        {
+          "title": "FDP",
+          "content": [
+            "Department of Computer Science and Engineering conducted a Faculty Development Program On “AI Advancements: Faculty Empowerment in Deep Learning and Computational Intelligence “from 25-09-2023 to 03-10-2023.",
+            "Mr.T.Mohanraj and Dr.R.Dhanapal, organizes A Faculty development program on Introduction to React JS- Mr. K. RanjithPrabhu, Specialist Programmer, Infosys Pvt,Ltd, 7th November 2020.",
+            "CSE department organized a Guest Lecture on “Data Structures and Algorithms” on July 29, 2019 by Dr. S. Kanimuthu, Associate Professor, Department of Information Technology, Karpagam college of Engineering, Coimbatore.",
+            "CSE department organized a Guest Lecture on “Design and Analysis of Algorithms” on December 11, 2019 by Mr. Sudharshan, Associate Professor, Department of Computer Science and Engineering, Hindustan college of Engineering, Coimbatore.",
+            "CSE Department organized “Inauguration of Computer Science and Engineering Association-2017” by Mr.S.R.Vasanth, Chief Executive Officer, Vertace Consultants, Chennai on August 07, 2017.",
+            "Department of CSE has organized an Extension Activity on “Free Cloud Services” on February 23, 2017 by Dr.R.Santhosh &amp; Dr.B.Arunkumar AP/CSE at Government Boys Higher Secondary School, Sulur, Coimbatore.",
+            "A Three Day BOOT CAMP on Angular JS was organized by the Department of CSE from January 06, 2017 to January 08, 2017.The resource person was Mr.T.Jayamurugan, Cloud &amp; Devops Engineer, Karya Technologies, Chennai.",
+            "CSE Department has organized a Seminar on Career Guidance in Computer Science on January 04, 2017. Dr.Vijayalakshmi, Founder, Hi-Tech, Solutions, India was the resource person.",
+            "CSE Department has Organized a Faculty development program on “Research Challenges in Big Data and Cloud Computing” from September 16, 2016 to September 17, 2016.The Resource Person was Mr.A.Bharanidharan AP/CSE, SREC, Coimbatore.",
+            "A Microsoft Certified C-Training Program on Structural Programming Techniques in Software Development was organized by the CSE Department from August 29, 2016 to August 31, 2016.The chairperson was Dr.Vijayalakshmi, Founder, Hi-Tech, Solutions, India.",
+            "Association Inauguration was organized by the Department of CSE on “Life Skill Development” on August 22, 2016.The invited Dignitary was Mr.Prasanth R.Nayar, Dept of CSE, School of Engineering, Amrita University, Coimbatore.",
+            "CSE Department has Organized a Faculty development program on “Cloud Computing Basics and Hands on Experience on Cloud Simulator tool” on June 06, 2015.The Resource Person was Mr.K.RanjithPrabhu, Software Engineer, KMIT Solution, Tidel Park, Coimbatore.",
+            "CSE Department has Organized a Faculty development program on “Big Data Analytics” on June 05, 2015.The Resource Person was Dr.Kannimuthu, Associate Professor, Department of CSE, Coimbatore Institute of Engineering and Technology, Coimbatore.",
+            "CSE Department has Organized a Faculty development program on How to apply for patents and intellectual property rights on April 24, 2015.The Resource Person was Mr.R.P.Ramanathan, Rtd CEO Tamilnadu Agriculture University.",
+            "CSE Department has Organized a Faculty development program on “Research Methodologies” on April 23, 2015.The Resource Person was Dr.Rajeswari Sivraj, Professor &amp; Head, Department of Biotechnology, Karpagam Academy of Higher Education.",
+            "One day Faculty Development Programme: “Salesforce” is scheduled on September 16, 2017, by Mr.T.Jayamurugan, Karya Technologies, Chennai."
+          ]
+        },
+        {
+          "title": "DLS",
+          "content": [
+            "Department of Computer Science and Engineering conducted a Lecture Series for the teaching faculty members “Student-Centered Pedagogy: A Paradigm Shift in Education” on 4.11.2023.",
+            "The Department of CSE has conducted Lecture Series on “Cyber Security-Threats, Security Issues and Awareness” on 12.07.2023.",
+            "Department of Computer Science and Engineering conducted a Lecture Series for the teaching faculty members on “Unleashing Digital Possibilities with CISCO Packet Tracer” on 12.08.2023.",
+            "Department of Computer Science and Engineering conducted a Lecture Series for the teaching faculty members on “Product Design and Development-Prototyping” on 26.08.2023.",
+            "The Department of Computer Science and Engineering conducted a Lecture Series for the teaching faculty members “ Understanding the secret of writing a good research paper” on 10.02.2024. Dr.L.Selvam, Associate Professor, Department of Computer Science and Engineering.",
+            "The Department of CSE has organized a Lecture Series on “QUESTION PAPER SETTING” on 10th June,2023. Dr. B.Arun Kumar, Professor,KAHE explained the Bloom’s Taxonomy and it is a categorization that defines different levels of intelligence including thinking, learning, and understanding."
+          ]
+        },
+        {
+          "title": "Alumni Talk",
+          "content": [
+            "An Alumni Interaction Session on “User Centric Product Innovation” on 16 Oct 2023, Mr.S.Sanjay 2016-2020 B.E. – CSE, Looperality , was the resource person.",
+            "The Department of Computer Science and Engineering organized an Alumni Interaction Session on “Introduction to Medical Transcription” on 24 Jul 2023. Mrs.V.P.Vijayalakshmi 2009-2013 B.E. – CSE, Quality Analyst, Infosys, MidVoice Transcript Solutions was the resource person.",
+            "The Department of Computer Science and Engineering organized an Alumni Interaction Session on “AI in Software Testing” on 31 Jan 2024. Mrs.Infanta Abinaya K, batch (2011 – 2015), Software Testing Engineer, Park Global HR Services Private Ltd, Coimbatore.",
+            "The Department of Computer Science and Engineering organized an Alumni Interaction Session on “Scope of Data Analytics” on Feb 01, 2024. Mr. Ashik D, batch 2017 – 2020, Technology Process Executive (Data Analyst), Silicon India, Bangalore.",
+            "The Department of Computer Science and Engineering organized an Alumni Interaction Session on “Building Resilience” on Feb 09 ,2024. Mr.J.Godwin, batch (2017 – 2021), Ship Operations Coordinator, Sharaf Shipping LLC, Dubai"
+          ]
+        },
+        {
+          "title": "Other Activites",
+          "content": [
+            "Three days Skill Training Program on “Digital Forensics and Cyber Investigation” from 05.01.2026 to 07.01.2026.",
+            "Conducted two&nbsp;days Hands on Training&nbsp;on “Building Scalable Applications with MongoDB” on 06.10.2025 and 07.10.2025.",
+            "One-day Extension activity on “Awareness program on e-Governance and Digital Service” on 30.09.2025 at village people in Nachipalayam.",
+            "Two-days hands-on-training program&nbsp;on “Advanced MySQL for Full Stack Development” for the students of II B.E. Computer Science and Engineering from 01.09.2025 to 02.09.2025.",
+            "Guest Lecture on “Context Free Grammar and Push Down Automata: Hands-on Approach” on 26.08.2025.",
+            "&nbsp;Participation in the ICT Academy 65th&nbsp;edition of BRIDGE’25 Conference on 21.08.2025 at Hotel Le Meridian, Coimbatore.",
+            "Guest lecture on “Foundations and Applications of Data Analytics and Visualization for the II B.E Computer Science and Engineering” on 13.08.2025.",
+            "Guest Lecture on “Node.js”” for the students of&nbsp; III B.E. Computer Science and Engineering on 28.07.2025.",
+            "Guest Lecture on “Web development using PHP and MySQL” on 31.07.2025.",
+            "Alumni Meet on 26.07.2025",
+            "Hackathon on “HACK4IMPACT” on 04.08.2025 to 05.08.202",
+            "The Department of CSE has organized a Metaverse Association programme on 20.07.2023. the Chief Guests Dr. K. Muralishankar, Founder and Chief Visionary Officer, Yardstick Digital Solutions, Coimbatore.",
+            "National level Tech Fest- METAVERSE-2K24”was conducted by Department of Computer Science and Engineering on 7thFeburary 2024.",
+            "The Department of CSE has organized a career guidance program “Guidance for Higher Education” on 2nd February, 2023. Resource person Mrs.Soniya Moorthy discussed on the topic “Guidance for Higher Education”.",
+            "The ICT Academy of Tamil Nadu presents the Industry-Institute Interaction Bridge’23 program on 14th march,2023. The theme “Building Human Capital for a Trillion-Dollar Digital Economy”.",
+            "Department of Computer Science and Engineering organizes National level Technical &nbsp;Symposium named “AURA 2k20” on 17.02.2020.",
+            "Department of Computer Science and Engineering organised State Level Conference on Advancements in Computational Sciences – Mr.K.Santhosh Kumar, Social Media Analyst, Accent Techno Soft, CBE delivered the keynote address on 10 th March, 2020 &amp; 11 th March, 2020."
+          ]
+        },
+        {
+          "title": "Webinar",
+          "content": [
+            "One day Workshop on “Penetration Testing &amp; Security” on 28.08.2025.",
+            "Mr T.MohanRaj and Dr.Laxmi Raja, organizes webinar on Effect of Emerging Technologes in Financial Sectors,- Dr.K.R.Adinadh, Vice President Information Technology, Asirvad Micro Finance Limited . 18<sup>th</sup>February 2021.",
+            "Laxmi Raja and Mr D. SelvaPandian , organizes webinar on Basic Concepts in Data Protection,Subtitution Ciphers,Transposition Ciphers and Enigma,- Dr.H.Azath, Senior Assistant Professor,School of Computing Science and Engineering, VIT Bhopal University. 24<sup>th</sup>February 2021.",
+            "Mr D. SelvaPandian and Dr.Laxmi Raja, organizes webinar on Principles and Practice of Sofware Engineering, Mr. Alexander Muthurengan Murugaiyan, Lecture, Department of Computer and Information Science, University of seychelies. Seychelies. 5<sup>th</sup>&nbsp;March 2021.",
+            "Dr R.Dhanapal and Dr.Laxmi Raja , organizes webinar on Agile Methodology, prof.E. Manju More, Assistant Professor, School of Computing and Information Technology, REVA University, Bangalore. 13<sup>th</sup>&nbsp;March 2021.",
+            "Laxmi Raja and B.Lanitha, organizes webinar on KNIME Data Analytics Tool,- Dr D.Sudharson, Assistant Professor, Department of AI and DS, Kumaraguru College of Technology,Coimbatore. 07<sup> th</sup>JUNE 2021",
+            "Mrs K.Sundareswari and Mr D.Selvapandian, organizes webinar on Time Management and Leadership Skills, – Ms Kalaivan Kannalyan,Image Consultant and Happiness Coach,Look$You,Coimbatore. 19<sup> th</sup> JUNE 2021",
+            "Laxmi Raja and Dr R.Dhanapal , organizes webinar on Recent Trend and Techniques in IOT, Dr K.Ramesh,Professor,Department of Computer Science and Engineering, Hindustan Institute of Technology and Science,Chennai.18<sup>th</sup>JUNE 2021.",
+            "Mrs K.Sundareswari and Dr B.Lanitha, organizes webinar on Role of Diet in COVID, – Ms Nasreen Jones,Active Consultant Nutritionist and Sr.Nutritionist, Feminine Fitness Quotient,Coimbatore .17<sup> th</sup> JUNE 2021",
+            "Dr R.Dhanapal and Mr T.Mohanraj , organizes webinar on Block Chain Technology, Dr B.Santhosh Kumar, Professor, Department of Computer Science and Engineering, Guru Nanak Institute of Technology,Hyderabad. 14<sup>th</sup>JUNE 2021.",
+            "Laxmi Raja and Mrs. K. Sundareswari organizes webinar on the topic “TECHNICAL?RESEARCH ARTICLE WRITING IN IEEE FORMAT”, by Ms. Lakshmi. M. B., Former Graduate Apprentice Trainee, Vikram Sarabhai Space Centre, VSSC, ISRO, Bangalore – 11, Jun 2021",
+            "R. Dhanapal, and Dr. B. Arun Kumar organizes webinar on the topic of “BLOCKCHAIN TECHNOLOGIES” by Dr. D. Sudharson, Assistant Professor, Department of CSE, Hindusthan College of Engineering and Technology, Coimbatore – 31, December, 2020",
+            "Ms.K.Tharageswari and Dr.Laxmi Raja, organizes webinar on Algorithmic Trends Advanced concepts in DAA- Dr.K.Amuthabala, AssistantProfessor, School of Computer and Information and Technology, REVA University. 30<sup>th</sup> December 2020.",
+            "Mr.T.Mohanraj and Dr.B.Arunkumar, organizes webinar on Current Industrial Expectations In Post Pandemic Scenario Mr.V.PrasannaSreeHari, Solution Architect, HP Inc. 19<sup>th</sup> November,2020.",
+            "MR.D.Selvapandian and Dr.Laxmi Raja, organizes webinar on Windows server and virtualization- Mr.S.Santhosh, System Administrator ITC Info Tech, Bengaluru, 11<sup>th</sup> November, 2020.",
+            "Dr.R.Dhanapal and Ms.K.Tharageswari, organizes webinar on Cyber Security-Dr.R.Kaviarasan Assistant Professor, RGM College of Engineering and Technology, Andhra Pradesh. 7<sup>th</sup> October 2020.",
+            "MR.D.Selvapandian and Dr.Laxmi Raja, organizes webinar on Google Go Programming Language- Dr.RanjeetPowar, 29<sup>th</sup> June, 2020"
+          ]
+        },
+        {
+          "title": "Workshop",
+          "content": [
+            "Workshop on “Technology-Driven Entrepreneurial Solution for Cyber Fraud Detection” from 22.12.2025 to 23.12.2025 for the Third Year Cyber Security Students.",
+            "One day workshop on “Foundations of SaaS &amp; GTM” on 11.10.2025",
+            "Conducted a workshop on “Advanced Python Programming” from 07.10.2025 to 08.10.2025.",
+            "Workshop on “Configuring and Managing Network Services using Linux Networking” on 24.09.2025.",
+            "Two-days Workshop on “Hands-on Training in Java Essentials” from 15.09.2025 to 16.09.2025",
+            "One day Workshop on “Penetration Testing &amp; Security” on 28.08.2025.",
+            "One day Workshop on “Intelligent Machines: Hands-on with ML, DL and Generative AI” on 21.08.2025.",
+            "The Department of Computer Science and Engineering conducted a workshop for the students on “Exploring Deep Neural Network Applications with Hands-on Training” on 30.01.2024 by Dr.K.Veningston Assistant Professor, Department of Computer Science and Engineering, National Institute of Technology, Srinagar, Jammu&amp; Kashmir.",
+            "The Department of Computer Science and Engineering conducted a Guest Lecture on “CPU Scheduling and Deadlocks” for the II Year students of the Computer Science and Engineering on 31.01.2024 by Dr.C.N.Vanitha, Associate Professor, Department of CSE, Kongu Engineering College, Erode.",
+            "The Department of Computer Science and Engineering conducted a one day Skill Development program on Advanced Networking Techniques on 27.09.2023 by Mrs.M.Sugapriya,Senior Technical Trainer (NSG-Network Security Group) Global Support Training- Sophos Technologies, Ahmedabad.",
+            "Department of Computer Science and Engineering has organised a workshop “Internet of Things” on 20.09.2023. The Resource person Mr.Arun Venkatesh ,Chief Executive Officer,Karyoun Innovation Pvt Ltd,Chennai.",
+            "The Department of CSE has organized a ONE DAY WORKSHOP “OUTCOME BASED EDUCATION” on 08.07.2023. Resource Person Dr. K. Venkadeshwaran, Professor &amp; Program Head(Mechanical) Faculty of Engineering and Technology, Jain University, Bangalore.",
+            "The Department of Computer Science and Engineering conducted a Guest Lecture on “UML Test Cases” Dr.V. Praveena, Professor, Department of CSE, Dr.N.G.P. Institute of Technology, Coimbatore.",
+            "The Department of Computer Science and Engineering conducted a Guest Lecture on “Modernizing Collaboration: Exploring the Intersection of Databases, Cloud Computing and Virtualization” by Dr.Padma Selvaraj, Professor, Department of CST, Madanapalle Institute of Technology &amp; Science, Andhra Pradesh.",
+            "The Department of Computer Science and Engineering conducted a Workshop on “Image Synthesis and Generation using Generative Adversarial Networks with Hands-on training” by speaker Dr.P.Natesan, Professor, Department of Information Technology, Kongu Engineering College, Perundurai.",
+            "The Department of Computer Science and Engineering conducted a Guest Lecture on “Exploring Transaction Management and Concurrency Control in Database Systems” by Dr. R. Manjula Devi, Professor, Department of Computer Science and Engineering, KPR Institute of Engineering and Technology, Coimbatore.",
+            "Dr.B.Arunkumar, organizes workshop on <em>Advances in Computational Science and Technology</em>-Mrs.V.Narmadha, Senior Manager,Newareeliya Soft Tech, CBE, 02<sup>nd</sup> March, 2020.",
+            "Dr.R.Santhosh<em>, </em>organizes workshop on <em>IoT- Home Automation- Mr.A.VishnuPriyadharshan , CEO, Newareeliya Soft Tech Pvt Ltd, </em>03<sup>rd</sup> to 5<sup>th</sup> March, 2020.",
+            "Mr.D.Selvapandian and Dr.R.Santhosh<em>,</em> organizes workshop on<em> Cyber Security Tools </em>Sankarraj S,CEO, Prompt Infotech, 25<sup>th </sup>July 2019.",
+            "Mr.T.Mohanraj, organizes workshop on <em>Data Communication and Networking-</em>19<sup>th </sup>August 2019(FN),20<sup>th&nbsp; </sup>August 2019, 21<sup>th&nbsp; </sup>August 2019(FN), 22<sup>th&nbsp; </sup>August 2019, 26<sup>th&nbsp; </sup>August 2019,27<sup>th&nbsp; </sup>August 2019.",
+            "A one day workshop on Cybersecurity tools was organized by the department of CSE on July 25, 2019. The resource person was Mr. Sankarraj Subramaniam, CEO, PROMPT Infotech.",
+            "A one day workshop on Data Communication and networking organized by the department of CSE on August 19, 2019. The invited speaker is Mr. Moorthi, Telecom Engineer (Retd), Southern Railways.",
+            "A one day Workshop on Android Soft Skill Development was organized by the Department of CSE on February 08, 2017. The invited speakers were Mr. Bright Varghese and Mr.Plessed Prince, Professor, Dept of IT, Karunya University, Coimbatore.",
+            "A Three Day Workshop on Advanced Digital Marketing was organized by the Department of CSE from February 02, 2017 to February 4, 2017. The resource person was Mr.G.Suresh, E-com specialist / Full web developer, Chennai.",
+            "A one day Workshop on Android was organized by the Department of CSE on August 19, 2016. The invited Dignitary was Mr.K.Balamurugan, Senior Software Engineer, Newareeliya Soft Tech Pvt. Ltd, Coimbatore.",
+            "A one day Workshop on “Hack track” was organized by the Department of CSE on January 23, 2015. The invited Dignitary was Mr.K.RanjithPrabhu, Software Engineer, KMIT Solution, Tidel Park, Coimbatore."
+          ]
+        },
         {
           "title": "Seminar",
           "content": [
-            "Half-day seminar on “GATE Way to Get Excellent Career Opportunities” on 10.12.2025 for the beneficiaries of the students",
-            "Half -day technical seminar on “Innovating by Design: Pharmaceutical approaches in Diabetics through Genetics” on 18.09.2025.",
-            "Seminar on “Building Safe Science: Industrial GMP and Career Navigation in Biotech” on 15.09.2025.",
-            "One day seminar on Bioprospecting in medical sector was conducted on March 18, 2019. Guest Speakers: Dr. T. Ramesh from Annamalai University, Chidambaram and K. Arunkumar from Central University of Kerala, Kerala.",
-            "One day seminar on National seminar on Current scenario and near future of Biotechnology as a interdisciplinary fiel was conducted on March 01, 2018. Guest Speakers: Dr. B. Mohammed Jaffer Ali, Pondicherry University, Puducherry; Dr. C. A. Kalpana, Avinashilingam Institute for home science and higher education for women, Coimbatore and Dr. Florida Tilton, Biozone Research Technologies Pvt Ltd, Chennai.",
-            "One day seminar on “Recent advances in Nanotechnology and its biological applications” held on Sept 08, 2016. Guest Speakers: Dr. Jayakumar Rangasamy, Professor at the Centre for Nanosciences and Molecular Medicine (ACNSMM), Amrita Vishwa Vidyapeetham; Dr.Ruchmani, Professor and Head, Department of Pharmaceutical Technology, Director, Centre for Nanobio Translational Research, Bharathidasan Institute of Technology, Anna University and Dr. B.Subramanian, Professor, CECRI, Karaikudi.",
-            "One day national seminar on “Frontiers in Bioprocess Technology” on 21.06.2016. Guest Speakers: Dr. Binod Parameswaran from NIIST, Thiruvananthapuram; Dr. Soumen Mukherjee SPFP, Coimbatore; Dr. Meenakshi sundaram, SASTRA, and Dr. M. Shanmugaprakash from KCT, Coimbatore."
+            "&nbsp;Seminar on “SQL Database Design Patterns for Backend Developers”&nbsp;on&nbsp;17.09.2025.",
+            "&nbsp;Seminar&nbsp;on “Amazon Web Services” on 26.08.2025.",
+            "Seminar&nbsp;on “Building Single Page Applications (SPA) with Vanilla JavaScript techniques” on 30.07.2025.",
+            "The Department of Computer Science and Engineering conducted a Industrial seminar for the students on “Capacity Building Program on Data Analyst” on 13.02.2024 by Mr.Maheswar Narayanan, Senior Manager, Imarticus Learning Private Limited, Coimbatore.",
+            "A webinar for the students on “CLOUD COMPUTING AND AWS” by Dr.Garima Sinha, Faculty of Engineering and Technology, Jain University, Bangalore.",
+            "The Department of Computer Science and Engineering conducted a seminar for the students on “UI and UX design” on 21.09.2023 by Mr.K.BoopathiKumar, CEO, Training Trains, Coimbatore.",
+            "Department of Computer Science and Engineering conducted a webinar for the students on “EDGE COMPUTING AND ITS APPLICATIONS” on 31.08.2023 by Dr.P.Tamil Selvi, Professor/CSE,Rajalakshmi Engineering College,Chennai.",
+            "The Department of Computer Science and Engineering has organised a seminar “Critical Thinking-A Problem Solving Methodology” on 04.07.2023. The resource person MrRaghul Das, Senior Associate Consultant, Infosys Bangalore.",
+            "The Department of CSE has organized a Seminar on “Intellectual Property (IP) Management at Early Stage of Innovation and Start-ups”on 27th January,2023. Dr. Partheepan Rudrapati started his insightful session by stating Intellectual property is a category of property that includes intangible creations of the human intellect, and primarily encompasses copyrights, patents, and trademarks.",
+            "The Department of CSE has organized a Seminar on “AWARENESS ON AMAZON WEB SERVICES””on 31st January,.2023 . The speaker Mr. Thomas Philip Govindrajan, AWS Trust &amp; Safety Manager, Amazon AWS, Bangalore.",
+            "The Department of CSE has organized a Seminar on “Future Innovators with IoT” on 10th Feb 2023. The resource person Mr.Arun Discussed about IoT components and its Uses.",
+            "Dr.B.Arunkumar, delivered Machine Learning Paradigm-Seminar on AICTE sponsored STTP Organised by Sri Krishna College of Engineering, Coimbatore on 9th December,2020.",
+            "Laxmi Raja and Mr D. SelvaPandian , organizes webinar on Basic Concepts in Data Protection,Subtitution Ciphers,Transposition Ciphers and Enigma,- Dr.H.Azath, Senior Assistant Professor,School of Computing Science and Engineering, VIT Bhopal University. 24thFebruary 2021."
           ]
         },
         {
-          "title": "Symposium",
+          "title": "Extension Activity",
           "content": [
-            "TVASTA 2021 was organized on 30th Mar, 2021 – Guest speaker: Dr. Deepa Kolaseri, Scientific Director, Cancer Research Translational Initiative at Masonic Cancer Center, University of Minnesota, USA.",
-            "Tvasta 2020 was organized on February 18, 2020 – Guest: B. Ashok Kumar from Madurai Kamaraj University, Madurai",
-            "Tvasta’19 was conducted on February 19, 2019 – Guest: R. Ramaswamy from Madurai Kamaraj University, Madurai",
-            "Tvasta’18 was organized on March 02, 2018 – Guest: P. Varalakshmi from Madurai Kamaraj University, Madurai",
-            "Klonazura’17 was conducted on February 03, 2017 – Guest:P.Renuka Devi from Anna University, Coimbatore.",
-            "Klonazura’16 was organized on February 04, 2016 – Guest: Joshy Cherian from Omega Ecotech Products, Coimbatore."
-          ]
-        },
-        {
-          "title": "Conference",
-          "content": [
-            "One-day National level Conference on “Integrating Life Sciences and Engineering: Innovations in Biotechnology for Sustainable Development” (ILE 2026) on 05th March, 2026.",
-            "Two days Virtual International Conference “Innovation and Trends in Drug Discovery (IITD’21) was conducted on 31st Mar – 1st Apr, 2021. Guest speakers: Dr. Qiao-Hong Chen, Associate Professor, California State University, Fresno; Dr. Praveen Nekkar Rao, Associate Professor, University of Waterloo, Canada; Dr Neha S. Gandhi Advance Queensland Industry Research Fellow, Australia and Dr. V. Ravikumar, Associate professor & Head, Bharathidasan University, Trichy.",
-            "Two-day conference on “Impact of Biotechnology on health sector” was conducted on 12.03.2020 – 13.03.2020. Guest Speakers: Dr. G. Chellappa, CEO, Genomatics Pvt. Ltd., PSG STEP, Coimbatore., Dr. Muniasamy Neerathilingam, Faculty Scientist (Senior Research Scientist), Institute of Bioinformatics, Bangalore, Dr. Aneesh Nair, Scientist; Head-Operations, Biozone Research Technologies Pvt.Ltd., Chennai, Dr. V. Chandrasekar, Director, Bioline Laboratory Research, Coimbatore and Dr. R. Subramanian, Senior Manager, Syngene International Limited (Biocon), Bangalore",
-            "Two days National Conference on Big data and Machine learning in biomedical and health informatics: Contemporary uses and prospective challengers were conducted on September 12, 2019 and September 13, 2019. Guest Speakers: G. Chellappa, Chief Executive Officer,, Genomatics Private Limited, PSG STEP, Coimbatore; Dr.N.Jeyakumar, Professor & Head, Department of Bioinformatics, Bharathiar University; Dr. J.Jeyakanthan, Professor and Head, Department of Bioinformatics, Alagappa University, Karaikudi; Dr. Ayyavu Mahesh, Director, Stem cell and cancer genomics, AMI biosciences, Coimbatore and Mr. Akash Murthy, Co- Founder & CTO, Euprime, Bangalore.",
-            "Two days National Conference and workshop on “New Paradigms in the Development of Biotechnology in Healthcare & Emerging Nanomaterials for Healthcare Applications” was organized on February 15, 2017 and February 16, 2017. Guest Speakers: Dr. Hannah Rachel Vasanthi, Associate Professor, School of lifescience, Pondicherry University, Pondicherry; N. Shanthi, Professor and HoD, Department of Pharmacology, CMC, Coimbatore; Dr. V. Vettriselvi, Associate Professor, Sri Ramakrishna University, Chennai; Dr. Sankar Natesan, Professor, Department of Genetic Engineering, School of Biotechnology, Madurai Kamaraj University, Madurai; Dr. M. Sivakumar, Professor, Nanoscience and Technology Program, BIT campus, Trichy and Dr. Shilpa Devasena pathy, Virtis Biolabs, Salem."
-          ]
-        },
-        {
-          "title": "Guest Lecture",
-          "content": [
-            "Guest Lecture on “Innovations in Next -Generation Sequencing: Importance, Adaptability & Market Potential” on 04.12.2025.",
-            "Guest lecture on “Nano Innovation: Small Science, Big Change for Tomorrow” on 22.09.2025.",
-            "Guest lecture cum workshop on “Emerging Trends in Intellectual Property Rights and patent Systems” on 03.09.2025",
-            "Guest lecture on “Innovation and Entrepreneurship in Biotechnology” was conducted on 22.09.2021. Guest speaker: Dr. Jemima D Kingsley, Bio medical scientist, Orbito Asia Diagnostic, Coimbatore.",
-            "One-day webinar entitled “Innovations in Bio-python and Data science” on 23.09.2021. Guest Speaker: Mr. Joseph George,CEO & Founder, Avotha Edutech, Kerala.",
-            "A panel discussion “Growth of young entrepreneurs” was organized on 23.08.2021. Guest speaker: Dr. S Siva Shanmugam, Director, Polyhedron, Erode.",
-            "Webinar titled “My story – Journey from Coimbatore to Australia” on 12.06.2021 by R Varsha B.Tech, M.S., (2014 -2018 batch alumna) Business Analyst, ANZ, Melbourne, Australia.",
-            "Webinar titled “Opportunities for life science graduate in medical coding sector” on 05.06.2021 by V. Keerthiga, B.Tech, CPC., (2013 -2017 batch alumna), Senior client partner, Access Healthcare, Coimbatore.",
-            "Webinar titled “Life at Zifo” on 05.06.2021 by S. Rajesh Kumar B.Tech., (2014 -2018 batch alumnus), Validation Analyst, Zifo RnD solutions, Chennai.",
-            "Webinar titled “How to pursue your research career in abroad?” on 04.06.2021 by Raksha M.S., (Ph.D), (2014 -2018 batch alumna), PhD Scholar, Medical Faculty, Technische Universitat, Dresden, Germany.",
-            "Webinar titled “Opportunities for biotechnologist in food industries” on 03.06.2021 by K. Selva Kumar, M.Tech., (2014 -2018 batch alumnus), Food Formulation Scientist, KPManish Global ingredients (Firmenich), Chennai.",
-            "Two-day Career Guidance Programme entitled “Becoming an effective communicator: Skills for everyday success” on 07.06.2021. Guest speaker: Dr. Reshmi Deb Chodhury Das, Assistant Professor, Department of Science & Humanities, Sreenidhi Institute of Science & Technology, Hyderabad.",
-            "One-day webinar entitled “Prototype validation: Converting prototype into a startup” on 20.05.2021. Guest speaker: J Prakash Maran, Associate Professor, Department of Food science and Nutrition, Periyar University, Salem.",
-            "The Department of Biotechnology (FoE) in association with Anti-discrimination committee jointly organized a webinar on “Gender Inequality: The Effect of Patriarchy” on 22.03.2021. Guest speaker: Ms. Kumutha Chandrika, K, Lactation Counselor, Trustee, Coimbatore Parenting Network, Coimbatore",
-            "Guest lecture on Technological developments in algae biotechnology was conducted on 04.03.2021. Guest speaker: Dr. Jibu Thomas, Associate professor and Head (i/c), Department of Biotechnology, School of agriculture and biosciences, Karunya institute of technology and sciences, Coimbatore.",
-            "Guest lecture entitled Engineering thermal stability of enzymes on 03.03.2021. Guest speaker: Dr. P Rani, Professor, Department of Biotechnology, PSG College of technology, Coimbatore.",
-            "Guest lecture on Ribosomal inactivating proteins (RIP: Applications in cancer therapeutics was conducted on 02.03.2021. Dr. J Jennet vennila, Professor, Department of Biotechnology, School of agriculture and biosciences, Karunya institute of technology and sciences, Coimbatore",
-            "Guest lecture on Bioprocessing of microbial enzymes and colours was organized on 01.03.2021. Guest speaker: Prof. E. Nakkeeran, Professor of Biotechnology, Placement officer, Sri venkateswara college of engineering, Sriperumbudur, Chennai.",
-            "Guest lecture Natural deep eutectic solvents and its applications on 26.02.2021. Guest speaker: Dr. P Ramalingam, Professor, Department of Biotechnology, Kumaraguru college of technology, Coimbatore.",
-            "Guest lecture on Analytical tools for biologicals and biopharmaceuticals was organized on 25.02.2021. Guest speaker: N. Kannappan, Professor, Department of pharmacy, Annamalai university.",
-            "Guest lecture on Intellectual properties for entrepreneurs was conducted on 24.02.2021. Guest speaker: Dr. C Senthil kumar, Head IP (India) & Patent counsel and ethics compliance ambassador, ASHLAND Hyderabad.",
-            "Three days career guidance programme on “Unveiled future of Biotechnologists”, “Career opportunities in Bio Industries”, “Entrepreneurship development”, “Soft skill development for professionals” on 21.01.2020-23.01.2020. The Sessions was delivered by Dr. V.Mohana Srinivasan, Associate professor, Department of Biomedical Sciences, Coordinator -Placement and Training (PAT), School of Bio Sciences and Technology, Vellore Institute of Technology, Dr. P. Sathiya Moorthi, Partners of M/s.Moon Foods and Dr. Yes Aar Team, Tiruchencode, Mr. T. Anthony Patrick, Director, Language corner for spoken English and Dr. R. Ragunathan, Director; Research Supervisor, Centre for Bio Science and Nano science Research(CBNR), Coimbatore.",
-            "Guest lecture on CRISPR: Tool for future revolution conducted on 12.12.2020. Guest Speaker: Dr. L. Karthik, Project Lead – Synthetic Biology, Salem microbes Pvt. Ltd, Salem.",
-            "How to write effective research/review articles? on 12.12.2020. Guest Speaker: Prof. B. Narasimhan, Faculty of Pharmaceutical sciences, Maharshi Dayanand University, Rohtak, Haryana.",
-            "Downstream processing: Applications and recent updates on 23.11.2020. Guest Speaker: Dr. R Balakrishnaraja, Associate Professor and Head incharge, Department of Food technology, Bannari Amman Institute of Technology, Sathyamangalam, Erode.",
-            "Guest lecture on Microbial Nutrition on 23.11.2020. Guest Speaker: Dr Kannan K P, Associate Professor, Bannari Amman Institute of Technology, Coimbatore.",
-            "Guest lecture on Cell Signaling on 18.11.2020. Guest Speaker: Dr Kannan K P, Associate Professor, Bannari Amman Institute of Technology, Coimbatore.",
-            "Guest lecture on Therapeutic proteins: Development and Challenges on 18.08.2020. Guest Speaker: Dr. Ambili Mechoor, Professor and Head of Dept, Dept of Biotechnology Engineering , Sahrdaya College of Engineering and Technology, Kerala.",
-            "Guest lecture on Tablet Manufacturing and Granulation Techniques was organized on 14.08.2020. Guest Speaker: Dr. N. Damodharan, Professor and Head, Department of Pharmaceutics, SRM College of Pharmacy SRM Institute of Science and Technology",
-            "Webinar on “Application of bioinformatics in drug discovery” by Manvi Singh, Research Scientist at CCBT, InStem, NCBS on 03.07.2020.",
-            "International webinar on “Introduction to 3D bioprinting and the role of Biotechnologists conducted on 26.06.2020 – Guest Speaker: J. Gopinathan, Post-Doctoral Research Scientist, Dept. of Chemical; Biomolecular Eng., Seoul National University of Science and Technology (Seoul Tech), South Korea and Manvi Singh. Research Scientist at CCBT, InStem, NCBS.",
-            "Webinar series on Competitive Exams in Biotechnology organized on 12.05.2020 – 22.05.2020 – Guest Speakers: The Alumni of B.Tech Biotechnology (Ms. Priyanka, University of Leicester, UK, Mr. Gowtham, M.Tech Biotechnology, Anna University, Mr. Vijay, Mythic Therapeutics, USA, Ms. Sangamithra, University of Glasgow, UK, Ms. Hina, VV Biotech, Kerala) were invited for the six days session as a delegate to deliver a lecture on various competitive exams like GATE, TANCET, GRE, IELTS, MBA and Government exams.",
-            "Importance of Unit operation in Downstream Processing by Dr. M. Shanmugaprakash, KCT, Coimbatore on February 13, 2020.",
-            "Stem cell Discovery and Tissue Engineering by Dr. S. Balasubramanian, Dr.N.G.P college of arts and science, Coimbatore on December 19, 2018.",
-            "Recent advances in Pharmaceutical technology by Dr. K.S.G. Arulkumaran, KMCH College of Pharmacy on December 10, 2018.",
-            "Programmed cell death by Mr. Mohan Kumar, Tamilnadu Agricultural University, Coimbatore on October 15, 2018.",
-            "Recent trends in food processing and technology by Dr. T.V. Ranganathan, Karunya Institute of Technology and Sciences, Coimbatore on September 18, 2018.",
-            "Liquid extraction and hydrophobic interaction chromatography for the removal of dyes from textile waste water by Dr. P. Ramalingam, KCT, Coimbatore on September 19, 2018.",
-            "Entrepreneurship opportunities in biotechnology by Mrs. Poonkodi, Sunglow Biotech, Coimbatore on February 26, 2018.",
-            "Immobilized enzyme kinetics and its application by Mrs. N. Brindha, Anna University, Trichy on October 06, 2017.",
-            "Genomics, Proteomics-The importance and the application of omic sciences by Dr. V. Thirunavukarasu, Bharathiyar University, Coimbatore on February 14, 2017.",
-            "Instrumental methods of Analysis by Dr. R. Suresh, Anna University, Chidambaram on February 14, 2017.",
-            "Biomaterials and tissue engineering concepts by Dr. R. Selva Kumar, PSGIAS, Coimbatore on July 20, 2016.",
-            "Liquid liquid extraction aquaeous two phase extraction by Dr. M. Shanmugaprakash, KCT, Coimbatore on July 12, 2016.",
-            "Clinical trial & management by Dr. M. Ramanathan, PSG College of Pharmacy, Coimbatore on July 12, 2016.",
-            "Genome sequence analysis by Dr. P. Chellapandi, Bharathidasan University, Trichy on July 15, 2016.",
-            "Mass transfer operations by Dr. S. Venkatesa Prabhu, JCT, Coimbatore on July 15, 2016.",
-            "Pharmaceutical Technology by Dr. C. Sankar, KMCH College of Pharmacy on July 08, 2016.",
-            "Development, activation, maturation & differentiation of B and T cell by Dr.V.Hariharan, KFMSR, Coimbatore on July 12, 2016.",
-            "Principles of chemical engineering by Dr. Sivakumar Ponnambalam, Anna University, Trichy on July 11, 2016.",
-            "Overview of Metabolic diseases by Dr. V. Hariharan, KFMSR, Coimbatore on July 11, 2016.",
-            "Control of micro organisms by Dr. V. Hariharan, KFMSR, Coimbatore on August 24, 2015.",
-            "Microbiology by Dr. V. Hariharan, KFMSR, Coimbatore on February 17, 2015.",
-            "Bioinformatics by Dr. N. Jeyakumar, Bharathiyar University, Coimbatore on  March 10, 2015.",
-            "Guest lecture on Plant Biotechnology by Dr. R. Sathishkumar, Bharathiyar University, Coimbatore on February 05, 2016.",
-            "Instrumental methods of analysis by Dr. C. Sankar, KMCH College of Pharmacy, Coimbatore on January 27, 2016.",
-            "Enzymology and enzyme technology by Mr. V. Rajasekar, GCT, Coimbatore on February 10, 2016."
-          ]
-        },
-        {
-          "title": "Workshop / Skill based training",
-          "content": [
-            "Two day skill development program on “Beyond the Label: Uncovering the Technology of your Food” from 25.09.2025 to 26.09.2025.",
-            "Online workshop on “Entrepreneurship and Innovation as Career Opportunity” organized on 09.12.2020 in association with IIC KAHE. Guest Speaker: Dr. Ayyavu Mahesh, Director, Centre for Stem Cell & Cancer Genomics, AMI BioScience, Coimbatore.",
-            "Webinar cum hands-on-training: Computational Approaches for Anti-microbial Drug Development on 21.08.2020. Guest Speakers: Sanjeev Kumar Singh, Professor, Department of Bioinformatics, Alagappa University, Karaikudi, and Dr. Ayyavu Mahesh, Director, Centre for Stem Cell & Cancer Genomics, AMI BioScience, Coimbatore.",
-            "Hands-on Training on Homology modeling & Flexible Docking organized on 03.02.2020. Guest Speaker: Dr.T.Sivaraman, Professor, Department of Biotechnology (FASH), KAHE.",
-            "Two days skill based training programme was organized from August 26, 2019 to August 27, 2019 on “Micro RNA prediction & protein structure modeling and Chromatographic technique & nanoparticle synthesis”",
-            "Two days workshop was conducted from January 07, 2019 to January 08, 2019 on “Computational Genomics, Molecular docking and Biomolecular Visualization Tools”",
-            "Two days Hands on training on “Application of bioinformatics tools techniques for Drug Designing & Understanding the key benefits of core biotechniques” was held during September 28, 2018 and September 29, 2018.",
-            "Two days National Workshop on “Basic tools & techniques in Biotechnology” was organized during on February 15, 2018 and February 16, 2018.",
-            "Three days Hands on training in “Basic Bioinformatics tools and Techniques” was held from December 07, 2017 to December 09, 2017.",
-            "Workshop on “Emerging Nanomaterials for Healthcare Applications” was conducted on February 16, 2017."
-          ]
-        },
-        {
-          "title": "Others",
-          "content": [
-            "Alumni Talk on “Scope of Clinical Data Management” by our 2019 batch Alumni Mr. Harish Subramanian, Founder of Gene Z Learning LLP, Karur, Tamil Nadu, on 18.12.2025 for the beneficiaries of third year B.Tech Biotechnology students.",
-            "Awareness Programme on “World Nature Conservation Day on 28.07.2025"
+            "One-day National Level Technical Fest- 2K26 &nbsp;on 13.02.2026.",
+            "Department of Computer Science and Engineering in coordination with Extension cell, Karpagam Academy of Higher Education has successfully organized an Extension activity at Government School, Malumichampatty, Coimbatore on 01.09.2023 with the theme, Innovation &amp; Entrepreneurship Outreach Program in Schools-Revolutionizing Connectivity: “Cutting-Edge Concepts in Internet of Things”.",
+            "The Department of Computer Science and Engineering in coordination with Extension cell has successfully conducted an Extension activity for the school students on 11.03.2024 at Ottakkalmandapam, Coimbatore, with the theme “Innovative Realms: Exploring Boundary-Pushing Concepts in 3D Game Development”.",
+            "The Department of Computer Science and Engineering in coordination with Extension cell and Rotaract Club, Karpagam Academy of Higher Education has successfully organized an Extension activity on 31st January, 2023 at Government School, Malumichampatty, Coimbatore with the theme “Cyber Safe Girl Awareness Programme”."
           ]
         }
       ]
