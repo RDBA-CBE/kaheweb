@@ -673,15 +673,9 @@
       "desc": "Learn more about KAHE.",
       "src": "/images/banner/co-men.png",
       "menuItems": [
+       
         {
           "id": 1,
-          "title": "Office of International Affairs",
-          "link": "/kahe/office-of-international-affairs",
-          "desc": "Learn more about KAHE overview.",
-          "src": "/images/banner/co-men.png"
-        },
-        {
-          "id": 2,
           "title": "Overview",
           "link": "/kahe/office-of-international-affairs/office-of-international-affairs-overview/",
           "desc": "Learn more about KAHE overview.",

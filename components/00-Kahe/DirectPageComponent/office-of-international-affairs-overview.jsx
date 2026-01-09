@@ -11,6 +11,7 @@ import Sidebar2 from "../common-components/Sidebar2";
 import { OfficeOfInternationalAffairsJson, Research } from "@/JSON/ACADEMIC/Overview";
 import CounterStyle from "../Components/CounterStyle";
 import PatentsStats from "../Components/PatentsStats";
+import Commitee from "../Components/About/Commitee";
 
 const OfficeOfInternationalAffairsOverview = () => {
   const research = data;
@@ -28,6 +29,11 @@ const OfficeOfInternationalAffairsOverview = () => {
           </section>
 
           <AboutOverview data={research?.overview} />
+          <section className="section-wid section-bg1">
+
+          <Commitee data={research?.examinations} />
+          </section>
+
 
         
 
