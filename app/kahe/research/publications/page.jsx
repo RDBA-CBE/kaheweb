@@ -2,8 +2,8 @@ import ResearchPublications from "@/components/00-Kahe/DirectPageComponent/Resea
 
 
 export const metadata = {
-  title: "About Us 01 - Online Courses & Education NEXTJS14 Template",
-  description: "Online Courses & Education NEXTJS14 Template",
+  title: "Research Publication | Top Engineering College in Coimbatore",
+  description: "KAHE is the top Engineering College in Coimbatore. Explore our research publications to discover new ideas &amp; insights on the latest developments in technology.",
 };
 const page = () => {
   return (

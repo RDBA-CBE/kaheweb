@@ -2,8 +2,8 @@ import FundedResearch from "@/components/00-Kahe/DirectPageComponent/FundedResea
 
 
 export const metadata = {
-  title: "About Us 01 - Online Courses & Education NEXTJS14 Template",
-  description: "Online Courses & Education NEXTJS14 Template",
+  title: "Funded Research Projects | Degree College in Coimbatore",
+  description: "Refer to the list of Funded research projects, other grants, and awards at the Best Degree College in Coimbatore, Tamilnadu - KAHE.",
 };
 const page = () => {
   return (

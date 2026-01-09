@@ -1,8 +1,8 @@
 {
   "bannerCon": {
-    "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+    "bannerImg": "/images/Kahe/research/patents-banner.webp",
     "title": "Patents",
-    "bannerCon": "To be a leading institution in the field of education, providing quality education and training to students and professionals."
+    "bannerCon": "Encouraging originality and invention through patented research outcomes"
   },
   "fundedResearch": {
     "title": "Patents",
@@ -29,9 +29,9 @@
   },
   "consultancy": {
     "bannerCon": {
-      "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+      "bannerImg": "/images/Kahe/research/researchconsultancy-banner.webp",
       "title": "Research Consultancy",
-      "bannerCon": "To be a leading institution in the field of education, providing quality education and training to students and professionals.",
+      "bannerCon": "Bridging academic expertise and industry needs through research consultancy.",
       "applyLink": "/"
     },
     "fundedResearch": {
@@ -60,9 +60,9 @@
   },
   "phd_scholars": {
     "bannerCon": {
-      "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+      "bannerImg": "/images/Kahe/research/listofphdresearchscholars-banner.webp",
       "title": "List of PhD Research Scholars",
-      "bannerCon": "To be a leading institution in the field of education, providing quality education and training to students and professionals.",
+      "bannerCon": "Dedicated scholars pursuing advanced research towards doctoral excellence.",
       "applyLink": "/"
     },
     "fundedResearch": {
@@ -91,9 +91,9 @@
   },
   "phd_guide": {
     "bannerCon": {
-      "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+      "bannerImg": "/images/Kahe/research/phdsesearchsupervisors-banner.webp",
       "title": "List of PhD Research Supervisors",
-      "bannerCon": "To be a leading institution in the field of education, providing quality education and training to students and professionals.",
+      "bannerCon": "Experienced faculty guiding scholars towards doctoral research excellence",
       "applyLink": "/"
     },
     "fundedResearch": {

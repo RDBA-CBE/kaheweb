@@ -30,10 +30,7 @@ const  ResearchPublications = () => {
             <TableCom data={data?.publications} />
           </section>
 
-         
-          
 
-         
 
           <Sidebar2 subMenu={Research} />
         </Context>

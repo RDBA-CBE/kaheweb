@@ -2,8 +2,8 @@ import AnnualResearch from "@/components/00-Kahe/DirectPageComponent/AnnualResea
 
 
 export const metadata = {
-  title: "About Us 01 - Online Courses & Education NEXTJS14 Template",
-  description: "Online Courses & Education NEXTJS14 Template",
+  title: "Annual Research Congress | B.Sc Data Science Colleges",
+  description: "Check the Annual Research Congress at the best B.Sc data science college in Coimbatore &amp; gain an educational experience for a great career.",
 };
 const page = () => {
   return (
