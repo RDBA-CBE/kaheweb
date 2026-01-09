@@ -11,7 +11,7 @@
         "head": [
           {
             "id": "col1",
-            "label": "S. No."
+            "label": ""
           },
           {
             "id": "col2",
@@ -21,7 +21,7 @@
         "data": [
           {
             "col1": {
-              "text": "1"
+              "text": ""
             },
             "col2": {
               "text": "FPA UG 2025 BATCH I YEAR ESE TIME TABLE DEC 2025",
@@ -32,7 +32,7 @@
           },
           {
             "col1": {
-              "text": "2"
+              "text": ""
             },
             "col2": {
               "text": "FPA PG 2025 BATCH I YEAR ESE TIME TABLE DEC 2025",
@@ -47,7 +47,7 @@
         "head": [
           {
             "id": "col1",
-            "label": "S. No."
+            "label": ""
           },
           {
             "id": "col2",
@@ -57,7 +57,7 @@
         "data": [
           {
             "col1": {
-              "text": "1"
+              "text": ""
             },
             "col2": {
               "text": "B.DES (FD) 2025 BATCH I YEAR ESE TIME TABLE DEC 2025",
@@ -68,7 +68,7 @@
           },
           {
             "col1": {
-              "text": "2"
+              "text": ""
             },
             "col2": {
               "text": "ARCHITECTURE 2025 BATCH I YEAR ESE TIME TABLE DEC 2025",
@@ -79,7 +79,7 @@
           },
           {
             "col1": {
-              "text": "3"
+             "text": ""
             },
             "col2": {
               "text": "B.DES (ID)2025 BATCH I YEAR ESE TIME TABLE DEC 2025",
@@ -90,7 +90,7 @@
           },
           {
             "col1": {
-              "text": "4"
+              "text": ""
             },
             "col2": {
               "text": "ARCHITECTURE 2022,2023,2024 BATCH(UG) – DEC 2025",
@@ -101,7 +101,7 @@
           },
           {
             "col1": {
-              "text": "5"
+              "text": ""
             },
             "col2": {
               "text": "B.DES(ID) 2022,2023,2024 BATCH – DEC 2025",
@@ -112,7 +112,7 @@
           },
           {
             "col1": {
-              "text": "6"
+              "text": ""
             },
             "col2": {
               "text": "B.DES(FD)2023,2024 BATCH – DEC 2025",
@@ -123,7 +123,7 @@
           },
           {
             "col1": {
-              "text": "7"
+             "text": ""
             },
             "col2": {
               "text": "M.PLAN 2024 BATCH – DEC 2025",
@@ -138,7 +138,7 @@
         "head": [
           {
             "id": "col1",
-            "label": "S. No."
+            "label": ""
           },
           {
             "id": "col2",
@@ -148,7 +148,7 @@
         "data": [
           {
             "col1": {
-              "text": "1"
+              "text": ""
             },
             "col2": {
               "text": "PG 2025 BATCH – DEC 2025",
@@ -159,7 +159,7 @@
           },
           {
             "col1": {
-              "text": "2"
+              "text": ""
             },
             "col2": {
               "text": "UG 2025 BATCH – DEC 2025",
@@ -170,7 +170,7 @@
           },
           {
             "col1": {
-              "text": "2"
+              "text": ""
             },
             "col2": {
               "text": "PG 2024 BATCH – NOV 2025",
@@ -181,7 +181,7 @@
           },
           {
             "col1": {
-              "text": "2"
+              "text": ""
             },
             "col2": {
               "text": "UG 2024 BATCH – NOV 2025",
@@ -192,7 +192,7 @@
           },
           {
             "col1": {
-              "text": "2"
+              "text": ""
             },
             "col2": {
               "text": "UG 2023 BATCH – NOV 2025",
@@ -203,7 +203,7 @@
           },
           {
             "col1": {
-              "text": "2"
+              "text": ""
             },
             "col2": {
               "text": "UG 2022 BATCH – SEP 2025",
@@ -218,7 +218,7 @@
         "head": [
           {
             "id": "col1",
-            "label": "S. No."
+            "label": ""
           },
           {
             "id": "col2",
@@ -228,7 +228,7 @@
         "data": [
           {
             "col1": {
-              "text": "1"
+              "text": ""
             },
             "col2": {
               "text": "FASCM 2025 UG BATCH",
@@ -239,7 +239,7 @@
           },
           {
             "col1": {
-              "text": "2"
+              "text": ""
             },
             "col2": {
               "text": "FASCM 2025 PG BATCH",
@@ -250,7 +250,7 @@
           },
           {
             "col1": {
-              "text": "2"
+              "text": ""
             },
             "col2": {
               "text": "FASCM 2024 UG BATCH",
@@ -261,7 +261,7 @@
           },
           {
             "col1": {
-              "text": "2"
+              "text": ""
             },
             "col2": {
               "text": "FASCM 2024 PG BATCH",
@@ -272,7 +272,7 @@
           },
           {
             "col1": {
-              "text": "2"
+              "text": ""
             },
             "col2": {
               "text": "FASCM 2023 UG BATCH",
@@ -287,7 +287,7 @@
         "head": [
           {
             "id": "col1",
-            "label": "S. No."
+            "label": ""
           },
           {
             "id": "col2",
@@ -297,7 +297,7 @@
         "data": [
           {
             "col1": {
-              "text": "1"
+              "text": ""
             },
             "col2": {
               "text": "FADP 2025 BATCH I YEAR ESE FEE CIRCULAR DEC 2025",
@@ -308,7 +308,7 @@
           },
           {
             "col1": {
-              "text": "2"
+              "text": ""
             },
             "col2": {
               "text": "FPA UG & PG 2025 BATCH I YEAR ESE FEE CIRCULAR DEC 2025",
@@ -323,7 +323,7 @@
         "head": [
           {
             "id": "col1",
-            "label": "S. No."
+            "label": ""
           },
           {
             "id": "col2",
@@ -333,7 +333,7 @@
         "data": [
           {
             "col1": {
-              "text": "1"
+              "text": ""
             },
             "col2": {
               "text": "Exam Fee Circular",
@@ -348,7 +348,7 @@
         "head": [
           {
             "id": "col1",
-            "label": "S. No."
+            "label": ""
           },
           {
             "id": "col2",
@@ -358,7 +358,7 @@
         "data": [
           {
             "col1": {
-              "text": "1"
+              "text": ""
             },
             "col2": {
               "text": " Archives",

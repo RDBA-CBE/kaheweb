@@ -5,73 +5,101 @@
     "bannerCon": "Measuring understanding continuously, ensuring academic growth.",
     "applyLink": "/"
   },
-  "ciaTest": {
-    "title": "CIA",
-
+  "timeTable": {
+    "title": "Time Table",
     "content": [
       {
-        "subtitle": "CIA-III-Time-Table",
+        "subtitle": "III UG CIA-1",
+        "id": 1,
+        "list": [
+          {
+            "src": "/images/Kahe/Innerpages/file.png",
+            "item": "Open Pdf",
+            "url": "https://kahedu.edu.in/n/wp-content/uploads/2026/01/III-UG-CIA-1.pdf",
+            "target": "__blank"
+          }
+        ]
+      },
+      {
+        "subtitle": "CIA III Time Table",
         "id": 1,
         "list": [
           {
             "src": "/images/Kahe/Innerpages/file.png",
             "item": "Open Pdf",
             "url": "https://kahedu.edu.in/n/wp-content/uploads/2025/08/20250819235833.pdf",
-            "target":"__blank"
+            "target": "__blank"
           }
-        
         ]
       },
-       {
-        "subtitle": "CIA-II-Time-Table",
+      {
+        "subtitle": "CIA II Time Table",
         "id": 1,
         "list": [
           {
             "src": "/images/Kahe/Innerpages/file.png",
             "item": "Open Pdf",
             "url": "https://kahedu.edu.in/n/wp-content/uploads/2025/08/Time-Table-CIA-II-III-UG.pdf",
-            "target":"__blank"
+            "target": "__blank"
           }
-        
-        ]
-      },
-       {
-        "subtitle": "Instructions for Students",
-        "id": 1,
-        "list": [
-          {
-            "src": "/images/Kahe/Innerpages/file.png",
-            "item": "Open Pdf",
-            "url": "https://kahedu.edu.in/n/wp-content/uploads/2025/08/Instruction-of-Students.pdf",
-            "target":"__blank"
-          }
-        
         ]
       },
       {
-        "subtitle": "Instruction of Invigilators",
-        "id": 1,
-        "list": [
-          {
-            "src": "/images/Kahe/Innerpages/file.png",
-            "item": "Open Pdf",
-            "url": "https://kahedu.edu.in/n/wp-content/uploads/2025/08/Instruction-of-Invigilators.pdf",
-            "target":"__blank"
-          }
-        
-        ]
-      },
-      {
-        "subtitle": "CIA-I-TIME-TABLE",
+        "subtitle": "CIA I Time Table",
         "id": 1,
         "list": [
           {
             "src": "/images/Kahe/Innerpages/file.png",
             "item": "Open Pdf",
             "url": "https://kahedu.edu.in/n/wp-content/uploads/2025/07/CIA-1.pdf",
-            "target":"__blank"
+            "target": "__blank"
           }
-        
+        ]
+      }
+    ]
+  },
+  "circular": {
+    "title": "Circular",
+    "content": [
+      {
+        "subtitle": "Circular for CIA I Examination III UG",
+        "id": 1,
+        "list": [
+          {
+            "src": "/images/Kahe/Innerpages/file.png",
+            "item": "Open Pdf",
+            "url": "https://kahedu.edu.in/n/wp-content/uploads/2026/01/Circular-for-CIA-I-Examination-III-UG-.pdf",
+            "target": "__blank"
+          }
+        ]
+      }
+    ]
+  },
+  "instructions": {
+    "title": "Instructions",
+    "content": [
+      {
+        "subtitle": "Instruction for Student",
+        "id": 1,
+        "list": [
+          {
+            "src": "/images/Kahe/Innerpages/file.png",
+            "item": "Open Pdf",
+            "url": "https://kahedu.edu.in/n/wp-content/uploads/2025/08/Instruction-of-Students.pdf",
+            "target": "__blank"
+          }
+        ]
+      },
+      {
+        "subtitle": "Instruction for Invigilators",
+        "id": 1,
+        "list": [
+          {
+            "src": "/images/Kahe/Innerpages/file.png",
+            "item": "Open Pdf",
+            "url": "https://kahedu.edu.in/n/wp-content/uploads/2025/08/Instruction-of-Invigilators.pdf",
+            "target": "__blank"
+          }
         ]
       }
     ]
