@@ -1,0 +1,1341 @@
+{
+  "title": "Department of Biochemistry",
+  "bannerCon": "The University of Wyoming welcomes students to experience a one-of-a-kind education in the heart of the Mountain West.",
+  "bannerImg": "/images/Kahe/academics/arts-and-science/biochemistry/biochemistry-banner.png",
+  "tabs": [
+    {
+      "id": "annual_report",
+      "label": "Annual Reports"
+    },
+    {
+      "id": "IQAC",
+      "label": "IQAC"
+    },
+    {
+      "id": "NIRF",
+      "label": "NIRF"
+    },
+    {
+      "id": "NAAC",
+      "label": "NAAC"
+    },
+    {
+      "id": "Approvals",
+      "label": "Approvals"
+    },
+    {
+      "id": "MandatoryDisclosures",
+      "label": "Mandatory Disclosures"
+    },
+    {
+      "id": "SDG",
+      "label": "SDG"
+    }
+  ],
+  "tabContent": [
+    {
+      "tab": "annual_report",
+      "title": "Annual Reports",
+      "annual_report": [
+        {
+          "content": [
+            {
+              "subtitle": "Annual Report 2019-2020",
+              "id": 1,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "title": "Annual Report 2019-2020",
+                  "item": "Open Pdf",
+                  "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/Annual-Report-2019-2020.pdf",
+                  "target": "_blank"
+                }
+              ]
+            },
+            {
+              "subtitle": "Annual Report 2018-2019",
+              "id": 1,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "title": "Annual Report 2019-2020",
+                  "item": "Open Pdf",
+                  "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/Annual-Report-2018-2019.pdf",
+                  "target": "_blank"
+                }
+              ]
+            },
+            {
+              "subtitle": "Annual Report 2017-2018",
+              "id": 1,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "title": "Annual Report 2019-2020",
+                  "item": "Open Pdf",
+                  "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/Annual-Report-2017-2018.pdf",
+                  "target": "_blank"
+                }
+              ]
+            },
+            {
+              "subtitle": "Annual Report 2016",
+              "id": 1,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "title": "Annual Report 2019-2020",
+                  "item": "Open Pdf",
+                  "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/Annual-Report-2016.pdf",
+                  "target": "_blank"
+                }
+              ]
+            },
+            {
+              "subtitle": "Annual Report 2015",
+              "id": 1,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "title": "Annual Report 2019-2020",
+                  "item": "Open Pdf",
+                  "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/Annual-Report-2015.pdf",
+                  "target": "_blank"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tab": "iqac",
+      "title": "IQAC",
+      "IQAC": [
+        {
+          "content": [
+            {
+              "subtitle": "Annual Report 2019-2020",
+              "id": 1,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "title": "Annual Report 2019-2020",
+                  "item": "Open Pdf",
+                  "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/Annual-Report-2019-2020.pdf",
+                  "target": "_blank"
+                }
+              ]
+            },
+            {
+              "subtitle": "Annual Report 2018-2019",
+              "id": 1,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "title": "Annual Report 2019-2020",
+                  "item": "Open Pdf",
+                  "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/Annual-Report-2018-2019.pdf",
+                  "target": "_blank"
+                }
+              ]
+            },
+            {
+              "subtitle": "Annual Report 2017-2018",
+              "id": 1,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "title": "Annual Report 2019-2020",
+                  "item": "Open Pdf",
+                  "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/Annual-Report-2017-2018.pdf",
+                  "target": "_blank"
+                }
+              ]
+            },
+            {
+              "subtitle": "Annual Report 2016",
+              "id": 1,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "title": "Annual Report 2019-2020",
+                  "item": "Open Pdf",
+                  "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/Annual-Report-2016.pdf",
+                  "target": "_blank"
+                }
+              ]
+            },
+            {
+              "subtitle": "Annual Report 2015",
+              "id": 1,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "title": "Annual Report 2019-2020",
+                  "item": "Open Pdf",
+                  "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/Annual-Report-2015.pdf",
+                  "target": "_blank"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tab": "NIRF",
+      "title": "NIRF",
+      "NIRF": [
+        {
+          "content": [
+            {
+              "subtitle": "NIRF",
+              "id": 1,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "title": "NIRF",
+                  "item": "Open Pdf",
+                  "url": "https://kahedu.edu.in/nirf/",
+                  "target": "_blank"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tab": "NAAC",
+      "title": "NAAC",
+      "NAAC": [
+        {
+          "content": [
+            {
+              "subtitle": "NAAC",
+              "id": 1,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "title": "NAAC",
+                  "item": "Open Pdf",
+                  "url": "https://kahedu.edu.in/n/wp-content/uploads/2023/07/NAAC-Certificate-2021.pdf",
+                  "target": "_blank"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tab": "MandatoryDisclosures",
+      "title": "Mandatory Disclosures",
+      "MandatoryDisclosures": [
+        {
+          "content": [
+            {
+              "subtitle": "UGC Mandatory Disclosure",
+              "id": 1,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "title": "NAAC",
+                  "item": "Open Pdf",
+                  "url": "https://kahedu.edu.in/n/wp-content/uploads/2025/03/UGC-Mandatory-disclosure_KAHE.pdf",
+                  "target": "_blank"
+                }
+              ]
+            },
+            {
+              "subtitle": "AICTE – Mandatory Disclosure",
+              "id": 1,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "title": "NAAC",
+                  "item": "Open Pdf",
+                  "url": "https://kahedu.edu.in/md/mandatory-disclosure-2022.pdf",
+                  "target": "_blank"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tab": "Approvals",
+      "title": "Approvals",
+      "Approvals": [
+        {
+          "content": [
+            {
+              "subtitle": "UGC",
+              "id": 1,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "title": "NIRF",
+                  "item": "Open Pdf",
+                  "url": "https://kahedu.edu.in/n/wp-content/uploads/2023/07/UGC-approval-letter-2009.pdf",
+                  "target": "_blank"
+                }
+              ]
+            },
+            {
+              "subtitle": "MHRD",
+              "id": 1,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "title": "NIRF",
+                  "item": "Open Pdf",
+                  "url": "https://kahedu.edu.in/n/wp-content/uploads/2023/07/MHRD-approval-letter-2008.pdf",
+                  "target": "_blank"
+                }
+              ]
+            },
+            {
+              "subtitle": "AICTE",
+              "id": 1,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "title": "NIRF",
+                  "item": "Open Pdf",
+                  "url": "https://kahedu.edu.in/n/wp-content/uploads/2024/08/KAHE_AICTE_EOA_2024-2025.pdf",
+                  "target": "_blank"
+                }
+              ]
+            },
+            {
+              "subtitle": "B.Arch",
+              "id": 1,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "title": "B.Arch",
+                  "item": "Open Pdf",
+                  "url": "https://kahedu.edu.in/n/wp-content/uploads/2023/07/CoA-Approval-B.Arch_.pdf",
+                  "target": "_blank"
+                }
+              ]
+            },
+            {
+              "subtitle": "M.Arch",
+              "id": 1,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "title": "M.Arch",
+                  "item": "Open Pdf",
+                  "url": "https://kahedu.edu.in/n/wp-content/uploads/2023/07/CoA-Approval-M.Arch_.pdf",
+                  "target": "_blank"
+                }
+              ]
+            },
+            {
+              "subtitle": "PCI",
+              "id": 1,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "title": "PCI",
+                  "item": "Open Pdf",
+                  "url": "https://kahedu.edu.in/n/wp-content/uploads/2024/09/PCI-DECISION-LETTER-FOP-KAHE.pdf",
+                  "target": "_blank"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tab": "annual_report",
+      "items": [
+        {
+          "type": "annual_report",
+          "subTitle": "Annual Report 2019-2020",
+          "contents": "The department of Biochemistry was established in the year 2008. The main objective of the department is to provide deep insight into the fundamental concepts in biochemistry and to equip students with biological knowledge enabling them to explore a wide range of opportunities in biological fields. Our undergraduate programme is uniquely framed with balanced theoretical and practical courses following CBCS. Our postgraduate programme is aimed at equipping skills in different experiments to address specific problems. This would cater to the needs of clinical laboratory, industrial requirements and entrepreneurship. The Department has well equipped undergraduation, postgraduation and Research labs with sophisticated instruments such as Inverted Microscope, Fluorescent Microscope, Fluorimeter, UV Spectrophotometer, Microplate reader, Lyophiliser, Rotary Evaporator, chemi-doc etc. In addition, we have a well-established Animal House Facility approved by CPCSEA with a functioning IAEC. The facility houses different rodent models for training and research purposes. We have conducted ICMR/KAHE funded workshops in animal handling. To maintain a pathogen free environment for immunocompromised strains, we have Individual Ventilated Cages (IVC). The department also hosts animal tissue culture laboratory (ATC) with state-of-the-art facilities such as biosafety cabinet, CO2 incubator, inverted phase-contrast microscope, deep-freezer, liquid nitrogen containers to study the cell-based research objectives. The department routinely conducts guest lectures, seminars, conferences and workshops funded by DBT, DST, TNSCST, ICMR and INSA. All the faculties hold PhD degree in diverse fields of biochemistry with good experience in teaching and research. Our students are placed in reputed institutions/organizations to pursue advanced training/career. The department encourages students to take part in sports, extracurricular and extension activities. The department has so far completed 5 major research projects funded by ICMR, UGC, DST and 3 minor research projects funded by UGC and KAHE. The research findings of the faculty members and students have been published in reputed international journals. At present the department has published more than 200 research articles. The major thrust area of research includes Diabetes, Cancer Biology, Phytomedicine, Nanomedicine and Computational Biology.",
+          "image": "/images/others/video-07.jpg"
+        },
+        {
+          "type": "vision",
+          "subTitle": "Annual Report 2018-2019",
+          "src": "/images/Kahe/Innerpages/vision.png",
+          "content": [
+            "To provide scientific research at the highest international standard, integrating cutting-edge multidisciplinary approaches to solving significant problems in biology and medicine.",
+            "Motivate students to develop as internationally competitive professionals with excellent leadership, communication with teamwork skills."
+          ]
+        },
+        {
+          "type": "mission",
+          "subTitle": "Annual Report 2017-2018",
+          "src": "/images/Kahe/Innerpages/goal.png",
+          "content": [
+            "To provide a high quality education and learning experience for our undergraduate and postgraduate students through.",
+            "To encourage students to develop mathematical models.",
+            "To make students as professionals with social and economic responsibilities.",
+            "To encourage collaborative research with other disciplines."
+          ]
+        },
+        {
+          "type": "mission",
+          "subTitle": "Annual Report 2016",
+          "src": "/images/Kahe/Innerpages/goal.png",
+          "content": [
+            "To provide a high quality education and learning experience for our undergraduate and postgraduate students through.",
+            "To encourage students to develop mathematical models.",
+            "To make students as professionals with social and economic responsibilities.",
+            "To encourage collaborative research with other disciplines."
+          ]
+        },
+        {
+          "type": "mission",
+          "subTitle": "Annual Report 2015",
+          "src": "/images/Kahe/Innerpages/goal.png",
+          "content": [
+            "To provide a high quality education and learning experience for our undergraduate and postgraduate students through.",
+            "To encourage students to develop mathematical models.",
+            "To make students as professionals with social and economic responsibilities.",
+            "To encourage collaborative research with other disciplines."
+          ]
+        }
+      ]
+    },
+    {
+      "tab": "SDG",
+      "title": "SDG",
+      "SDG": [
+        {
+          "content": [
+            {
+              "subtitle": "Current collaborations with health institutions",
+              "id": 1,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "title": "SDG",
+                  "item": "Open Pdf",
+                  "url": "https://kahedu.edu.in/SDG/2025/3.3.1.pdf",
+                  "target": "_blank"
+                }
+              ]
+            },
+            {
+              "subtitle": "Health outreach programmes",
+              "id": 2,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "title": "SDG",
+                  "item": "Open Pdf",
+                  "url": "https://kahedu.edu.in/SDG/2025/3.3.2.pdf",
+                  "target": "_blank"
+                }
+              ]
+            },
+            {
+              "subtitle": "Shared sports facilities",
+              "id": 3,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "title": "SDG",
+                  "item": "Open Pdf",
+                  "url": "https://kahedu.edu.in/SDG/2025/3.3.3.pdf",
+                  "target": "_blank"
+                }
+              ]
+            },
+            {
+              "subtitle": "Sexual and reproductive health care services for students",
+              "id": 4,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "title": "SDG",
+                  "item": "Open Pdf",
+                  "url": "https://kahedu.edu.in/SDG/2025/3.3.4.pdf",
+                  "target": "_blank"
+                }
+              ]
+            },
+            {
+              "subtitle": "Mental health support for students",
+              "id": 5,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "title": "SDG",
+                  "item": "Open Pdf",
+                  "url": "https://kahedu.edu.in/SDG/2025/3.3.5.pdf",
+                  "target": "_blank"
+                }
+              ]
+            },
+            {
+              "subtitle": "Smoke-free policy",
+              "id": 6,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "title": "SDG",
+                  "item": "Open Pdf",
+                  "url": "https://kahedu.edu.in/policy/Smoke-Free-Campus-Policy-2023.pdf",
+                  "target": "_blank"
+                }
+              ]
+            },
+            {
+              "subtitle": "Mental health support for staff",
+              "id": 7,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "title": "SDG",
+                  "item": "Open Pdf",
+                  "url": "https://kahedu.edu.in/SDG/2025/3.3.7.pdf",
+                  "target": "_blank"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tab": "SDG",
+      "title": "SDG1",
+      "SDG1": [
+        {
+          "content": [
+            {
+              "subtitle": "Campus food waste tracking",
+              "id": 1,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "title": "SDG",
+                  "item": "Open Pdf",
+                  "url": "https://kahedu.edu.in/SDG/2025/2.2.1.pdf",
+                  "target": "_blank"
+                }
+              ]
+            },
+            {
+              "subtitle": "Student food insecurity and hunger",
+              "id": 1,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "title": "SDG",
+                  "item": "Open Pdf",
+                  "url": "https://kahedu.edu.in/SDG/2025/2.3.1.pdf",
+                  "target": "_blank"
+                }
+              ]
+            },
+            {
+              "subtitle": "Students hunger interventions",
+              "id": 1,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "title": "SDG",
+                  "item": "Open Pdf",
+                  "url": "https://kahedu.edu.in/SDG/2025/2.3.2.pdf",
+                  "target": "_blank"
+                }
+              ]
+            },
+            {
+              "subtitle": "Sustainable food choices on campus",
+              "id": 1,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "title": "SDG",
+                  "item": "Open Pdf",
+                  "url": "https://kahedu.edu.in/SDG/2025/2.3.3.pdf",
+                  "target": "_blank"
+                }
+              ]
+            },
+            {
+              "subtitle": "Healthy and affordable food choices",
+              "id": 1,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "title": "SDG",
+                  "item": "Open Pdf",
+                  "url": "https://kahedu.edu.in/SDG/2025/2.3.4.pdf",
+                  "target": "_blank"
+                }
+              ]
+            },
+            {
+              "subtitle": "Staff hunger interventions",
+              "id": 1,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "title": "SDG",
+                  "item": "Open Pdf",
+                  "url": "https://kahedu.edu.in/SDG/2025/2.3.5.pdf",
+                  "target": "_blank"
+                }
+              ]
+            },
+            {
+              "subtitle": "Access to food security knowledge",
+              "id": 1,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "title": "SDG",
+                  "item": "Open Pdf",
+                  "url": "https://kahedu.edu.in/SDG/2025/2.5.1.pdf",
+                  "target": "_blank"
+                }
+              ]
+            },
+            {
+              "subtitle": "Events for local farmers and food producers",
+              "id": 1,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "title": "SDG",
+                  "item": "Open Pdf",
+                  "url": "https://kahedu.edu.in/SDG/2025/2.5.2.pdf",
+                  "target": "_blank"
+                }
+              ]
+            },
+            {
+              "subtitle": "University access to local farmers and food producers",
+              "id": 1,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "title": "SDG",
+                  "item": "Open Pdf",
+                  "url": "https://kahedu.edu.in/SDG/2025/2.5.3.pdf",
+                  "target": "_blank"
+                }
+              ]
+            },
+            {
+              "subtitle": "Sustainable food purchases",
+              "id": 1,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "title": "SDG",
+                  "item": "Open Pdf",
+                  "url": "https://kahedu.edu.in/SDG/2025/2.5.4.pdf",
+                  "target": "_blank"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tab": "SDG",
+      "title": "SDG5",
+      "SDG5": [
+        {
+          "content": [
+            {
+              "subtitle": "Tracking access measures",
+              "id": 1,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "title": "SDG",
+                  "item": "Open Pdf",
+                  "url": "https://kahedu.edu.in/SDG/2025/5.3.1.pdf",
+                  "target": "_blank"
+                }
+              ]
+            },
+            {
+              "subtitle": "Policy for women applications and entry",
+              "id": 2,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "title": "SDG",
+                  "item": "Open Pdf",
+                  "url": "https://kahedu.edu.in/SDG/2025/5.3.2.pdf",
+                  "target": "_blank"
+                }
+              ]
+            },
+            {
+              "subtitle": "Women’s access schemes",
+              "id": 3,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "title": "SDG",
+                  "item": "Open Pdf",
+                  "url": "https://kahedu.edu.in/SDG/2025/5.3.3.pdf",
+                  "target": "_blank"
+                }
+              ]
+            },
+            {
+              "subtitle": "Women’s application in underrepresented subjects",
+              "id": 4,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "title": "SDG",
+                  "item": "Open Pdf",
+                  "url": "https://kahedu.edu.in/SDG/2025/5.3.4.pdf",
+                  "target": "_blank"
+                }
+              ]
+            },
+            {
+              "subtitle": "Policy of non-discrimination against women",
+              "id": 5,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "title": "SDG",
+                  "item": "Open Pdf",
+                  "url": "https://kahedu.edu.in/SDG/2025/5.6.1.pdf",
+                  "target": "_blank"
+                }
+              ]
+            },
+            {
+              "subtitle": "Non-discrimination policies for transgender",
+              "id": 6,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "title": "SDG",
+                  "item": "Open Pdf",
+                  "url": "https://kahedu.edu.in/SDG/2025/5.6.2.pdf",
+                  "target": "_blank"
+                }
+              ]
+            },
+            {
+              "subtitle": "Maternity policy",
+              "id": 7,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "title": "SDG",
+                  "item": "Open Pdf",
+                  "url": "https://kahedu.edu.in/SDG/2025/5.6.3.pdf",
+                  "target": "_blank"
+                }
+              ]
+            },
+            {
+              "subtitle": "Childcare facilities for students",
+              "id": 8,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "title": "SDG",
+                  "item": "Open Pdf",
+                  "url": "https://kahedu.edu.in/SDG/2025/5.6.4.pdf",
+                  "target": "_blank"
+                }
+              ]
+            },
+            {
+              "subtitle": "Childcare facilities for staff and faculty",
+              "id": 9,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "title": "SDG",
+                  "item": "Open Pdf",
+                  "url": "https://kahedu.edu.in/SDG/2025/5.6.5.pdf",
+                  "target": "_blank"
+                }
+              ]
+            },
+            {
+              "subtitle": "Women’s mentoring schemes",
+              "id": 10,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "title": "SDG",
+                  "item": "Open Pdf",
+                  "url": "https://kahedu.edu.in/SDG/2025/5.6.6.pdf",
+                  "target": "_blank"
+                }
+              ]
+            },
+            {
+              "subtitle": "Track women’s graduation rate",
+              "id": 11,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "title": "SDG",
+                  "item": "Open Pdf",
+                  "url": "https://kahedu.edu.in/SDG/2025/5.6.7.pdf",
+                  "target": "_blank"
+                }
+              ]
+            },
+            {
+              "subtitle": "Policies protecting those reporting discrimination",
+              "id": 12,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "title": "SDG",
+                  "item": "Open Pdf",
+                  "url": "https://kahedu.edu.in/SDG/2025/5.6.8.pdf",
+                  "target": "_blank"
+                }
+              ]
+            },
+            {
+              "subtitle": "Paternity policy",
+              "id": 13,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "title": "SDG",
+                  "item": "Open Pdf",
+                  "url": "https://kahedu.edu.in/SDG/2025/5.6.9.pdf",
+                  "target": "_blank"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tab": "SDG",
+      "title": "SDG7",
+      "SDG7": [
+        {
+          "content": [
+            {
+              "subtitle": "Energy-efficient renovation and building",
+              "id": 1,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "title": "SDG",
+                  "item": "Open Pdf",
+                  "url": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Energy-Efficiency-and-Clean-Energy-Policy-2023.pdf",
+                  "target": "_blank"
+                }
+              ]
+            },
+            {
+              "subtitle": "Upgrade buildings to higher energy efficiency",
+              "id": 2,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "title": "SDG",
+                  "item": "Open Pdf",
+                  "url": "https://kahedu.edu.in/SDG/2025/7.2.2.pdf",
+                  "target": "_blank"
+                }
+              ]
+            },
+            {
+              "subtitle": "Carbon reduction and emission reduction process",
+              "id": 3,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "title": "SDG",
+                  "item": "Open Pdf",
+                  "url": "https://kahedu.edu.in/SDG/2025/7.2.3.pdf",
+                  "target": "_blank"
+                }
+              ]
+            },
+            {
+              "subtitle": "Plan to reduce energy consumption",
+              "id": 4,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "title": "SDG",
+                  "item": "Open Pdf",
+                  "url": "https://kahedu.edu.in/SDG/2025/7.2.4.pdf",
+                  "target": "_blank"
+                }
+              ]
+            },
+            {
+              "subtitle": "Energy wastage identification",
+              "id": 5,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "title": "SDG",
+                  "item": "Open Pdf",
+                  "url": "https://kahedu.edu.in/SDG/2025/7.2.5.pdf",
+                  "target": "_blank"
+                }
+              ]
+            },
+            {
+              "subtitle": "Divestment policy",
+              "id": 6,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "title": "SDG",
+                  "item": "Open Pdf",
+                  "url": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Environmental-Quality-and-Energy-Policy-2023.pdf",
+                  "target": "_blank"
+                }
+              ]
+            },
+            {
+              "subtitle": "Local community outreach for energy efficiency",
+              "id": 7,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "title": "SDG",
+                  "item": "Open Pdf",
+                  "url": "https://kahedu.edu.in/SDG/2025/7.4.1.pdf",
+                  "target": "_blank"
+                }
+              ]
+            },
+            {
+              "subtitle": "100% renewable energy pledge",
+              "id": 8,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "title": "SDG",
+                  "item": "Open Pdf",
+                  "url": "https://kahedu.edu.in/SDG/2025/7.4.2.pdf",
+                  "target": "_blank"
+                }
+              ]
+            },
+            {
+              "subtitle": "Energy efficiency services for industry",
+              "id": 9,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "title": "SDG",
+                  "item": "Open Pdf",
+                  "url": "https://kahedu.edu.in/SDG/2025/7.4.3.pdf",
+                  "target": "_blank"
+                }
+              ]
+            },
+            {
+              "subtitle": "Policy development for clean energy technology",
+              "id": 10,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "title": "SDG",
+                  "item": "Open Pdf",
+                  "url": "https://kahedu.edu.in/SDG/2025/7.4.4.pdf",
+                  "target": "_blank"
+                }
+              ]
+            },
+            {
+              "subtitle": "Assistance to low-carbon innovation",
+              "id": 11,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "title": "SDG",
+                  "item": "Open Pdf",
+                  "url": "https://kahedu.edu.in/SDG/2025/7.4.5.pdf",
+                  "target": "_blank"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tab": "SDG",
+      "title": "SDG10",
+      "SDG10": [
+        {
+          "content": [
+            {
+              "subtitle": "Non-discriminatory admissions policy",
+              "id": 1,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "title": "SDG",
+                  "item": "Open Pdf",
+                  "url": "https://kahedu.edu.in/SDG/2025/10.6.1.pdf",
+                  "target": "_blank"
+                }
+              ]
+            },
+            {
+              "subtitle": "Access to university track underrepresented groups applications",
+              "id": 2,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "title": "SDG",
+                  "item": "Open Pdf",
+                  "url": "https://kahedu.edu.in/SDG/2025/10.6.2.pdf",
+                  "target": "_blank"
+                }
+              ]
+            },
+            {
+              "subtitle": "Access to university underrepresented groups recruit",
+              "id": 3,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "title": "SDG",
+                  "item": "Open Pdf",
+                  "url": "https://kahedu.edu.in/SDG/2025/10.6.3.pdf",
+                  "target": "_blank"
+                }
+              ]
+            },
+            {
+              "subtitle": "Anti-discrimination policies",
+              "id": 4,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "title": "SDG",
+                  "item": "Open Pdf",
+                  "url": "https://kahedu.edu.in/SDG/2025/10.6.4.pdf",
+                  "target": "_blank"
+                }
+              ]
+            },
+            {
+              "subtitle": "University diversity officer",
+              "id": 5,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "title": "SDG",
+                  "item": "Open Pdf",
+                  "url": "https://kahedu.edu.in/SDG/2025/10.6.5.pdf",
+                  "target": "_blank"
+                }
+              ]
+            },
+            {
+              "subtitle": "Support for underrepresented groups",
+              "id": 6,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "title": "SDG",
+                  "item": "Open Pdf",
+                  "url": "https://kahedu.edu.in/SDG/2025/10.6.6.pdf",
+                  "target": "_blank"
+                }
+              ]
+            },
+            {
+              "subtitle": "Accessible facilities",
+              "id": 7,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "title": "SDG",
+                  "item": "Open Pdf",
+                  "url": "https://kahedu.edu.in/SDG/2025/10.6.7.pdf",
+                  "target": "_blank"
+                }
+              ]
+            },
+            {
+              "subtitle": "Disability support services",
+              "id": 8,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "title": "SDG",
+                  "item": "Open Pdf",
+                  "url": "https://kahedu.edu.in/SDG/2025/10.6.8.pdf",
+                  "target": "_blank"
+                }
+              ]
+            },
+            {
+              "subtitle": "Disability access scheme",
+              "id": 9,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "title": "SDG",
+                  "item": "Open Pdf",
+                  "url": "https://kahedu.edu.in/SDG/2025/10.6.9.pdf",
+                  "target": "_blank"
+                }
+              ]
+            },
+            {
+              "subtitle": "Disability accommodation policy",
+              "id": 10,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "title": "SDG",
+                  "item": "Open Pdf",
+                  "url": "https://kahedu.edu.in/SDG/2025/10.6.10.pdf",
+                  "target": "_blank"
+                }
+              ]
+            },
+            {
+              "subtitle": "Anti-harassment policy",
+              "id": 11,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "title": "SDG",
+                  "item": "Open Pdf",
+                  "url": "https://kahedu.edu.in/SDG/2025/10.6.11.pdf",
+                  "target": "_blank"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tab": "SDG",
+      "title": "SDG17",
+      "SDG17": [
+        {
+          "content": [
+            {
+              "subtitle": "Relationships with regional NGOs and government for SDG policy",
+              "id": 1,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "title": "SDG",
+                  "item": "Open Pdf",
+                  "url": "https://kahedu.edu.in/SDG/2025/17.2.1.pdf",
+                  "target": "_blank"
+                }
+              ]
+            },
+            {
+              "subtitle": "Cross sectoral dialogue about SDGs",
+              "id": 2,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "title": "SDG",
+                  "item": "Open Pdf",
+                  "url": "https://kahedu.edu.in/SDG/2025/17.2.2.pdf",
+                  "target": "_blank"
+                }
+              ]
+            },
+            {
+              "subtitle": "International collaboration data gathering for SDG",
+              "id": 3,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "title": "SDG",
+                  "item": "Open Pdf",
+                  "url": "https://kahedu.edu.in/SDG/2025/17.2.3.pdf",
+                  "target": "_blank"
+                }
+              ]
+            },
+            {
+              "subtitle": "Collaboration for SDG best practice",
+              "id": 4,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "title": "SDG",
+                  "item": "Open Pdf",
+                  "url": "https://kahedu.edu.in/SDG/2025/17.2.4.pdf",
+                  "target": "_blank"
+                }
+              ]
+            },
+            {
+              "subtitle": "Collaboration with NGOs for SDGs",
+              "id": 5,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "title": "SDG",
+                  "item": "Open Pdf",
+                  "url": "https://kahedu.edu.in/SDG/2025/17.2.5.pdf",
+                  "target": "_blank"
+                }
+              ]
+            },
+            {
+              "subtitle": "SDG 2 report",
+              "id": 6,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "title": "SDG",
+                  "item": "Open Pdf",
+                  "url": "https://kahedu.edu.in/SDG/2025/17.3.2.pdf",
+                  "target": "_blank"
+                }
+              ]
+            },
+            {
+              "subtitle": "SDG 3 report",
+              "id": 7,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "title": "SDG",
+                  "item": "Open Pdf",
+                  "url": "https://kahedu.edu.in/SDG/2025/17.3.3.pdf",
+                  "target": "_blank"
+                }
+              ]
+            },
+            {
+              "subtitle": "SDG 5 report",
+              "id": 8,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "title": "SDG",
+                  "item": "Open Pdf",
+                  "url": "https://kahedu.edu.in/SDG/2025/17.3.5.pdf",
+                  "target": "_blank"
+                }
+              ]
+            },
+            {
+              "subtitle": "SDG 7 report",
+              "id": 9,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "title": "SDG",
+                  "item": "Open Pdf",
+                  "url": "https://kahedu.edu.in/SDG/2025/17.3.7.pdf",
+                  "target": "_blank"
+                }
+              ]
+            },
+            {
+              "subtitle": "SDG 9 report",
+              "id": 10,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "title": "SDG",
+                  "item": "Open Pdf",
+                  "url": "https://kahedu.edu.in/SDG/2025/17.3.9.pdf",
+                  "target": "_blank"
+                }
+              ]
+            },
+            {
+              "subtitle": "SDG 10 report",
+              "id": 11,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "title": "SDG",
+                  "item": "Open Pdf",
+                  "url": "https://kahedu.edu.in/SDG/2025/17.3.10.pdf",
+                  "target": "_blank"
+                }
+              ]
+            },
+            {
+              "subtitle": "SDG 17 report",
+              "id": 12,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "title": "SDG",
+                  "item": "Open Pdf",
+                  "url": "https://kahedu.edu.in/SDG/2025/17.3.17.pdf",
+                  "target": "_blank"
+                }
+              ]
+            },
+            {
+              "subtitle": "Education for SDGs commitment to meaningful education",
+              "id": 13,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "title": "SDG",
+                  "item": "Open Pdf",
+                  "url": "https://kahedu.edu.in/SDG/2025/17.4.1.pdf",
+                  "target": "_blank"
+                }
+              ]
+            },
+            {
+              "subtitle": "Education for SDGs specific courses on sustainability",
+              "id": 14,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "title": "SDG",
+                  "item": "Open Pdf",
+                  "url": "https://kahedu.edu.in/SDG/2025/17.4.2.pdf",
+                  "target": "_blank"
+                }
+              ]
+            },
+            {
+              "subtitle": "Education for SDGs in the wider community",
+              "id": 15,
+              "list": [
+                {
+                  "src": "/images/Kahe/Innerpages/file.png",
+                  "title": "SDG",
+                  "item": "Open Pdf",
+                  "url": "https://kahedu.edu.in/SDG/2025/17.4.3.pdf",
+                  "target": "_blank"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
