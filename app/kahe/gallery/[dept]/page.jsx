@@ -1,4 +1,5 @@
 "use client";
+import Breadcrumb from "@/components/00-Kahe/common-components/BreadCrumb";
 import InnerSubBanner from "@/components/00-Kahe/common-components/InnerSubBanner";
 import GalleryPage from "@/components/00-Kahe/DirectPageComponent/GalleryPage";
 import { useEffect, useState } from "react";
@@ -32,6 +33,7 @@ const Page = () => {
   return (
     <>
       <InnerSubBanner data={bannerCon} />
+      <Breadcrumb items={content?.breadcrumbItems} />
       <GalleryPage content={content}/>
     
     </>

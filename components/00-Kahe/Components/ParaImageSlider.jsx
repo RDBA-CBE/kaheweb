@@ -4,7 +4,7 @@ import Slider from "../common-components/Slider";
 import Link from "next/link";
 import { FirstLetterUp } from "@/utils/functions.utils";
 
-const SliderContent = ({ data, order }) => {
+const ParaImageSlider = ({ data, order }) => {
   return (
     <>
       <div className="slider-con">
@@ -71,4 +71,4 @@ const SliderContent = ({ data, order }) => {
   );
 };
 
-export default SliderContent;
+export default ParaImageSlider;

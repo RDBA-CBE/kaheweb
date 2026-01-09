@@ -18,7 +18,9 @@ const Overview = ({ overviewContent }) => {
   const visionItem = overviewContent?.find((item) => item.type === "vision");
   const missionItem = overviewContent?.find((item) => item.type === "mission");
 
-  const highlightItem = overviewContent?.find((item) => item.type === "highlights");
+  const highlightItem = overviewContent?.find(
+    (item) => item.type === "highlights"
+  );
   const hodItem = overviewContent?.find((item) => item.type === "hod");
 
   const [splitLimit, setSplitLimit] = useState(350);
@@ -76,7 +78,11 @@ const Overview = ({ overviewContent }) => {
             {/* Render first part with proper sentence splitting */}
             {splitResult.firstPart && (
               <div className="first-part-content">
-                {splitChar(splitResult.firstPart, splitLimit,overviewItem?.tagClasses)}
+                {splitChar(
+                  splitResult.firstPart,
+                  splitLimit,
+                  overviewItem?.tagClasses
+                )}
               </div>
             )}
           </div>
@@ -98,7 +104,11 @@ const Overview = ({ overviewContent }) => {
         <div className="section-bg2" style={{ margin: "40px 0" }}>
           <div className="section-wid">
             <div className="remaining-content">
-              {splitChar(splitResult.remaining, splitLimit,overviewItem?.tagClasses)}
+              {splitChar(
+                splitResult.remaining,
+                splitLimit,
+                overviewItem?.tagClasses
+              )}
             </div>
           </div>
         </div>
@@ -110,18 +120,21 @@ const Overview = ({ overviewContent }) => {
         </div>
       )}
 
-     {highlightItem && (
-       <section className="section-bg1">
-         <CounterStyle data={highlightItem?.items} />
-       </section>
-     )}
+      {highlightItem && (
+        <section className="section-bg1">
+          <CounterStyle data={highlightItem?.items} />
+        </section>
+      )}
 
-     {hodItem &&
-      <section className="section-wid section-bg1">
-        <ImageLink data={hodItem?.items} />
-      </section>
-      
-     }
+      {hodItem && (
+        <section className="section-wid section-bg1">
+          <ImageLink
+            data={hodItem?.items}
+            firstParaLimit={9999}
+            firstParaSplit={9999}
+          />
+        </section>
+      )}
     </div>
   );
 };

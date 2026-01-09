@@ -653,13 +653,15 @@
           "id": 15,
           "title": "Research Database",
           "link": "https://kaherdb.in/",
-          "desc": "Learn more about KAHE overview."
+          "desc": "Learn more about KAHE overview.",
+          "target": "_blank"
         },
         {
           "id": 16,
           "title": "Consultancy Policy",
           "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/07/Consultancy-Policy.pdf",
-          "desc": "Learn more about KAHE overview."
+          "desc": "Learn more about KAHE overview.",
+          "target": "_blank"
         }
       ]
     },
@@ -673,15 +675,9 @@
       "desc": "Learn more about KAHE.",
       "src": "/images/banner/co-men.png",
       "menuItems": [
+       
         {
           "id": 1,
-          "title": "Office of International Affairs",
-          "link": "/kahe/office-of-international-affairs",
-          "desc": "Learn more about KAHE overview.",
-          "src": "/images/banner/co-men.png"
-        },
-        {
-          "id": 2,
           "title": "Overview",
           "link": "/kahe/office-of-international-affairs/office-of-international-affairs-overview/",
           "desc": "Learn more about KAHE overview.",

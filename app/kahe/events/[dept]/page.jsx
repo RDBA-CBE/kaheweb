@@ -1,4 +1,5 @@
 "use client";
+import Breadcrumb from "@/components/00-Kahe/common-components/BreadCrumb";
 import InnerSubBanner from "@/components/00-Kahe/common-components/InnerSubBanner";
 import Eventspage from "@/components/00-Kahe/DirectPageComponent/Eventspage";
 import { FirstLetterUp } from "@/utils/functions.utils";
@@ -17,33 +18,18 @@ const Page = () => {
 
   if (!eventsContent) return <div>Loading...</div>;
 
-  console.log("eventsContent",eventsContent);
-  
+  console.log("eventsContent", eventsContent);
 
   const bannerCon = {
     bannerImg: "/images/Kahe/breadcrumb/banner-inner1.jpg",
     title: "Events",
   };
 
-  //  const breadcrumbItems = [
-  //   { label: "Academics", href: `academics` },
-  //   {
-  //     label: "Arts, Science, Commerce and Management",
-  //     href: `academics/arts-science-and-humanities/`,
-  //   },
-
-  //   { label: "Department of BioTechnology",
-  //        href: `/academics/arts-science-and-humanities/department-of-biotechnology`,
-  //    },
-  //   { label: "Faculty" },
-  // ];
-
   return (
     <>
       <InnerSubBanner data={bannerCon} />
-      {/* <Breadcrumb items={breadcrumbItems} /> */}
-      <Eventspage eventsContent={eventsContent}/>
-     
+      <Breadcrumb items={eventsContent?.breadcrumbItems} />
+      <Eventspage eventsContent={eventsContent} />
     </>
   );
 };
