@@ -4,7 +4,7 @@ import TimelinePresentationPage from "@/components/00-Kahe/DirectPageComponent/T
 
 export const metadata = {
   title: "Timeline Presentation - KAHE Research",
-  description: "Timeline Presentation - KAHE Research",
+  description: "Timeline Presentation - Research Scholars ",
 };
 
 const page = () => {

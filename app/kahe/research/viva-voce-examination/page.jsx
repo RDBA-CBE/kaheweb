@@ -3,8 +3,8 @@ import ForeignLanguages from "@/components/00-Kahe/OfficeOfInternationalCompoene
 import StudentsExProCom from "@/components/00-Kahe/OfficeOfInternationalCompoenets/StudentsExProCom";
 
 export const metadata = {
-  title: "About Us 01 - Online Courses & Education NEXTJS14 Template",
-  description: "Online Courses & Education NEXTJS14 Template",
+  title: "Viva-Voce Examination | Top Microbiology College In India",
+  description: "Check the list of viva-voce examinations conducted through video conference at the Top Microbiology College In India - Karpagam Academy of Higher Education",
 };
 const page = () => {
   return (

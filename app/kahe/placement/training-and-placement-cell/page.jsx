@@ -2,8 +2,8 @@ import PlacementCom from "@/components/00-Kahe/Training&PlacementComs/PlacementC
 import TrainingAndPlacementCellCom from "@/components/00-Kahe/Training&PlacementComs/TrainingAndPlacementCellCom";
 
 export const metadata = {
-  title: "About Us 01 - Online Courses & Education NEXTJS14 Template",
-  description: "Online Courses & Education NEXTJS14 Template",
+  title: "Top M Sc Biotechnology Colleges in Coimbatore, tamilnadu",
+  description: "Training and Placement call at KAHE, the top M.Sc biotechnology college in Coimbatore provides the best training &amp; opportunities to get their dream jobs.",
 };
 const page = () => {
   return (

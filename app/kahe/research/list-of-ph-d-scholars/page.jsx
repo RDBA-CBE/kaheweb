@@ -3,8 +3,8 @@ import Patent from "@/components/00-Kahe/DirectPageComponent/Patent";
 
 
 export const metadata = {
-  title: "About Us 01 - Online Courses & Education NEXTJS14 Template",
-  description: "Online Courses & Education NEXTJS14 Template",
+  title: "List of Ph.D Scholars |Phd biotechnology colleges in India",
+  description: "Get ready to conduct your research under the guidance of our industry-experienced faculty members. Join KAHE - the best Ph.D. biotechnology college.",
 };
 const page = () => {
   return (

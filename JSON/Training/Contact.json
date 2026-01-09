@@ -1,15 +1,15 @@
 {
   "bannerCon": {
-    "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
-    "title": "How to apply",
-    "bannerCon": "To be a leading institution in the field of education, providing quality education and training to students and professionals.",
+    "bannerImg": "/images/Kahe/training-and-placement/howtoapply-banner.webp",
+    "title": "Contact Details",
+    "bannerCon": "Reach out to our Placement Cell for career guidance and recruitment support",
     "applyLink": "/"
   },
   "placementContact": {
-    "title": "How to apply",
+    "title": "Contact Details",
     "content": [
       {
-        "bgcolor": "bg-lblue shadow-none",
+        "bgcolor": "bg-lmaroon shadow-none",
         "gridCls": " col-md-6 col-sm-6 col-12",
 
         "ConClsName": "text-start",
@@ -30,7 +30,7 @@
       },
 
       {
-        "bgcolor": "bg-lblue shadow-none",
+        "bgcolor": "bg-lmaroon shadow-none",
         "gridCls": " col-md-6 col-sm-6 col-12",
 
         "ConClsName": "text-start",
@@ -58,7 +58,7 @@
       },
 
       {
-        "bgcolor": "bg-lblue shadow-none",
+        "bgcolor": "bg-lmaroon shadow-none",
         "gridCls": " col-12",
 
         "ConClsName": "text-start",

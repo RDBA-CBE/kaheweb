@@ -3,8 +3,8 @@ import Patent from "@/components/00-Kahe/DirectPageComponent/Patent";
 
 
 export const metadata = {
-  title: "About Us 01 - Online Courses & Education NEXTJS14 Template",
-  description: "Online Courses & Education NEXTJS14 Template",
+  title: "Research Consultancy | Top Ph.D Colleges in Tamil Nadu",
+  description: "KAHE is the top Ph.D. college in Tamil Nadu, offering world-class education and research opportunities. Get ready to take your career to next level.",
 };
 const page = () => {
   return (

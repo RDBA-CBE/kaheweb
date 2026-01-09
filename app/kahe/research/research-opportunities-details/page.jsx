@@ -1,8 +1,8 @@
 import OpportunitiesDetails from "@/components/00-Kahe/DirectPageComponent/OpportunitiesDetails";
 
 export const metadata = {
-  title: "About Us 01 - Online Courses & Education NEXTJS14 Template",
-  description: "Online Courses & Education NEXTJS14 Template",
+  title: "Research Opportunities | Leading Arts and Science College",
+  description: "Check the research opportunities at Karpagam Academy of Higher Education, the Leading Arts and Science College. Check and enroll for your research programs.",
 };
 const page = () => {
   return (
