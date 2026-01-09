@@ -1,8 +1,8 @@
 {
-  "title": "Department of Biotechnology",
-  "bannerCon": "The University of Wyoming welcomes students to experience a one-of-a-kind education in the heart of the Mountain West.",
+  "title": "Department of Cyber Security",
+  "bannerCon": "Developing expertise in information security, risk analysis, and cyber defense through rigorous academic study.",
   "applyLink": "#",
-  "bannerImg": "/images/Kahe/academics/engineering/Biotechnology/biotechnology-banner.png",
+  "bannerImg": "/images/Kahe/academics/engineering/CyberSecurity/cybersecurity-banner.webp",
   "tabs": [
     {
       "id": "overview",
@@ -37,7 +37,7 @@
           "type": "overview",
           "subTitle": "Overview",
           "contents": "The goal of CSE department is to make the students reach the mark of excellence in IT arena. Eminent personalities from the industry are invited to address the students which in turn raise the level of confidence among the students. The students are motivated to take part in co-curricular activities and to guide them in organizing guest lectures, seminars, competitions etc.",
-          "image": "/images/Kahe/academics/engineering/Biotechnology/biotechnology-overview.png"
+          "image": "/images/Kahe/academics/engineering/CyberSecurity/overview.webp"
         },
         {
           "type": "vision",
@@ -67,7 +67,7 @@
           {
             "key": "ug",
             "title": "Under Graduate Programme",
-            "img": "/images/Kahe/academics/engineering/Biotechnology/biotechnology-studentprogrammes.png",
+            "img": "/images/Kahe/academics/engineering/CyberSecurity/studentprogrammes.webp",
             "items": [
               "B.E Computer Science and Engineering (Strength: 240)"
             ],
@@ -76,7 +76,7 @@
           {
             "key": "pg",
             "title": "Post Graduate Programme",
-            "img": "/images/Kahe/academics/engineering/Biotechnology/biotechnology-studentprogrammes.png",
+             "img": "/images/Kahe/academics/engineering/CyberSecurity/studentprogrammes.webp",
             "items": [
               "M.E. Computer Science and Engineering (Strength: 12)"
             ],
@@ -85,7 +85,7 @@
           {
             "key": "res",
             "title": "Research Programme",
-            "img": "/images/Kahe/academics/engineering/Biotechnology/biotechnology-studentprogrammes.png",
+              "img": "/images/Kahe/academics/engineering/CyberSecurity/studentprogrammes.webp",
             "items": [
               "B.E Computer Science and Engineering (Strength: 240)"
             ],
@@ -99,7 +99,7 @@
           {
             "key": "be-cse",
             "title": "BE Computer Science and Engineering",
-            "img": "/images/Kahe/academics/engineering/CSE/cse-studentprogrammes.png",
+            "img": "/images/Kahe/academics/engineering/CyberSecurity/studentprogrammes.webp",
             "type": "curriculum",
             "items": [
               {
@@ -131,7 +131,7 @@
           {
             "key": "be-cse-cyber",
             "title": "BE Computer Science and Engineering (Cyber Security)",
-            "img": "/images/Kahe/academics/engineering/CSE/cyber-security-studentprogrammes.png",
+           "img": "/images/Kahe/academics/engineering/CyberSecurity/studentprogrammes.webp",
             "type": "curriculum",
             "items": [
               {
@@ -151,7 +151,7 @@
           {
             "key": "btech-aids",
             "title": "B.Tech Artificial Intelligence and Data Science",
-            "img": "/images/Kahe/academics/engineering/AIDS/aids-studentprogrammes.png",
+            "img": "/images/Kahe/academics/engineering/CyberSecurity/studentprogrammes.webp",
             "type": "curriculum",
             "items": [
               {
@@ -171,7 +171,7 @@
           {
             "key": "btech-csbs",
             "title": "B.Tech CSBS",
-            "img": "/images/Kahe/academics/engineering/CSBS/csbs-studentprogrammes.png",
+            "img": "/images/Kahe/academics/engineering/CyberSecurity/studentprogrammes.webp",
             "type": "curriculum",
             "items": [
               {
@@ -183,7 +183,7 @@
           {
             "key": "me-cse",
             "title": "ME Computer Science and Engineering",
-            "img": "/images/Kahe/academics/engineering/CSE/me-cse-studentprogrammes.png",
+            "img": "/images/Kahe/academics/engineering/CyberSecurity/studentprogrammes.webp",
             "type": "curriculum",
             "items": [
               {
@@ -207,7 +207,7 @@
           {
             "key": "phd-cse",
             "title": "Ph.D. Computer Science and Engineering",
-            "img": "/images/Kahe/academics/engineering/CSE/phd-cse-studentprogrammes.png",
+            "img": "/images/Kahe/academics/engineering/CyberSecurity/studentprogrammes.webp",
             "type": "curriculum",
             "items": [
               {

@@ -1,8 +1,8 @@
 {
-  "title": "Department of Biochemistry",
-  "bannerCon": "The University of Wyoming welcomes students to experience a one-of-a-kind education in the heart of the Mountain West.",
+  "title": "Department of Artificial Intelligence and Data Science",
+  "bannerCon": "Empowering minds to innovate with intelligent systems. Transforming data into insights for a smarter tomorrow.",
   "applyLink": "#",
-  "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+  "bannerImg": "/images/Kahe/academics/engineering/ADS/fartificialintelligenceanddatascience-banner.png",
   "tabs": [
     {
       "id": "programme",
@@ -31,7 +31,7 @@
           {
             "key": "ug",
             "title": "Under Graduate Programme",
-            "img": "/images/others/health-b-02.png",
+            "img": "/images/Kahe/academics/engineering/ADS/artificialintelligenceanddata-studentprogrammes.png",
             "items": [
               "B.Tech Artificial Intelligence and Data Science (Strength: 60)"
             ],
@@ -45,7 +45,7 @@
           {
             "key": "bsc",
             "title": "B.Tech Artificial Intelligence and Data Science",
-            "img": "/images/others/health-b-02.png",
+            "img": "/images/Kahe/academics/engineering/ADS/artificialintelligenceanddata-studentprogrammes.png",
             "type": "curriculum",
             "items": [
               {
