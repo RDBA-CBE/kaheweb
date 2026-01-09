@@ -2,7 +2,7 @@
   "title": "Department of Electronics and Communication Engineering",
   "bannerCon": "Developing strong foundations in electronic circuits, communication networks, and applied research.",
   "applyLink": "#",
-  "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+  "bannerImg": "/images/Kahe/academics/engineering/ECE/ece-banner.webp",
   "tabs": [
     {
       "id": "overview",
@@ -37,7 +37,7 @@
           "type": "overview",
           "subTitle": "Overview",
           "contents": "The department of Electronics and Communication Engineering was established in the year 2009. The research specializations of the department are VLSI Design, Wireless Communications, Embedded Systems, Robotics, Digital image processing, Neural network, Human machine interface, Digital signal Processing.Our department has a very good infrastructure for pursuing R & D in the areas of embedded system design, VLSI design using cadence and Bio signal & Image processing. We also have specialized labs like Embedded systems lab sponsored by Texas Instruments, Fully fledged Cadence Lab for VLSI design and development of products on Low power, and area and also a Bio signal processing lab. Our department has recognized as DELL EMC centre of Academic Excellence Data Science and Big Data Analytics by ICT Academy. The department faculty members has filed Patents and applied funding proposal for SERB, DST.",
-          "image": "/images/others/video-07.jpg"
+          "image": "/images/Kahe/academics/engineering/ECE/overview.webp"
         },
         {
           "type": "vision",
@@ -65,7 +65,7 @@
           {
             "key": "ug",
             "title": "Under Graduate Programme",
-            "img": "/images/others/health-b-02.png",
+            "img": "/images/Kahe/academics/engineering/ECE/studentprogrammes.webp",
             "items": [
               "B.E. Electronics and Communication Engineering (Strength: 180)"
             ],
@@ -74,7 +74,7 @@
           {
             "key": "pg",
             "title": "Post Graduate Programme",
-            "img": "/images/others/health-b-02.png",
+           "img": "/images/Kahe/academics/engineering/ECE/studentprogrammes.webp",
             "items": [
               "M.E. VLSI Design (Strength: 6)"
             ],
@@ -83,7 +83,7 @@
           {
             "key": "res",
             "title": "Research Programme",
-            "img": "/images/others/health-b-02.png",
+           "img": "/images/Kahe/academics/engineering/ECE/studentprogrammes.webp",
             "items": [
               "Ph.D. Electronics and Communication Engineering"
             ],
@@ -97,7 +97,7 @@
           {
             "key": "be-ece",
             "title": "BE Electronics and Communication Engineering",
-            "img": "/images/others/health-b-02.png",
+             "img": "/images/Kahe/academics/engineering/ECE/studentprogrammes.webp",
             "type": "curriculum",
             "items": [
               {
@@ -125,7 +125,7 @@
           {
             "key": "me-vlsi",
             "title": "ME VLSI Design",
-            "img": "/images/others/health-b-02.png",
+            "img": "/images/Kahe/academics/engineering/ECE/studentprogrammes.webp",
             "type": "curriculum",
             "items": [
               {
@@ -141,7 +141,7 @@
           {
             "key": "phd-ece",
             "title": "Ph.D. Electronics and Communication Engineering",
-            "img": "/images/others/health-b-02.png",
+           "img": "/images/Kahe/academics/engineering/ECE/studentprogrammes.webp",
             "type": "curriculum",
             "items": [
               {
