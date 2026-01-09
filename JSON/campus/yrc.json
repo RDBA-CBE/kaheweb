@@ -1,0 +1,99 @@
+{
+  "bannerCon": {
+    "bannerImg": "/images/Kahe/training-and-placement/trainingandplacementcell-banner.webp",
+    "title": "Youth Red Cross",
+    "bannerCon": "Training minds, empowering skills, and launching successful careers",
+    "applyLink": "/"
+  },
+
+  "tabs": [
+    {
+      "id": "about",
+      "label": "About YRC"
+    }
+  ],
+
+  "tabContent": [
+   {
+  "tab": "about",
+  "content": {
+    "sections": [
+      {
+        "title": "Youth Red Cross (YRC)",
+        "blocks": [
+          {
+            "type": "text",
+            "value": "The Youth Red Cross (YRC) of the Karpagam Academy of Higher Education is the part of Indian Red Cross Society (Tamil Nadu Branch). It provides training programmes for first aid, Voluntaries of Blood Donation, Organ transplantation, AIDS awareness programme and Cancer awareness programme."
+          },
+          {
+            "type": "text",
+            "value": "Dr. A. Dharmaraj, YRC Co-Ordinator, Dr. R. Saroja Devi, YRC Programme-Officer, Mr. B. Jagadeeshwaran Student Co-Ordinator. Students can approach YRC Programme Officer for enrolment and training."
+          },
+          {
+            "type": "table",
+            "headers": [
+              { "text": "S.No." },
+              { "text": "Name of the Events" },
+              { "text": "Date" },
+              { "text": "Purpose" },
+              { "text": "Beneficiary" }
+            ],
+            "rows": [
+              ["1", "Indian Red Cross Society (IRCS) District Level Youth Red Cross Camp", "27.12.2019", "For the skill development of YRC volunteers", "Karpagam Academy of Higher Education"],
+              ["2", "Blood Donation Camp", "22.01.2020", "Saving pregnancy women’s life at Thanjavur District", "Indian Red Cross Society Blood Bank, Thanjavur District"],
+              ["3", "Republic Day Award Ceremony", "26.01.2020", "Awarded for organizing Number of Blood Donation Camps. Award received by Co-ordinator from Tanjore District Collector", "KAHE"],
+              ["4", "Blood Donation Camp", "10.02.2020", "Saving patients life at Coimbatore District", "IMA Blood Bank"],
+              ["5", "Cyber Security Awareness Programme", "06.03.2020", "Protecting their computer and personal information and how to stay safe from various cybercrimes the web for potential targets", "Karpagam Academy of Higher Education"]
+            ]
+          },
+          {
+            "type": "image",
+            "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/1.jpg",
+            "align": "center",
+            "caption": "Indian Red Cross Society (IRCS) District Level Youth Red Cross Camp"
+          },
+          {
+            "type": "image",
+            "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/2.jpg",
+            "align": "center"
+          },
+          {
+            "type": "image",
+            "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/3.jpg",
+            "align": "center"
+          },
+          {
+            "type": "image",
+            "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/4.jpg",
+            "align": "center",
+            "caption": "Republic Day Award Ceremony: KAHE Awarded for organizing Number of Blood Donation Camps"
+          },
+          {
+            "type": "image",
+            "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/5.jpg",
+            "align": "center",
+            "caption": "Blood Donation Camp on 22.01.2020"
+          },
+          {
+            "type": "image",
+            "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/6.jpg",
+            "align": "center"
+          },
+          {
+            "type": "image",
+            "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/7.jpg",
+            "align": "center",
+            "caption": "Blood Donation Camp on 10.02.2020"
+          },
+          {
+            "type": "text",
+            "value": "Cyber Security Awareness Programme at IMA, Coimbatore on 06.03.2020",
+            "align": "center"
+          }
+        ]
+      }
+    ]
+  }
+}
+  ]
+}

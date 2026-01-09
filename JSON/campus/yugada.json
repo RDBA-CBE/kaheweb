@@ -1,0 +1,27 @@
+{
+  "bannerCon": {
+    "bannerImg": "/images/Kahe/campus-life/overview-banner.webp",
+    "title": "Yugadya Swachh Bharat / NCC / NSS / YRC",
+    "bannerCon": "Building strength, teamwork, and spirit, on and off the field.",
+    "applyLink": "/"
+  },
+
+
+  
+
+  "overview": {
+    "title": "Yugadya Swachh Bharat / NCC / NSS / YRC",
+
+    "content": [
+      {
+        "id": 1,
+        "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/ncc.png"
+      },
+      {
+        "id": 2,
+        "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/nair-service-scheme.png"
+      }
+    
+    ]
+  }
+}

@@ -262,7 +262,7 @@
   background: #d9e9f4;
 }
 .bg-lmaroon {
-  background: #F4E9E7;
+  background: #f4e9e7;
 }
 .bg-lblue1 {
   background: #d9e9f4;
@@ -1744,7 +1744,7 @@
   justify-content: flex-end;
 }
 
-.program-overlay-box span{
+.program-overlay-box span {
   color: white;
 }
 
@@ -3189,7 +3189,7 @@
 
 /* Card */
 .specialty-card {
-  background: #F4E9E7;
+  background: #f4e9e7;
   border-radius: 18px;
   padding: 24px 16px;
   text-align: center;
@@ -3215,7 +3215,10 @@
   line-height: 1.3;
 }
 
-.specialty-card h4{font-size: 1.9rem; color: #000;}
+.specialty-card h4 {
+  font-size: 1.9rem;
+  color: #000;
+}
 
 /* ================= CONTROLS ================= */
 
@@ -3492,3 +3495,73 @@
 .rbt-header .mainmenu-nav .mainmenu > li {
   color: #000 !important;
 }
+
+.campus-img-wrapper {
+  margin-top: 100px;
+  display: flex;
+  gap: 16px;
+}
+
+/* Each image takes 50% */
+.campus-img-box {
+  flex: 1;
+  aspect-ratio: 16 / 9; /* controls height responsively */
+  overflow: hidden;
+  border-radius: 8px;
+}
+
+/* Image behavior */
+.campus-img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+/* Optional: reduce gap on small screens */
+@media (max-width: 576px) {
+  .campus-img-wrapper {
+    gap: 10px;
+  }
+}
+
+.ncc-section {
+  line-height: 1.7;
+}
+
+.ncc-section h2 {
+ font-size: 25px;
+  font-weight: 500;
+  color: #000;
+}
+
+.ncc-block {
+  margin-bottom: 24px;
+}
+
+.ncc-block h3 {
+  font-size: 25px;
+  font-weight: 500;
+  color: #000;
+}
+
+.ncc-block ul {
+  padding-left: 20px;
+}
+
+.ncc-block li {
+  margin-bottom: 6px;
+}
+
+
+
+.ncc-image {
+  margin: 12px 0;
+}
+
+.ncc-image img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 4px;
+}
+
+

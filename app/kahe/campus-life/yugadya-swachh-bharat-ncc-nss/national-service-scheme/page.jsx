@@ -1,4 +1,4 @@
-import TrainingAndPlacementCellCom from "@/components/00-Kahe/Training&PlacementComs/TrainingAndPlacementCellCom";
+import NSSCom from "@/components/00-Kahe/CampusComponenets/NSSCom";
 
 export const metadata = {
   title: "Top M Sc Biotechnology Colleges in Coimbatore, tamilnadu",
@@ -7,7 +7,7 @@ export const metadata = {
 const page = () => {
   return (
     <>
-      <TrainingAndPlacementCellCom/>
+      <NSSCom/>
     </>
   );
 };

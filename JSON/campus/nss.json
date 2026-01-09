@@ -1,0 +1,1667 @@
+{
+  "bannerCon": {
+    "bannerImg": "/images/Kahe/training-and-placement/trainingandplacementcell-banner.webp",
+    "title": "National Service Scheme",
+    "bannerCon": "Training minds, empowering skills, and launching successful careers",
+    "applyLink": "/"
+  },
+
+  "tabs": [
+    {
+      "id": "about-us",
+      "label": "About US"
+    },
+    {
+      "id": "regular-activities",
+      "label": "Regular Activities"
+    },
+    {
+      "id": "events",
+      "label": "Events"
+    },
+    {
+      "id": "gallery",
+      "label": "Gallery"
+    }
+  ],
+
+  "tabContent": [
+    {
+      "tab": "about-us",
+      "content": {
+        "sections": [
+          {
+            "title": "Vision",
+            "blocks": [
+              {
+                "type": "text",
+                "value": "To build the youth with the mind and spirit to serve the society and work for the social uplift of the down-trodden masses of our nation as a movement."
+              }
+            ]
+          },
+          {
+            "title": "Mission",
+            "blocks": [
+              {
+                "type": "text",
+                "value": "The National Service Scheme has been functioning with the motto **NOT ME BUT YOU** in view of making the youth inspired in service of the people and hence NSS Aims Education through Community Service and Community Service through Education."
+              },
+              {
+                "type": "text",
+                "value": "National Service Scheme of Karpagam Academy of Higher Education is functioning with Five Self Financing Units recognized by the Ministry of Youth Affairs & Sports, Government of India."
+              }
+            ]
+          },
+          {
+            "title": "NSS Programme Officers",
+            "blocks": [
+              {
+                "type": "table",
+                "headers": [
+                  { "text": "S. No" },
+                  { "text": "Name of the Faculty" },
+                  { "text": "Name of the Department" },
+                  { "text": "Designation" }
+                ],
+                "rows": [
+                  [
+                    "1",
+                    "Dr. A. Dharmaraj",
+                    "Department of Management",
+                    "Director, Extension Programmes"
+                  ],
+                  [
+                    "2",
+                    "Mr. K. Veerasamy",
+                    "Department of Computer Science",
+                    "NSS Programme Officer – Unit I"
+                  ],
+                  [
+                    "3",
+                    "Dr. M. Deivanayaki",
+                    "Department of Science and Humanities",
+                    "NSS Programme Officer – Unit II"
+                  ],
+                  [
+                    "4",
+                    "Mr. M. Kannan",
+                    "Department of Pharmacy",
+                    "NSS Programme Officer – Unit III"
+                  ],
+                  [
+                    "5",
+                    "Mrs. K. K. Saritha Mol",
+                    "Department of Commerce",
+                    "NSS Programme Officer – Unit IV"
+                  ],
+                  [
+                    "6",
+                    "Dr. M. Kalaimathi",
+                    "Department of Chemistry",
+                    "NSS Programme Officer – Unit V"
+                  ]
+                ]
+              }
+            ]
+          },
+          {
+            "title": "NSS Activities & Highlights",
+            "blocks": [
+              {
+                "type": "text",
+                "value": "We have brought a lot of awareness through N.S.S. It brings to all of us a platform to serve society and brings happiness and smile on many faces. We created a hub to deliver service to society by showcasing our Knowledge. So, it’s not simply an association; a reason to achieve our objective and carry on the legacy for the coming years. NSS undertake various activities either independently or along with Government departments and NGOs. The following are the highlights of various activities."
+              },
+              {
+                "type": "list",
+                "ordered": false,
+                "items": [
+                  "An awareness programme for water conservation, energy conservation, usage of renewable energy such as solar energy and Government subsidy available.",
+                  "The students cleaned the Government High Schools in adopted villages, white washed the class rooms, and planted trees.",
+                  "NSS organized intramural sports competitions at Government Schools.",
+                  "Students educated the rural people on the advantages of digital payments by providing them hands-on experience.",
+                  "Training provided to rural households on computer functional literacy (Email, Skype, and Digital Transactions) to communicate with overseas family members.",
+                  "Organized medical camps (General and Eye) along with government and private medical agencies to create awareness about communicable diseases.",
+                  "Campaigns conducted in rural areas on Sanitation and Hygiene.",
+                  "Education-related programmes and celebration of National and International Days."
+                ]
+              },
+              {
+                "type": "text",
+                "value": "Also, many social awareness programmes such as Tobacco-Free Village, Avoiding Open Defecation, Solid Waste Management, Plastic Eradication, Tree Plantation, Rural Women’s Day, International Women’s Day, Indian Constitution Day, Poshan Abhiyan, Jal Sakthi Abhiyan and Organic Farming etc., were organized in the villages. Awareness Programmes conducted on Environmental Pollution and Its Control Measures, Child Obesity Prevention, Breast Cancer, Organ Donation, Child abuse and Legal Literacy."
+              },
+              {
+                "type": "text",
+                "value": "Students voluntarily donated blood to the needy people in the government and private hospitals whenever they need. Volunteers also render their helping hand spontaneously at the time of emergency created by natural calamities such as Kaja Cyclone by free supply of material and food items."
+              }
+            ]
+          }
+        ]
+      }
+    },
+
+    {
+      "tab": "regular-activities",
+      "content": {
+        "sections": [
+          {
+            "title": "Annual Special Camp",
+            "blocks": [
+              {
+                "type": "text",
+                "value": "NSS Units of KAHE organize Seven Days Annual Special Camps regularly at adopted villages."
+              }
+            ]
+          },
+          {
+            "title": "Regular Activities",
+            "blocks": [
+              {
+                "type": "list",
+                "ordered": false,
+                "items": [
+                  "Anti-Ragging Awareness Programme (At KAHE)",
+                  "Swachh Bharat Awareness & Swachhata Pakhwada Campaigns",
+                  "Poshan Abhiyan (BETI Bachao Beti Padhao)",
+                  "Unnat Bharat Abhiyan Awareness programme",
+                  "Village and Rural Development programmes",
+                  "Tree Plantation (KAHE & adopted Villages)",
+                  "Health and Hygiene Programme",
+                  "Renovation of Lakes and Ponds at adopted villages",
+                  "Free Medical & Rural Assistance Camps (Adopted & Tribal Villages)",
+                  "Legal Literacy Programme (At KAHE)",
+                  "Higher Education Awareness among School Students",
+                  "Village and Campus Cleaning Programmes",
+                  "Environmental Awareness Programme",
+                  "Trekking Adventure Camps",
+                  "Blood Donation Camp (At KAHE)",
+                  "Conservation of Birds and Wild Animals",
+                  "Temple Campus Cleaning at adopted villages",
+                  "World Breast Feeding Week & Breast Cancer Day",
+                  "AIDS Day & Road Safety Week",
+                  "Energy Conservation Day & Women’s Day",
+                  "Awareness on Child Obesity, Plastic Free Village, and Child Abuse",
+                  "Dengue Awareness and Celebration of National/International days"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+
+    {
+      "tab": "events",
+      "content": {
+        "sections": [
+          {
+            "title": "Events",
+            "blocks": [
+              {
+                "type": "table",
+                "headers": [
+                  { "text": "S. No." },
+                  { "text": "Name of the activity" },
+                  { "text": "Date" },
+                  { "text": "Organizing unit/ agency/ collaborating agency" },
+                  { "text": "Name of the scheme" },
+                  { "text": "Year of the activity" }
+                ],
+                "rows": [
+                  [
+                    "1",
+                    "Central Govt. Welfare Schemes Awareness camp at Nagamam, Pollachi",
+                    "19.01.2021",
+                    "NSS With Field Outreach Bureau, Ministry of Information & Broadcasting, Government of India",
+                    "Swachhata Pakhwada, COVID 19 Vaccine Administration Awareness, Medical Camp & Voters Awareness",
+                    "19.01.2021"
+                  ],
+                  [
+                    "2",
+                    "Central Govt. Welfare Schemes Awareness camp at Nagarthar Sangam, Pollachi",
+                    "18.01.2021",
+                    "NSS With Field Outreach Bureau, Ministry of Information & Broadcasting, Government of India",
+                    "Swachhata Pakhwada, COVID 19 Vaccine Administration Awareness, Medical Camp & Voters Awareness",
+                    "18.01.2021"
+                  ],
+                  [
+                    "3",
+                    "Webinar to observe International Day of Epidemic Preparedness",
+                    "28.12.2020",
+                    "NSS With Field Outreach Bureau, Ministry of Information & Broadcasting, Government of India",
+                    "Epidemic Awareness",
+                    "2020-2021"
+                  ],
+                  [
+                    "4",
+                    "World Computer Literacy Day Webinar",
+                    "02.12.2020",
+                    "NSS",
+                    "Awareness Webinar",
+                    "2020-2021"
+                  ],
+                  [
+                    "5",
+                    "World AIDS Day",
+                    "01.12.2020",
+                    "NSS",
+                    "Awareness Programme",
+                    "2020-2021"
+                  ],
+                  [
+                    "6",
+                    "Webinar on Constitution Values and Fundamental Principles of Indian Constitution",
+                    "27.11.2020",
+                    "NSS",
+                    "Celebration of Constitution Day",
+                    "2020-2021"
+                  ],
+                  [
+                    "7",
+                    "Universal Children Day & Child Rights during Pandemic",
+                    "20.11.2020",
+                    "NSS With Field Outreach Bureau, Ministry of Information & Broadcasting, Government of India",
+                    "Celebration of Universal Children Day",
+                    "2020-2021"
+                  ],
+                  [
+                    "8",
+                    "COVID-19 Awareness Poster Release Programme",
+                    "18.11.2020",
+                    "NSS With Field Outreach Bureau, Ministry of Information & Broadcasting, Government of India",
+                    "COVID 19",
+                    "2020-2021"
+                  ],
+                  [
+                    "9",
+                    "Jan Andolan Campaign on COVID 19",
+                    "17.11.2020",
+                    "NSS With Field Outreach Bureau, Ministry of Information & Broadcasting, Government of India",
+                    "COVID 19",
+                    "2020-2021"
+                  ],
+                  [
+                    "10",
+                    "UNNAT BHARAT ABHIYAN Awareness Programme on COVID-19",
+                    "17.11.2020",
+                    "NSS With Field Outreach Bureau, Ministry of Information & Broadcasting, Government of India",
+                    "COVID 19",
+                    "2020-2021"
+                  ],
+                  [
+                    "11",
+                    "Peace building Competencies for next Generation Purple Leaders",
+                    "16.11.2020",
+                    "NSS",
+                    "Tolerance Day",
+                    "2020-2021"
+                  ],
+                  [
+                    "12",
+                    "International Day of Tolerance awareness webinar on Mahatma Gandhis Practice of tolerance",
+                    "16.11.2020",
+                    "NSS",
+                    "Tolerance Day",
+                    "2020-2021"
+                  ],
+                  [
+                    "13",
+                    "World Diabetes Day 2020",
+                    "12.11.2020",
+                    "NSS with Faculty of Pharmacy",
+                    "World Diabetes Day",
+                    "2020-2021"
+                  ],
+                  [
+                    "14",
+                    "Webinar on Gandhiyan Thoughts",
+                    "02.10.2020",
+                    "NSS With Field Outreach Bureau, Ministry of Information & Broadcasting, Government of India",
+                    "Endowment Lecture",
+                    "2020-2021"
+                  ],
+                  [
+                    "15",
+                    "Role of Media & Social Media during COVID 19-Pandemic",
+                    "21.08.2020",
+                    "Field Outreach Bureau, Ministry of Information & Broadcasting, Government of India",
+                    "COVID 19",
+                    "2020-2021"
+                  ],
+                  [
+                    "16",
+                    "Webinar on National Education Policy",
+                    "13.08.2020",
+                    "NSS With Field Outreach Bureau, Ministry of Information & Broadcasting, Government of India",
+                    "Awareness",
+                    "2020-2021"
+                  ],
+                  [
+                    "17",
+                    "Safe Hand Wash Training Protection from COVID-19",
+                    "05.07.2020",
+                    "NSS",
+                    "COVID 19",
+                    "2020-2021"
+                  ],
+                  [
+                    "18",
+                    "Safe Hand Wash Training Protection from COVID-19",
+                    "04.04.2020",
+                    "NSS",
+                    "COVID 19",
+                    "2020-2021"
+                  ],
+                  [
+                    "19",
+                    "COVID-19 -Volunteering Service",
+                    "22.03.2020 to 30.09.2020",
+                    "NSS student with Police Department Salem",
+                    "COVID-19 Volunteering service",
+                    "2019-2020"
+                  ],
+                  [
+                    "20",
+                    "Tree Plantation-Nagamanaickenpalayam",
+                    "14.03.2020",
+                    "NSS",
+                    "Environment Conservation",
+                    "2019-2020"
+                  ],
+                  [
+                    "21",
+                    "Ek Bharat Shreshtha Bharat",
+                    "13.03.2020",
+                    "NSS with Field Outreach Bureau, Ministry of Information & Broadcasting, Government of India",
+                    "Awareness Programme",
+                    "2019-2020"
+                  ],
+                  [
+                    "22",
+                    "Traditional Handicraft Items Making Training for Women",
+                    "10.03.2020",
+                    "NSS with Field Outreach Bureau, Ministry of Information & Broadcasting, Government of India",
+                    "Micro Entrepreneurship Development Programme",
+                    "2019-2020"
+                  ],
+                  [
+                    "23",
+                    "Women’s Day Celebration at Karpagam Hospital",
+                    "09.03.2020",
+                    "NSS with Karpagam Hospital",
+                    "Women’s Day Celebration",
+                    "2019-2020"
+                  ],
+                  [
+                    "24",
+                    "Women’s Day Awareness Programme-Chettipalayam",
+                    "09.03.2020",
+                    "NSS with Karpagam Hospital",
+                    "Women’s Day Celebration",
+                    "2019-2020"
+                  ],
+                  [
+                    "25",
+                    "Women’s Day Celebration Bikathon Rally",
+                    "09.03.2020",
+                    "NSS with Field Outreach Bureau, Ministry of Information & Broadcasting, Government of India and Karpagam Hospital",
+                    "Women’s Day Celebration",
+                    "2019-2020"
+                  ],
+                  [
+                    "26",
+                    "Women’s Day Celebration Film Show on Inspiring women",
+                    "08.03.2020",
+                    "NSS with Field Outreach Bureau, Ministry of Information & Broadcasting, Government of India",
+                    "Women’s Day Celebration",
+                    "2019-2020"
+                  ],
+                  [
+                    "27",
+                    "Awareness Campaign on women’s rights",
+                    "08.03.2020",
+                    "NSS with Field Outreach Bureau, Ministry of Information & Broadcasting, Government of India",
+                    "Women’s Day Celebration",
+                    "2019-2020"
+                  ],
+                  [
+                    "28",
+                    "Agrothon 2020 Kids Marathon",
+                    "08.03.2020",
+                    "NSS with DHI Foundation",
+                    "Development of Agriculture",
+                    "2019-2020"
+                  ],
+                  [
+                    "29",
+                    "Women’s Day Celebration Rally",
+                    "08.03.2020",
+                    "NSS with Field Outreach Bureau, Ministry of Information & Broadcasting, Government of India",
+                    "Women’s Day Celebration",
+                    "2019-2020"
+                  ],
+                  [
+                    "30",
+                    "Women’s Day Celebration-Medical Camp, Corona Virus Awareness, Awareness on Poshan Abhiyan and Swachh Bharat",
+                    "07.03.2020",
+                    "NSS with Field Outreach Bureau, Ministry of Information & Broadcasting, Government of India and Karpagam Hospital",
+                    "Awareness on Corona Virus",
+                    "2019-2020"
+                  ],
+                  [
+                    "31",
+                    "Women’s Day Awareness Seminar and Events",
+                    "06.03.2020",
+                    "NSS",
+                    "Women’s Day Celebration",
+                    "2019-2020"
+                  ],
+                  [
+                    "32",
+                    "Awareness on Organic Agriculture Products",
+                    "04.03.2020",
+                    "NSS With Pasumai Desam",
+                    "Awareness on Organic Foods",
+                    "2019-2020"
+                  ],
+                  [
+                    "33",
+                    "Mahila Adhikar Abhiyan Special Awareness Programme-Power Walkathon Rally",
+                    "03.03.2020",
+                    "NSS with Field Outreach Bureau, Ministry of Information & Broadcasting, Government of India",
+                    "Women’s Day Celebration",
+                    "2019-2020"
+                  ],
+                  [
+                    "34",
+                    "Green Initiative Activities",
+                    "Feb-March 2020",
+                    "NSS",
+                    "Green Initiative Activities of NSS",
+                    "2019-2020"
+                  ],
+                  [
+                    "35",
+                    "Blood Donation Camp",
+                    "20.02.2020",
+                    "YRC with Indian Medical Association Coimbatore",
+                    "Save Life",
+                    "2019-2020"
+                  ],
+                  [
+                    "36",
+                    "Intramural Sports Day for Government Higher Secondary School , Malumichampatti, Coimbatore",
+                    "10.02.2020",
+                    "KAHE – NSS",
+                    "Intramural Sports Competition",
+                    "2019-2020"
+                  ],
+                  [
+                    "37",
+                    "Blood Donation Camp",
+                    "22.01.2020",
+                    "YRC with Indian Medical Association Coimbatore",
+                    "Save Life",
+                    "2019-2020"
+                  ],
+                  [
+                    "38",
+                    "Swachhata Pakhwada 15 Days Campaign 2019-2020",
+                    "16.01.2020 30.01.2020",
+                    "NSS with Field Outreach Bureau, Ministry of Information & Broadcasting, Government of India",
+                    "Swachhata Pakhwada",
+                    "2019-2020"
+                  ],
+                  [
+                    "39",
+                    "Pesticide Free Agriculture",
+                    "08.01.2020",
+                    "NSS with DHI Foundation",
+                    "Development of Agriculture",
+                    "2019-2020"
+                  ],
+                  [
+                    "40",
+                    "Annual Special Camp",
+                    "04.01.2020 to 10.01.2020",
+                    "NSS",
+                    "7 Days Annual Special Camp on “Youth for Rural Reconstruction”",
+                    "2019-2020"
+                  ],
+                  [
+                    "41",
+                    "Indian Constitution Day",
+                    "02.12.2019",
+                    "Coimbatore Human Rights Forum",
+                    "Awareness Programme",
+                    "2019-2020"
+                  ],
+                  [
+                    "42",
+                    "Tree Plantation Camp",
+                    "29.11.2019",
+                    "KAHE NSS with Nandhu Coats, Rotary Club South Coimbatore",
+                    "Awareness Programme",
+                    "2019-2020"
+                  ],
+                  [
+                    "43",
+                    "Swachh Bharat Mission & Poshan Abhiyan",
+                    "26.11.2019",
+                    "KAHE NSS Government of India, Field Publicity Bureau, Ministry of Information and Broadcasting",
+                    "Awareness Programme",
+                    "2019-2020"
+                  ],
+                  [
+                    "44",
+                    "Universal Childrens Day",
+                    "20.11.2019",
+                    "KAHE NSS Government of India, Field Publicity Bureau, Ministry of Information and Broadcasting",
+                    "Awareness Programme",
+                    "2019-2020"
+                  ],
+                  [
+                    "45",
+                    "Jal Shakthi Abhiyan",
+                    "23.10.2019",
+                    "KAHE NSS, CIVIL DEPART",
+                    "Awareness Programme",
+                    "2019-2020"
+                  ],
+                  [
+                    "46",
+                    "Swachhata Plastic Waste Free Village Campaign",
+                    "26.09.2019 to 27.09.2019",
+                    "KAHE NSS, MALUMACHAMPATTI, ARISIPALAYAM, NACHIPALAYAM, PALATHURAI PANCHAYETS",
+                    "Awareness Programme",
+                    "2019-2020"
+                  ],
+                  [
+                    "47",
+                    "Annual Coimbatore Peace Festival",
+                    "29.08.2019",
+                    "KAHE NSS",
+                    "Awareness Programme",
+                    "2019-2020"
+                  ],
+                  [
+                    "48",
+                    "Awareness Programme Tuberculosis",
+                    "22.08.2019",
+                    "KAHE NSS with Karpagam Faculty of Medical Science & Research and District TB Centre",
+                    "Revised National TB Control Programme (RNTCP)",
+                    "2019-2020"
+                  ],
+                  [
+                    "49",
+                    "Breast Feeding Week 2019",
+                    "07.08.2019",
+                    "KAHE NSS Government of India, Field Publicity Bureau, Ministry of Information and Broadcasting, Malumachampatti, Child Development Centre",
+                    "Awareness Programme",
+                    "2019-2020"
+                  ],
+                  [
+                    "50",
+                    "Tree Plantation Camp",
+                    "28.07.2019",
+                    "KAHE NSS with Nizhal Maiyam",
+                    "Awareness Programme",
+                    "2019-2020"
+                  ],
+                  [
+                    "51",
+                    "Human Chain and importance of Trees and Helmet Wearing",
+                    "20.07.2019",
+                    "KAHE NSS with Nizhal Maiyam",
+                    "Public Awareness",
+                    "2019-2020"
+                  ],
+                  [
+                    "52",
+                    "International Day Against Drug Abuse and Illicit Trafficking",
+                    "26.06.2019",
+                    "KAHE NSS with Block Development Office, Malumachampatti Panchayet, Madukkarai Police Station",
+                    "Awareness Programme",
+                    "2019-2020"
+                  ],
+                  [
+                    "53",
+                    "House Hold Survey Camp",
+                    "15.02.2019 to 16.02.2019",
+                    "KAHE NSS with Karpagam Medical College Hospital",
+                    "Survey",
+                    "2018-2019"
+                  ],
+                  [
+                    "54",
+                    "House Hold Survey Camp",
+                    "5.02.2019 to 07.02.2019",
+                    "KAHE NSS with Karpagam Medical College Hospital",
+                    "Internship",
+                    "2018-2019"
+                  ],
+                  [
+                    "55",
+                    "House Hold Survey Camp",
+                    "29.01.2019 to 01.02.2019",
+                    "KAHE NSS with Karpagam Medical College Hospital",
+                    "House Hold Survey Camp",
+                    "2018-2019"
+                  ],
+                  [
+                    "56",
+                    "Blood Donation Camp",
+                    "25.01.2019",
+                    "KAHE NSS with Karpagam Medical College Hospital",
+                    "Blood Donation",
+                    "2018-2019"
+                  ],
+                  [
+                    "57",
+                    "Annual Special Camp",
+                    "21.12.2018 to 27.12.2018",
+                    "NSS",
+                    "7 Days Annual Special Camp on “Youth for Rural Reconstruction”",
+                    "2018-2019"
+                  ],
+                  [
+                    "58",
+                    "Child Abuse Programme at Schools",
+                    "12.12.2018",
+                    "KAHE NSS with ARC Foundations",
+                    "Children Awareness",
+                    "2018-2019"
+                  ],
+                  [
+                    "59",
+                    "Dengue Awareness Rally & Door to Door Canvass",
+                    "12.12.2018",
+                    "KAHE NSS Government of India, Field Publicity Bureau, Ministry of Information and Broadcasting.",
+                    "Swachh Bharat",
+                    "2018-2019"
+                  ],
+                  [
+                    "60",
+                    "Swatch Bharat Awareness Camp & Rally",
+                    "28.11.2018",
+                    "KAHE NSS Government of India, Field Publicity Bureau, Ministry of Information and Broadcasting.",
+                    "Swachh Bharat",
+                    "2018-2019"
+                  ],
+                  [
+                    "61",
+                    "Adhaar Enrollment/Updation Campaign",
+                    "26.11.2018",
+                    "KAHE NSS",
+                    "Volunteer Service",
+                    "2018-2019"
+                  ],
+                  [
+                    "62",
+                    "Indian Constitution Day",
+                    "26.11.2018",
+                    "KAHE NSS",
+                    "Students Awareness",
+                    "2018-2019"
+                  ],
+                  [
+                    "63",
+                    "Swatch Bharat Awareness Camp & Rally",
+                    "23.11.2018",
+                    "KAHE NSS Government of India, Field Publicity Bureau, Ministry of Information and Broadcasting.",
+                    "Swachh Bharat",
+                    "2018-2019"
+                  ],
+                  [
+                    "64",
+                    "Say No to Plastic Awareness among Shoppers",
+                    "23.11.2018",
+                    "KAHE NSS Government of India, Field Publicity Bureau, Ministry of Information and Broadcasting.",
+                    "Swachh Bharat",
+                    "2018-2019"
+                  ],
+                  [
+                    "65",
+                    "Dengue Awareness Rally & Door to Door Canvass at Malumichampatti",
+                    "22.11.2018",
+                    "KAHE NSS Government of India, Field Publicity Bureau, Ministry of Information and Broadcasting.",
+                    "Swachh Bharat",
+                    "2018-2019"
+                  ],
+                  [
+                    "66",
+                    "Kaja Storm Relief Material",
+                    "20.11.2018",
+                    "KAHE NSS",
+                    "Storm Relief",
+                    "2018-2019"
+                  ],
+                  [
+                    "67",
+                    "Vigilance Day",
+                    "29.10.2018 to 03.11.2018",
+                    "KAHE NSS",
+                    "Public Awareness",
+                    "2018-2019"
+                  ],
+                  [
+                    "68",
+                    "Adhaar Enrollment/Updation Campaign",
+                    "28.11.2018",
+                    "KAHE NSS",
+                    "Special Activity",
+                    "2018-2019"
+                  ],
+                  [
+                    "69",
+                    "Indian Constitution Day",
+                    "26.11.2018",
+                    "KAHE NSS",
+                    "Awareness Programme",
+                    "2018-2019"
+                  ],
+                  [
+                    "70",
+                    "Say No to Plastic Awareness among Shoppers",
+                    "23.11.2018",
+                    "KAHE NSS Government of India, Field Publicity Bureau, Ministry of Information and Broadcasting.",
+                    "Swachh Bharat",
+                    "2018-2019"
+                  ],
+                  [
+                    "71",
+                    "Dengue Awareness Rally & Door to Door Canvass at Malumichampatti",
+                    "22.11.2018",
+                    "KAHE NSS Government of India, Field Publicity Bureau, Ministry of Information and Broadcasting.",
+                    "Swachh Bharat",
+                    "2018-2019"
+                  ],
+                  [
+                    "72",
+                    "Vigilance Day",
+                    "29.10.2018 to 03.11.2018",
+                    "KAHE NSS",
+                    "Awareness Programme",
+                    "2018-2019"
+                  ],
+                  [
+                    "73",
+                    "International Day of Rural Women",
+                    "15.10.2018",
+                    "KAHE NSS with ARC Foundations",
+                    "Womens Awareness",
+                    "2018-2019"
+                  ],
+                  [
+                    "74",
+                    "World Students Day Malumichampatti",
+                    "15.10.2018",
+                    "KAHE NSS with Nizhal Maiyam",
+                    "Awareness Programme",
+                    "2018-2019"
+                  ],
+                  [
+                    "75",
+                    "Organ Donation Day",
+                    "13.08.2018",
+                    "KAHE NSS with Rajiv Gandhi Chronic Disease Health Care Awareness Association & Indira Gandhi Eye Bank of India Trust",
+                    "Public Awareness",
+                    "2018-2019"
+                  ],
+                  [
+                    "76",
+                    "Unnat Bharat Abhiyan Summer Internship July 2018",
+                    "Jul-18",
+                    "KAHE NSS Government of India, Field Publicity Bureau, Ministry of Information and Broadcasting.",
+                    "Unnat Bharat Abhiyan",
+                    "2018-2019"
+                  ],
+                  [
+                    "77",
+                    "Human Chain and Importance of Helmet Wearing",
+                    "14.07.2018",
+                    "KAHE NSS",
+                    "Awareness Programme",
+                    "2018-2019"
+                  ],
+                  [
+                    "78",
+                    "International Yoga Day",
+                    "19.06.2018 to 21.06.2018",
+                    "Government Middle School, Othakkalmandapam",
+                    "International Day",
+                    "2018-2019"
+                  ],
+                  [
+                    "79",
+                    "Swachh Bharat – clean India",
+                    "23.02.2018",
+                    "KAHE NSS",
+                    "Swachh Bharat",
+                    "2017-2018"
+                  ],
+                  [
+                    "80",
+                    "Swachh Bharat Mission",
+                    "21.02.2018",
+                    "KAHE NSS",
+                    "Awareness Programme",
+                    "2017-2018"
+                  ],
+                  [
+                    "81",
+                    "Swachh Bharat – clean India",
+                    "20.02.2018",
+                    "KAHE NSS",
+                    "Awareness Programme",
+                    "2017-2018"
+                  ],
+                  [
+                    "82",
+                    "Swachh Bharat Mission",
+                    "19.02.2018",
+                    "KAHE NSS",
+                    "Swachh Bharat",
+                    "2017-2018"
+                  ],
+                  [
+                    "83",
+                    "World Leprosy Day",
+                    "30.01.2018",
+                    "KAHE NSS",
+                    "World Leprosy Day",
+                    "2017-2018"
+                  ],
+                  [
+                    "84",
+                    "Child Obesity Prevention in Schools",
+                    "09.01.2018",
+                    "KAHE NSS with Karpagam Medical College Hospital",
+                    "Awareness Programme",
+                    "2017-2018"
+                  ],
+                  [
+                    "85",
+                    "Dengue Awareness Programme",
+                    "04.01.2018",
+                    "KAHE NSS",
+                    "Awareness Programme",
+                    "2017-2018"
+                  ],
+                  [
+                    "86",
+                    "Blood Donation Camp",
+                    "20.12.2017",
+                    "KAHE NSS with Karpagam Medical College Hospital",
+                    "Blood Donation",
+                    "2017-2018"
+                  ],
+                  [
+                    "87",
+                    "Motivation Speech for NSS volunteers",
+                    "19.12.2017",
+                    "KAHE NSS",
+                    "Students Awareness",
+                    "2017-2018"
+                  ],
+                  [
+                    "88",
+                    "Swachh Survekshan Ranking",
+                    "14.12.2017 to 17.12.2017",
+                    "KAHE NSS",
+                    "Awareness Programme",
+                    "2017-2018"
+                  ],
+                  [
+                    "89",
+                    "Swachh Survekshan Ranking",
+                    "12.12.2017",
+                    "KAHE NSS with ARC Foundations",
+                    "Swachh Bharat",
+                    "2017-2018"
+                  ],
+                  [
+                    "90",
+                    "Annual Special Camp",
+                    "06.12.2017 to 12.12.2017",
+                    "NSS",
+                    "7 Days Annual Special Camp on “Youth for Rural Reconstruction”",
+                    "2017-2018"
+                  ],
+                  [
+                    "91",
+                    "AIDS Awareness Programme",
+                    "01.12.2017",
+                    "KAHE NSS with Tamil Nadu AIDS Control Society Coimbatore.",
+                    "AIDS Awareness",
+                    "2017-2018"
+                  ],
+                  [
+                    "92",
+                    "Breast Cancer Awareness",
+                    "26.10.2017",
+                    "KAHE NSS with Karpagam Medical College Hospital",
+                    "Awareness Programme",
+                    "2017-2018"
+                  ],
+                  [
+                    "93",
+                    "Kalam Libraries Cleaning Camp",
+                    "08.09.2017 to 09.09.2017",
+                    "KAHE NSS with ARC Foundations",
+                    "Skill Development",
+                    "2017-2018"
+                  ],
+                  [
+                    "94",
+                    "Swachhata pakhwada Campaign",
+                    "1.9.17 to 15.9.17",
+                    "KAHE NSS",
+                    "Swachh Bharat",
+                    "2017-2018"
+                  ],
+                  [
+                    "95",
+                    "kalam Libraries Cleaning Camp",
+                    "12.09.2017 to 13.09.2017",
+                    "KAHE NSS",
+                    "Community Service",
+                    "2017-2018"
+                  ],
+                  [
+                    "96",
+                    "Blood Donation Camp",
+                    "05.09.2017",
+                    "KAHE NSS with Karpagam Medical College Hospital",
+                    "Blood Donation",
+                    "2017-2018"
+                  ],
+                  [
+                    "97",
+                    "Open Defecation awareness rally",
+                    "09.08.2017 to 15.08.2017",
+                    "KAHE NSS with ARC Foundations",
+                    "Awareness Programme",
+                    "2017-2018"
+                  ],
+                  [
+                    "98",
+                    "Dengue Awareness Programme",
+                    "09.08.2017 to 15.08.2017",
+                    "KAHE NSS",
+                    "Swachh Bharat",
+                    "2017-2018"
+                  ],
+                  [
+                    "99",
+                    "Breast Feeding Week",
+                    "07.08.2017",
+                    "KAHE NSS with Karpagam Medical College Hospital",
+                    "Awareness Programme",
+                    "2017-2018"
+                  ],
+                  [
+                    "100",
+                    "Koniamman Temple Volunteering Service",
+                    "04.08.2017",
+                    "KAHE NSS with ARC Foundations",
+                    "Community Service",
+                    "2017-2018"
+                  ],
+                  [
+                    "101",
+                    "World Leprosy Day",
+                    "30.01.2017",
+                    "KAHE NSS",
+                    "World Leprosy Day",
+                    "2017-2018"
+                  ],
+                  [
+                    "102",
+                    "Motivation Speech for NSS volunteers",
+                    "19.02.2017",
+                    "KAHE NSS",
+                    "Awareness Programme",
+                    "2017-2018"
+                  ],
+                  [
+                    "103",
+                    "World No Tobacco Day",
+                    "31.05.2017",
+                    "KAHE NSS with Karpagam Medical College Hospital",
+                    "Public Awareness",
+                    "2016-2017"
+                  ],
+                  [
+                    "104",
+                    "Medical Camp",
+                    "19.04.2017 to 29.04.2017",
+                    "KAHE NSS with Karpagam Medical College Hospital",
+                    "Medical Camp",
+                    "2016-2017"
+                  ],
+                  [
+                    "105",
+                    "Campus Cleaning",
+                    "10.03.2017",
+                    "KAHE NSS",
+                    "Awareness Programme",
+                    "2016-2017"
+                  ],
+                  [
+                    "106",
+                    "Blood Donation Camp",
+                    "05.03.2017",
+                    "KAHE NSS with Canara Bank",
+                    "Awareness Programme",
+                    "2016-2017"
+                  ],
+                  [
+                    "107",
+                    "Workshop on implications of GST",
+                    "16.02.2017",
+                    "KAHE",
+                    "Workshop on implications of GST",
+                    "2016-2017"
+                  ],
+                  [
+                    "108",
+                    "Awareness programme on Implementation of Cashless transactions",
+                    "12.02.2017",
+                    "KAHE",
+                    "Awareness programme on Implementation of Cashless transactions",
+                    "2016-2017"
+                  ],
+                  [
+                    "109",
+                    "Vehicle Emission Programme",
+                    "12.02.2017",
+                    "KAHE NSS",
+                    "Public Awareness",
+                    "2016-2017"
+                  ],
+                  [
+                    "110",
+                    "Implementation of Demonetization Cash Less Transaction",
+                    "12.02.2017",
+                    "KAHE NSS with Karpagam Medical College Hospital",
+                    "Awareness Programme",
+                    "2016-2017"
+                  ],
+                  [
+                    "111",
+                    "National Youth Day",
+                    "12.01.2017",
+                    "KAHE NSS",
+                    "Awareness",
+                    "2016-2017"
+                  ],
+                  [
+                    "112",
+                    "Digital India (VITTIYA SAKSHARATA ABBIYAN)",
+                    "11.01.2017",
+                    "KAHE NSS",
+                    "Digital India",
+                    "2016-2017"
+                  ],
+                  [
+                    "113",
+                    "Digital India",
+                    "11.01.2017",
+                    "KAHE NSS",
+                    "Awareness Programme",
+                    "2016-2017"
+                  ],
+                  [
+                    "114",
+                    "Campus Cleaning",
+                    "06.01.2017",
+                    "KAHE NSS",
+                    "Swachh Bharat",
+                    "2016-2017"
+                  ],
+                  [
+                    "115",
+                    "Annual Special Camp",
+                    "19.12.2016 to 25.12.2016",
+                    "NSS",
+                    "Annual Special Camp on “Youth for Rural Reconstruction”",
+                    "2016-2017"
+                  ],
+                  [
+                    "116",
+                    "AIDS Awareness Programme",
+                    "01.12.2016",
+                    "KAHE NSS with Tamil Nadu AIDS Control Society Coimbatore.",
+                    "AIDS Awareness",
+                    "2016-2017"
+                  ],
+                  [
+                    "117",
+                    "Vigilance Week",
+                    "05.11.2016",
+                    "KAHE NSS with Indian Bank",
+                    "Vigilance Week",
+                    "2016-2017"
+                  ],
+                  [
+                    "118",
+                    "Breast Cancer Awareness Programme Rally",
+                    "04.11.2016",
+                    "KAHE NSS",
+                    "Awareness Programme",
+                    "2016-2017"
+                  ],
+                  [
+                    "119",
+                    "Breast Cancer Awareness",
+                    "26.10.2016",
+                    "KAHE NSS with Karpagam Medical College Hospital",
+                    "Breast Cancer Week",
+                    "2016-2017"
+                  ],
+                  [
+                    "120",
+                    "Village Cleaning Camp",
+                    "02.10.2016",
+                    "KAHE NSS with Madukarai Block Development Office, Government of India, Field Publicity Bureau, Ministry of Information and Broadcasting.",
+                    "Swachh Bharat",
+                    "2016-2017"
+                  ],
+                  [
+                    "121",
+                    "Campus Cleaning",
+                    "02.10.2016",
+                    "KAHE NSS",
+                    "Swachh Bharat",
+                    "2016-2017"
+                  ],
+                  [
+                    "122",
+                    "Organ Donation Day",
+                    "22.08.2016",
+                    "KAHE NSS",
+                    "Public Awareness",
+                    "2016-2017"
+                  ],
+                  [
+                    "123",
+                    "Tree Plantation",
+                    "15.08.2016",
+                    "KAHE NSS",
+                    "Awareness Programme",
+                    "2016-2017"
+                  ],
+                  [
+                    "124",
+                    "Blood Donation Camp",
+                    "15.08.2016",
+                    "KAHE NSS with Canara Bank",
+                    "Blood Donation",
+                    "2016-2017"
+                  ],
+                  [
+                    "125",
+                    "Breast Feeding Week",
+                    "07.08.2016",
+                    "KAHE NSS with Karpagam Medical College Hospital",
+                    "Breast feeding Week",
+                    "2016-2017"
+                  ],
+                  [
+                    "126",
+                    "Swachhata Bharath Pakhwada",
+                    "26.01.2016 to 28.01.2016",
+                    "KAHE NSS with Madukarai Block Development Office, Government of India, Field Publicity Bureau, Ministry of Information and Broadcasting and Rotaract Galaxy Coimbatore.",
+                    "Swachh Bharat",
+                    "2016-2017"
+                  ],
+                  [
+                    "127",
+                    "Tree Plantation",
+                    "15.03.2016",
+                    "KAHE NSS",
+                    "Tree Plantation",
+                    "2015-2016"
+                  ],
+                  [
+                    "128",
+                    "Annual Special Camp",
+                    "03.01.2016 to 09.01.2016",
+                    "NSS",
+                    "7 Days Annual Special Camp on “Youth for Rural Reconstruction”",
+                    "2015-2016"
+                  ],
+                  [
+                    "129",
+                    "Awareness programme on Environmental issues",
+                    "07.01.2016",
+                    "Karpagam Academy of Higher Education & Myleripalayam Panchayat",
+                    "Awareness Programme",
+                    "2015-2016"
+                  ],
+                  [
+                    "130",
+                    "Blood Donation Camp",
+                    "05.11.2015",
+                    "KAHE NSS",
+                    "Public Awareness",
+                    "2015-2016"
+                  ],
+                  [
+                    "131",
+                    "Awareness programme on Health & Hygiene",
+                    "26.10.2015",
+                    "Karpagam Academy of Higher Education & Seerapalayam Panchayat",
+                    "Awareness Programme",
+                    "2015-2016"
+                  ],
+                  [
+                    "132",
+                    "Medical Camp",
+                    "02.10.2015",
+                    "KAHE NSS",
+                    "Health & Hygiene",
+                    "2015-2016"
+                  ],
+                  [
+                    "133",
+                    "Sanitation Awareness Campaign Village cleaning",
+                    "02.10.2015",
+                    "KAHE NSS",
+                    "Awareness Programme",
+                    "2015-2016"
+                  ],
+                  [
+                    "134",
+                    "Blood Donation Camp",
+                    "17.09.2015",
+                    "KAHE NSS",
+                    "Community Service",
+                    "2015-2016"
+                  ],
+                  [
+                    "135",
+                    "Legal Literacy Camp",
+                    "10.09.2015",
+                    "KAHE – NSS",
+                    "Extension Activity",
+                    "2015-2016"
+                  ],
+                  [
+                    "136",
+                    "Environment Awareness Camp",
+                    "07.09.2015",
+                    "KAHE NSS",
+                    "Public Awareness",
+                    "2015-2016"
+                  ],
+                  [
+                    "137",
+                    "Tree Plantation",
+                    "15.08.2015",
+                    "KAHE NSS",
+                    "Awareness Programme",
+                    "2015-2016"
+                  ]
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+
+    {
+      "tab": "gallery",
+      "content": {
+        "sections": [
+          {
+            "title": "Covid-19 Awareness",
+            "blocks": [
+              {
+                "type": "image",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/IMG-20201017-WA0007-1024x518.jpg",
+                "align": "center",
+                "alt": "Covid-19 Awareness Image 1"
+              },
+              {
+                "type": "image",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/IMG-20201017-WA0010-1024x518.jpg",
+                "align": "center",
+                "alt": "Covid-19 Awareness Image 2"
+              },
+              {
+                "type": "image",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/IMG-20201017-WA0021-1024x518.jpg",
+                "align": "center",
+                "alt": "Covid-19 Awareness Image 3"
+              }
+            ]
+          },
+          {
+            "title": "Ek Bharat Shreshtha Bharat",
+            "blocks": [
+              {
+                "type": "image",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/1612521658231-1024x518.jpg",
+                "align": "center",
+                "alt": "Ek Bharat Shreshtha Bharat Image 1"
+              },
+              {
+                "type": "image",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/1612521658285-1024x518.jpg",
+                "align": "center",
+                "alt": "Ek Bharat Shreshtha Bharat Image 2"
+              },
+              {
+                "type": "image",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/1612521658311-1024x518.jpg",
+                "align": "center",
+                "alt": "Ek Bharat Shreshtha Bharat Image 3"
+              }
+            ]
+          },
+          {
+            "title": "Grama Sabha Meeting",
+            "blocks": [
+              {
+                "type": "image",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/1612749449196-1024x618.jpg",
+                "align": "center",
+                "alt": "Grama Sabha Meeting Image 1"
+              },
+              {
+                "type": "image",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/1612749449207-1024x768.jpg",
+                "align": "center",
+                "alt": "Grama Sabha Meeting Image 2"
+              },
+              {
+                "type": "image",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/1612749449216-1024x768.jpg",
+                "align": "center",
+                "alt": "Grama Sabha Meeting Image 3"
+              }
+            ]
+          },
+          {
+            "title": "ANNUAL SPECIAL CAMP",
+            "blocks": [
+              {
+                "type": "image",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/1-1-scaled-1024x768.jpg",
+                "align": "center",
+                "alt": "Annual Special Camp Image 1"
+              },
+              {
+                "type": "image",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/2-1-scaled-1024x472.jpg",
+                "align": "center",
+                "alt": "Annual Special Camp Image 2"
+              },
+              {
+                "type": "image",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/3-1-scaled-1024x768.jpg",
+                "align": "center",
+                "alt": "Annual Special Camp Image 3"
+              }
+            ]
+          },
+          {
+            "title": "Agrothon 2020- KIDS Marathon",
+            "blocks": [
+              {
+                "type": "image",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/1583642018212-1024x489.jpg",
+                "align": "center",
+                "alt": "Agrothon 2020 Image 1"
+              },
+              {
+                "type": "image",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/1583635999954-1024x489.jpg",
+                "align": "center",
+                "alt": "Agrothon 2020 Image 2"
+              },
+              {
+                "type": "image",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/IMG_20200308_071155-scaled-1024x768.jpg",
+                "align": "center",
+                "alt": "Agrothon 2020 Image 3"
+              }
+            ]
+          },
+          {
+            "title": "Swachh Bharat Mission & Poshan Abhiyaan",
+            "blocks": [
+              {
+                "type": "image",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/IMG-20191130-WA0026-900x600.jpg",
+                "align": "center",
+                "alt": "Swachh Bharat Mission Image 1"
+              },
+              {
+                "type": "image",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/IMG-20191130-WA0035-900x600.jpg",
+                "align": "center",
+                "alt": "Swachh Bharat Mission Image 2"
+              },
+              {
+                "type": "image",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/IMG-20191130-WA0042-900x600.jpg",
+                "align": "center",
+                "alt": "Swachh Bharat Mission Image 3"
+              }
+            ]
+          },
+          {
+            "title": "International Yoga Day",
+            "blocks": [
+              {
+                "type": "image",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/1612749325138-1024x768.jpg",
+                "align": "center",
+                "alt": "International Yoga Day Image 1"
+              },
+              {
+                "type": "image",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/1612749325192-1024x768.jpg",
+                "align": "center",
+                "alt": "International Yoga Day Image 2"
+              },
+              {
+                "type": "image",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/1612749325211-1024x768.jpg",
+                "align": "center",
+                "alt": "International Yoga Day Image 3"
+              }
+            ]
+          },
+          {
+            "title": "Campus Cleaning",
+            "blocks": [
+              {
+                "type": "image",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/P_20170914_112454_HDR-scaled-1024x576.jpg",
+                "align": "center",
+                "alt": "Campus Cleaning Image 1"
+              },
+              {
+                "type": "image",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/P_20170914_112709_HDR-scaled-1024x576.jpg",
+                "align": "center",
+                "alt": "Campus Cleaning Image 2"
+              },
+              {
+                "type": "image",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/P_20170914_114119_HDR-scaled-1024x576.jpg",
+                "align": "center",
+                "alt": "Campus Cleaning Image 3"
+              }
+            ]
+          },
+          {
+            "title": "Childrens Day",
+            "blocks": [
+              {
+                "type": "image",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/IMG-20191125-WA0019-1024x768.jpg",
+                "align": "center",
+                "alt": "Childrens Day Image 1"
+              },
+              {
+                "type": "image",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/IMG-20191125-WA0028-1024x768.jpg",
+                "align": "center",
+                "alt": "Childrens Day Image 2"
+              },
+              {
+                "type": "image",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/IMG-20191130-WA0018-1024x768.jpg",
+                "align": "center",
+                "alt": "Childrens Day Image 3"
+              }
+            ]
+          },
+          {
+            "title": "Importance of National Flag and Helmet Awareness",
+            "blocks": [
+              {
+                "type": "image",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/WhatsApp-Image-2020-02-12-at-10.53.07-1-1024x768.jpeg",
+                "align": "center",
+                "alt": "Flag and Helmet Awareness Image 1"
+              },
+              {
+                "type": "image",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/WhatsApp-Image-2020-02-12-at-10.53.07-10-1024x768.jpeg",
+                "align": "center",
+                "alt": "Flag and Helmet Awareness Image 2"
+              },
+              {
+                "type": "image",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/WhatsApp-Image-2020-02-12-at-10.53.07-12-1024x768.jpeg",
+                "align": "center",
+                "alt": "Flag and Helmet Awareness Image 3"
+              }
+            ]
+          },
+          {
+            "title": "Medical Camp",
+            "blocks": [
+              {
+                "type": "image",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/1-2-1024x518.jpg",
+                "align": "center",
+                "alt": "Medical Camp Image 1"
+              },
+              {
+                "type": "image",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/IMG-20200309-WA0024-1-1024x519.jpg",
+                "align": "center",
+                "alt": "Medical Camp Image 2"
+              },
+              {
+                "type": "image",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/IMG-20200309-WA0025-1024x519.jpg",
+                "align": "center",
+                "alt": "Medical Camp Image 3"
+              }
+            ]
+          },
+          {
+            "title": "Womens Day",
+            "blocks": [
+              {
+                "type": "image",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/1-3-1024x513.jpg",
+                "align": "center",
+                "alt": "Womens Day Image 1"
+              },
+              {
+                "type": "image",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/2-2-scaled-1024x768.jpg",
+                "align": "center",
+                "alt": "Womens Day Image 2"
+              },
+              {
+                "type": "image",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/1583736078844-1024x513.jpg",
+                "align": "center",
+                "alt": "Womens Day Image 3"
+              }
+            ]
+          },
+          {
+            "title": "Blood Donation",
+            "blocks": [
+              {
+                "type": "image",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/1-4-scaled-1024x576.jpg",
+                "align": "center",
+                "alt": "Blood Donation Image 1"
+              },
+              {
+                "type": "image",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/2-3-scaled-1024x576.jpg",
+                "align": "center",
+                "alt": "Blood Donation Image 2"
+              },
+              {
+                "type": "image",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/3-2-scaled-576x1024.jpg",
+                "align": "center",
+                "alt": "Blood Donation Image 3"
+              }
+            ]
+          },
+          {
+            "title": "Breastfeeding Week",
+            "blocks": [
+              {
+                "type": "image",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/IMG_20190807_120326-scaled-1024x768.jpg",
+                "align": "center",
+                "alt": "Breastfeeding Week Image 1"
+              },
+              {
+                "type": "image",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/IMG-20190813-WA0000-1024x965.jpg",
+                "align": "center",
+                "alt": "Breastfeeding Week Image 2"
+              },
+              {
+                "type": "image",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/IMG-20190821-WA0015-1024x486.jpg",
+                "align": "center",
+                "alt": "Breastfeeding Week Image 3"
+              }
+            ]
+          },
+          {
+            "title": "Tree Plantation",
+            "blocks": [
+              {
+                "type": "image",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/1-5-1024x518.jpg",
+                "align": "center",
+                "alt": "Tree Plantation Image 1"
+              },
+              {
+                "type": "image",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/2-4-scaled-1024x768.jpg",
+                "align": "center",
+                "alt": "Tree Plantation Image 2"
+              },
+              {
+                "type": "image",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/3-3-1024x518.jpg",
+                "align": "center",
+                "alt": "Tree Plantation Image 3"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
