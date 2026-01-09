@@ -1,8 +1,8 @@
 import RecruitingCompaniesCom from "@/components/00-Kahe/Training&PlacementComs/RecruitingCompaniesCom";
 
 export const metadata = {
-  title: "About Us 01 - Online Courses & Education NEXTJS14 Template",
-  description: "Online Courses & Education NEXTJS14 Template",
+  title: "Recruiting Companies | Best Placement Colleges in Coimbatore",
+  description: "Join the Best Placement Engineering Colleges in Coimbatore to secure your career with promising job offers. KAHE provides top placement opportunities.",
 };
 const page = () => {
   return (

@@ -58,7 +58,7 @@ const CourseLessonProp = ({ courseImg, courseContent }) => {
           <div className="course-content">
             <div className="rbt-accordion-style rbt-accordion-02 right-no-padding accordion">
               <div className="accordion" id="accordionExampleb2">
-                {courseContent.map((data, index) => (
+                {courseContent?.map((data, index) => (
                   <div className="accordion-item card" key={index}>
                     <h2
                       className="accordion-header card-header"

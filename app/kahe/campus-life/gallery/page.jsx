@@ -2,8 +2,8 @@ import CampusGallery from "@/components/00-Kahe/CampusComponenets/CampusGallery"
 
 
 export const metadata = {
-  title: "About Us 01 - Online Courses & Education NEXTJS14 Template",
-  description: "Online Courses & Education NEXTJS14 Template",
+  title: "Gallery | Leading Engineering College in Coimbatore",
+  description: "Being one of the leading engineering colleges in Coimbatore, KAHE is the best place to study. Browse through the collection of our gallery at KAHE.",
 };
 const page = () => {
   return (

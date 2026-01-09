@@ -2,8 +2,8 @@ import HealthFacilities from "@/components/00-Kahe/CampusComponenets/HealthFacil
 
 
 export const metadata = {
-  title: "About Us 01 - Online Courses & Education NEXTJS14 Template",
-  description: "Online Courses & Education NEXTJS14 Template",
+  title: "Health Facilities - KAHE",
+  description: "Being one of the leading engineering colleges in Coimbatore, KAHE is the best place to study. Browse through the collection of our gallery at KAHE.",
 };
 const page = () => {
   return (

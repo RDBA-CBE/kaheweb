@@ -3,8 +3,8 @@ import OfficeOfInternationalAffairs from "@/components/00-Kahe/OfficeOfInternati
 import PlacementCom from "@/components/00-Kahe/Training&PlacementComs/PlacementCom";
 
 export const metadata = {
-  title: "About Us 01 - Online Courses & Education NEXTJS14 Template",
-  description: "Online Courses & Education NEXTJS14 Template",
+  title: "Office of the International Affairs | Best Mechanical Engineering College",
+  description: "Looking for the Best Mechanical Engineering Colleges in Tamilnadu? KAHE offers extensive courses and international relations along with job prospects.",
 };
 const page = () => {
   return (

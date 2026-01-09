@@ -145,12 +145,21 @@ const Nav = () => {
               } ${disableHover ? "disable-hover" : ""}`}
               onMouseEnter={() => {
                 if (!isMobile && !disableHover) {
-                  setActiveMenuItem(menu.menuType);
+                  setActiveMenuItem(menu?.menuType);
+              
+                  // 🔥 RESET PREVIOUS MENU STATES
+                  setActiveSub(null);
+                  setActiveChild(null);
+                  setActiveChildMenu(null);
                 }
               }}
+              
               onMouseLeave={() => {
                 if (!isMobile && !disableHover) {
                   setActiveMenuItem(null);
+                  setActiveSub(null);
+                  setActiveChild(null);
+                  setActiveChildMenu(null);
                 }
               }}
             >
@@ -266,8 +275,13 @@ const Nav = () => {
                                   }`}
                                   href={child.link}
                                   target={child.target ? child.target : "_self"}
-                                  onClick={() => {
-                                    closeAllMenus();
+                                  onClick={(e) => {
+                                    if (child?.children || child?.sub_children) {
+                                      e.preventDefault();
+                                      toggleChildMenu(child.title);
+                                    } else {
+                                      closeAllMenus();
+                                    }
                                   }}
                                 >
                                   {child.title}
@@ -279,17 +293,11 @@ const Nav = () => {
                                 {/* CHILD SUBMENU */}
                                 {(child.children || child.sub_children) && (
                                   <ul
-                                    className={`mega-menu-item submenu-list child-submenu position-absolute ${
+                                    className={`mega-menu-item submenu-list child-submenu ${
                                       activeChildMenu === child.title
                                         ? "active d-block"
                                         : "d-none"
                                     }`}
-                                    style={{
-                                      top: "100%",
-                                      left: 0,
-                                      minWidth: "200px",
-                                      zIndex: 1000,
-                                    }}
                                   >
                                     {(child.children || child.sub_children)?.map((grand, g) => (
                                       <li key={g}>

@@ -27,7 +27,7 @@ const CourseDetailsSix = ({ checkMatchCourses }) => {
             id="coursecontent"
           >
             {checkMatchCourses &&
-              checkMatchCourses.courseContent.map((data, index) => (
+              checkMatchCourses.courseContent?.map((data, index) => (
                 <Content {...data} key={index} checkMatchCourses={data} />
               ))}
           </div>

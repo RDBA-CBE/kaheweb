@@ -1,8 +1,8 @@
 import PlacementContactCom from "@/components/00-Kahe/Training&PlacementComs/PlacementContactCom";
 
 export const metadata = {
-  title: "About Us 01 - Online Courses & Education NEXTJS14 Template",
-  description: "Online Courses & Education NEXTJS14 Template",
+  title: "Contact | Leading Colleges in Coimbatore",
+  description: "Get in touch with KAHE, a Leading college in Coimbatore offering a wide range of courses. Wanna clear any doubts about admissions? Our team is here to help!",
 };
 const page = () => {
   return (

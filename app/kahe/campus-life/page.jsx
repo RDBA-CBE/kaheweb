@@ -2,8 +2,8 @@ import CampusLife from "@/components/00-Kahe/CampusComponenets/CampusLifeCom";
 
 
 export const metadata = {
-  title: "About Us 01 - Online Courses & Education NEXTJS14 Template",
-  description: "Online Courses & Education NEXTJS14 Template",
+  title: "Campus Life - Best Colleges for B.Com in Coimbatore",
+  description: "Experience serenity at KAHE, the best college for BCom in Coimbatore. KAHE provides a tranquil atmosphere making it an ideal place to study &amp; explore.",
 };
 const page = () => {
   return (

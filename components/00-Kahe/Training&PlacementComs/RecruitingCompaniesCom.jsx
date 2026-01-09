@@ -30,8 +30,8 @@ const RecruitingCompaniesCom = () => {
                 {Training?.recruiters?.content?.map((item, index) => (
                   <div key={index} className="col-3">
                     <div key={index} className="specialty-card">
-                      <img src={item?.img} alt={item?.title} />
-                      <p>{FirstLetterUp(item?.title)}</p>
+                      {/* <img src={item?.img} alt={item?.title} /> */}
+                      <h4>{FirstLetterUp(item?.title)}</h4>
                     </div>
                   </div>
                 ))}

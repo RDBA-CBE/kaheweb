@@ -4,8 +4,8 @@ import ResearchGuideLines from "@/components/00-Kahe/DirectPageComponent/Researc
 
 
 export const metadata = {
-  title: "About Us 01 - Online Courses & Education NEXTJS14 Template",
-  description: "Online Courses & Education NEXTJS14 Template",
+  title: "Research Policy and Guidelines | Top Colleges in Coimbatore",
+  description: "Check the research policy and regulations for Ph.D. at KAHE, one of the top 10 Colleges in Coimbatore. Enrol now for your research work at KAHE!",
 };
 const page = () => {
   return (
