@@ -1,0 +1,1429 @@
+{
+  "bannerCon": {
+    "bannerImg": "/images/Kahe/training-and-placement/trainingandplacementcell-banner.webp",
+    "title": "National Cadet Corps",
+    "bannerCon": "Training minds, empowering skills, and launching successful careers",
+    "applyLink": "/"
+  },
+
+  "tabs": [
+    {
+      "id": "overview",
+      "label": "Overview"
+    },
+    {
+      "id": "about_ncc",
+      "label": "About NCC"
+    },
+    {
+      "id": "vvip_messages",
+      "label": "VVIP Messages"
+    },
+    {
+      "id": "kahe_ncc",
+      "label": "KAHE NCC"
+    },
+    {
+      "id": "activities",
+      "label": "Activities"
+    },
+    {
+      "id": "highlights",
+      "label": "Highlights"
+    },
+    {
+      "id": "photogallery",
+      "label": "Photogallery"
+    }
+  ],
+
+  "tabContent": [
+    {
+      "tab": "overview",
+      "overview": {
+        "content": [
+          {
+            "title": "Overview",
+            "src": "/images/Kahe/team-13.png",
+            "content": "National Cadet Corps in Our institution was established in 2013. Our institution’s NCC has a remarkable record of meritorious contribution; our cadets contributed to the Tamilnadu contingent’s position in Republic Day banner points in various ways. NCC activities in our institution have evoked much enthusiasm among the students. At present, there are Two Wings in our institution comprising of about 100 cadets who are actively indulging in all NCC activities to make our institution and our Nation proud."
+          }
+        ]
+      }
+    },
+    {
+      "tab": "about_ncc",
+      "content": {
+        "sections": [
+          {
+            "title": "National Cadet Corps",
+            "blocks": [
+              {
+                "type": "text",
+                "value": "The National Cadet Corps is the Indian military cadet corps with its Head Quarters at New Delhi. It is open to school and college students voluntarily. The National Cadet Corps in India is a voluntary organization that recruits cadets from high schools, colleges, and Universities all over India. The Cadets are given basic military training in small arms and parades. The officers and cadets have no liability for active military service once they complete their course but are given preference over standard candidates during selections based on the corps’ achievements."
+              }
+            ]
+          },
+          {
+            "title": "Motto of NCC",
+            "blocks": [
+              {
+                "type": "list",
+                "ordered": false,
+                "items": ["Unity and Discipline (Ekta aur Anushasan)"]
+              }
+            ]
+          },
+          {
+            "title": "DG’s four Cardinal Principals of Discipline",
+            "blocks": [
+              {
+                "type": "list",
+                "ordered": false,
+                "items": [
+                  "Obey with a smile",
+                  "Be Punctual",
+                  "Work hard and without fuss",
+                  "Make no excuses and tell no lies"
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Aims of NCC",
+            "blocks": [
+              {
+                "type": "list",
+                "ordered": true,
+                "items": [
+                  "To develop qualities of character, courage, comradeship, discipline, leadership, secular outlook, spirit of adventure and sportsmanship and the ideals of selfless service among the youth to make them useful citizen.",
+                  "To create a human resource of organised trained and motivated youth to provide leadership in all walks of life including the Armed Forces and be always available for the service of the Nation."
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Oath",
+            "blocks": [
+              {
+                "type": "text",
+                "isQuote": true,
+                "value": "“I do hereby solemnly promise that I will serve my motherland most truly and loyally and that, I will abide by the rules and regulations of the National Cadet Crops. Further under the command and control of my commanding officer I will participate in every camp most sincerely and wholeheartedly”."
+              }
+            ]
+          },
+          {
+            "title": "Pledge",
+            "blocks": [
+              {
+                "type": "text",
+                "isQuote": true,
+                "value": "We the cadet of the national cadet corps, do solemnly pledge that we shall always uphold the unity of India. We resolve to be a disciplined and responsible citizen of our Nation. We shall undertake positive community service in the spirit of selflessness and concern for our fellow beings."
+              }
+            ]
+          },
+          {
+            "title": "NCC History",
+            "blocks": [
+              {
+                "type": "text",
+                "value": "The NCC in India was formed with the National Cadet Corps Act of 1948. It was raised on 15 July 1948. The National Cadet Corps can be considered a successor of the University Officers Training Corps (UOTC) established by the British in 1942. During World War II, the UOTC never came up to the expectations set by the British. This led to the idea that some better schemes should be formed, which could train more young men in a better way, even during peace times. A committee headed by Pandit H.N. Kunzru recommended a cadet organization to be established in schools and colleges at a national level. The Governor-General accepted the National Cadet Corps Act, and on 15 July 1948, the National Cadet Corps came into existence."
+              },
+              {
+                "type": "text",
+                "value": "During the 1965 and 1971 wars with Pakistan, NCC cadets were the second line of defense. They organized camps to assist the ordinance factories, supplied arms and ammunition to the front, and were used as patrol parties to capture the enemy paratroopers. The NCC cadets also worked for hand in hand with the Civil Defence authorities and actively took part in rescue work and traffic control. After the 1965 and 1971 Indo-Pak wars, the NCC syllabus was revised. Rather than just being the second line of defense, the NCC syllabus laid tremendous stress on developing leadership qualities and Officer-like qualities. The military training which the NCC cadets received was reduced, and greater importance was given to other areas like social service and youth-management."
+              }
+            ]
+          },
+          {
+            "title": "NCC Organisation",
+            "blocks": [
+              {
+                "type": "text",
+                "value": "A Director-General heads the National Cadet Corps, an Army Officer of Lieutenant General’s rank, responsible for the National Cadet Corps’ functioning in the country through the National Cadet Corps Headquarters, Delhi. At the State Level, the country has been divided into 17 Directorates covering all States and Union Territories. Each of the State National Cadet Corps Directorate Headquarters controls two to fourteen Group Headquarters. While Brigadiers or their equivalents command directorates, the Groups are commanded by Colonels or equivalents from the Air Force and the Navy. NCC Units are commanded by Major/Lieutenant Colonel or their equivalents."
+              }
+            ]
+          },
+          {
+            "title": "Flag and Symbols",
+            "blocks": [
+              {
+                "type": "image",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/01/output-onlinepngtools.png",
+                "align": "center",
+                "width": "430px"
+              },
+              {
+                "type": "image",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/01/ncc-flag.png",
+                "caption": "NCC Flag",
+                "align": "center",
+                "width": "319px"
+              },
+              {
+                "type": "text",
+                "value": "NCC Flag Contains NCC Crest in gold in the middle, with the letters “NCC” encircled by a wreath of seventeen lotus with a background in Red, Blue, and Light blue. Red depicts the Army, Deep Blue depicts the Navy, and Light Blue depicts the Air Force. The seventeen lotuses represent the 17 State Directorates. “Unity of Discipline” (Ekta aur Anushasan) is written at the NCC Flag’s bottom."
+              }
+            ]
+          },
+          {
+            "title": "NCC Song & Media",
+            "blocks": [
+              {
+                "type": "text",
+                "value": "HUM SAB BHARTIYA HAI, HUM SAB BHARATIYA HAI APNI MANZIL EK HAI, HA HA HA EK HAI, HO HO HO EK HAI, HUM SAB BHARTIYA HAI. KASHMIR KI DHARTI RANI HAI, SARTAJ HIMALAY HAI SADIYON SE HAMNE ISKO APNE KHOON SE PALA HAI DESH KI RAKSHA KI KHATIR, HUM SHAMSHEER UTHA LENGE HUM SHAMSHEER UTHA LENGE. BHIKRE BHIKRE TARE HAI HUM LEKIN JILMIL EK HAI HA HA HA HA EK HAI, HUM SAB BHARTIYA HAI MANDIR GURDWARE BHI HAI YAHAN, AUR MASZID BHI HAI YAHAN GIRJA KA GHADIYAL KAHIN MULLA KI KANKHI HAI AJHA EK HI APNA RAM HAI, EK HI ALLAH THALA HAI EK HI ALLAH THALA HAI. RANG BIRANGE DEEPAK HAI HUM, LEKIN MAHAFIL EK HAI HA HA HA EK HAI, HO HO HO EK HA HUM SAB BHARTIYA HAI, HUM SAB BHARTIYA HAI"
+              },
+              {
+                "type": "downloads",
+                "files": [
+                  {
+                    "label": "Download NCC Song (Audio)",
+                    "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/01/NccSong.mp3"
+                  },
+                  {
+                    "label": "Download NCC Song (Video)",
+                    "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/01/NccSong.flv"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Equivalent Ranks in Senior Division NCC",
+            "blocks": [
+              {
+                "type": "image",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/01/ncc-img.jpg",
+                "caption": "Ranks in Senior Division/Wing NCC",
+                "align": "center"
+              },
+              {
+                "type": "text",
+                "value": "All others who joined NCC are commonly called Cadets."
+              },
+              {
+                "type": "table",
+                "headers": [
+                  { "text": "Army Wing" },
+                  { "text": "Naval Wing" },
+                  { "text": "Airwing" }
+                ],
+                "rows": [
+                  [
+                    "Senior Under Officer",
+                    "Senior Cadet Caption",
+                    "Senior Under Officer"
+                  ],
+                  [
+                    "Cadet Under Officer",
+                    "Junior Cadet Caption",
+                    "Cadet Under Officer"
+                  ],
+                  [
+                    "Company Quarter Master Sergeant",
+                    "Petty Officer Sergeant Major",
+                    "Warrant Officer"
+                  ],
+                  ["Sergeant", "Leader Cadet", "Sergeant"],
+                  ["Corporal", "Cadet Class I", "Corporal"],
+                  ["Lance Corporal", "Cadet Class II", "Leading Flight Cadet"],
+                  ["Cadet", "Cadet", "Cadet"]
+                ]
+              }
+            ]
+          },
+          {
+            "title": "NCC Training",
+            "blocks": [
+              {
+                "type": "text",
+                "value": "Drill, shooting, Physical fitness, map reading, First aid, Gliding/Flying, boat pulling, sailing, and camp training are covering basic military training in Army, Navy, and Air Force."
+              },
+              {
+                "type": "text",
+                "value": "This training is mostly carried out in schools and colleges by the cadets. Besides, depending upon the type of service, basic knowledge of that service is imparted to the cadets, e.g., gliding, powered flying for Air Wing cadets and boat pulling, sailing for Naval Wing cadets form part of institutional training. These activities comprise approximately 50% of the entire syllabus."
+              },
+              {
+                "type": "text",
+                "value": "This is the essential aspect of NCC Trg and emphasizes institutional trg to be given. State DDG’s to issue comprehensive instructions on organizing the Institutional Trg at Gp / Unit level. Following actions will be taken to improve the standard of trg:"
+              },
+              {
+                "type": "list",
+                "ordered": true,
+                "items": [
+                  "Optimum utilization of PI Staff for Trg.",
+                  "Greater involvement of Officers, WTLO’s, and ANO’s.",
+                  "Deficiencies in trg aids will be made up expeditiously."
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Basic institutional Training",
+            "blocks": [
+              {
+                "type": "text",
+                "value": "Drill: Cadets must be made to understand the aim and purpose of teaching drills so that they are suitably motivated and do not take it as “fatigue.” Emphasis will be laid on correct bearing, marching, saluting, and arms drill. Inter-squad competitions may be organized to create interest."
+              },
+              {
+                "type": "text",
+                "value": "Weapon Training: Cadets generally take a keen interest in weapon training and firing. Units must liaise with nearby Service and Para-Military Units to ensure that all cadets get an opportunity to fire their authorized ammunition. Use of firing simulators may be made to optimize trg efforts where possible."
+              }
+            ]
+          },
+          {
+            "title": "Adventure Training",
+            "blocks": [
+              {
+                "type": "text",
+                "value": "Adventure activities have been incorporated in NCC training to inculcate and strengthen leadership traits amongst the cadets. These activities in NCC can be broadly divided into the following:"
+              },
+              {
+                "type": "list",
+                "ordered": false,
+                "items": [
+                  "Land based – Mountaineering, Rock Climbing, Trekking.",
+                  "Water based – Sailing Expedition, White Water Rafting, Scuba Diving, River Crossing.",
+                  "Air based – Parasailing."
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Centrally Organized Camps",
+            "blocks": [
+              {
+                "type": "list",
+                "ordered": false,
+                "items": [
+                  "Leadership Camp",
+                  "Vayu Sainik Camp",
+                  "Nau Sainik Camp",
+                  "Rock Climbing Camp",
+                  "Trekking camp",
+                  "National Integration Camp (NIC)",
+                  "Thal Sainik Camp (TSC)",
+                  "Army Attachment Camp (AAC)",
+                  "Airforce Attachment Camp (AAC)",
+                  "Republic Day Camp (RDC)",
+                  "Annual Training Camp(ATC)"
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Youth exchange program",
+            "blocks": [
+              {
+                "type": "text",
+                "value": "This is a significant activity. It is done to increase international understanding and bolster awareness. These exchanges are done with the NCC community of 10 countries, namely Australia, Bangladesh, Bhutan, Canada, Maldives, Nepal, Singapore, UK, Russia, and Vietnam at an international level."
+              }
+            ]
+          },
+          {
+            "title": "NCC Social Service Activities",
+            "blocks": [
+              {
+                "type": "text",
+                "value": "NCC has adopted community development activities to imbibing amongst cadets selfless service to the community, dignity of labor importance of self-help, need to protect the environment, and assist weaker sections of the society in their upliftment. This was envisaged through programs involving:"
+              },
+              {
+                "type": "list",
+                "ordered": false,
+                "items": [
+                  "Adult-education",
+                  "Tree plantation",
+                  "Blood donation",
+                  "Anti Dowry Rally",
+                  "Anti Female Infanticide Pledge",
+                  "Anti Leprosy Drive",
+                  "AIDS Awareness Rally",
+                  "Visit Old Age Homes",
+                  "Slum clearance",
+                  "Disaster Management & Relief",
+                  "Village upliftment and various other social schemes."
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Certification Programme",
+            "blocks": [
+              {
+                "type": "text",
+                "value": "This HQ has issued the eligibility conditions and the general procedure for the Certificate Examination for Cadets of Senior and Junior Division/Wings NCC(All Wings) from time to time. This Directive aims to consolidate all such instruction and revise these, where necessary."
+              },
+              {
+                "type": "table",
+                "headers": [
+                  { "text": "Type of Certificate" },
+                  { "text": "NCC Unit" }
+                ],
+                "rows": [
+                  ["Certificate ‘A’", "Junior Division/Wing NCC"],
+                  ["Certificate’ B’ & ‘C’", "Senior Division/Wing NCC"]
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Eligibilities for Certificate Examination",
+            "blocks": [
+              {
+                "type": "text",
+                "value": "For “A” Certificate Examination (Junior Division): Must be in the Second year of NCC. Must have attended an Annual Training Camp. Must have attended a minimum of 75% of total Training periods laid down in the syllabus for the first and second years. Break in the NCC Service should not exceed 12 months. If break exceeds 12 months: if on unit rolls for 2 years prior and 75% attendance, needs another 45 periods; otherwise, must attend full first and second year training."
+              },
+              {
+                "type": "text",
+                "value": "For “B” Certificate Examination (Senior Division): Must be in the second year of SD/SW NCC Training. Must have attended one Annual Training Camp/NIC/Attachment training with regular Armed Forces Units. Cadets possessing ‘A’ Certificate get 10 bonus marks. Must have 75% attendance. Break should not exceed 18 months. If break exceeds 18 months: if on unit rolls for 2 years prior and 75% attendance, needs another 45 periods; otherwise, must attend full first and second year training. Air Wing Cadets must do minimum 10 Glide launches."
+              },
+              {
+                "type": "text",
+                "value": "For “C” Certificate Examination (Senior Division): Cadet must have passed ‘B’ certificate. Must be in the second/third year of SD/SW NCC Training. Must have attended a minimum of 75% of the periods of the 3rd-year syllabus. Break should not exceed 18 months. Procedure for breaks over 18 months remains same as Certificate B. Must have attended two camps."
+              }
+            ]
+          },
+          {
+            "title": "Scholarship for NCC Cadets",
+            "blocks": [
+              {
+                "type": "text",
+                "value": "The Sahara Group has instituted an annual Sahara scholarship scheme of Rs. 1 Crore to be given out as scholarships per annum to NCC cadets."
+              },
+              {
+                "type": "table",
+                "rows": [
+                  ["JD and JW", "Rs.6,000/- each"],
+                  ["SD and SW", "Rs. 12,000/- each"],
+                  ["Professional", "Rs.6,000/- each"]
+                ]
+              },
+              {
+                "type": "text",
+                "value": "Junior Division/Wing: Scholarship for cadets passing Class X with minimum 65% marks in Class VIII, IX, and X. 5% bonus marks for SC/ST/OBC. One year in NCC and 80% attendance."
+              },
+              {
+                "type": "text",
+                "value": "Senior Division/Wing: Scholarships for cadets passing 10+2 admitted in regular graduation courses. Must have completed one year of NCC in SD/SW. 80% attendance. Marks required: Science (65%), Commerce (60%), Arts (55%)."
+              }
+            ]
+          },
+          {
+            "title": "Vacancies Reserved For NCC Cadets in Armed Forces",
+            "blocks": [
+              {
+                "type": "table",
+                "rows": [
+                  [{ "text": "Indian Army", "colSpan": 2 }],
+                  ["Indian Military Academy, Dehradun", "64"],
+                  ["Officers Training Academy, Chennai", "100"],
+                  [{ "text": "(For Short Service Commission)", "colSpan": 2 }],
+                  ["Indian Naval Academy", "6 per course"],
+                  ["Indian Air force academy", "10% in all courses"],
+                  [
+                    {
+                      "text": "Including flying training courses",
+                      "colSpan": 2
+                    }
+                  ]
+                ]
+              }
+            ]
+          },
+
+          {
+            "title": "Incentives are given to cadets during recruitment in other organizations",
+            "blocks": [
+              {
+                "type": "table",
+                "rows": [
+                  [
+                    "For OR/Sailors/Airmen",
+                    "Bonus marks/weightage/preference given in the recruitment"
+                  ]
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Para-Military Forces",
+            "blocks": [
+              {
+                "type": "table",
+                "rows": [
+                  [
+                    "BSF/CISF/ITBP/Coastal Guard",
+                    "Bonus marks/weightage/ preference given in the recruitment"
+                  ]
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Incentives in Ministry and State Organizations",
+            "blocks": [
+              {
+                "type": "table",
+                "headers": [
+                  { "text": "Organization / Department" },
+                  { "text": "Incentive / Preference Details" }
+                ],
+                "rows": [
+                  [
+                    "Department of Telecommunications",
+                    "Bonus marks/weightage/ preference given in the recruitment"
+                  ],
+                  [
+                    "CRPF",
+                    "NCC ‘B’/’C’ Certificate holders are considered eligible for recruitment to gazetted posts"
+                  ],
+                  [
+                    "NCC",
+                    "NCC ‘C’ certificate holders are given preference in the recruitment of Civilian Gliding Instructors/Girl Cadet Instructors/NCC Whole Time Lady Officers and Aero/Ship Modelling Instructors"
+                  ],
+                  [
+                    "State Governments",
+                    "Preference is given to the NCC Cadets in State Government Services, including Police"
+                  ],
+                  [
+                    "Industries",
+                    "Sahara India and many other top industries pick up NCC cadets possessing ‘C’ certificate for various jobs in their companies"
+                  ],
+                  [
+                    "Government of Tamil Nadu",
+                    "Tamil Nadu Public Service Commission, while selecting candidates to the post in civil services which are under its purview, takes into consideration the NCC"
+                  ]
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Certificates possessed by the candidates",
+            "blocks": [
+              {
+                "type": "table",
+                "headers": [
+                  { "text": "Government of Puducherry NCC" },
+                  { "text": "Preference Details" }
+                ],
+                "rows": [
+                  [
+                    "‘A’/’B’/’C’ certificate holders",
+                    "‘A’/’B’/’C’ certificate holders is given preference in selecting various posts in all Departments, especially in Police and Jail"
+                  ]
+                ]
+              }
+            ]
+          },
+
+          {
+            "title": "Defense Recruitment Modes",
+            "blocks": [
+              {
+                "type": "table",
+                "headers": [
+                  { "text": "Type of Entry" },
+                  { "text": "The month of Commencement of Course" },
+                  { "text": "Age at Joining Time" },
+                  { "text": "Educational Qualification" },
+                  { "text": "Mode of Selection" },
+                  { "text": "How to Apply" }
+                ],
+                "rows": [
+                  [
+                    {
+                      "text": "National Defence Academy & Naval Academy",
+                      "colSpan": 6
+                    }
+                  ],
+                  [
+                    "",
+                    "Jan and Jul",
+                    "16 ½ -19 yrs",
+                    "12th standard of 10+2 system of education or equivalent",
+                    "Written Examination by UPSC and SSB Interview",
+                    "Apply in response to the advertisement in March/April & Oct. / Nov."
+                  ],
+                  [{ "text": "Indian Military Academy", "colSpan": 6 }],
+                  [
+                    "Direct Entry",
+                    "Jan and Jul",
+                    "19-24yrs",
+                    "Degree or equivalent at the time of joining the course.",
+                    "Combined Defence Services Exam(CDSE) conducted by UPSC and SSB Interview",
+                    "Apply in response to the advertisement in March/April and Sept/ Oct."
+                  ],
+                  [
+                    "Engineering Graduates",
+                    "Jan and Jul",
+                    "23-27yrs",
+                    "Engineering Degree in notified disciplines",
+                    "SSB Interview",
+                    "Apply in response to the advertisement in March /Apr & Sept/ Oct."
+                  ],
+                  [
+                    "Post Graduates (AEC)",
+                    "Jan and Jul",
+                    "19-25yrs",
+                    "Post Graduate in notified Subject with 1st/2nd div.",
+                    "SSB Interview",
+                    "Apply in response to the advertisement in Apr/ May."
+                  ],
+                  [
+                    "University Entry Scheme",
+                    "Jan and Jul",
+                    "18-24yrs",
+                    "Final and Pre-final years students of Engineering degree course.",
+                    "Campus Interview and SSB Interview",
+                    "Apply in response to the advertisement in May and Nov."
+                  ],
+                  [
+                    "TES",
+                    "Jan and Jul",
+                    "16 ½ -19 yrs",
+                    "12th standard of 10+2 system of education or equivalent",
+                    "Written Examination by UPSC and SSB Interview",
+                    "Apply in response to the advertisement in March/April & Oct. / Nov."
+                  ],
+                  [{ "text": "Indian Military Academy", "colSpan": 6 }],
+                  [
+                    "Direct Entry",
+                    "Jan and Jul",
+                    "19-24yrs",
+                    "Degree or equivalent at the time of joining the course.",
+                    "Combined Defence Services Exam(CDSE) conducted by UPSC and SSB Interview",
+                    "Apply in response to the advertisement in March/April and Sept/ Oct."
+                  ],
+                  [
+                    "Engineering Graduates",
+                    "Jan and Jul",
+                    "23-27yrs",
+                    "Engineering Degree in notified disciplines",
+                    "SSB Interview",
+                    "Apply in response to the advertisement in March /Apr & Sept/ Oct."
+                  ],
+                  [
+                    "Post Graduates (AEC)",
+                    "Jan and Jul",
+                    "19-25yrs",
+                    "Post Graduate in notified Subject with 1st/2nd div.",
+                    "SSB Interview",
+                    "Apply in response to the advertisement in Apr/ May."
+                  ],
+                  [
+                    "University Entry Scheme",
+                    "Jan and Jul",
+                    "18-24yrs",
+                    "Final and Pre-final years students of Engineering degree course.",
+                    "Campus Interview and SSB Interview",
+                    "Apply in response to the advertisement in May and Nov."
+                  ],
+                  [
+                    "TES",
+                    "Jan and Jul",
+                    "16 ½ -19 yrs",
+                    "10+2 pass with 70% aggregate in PCM.",
+                    "SSB Interview",
+                    "Apply directly to the Recruiting Directorate."
+                  ],
+                  [{ "text": "Officers Training Academy", "colSpan": 6 }],
+                  [
+                    "Short Service Commission (Non-Technical) (Men and Women)",
+                    "Apr and Oct",
+                    "19-25yrs",
+                    "Degree or equivalent at the time of joining the course",
+                    "CDSE conducted by UPSC and SSB Interview",
+                    "Apply in response to the advertisement in March/April & Sept/ Oct"
+                  ],
+                  [
+                    "Short Service Commission (Technical))",
+                    "Apr and Oct",
+                    "20-27yrs",
+                    "Engineering Degree in the notified discipline.",
+                    "SSB Interview",
+                    "Apply in response to the advertisement in March/April & Sept/ Oct"
+                  ],
+                  [
+                    "NCC Special Entry",
+                    "Apr and Oct",
+                    "19-25yrs",
+                    "Graduates with 50% aggregate marks, two years service in NCC Sr. Division, with minimum ‘ B’ Grade in ‘ C’ certificate Exam.",
+                    "SSB Interview",
+                    "Apply in response to the advertisement in Dec/Jan & June/July"
+                  ]
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Indian Navy as an Officer",
+            "blocks": [
+              {
+                "type": "table",
+                "headers": [
+                  { "text": "Branch/ Type to Entry" },
+                  { "text": "Age Limit" },
+                  { "text": "Educational Qualification" },
+                  { "text": "For Application Contact / See" },
+                  { "text": "Types of Commission" }
+                ],
+                "rows": [
+                  [{ "text": "Executive", "colSpan": 5 }],
+                  [
+                    "Cadet Entry (NDA)",
+                    "16 1/2 – 19 yrs",
+                    "10+2 equivalent",
+                    "The formula is given in Employment News and Regional Newspapers advertising the entry",
+                    "Permanent"
+                  ],
+                  [
+                    "Cadet Entry 10+2 (Executive)",
+                    "16 1/2 – 19 yrs",
+                    "10+2 or Equivalent with Physics, Chemistry, and Math.",
+                    "The formula is given in Employment News and Regional Newspapers advertising the entry",
+                    "Permanent"
+                  ],
+                  [{ "text": "Naval Academy", "colSpan": 5 }],
+                  [
+                    "Graduate Special entry Naval Academy – Goa (Through CDSE)",
+                    "19-22 yrs",
+                    "B.Sc. (Physics and Math.) or BE",
+                    "The formula is given in Employment News and Regional Newspapers advertising the entry",
+                    "Permanent"
+                  ],
+                  [
+                    "NCC Special Entry Naval Academy, Goa",
+                    "19-22 yrs",
+                    "B.Sc. (Physics and Math.) or BE and Naval Wing, Senior Division, NCC ‘C’ Certificate",
+                    "Director General NCC, West Block IV, K Puram, New Delhi-66",
+                    "Permanent"
+                  ],
+                  [{ "text": "Direct Entry", "colSpan": 5 }],
+                  [
+                    "At present, only for Naval Armament Inspection Cadet (NAIC)",
+                    "19 1/2 – 25 yrs",
+                    "Degree in Electronics / Electrical Mechanical Engineering or Post-Graduate Degree in Electronics or Physics",
+                    "The format is given in Employment News and Regional Newspapers advertising the entry",
+                    "Permanent"
+                  ],
+                  [{ "text": "Engineering", "colSpan": 5 }],
+                  [
+                    "Cadet Entry (NDA)",
+                    "16 1/2 – 19 yrs",
+                    "10+2 equivalent",
+                    "The format is given in Employment News and Regional Newspapers advertising the entry",
+                    "Permanent"
+                  ],
+                  [
+                    "10+2 (Technical) Cadet Entry Scheme (Engineering)",
+                    "16 1/2 – 19 yrs",
+                    "10+2 or Equivalent with Physics, Chemistry, and Math. (70% or more marks in Aggregate)",
+                    "The format is given in Employment News and Regional Newspapers advertising the entry",
+                    "Permanent"
+                  ],
+                  [
+                    "Direct Entry Scheme",
+                    "19 1/2 – 25 yrs",
+                    "Degree in Marine/ Mechanical/Aeronautical/ Civil/ Metallurgical production or equivalent qualification in Mechanical Engineering recognized by the Institution of Engineers (India) as exempting from sections ward ‘B’ of their Associate Membership Examination",
+                    "The format is given in Employment News and Regional Newspapers advertising the entry",
+                    "Permanent / Short Service"
+                  ],
+                  [
+                    "University Entry Scheme",
+                    "18 1/2 – 23 1/2yrs",
+                    "Final/ Pre-final year student in the above Degree Courses",
+                    "Training and Placement officers of the colleges or Directorate of manpower and recruitment Naval Head Quarters, New Delhi – 1",
+                    "Permanent Short Service"
+                  ],
+                  [{ "text": "Engineering (Naval Architects)", "colSpan": 5 }],
+                  [
+                    "10+2 (Technical) Cadet Entry Scheme (Engineering)",
+                    "16 -19 yrs",
+                    "10+2 or Equivalent with Physics, Chemistry, and Math. (70% or more marks in Aggregate)",
+                    "The format is given in Employment News and Regional Newspapers",
+                    "Permanent"
+                  ],
+                  [
+                    "Naval Sponsored Scheme",
+                    "17 -20 yrs",
+                    "First/ year/Second-year student of selected Engineering colleges studying Naval Architecture (NA) Engineering",
+                    "Training and Vocational officer of the College of Directorate of Manpower and Recruitment, Naval Headquarters, New Delhi",
+                    "Permanent"
+                  ],
+                  [
+                    "University Entry Scheme",
+                    "18 1/2- 23 1/2yrs (Pre-final) 19 – 24 yrs (Final)",
+                    "Pre-final years student of naval Architecture",
+                    "Training and Vocational officer of the College of Directorate of Manpower and Recruitment, Naval Headquarters, New Delhi",
+                    "Permanent"
+                  ],
+                  [
+                    "Direct Entry Scheme",
+                    "21-25 yrs",
+                    "A good First Class Degree (Minimum 60%) in Naval Architecture Civil/ Mechanical Engineering",
+                    "The format is given in Employment News and Regional Newspapers",
+                    "Permanent"
+                  ],
+                  [{ "text": "Electrical", "colSpan": 5 }],
+                  [
+                    "Cadet Entry (NDA)",
+                    "16 1/2 – 19 yrs",
+                    "10+2 or equivalent",
+                    "The format is given in Employment News and Regional Newspapers advertising the entry",
+                    "Permanent"
+                  ],
+                  [
+                    "10+2 (Technical) Cadet Entry Scheme (Electrical)",
+                    "16 -19yrs",
+                    "10+2 or Equivalent with Physics, Chemistry, and Math. (70% or more marks in Aggregate)",
+                    "The format is given in Employment News and Regional Newspapers advertising the entry",
+                    "Permanent"
+                  ],
+                  [
+                    "Direct Entry Scheme)",
+                    "19 1/2 – 25 yrs",
+                    "Degree in Electrical/ Electronics/Telecommunication Engineering or any other qualification in the above Subject recognized by the Institution of Engineers (India) or Institution of Telecommunication Engineers (India) as equivalent to a Degree Course",
+                    "The format is given in Employment News and Regional Newspapers advertising the entry",
+                    "Permanent/ Short Service"
+                  ],
+                  [
+                    "University Entry Scheme",
+                    "18 1/2 – 23 1/2yrs (Pre-final) 19 – 24 yrs (Final)",
+                    "Final/ Pre-final years student in the above Degree Course",
+                    "Training and Placement Officers of the College of Directorate of Manpower and Recruitment, Naval Headquarters, New Delhi",
+                    "Permanent/ Short Service"
+                  ],
+                  [{ "text": "Education", "colSpan": 5 }],
+                  [
+                    "Direct Entry Scheme",
+                    "21 -25yrs",
+                    "2nd Class Master’s Degree in Physics, Math. in B.Sc. or Math., Physics in B.Sc. or Degree in Electrical/ Mechanical Engineering",
+                    "Training and Placement Officers of the College of Directorate of Manpower and Recruitment, Naval Headquarters, New Delhi",
+                    "Permanent"
+                  ]
+                ]
+              }
+            ]
+          },
+
+          {
+            "title": "Note",
+            "blocks": [
+              {
+                "type": "list",
+                "ordered": true,
+                "items": [
+                  "Candidates applying under University Entry/ Direct Entry Scheme for Engineering and Electrical Branches may opt for seven years Short Service Commission or Permanent commission.",
+                  "Candidates applying under University Entry/ Direct Entry Scheme are given a stipend of Rs.2,300/1,150 p.m. for Permanent / Short Service Commission respectively during their final year at college.",
+                  "Candidates applying under Naval Sponsored Scheme are paid a stipend of Rs.400/- p.m. plus tuition fees during the first three years of Engineering Degree course and thee after they are granted the rank of Acting Sub-Lieutenant and paid Rs.7,500 only per month.",
+                  "Short Service Commission is a scheme for those who wish to retain the option of leaving the service after a stint in it. The duration of the Short Service Commission is seven years. After 2 to 3 years, Officers are given the option to accept the permanent commission."
+                ]
+              }
+            ]
+          },
+
+          {
+            "title": "Indian Air Force as an Officer",
+            "blocks": [
+              {
+                "type": "table",
+                "headers": [
+                  { "text": "Type of Entry years" },
+                  { "text": "Age in" },
+                  { "text": "Educational Qualification" },
+                  { "text": "Mode/ Period" },
+                  { "text": "Training" },
+                  { "text": "Remarks" }
+                ],
+                "rows": [
+                  [{ "text": "Flying Branch (Pilot)", "colSpan": 6 }],
+                  [
+                    "NDA",
+                    "16 1/2 -19 yrs",
+                    "Higher Secondary or equivalent",
+                    "UPSC",
+                    "3 years plus 54 weeks",
+                    "Twice in a year, usually in May & December"
+                  ],
+                  [
+                    "For NCC ‘C’ Certificate holders",
+                    "19 -22 yrs",
+                    "B.A./ B.Sc.",
+                    "Air Force Selections Board",
+                    "27 weeks Pre-flying 54 weeks Flying",
+                    "Apply within 12 months of leaving NCC"
+                  ],
+                  [{ "text": "Ground Duties (Tech)", "colSpan": 6 }],
+                  [
+                    "Aeronautical",
+                    "20-27 yrs",
+                    "Degree in Electronics / Telecommunication Engineers",
+                    "Air Force Selections Board",
+                    "52 Weeks",
+                    ""
+                  ],
+                  [
+                    "A. E. (Mechanical)",
+                    "20-27 yrs",
+                    "Degree in Aeronautical/ Mechanical Engineering or Degree in Science",
+                    "Air Force Selections Board",
+                    "52 Weeks",
+                    ""
+                  ],
+                  [{ "text": "Ground Duties (Non-Tech)", "colSpan": 6 }],
+                  [
+                    "Administrative",
+                    "20-23 yrs",
+                    "Graduate with Honours",
+                    "Air Force Selections Board",
+                    "52 Weeks",
+                    ""
+                  ],
+                  [
+                    "Logistics",
+                    "20-25 yrs",
+                    "M.A. or M.Sc.",
+                    "Air Force Selections Board",
+                    "52 Weeks",
+                    ""
+                  ],
+                  [
+                    "Education",
+                    "20-25 yrs",
+                    "Degree with Hons. or Degree and Diploma in Teaching",
+                    "Air Force Selections Board",
+                    "52 Weeks",
+                    "Age for Education and Meteorological"
+                  ],
+                  [
+                    "Accounts",
+                    "20-25 yrs",
+                    "B. Com / Chartered Accountancy",
+                    "Air Force Selections Board",
+                    "52 Weeks",
+                    "Entries relaxable up to 28 years"
+                  ],
+                  [
+                    "Meteorologica",
+                    "20-25 yrs",
+                    "M.Sc.",
+                    "Air Force Selections Board",
+                    "52 Weeks",
+                    "Entries relaxable up to 28 years"
+                  ]
+                ]
+              }
+            ]
+          },
+
+          {
+            "title": "Note",
+            "blocks": [
+              {
+                "type": "list",
+                "ordered": true,
+                "items": [
+                  "For Details and up to date information, contact Directorate of Personnel (Air Force), Vayu Bhavan, New Delhi",
+                  "The details given above are subject to change and should be treated as a guide only and not authority."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+
+    {
+      "tab": "vvip_messages",
+      "content": {
+        "sections": [
+          {
+            "title": "NCC Journal 2019 Gallery",
+            "blocks": [
+              {
+                "type": "image",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/01/NCC-Journal-2019_page-0007.jpg",
+                "align": "center"
+              },
+              {
+                "type": "image",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/01/NCC-Journal-2019_page-0008.jpg",
+                "align": "center"
+              },
+              {
+                "type": "image",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/01/NCC-Journal-2019_page-0009.jpg",
+                "align": "center"
+              },
+              {
+                "type": "image",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/01/NCC-Journal-2019_page-0010.jpg",
+                "align": "center"
+              },
+              {
+                "type": "image",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/01/NCC-Journal-2019_page-0011.jpg",
+                "align": "center"
+              },
+              {
+                "type": "image",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/01/NCC-Journal-2019_page-0012.jpg",
+                "align": "center"
+              },
+              {
+                "type": "image",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/01/NCC-Journal-2019_page-0013.jpg",
+                "align": "center"
+              },
+              {
+                "type": "image",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/01/NCC-Journal-2019_page-0014.jpg",
+                "align": "center"
+              },
+              {
+                "type": "image",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/01/NCC-Journal-2019_page-0015.jpg",
+                "align": "center"
+              },
+              {
+                "type": "image",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/01/NCC-Journal-2019_page-0016.jpg",
+                "align": "center"
+              }
+            ]
+          }
+        ]
+      }
+    },
+
+    {
+      "tab": "kahe_ncc",
+      "content": {
+        "sections": [
+          {
+            "title": "Girls Wing NCC",
+            "blocks": [
+              {
+                "type": "text",
+                "value": "A milestone in Karpagam Academy of Higher Education’s mammoth growth was witnessed with the NCC’s inaugural at Karpagam Academy of Higher Education Campus on 08 August 2013 at 11.00 a.m. The Chief Guest was the inimitable Col AK Singh Commanding Officer 5 (TN) Girls Bn NCC, Coimbatore. His presence epitomized the very essence of NCC. Col AK Singh hoisted the NCC Flag and declared to open the NCC board of Karpagam Academy of Higher Education."
+              },
+              {
+                "type": "text",
+                "value": "The NCC of Karpagam Academy of Higher Education had its dawn in the Chancellor Dr.R.Vasanthakumar, Chief Executive Officer Shri K.Murugaiah, Vice-Chancellor Dr.M.Balasubramanian, Registrar Dr. P. Lakshmanaperumalsamy, NCC Officer Lt.K.P.Sridhar, Deans and Directors of the various departments. In the history of Karpagam Academy of Higher Education, 08 August 2013 became a permanent milestone because of the NCC unit’s successful establishment."
+              },
+              {
+                "type": "image",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/01/gncc.jpg",
+                "align": "center"
+              },
+              {
+                "type": "image",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/01/gncc1.jpg",
+                "align": "center"
+              },
+              { "type": "text", "value": "Officer in Order of Merit" },
+              { "type": "text", "value": "Lt.Dr.K.P.Sridhar – 2013 to 2015" },
+              { "type": "text", "value": "Lt.S.Saranya – 2015 -2018" },
+              { "type": "text", "value": "Lt.S.Nithya Since 2019" }
+            ]
+          },
+          {
+            "title": "Boys wing NCC",
+            "blocks": [
+              {
+                "type": "text",
+                "value": "A milestone in Karpagam Academy of Higher Education’s massive growth was witnessed with NCC’s inaugural at KAHE on 23 January 2014 at 11.00 a.m. in the Karpagam Academy of Higher Education Campus. The Chief Guest was the inimitable Lt Col Sreedhar Vasudevan Officer Commanding 2 (TN) Comp Tech Company NCC, Coimbatore. The Chief Guest hoisted the NCC Flag and declared to open the NCC Boys board of Karpagam Academy of Higher Education."
+              },
+              {
+                "type": "text",
+                "value": "The NCC boys Unit of Karpagam Academy of Higher Education had the inaugural in the dignified Chancellor Dr.R.Vasanthakumar, Chief Executive Officer Shri K.Murugaiah, Vice-Chancellor Dr. S Subramanian, Registrar Dr. P. Lakshmanaperumalsamy, Lt.K.P.Sridhar, NCC Officer, Deans and Directors of various departments. 23 January 2014 goes down permanently in Karpagam Academy of Higher Education’s history as a landmark because of the boys NCC unit establishment."
+              },
+              {
+                "type": "image",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/01/bncc.jpg",
+                "align": "center"
+              },
+              {
+                "type": "image",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/01/bncc1.jpg",
+                "align": "center"
+              },
+              {
+                "type": "text",
+                "value": "Flag Hoisting of Lt Col Sreedhar Vasudevan Officer Commanding 2 (TN) Comp Tech Company NCC"
+              },
+              { "type": "text", "value": "Officer in Order of Merit" },
+              { "type": "text", "value": "Lt.Dr.K.P.Sridhar – Since 2014" }
+            ]
+          },
+          {
+            "title": "Inauguration of Obstacle Course and Firing Range on 17/09/2013",
+            "blocks": [
+              { "type": "text", "value": "Obstacle Course inaugurated by" },
+              {
+                "type": "text",
+                "value": "Col Irshath A Kahn ,Group Commander ,Coimbatore NCC group Headquarters Coimbatore"
+              },
+              { "type": "text", "value": "Firing Range Inaguarated by" },
+              {
+                "type": "text",
+                "value": "Col A K Singh, Commanding Officer, 5(TN) Girls BN NCC, Coimbatore"
+              },
+              {
+                "type": "text",
+                "value": "Lt. K.P.Sridhar, NCC Officer , KAHE"
+              },
+              { "type": "text", "value": "Presided by" },
+              { "type": "text", "value": "President Dr.R.Vasanthakumar," },
+              {
+                "type": "text",
+                "value": "Invitees: Chief Executive Officer Er.K.Murugaiah, Vice-Chancellor Dr.M.Balasubramanian, Registrar Dr. P. Lakshmanaperumalsamy, Dean, Faculty of Engineering Dr. C.R. Hema."
+              },
+              {
+                "type": "image",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/01/i1.jpg",
+                "align": "center"
+              },
+              {
+                "type": "image",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/01/i2.jpg",
+                "align": "center"
+              },
+              {
+                "type": "image",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/01/i3.jpg",
+                "align": "center"
+              },
+              {
+                "type": "image",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/01/i4.jpg",
+                "align": "center"
+              },
+              {
+                "type": "image",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/01/i5.jpg",
+                "align": "center"
+              }
+            ]
+          }
+        ]
+      }
+    },
+
+    {
+      "tab": "activities",
+      "content": {
+        "sections": [
+          {
+            "title": "NCC Activities & Reports",
+            "blocks": [
+              {
+                "type": "downloads",
+                "files": [
+                  {
+                    "label": "2021-2022 NCC Report",
+                    "url": "https://kahedu.edu.in/n/wp-content/uploads/2022/12/2021-July-to-June-2022-NCC-Report.pdf"
+                  },
+                  {
+                    "label": "2020-2021 NCC Report",
+                    "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/01/2020-2021.pdf"
+                  },
+                  {
+                    "label": "2019-2020 NCC Report",
+                    "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/01/2019-2020.pdf"
+                  },
+                  {
+                    "label": "2018-2019 NCC Report",
+                    "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/01/2018-2019.pdf"
+                  },
+                  {
+                    "label": "2017-2018 NCC Report",
+                    "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/01/2017-2018.pdf"
+                  },
+                  {
+                    "label": "FOOTPRINTS (Since 2013)",
+                    "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/01/FOOTPRINTS-Since-2013.pdf"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+
+    {
+      "tab": "highlights",
+      "content": {
+        "sections": [
+          {
+            "title": "NCC Highlights",
+            "blocks": [
+              {
+                "type": "list",
+                "ordered": false,
+                "items": [
+                  "We have conducted Nine Camps at our KAHE Campus (with Min of 1200 cadet strength)",
+                  "So far, our cadets participated in 46 Camps All over India",
+                  "We have conducted 30 different Activities like – Blood donation, Awareness Rally, Tree Plantation, Swatch Bharath Abhiyan -etc",
+                  "So far, our cadets positioned: Gold Medal: 12, Silver medal: 17, Bronze Medal: 02",
+                  "National Shooting Championship - Gold Medal 2017",
+                  "RDC - Republic Day Camp 2016"
+                ]
+              }
+            ]
+          },
+          {
+            "title": "GOLD MEDAL",
+            "blocks": [
+              {
+                "type": "table",
+                "headers": [
+                  { "text": "S.No" },
+                  { "text": "EVENT" },
+                  { "text": "No of Medals" }
+                ],
+                "rows": [
+                  ["1", "Firing Competition", "1"],
+                  ["2", "Flag area Competition", "1"],
+                  ["3", "Drama Competition", "1"],
+                  ["4", "Kabbadi Sport Camp", "3"],
+                  ["5", "CATC Dance", "1"],
+                  ["6", "CATC best Cadet", "1"],
+                  ["7", "State Level Camp", "2"],
+                  ["8", "Firing State Level", "1"],
+                  ["9", "CATC cum TSC selection camp weapon training", "1"]
+                ]
+              }
+            ]
+          },
+          {
+            "title": "SILVER MEDAL",
+            "blocks": [
+              {
+                "type": "table",
+                "headers": [
+                  { "text": "S.No" },
+                  { "text": "EVENT" },
+                  { "text": "No of Medals" }
+                ],
+                "rows": [
+                  ["1", "Contingent drill competition", "1"],
+                  ["2", "Volleyball runner", "3"],
+                  ["3", "Kho-kho", "2"],
+                  ["4", "CATC cross country", "1"],
+                  ["5", "State-level camp kho-kho", "1"],
+                  ["6", "Handball IGC", "6"],
+                  ["7", "Firing IGC", "2"],
+                  ["8", "Firing south zone", "1"],
+                  ["9", "Tobacco awareness", "1"],
+                  ["10", "CATC cum TSC Solo song", "2"]
+                ]
+              }
+            ]
+          },
+          {
+            "title": "BRONZE MEDAL",
+            "blocks": [
+              {
+                "type": "table",
+                "headers": [
+                  { "text": "S.No" },
+                  { "text": "EVENT" },
+                  { "text": "No of Medals" }
+                ],
+                "rows": [["1", "Firing State Medal", "2"]]
+              }
+            ]
+          }
+        ]
+      }
+    },
+
+    {
+      "tab": "photogallery",
+      "content": {
+        "sections": [
+          {
+            "title": "Blood Donation",
+            "blocks": [
+              {
+                "type": "image",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/01/blood-donnation-1-scaled-1024x471.jpg",
+                "align": "center",
+                "alt": "Blood Donation Activity 1"
+              },
+              {
+                "type": "image",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/01/blood-donnation-2-scaled-1024x471.jpg",
+                "align": "center",
+                "alt": "Blood Donation Activity 2"
+              },
+              {
+                "type": "image",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/01/blood-donnation-3-scaled-1024x471.jpg",
+                "align": "center",
+                "alt": "Blood Donation Activity 3"
+              },
+              {
+                "type": "image",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/01/blood-donnation-4-scaled-e1611720039317-1024x471.jpg",
+                "align": "center",
+                "alt": "Blood Donation Activity 4"
+              },
+              {
+                "type": "image",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/01/blood-donnation-5-scaled-1024x471.jpg",
+                "align": "center",
+                "alt": "Blood Donation Activity 5"
+              }
+            ]
+          },
+          {
+            "title": "MR & FCBC",
+            "blocks": [
+              {
+                "type": "image",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/01/MR-1-1024x472.jpg",
+                "align": "center",
+                "alt": "MR Activity 1"
+              },
+              {
+                "type": "image",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/01/MR-2-1024x470.jpg",
+                "align": "center",
+                "alt": "MR Activity 2"
+              },
+              {
+                "type": "image",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/01/MR-3-1024x558.jpg",
+                "align": "center",
+                "alt": "MR Activity 3"
+              },
+              {
+                "type": "image",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/01/MR-4-1024x472.jpg",
+                "align": "center",
+                "alt": "MR Activity 4"
+              },
+              {
+                "type": "image",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/01/MR-5-806x1024.jpg",
+                "align": "center",
+                "alt": "MR Activity 5"
+              },
+              {
+                "type": "image",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/01/MR-6-scaled-1024x471.jpg",
+                "align": "center",
+                "alt": "MR Activity 6"
+              },
+              {
+                "type": "image",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/01/MR-7-scaled-1024x471.jpg",
+                "align": "center",
+                "alt": "MR Activity 7"
+              },
+              {
+                "type": "image",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/01/MR-8-scaled-1024x471.jpg",
+                "align": "center",
+                "alt": "MR Activity 8"
+              }
+            ]
+          },
+          {
+            "title": "Days Observed",
+            "blocks": [
+              {
+                "type": "image",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/01/events-1-scaled-1024x768.jpg",
+                "align": "center",
+                "alt": "Events 1"
+              },
+              {
+                "type": "image",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/01/events-4-scaled-1024x472.jpg",
+                "align": "center",
+                "alt": "Events 4"
+              },
+              {
+                "type": "image",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/01/events-9-scaled-1024x471.jpg",
+                "align": "center",
+                "alt": "Events 9"
+              }
+            ]
+          },
+          {
+            "title": "Yoga",
+            "blocks": [
+              {
+                "type": "image",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/01/Yoga-1-1024x576.jpg",
+                "align": "center",
+                "alt": "Yoga Session 1"
+              },
+              {
+                "type": "image",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/01/Yoga-2-scaled-1024x683.jpg",
+                "align": "center",
+                "alt": "Yoga Session 2"
+              }
+            ]
+          },
+          {
+            "title": "Tree Plantation",
+            "blocks": [
+              {
+                "type": "image",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/01/Tree-plantation-1-1024x566.jpg",
+                "align": "center",
+                "alt": "Tree Plantation 1"
+              },
+              {
+                "type": "image",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/01/Tree-plantation-4-980x1024.jpg",
+                "align": "center",
+                "alt": "Tree Plantation 4"
+              }
+            ]
+          },
+          {
+            "title": "WT & Firing",
+            "blocks": [
+              {
+                "type": "image",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/01/WT-Firing-1-scaled-1024x683.jpg",
+                "align": "center",
+                "alt": "Firing Practice 1"
+              },
+              {
+                "type": "image",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/01/WT-Firing-6-1024x537.jpg",
+                "align": "center",
+                "alt": "Firing Practice 6"
+              }
+            ]
+          },
+          {
+            "title": "Rallies",
+            "blocks": [
+              {
+                "type": "image",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/01/Rally-1-scaled-1024x768.jpg",
+                "align": "center",
+                "alt": "Awareness Rally 1"
+              },
+              {
+                "type": "image",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/01/Rally-8-1024x768.jpg",
+                "align": "center",
+                "alt": "Awareness Rally 8"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
