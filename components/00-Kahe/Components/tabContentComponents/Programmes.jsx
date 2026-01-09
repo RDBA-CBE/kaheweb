@@ -10,7 +10,6 @@ const Programmes = ({ programmeContent }) => {
   const programmeTabs = programmeContent?.programmes?.content || [];
   const curriculumTabs = programmeContent?.curriculum?.content || [];
 
-
   const [activeData, setActiveData] = useState(
     programmeTabs?.length > 0 ? programmeTabs[0] : null
   );
@@ -18,7 +17,6 @@ const Programmes = ({ programmeContent }) => {
   const [sidebarOpen, setSidebarOpen] = useState(false);
 
   useEffect(() => {
-  
     setSidebarOpen(false);
   }, [activeData]);
 
@@ -35,35 +33,72 @@ const Programmes = ({ programmeContent }) => {
           <div className="kahe-transfer-text-box">
             {/* PROGRAMME TYPE SCREEN */}
             {activeData.type === "programme" &&
-              activeData.items?.map((item, i) => (
-                <div className="program-overlay-row d-flex" key={i}>
-                  <i className="feather-chevron-right mt-2 me-3 text-white"></i>
-                  <span className="main-sub-ti text-white">{FirstLetterUp(item)}</span>
-                </div>
-              ))}
+              (activeData.items
+                ? activeData?.items?.map((item, i) => (
+                    <div className="program-overlay-row d-flex" key={i}>
+                      <i className="feather-chevron-right mt-2 me-3 text-white"></i>
+                      <span className="main-sub-ti text-white">
+                        {FirstLetterUp(item)}
+                      </span>
+                    </div>
+                  ))
+                : activeData.multiItems
+                ? activeData?.multiItems?.map((item, i) => (
+                    <div key={i} className="pb-4">
+                      {item.title && (
+                        <div className="program-overlay-row d-flex">
+                          <i className="feather-chevron-right mt-2 me-3 text-white"></i>
+                          <span className="main-sub-ti text-white mb-2">
+                            {FirstLetterUp(item.title)}
+                          </span>
+                        </div>
+                      )}
+                      {item.desc && (
+                        <p className=" text-white ps-5">
+                          {FirstLetterUp(item.desc)}
+                        </p>
+                      )}
+
+                      {item.list && (
+                        <ul className="rbt-list-style-1 ps-5">
+                          {item.list.map((v, i) => (
+                            <li key={i} className=" mt-0 pt-0">
+                              <i className="feather-check"></i>
+                              <span
+                                className="text-start text-white"
+                                dangerouslySetInnerHTML={{ __html: v }}
+                              ></span>
+                            </li>
+                          ))}
+                        </ul>
+                      )}
+                    </div>
+                  ))
+                : null)}
 
             {/* CURRICULUM TITLE */}
             {activeData.type === "curriculum" && (
-              <h3 className="main-sub-ti text-white">{FirstLetterUp(activeData.title)}</h3>
+              <h3 className="main-sub-ti text-white">
+                {FirstLetterUp(activeData.title)}
+              </h3>
             )}
 
             {/* CURRICULUM SLIDER BUTTON */}
             {activeData.type === "curriculum" && (
-           
-
-               <button className="rbt-btn hover-icon-reverse mt-4" onClick={() => setSidebarOpen(true)}>
-
-              <span className="icon-reverse-wrapper">
-                <span className="btn-text">View Curricular batches</span>
-                <span className="btn-icon">
-                  <i className="feather-arrow-right"></i>
+              <button style={{width: 'fit-content'}}
+                className="rbt-btn hover-icon-reverse mt-4"
+                onClick={() => setSidebarOpen(true)}
+              >
+                <span className="icon-reverse-wrapper">
+                  <span className="btn-text">View Curricular batches</span>
+                  <span className="btn-icon">
+                    <i className="feather-arrow-right"></i>
+                  </span>
+                  <span className="btn-icon">
+                    <i className="feather-arrow-right"></i>
+                  </span>
                 </span>
-                <span className="btn-icon">
-                  <i className="feather-arrow-right"></i>
-                </span>
-              </span>
-             
-            </button>
+              </button>
             )}
           </div>
         </div>
@@ -82,9 +117,7 @@ const Programmes = ({ programmeContent }) => {
               ×
             </span>
 
-            <h4 className="kahe-curriculum-slide-title">
-              {activeData.title}
-            </h4>
+            <h4 className="kahe-curriculum-slide-title">{activeData.title}</h4>
 
             <ul className="kahe-curriculum-slide-list">
               {activeData.items?.map((batch, i) => (
@@ -108,7 +141,9 @@ const Programmes = ({ programmeContent }) => {
         <h2 className="kahe-transfer-yellow w-decor-ti">Student Programmes</h2>
 
         <div className="kahe-transfer-link-box">
-          <h3 className="main-sub-ti">{FirstLetterUp(programmeContent.programmes.title)}</h3>
+          <h3 className="main-sub-ti">
+            {FirstLetterUp(programmeContent.programmes.title)}
+          </h3>
           <ul>
             {programmeTabs.map((item) => (
               <li
@@ -121,7 +156,9 @@ const Programmes = ({ programmeContent }) => {
             ))}
           </ul>
 
-          <h3 className="main-sub-ti">{FirstLetterUp(programmeContent.curriculum.title)}</h3>
+          <h3 className="main-sub-ti">
+            {FirstLetterUp(programmeContent.curriculum.title)}
+          </h3>
           <ul>
             {curriculumTabs.map((item) => (
               <li

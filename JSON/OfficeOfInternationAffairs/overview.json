@@ -41,6 +41,40 @@
       }
     ]
   },
+  "examinations": {
+    "title": "Office of International Affairs",
+    "btnText": "View",
+    "content": [
+      {
+        "title": "Overview",
+        "url": "/kahe/office-of-international-affairs/office-of-international-affairs-overview/"
+      },
+      {
+        "title": "Partnerships & Scholarships",
+        "url": "/kahe/office-of-international-affairs/partnerships-scholarships/"
+      },
+      {
+        "title": "Collaboration and Exchanges",
+        "url": "/kahe/office-of-international-affairs/collaboration-and-exchanges/"
+      },
+      {
+        "title": "Foreign Languages",
+        "url": "/kahe/office-of-international-affairs/foreign-languages/"
+      },
+      {
+        "title": "International Admissions",
+        "url": "/kahe/office-of-international-affairs/international-admissions/"
+      },
+      {
+        "title": "Testimonials",
+        "url": "/kahe/office-of-international-affairs/testimonials/"
+      },
+      {
+        "title": "Contact",
+        "url": "/kahe/office-of-international-affairs/contact/"
+      }
+    ]
+  },
   "patents": {
     "title": "Patents & Copyrights",
     "src": "/images/Kahe/Innerpages/image-1.jpg",

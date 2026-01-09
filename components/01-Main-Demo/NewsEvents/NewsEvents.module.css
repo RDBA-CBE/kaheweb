@@ -16,7 +16,6 @@
   align-items: flex-start;
 }
 
-/* Left slider */
 .newsSlider {
   flex: 2;
   display: flex;
@@ -25,16 +24,8 @@
 }
 
 .cardsContainer {
-  display: flex;       /* side by side */
+  display: flex;
   gap: 20px;
-}
-
-/* Date in card formatting inside NewsCard */
-.newsDate {
-  font-size: 14px;
-  font-weight: 600;
-  margin-bottom: 5px;
-  color: #2b9e97;
 }
 
 /* Arrow buttons */
@@ -46,7 +37,7 @@
   align-self: center;
 }
 
-/* Right events scrolling */
+/* Events list */
 .eventsList {
   flex: 1;
   max-height: 500px;
@@ -75,7 +66,6 @@
   color: #777;
 }
 
-/* Center button */
 .centerBtn {
   text-align: center;
   margin-top: 40px;
@@ -91,7 +81,7 @@
   border-radius: 4px;
 }
 
-/* Responsive */
+/* Responsive: Mobile full-width cards */
 @media (max-width: 900px) {
   .wrapper {
     flex-direction: column;
@@ -104,13 +94,13 @@
   }
 
   .cardsContainer {
-    flex-direction: row;
-    overflow-x: auto;
+    flex-direction: column;
+    gap: 16px;
+    width: 100%;
   }
 
-  .cardsContainer::-webkit-scrollbar {
-    display: none;
+  .cardsContainer > * {
+    flex: 1 1 100%;
+    max-width: 100%;
   }
 }
-
-

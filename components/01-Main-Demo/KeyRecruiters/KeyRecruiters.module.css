@@ -9,13 +9,14 @@
   margin-bottom: 40px;
 }
 
-/* LAYOUT */
+/* ===== LAYOUT ===== */
 .layout {
   display: flex;
   align-items: center;
+  gap: 48px; /* ✅ space between stats & slider */
 }
 
-/* STATS */
+/* ===== STATS ===== */
 .stats {
   display: flex;
   align-items: center;
@@ -31,7 +32,8 @@
 
 .stats p {
   margin-top: 6px;
-  color: #7a8795; font-size:20px;
+  color: #7a8795;
+  font-size: 20px;
 }
 
 .divider {
@@ -40,12 +42,13 @@
   background: #222;
 }
 
-/* SLIDER — PUSH TO RIGHT EDGE */
+/* ===== SLIDER ===== */
 .slider {
   display: flex;
   align-items: center;
   gap: 16px;
-  margin-left: auto;        /* 🔥 KEY FIX */
+  margin-left: auto;
+  width: 100%;
 }
 
 /* ARROWS */
@@ -60,10 +63,11 @@
 /* VIEWPORT */
 .viewport {
   overflow: hidden;
-  width: 960px; /* 5 cards */
-  touch-action: pan-y;
+  width: 100%;
+  max-width: 960px;
 }
 
+/* TRACK */
 .track {
   display: flex;
   gap: 24px;
@@ -72,7 +76,7 @@
 
 /* CARD */
 .card {
-  min-width: 176px;
+  flex: 0 0 176px;
   height: 72px;
   background: #fff;
   display: flex;
@@ -82,42 +86,46 @@
 
 .card img {
   max-width: 140px;
-  /*max-height: 56px;*/
   height: auto;
   object-fit: contain;
 }
 
-/* RESPONSIVE */
-@media (max-width: 1200px) {
-  .viewport {
-    width: 720px;
-  }
-}
-
-@media (max-width: 900px) {
-  .viewport {
-    width: 520px;
-  }
-}
-
+/* ===== RESPONSIVE – CENTER ALIGN ===== */
 @media (max-width: 1024px) {
   .layout {
     flex-direction: column;
-    align-items: flex-start;
+    align-items: center;   /* ✅ center everything */
+    text-align: center;
     gap: 32px;
+  }
+
+  .stats {
+    justify-content: center;
   }
 
   .slider {
     margin-left: 0;
+    justify-content: center;
+  }
+
+  .viewport {
+    margin: 0 auto;
+  }
+}
+
+/* ===== MOBILE ===== */
+@media (max-width: 768px) {
+  .arrow {
+    display: none; /* cleaner mobile UI */
   }
 }
 
 @media (max-width: 600px) {
-  .viewport {
-    width: 100%;
+  .stats h3 {
+    font-size: 32px;
   }
 
-  .stats h3 {
-    font-size: 34px;
+  .stats p {
+    font-size: 16px;
   }
 }

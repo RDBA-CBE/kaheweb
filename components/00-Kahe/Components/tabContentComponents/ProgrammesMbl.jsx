@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import { useRouter } from "next/navigation";
+import { FirstLetterUp } from "@/utils/functions.utils";
 
 const ProgrammesMbl = ({ programmeContent }) => {
   const router = useRouter();
@@ -15,6 +16,8 @@ const ProgrammesMbl = ({ programmeContent }) => {
   const programmeTabs = programmeContent.programmes.content;
 
   const curriculumTabs = programmeContent.curriculum.content;
+
+  console.log("programmeTabs", programmeTabs);
 
   return (
     <div className="mobile-wrapper d-md-none">
@@ -43,52 +46,121 @@ const ProgrammesMbl = ({ programmeContent }) => {
       {/* ============================= PROGRAMMES ============================= */}
       {activeMain === "programmes" && (
         <>
-          {/* INNER MENU */}
-          <div className="inner-program-tabs">
-            {programmeTabs.map((item) => (
-              <button
-                key={item.key}
-                className={
-                  activeProgramme === item.key
-                    ? "active-inner-btn"
-                    : "inner-btn"
-                }
-                onClick={() => setActiveProgramme(item.key)}
-              >
-                {item.title}
-              </button>
-            ))}
-          </div>
-
-          {/* FILTERED ITEM DISPLAY */}
-          {(() => {
-            const activeData = programmeTabs.find(
-              (p) => p.key === activeProgramme
-            );
-
-            if (!activeData) return null;
-
-            return (
-              <div className="program-overlay-container">
-                <div
-                  className="program-bg-image"
-                  style={{
-                    backgroundImage: `url(${activeData.img})`,
-                  }}
-                />
-
-                <div className="program-overlay-box">
-                  {activeData.items.map((program, idx) => (
-                    <div className="program-overlay-row" key={idx}>
-                      <i class="feather-chevron-right me-3 text-white"></i>
-
-                      <span className="main-sub-ti text-white">{program}</span>
-                    </div>
-                  ))}
-                </div>
+          {programmeTabs?.some((item) => item.items) ? (
+            <>
+              {/* INNER MENU */}
+              <div className="inner-program-tabs">
+                {programmeTabs.map((item) => (
+                  <button
+                    key={item.key}
+                    className={
+                      activeProgramme === item.key
+                        ? "active-inner-btn"
+                        : "inner-btn"
+                    }
+                    onClick={() => setActiveProgramme(item.key)}
+                  >
+                    {item.title}
+                  </button>
+                ))}
               </div>
-            );
-          })()}
+
+              {/* FILTERED ITEM DISPLAY */}
+              {(() => {
+                const activeData = programmeTabs.find(
+                  (p) => p.key === activeProgramme
+                );
+
+                if (!activeData) return null;
+
+                return (
+                  <div className="program-overlay-container">
+                    <div
+                      className="program-bg-image"
+                      style={{
+                        backgroundImage: `url(${activeData.img})`,
+                      }}
+                    />
+
+                    <div className="program-overlay-box">
+                      {activeData?.items?.map((program, idx) => (
+                        <div className="program-overlay-row" key={idx}>
+                          <i class="feather-chevron-right me-3 "></i>
+
+                          <span className="main-sub-ti ">
+                            {program}
+                          </span>
+                        </div>
+                      ))}
+                    </div>
+                  </div>
+                );
+              })()}
+            </>
+          ) : programmeTabs?.some((item) => item.multiItems) ? (
+            <>
+              <div className="curriculum-wrapper">
+                {programmeTabs.map((programme, programmeIndex) => (
+                  <div className="curriculum-item" key={programme.key}>
+                    <div
+                      className="curriculum-header"
+                      onClick={() =>
+                        setOpenAccordion(
+                          openAccordion === programmeIndex
+                            ? null
+                            : programmeIndex
+                        )
+                      }
+                    >
+                      <p className="text-black acc-ti">{programme.title}</p>
+                      <span>
+                        {openAccordion === programmeIndex ? "−" : "+"}
+                      </span>
+                    </div>
+
+                    {openAccordion === programmeIndex && (
+                      <div className="curriculum-content">
+                        {programme.multiItems?.map((section, sectionIndex) => (
+                          <div key={sectionIndex} className="pb-4">
+                            {section.title && (
+                              <div className="program-overlay-row d-flex">
+                                <i className="feather-chevron-right mt-2 me-3 "></i>
+                                <span className="main-sub-ti  mb-2">
+                                  {FirstLetterUp(section.title)}
+                                </span>
+                              </div>
+                            )}
+
+                            {section.desc && (
+                              <p className=" ps-5">
+                                {FirstLetterUp(section.desc)}
+                              </p>
+                            )}
+
+                            {section.list && (
+                              <ul className="rbt-list-style-1 ps-5">
+                                {section.list.map((value, listIndex) => (
+                                  <li key={listIndex} className="mt-0 pt-0">
+                                    <i className="feather-check"></i>
+                                    <span
+                                      className="text-start "
+                                      dangerouslySetInnerHTML={{
+                                        __html: value,
+                                      }}
+                                    />
+                                  </li>
+                                ))}
+                              </ul>
+                            )}
+                          </div>
+                        ))}
+                      </div>
+                    )}
+                  </div>
+                ))}
+              </div>
+            </>
+          ) : null}
         </>
       )}
 

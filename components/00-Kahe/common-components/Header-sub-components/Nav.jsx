@@ -145,12 +145,21 @@ const Nav = () => {
               } ${disableHover ? "disable-hover" : ""}`}
               onMouseEnter={() => {
                 if (!isMobile && !disableHover) {
-                  setActiveMenuItem(menu.menuType);
+                  setActiveMenuItem(menu?.menuType);
+              
+                  // 🔥 RESET PREVIOUS MENU STATES
+                  setActiveSub(null);
+                  setActiveChild(null);
+                  setActiveChildMenu(null);
                 }
               }}
+              
               onMouseLeave={() => {
                 if (!isMobile && !disableHover) {
                   setActiveMenuItem(null);
+                  setActiveSub(null);
+                  setActiveChild(null);
+                  setActiveChildMenu(null);
                 }
               }}
             >

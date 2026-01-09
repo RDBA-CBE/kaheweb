@@ -1,0 +1,156 @@
+{
+    "vision": {
+      "title": "Regulations",
+      "description": "The moulding of character is the top agenda of the institution. As the behaviour of the students will make or mark the reputation of the institution. Thus the students are advised to scrupulously abide by the following rules and regulations. It is mandatory for all the students to possess their identity card always which should be duly attested by the Registrar. Identity cards will be issued to the students soon after their admission. The students have to produce the ID Cards on demand by the authorities of Karpagam Academy of Higher Education.",
+      "src": "/images/Kahe/Innerpages/vission.jpg",
+      "alt": "Vision Image"
+    },
+  
+    "attendance": {
+      "title": "Attendance",
+      "content": [
+        {
+          "title": "The attendance of the students is marked every hour.",
+          "btnText": "View",
+          "src": "/images/Kahe/Innerpages/group.png"
+        },
+        {
+          "title": "To appear for the examinations conducted by Karpagam Academy of Higher Education, a student has to earn 75% of attendance for each semester and satisfy the institution by his / her conduct and progress.",
+          "btnText": "View",
+          "src": "/images/Kahe/Innerpages/group.png"
+        },
+        {
+          "title": "If the student has secured attendance between 64% and 50%, the student shall not be permitted to appear for the current semester examinations. However the candidate is permitted to appear for his/her arrear examinations if any, and continue the programme.",
+          "btnText": "View",
+          "src": "/images/Kahe/Innerpages/group.png"
+        },
+        {
+          "title": "If the student has secured less than 50% of attendance, the student has to redo the course. However the student will be permitted to appear for arrear examinations.",
+          "btnText": "View",
+          "src": "/images/Kahe/Innerpages/group.png"
+        }
+      ]
+    },
+    "on_duty_attendance": {
+      "title": "On duty attendance",
+      "content": [
+        {
+          "title": "Students involved in Co & Extra-Curricular activities and hence missing regular classes should contact the respective authorities (Physical Director/NSS Officers/NCC Officers/ HODs/Faculty-in-charge for various activities) who will recommend the case to the Registrar for attendance within four working days. After four working days, the request will not be considered.",
+          "btnText": "View",
+          "src": "/images/Kahe/Innerpages/group.png"
+        },
+        {
+          "title": "Students must obtain written permission from the Registrar before undertaking these activities, and on the completion of the activities, they must submit a prescribed application form to the Registrar to claim the on duty attendance.",
+          "btnText": "View",
+          "src": "/images/Kahe/Innerpages/group.png"
+        }
+      ]
+    },
+  
+    "attendanceMarks": {
+      "tab": "ATTENDANCE",
+      "items": [
+        {
+          "type": "laboratories",
+          "title": "The Marks for attendance shall be awarded as given below",
+          "content": [
+            "Less than 75% – 0 Marks",
+            "75% to 80% – 2 Marks",
+            "80.1% to 85% – 3 Marks",
+            "85.1% to 90% – 4 Marks",
+            "90.1% to 100% – 5 Marks"
+          ]
+        }
+      ]
+    },
+  
+    "malpractices": {
+      "title": "Malpractices in Examinations",
+      "btnText": "View",
+      "content": [
+        {
+          "id": 1,
+          "title": "Candidate scribbling on the question paper will be sent out of the examination hall."
+        },
+        {
+          "id": 2,
+          "title": "Candidate found in possession of material in the form of printed / photostatted / cyclostyled / handwritten or in any other means i.e., written on paper, cloth, scale, furniture, hand/body etc., will be penalized."
+        },
+        {
+          "id": 3,
+          "title": "Candidate found copying from incriminating materials owned or borrowed in any form mentioned in Rule 2 or from the answer book of another candidate or abetting another candidate to copy will be penalized."
+        },
+        {
+          "id": 4,
+          "title": "Inserting previously written answer sheets brought from outside, aiding or assisting for copying from additional book pilfered already or passing on written bits for copying is liable to be penalized."
+        },
+        {
+          "id": 5,
+          "title": "Candidates refusing to accompany the Hall Superintendent to the Chief Superintendent or to the Registrar on account of his / her malpractice or exhibiting verbal resistance inside or outside the examination hall or running out of the hall with or without the answer paper or script will be penalized."
+        },
+        {
+          "id": 6,
+          "title": "Candidates should not leave the hall within 45 minutes from the time of commencement of examination, with or without question / answer paper."
+        },
+        {
+          "id": 7,
+          "title": "Candidate employing somebody to write examination will be penalized."
+        },
+        {
+          "id": 8,
+          "title": "Cell phones / pagers are not permitted in the examination halls. If any student is found possessing a mobile phone / pager in the examination hall, the device will be seized and returned only at the time of leaving Karpagam Academy of Higher Education with Transfer Certificate."
+        },
+        {
+          "id": 9,
+          "title": "Candidates will be permitted to enter the examination hall within 30 minutes."
+        }
+      ]
+    },
+  
+    "leaveRules": {
+      "title": "Other Activities",
+      "items": [
+        {
+          "clsName": "col-lg-12 col-md-6 col-sm-6 col-12",
+          "src": "/images/category/image/web-design.jpg",
+          "content": "Students should apply for leave to the respective class tutor / advisor and the HoD before availing leave."
+        },
+        {
+          "clsName": "col-lg-12 col-md-6 col-sm-6 col-12",
+          "src": "/images/category/image/web-design.jpg",
+          "content": "If leave is requested for reasons of illness for more than two days, the leave application along with a medical certificate should be submitted by the parents / local guardian on or within 3 days of the illness. A fitness certificate from the Doctor who treated the student should be submitted on the day of rejoining."
+        }
+      ]
+    },
+  
+    "feeRegulations": {
+      "items": [
+        {
+          "clsName": "col-lg-6 col-md-6 col-sm-6 col-12",
+          "src": "/images/category/image/web-design.jpg",
+          "content": "Every student is liable to pay the whole fees for each semester. The fees should be paid within the indicated date."
+        },
+        {
+          "clsName": "col-lg-6 col-md-6 col-sm-6 col-12",
+          "src": "/images/category/image/web-design.jpg",
+          "content": "Students who do not pay the fee on or before the last date indicated shall pay a fine as imposed by Karpagam Academy of Higher Education."
+        }
+      ]
+    },
+  
+    "certificates": {
+      "items": [
+        {
+          "clsName": "col-lg-6 col-md-6 col-sm-6 col-12",
+          "src": "/images/category/image/web-design.jpg",
+          "content": "Any student who wishes to obtain a Transfer or Conduct Certificate shall apply to the Registrar, Karpagam Academy of Higher Education."
+        },
+        {
+          "clsName": "col-lg-6 col-md-6 col-sm-6 col-12",
+          "src": "/images/category/image/web-design.jpg",
+          "content": "Students representing Karpagam Academy of Higher Education in various activities should get bonafide certificates from the Registrar."
+        }
+      ]
+    }
+  }
+  
