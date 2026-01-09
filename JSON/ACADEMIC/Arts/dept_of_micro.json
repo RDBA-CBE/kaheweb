@@ -834,7 +834,7 @@
 
     {
       "tab": "Events",
-      "slug": "department-of-biotechnology",
+      "slug": "department-of-microbiology",
       "breadcrumbItems": [
         { "label": "Academics", "href": "academics" },
         {
@@ -1151,7 +1151,7 @@
 
     {
       "tab": "gallery",
-      "slug": "department-of-biotechnology",
+      "slug": "department-of-microbiology",
       "title": "Gallery",
       "breadcrumbItems": [
         { "label": "Academics", "href": "academics" },

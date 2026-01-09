@@ -1,0 +1,22 @@
+{
+  "bannerCon": {
+    "bannerImg": "/images/Kahe/Office-of-International-Affairs/officeofinternationalaffairs-banner.webp",
+    "title": "Collaboration And Exchanges",
+    "bannerCon": "Connecting global opportunities with academic and cultural exchange",
+    "applyLink": "/"
+  },
+  "examinations": {
+    "title": "Collaboration And Exchanges",
+    "btnText": "View",
+    "content": [
+      {
+        "title": "Students Exchange Program",
+        "url": "/kahe/office-of-international-affairs/collaboration-and-exchanges/students-exchange-program"
+      },
+      {
+        "title": "Faculty Exchange Program",
+        "url": "/kahe/office-of-international-affairs/collaboration-and-exchanges/faculty-exchange-program"
+      }
+    ]
+  }
+}

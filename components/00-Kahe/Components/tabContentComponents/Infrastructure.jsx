@@ -32,6 +32,9 @@ const Infrastructure = ({ infrastructureContent }) => {
   const equipementItem = infrastructureContent.items?.find(
     (item) => item.type == "equipment"
   );
+  const LibrarySections = infrastructureContent.items?.find(
+    (item) => item.type == "LibrarySections"
+  );
 
   const library = infrastructureContent.items?.find(
     (item) => item.type == "library"
@@ -177,6 +180,45 @@ const Infrastructure = ({ infrastructureContent }) => {
 
                 <div className="dept-wrapper">
                   {equipementItem?.content?.map((item, i) => (
+                    <div
+                      key={i}
+                      className="dept-card bg-white"
+                      style={{
+                        "--bgImg": `url(/images/Kahe/Innerpages/infra-1.jpg)`,
+                      }}
+                    >
+                      <div className="dept-inner">
+                        <p className="dept-title">{item}</p>
+                        <LabIcon className="dept-icon" />
+                      </div>
+                    </div>
+                  ))}
+                </div>
+              </div>
+            )}
+
+            {LibrarySections && (
+              <div className="equip rbt-dashboard-table table-responsive mb--30 pt-5">
+                <h3
+                  className="main-sub-ti"
+                  dangerouslySetInnerHTML={{
+                    __html: FirstLetterUp(LibrarySections?.title),
+                  }}
+                ></h3>
+
+                {LibrarySections.desc && (
+                  <div className="row ">
+                    <p
+                      className="mb-5 ms-2"
+                      dangerouslySetInnerHTML={{
+                        __html: FirstLetterUp(LibrarySections.desc),
+                      }}
+                    ></p>
+                  </div>
+                )}
+
+                <div className="dept-wrapper">
+                  {LibrarySections?.content?.map((item, i) => (
                     <div
                       key={i}
                       className="dept-card bg-white"

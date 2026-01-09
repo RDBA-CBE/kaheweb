@@ -1,0 +1,950 @@
+{
+  "title": "Department of Management",
+  "bannerCon": "The University of Wyoming welcomes students to experience a one-of-a-kind education in the heart of the Mountain West.",
+  "applyLink": "#",
+  "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+  "tabs": [
+    {
+      "id": "overview",
+      "label": "Overview"
+    },
+    {
+      "id": "programme",
+      "label": "Programme"
+    },
+    {
+      "id": "faculty",
+      "label": "Faculty"
+    },
+    {
+      "id": "infrastructure",
+      "label": "Infrastructure"
+    },
+    {
+      "id": "students",
+      "label": "Students"
+    },
+    {
+      "id": "patents",
+      "label": "Patents/MoUs"
+    },
+    {
+      "id": "publications",
+      "label": "Publications"
+    },
+    {
+      "id": "gallery",
+      "label": "Gallery"
+    },
+    {
+      "id": "events",
+      "label": "Events"
+    }
+  ],
+  "tabContent": [
+    {
+      "tab": "Overview",
+      "items": [
+        {
+          "type": "overview",
+          "subTitle": "Overview",
+          "contents": "The Department of Management was established in 1996 to develop young budding administrators; equip students to take up entrepreneurial ventures or opt for higher studies. The department offers a three-year undergraduate BBA programme and two-year postgraduate MBA programme. The postgraduate students are offered with numerous courses in different specialisations like Finance, Marketing, Human Resources, Management Information Systems and Operations Management. To facilitate research in the field of management the department also offers Ph.D. programmes.The Department utilises the holistic approach to impart knowledge, skill, attitude and behaviour. The experiential teaching learning process leads to an outcome-based learning system. To expose the knowledge about real-time industry practices, the department organises guest lectures, workshops and seminars inviting the industry experts. The department concentrates on industry interaction by signing MOUs for the corporate exposure and hone their skills in Management Professionals and benefitted with the guidance under the eminent industrialists and entrepreneurs. The postgraduate students gain industry expertise through internships and projects.The Department has an exclusive facility which is endowed with excellent infrastructure. The department facilitates a conducive environment to support the highly committed and knowledgeable faculty team to plan their career enhancement focusing on innovative teaching methods, interdisciplinary linkages, administration and research.",
+          "image": "/images/others/video-07.jpg"
+        }
+      ]
+    },
+    {
+      "tab": "Programme",
+      "programmes": {
+        "title": "Programmes",
+        "content": [
+          {
+            "key": "ug",
+            "title": "Under Graduate Programme",
+            "img": "/images/others/health-b-02.png",
+            "items": [
+              "BBA (Strength: 120)"
+            ],
+            "type": "programme"
+          },
+          {
+            "key": "pg",
+            "title": "Post Graduate Programme",
+            "img": "/images/others/health-b-02.png",
+            "items": [
+              "MBA (Strength: 120)"
+            ],
+            "type": "programme"
+          },
+          {
+            "key": "res",
+            "title": "Research Programmes",
+            "img": "/images/others/health-b-02.png",
+            "items": [
+              "M.Phil in Management",
+              "Ph.D. in Management"
+            ],
+            "type": "programme"
+          }
+        ]
+      },
+      "curriculum": {
+        "title": "Curriculum",
+        "content": [
+          {
+            "key": "bba",
+            "title": "BBA",
+            "img": "/images/others/health-b-02.png",
+            "type": "curriculum",
+            "items": [
+              {
+                "year": "2020-2021",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/07/BBA-2020-21.pdf"
+              },
+              {
+                "year": "2021-2022",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2021/11/BBA-2021.pdf"
+              },
+              {
+                "year": "2022-2023",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2022/09/BBA-2022.pdf"
+              },
+              {
+                "year": "2023-2024",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2024/04/BBA.pdf"
+              },
+              {
+                "year": "2024-2025",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/01/BBA.pdf"
+              },
+              {
+                "year": "2025-2026",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/09/BBA-Syllabus-2025-2026-Final-1.pdf"
+              }
+            ]
+          },
+          {
+            "key": "mba",
+            "title": "MBA",
+            "img": "/images/others/health-b-02.png",
+            "type": "curriculum",
+            "items": [
+              {
+                "year": "2018-2019",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2021/01/2018-MBA-Syllabus.pdf"
+              },
+              {
+                "year": "2019-2020",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2021/01/2019-MBA-Syllabus.pdf"
+              },
+              {
+                "year": "2020-2021",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/07/MBA-2020-21.pdf"
+              },
+              {
+                "year": "2022-2023",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2022/09/MBA-2022-.pdf"
+              },
+              {
+                "year": "2023-2024",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2023/08/MBA-Syllabus-2023-24.pdf"
+              },
+              {
+                "year": "2024-2025",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/01/MBA.pdf"
+              },
+              {
+                "year": "2025-2026",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/10/MBA-Syllabus-2025-2026.pdf"
+              }
+            ]
+          },
+          {
+            "key": "phd",
+            "title": "Ph.D. Management",
+            "img": "/images/others/health-b-02.png",
+            "type": "curriculum",
+            "items": [
+              {
+                "year": "2020-2021",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/07/Managament-PhD-2020-2021.pdf"
+              },
+              {
+                "year": "2021-2022",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2021/11/PH.D-2021.pdf"
+              },
+              {
+                "year": "2022-2023",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2022/09/PhD-MANAGEMENT-2022.pdf"
+              },
+              {
+                "year": "2024-2025",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/01/Ph.D-Management.pdf"
+              },
+              {
+                "year": "2025-2026",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/09/PhD-in-Management-2025.pdf"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "tab": "Faculty",
+      "slug": "department-of-management",
+      "basic": {
+        "title": "Faculty",
+        "description": "Our faculty members are the major cause for our sustained capacity to impart vivacious and value-based education for the student community. This platform paves a pathway to our faculty members to progress their knowledge and to carry the observed concepts to the classrooms and laboratories, thus, serving the students in the department",
+        "src": "/images/Kahe/Innerpages/vission.jpg",
+        "buttonText": "View All Faculty"
+      },
+      "breadcrumbItems": [
+        {
+          "label": "Academics",
+          "href": "academics"
+        },
+        {
+          "label": "Arts, Science, Commerce and Management",
+          "href": "academics/arts-science-and-humanities/"
+        },
+        {
+          "label": "Department of Management",
+          "href": "/academics/arts-science-and-humanities/department-of-management"
+        },
+        {
+          "label": "Faculty"
+        }
+      ],
+      "faculty": [
+        {
+          "name": "Dr. R. Manju Shree",
+          "qualification": "M.Phil., Ph.D",
+          "designation": "Professor & Head",
+          "email": "manjushree.raman@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/1.-Dr.R.-Manju-Shree.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr. M. Nandhini",
+          "qualification": "M.Com., MBA., M.Phil., Ph.D., SET",
+          "designation": "Professor",
+          "email": "nandhini.m@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/2.-Dr.-M.-Nandhini.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr. R. Thiyagarajan",
+          "qualification": "M.Phil., Ph.D.",
+          "designation": "Professor",
+          "email": "thiyagarajanr.ramanathan@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/3.-Dr.R.Thiyagarajan.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr. K. Prabhakaran",
+          "qualification": "M.Phil., Ph.D.",
+          "designation": "Professor",
+          "email": "prabhakaran.kaligounder@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/18.Dr_.Prabhakaren.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr. A. Dharmaraj",
+          "qualification": "B.Com., M.Com., M.Phil., Ph.D., MBA., PGDCA",
+          "designation": "Associate Professor",
+          "email": "dharmaraj.a@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/4.Dr_.-A.-Dharmaraj.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr. G. Sumathi",
+          "qualification": "MBA., M.Phil., M.Com., Ph.D.",
+          "designation": "Associate Professor",
+          "email": "sumathi.g@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/5.-Dr.G.-Sumathi.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr. A. Martin Jayaraj",
+          "qualification": "MBA., Ph.D.",
+          "designation": "Associate Professor",
+          "email": "martin.a@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/6.-Dr.-A.-Martin-Jayaraj.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr. K. Hemalatha",
+          "qualification": "MBA., Ph.D.",
+          "designation": "Associate Professor",
+          "email": "hemalatha.kanthaswamy@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/17.Dr_.-K.-Hemalatha.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr. T. Y. Ebenezer Paul Rajan",
+          "qualification": "MBA., M.Phil., MA., Ph.D.",
+          "designation": "Associate Professor",
+          "email": "drebenezerpaulrajan.ty@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/8.-Dr.-Ebenezer-Paul-Rajan.-T.Y.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr. M. Usha",
+          "qualification": "MBA., M.Phil., Ph.D.",
+          "designation": "Associate Professor",
+          "email": "drusha.m@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/9.-Dr.M.-Usha.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr. N. Ramesh Kumar",
+          "qualification": "MBA., Ph.D.",
+          "designation": "Associate Professor",
+          "email": "rameshkumar.natesan@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/14.Dr_.N.Ramesh-Kumar.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr. J. Sudarvel",
+          "qualification": "MBA., Ph.D.",
+          "designation": "Assistant Professor",
+          "email": "drjsudarvel.j@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/7.-Dr.-J.-Sudarvel.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr. G. Meena Suganthi",
+          "qualification": "MBA., Ph.D.",
+          "designation": "Assistant Professor",
+          "email": "meenasuganthi.govindaraj@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/10.-Dr.-Meena-Suguanthi.-G.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr. P. Chitra",
+          "qualification": "MBA., Ph.D.",
+          "designation": "Assistant Professor",
+          "email": "chitra.poosari@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/11.-Dr.-P.-Chitra.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Ms. S. Madumathy",
+          "qualification": "MBA",
+          "designation": "Assistant Professor",
+          "email": "madumathy.srinivasaragavan@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/12.-Ms.-S.-Madumathy.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Ms. R. Anupama",
+          "qualification": "MBA",
+          "designation": "Assistant Professor",
+          "email": "anupama.rajan@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/13.-Ms.R.-Anupama.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Mr. R. Shankar Raman",
+          "qualification": "MBA., Ph.D.",
+          "designation": "Assistant Professor",
+          "email": "shankarraman.radjaramane@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/15.-Mr.R.Shankar-Raman.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr. G. Kalpana",
+          "qualification": "MBA., Ph.D.",
+          "designation": "Assistant Professor",
+          "email": "kalpanakalees@gmail.com",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/16.-Dr.G.Kalpana.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        }
+      ]
+    },
+    {
+      "tab": "Infrastructure",
+      "items": [
+        {
+          "type": "laboratories",
+          "title": "Facilities / Infrastructure List",
+          "desc": "The UG, PG and Research labs of the department contains all the important equipment and offers an all-inclusive atmosphere for the students to work around. ",
+          "content": [
+            "Fermenter",
+            "HPLC",
+            "GC-FID",
+            "Walk-in Cold Room",
+            "Walk-in Hot Room",
+            "Multi ELISA Reader",
+            "Freeze Drier",
+            "Phase Contrast Microscope",
+            "Shaker Incubator",
+            "PCR",
+            "Agarose Gel Electrophoresis",
+            "SDS-PAGE Electrophoresis"
+          ]
+        },
+        {
+          "type": "equipment",
+          "title": "Major Research Equipments",
+          "content": [
+            "Agarose Gel Electrophoresis",
+            "SDS-PAGE Apparatus",
+            "Sonicator",
+            "Shaker Incubator",
+            "Phase Contrast Microscope",
+            "PCR",
+            "Multi plate ELISA Reader",
+            "Freeze Drier",
+            "Fermentor",
+            "HPLC",
+            "GC-FID",
+            "Walk-in Cold Room",
+            "Walk-in Hot Room"
+          ]
+        },
+        {
+          "type": "library",
+          "title": "Department Library",
+          "desc": "The department has outstanding library facilities, which comprises up-to-date editions of Books, National/International Journals and Magazines covering all fields of Microbiology",
+          "content": [
+            "Bacteriology",
+            "Virology",
+            "Microbial Physiology",
+            "Microbial Genetics",
+            "Mycology",
+            "Parasitology",
+            "Immunology",
+            "Industrial Microbiology",
+            "Environmental Microbiology"
+          ]
+        },
+        {
+          "type": "gallery",
+          "slug": "department-of-microbiology",
+          "images": [
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Fermentor-1024x576.jpg",
+              "alt": "Fermentor",
+              "title": "Fermentor"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Cold-room-facility.jpg",
+              "alt": "Cold room facility",
+              "title": "Cold room facility"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Shaker-Incubator-717x1024.jpg",
+              "alt": "Shaker Incubator",
+              "title": "Shaker Incubator"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Laminar-Airflow-Chamber-2-1024x493.jpg",
+              "alt": "Laminar Airflow Chamber -2",
+              "title": "Laminar Airflow Chamber"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Laminar-Airflow-Chamber-1-1024x597.jpg",
+              "alt": "Laminar Airflow Chamber -1",
+              "title": "Laminar Airflow Chamber"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Phase-Contrast-Microscope.jpg",
+              "alt": "Phase Contrast Microscope",
+              "title": "Phase Contrast Microscope"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Practical-Session-4-1024x768.jpg",
+              "alt": "Practical Session-4",
+              "title": "Practical Session"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Practical-Session-3-768x1024.jpg",
+              "alt": "Practical Session-3",
+              "title": "Practical Session"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Practical-Session-2-768x1024.jpg",
+              "alt": "Practical Session-2",
+              "title": "Practical Session"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Practical-Session-1-1024x768.jpg",
+              "alt": "Practical Session-1",
+              "title": "Practical Session"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/ug-lab-150x150.jpg",
+              "alt": "Best UG lab facilities at Karpagam Academy"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/pg-lab-150x150.jpg",
+              "alt": "Best Research lab facilities at KAHE"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/research-lab-150x150.jpg",
+              "alt": "Best Research lab facilities at Karpagam Academy"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/3-scaled-150x150.jpg",
+              "alt": "Best Research lab facilities at Karpagam Academy of Higher Education"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/4-scaled-150x150.jpg",
+              "alt": "Best lab facilities at Karpagam Academy of Higher Education"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/5-150x150.jpg",
+              "alt": "Best lab facilities at Karpagam Academy"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/6-150x150.jpg",
+              "alt": "Best lab facilities at KAHE"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/7-150x150.jpg",
+              "alt": "Best lab facilities"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/1-scaled-150x150.jpg",
+              "alt": "Best Microbiology lab"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/2-scaled-150x150.jpg",
+              "alt": "Microbiology lab"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/1-8-150x150.jpg",
+              "alt": "Karpagam Academy - Department of Microbiology"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/2-7-150x150.jpg",
+              "alt": "Department of Microbiology - Top College In Coimbatore, India"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/3-6-150x150.jpg",
+              "alt": "Department of Microbiology - Top College In Coimbatore, Tamilnadu"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/4-3-150x150.jpg",
+              "alt": "Department of Microbiology - Top College In Coimbatore"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/5-3-150x150.jpg",
+              "alt": "KAHE's Department of Microbiology"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/6-2-150x150.jpg",
+              "alt": "Department of Microbiology - top engineering colleges in coimbatore, India"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/7-1-150x150.jpg",
+              "alt": "Department of Microbiology - best placement colleges in coimbatore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tab": "students",
+      "title": "students",
+      "content": [
+        {
+          "data1": {
+            "type": "vision",
+            "subTitle": "Association",
+            "src": "/images/Kahe/Innerpages/vision.png",
+            "content": [
+              "MICROINNOVATA is the association of the Department of Microbiology. In the year 2025, the association was inaugurated with an insightful and thought-provoking guest lecture on the topic “Microbiology – Beyond Classrooms and Laboratories”."
+            ]
+          },
+          "data2": {
+            "type": "mission",
+            "subTitle": "Achievements /Awards",
+            "src": "/images/Kahe/Innerpages/goal.png",
+            "content": [
+              "The students of the department visited countries like Taiwan and Poland for the Internship and Student Exchange program.",
+              "Best student project under Student Projects Scheme (2023 – 2024) was awarded by Tamil Nādu State Council for Science and Technology (TNSCST), Chennai."
+            ]
+          }
+        },
+        {
+          "data1": {
+            "type": "mission",
+            "subTitle": "Placement",
+            "src": "/images/Kahe/Innerpages/goal.png",
+            "content": [
+              "The students of the Department of Microbiology (50< students in 2024-25) have been placed in several industries and organizations like BIOCON, Microbiological Laboratories, Indian Immunologicals, BECQ Radiological Service Provider LLP., Amura Health Care, Cotivity, Corrohealth, Optum, Molecular Connections and Clarus"
+            ]
+          },
+          "data2": {
+            "type": "mission",
+            "subTitle": "Alumni",
+            "src": "/images/Kahe/Innerpages/goal.png",
+            "content": [
+              "The department alumni encompass scientists in Pharmaceutical and Biotechnology Industries, research associates and Teachers in universities and colleges in India and abroad. The department of Microbiology is organising Alumni Interaction Sessions every month for the benefit of the students in the department."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "tab": "patents",
+      "title": "Patents/MoUs",
+      "content": [
+        {
+          "data1": {
+            "type": "vision",
+            "subTitle": "Association",
+            "src": "/images/Kahe/Innerpages/vision.png",
+            "content": [
+              "MICROINNOVATA is the association of the Department of Microbiology. In the year 2025, the association was inaugurated with an insightful and thought-provoking guest lecture on the topic “Microbiology – Beyond Classrooms and Laboratories”."
+            ]
+          },
+          "data2": {
+            "type": "mission",
+            "subTitle": "Achievements /Awards",
+            "src": "/images/Kahe/Innerpages/goal.png",
+            "content": [
+              "The students of the department visited countries like Taiwan and Poland for the Internship and Student Exchange program.",
+              "Best student project under Student Projects Scheme (2023 – 2024) was awarded by Tamil Nādu State Council for Science and Technology (TNSCST), Chennai."
+            ]
+          }
+        },
+        {
+          "data1": {
+            "type": "mission",
+            "subTitle": "Placement",
+            "src": "/images/Kahe/Innerpages/goal.png",
+            "content": [
+              "The students of the Department of Microbiology (50< students in 2024-25) have been placed in several industries and organizations like BIOCON, Microbiological Laboratories, Indian Immunologicals, BECQ Radiological Service Provider LLP., Amura Health Care, Cotivity, Corrohealth, Optum, Molecular Connections and Clarus"
+            ]
+          },
+          "data2": {
+            "type": "mission",
+            "subTitle": "Alumni",
+            "src": "/images/Kahe/Innerpages/goal.png",
+            "content": [
+              "The department alumni encompass scientists in Pharmaceutical and Biotechnology Industries, research associates and Teachers in universities and colleges in India and abroad. The department of Microbiology is organising Alumni Interaction Sessions every month for the benefit of the students in the department."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "tab": "Publications",
+      "slug": "department-of-management",
+      "title": "Best Five Papers Faculty wise:",
+      "subtitle": "Paper Publications by the Faculty Members",
+      "content": [
+        {
+          "faculty_name": "Dr. R. MANJU SHREE",
+          "content": [
+            "Manju Shree Raman (2023). SGX-listed companies navigate corporate governance and regulatory challenges, Singapore Inc.: A Century of Business Success in Global Market. DOI: 10.4324/9781032660547-5.",
+            "Waghmare, G., Sundaram, S., Raman, M.S. et al. (2023). Blockchain in Supply Chain Management Prevailing in Smart Cities: Prospects and Approaches. Handbook of Research on Data-Driven Mathematical Modeling in Smart Cities. DOI: 10.4018/978-1-6684-6408-3.ch007.",
+            "Sundram, S., Raman, M.S., Balamuralitharan, S. (2023). Influence of process parameters on machining studies on stir casted MMCs with AA6351 and TiO2 by grey and desirability approaches. Materials Today: Proceedings, 77(1). DOI: 10.1016/j.matpr.2023.01.091.",
+            "Arora, T.K., Chaubey, P.K., Raman, M.S. et al. (2022). Optimal Facial Feature Based Emotional Recognition Using Deep Learning Algorithm. Computational Intelligence and Neuroscience. DOI: 10.1155/2022/8379202.",
+            "Kassahun, Z.W., Raman, M.S. (2021). Antecedents of Employees Work Engagement: A Study on Ethiopian Universities. Revista Gestão Inovação e Tecnologias, 11(4). DOI: 10.47059/revistageintec.v11i4.2470."
+          ]
+        },
+        {
+          "faculty_name": "Dr. M. NANDHINI",
+          "content": [
+            "Nandhini, M. (2024). Influence of online digital communication in the decision-making process amongst engineering students. Salud, Ciencia y Tecnología – Serie de Conferencias, 3, 700–710.",
+            "Nandhini, M. (2024). DeFi’s transformative influence on the global financial landscape. Digital Technologies, Ethics, and Decentralization in the Digital Era, 1, 99–120.",
+            "Nandhini, M. (2023). Determinants of capital structure with reference to paper industry. E3S Web of Conferences, 1.",
+            "Nandhini, M. (2023). Financial performance analysis of selected textile companies. E3S Web of Conferences, 1.",
+            "Nandhini, M. (2019). Factors influencing working women’s buying behavior of gold jewelry. International Journal of Recent Technology and Engineering, 8(3), 1186–1189."
+          ]
+        },
+        {
+          "faculty_name": "Dr. R. THIYAGARAJAN",
+          "content": [
+            "The Challenges before Indian Management Education. Journal of Management Outlook, 3(1), 2013.",
+            "Paradigm shift in higher education and impact of distance learning in Industry 4.0 and Society 5.0. CRC Press, 2023.",
+            "Rise of Emotional Branding in Service Sector. Intercontinental Journal of Marketing Research Review, 3(1), 2013.",
+            "Accreditation of Indian B-Schools for Quality Assurance. International Journal of Research in Management and Technology, 4(1), 2014.",
+            "TQM in Higher Education – A Conceptual Model. International Journal of Management, 6(1), 2015."
+          ]
+        },
+        {
+          "faculty_name": "Dr. A. DHARMARAJ",
+          "content": [
+            "Dharmaraj, A. et al. (2024). Machine Learning-Based Real-Time Fraud Detection in Financial Transactions. ACCAI 2024. DOI: 10.1109/ACCAI61061.2024.10602350.",
+            "Dharmaraj, A. (2020). Causes of stress among public sector bank employees. Journal of Critical Reviews, 7(3).",
+            "Senthilkumar, C.B., Dharmaraj, A. et al. (2020). Women empowerment through self-help groups. Journal of Critical Reviews, 7(6).",
+            "Lal, A.K., Dharmaraj, A. (2016). Training and competency development in hotel industry. Man in India, 96(9).",
+            "Pratheep, S., Dharmaraj, A. (2016). Job stress among bank employees. Man in India, 96(9)."
+          ]
+        },
+        {
+          "faculty_name": "Dr. G. SUMATHI",
+          "content": [
+            "Sumathi, G., Velmurugan, R. (2020). Stress and work-life balance among female faculty. Journal of Critical Reviews, 7(4).",
+            "Sumathi, G. (2017). Quality of work life in private companies. International Journal of Multidisciplinary Research and Development.",
+            "Sumathi, G. (2017). Women entrepreneurs in globalized economy. International Journal of Research in IT and Management.",
+            "Sumathi, G., Velmurugan, R. (2018). Work-life balance of female faculty. International Journal of Pure and Applied Mathematics.",
+            "Sumathi, G., Velmurugan, R. (2018). Job satisfaction of female faculty. International Journal of Engineering & Technology."
+          ]
+        },
+        {
+          "faculty_name": "Dr. A. MARTIN JAYARAJ",
+          "content": [
+            "Impact of HRM practices on organizational performance in logistics sector. Journal of Data Acquisition and Processing, 38(4), 2023.",
+            "Work-life balance and employee retention among eye doctors. Turkish Online Journal of Qualitative Inquiry, 12(4), 2021.",
+            "AI healthcare study on stress during COVID-19. Turkish Journal of Physiotherapy and Rehabilitation, 32(3), 2021.",
+            "Brand trust and customer retention in BSNL. Journal of Advanced Research in Dynamical & Control Systems, 11(11), 2019.",
+            "Risk management in petroleum refinery projects. Journal of Advanced Research in Dynamical & Control Systems, 11(10), 2019."
+          ]
+        },
+        {
+          "faculty_name": "Dr. J. SUDARVEL",
+          "content": [
+            "Impact of demographic factors on solar energy awareness. E3S Web of Conferences, 477, 2024.",
+            "Weekend effect of stock returns in India. Studies in Systems, Decision and Control, 525, 2024.",
+            "Stock price trend prediction using GA-BPNN. Studies in Systems, Decision and Control, 536, 2024.",
+            "AI and creativity in marketing. 2024.",
+            "Seasonality effect in Indian stock market. Journal of Advanced Research in Dynamical and Control Systems, 2018."
+          ]
+        },
+        {
+          "faculty_name": "Dr. T. Y. EBENEZER PAUL RAJAN",
+          "content": [
+            "Impact of online food delivery on restaurants in Ernakulam. Global Perspectives on Business Environment-I, 2023.",
+            "Impact of GST on electronic stores. Global Perspectives on Business Environment-I, 2023.",
+            "Recent Trends from Past Trends – III. ISBN: 978-81-19147-85-4, 2023.",
+            "Impact of digital payment apps among college students. ISBN: 978-81-19147-85-4, 2023.",
+            "Consumer perception towards electric vehicles in Ernakulam. ISBN: 978-81-19147-85-4, 2023."
+          ]
+        },
+        {
+          "faculty_name": "Dr. M. USHA",
+          "content": [
+            "Financial distress analysis for the prediction of corporate bankruptcy – a case study of a public sector company in India, Salud, Ciencia y Tecnología – Serie de Conferencias, Vol. 3, 2024, Scopus.",
+            "Exploring the influence of sensory brand recognition on brand loyalty within the quick service restaurant industry: an analysis of branded food retailers in Kerala, Salud, Ciencia y Tecnología – Serie de Conferencias, Vol. 3, 2024, Scopus.",
+            "Usha, M., Nandhini, M., Palanivelu, P. An Analysis on Impact of Coronavirus Lockdown among Students. Test Engineering and Management, Vol. 83, May–June 2020, pp. 16067–16070.",
+            "Usha, M., Nandhini, M., Palanivelu, P. An analysis on employee perspective towards adopted retention factors. International Journal of Current Research, Vol. 8(11), November 2016, pp. 41419–41422.",
+            "Usha, M., Nandhini, M., Palanivelu, P. A study on the problems of knitted garment exporting units in Tirupur. Journal of Advance Research in Dynamical & Control Systems, Vol. 13, Special Issue, September 2017."
+          ]
+        },
+        {
+          "faculty_name": "Dr. G. MEENA SUGUANTHI",
+          "content": [
+            "A Deep Learning Ensemble Framework for Fake News Stance Detection and Classification. Nanotechnology Perceptions, Vol. 20, No. S2, May 2024, pp. 643–663.",
+            "Empirical Learning on Machine Learning Approaches for Discovery and Forecast of Coronavirus. International Journal of Mechanical Engineering, Vol. 7, February 2022, pp. 1580–1583.",
+            "Feasibility Analysis on Implementation of ERP Packages in Small and Medium Enterprises. Indian Journal of Natural Science, Vol. 12, Issue 66, 2021, pp. 31781–31783.",
+            "Analysis of Financial Technology as an Opportunity to Market or Disruption of Industry. Design Engineering, Issue 6, 2021.",
+            "Empirical Analysis on Quality of Higher Education. International Journal of Test Engineering and Management, March–April 2020, pp. 19231–19237."
+          ]
+        },
+        {
+          "faculty_name": "Dr. N. RAMESH KUMAR",
+          "content": [
+            "A Review on Customer’s Attitude towards Branded Retail Store with Special Reference to Coimbatore. International Journal of Management, IT & Engineering, Vol. 9, Issue 5(2), 2019, pp. 52–55.",
+            "A Study on Consumer’s Perception on Fruits and Vegetables with Special Reference to Retail Outlets in Coimbatore City. IOSR Journal of Business and Management, Vol. 21, Issue 3, March 2019, pp. 23–26.",
+            "A Study on the Effect of Organisational Climate on Employees Performance in Dairy Industry in Coimbatore City. International Journal of Business and Management Invention, Vol. 8, 2019, pp. 56–59.",
+            "Human Resource Practices in Organized Retail Sectors: A Study of Selected Retailers. International Journal of Engineering and Management Science, Vol. 5, Issue 1, 2014.",
+            "Consumer Perception Towards Store Loyalty & Store Image in the Coimbatore District. International Journal of Marketing Management, Vol. 2, Issue 1, 2012."
+          ]
+        },
+        {
+          "faculty_name": "Dr. PRABHAGARAN",
+          "content": [
+            "Forecasting Stock Price Volatility: An Empirical Study in India. Finance India, Vol. 34, Issue 4, December 2021.",
+            "Prioritization of Technology Initiatives to Achieve Digital Transformation Maturity. European Chemical Bulletin, Vol. 12, Special Issue 8, 2023, pp. 5752–5762.",
+            "The Effectiveness of Technical Indicators in Predicting Index Price Movement: A Study on S&P CNX Nifty. International Journal of Finance, Vol. 1, Issue 2, February 2011, pp. 147–152.",
+            "A Study on Relationship between FII’s Inflows and Stock Market Indices in India. International Journal of Accounting, Vol. 1, Issue 2, August 2011, pp. 73–81.",
+            "A Study on Risk Perception and Portfolio Management of Equity Investors in Coimbatore City. Journal of Management & Science, Vol. 1, Issue 2, December 2011, pp. 1–10."
+          ]
+        },
+        {
+          "faculty_name": "Dr. K. HEMALATHA",
+          "content": [
+            "An Analysis of Weak Form Efficiency in Sectoral Indices with Special Reference to NSE. Indian Journal of Applied Research, Vol. 5, Issue 3, March 2015.",
+            "An Analysis on Weak Form Efficiency of CNX IT – Evidence from NSE. SS International Research Network, Vol. 5, Issue 3, May 2015.",
+            "An Analysis of Weak Form Efficiency in Sectoral Indices with Reference to NSE. Global Journal for Research Analysis, Vol. 4, Issue 7, July 2015, pp. 387–390.",
+            "A Study on Equity Share Price Movement of Sun Pharmaceutical Limited. International Research Journal of Engineering and Technology, Vol. 2, Issue 6, September 2015.",
+            "An Analysis of Weak Form Efficiency in Realty Sector with Special Reference to NSE. International Educational Scientific Research Journal, Vol. 2, Issue 6, June 2016."
+          ]
+        }
+      ]
+    },
+    {
+      "tab": "Events",
+      "slug": "department-of-management",
+      "items": [
+        {
+          "title": "Symposium / Conference",
+          "content": [
+            "Online Symposium “MANALTICS 2K21” was inaugurated by Mr.Parthasarathy Subramaniam, Associate Vice President, ICICI Lombard GIC Ltd., Coimbatore. on 01.02.2021.",
+            "One day Symposium ‘Manaltics’ was inaugurated by Mr. JFD. Sandeep, Managing Director, Vaikunth Knits Pvt Ltd on11.03.2020.",
+            "Symposium on ‘Manaltics’ was organized and inaugurated by Mr. Navaneeth. V. G, Asia’s Record holding Motivation Speaker on March 06, 2018."
+          ]
+        },
+        {
+          "title": "Workshops / Training Programmes / Seminars",
+          "content": [
+            "One-day Workshop on “Trend Analysis for Entrepreneurs: Using SPSS for Decision-Making” for I-year MBA students on 05.01.2026.",
+            "One-day Workshop on “Research Methodology for Beginners” on 23.12.2025.",
+            "One-day Workshop on “Stock Market Live Training” on 26.08.2025.",
+            "Entrepreneurship Development Programme conducted from 02.08.2021 to 06.08.2021.",
+            "Workshop on Intellectual Property Rights conducted from 07.06.2021 to 11.06.2021.",
+            "Workshop on Research Methodology conducted from 24.05.2021 to 28.05.2021.",
+            "Workshop on Dropshipping Startups conducted by Mr. Mohideen Abdul Kamal, Assistant Professor, Vocational Training Center (Ministry of Manpower), Muscat, Oman, on 21.01.2021.",
+            "Workshop on Defensive Techniques conducted by Mr. S. Karthick, Trainer, Defensive Technique, on 25.11.2019.",
+            "Workshop on Business Case Writing and Analysis conducted by Dr. T. Rangarajan and Dr. Kalyanai Rangarajan, Management Consultants (IIM–A Alumni), on 18.08.2018 and 19.08.2018.",
+            "Workshop on Innovative Teaching and Motivation for Research for Young Faculty conducted by Dr. Malabika Deo, Professor, Department of Commerce, Pondicherry University, and Dr. M. Selvam, Advisor, IQAC, Bharathidasan University, on 13.10.2018.",
+            "Training Programme on Human Rights conducted by Mr. V. P. Sharathi, Dr. R. Sujatha, Dr. Kamalaveni, Mr. M. Madhivanan, and Mr. C. Paventhan on 16.11.2018.",
+            "Seminar on International Day of Elimination of Violence Against Women conducted by Ms. N. Divya and Mr. Sureshkumar on 26.11.2018.",
+            "Hands-on Training on Model Building using AMOS conducted by Dr. M. Uma Shankar, Kongu Engineering College, Erode, from 15.12.2018 to 16.12.2018.",
+            "Workshop on Small Industries Day conducted on 11.10.2017.",
+            "Training Programme on Rights of Women sponsored by NHRC – National Human Rights Commission, New Delhi, conducted on 28.07.2017.",
+            "Workshop on Goods and Services Taxation: Procedural and Administrative Mechanism in India conducted on 25.07.2017.",
+            "Seminar on Capital Market Awareness and Equity Investing conducted on 08.10.2015, with a guest talk by Mr. Venugopal Rayirathi, Senior Associate, Lotus Knowlwealth Pvt. Ltd., Mumbai."
+          ]
+        },
+        {
+          "title": "National Conference",
+          "content": [
+            "One-day National Conference on “Innovation Driven Business to Foster Sustainable Development in the Indian Economy” conducted on 06.03.2020.",
+            "One-day National Conference on “Rural Banking and Agribusiness for Economic Transformation” conducted on 24.01.2018 in association with NABARD.",
+            "One-day National Conference on “Concurrent Issues and Challenges in Lean Management” conducted on 12.02.2015."
+          ]
+        },
+        {
+          "title": "Guest Lecture",
+          "content": [
+            "Guest Lecture on “HR Horizons: Unlocking MBA Career Paths” for II-year MBA HR specialization students conducted on 04.12.2025.",
+            "Guest Lecture on “Emerging Career Paths for MBA Graduates in 2025 and Beyond” conducted on 29.10.2025.",
+            "Guest Lecture on “Mastering the Basics of Financial Management” conducted on 02.09.2025.",
+            "Guest Lecture on “Smart Money Moves: Investing for a Secure Future” conducted on 11.09.2025.",
+            "Guest Lecture on “Preparation for TNPSC Examinations” for I-year BBA students conducted on 28.07.2025.",
+            "Webinar on “Labour Law Compliance in India” delivered by Mr. S. Muthukumar, Assistant Manager – Statutory Compliance, Talent Pro India HR Pvt. Ltd., Chennai, on 30.10.2021.",
+            "Webinar on “Challenges Faced by the Retail Industry in the Present Scenario” delivered by Mr. Venki Manoharan, Product Architect, US Technology, San Antonio, Texas, on 29.10.2021.",
+            "Webinar on “Emerging Trends in Supply Chain Management” delivered by Ms. Vijayalakshmi Babukumar, Site Supply Chain Head, ALSTOM, Coimbatore, on 18.09.2021.",
+            "Webinar on “Introduction to the Securities Market and Role of Regulators” delivered by Mr. B. Badrinarayanan, Senior Consultant, BSE Ltd., Chennai, and Mr. B. Karthik, Regional Head, CDSL, Chennai, on 31.05.2021.",
+            "Webinar on “Leadership Branding in Startups” delivered by Mr. Rakesh Menon, Co-founder & CEO, Mantle Training & Consulting, Coimbatore, on 12.05.2021.",
+            "Webinar on “GST and Input Tax Credit Mechanism” delivered by Mr. A. Sarfudeen, Senior Software Trainer, Institute of Computer Accountant, Coimbatore, on 07.05.2021.",
+            "Webinar on “Agility and Employability Skills for Project Management” delivered by Mr. M. Sri Sudharshan, Head – PMO, CES Limited, Chennai, on 30.04.2021.",
+            "Webinar on “Partnership and Limited Liability Partnership” delivered by Mr. G. Balasubramaniam, Company Secretary, ROOTS Multi Clean Ltd., Coimbatore, on 19.04.2021.",
+            "Budget Talk 2K21 delivered by Dr. R. Asokan, Associate Professor, Department of Economics, Government Arts College for Women, Salem, on 23.03.2021.",
+            "Webinar on “Believe in Yourself” delivered by Mr. P. Anavarathamani, Inspirational and Business Coach, Coimbatore, on 01.03.2021.",
+            "Webinar on “Career Orientation for MBA Students in the VUCA World” delivered by Dr. A. V. Jose, Vice President & Head – HR, ESAF Small Finance Bank, Thrissur, on 09.02.2021.",
+            "Alumni Online Interaction on “Industry Expectation from Students” delivered by Mr. Ajaay Kiran, Talent Acquisition Partner, Mastree, Bangalore, on 05.02.2021.",
+            "Alumni Online Interaction on “The Power Plan for Career Success” delivered by Mr. B. Ramkumar, Assistant Manager – HR, Focus Prism Pvt. Ltd., Coimbatore, on 05.02.2021.",
+            "Webinar on “Product Design and Development” delivered by Dr. Florence Bharathy Kennedy, Senior Lecturer, Eastern University, Sri Lanka, on 30.01.2021.",
+            "Webinar on “Rural Entrepreneurship: Opportunities and Challenges” delivered by Mr. K. Prakash, Assistant Professor, SRM Institute of Science and Technology, Chennai, on 30.12.2020.",
+            "Webinar on “Leadership Lessons from the Military” delivered by Dr. Prasad Begde, Assistant Professor, Sur University College, Oman, on 30.11.2020.",
+            "Webinar on “Investment in Stock Market and Mutual Fund” delivered by Mr. K. Thangaraj, Faculty, ACS Capital Market Academy, Coimbatore, on 27.11.2020.",
+            "Webinar on “Right to Information Act” delivered by Mr. S. Vivekanandan, Advocate, Combined District Court, Coimbatore, on 26.11.2020.",
+            "Webinar on “Trade Setup for Beginners Using Technical Analysis” delivered by Mr. V. Saravana Krishnan, Assistant Professor, Christ University, Bangalore, on 11.09.2020.",
+            "Webinar on “Creating a Successful Startup and Pitching for Investment” delivered by Mr. Arun Raaj Manickaraj, Founder & CEO, Orenda Social Enterprise Pvt. Ltd., Coimbatore, on 13.08.2020.",
+            "Webinar on “Business Analytics and Data-Driven Decision Making” delivered by Mr. Pathy Thangavelu, Business Head, Zillion Cubes, Coimbatore, on 18.06.2020.",
+            "Guest Lecture on “Business Operations Management” delivered by Mr. Rajkaal Prabhu, Managing Director, Ranjith Enterprises, Coimbatore, on 18.12.2019.",
+            "Guest Lecture on “Elimination of Violence Against Women” delivered by Mr. RVB Madhavan, Founder, Aram Foundation Charitable Trust, Coimbatore, on 25.11.2019.",
+            "Guest Lecture on “Rights and Responsibilities of a Citizen” delivered by Mr. V. P. Sarathi, Advocate & Chief Legal Adviser, VPS Law Firm, on 26.11.2019.",
+            "Guest Lecture on “Digital Marketing Tools” delivered by Mr. Paul, Co-founder, CADD BIM Technologies, on 07.09.2019.",
+            "Guest Lecture on “SAP and Its Applications” delivered by Mr. Venkatesh, SAP Consultant, G-Tec Education, on 06.09.2019.",
+            "Guest Lecture on “Certification Programs like CMA, CFA and FRM” delivered by Mr. D. Ramaswamy, Founder, Ledaa, on 04.09.2019.",
+            "Guest Lecture on “Cross Culture Management” delivered by Mr. Michael Vogt, Professor, Denmark, on 12.02.2019.",
+            "Guest Lecture on “Cyber Crime Awareness” delivered by Mr. D. Sai Nataraj, CEO, Duratech Solutions, on 26.11.2018.",
+            "Guest Lecture on “Personality Development and Goal Setting” delivered by Dr. R. Sujatha, Consultant Member, Tamil Nadu State Planning Commission, on 16.11.2018."
+          ]
+        },
+        {
+          "title": "Hands on Training Programme",
+          "content": [
+            "Hands on Training on “Capital Market” was conducted by Annamalai Capital Services (P) Ltd. during the period from December 2019 to January 2020.",
+            "Hands on Training on “Business Analytics” was conducted by Mr. Somayajulu, Mentor, Makeintern, from 16.09.2019 to 20.09.2019."
+          ]
+        },
+        {
+          "title": "Skill Based Training",
+          "content": [
+            "One Day Trade Expo was conducted on February 17, 2021. Ms. Mahalakshmi Saravanan, Founder and CEO of Women Entrepreneurs India, Coimbatore, delivered the keynote address.",
+            "One Day Trade Expo was conducted on January 09, 2020. Mr. M. Umar, Export Manager, Texmo Aquasub Engineering, Coimbatore, delivered the keynote address.",
+            "One Day Trade Expo was conducted on December 21, 2017. Mr. R. K. Saravanan, Marketing Manager, Ms. Krishnaveni Carbon Products Pvt. Limited, Coimbatore, delivered the keynote address.",
+            "One Day Trade Expo was conducted on December 22, 2016. Mr. N. Shanmugha Sundaram, Deputy General Manager – Business Development, Aqua Sub Engineering, Coimbatore, delivered the keynote address.",
+            "One Day Trade Expo was conducted on December 29, 2015. Mr. K. Raghunandanan, Joint General Manager, Larsen & Toubro, delivered the keynote address."
+          ]
+        },
+        {
+          "title": "Others",
+          "content": [
+            "Essay Writing and Poster Presentation Competition on “Intellectual Property Rights (IPR) & Technology Transfer” for BBA and MBA students was conducted from January 07, 2026 to January 09, 2026.",
+            "Career Guidance Program on “Banking – Government and Private Sector” was conducted on December 18, 2025 for I-year MBA ‘A & B’ students.",
+            "Alumni Talk on “From Campus to CEO: My Journey to Tech Entrepreneur” was conducted on December 17, 2025 by alumni (2016–2018 batch) Mr. Manikandan Ravikumar, Founder & Managing Director, Infolexus Solutions.",
+            "Alumni Talk on “How to Build a Career in the New-Age Job Market” was conducted on December 16, 2025 by alumni (2009–2012 batch) Mr. Nishar Anwar, Soft Skills Trainer.",
+            "Career Program on “Strategic Management in the Contemporary Business Environment” was conducted on December 15, 2025 for II-year MBA ‘A & B’ students.",
+            "Awareness Programme on “Commodity Derivatives” was conducted on December 04, 2025 for II-year MBA Finance specialization students.",
+            "Reels Competition was conducted in connection with World Entrepreneurs Day on November 25, 2025.",
+            "Five-Day Faculty Development Programme on “Research Lifecycle – From Clean Data to Scopus / WoS Publication” was conducted for Management faculty members from November 22, 2025 to November 26, 2025.",
+            "Street Play on NEP 2020 was organized on November 05, 2025.",
+            "Orientation Programme on Banking was conducted on October 30, 2025.",
+            "Alumni Talk on “Success Stories in Entrepreneurship” was conducted on September 26, 2025 by alumni (2014–2016 batch) Mr. Mahendran, Owner, Mahe’s Promoters & Builders.",
+            "Alumni Talk on “Entrepreneurship in Action – Plan and Execution” was conducted on September 25, 2025 by alumni (2018–2020 batch).",
+            "C.K. Prahalad Memorial Lecture on “The Fortune at the Bottom of the Pyramid” was conducted on September 22, 2025.",
+            "Motivational Talk on “Building Confidence and Self-Belief” was conducted on September 01, 2025.",
+            "Faculty Development Programme on “Next-Gen Research Methodologies: Advancing Social Science Research using AI & JAMOVI” was conducted from September 15, 2025 to September 19, 2025 through online mode.",
+            "NEP 2020 Awareness Programme was conducted on August 29, 2025."
+          ]
+        }
+      ]
+    }
+  ]
+}

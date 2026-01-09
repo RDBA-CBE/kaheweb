@@ -26,7 +26,7 @@ export const overview = {
 };
 
 export const subMenu = {
-  title: "Academics - Arts, Science and Humanities",
+  title: "Academics",
   content: [
     {
       category: "Arts, Science, Commerce and Management",
@@ -189,7 +189,7 @@ export const subMenu = {
 
     {
       category: "Library",
-      link: "academics/library/",
+      link: "/academics/library/",
 
       // items: [
       //   {
@@ -207,12 +207,26 @@ export const subMenu = {
       category: "NEP",
       link: "academics/nep/",
 
-      // items: [
-      //   {
-      //     name: "Overview",
-      //     link: "/academics/nep/overview/",
-      //   },
-      // ],
+      items: [
+        {
+          name: "Overview",
+          link: "/academics/nep/overview/",
+        },
+        {
+          name: "Professor Of Practice",
+          link: "/academics/nep/overview/",
+          children:[
+            {
+              name: "Overview",
+              link: "/academics/nep/overview/",
+            },
+            {
+              name: "Overview",
+              link: "/academics/nep/overview/",
+            },
+          ]
+        },
+      ],
     },
     {
       category: "Regulations",
@@ -241,30 +255,25 @@ export const subMenu = {
 export const about = {
   title: "About",
   content: [
-     {
+    {
       category: "Overview",
       link: "/about-us/",
-
     },
     {
       category: "Vision & Mission",
       link: "/vision-and-mission",
-
     },
     {
       category: "Statutory Committees",
       link: "/statutory-committees",
-
     },
     {
       category: "Non Statutory Committees",
       link: "/non-statutory-committees/",
-      
     },
     {
       category: "RTI",
       link: "/rti",
-
     },
   ],
 };
@@ -272,13 +281,11 @@ export const about = {
 export const NonStatutoryCommitee = {
   title: "Non Statutory Committees",
   content: [
- 
     {
       category: "Statutory Committees",
       link: "/statutory-committees",
-
     },
-    
+
     {
       category: "Non Statutory Committees",
       // link: "/non-statutory-committees/",
@@ -300,8 +307,6 @@ export const NonStatutoryCommitee = {
           name: "Cells",
           link: "/non-statutory-committees/nsc-cells/",
         },
-        
-       
       ],
     },
 
@@ -369,7 +374,6 @@ export const Administration = {
   ],
 };
 
-
 export const Admissions = {
   title: "Admissions",
   content: [
@@ -413,7 +417,6 @@ export const Admissions = {
     },
   ],
 };
-
 
 export const Research = {
   title: "Research",
@@ -479,8 +482,6 @@ export const Research = {
   ],
 };
 
-
-
 export const Examinations = {
   title: "Examinations",
   content: [
@@ -514,7 +515,7 @@ export const Examinations = {
 export const Placement = {
   title: "Placement",
   content: [
-     {
+    {
       category: "Overview",
       link: "/placement/",
     },
@@ -533,11 +534,9 @@ export const Placement = {
   ],
 };
 
-
 export const OfficeOfInternationalAffairsJson = {
   title: "Office of International Affairs",
   content: [
-   
     {
       category: " Office of International Affairs",
       link: "/office-of-international-affairs/",
@@ -656,8 +655,3 @@ export const CampusLife = {
     },
   ],
 };
-
-
-
-
-

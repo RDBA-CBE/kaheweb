@@ -3,7 +3,7 @@
 import BreadCrumb from "@/components/00-Kahe/common-components/BreadCrumb";
 import TabInnerSection from "@/components/00-Kahe/Components/TabInnerSection";
 import { subMenu } from "@/JSON/ACADEMIC/Overview";
-import data from "../../../../JSON/ACADEMIC/Arts/dept_of_biotechnology.json";
+import data from "../../../../JSON/ACADEMIC/Arts/dept_of_management.json";
 import InnerBanner from "@/components/00-Kahe/common-components/InnerBanner";
 import SidebarCopy from "../../common-components/Sidebar2";
 import { Provider } from "react-redux";
@@ -13,7 +13,7 @@ import Store from "@/redux/store";
 
 console.log("data", data);
 
-const DeptOfBioTech = () => {
+const DeptOfManagement = () => {
   const breadcrumbItems = [
     { label: "Academics", href: `academics` },
     {
@@ -21,7 +21,7 @@ const DeptOfBioTech = () => {
       href: `academics/arts-science-and-humanities/`,
     },
 
-    { label: "Department of Biotechnology" },
+    { label: "Department of Management" },
   ];
   return (
     <>
@@ -60,4 +60,4 @@ const DeptOfBioTech = () => {
   );
 };
 
-export default DeptOfBioTech;
+export default DeptOfManagement;

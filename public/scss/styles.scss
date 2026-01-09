@@ -3492,3 +3492,32 @@
 .rbt-header .mainmenu-nav .mainmenu > li {
   color: #000 !important;
 }
+
+
+.opac-title {
+  font-weight: 600;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.opac-list {
+  list-style: none;
+  padding-left: 0;
+  margin-bottom: 0;
+}
+
+.opac-list li {
+  position: relative;
+  padding-left: 24px;
+  margin-bottom: 10px;
+  color: #374151;
+}
+
+.opac-list li::before {
+  content: "•";
+  position: absolute;
+  left: 0;
+  color: #2563eb;
+  font-size: 22px;
+  line-height: 1;
+}
