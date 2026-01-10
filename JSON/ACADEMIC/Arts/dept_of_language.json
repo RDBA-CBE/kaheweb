@@ -541,8 +541,8 @@
           "href": "academics/arts-science-and-humanities/"
         },
         {
-          "label": "Department of Maths",
-          "href": "/academics/arts-science-and-humanities/department-of-mathematics"
+          "label": "Department of Languages",
+          "href": "/academics/arts-science-and-humanities/department-of-languages"
         },
         {
           "label": "Gallery"
@@ -741,7 +741,7 @@
     },
     {
       "tab": "Events",
-      "slug": "department-of-mathematics",
+      "slug": "department-of-languages",
       "breadcrumbItems": [
         {
           "label": "Academics",
@@ -752,8 +752,8 @@
           "href": "academics/arts-science-and-humanities/"
         },
         {
-          "label": "Department of Maths",
-          "href": "/academics/arts-science-and-humanities/department-of-mathematics"
+          "label": "Department of Languages",
+          "href": "/academics/arts-science-and-humanities/department-of-languages"
         },
         {
           "label": "Events"
