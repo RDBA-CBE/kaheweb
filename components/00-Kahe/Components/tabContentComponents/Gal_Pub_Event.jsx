@@ -7,7 +7,7 @@ const Gal_Pub_Event = ({
   publicationsContent,
   eventsContent,
   galleryContent,
-  laboratoryContent
+  laboratoryContent,
 }) => {
   const router = useRouter();
 
@@ -38,7 +38,7 @@ const Gal_Pub_Event = ({
     router.push(`/kahe/gallery/${galleryContent.slug}`);
   };
 
-  const goToDeptLabotaory= () => {
+  const goToDeptLabotaory = () => {
     sessionStorage.setItem("labotoryData", JSON.stringify(laboratoryContent));
     sessionStorage.setItem("labotoryUrl", window.location.href);
     router.push(`/kahe/labotory/${laboratoryContent.slug}`);
@@ -173,7 +173,7 @@ const Gal_Pub_Event = ({
             </div>
           )}
 
-{laboratoryContent && (
+          {laboratoryContent && (
             <div
               id="gallery"
               className="col-lg-4 col-md-6 col-sm-6 col-12"

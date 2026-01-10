@@ -13,9 +13,9 @@ const ProgrammesMbl = ({ programmeContent }) => {
     window.open(yearLink, "_blank");
   };
 
-  const programmeTabs = programmeContent.programmes.content;
+  const programmeTabs = programmeContent.programmes?.content;
 
-  const curriculumTabs = programmeContent.curriculum.content;
+  const curriculumTabs = programmeContent.curriculum?.content;
 
   console.log("programmeTabs", programmeTabs);
 

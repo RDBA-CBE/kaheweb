@@ -1,0 +1,832 @@
+{
+  "title": "Department of Languages",
+  "bannerCon": "The University of Wyoming welcomes students to experience a one-of-a-kind education in the heart of the Mountain West.",
+  "applyLink": "#",
+  "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+  "tabs": [
+    {
+      "id": "overview",
+      "label": "Overview"
+    },
+    {
+      "id": "programme",
+      "label": "Programme"
+    },
+    {
+      "id": "faculty",
+      "label": "Faculty"
+    },
+    {
+      "id": "infrastructure",
+      "label": "Infrastructure"
+    },
+    {
+      "id": "publications",
+      "label": "Publications"
+    },
+    {
+      "id": "events",
+      "label": "Events"
+    }
+  ],
+  "tabContent": [
+    {
+      "tab": "Overview",
+      "items": [
+        {
+          "type": "overview",
+          "subTitle": "Overview",
+          "contents": "The Department of Languages offers Tamil and English and helps the students to acquire proficiency in these languages. The department gives Part I Tamil and Part II English to all the programmes. The curriculum has been designed to give exposure on various cultures to live on solidarity and the components of integrated skills make the students to get good interpersonal skills which are needed to face the contemporary society.It offers Doctoral Programme to undertake research in the contemporary themes and language. The department is strengthened with well qualified and experienced faculty members to impart language and research skills in literary scholars. The well-equipped language lab helps the students to improve their LSRW skills.",
+          "image": "/images/others/video-07.jpg"
+        }
+      ]
+    },
+    {
+      "tab": "Programme",
+      "programmes": {
+        "title": "Program",
+        "content": [
+          {
+            "key": "ug",
+            "title": "Tamil",
+            "img": "/images/others/health-b-02.png",
+            "multiItems": [
+              {
+                "title": "Curriculum and Syllabus for the Programmes",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2025/09/tamil.pdf",
+                "btnText": "B.A. (Tamil)"
+              },
+              {
+                "title": "Research Programmes",
+                "desc": "Ph.D. Tamil",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2023/08/Tamil-Ph.D-Syllabus-2023-2024.pdf",
+                "btnText": "2023-2024",
+                "url2": "https://kahedu.edu.in/n/wp-content/uploads/2025/10/Ph.D-Tamil-2025-2026.pdf",
+                "btnText2": "2025-2026"
+              }
+            ],
+            "type": "programme"
+          },
+          {
+            "key": "pg",
+            "title": "English",
+            "img": "/images/others/health-b-02.png",
+            "multiItems": [
+              {
+                "title": "Post Graduate Programme",
+                "desc": "M. A. English (Strength: 30)"
+              },
+              {
+                "title": "Research Programmes",
+                "desc": "M.Phil English"
+              },
+              {
+                "desc": "Ph.D. English",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2023/09/Ph.D-English.pdf",
+                "btnText": "2023-2024",
+                "url2": "https://kahedu.edu.in/n/wp-content/uploads/2025/01/Ph.D-English.pdf",
+                "btnText2": "2024-2025",
+                "url3": "https://kahedu.edu.in/n/wp-content/uploads/2025/10/Ph.D-English-Syllabus.pdf",
+                "btnText3": "2025-2026"
+              }
+            ],
+            "type": "programme"
+          }
+        ]
+      }
+    },
+    {
+      "tab": "Faculty",
+      "slug": "department-of-language",
+      "basic": {
+        "title": "Faculty",
+        "description": " Lorem ipsum, dolor sit amet consectetur adipisicing elit. Temporibus architecto magnam, eius, labore vel enim eveniet officiis veritatis reiciendis expedita ab odit nobis, itaque aspernatur suscipit odio inventore consectetur autem!",
+        "src": "/images/Kahe/Innerpages/vission.jpg",
+        "buttonText": "View All Faculty"
+      },
+      "breadcrumbItems": [
+        {
+          "label": "Academics",
+          "href": "academics"
+        },
+        {
+          "label": "Arts, Science, Commerce and Management",
+          "href": "academics/arts-science-and-humanities/"
+        },
+        {
+          "label": "Department of Maths",
+          "href": "/academics/arts-science-and-humanities/department-of-mathematics"
+        },
+        {
+          "label": "Faculty"
+        }
+      ],
+      "faculty": [
+        {
+          "name": "Dr.P.Thamilarasi",
+          "qualification": "M.A., M.Phil., Ph.D.,",
+          "designation": "Senior Professor",
+          "email": "thamilarasi.p@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/10/Dr.-P.-Thamilarasi.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr.R.Madhan Kumar",
+          "qualification": "M.A., M.Phil, Ph.D",
+          "designation": "Professor",
+          "email": "madhan.r@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/10/Dr.-R.-Madhankumar.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr.B.Umarani",
+          "qualification": "M.A., M.Phil., Ph.D. (UGC-NET)",
+          "designation": "Associate Professor",
+          "email": "umarani.b@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/Dr.B.Umarani-One-Page-Biodata.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr.Aruchamy.S",
+          "qualification": "M.A., M.Phil., Ph.D. (UGC-NET)",
+          "designation": "Assistant Professor",
+          "email": "aruchamy.s@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/10/Dr.-S.-Aruchamy.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Mr.S.Venkatesh",
+          "qualification": "MA., M.Phil.,(Ph.D.)",
+          "designation": "Assistant Professor",
+          "email": "venkatesh.seenivasan@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/10/Mr.-S.-Venkatesh.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Mr.A.Nandhakumar",
+          "qualification": "MA., (UGC-NET)",
+          "designation": "Assistant Professor",
+          "email": "nandhakumar.arumugam@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/10/Mr.-A.-Nanthakumar.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Mr.M.Pogaraj",
+          "qualification": "M.A,(Ph.D),NET.",
+          "designation": "Assistant Professor",
+          "email": "pogaraj.mayalagan@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/10/Mr.-M.-Pogaraj.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr.R.Jagan",
+          "qualification": "M.A., B.Ed., M.Phil., Ph.D.",
+          "designation": "Assistant Professor",
+          "email": "jagan.ravikumar@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/10/Dr.-R.-Jagan.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr.D.Saranyadevi",
+          "qualification": "M.A, Ph.D,, D.T.Ed.,",
+          "designation": "Assistant Professor",
+          "email": "saranyadevi.dhandapani@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/10/Dr.-Saranyadevi-D.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Mr.A.Gokulkannan",
+          "qualification": "M.A., (UGC-NET)., (Ph.D).,",
+          "designation": "Assistant Professor",
+          "email": "gokulkannan.angappan@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/10/Mr.-A.-Gokulkannan.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Mrs.K.Chitra Devi",
+          "qualification": "M.A., B.Ed., D.T.Ed., NET., (M.Phil).,",
+          "designation": "Assistant Professor",
+          "email": "chitradevi.kuppusamy@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/10/Ms.-K.-Chitra-Devi.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr.S.Somasekar",
+          "qualification": "M.A.,B.Ed.,M.Phil.,Ph.D.,NET,SET",
+          "designation": "Assistant Professor",
+          "email": "somasekar.saravanan@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/10/Dr.-S.-Somasekar.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Ms.S.Shanmugapriya",
+          "qualification": "MA., NET., B.Ed.,",
+          "designation": "Assistant Professor",
+          "email": "shanmugapriya.sakthivel@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/10/Ms.-S.-Shanmugapriya.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr.V.Reka",
+          "qualification": "M.A., M.A. (Ling), M.Phil., Ph.D.",
+          "designation": "Assistant Professor",
+          "email": "reka.velu@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/10/Dr.-V.-Reka.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Mrs.M.Jeyarani",
+          "qualification": "M.A.,M.Phil.,B.Ed.,SET.,NET.,(Ph.D)",
+          "designation": "Assistant Professor",
+          "email": "jayarani.muthusamy@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/10/Ms.-M.-Jeyarani.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Mrs.J.Dhanalakshmi",
+          "qualification": "M.A., UGC-NET., B.Ed.",
+          "designation": "Assistant Professor",
+          "email": "dhanalakshmi.jagadeeshwaran@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/10/Ms.-J.-Dhanalakshmi.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Mr.R.Prasanna",
+          "qualification": "M.A., B.Ed., NET.",
+          "designation": "Assistant Professor",
+          "email": "prasanna.ramanathan@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/10/Mr.-R.-Prasanna.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Ms.R.Aarthi",
+          "qualification": "M.A., Ph.D.,",
+          "designation": "Assistant Professor",
+          "email": "aarthi.ravi@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/10/DR-R-AARTHI.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr.E.Saravanakumar",
+          "qualification": "M.A., M.Phil., Ph.D.",
+          "designation": "Assistant Professor",
+          "email": "Saravanakumar.eswaran@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/saravana-kumar-One-page-biodata-Teaching-photo-1.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr.P. Kalaikesavan",
+          "qualification": "M.A., Ph.D., (UGC-NET)., SET",
+          "designation": "Assistant Professor",
+          "email": "kalaikesavan.palani@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/10/Dr.-P.-Kalaiselvan.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Mr. S. Karthikeyan",
+          "qualification": "M.A., Ph.D., (UGC-NET)., SET",
+          "designation": "Assistant Professor",
+          "email": "karthikeyan04051999@gmail.com",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/06/Mr.-S.-Karthikeyan.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr.P. Balamurugan",
+          "qualification": "M.A., Ph.D.,",
+          "designation": "Assistant Professor",
+          "email": "dr.bala996@gmail.com",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/10/Dr.-P.-Balamurugan.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        }
+      ],
+      "faculty_1": [
+        {
+          "name": "Dr.S.Selvalakshmi",
+          "qualification": "M.A., Ph.D.,",
+          "designation": "Professor & Head",
+          "email": "selvalakshmi.s@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/06/Dr.Selvalakshmi-S-1.pdf",
+          "profileText": "Click Here"
+        },
+        {
+          "name": "Ms.D.Lourdhu Mary",
+          "qualification": "M.A., M.Phil., M.Sc(Phy)., Ph.D.,",
+          "designation": "Assistant Professor",
+          "email": "lourdhumary.dinakaran@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/06/DR.-D.-LOURDHU-MARY-U1838-1.pdf",
+          "profileText": "Click Here"
+        },
+        {
+          "name": "Mr.S.Ambigabathi",
+          "qualification": "M.A., M.Phil., NET.,",
+          "designation": "Assistant Professor",
+          "email": "ambigabathi.somasundaram@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/06/Mr.S.Ambigapathi-1.pdf",
+          "profileText": "Click Here"
+        },
+        {
+          "name": "S.Karthika",
+          "qualification": "M.A., M.Phil.,",
+          "designation": "Assistant Professor",
+          "email": "karthika.subramaniam@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/MS.-KARTHIKA-ONE-PAGE-BIO.pdf",
+          "profileText": "Click Here"
+        },
+        {
+          "name": "Dr.N.Saranya",
+          "qualification": "M.Phil., Ph.D.,",
+          "designation": "Assistant Professor",
+          "email": "saranya.natesan@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/06/Dr-N-Saranya-Bio-Data-U2856-1.pdf",
+          "profileText": "Click Here"
+        },
+        {
+          "profileText": "Click Here",
+          "name": "Ms.Evangeline Veronica. V",
+          "qualification": "M.A., (Ph.D)",
+          "designation": "Assistant Professor",
+          "email": "evangelineveronicavijayaraj@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/06/Ms.Evangeline-Veronica.-V.pdf"
+        },
+        {
+          "profileText": "Click Here",
+          "name": "Mr.Adrian R. Gregory",
+          "qualification": "M.A., NET",
+          "designation": "Assistant Professor",
+          "email": "adrianr.gregory@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/Adrian.pdf"
+        },
+        {
+          "profileText": "Click Here",
+          "name": "Ms.Nasria.M.S",
+          "qualification": "M.A., NET",
+          "designation": "Assistant Professor",
+          "email": "nasria.mohamedzakaria@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/10/NASRIA.pdf"
+        },
+        {
+          "profileText": "Click Here",
+          "name": "Mr.Rajiv.C.P",
+          "qualification": "M.A., M.Phil.,",
+          "designation": "Assistant Professor",
+          "email": "philominrajivcp8@gmail.com",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/06/Mr.C.P.Rajiv_-1.pdf"
+        },
+        {
+          "profileText": "Click Here",
+          "name": "Ms.M.Aarthika",
+          "qualification": "M.A., M.Phil., Ph.D.,",
+          "designation": "Assistant Professor",
+          "email": "aarthika.murali@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/06/Dr.M.Aarthika-1.pdf"
+        },
+        {
+          "profileText": "Click Here",
+          "name": "Mr.Jeevanandham.M",
+          "qualification": "M.A.,M.Phil.,Ph.D.,",
+          "designation": "Assistant Professor",
+          "email": "jeevanandham.masilamani@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/06/Mr.M.Jeevanandham-1.pdf"
+        },
+        {
+          "profileText": "Click Here",
+          "name": "Dr.Usha Savithri.K",
+          "qualification": "MA.,B.Ed.,M.Phil.,Ph D., DCTT.,",
+          "designation": "Assistant Professor",
+          "email": "ushasavithri.kakkamallan@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/06/Dr.K.Usha-Savithri-1.pdf"
+        },
+        {
+          "profileText": "Click Here",
+          "name": "Dr.K.M.Keerthika",
+          "qualification": "M.A.,M.Phil.,Ph.D.",
+          "designation": "Assistant Professor",
+          "email": "keerthika.kannan@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/06/Dr.K.M.Keerthika-1.pdf"
+        },
+        {
+          "profileText": "Click Here",
+          "name": "Dr.R.Gobinath",
+          "qualification": "M.A., SET., Ph.D.,",
+          "designation": "Assistant Professor",
+          "email": "gobinath.renganathan@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/06/Dr.Gopinath-1.pdf"
+        },
+        {
+          "profileText": "Click Here",
+          "name": "Ms.Vinodhini S",
+          "qualification": "M.A., B.Ed., M.Phil., Ph.D.,",
+          "designation": "Assistant Professor",
+          "email": "vinodhini.snr@gmail.com",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/06/Dr.S.Vinodhini-Onepage-Bio-Data-1.pdf"
+        },
+        {
+          "profileText": "Click Here",
+          "name": "Mr.R.Kousik",
+          "qualification": "M.A., NET., (Ph.D)",
+          "designation": "Assistant Professor",
+          "email": "kousikrajagopal24@gmail.com",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/06/Mr.-Kousik-R-1.pdf"
+        },
+        {
+          "profileText": "Click Here",
+          "name": "Ms.B.V.Abirami",
+          "qualification": "M.A., M.Phil., (Ph.D)",
+          "designation": "Assistant Professor",
+          "email": "abiramibv95@gmail.com",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/06/Ms.-B.V.-ABIRAMI.pdf"
+        },
+        {
+          "profileText": "Click Here",
+          "name": "Ms.S.Mathivathani",
+          "qualification": "M.A.,B.Ed.,(Ph.D)",
+          "designation": "Assistant Professor",
+          "email": "mathivathani0304@gmail.com",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/06/S.Mathivathani-1.pdf"
+        }
+      ]
+    },
+    {
+      "tab": "Infrastructure",
+      "items": [
+        {
+          "type": "library",
+          "title": "LANGUAGES",
+          "content": [
+            "Two staffrooms with six computers.",
+            "Deparment Library contains 424 books.",
+            "Language Lab with 60 computers, 60 headphones and one server system. Globarena English lab and Career Lab software is used."
+          ]
+        }
+      ]
+    },
+    {
+      "tab": "Publications",
+      "slug": "department-of-language",
+      "title": "Best Five Papers Faculty wise:",
+      "subtitle": "Paper Publications by the Faculty Members",
+      "breadcrumbItems": [
+        {
+          "label": "Academics",
+          "href": "academics"
+        },
+        {
+          "label": "Arts, Science, Commerce and Management",
+          "href": "academics/arts-science-and-humanities/"
+        },
+        {
+          "label": "Department of Maths",
+          "href": "/academics/arts-science-and-humanities/department-of-mathematics"
+        },
+        {
+          "label": "Gallery"
+        }
+      ],
+      "content": [
+        {
+          "faculty_name": "Dr.P.Thamilarasi, Professor",
+          "content": [
+            "P.Thamilarasi, PillaithamilIlakkiyankalilIaivakaiNilangal, Vallamai – online Journal, ISSN: 2348– 5531, March 2018.",
+            "P.Thamilarasi, Meenakshi Balganesh, PettaumMuttaium, Vallamai – online Journal, ISSN: 2348 – 5531, December 2017.",
+            "P.Thamilarasi, Meenakshi Balganesh, PillaithamilNoorkalSiththarikkumsivapiraninThirunadanam, Sri Kumaraguruparar –monthly publication, December 2017.",
+            "P.Thamilarasi, Meenakshi Balganesh, AeichiyarMaththoli, Vallamai – online Journal, November 2017",
+            "P.Thamilarasi, Meenakshi Balganesh, Alarupattamaharappavai, Vallamai – online Journal, October 2017"
+          ]
+        },
+        {
+          "faculty_name": "Dr.R. Madhan Kumar, Professor & Head",
+          "content": [
+            "R.Madhan Kumar, Freatness of AthipathaNayanars Bhakthi, International Research Journal of Tamil, E-ISSN: 2582-1113, April 2022",
+            "R.Madhan Kumar, ThiruthellenathilThirurulNokku, International Research Journal of Tamil, E-ISSN: 2582-1113, June 2021",
+            "R.Madhan Kumar, Thavayogam and Sivayogam in Thirumanthiram, International Research Journal of Tamil, E-ISSN: 2582-1113, November 2020",
+            "R.Madhan Kumar, Keerthith ThiruvagavalThiruneri, , NaveenathThamizhaivithazh, ISSN: 2321-984x, June 2020.",
+            "R.Madhan Kumar, MuvarThevaraththilThiruvizhimizhalai, NaveenathThamizhaivithazh, ISSN: 2321-984x, March 2020."
+          ]
+        },
+        {
+          "faculty_name": "Dr.B.Umarani, Associate Professor",
+          "content": [
+            "B.Umarani, The Short story of Nagam in the view of Magical Realism, International Research Journal Of Tamil – online Journal, E-ISSN: 2582-1113, May 2021.",
+            "B.Umarani, Regional Based Mayakkam and ThinaiMayakkam, International Research Journal Of Tamil – online Journal, E-ISSN: 2582-1113, February 2020.",
+            "B.Umarani, PurananootrilPadanthinaiSuttumThotrornilai, Vallamai – online Journal, ISSN: 2348 – 5531, January 2019.",
+            "B.Umarani, KrunthokaielPalainialUnavukalKaattumSulalamaivu, Navinathazhaiyu – UGC Approval online Journal, ISSN: 2348 – 5531, January 2018.",
+            "B.Umarani, KozhinjamparaiVattarathilNikazhthappadum Punitha AlesiyarNadakam, Vallamai – online Journal, ISSN: 2348 – 5531, June 2018."
+          ]
+        },
+        {
+          "faculty_name": "Dr.Aruchamy.S, Assistant Professor",
+          "content": [
+            "Aruchamy.S, SamookaAnukkathilRamayanathinThakkam",
+            "Aruchamy.S,KurunthokaiKattumVettaiKudiyinar, Pathivukal – online journal, ISSN : 1481-2991, December 2019.",
+            "Aruchamy.S, KurunthokaiPadalkalilPuzhankuporulPayanpadumPanpadum, Vallamai – online Journal, ISSN: 2348 – 5531, May 2018.",
+            "Aruchamy.S, Palakkad District TamilinamakkalinVazhakkilirukumOpparippadalkalil Vazhaviyalvizhumiyankal, Vallamai – online Journal, ISSN: 2348 – 5531, July 2018.",
+            "Aruchamy.S, KurunthokaiPadalkalilIyarkai, Vallamai – online Journal, ISSN: 2348 – 5531, August 2018."
+          ]
+        },
+        {
+          "faculty_name": "Mr. M. Pogaraj, Assistant Professor",
+          "content": [
+            "M. Pogaraj, AatrupadiyilNeithalNila Makkal Vazhviyal, Journal of Tamil Culture and Literature, E-ISSN : 2583-0325, February-2024.",
+            "M. Pogaraj, Sanga IlakkiyathilTheivamUraithal, Tamil Ilakkiya Marabu – NaatupurMarabu, ISBN : 978-81-965682-2-1, October 2023.",
+            "M. Pogaraj, SangakalaUzhavarSamugam – ThalithiyapParvai, Tamilil ThalithIlakkiyam, ISBN : 178-81-96-5227-4-2, October 2023.",
+            "M. Pogaraj, SangachSeiulkalilPulayanPulathiyarinSaamugaUrvumurai, Internation Research Journal of Tamil, E-ISSN: 2582-1113, November 2022.",
+            "M. Pogaraj, SangakalaIsaikudikalinVarumainilai, SanlaxInternation Tamil Journal, E.ISSN – 2454-3993, July 2022."
+          ]
+        },
+        {
+          "faculty_name": "Dr. R. Jagan, Assistant Professor",
+          "content": [
+            "R. Jagan, ParathamaiPatripPesum Sanga Aga Ilakkiyam, Modern Thzmizh Research, ISSN : 2321-984x, June – 2018.",
+            "R. Jagan, KurunthokaiKaattumIllaraValviyalilPorulatharam, SanlaxInternation Tamil Journal, E.ISSN – 2454-3993, January 2017.",
+            "R. Jagan, NatrinaithThalaiviyin Varutha Velippadu, Kaviya Magazine, ISSN : 2277-9221, June – 2017.",
+            "R. Jagan, TamilarKalaikal, Semmoothai publication, ISBN : 978-93-81006-10-8, March 2016.",
+            "R. Jagan, Dravida mozhikalilKuzhanthaiIlakkiyangal, SeviyalIlakkiyangalilKuzhanthaikal, ISBN : 978-81-9330882-0-3. December – 2015."
+          ]
+        },
+        {
+          "faculty_name": "Dr.S.Somasekar, Assistant Professor",
+          "content": [
+            "S. Somasekar, Kavignar Nirmala Suresh KavithaikalilArasiyalKoorugal,AalanthoorMoganaranganTamizhiyalAaivuMaiyam,ISSN: 2454-3993, March 2019.",
+            "S. Somasekar, Jeyamohan Navalkalilsamuthyachchinthnaikal, Modern ThzmizhResearch,ISSN 0973-0303, January -2017.",
+            "S. Somasekar, Jayamohan NaavalkalilEzhamUlagam Naval KaattumSamoogachSikkalgalum, Sithaivugalum, Shanlax Internation Tamil Journal,",
+            "S. Somasekar, Jeyamohan NavalkalilUlaviyalsinthanaikal, Modern Thzmizh Research, ISSN 2394-2428 January -2020.",
+            "S. Somasekar, Kavingar Nirmala Suresh KavithaikalilArasiyalKoorukal – University Of Kerala – ISBN – 93-81322-37-6"
+          ]
+        },
+        {
+          "faculty_name": "Dr.V.Reka, Assistant Professor",
+          "content": [
+            "V. Reka,PalangudiMakkalinNambikkaikal, Tamil IlakkiyangalilPanmugaSinthanikal, 2018",
+            "V. Reka,PalangudiMakkalulPengalinNilai, Tanjore Tamil PalkalaikalagaVeliyeedu, 2018",
+            "V. Reka,Sarugamalaimalaiyalikalinsamoogakattamaippu, auxliumcollege,vellore veliyeedu,2019",
+            "V. Reka,ThottiyaNaaikkarvaalkaimurai, Ulaga Tamil Magalir Kulumam,2018",
+            "V. Reka,InavaraiviyalNokkil Malayali Palangudikal, Ianam Pannattu Inaya Tamilayvithal, 2021."
+          ]
+        },
+        {
+          "faculty_name": "Mrs J. Dhanalakshmi, Assistant Professor",
+          "content": [
+            "Ms J. Dhanalakshmi, Ilaiuthirkalamumu (Puthinam) MuthiyorNilaiu, Ikkala IlakkiyangalilSamuthayachChinthanaikal, ISBN – 978-93-80800-93-6, December-2018.",
+            "Ms J. Dhanalakshmi, IlakkiyathilTamilarThirumanamum, KongunattilThirumanamuraium, Tamil IlakkiyangalilVaralatruPinpulamumPanpattuPathivukalum, ISBN – 987-93-85165-02-3, January -2019."
+          ]
+        },
+        {
+          "faculty_name": "Miss R. Aarthi, Assistant Professor",
+          "content": [
+            "Miss R. Aarthi, MarkchiyaNokkilGnakoothanKavithaikal, ThailmozhiMatrum Ilakkiya PannatuAaivithazh, E-ISSN : 2581-7140, June 2023.",
+            "Miss R. Aarthi, GnakoothanKavithaikalilAngatham, PuthiyaAvayam, ISSN : 2456-821X, June 2023",
+            "Miss R. Aarthi, GnakoothanKavithaikalilSitharThathuvapPathivukal, ThailmozhiMatrum Ilakkiya PannatuAaivithazh, E-ISSN : 2581-7140, July 2023.",
+            "Miss R. Aarthi, Sanga IlakkiyathilVilaiyattukal, Tamil IlakkiyangalilVaralatruPinpulamumPanpattuPathivukalum, ISBN – 987-93-85165-02-3, January -2019.",
+            "Miss R. Aarthi, OruMagudam, Oru Val, Iruvizhikal (Puthinam) KaattumVeeramumkathalum, Ikkala IlakkiyangalilSamuthayachChinthanaikal, ISBN – 978-93-80800-93-6, December-2018."
+          ]
+        },
+        {
+          "faculty_name": "Dr.E. Saravanakumar, Assistant Professor",
+          "content": [
+            "E. Saravanakumar, Tamil PuthukavithaikalilMarangalinAlivugalumTheervugalum, Raja Publications, 2023"
+          ]
+        },
+        {
+          "faculty_name": "Dr P.Kalaikesavan, Assistant Professor",
+          "content": [
+            "P.Kalaikesavan.azhabedaipatriyauriyasiriyakalinvizhakkam ,semmozhithamizh, ISSN : 2321 – JULY – SEP 2021.",
+            "P.Kalaikesavan. Illakkana, Illakkiyankalilazhbedaisollaatchi , Modern thamizh Research, ISSN : 2321 – 984 X  JULY – SEP 2021.",
+            "P.Kalaikesavan. TholkkappiyamkattumKurriyittuAzhabedai, Classical Thamizh, ISSN : 2321 – 0737 March 2019."
+          ]
+        }
+      ],
+      "content_1": [
+        {
+          "faculty_name": "Dr. S. Selvalakshmi",
+          "content": [
+            "Women as Men’s Dignity in Chitra Banerjee Divakruni’s The Palace of Illusions in Aegaeum Journal, Volume 12, Issue 07, 2024–ISSN:0776-3808",
+            "World of Vampires in Interview with the Vampire :Lands of Vampire in Aegaeum Journal,Volume 11, Issue 09, 2023–ISSN:0776-3808",
+            "Entwined Shrubs: Navigating Relationship venom in The Forest of Enchantment by Chitra Banerjee Divakaurni in Volume XIII, Issue IX, September 2024",
+            "Emancipation and Empowerment of Dalits through Education: A Vision in Y.B.Sathyanarayana’s My Father Baljah in Rabindrabharati University journal of Economics, ISSN: 0975-8-2X",
+            "The Socio-Political Disagreement in Perumal Murugan’s Select Novels: Seasons of the Palm and Pyre in Madhyabharti – Humanities and Social Sciences in Volume 84, Issue 10, July 2024, ISSN:0974-0066"
+          ]
+        },
+        {
+          "faculty_name": "Dr. D. Lourdhu Mary",
+          "content": [
+            "Triumph of Attitude over Apartheid in Nadine Gordimer, The Lying Days with Vol. No 7, Issue 1, Page Nos. 811 and year of publication Jan. 2019 published by International Journal of English Language, Literature in Humanities ISSN: 2321-7065",
+            "Portrayal of Powerful Women in Nadine Gordimer & A Sport of Nature and Burger’s Daughter with Vol. No. 40, Issue 03, Page Nos. 3331and year of publication Feb. 2020 published by Studies in Indian Place Names ISSN: 2394-3114",
+            "Honour Killing- A Disgrace to Tamil Society in Imayam's Pethavan: The Begetter with Volume no 8 Issue 2, in International Journal of Research and Analytical Reviews , ISSN:",
+            "Conquering Cultural Complexities in Nadine Gordimer’s July’s People at theInternational Seminar on Re-mapping, Identity, Culture and History throughLiterature",
+            "Identity and Commitment of the Heroine in Nadine Gordimer’s The Lying Days Shodha Samhita : Journal of Fundamental & Comparative Research ISSN : 2277-7067 VIII, Issue II, No. 6 July – December : 2022"
+          ]
+        },
+        {
+          "faculty_name": "Ms. S. Karthika",
+          "content": [
+            "Restoring Peace through Redemption in Ian McEwan’s Atonement in the National Conference on Recent Trends in Language and Literature (ISBN – 978-93-5406-301-5) at Karpagam Academy of Higher Education, Coimbatore on 06-03-2020.",
+            "Social Isolation in Sparrows by Khwaja Ahmad Abbas in Pune Research World – An International Journal of Interdisciplinary Studies (ISSN 2455 – 359X ONLINE) (Impact Factor 3.02) Vol 4, Issue – 2 (June to August 2019)",
+            "Manifestation of unquenched love in the select poems of Kamala Das in the National Conference on The Feminine Voice in Literature (ISBN – 978-93-88413-16-9) at Karpagam Academy of Higher Education, Coimbatore on 22-Dec-2019.",
+            "The Portrayal of Gay Sub Culture in Bombay as in Raj Rao’s The Boy Friend (ISBN – 978-83-85109-32-4) in the National Conference on Contemporary Issues in Society: socio- Literary Perspectives at Fatima College, Madurai on 18-Sep-2015."
+          ]
+        },
+        {
+          "faculty_name": "Dr. Usha Savithri. K",
+          "content": [
+            "The Study of Women’s Self-Assertion in Manju Kapur’s-The Immigrant (UGC Care Approved Journal) 36, No.6:ISSN :0976-0822, June 2021.",
+            "Longing For New Space in the Select Novels of Manju Kapur’s –Custody (UGC Care Approved Journal)XXIII,No.7:ISSN:0972-7175,June 2021.",
+            "The Study on a Journey of Women in Manju Kapur’s-The Immigrant.(UGC Care Approved Journal) ISSN 2229-6751, June 2020.",
+            "Identity Crisis Delineate in Manju Kapur’s Difficult Daughter.ISSN:2582-1962, Blind Peer Reviewed Research Journal"
+          ]
+        },
+        {
+          "faculty_name": "Dr.K.M.Keerthika",
+          "content": [
+            "E.M.Forster’s Literary Skill and Art in Depicting Women Characters in his fiction: A Brief Note. Shodh Sanchar Bulletin Journal of Arts, Humanities and Social Sciences (Peer Reviewed Refereed Research Journal) Approved UGC-CARE. Vol-9, Issue-35, July to September 2019. ISSN: 2229-3620. PP-75-78.",
+            "The Striving of Women for Self-Respect and Identity as pictured by R.K.Narayan: An Analysis. Shodh Sanchar Bulletin Journal of Arts, Humanities and Social Sciences (UGC Care Approved Journal). Vol-10, Issue-38(v), April to June 2020. ISSN: 2229-3620. PP-189-193.",
+            "Delineation of Contemporary Women in the Select Novels of Chetan Bhagat: An Analysis. International Journal of Innovative Research in Technology. Vol-6, Issue-2, July 2019. ISSN: 2349-6002. PP-123-125.",
+            "Feminine Sensibility of Expatriate Women from Cross Cultural Standpoint as Projected in the Fictional World of Bharati Mukherjee and JhumpaLahiri: An Overview. ShodhSarita Journal of Arts, Humanities and Social Sciences. Vol-, Issue-15, July to September 2018. ISSN: 2348-2397. PP- 60-64.",
+            "Jayanta Mahapatra’s Poetry is nothing but an Exploration of Indian Sensibility and Indian Ethos with a Focus on Human Relationship. Our Heritage Journal. Vol-68, Issue-3, January 2020. ISSN: 0474-9030. PP-721-731. Impact Factor: 6.6."
+          ]
+        },
+        {
+          "faculty_name": "Ms.M.Aarthika",
+          "content": [
+            "WOMEN’S STOICAL ACCEPTANCE OF FATE: AN ANALYSIS OF MAHASWETA DEVI’S RUDALI. UGC Care – Group I :Anvesak – bi- Annual Journal. ISSN: 0378-4568. Vol. 51. No. 01(XIV). June 2021.",
+            "UGC Care Group I Journal- DogoRangsang Journal, Self-Discovery: A Study of Anita Nair’s Ladies Coupe ISSN: 2347-7180, Vol -13, Issue- 2, No.1, Feb 2023.",
+            "Ramifications of Decisions: A Study of Chitra Banerjee Divakaruni’s, Before We Visit the Goddess – International Journal of English Literature and Social Sciences (IJELS)(ISSN: 2456-7620): Vol-8, Issue-6, Pg.: 188-191, November 2023.",
+            "Hybrid Identity: A Study of Chitra Banerjee Divakaruni’s Oleander Girl in The Literary Herald – An International, Refereed E-Journal of English Language and Literature – Vol. 9, Issue 4 (December 2023) ISSN: 2454-3365",
+            "EMPOWERED MIGRATION: A LITERARY ANALYSIS OF OPTIMISM IN DIVAKARUNI’S BEFORE WE VISIT THE GODDESS in PUNE Research – An International Journal in English ISSN 2454 – 3454 Vol 9, Issue 6. Nov – Dec 2023."
+          ]
+        },
+        {
+          "faculty_name": "Mr. M. Jeevanandham",
+          "content": [
+            "M, Jeevanandham. Contemplating the Crystal Merchant of Paulo Coelho’s the Alchemist and Recollecting the Spilled Omens. International Journal of Trend in Research and Development, ISSN: 2394-9333, no. 1, 17 Aug. 2017, pp. 10–13.",
+            "M, Jeevanandham. Contemplating the Crystal Merchant of Paulo Coelho’s the Alchemist and Recollecting the Spilled Omens. Revolution Through Literature, vol. 1, no. 1, 17 Mar. 2017."
+          ]
+        },
+        {
+          "faculty_name": "Dr. N. Saranya",
+          "content": [
+            "Existence and Alienation in Amitav Ghosh’s The Glass Palace in Shanlax International Journal of English – A Peer Reviewed Scholarly Indexed Quarterly Journal in Vol. No 09, Issue 01, Page Nos. 18-21, December 2020.",
+            "Jingoism and Diasporic Trauma in Amitav Ghosh’s The Shadow Lines in Dogo Rangsang Research Journal – UGC Care Group I Journal in Vol. No 11, Issue 05, May 2021.",
+            "Ecological Abberration and Arduous Existent in Amitav Ghosh’s The Hungry Tide in Juni Khyat Journal – UGC Care Group I Listed Journal in Vol. No 11, Issue 06, June 2021.",
+            "Travails of Migration in Amitav Ghosh’s Gun Island in SCOPUS – ION Exchange and Adsorption in Vol. No 23, Issue 01, Feb 2023.",
+            "Women as Men’s Dignity in Chitra Banerjee Divakaruni’s The Palace of Illusions in Aegaeum Journal – UGC-CARE Group II Journal in Vol. 12, Issue 07, 2024."
+          ]
+        }
+      ]
+    },
+    {
+      "tab": "Events",
+      "slug": "department-of-mathematics",
+      "breadcrumbItems": [
+        {
+          "label": "Academics",
+          "href": "academics"
+        },
+        {
+          "label": "Arts, Science, Commerce and Management",
+          "href": "academics/arts-science-and-humanities/"
+        },
+        {
+          "label": "Department of Maths",
+          "href": "/academics/arts-science-and-humanities/department-of-mathematics"
+        },
+        {
+          "label": "Events"
+        }
+      ],
+      "items": [
+        {
+          "title": "Tamil",
+          "multiContent": [
+            {
+              "title": "Events",
+              "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/tamil-events.pdf",
+              "btnText": "View"
+            },
+            {
+              "title": "Others",
+              "contentList": [
+                "To Conduct a Faculty Development Programme on “தமிழ் கற்றல், கற்பித்தல் மற்றும் ஆராய்தலில் புதிய அணுகுமுறைகள்” from 15.12.2025 to 20.12.2025 through online mode.",
+                "Celebrations of Indian Languages Day on 11.12.2025",
+                "Mahakavi Bharathiar Ninaivunaal Vizha on 09.09.2025.",
+                "One day Workshop on “Generative AI in Tamil” on 26.08.2025.",
+                "“Media Tamil -Skill development Workshop” on 30.07.2025."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "English",
+          "multiContent": [
+            {
+              "title": "Conference",
+              "contentList": [
+                "National Conference on Voices of the Present: Exploring the Dynamics of Language and Literature on 7th January 2026.",
+                "A One Day National Conference on Recent Trends in Language and Literature, on 6th March, 2020.",
+                "One Day National Conference on the Feminine Voice in Literature , on December 22, 2018.",
+                "One Day National Conference on an Applicative Approach to Ecology in Literature on March 18, 2017."
+              ]
+            },
+            {
+              "title": "Workshop/ Skilled Based Training",
+              "contentList": [
+                "One day workshop for English faculty members and English Trainers on 29th November 2025.",
+                "One day National Workshop on Business Writing was conducted by Dr. Bhaskaran Nair.P, on December 10, 2019.",
+                "Two Day National Workshop on Effective Communication was conducted by the Faculty Members of KAHE on June 05 and 06, 2017.",
+                "One day National Workshop on Phonetics was conducted by Dr. Mohanagiri. A. S, on December 15, 2015.",
+                "One day Skill Based Training on World Literacy Day was organized on September 08, 2016."
+              ]
+            },
+            {
+              "title": "Guest Lecture",
+              "contentList": [
+                "Guest lecture on “Importance of English Language Proficiency Competitive Exams” on 04.08.2025.",
+                "Techniques on accommodating the slow learners in the Higher Education Classrooms by Dr. Senthil Kumar. C. B, Assistant Professor and Special Educator, Jazan University, Saudi Arabia, on July 15, 2017.",
+                "Guest Lecture on National Education Day by Dr. Ravi. R, Principal, Michael Job Memorial College of Education for Women, Coimbatore, on November 13, 2017",
+                "Guest Lecture on English for Employability by Ms. Kanchana. R, HR of NOUS, Coimbatore, on September 18, 2019."
+              ]
+            },
+            {
+              "title": "Others",
+              "contentList": [
+                "“Frame the Tale” competition on 19.12.2025.",
+                "“Spot the News” Competition on 22.12.2025.",
+                "“Twisty-Wisty Tongue Fest” competition on 17.12.2025.",
+                "Distinguished Lecture Series on “Innovations in English Language Teaching” on 10.12.2025.",
+                "“Book and Movie Review (Tales and Trailers)” competition on 10.12.2025.",
+                "“Just a Minute” competition on 05.12.2025",
+                "Poster Presentation Competition for the students of our college on the occasion of International Literacy Day, 08.09.2025.",
+                "“Spell-bee” Competition on 12.08.2025."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

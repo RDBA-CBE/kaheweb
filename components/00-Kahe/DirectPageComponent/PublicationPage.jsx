@@ -58,6 +58,7 @@ const PublicationPage = ({ publicationsContent }) => {
           </div>
         </div>
       </div>
+
       {publicationsContent?.researchContent && (
         <section className="section-wid  section-bg1 pb-0">
           <div className="section-title">
@@ -82,8 +83,49 @@ const PublicationPage = ({ publicationsContent }) => {
             <h3 className="main-sub-ti">
               {FirstLetterUp(publicationsContent?.title)}
             </h3>
+            {publicationsContent?.content_1 && (
+              <p className=" fw-bold fs-1 my-2 pb-4">Tamil</p>
+            )}
 
             {publicationsContent?.content?.map((item, index) => (
+              <div className="research-acc-item" key={index}>
+                <button
+                  className={`research-acc-header ${
+                    activeIndex === index ? "active" : ""
+                  }`}
+                  onClick={() => toggleAccordion(index)}
+                  style={{
+                    backgroundColor: index % 2 === 0 ? "#a2d0aa" : "#f2fff9",
+                    color: index % 2 === 0 ? "#000" : "#153b1c",
+                  }}
+                >
+                  <span className="faculty-ti">{item.faculty_name}</span>
+                  <span className="research-acc-icon">
+                    <i class="feather-chevron-down"></i>
+                  </span>
+                </button>
+
+                <div
+                  className="research-acc-body"
+                  style={{
+                    display: activeIndex === index ? "block" : "none",
+                    backgroundColor: index % 2 === 0 ? "#f2fff9" : "#f2fff9",
+                  }}
+                >
+                  <ol>
+                    {item.content?.map((pub, idx) => (
+                      <li key={idx}>{pub}</li>
+                    ))}
+                  </ol>
+                </div>
+              </div>
+            ))}
+
+            {publicationsContent?.content_1 && (
+              <p className=" fw-bold fs-1 my-2 pb-4">English</p>
+            )}
+
+            {publicationsContent?.content_1?.map((item, index) => (
               <div className="research-acc-item" key={index}>
                 <button
                   className={`research-acc-header ${
