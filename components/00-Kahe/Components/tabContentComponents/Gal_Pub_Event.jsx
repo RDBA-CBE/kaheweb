@@ -65,7 +65,7 @@ const Gal_Pub_Event = ({
                 <div className="inner">
                   <div className="thumbnail">
                     <Image
-                      src="/images/Kahe/Innerpages/infra-1.jpg"
+                      src="/images/Kahe/general/infrastructure-gallery.webp"
                       width={300}
                       height={300}
                       priority
@@ -96,7 +96,7 @@ const Gal_Pub_Event = ({
                 <div className="inner">
                   <div className="thumbnail">
                     <Image
-                      src="/images/Kahe/Innerpages/infra-1.jpg"
+                      src="/images/Kahe/general/research-facility.webp"
                       width={300}
                       height={300}
                       priority
@@ -128,7 +128,7 @@ const Gal_Pub_Event = ({
                 <div className="inner">
                   <div className="thumbnail">
                     <Image
-                      src="/images/Kahe/Innerpages/infra-1.jpg"
+                      src="/images/Kahe/general/publications.webp"
                       width={300}
                       height={300}
                       priority
@@ -160,7 +160,7 @@ const Gal_Pub_Event = ({
                 <div className="inner">
                   <div className="thumbnail">
                     <Image
-                      src="/images/Kahe/Innerpages/infra-1.jpg"
+                      src="/images/Kahe/general/events.webp"
                       width={300}
                       height={300}
                       priority
