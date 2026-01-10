@@ -1,4 +1,4 @@
-import BreadCrumb from "@/components/00-Kahe/common-components/BreadCrumb";
+import DepartmentOfComputerScience from "@/components/00-Kahe/AcademicsComponents/Arts/DepartmentOfComputerScience.jsx";
 
 
 export const metadata = {
@@ -8,8 +8,7 @@ export const metadata = {
 const page = () => {
   return (
     <>
-      <BreadCrumb  />
-      <h5>Dept of bio tech</h5>
+      <DepartmentOfComputerScience/>
     </>
   );
 };
