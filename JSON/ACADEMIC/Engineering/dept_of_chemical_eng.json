@@ -80,8 +80,8 @@
       "slug": "department-of-chemical-engineering",
       "basic": {
         "title": "Faculty",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris",
-        "src": "/images/Kahe/Innerpages/vission.jpg",
+        "description": "The Department of Chemical Engineering faculty brings expertise in process analysis, material transformation, and sustainable engineering practices. Through outcome-based teaching, research guidance, and industry engagement, the faculty equips students to address complex challenges in chemical processing, energy systems, and emerging technologies.",
+       "src": "/images/Kahe/academics/faculty.webp",
         "buttonText": "View All Faculty"
       },
       "breadcrumbItems": [

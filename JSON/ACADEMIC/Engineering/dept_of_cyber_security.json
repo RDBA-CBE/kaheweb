@@ -240,8 +240,8 @@
       "slug": "engineering-biotechnology",
       "basic": {
         "title": "Faculty",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris",
-        "src": "/images/Kahe/Innerpages/vission.jpg",
+        "description": "The Engineering Biotechnology faculty specializes in applying engineering approaches to biological systems, bioprocess development, and sustainable technologies. By integrating quantitative analysis, laboratory innovation, and translational research, the faculty guides students in developing scalable solutions for healthcare, agriculture, and bio-industries.",
+       "src": "/images/Kahe/academics/faculty.webp",
         "buttonText": "View All Faculty"
       },
       "breadcrumbItems": [

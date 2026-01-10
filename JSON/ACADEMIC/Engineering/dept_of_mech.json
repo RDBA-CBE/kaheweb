@@ -213,8 +213,8 @@
       "slug": "department-of-mechanical-engineering",
       "basic": {
         "title": "Faculty",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris",
-        "src": "/images/Kahe/Innerpages/vission.jpg",
+        "description": "The faculty of the Department of Mechanical Engineering focuses on the design, analysis, and manufacturing of mechanical systems. Through practical experimentation, research guidance, and industry-oriented projects, they equip students with the skills to innovate in automotive, thermal, and manufacturing technologies.",
+       "src": "/images/Kahe/academics/faculty.webp",
         "buttonText": "View All Faculty"
       },
       "breadcrumbItems": [
