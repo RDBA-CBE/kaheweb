@@ -41,6 +41,8 @@ const TabInnerSection = ({ tabSections, tabContent }) => {
 
    const galleryContent = tabContent.find((item) => item.tab == "gallery");
 
+   const researchFacilities = tabContent.find((item) => item.tab == "research");
+
   return (
     <>
       <div className="course-details-content tab-in ">
@@ -105,6 +107,7 @@ const TabInnerSection = ({ tabSections, tabContent }) => {
             publicationsContent={publicationsContent && publicationsContent}
             eventsContent={eventsContent && eventsContent}
             galleryContent={galleryContent && galleryContent}
+            researchFacilities={researchFacilities && researchFacilities}
           />
         </div>
        
