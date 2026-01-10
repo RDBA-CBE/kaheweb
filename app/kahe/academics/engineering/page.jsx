@@ -4,8 +4,8 @@ import StudentsExProCom from "@/components/00-Kahe/OfficeOfInternationalCompoene
 import Testimonials from "@/components/00-Kahe/OfficeOfInternationalCompoenets/Testimonials";
 
 export const metadata = {
-  title: "About Us 01 - Online Courses & Education NEXTJS14 Template",
-  description: "Online Courses & Education NEXTJS14 Template",
+  title: "Engineering | Top 10 Engineering Colleges in Coimbatore",
+  description: "KAHE is one of the top 10 engineering colleges in Coimbatore, offering UG, PG, and Ph.D. programs across a wide range of disciplines.",
 };
 const page = () => {
 return (
