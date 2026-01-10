@@ -2,6 +2,8 @@
 import { FirstLetterUp } from "@/utils/functions.utils";
 import Image from "next/image";
 import Link from "next/link";
+import IconCard from "../Components/IconCard";
+import TableCom from "../Components/TableCom";
 
 const FacultyPage = ({ facultyContent }) => {
   const goBack = () => {
@@ -42,7 +44,10 @@ const FacultyPage = ({ facultyContent }) => {
           </div>
         </div>
         {facultyContent?.faculty?.map((data, index) => (
-          <div className="col-xl-3 col-lg-4  col-sm-6 col-12 mt--30 d-flex" key={index}>
+          <div
+            className="col-xl-3 col-lg-4  col-sm-6 col-12 mt--30 d-flex"
+            key={index}
+          >
             <div className="rbt-team team-style-default style-three rbt-hover h-100 w-100">
               <div className="inner p-0 h-100 d-flex flex-column">
                 <div className="thumbnail">
@@ -80,7 +85,12 @@ const FacultyPage = ({ facultyContent }) => {
                   {data.email && (
                     <span className="team-form ">
                       <i className="feather-mail me-3"></i>
-                      <span className="location" style={{wordBreak:"break-word"}}>{data.email}</span>
+                      <span
+                        className="location"
+                        style={{ wordBreak: "break-word" }}
+                      >
+                        {data.email}
+                      </span>
                     </span>
                   )}
 
@@ -99,6 +109,18 @@ const FacultyPage = ({ facultyContent }) => {
             </div>
           </div>
         ))}
+
+        {facultyContent?.cardContent && (
+          <div className="section-bg1">
+            <IconCard data={facultyContent?.cardContent} />
+          </div>
+        )}
+
+        {facultyContent?.tableContent && (
+          <div className="section-bg1">
+            <TableCom data={facultyContent?.tableContent} />
+          </div>
+        )}
       </div>
     </>
   );
