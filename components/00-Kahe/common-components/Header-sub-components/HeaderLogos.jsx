@@ -62,13 +62,13 @@ const HeaderLogos = ({ gapSpaceBetween, sticky, navigationEnd, container }) => {
             </div>
             <div className=" d-none d-xl-block">
               <div className="d-flex ">
-                <Image
+                {/* <Image
                   src="/images/splash/topfeature/02.png"
                   width={80}
                   height={50}
                   priority={true}
                   alt="Education Logo Images"
-                />
+                /> */}
 
                 <div className="header-info d-flex flex-column justify-content-center">
                   <ul className="social-share-transparent">
