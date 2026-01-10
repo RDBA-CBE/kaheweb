@@ -57,7 +57,7 @@ const ReportTab = ({ tabSections, tabContent }) => {
     <>
       <div className="course-details-content tab-in section-wid">
         <div className=" rbt-inner-onepage-navigation sticky-top">
-          <TabMenu sections={tabSections} DontshowNav={true} />
+          <TabMenu sections={tabSections} />
         </div>
         {initiativesContent && (
           <section className="section-bg1 " id="annual_report">

@@ -10,7 +10,7 @@ const AboutOverview = ({ data }) => {
               <div className="col-lg-12 col-xl-6 col-12">
                 <div className="thumbnail image-left-content h-100">
                   <Image
-                  className="h-100"
+                    className="h-100"
                     src={data.src}
                     width={960}
                     height={650}
@@ -31,15 +31,28 @@ const AboutOverview = ({ data }) => {
                     </div>
                   )}
                   {data.title && <h4 className="decor-ti">{data.title}</h4>}
+                  {data?.sub_title && (
+                    <p
+                      className="fw-bold fs-3"
+                      dangerouslySetInnerHTML={{ __html: data?.sub_title }}
+                    ></p>
+                  )}
                   {data.content && (
-                    <p className="description sal-animate mb-1" dangerouslySetInnerHTML={{__html:data.content}}></p>
+                    <p
+                      className="description sal-animate mb-1"
+                      dangerouslySetInnerHTML={{ __html: data.content }}
+                    ></p>
                   )}
                   {data?.links && data?.links.length > 0 && (
                     <ul className="split-list sal-animate">
                       {data.links.map((item, innerIndex) => (
                         <li className="d-flex py-0 my-0" key={innerIndex}>
-                          <span className="fw-semibold">{item.title}&nbsp;</span>
-                          <span><a href={item.url}>{item.content}</a></span>
+                          <span className="fw-semibold">
+                            {item.title}&nbsp;
+                          </span>
+                          <span>
+                            <a href={item.url}>{item.content}</a>
+                          </span>
                         </li>
                       ))}
                     </ul>
