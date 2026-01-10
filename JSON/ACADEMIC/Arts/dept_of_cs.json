@@ -74,9 +74,9 @@
             "content": [
               {
                 "title1": "Head of the Department (HOD)",
-                "title": "Dr.K. Devasenapathy",
+                "title": "Dr.S.Mythili",
                 "caption": "Professor and Head",
-                "content": "Welcome to the Department of Computer Science — a space where knowledge, innovation, and purpose converge to inspire the technology leaders of tomorrow. We are committed to nurturing curiosity, encouraging creativity, and empowering learners to transform their aspirations into meaningful achievements.Our department offers three programmes—Computer Technology, Cognitive Systems, and Cyber Security—that blend strong computing foundations with advanced technological domains. This integrated approach empowers students to build intelligent systems, secure digital environments, and explore emerging frontiers in the digital world.With a vibrant learning ecosystem, modern laboratories, specialised facilities, and a dedicated faculty team, students are immersed in real-time problem solving, AI-driven applications, and project-based learning that reflect the demands of today’s global tech landscape. Each programme is thoughtfully designed to prepare adaptable, innovative, and industry-ready professionals capable of contributing to a rapidly evolving digital future.As you start your journey with us, I encourage you to explore with enthusiasm, reason with depth, and innovate with purpose. Allow your curiosity to uncover new insights, and your vision to contribute to a smarter and more connected world",
+                "content": "Computer Science Department is supported by a dedicated team of expert faculty and equipped with state-of-the-art labs and Well-structured classrooms that create an engaging learning environment. We offer a well-structured curriculum that blends theory with practical skills, supported by real-time problem-solving, industry-based projects, and extensive internship opportunities.With strong placement training, international exposure, and start-up support through KIIC, we are committed to preparing our students to excel in leading industries and to innovate with confidence.We continuously adopt innovative ICT-enabled teaching methods to ensure that students stay updated with the latest technological developments. This approach not only enhances their academic understanding but also builds their ability to adapt to the fast-evolving digital world.Our department strongly believes in holistic development. Along with academic excellence, we encourage students to participate in technical events, research activities, and professional clubs that help them build leadership qualities, communication skills, and a spirit of teamwork. We aim to produce graduates who are not only skilled professionals but also responsible contributors to society.",
                 "src": "/images/Kahe/team-13.png"
               }
             ]
@@ -91,99 +91,139 @@
         "content": [
           {
             "key": "ug",
-            "title": "B.Sc. Computer Technology",
+            "title": "Undergraduate Programmes",
             "img": "/images/others/health-b-02.png",
             "multiItems": [
               {
-                "title": "Programme",
-                "desc": "Undergraduate Programme in Computer Technology"
+                "title": "UG",
+                "desc": "B.Sc. Computer Science"
+              }
+            ],
+            "type": "programme"
+          },
+          {
+            "key": "pg",
+            "title": "Postgraduate Programmes",
+            "img": "/images/others/health-b-02.png",
+            "multiItems": [
+              {
+                "title": "PG",
+                "desc": "M.Sc. Computer Science"
+              }
+            ],
+            "type": "programme"
+          },
+          {
+            "key": "research",
+            "title": "Research Programmes",
+            "img": "/images/others/health-b-02.png",
+            "multiItems": [
+              {
+                "title": "Research",
+                "desc": "Ph.D. Computer Science"
               }
             ],
             "type": "programme"
           }
-        ]
+        ],
+        "note": "*Industry Specific Curriculum in association with TATA Consultancy Services"
       },
       "curriculum": {
         "title": "Curriculum",
         "content": [
-          
           {
-            "key": "bsc-ct",
-            "title": "B.Sc. Computer Technology",
+            "key": "bsc-cs",
+            "title": "B.Sc. Computer Science",
             "img": "/images/others/health-b-02.png",
             "type": "curriculum",
             "items": [
               {
                 "year": "2020-2021",
-                "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/07/B.ScCT-2020-2021.pdf"
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/07/B.Sc_.-Computer-Science-2020-2021.pdf"
               },
               {
                 "year": "2021-2022",
-                "link": "https://kahedu.edu.in/n/wp-content/uploads/2021/11/B.Sc-CT-Syllabus-2021-2022.pdf"
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2021/11/B.Sc-Computer-Science-Syllabus-2021-2022.pdf"
               },
               {
                 "year": "2022-2023",
-                "link": "https://kahedu.edu.in/n/wp-content/uploads/2022/07/8A_BSc_CS_CT.pdf"
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2022/07/8C_BSc_CS.pdf"
               },
               {
                 "year": "2023-2024",
-                "link": "https://kahedu.edu.in/n/wp-content/uploads/2024/04/2023-2024-B.SC-CT-SYLLABUS.pdf"
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2024/04/B.Sc-CS-Syllabus-2023-2024.pdf"
               },
               {
                 "year": "2024-2025",
-                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/01/B.Sc_.-CT.pdf"
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/01/B.Sc-Computer-Science.pdf"
               },
               {
                 "year": "2025-2026",
-                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/09/B.Sc-CT-2025-2026-Syllabus.pdf"
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/09/Final-B.Sc-CS-SYLLABUS-2025-2028.pdf"
               }
             ]
           },
           {
-            "key": "bsc-cs-cognitive",
-            "title": "B.Sc. Computer Science (Cognitive Systems)",
+            "key": "msc-cs",
+            "title": "M.Sc. Computer Science",
             "img": "/images/others/health-b-02.png",
             "type": "curriculum",
             "items": [
               {
                 "year": "2020-2021",
-                "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/07/B.Sc-CS-COG-2020-2021.pdf"
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/07/M.ScCS-2020-2021.pdf"
               },
               {
                 "year": "2021-2022",
-                "link": "https://kahedu.edu.in/n/wp-content/uploads/2022/09/2021-BSc-CS-COG-SYS-COLOR-CODED.pdf"
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2021/11/M.Sc-Computer-Science-Syllabus-2021-2022.pdf"
               },
               {
                 "year": "2022-2023",
-                "link": "https://kahedu.edu.in/n/wp-content/uploads/2022/07/8D_BSc_CS_CG.pdf"
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2022/07/8F_MSc_CS.pdf"
               },
               {
                 "year": "2023-2024",
-                "link": "https://kahedu.edu.in/n/wp-content/uploads/2024/04/B.Sc-Cog-_syllabus-2023-2024.pdf"
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2023/08/MSc_Full_Syllabus_28_8_23.pdf"
               },
               {
                 "year": "2024-2025",
-                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/01/B.Sc-CS-Cognitive-Systems.pdf"
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/01/M.Sc-Computer-Science.pdf"
               },
               {
                 "year": "2025-2026",
-                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/09/B.Sc-CSCognitive-Systems-2025-2026-Syllabus.pdf"
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/09/FINAL-M.Sc-CS-2025-2027.pdf"
               }
             ]
           },
           {
-            "key": "bsc-cs-cyber",
-            "title": "B.Sc. Computer Science (Cyber Security)",
+            "key": "phd-cs",
+            "title": "Ph.D. Computer Science",
             "img": "/images/others/health-b-02.png",
             "type": "curriculum",
             "items": [
               {
+                "year": "2020-2021",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/07/Ph.D-Computer-Science-2020-2021.pdf"
+              },
+              {
+                "year": "2021-2022",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2021/11/Ph.D-Computer-Science-Syllabus-2021-2022.pdf"
+              },
+              {
+                "year": "2022-2023",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2022/09/Phd_CS_2022_Syllabus.pdf"
+              },
+              {
+                "year": "2023-2024",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2023/08/final-merged-ph.d-28.8.23.pdf"
+              },
+              {
                 "year": "2024-2025",
-                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/01/B.Sc-CS-Cyber-Security.pdf"
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/01/Ph.D-Computer-Science.pdf"
               },
               {
                 "year": "2025-2026",
-                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/09/B.Sc-CSCyber-Security-2025-2026-Syllabus.pdf"
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/09/FINAL-Ph.D-CS-2025-2026.pdf"
               }
             ]
           }
@@ -191,8 +231,208 @@
       }
     },
     {
+      "tab": "Infrastructure",
+      "items": [
+        {
+          "type": "laboratories",
+          "title": "Facilities / Infrastructure List",
+          "desc": "The UG, PG and Research labs of the department contains all the important equipment and offers an all-inclusive atmosphere for the students to work around. ",
+          "content": [
+            "Fermenter",
+            "HPLC",
+            "GC-FID",
+            "Walk-in Cold Room",
+            "Walk-in Hot Room",
+            "Multi ELISA Reader",
+            "Freeze Drier",
+            "Phase Contrast Microscope",
+            "Shaker Incubator",
+            "PCR",
+            "Agarose Gel Electrophoresis",
+            "SDS-PAGE Electrophoresis"
+          ]
+        },
+        {
+          "type": "equipment",
+          "title": "Major Research Equipments",
+          "content": [
+            "Agarose Gel Electrophoresis",
+            "SDS-PAGE Apparatus",
+            "Sonicator",
+            "Shaker Incubator",
+            "Phase Contrast Microscope",
+            "PCR",
+            "Multi plate ELISA Reader",
+            "Freeze Drier",
+            "Fermentor",
+            "HPLC",
+            "GC-FID",
+            "Walk-in Cold Room",
+            "Walk-in Hot Room"
+          ]
+        },
+        {
+          "type": "library",
+          "title": "Department Library",
+          "desc": "The department has outstanding library facilities, which comprises up-to-date editions of Books, National/International Journals and Magazines covering all fields of Microbiology",
+          "content": [
+            "Bacteriology",
+            "Virology",
+            "Microbial Physiology",
+            "Microbial Genetics",
+            "Mycology",
+            "Parasitology",
+            "Immunology",
+            "Industrial Microbiology",
+            "Environmental Microbiology"
+          ]
+        },
+        {
+          "type": "gallery",
+          "slug": "department-of-microbiology",
+          "breadcrumbItems": [
+            {
+              "label": "Academics",
+              "href": "academics"
+            },
+            {
+              "label": "Arts, Science, Commerce and Management",
+              "href": "academics/arts-science-and-humanities/"
+            },
+            {
+              "label": "Department of Microbiology",
+              "href": "/academics/arts-science-and-humanities/department-of-microbiology"
+            },
+            {
+              "label": "Gallery"
+            }
+          ],
+          "images": [
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Fermentor-1024x576.jpg",
+              "alt": "Fermentor",
+              "title": "Fermentor"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Cold-room-facility.jpg",
+              "alt": "Cold room facility",
+              "title": "Cold room facility"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Shaker-Incubator-717x1024.jpg",
+              "alt": "Shaker Incubator",
+              "title": "Shaker Incubator"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Laminar-Airflow-Chamber-2-1024x493.jpg",
+              "alt": "Laminar Airflow Chamber -2",
+              "title": "Laminar Airflow Chamber"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Laminar-Airflow-Chamber-1-1024x597.jpg",
+              "alt": "Laminar Airflow Chamber -1",
+              "title": "Laminar Airflow Chamber"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Phase-Contrast-Microscope.jpg",
+              "alt": "Phase Contrast Microscope",
+              "title": "Phase Contrast Microscope"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Practical-Session-4-1024x768.jpg",
+              "alt": "Practical Session-4",
+              "title": "Practical Session"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Practical-Session-3-768x1024.jpg",
+              "alt": "Practical Session-3",
+              "title": "Practical Session"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Practical-Session-2-768x1024.jpg",
+              "alt": "Practical Session-2",
+              "title": "Practical Session"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Practical-Session-1-1024x768.jpg",
+              "alt": "Practical Session-1",
+              "title": "Practical Session"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/ug-lab-150x150.jpg",
+              "alt": "Best UG lab facilities at Karpagam Academy"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/pg-lab-150x150.jpg",
+              "alt": "Best Research lab facilities at KAHE"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/research-lab-150x150.jpg",
+              "alt": "Best Research lab facilities at Karpagam Academy"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/3-scaled-150x150.jpg",
+              "alt": "Best Research lab facilities at Karpagam Academy of Higher Education"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/4-scaled-150x150.jpg",
+              "alt": "Best lab facilities at Karpagam Academy of Higher Education"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/5-150x150.jpg",
+              "alt": "Best lab facilities at Karpagam Academy"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/6-150x150.jpg",
+              "alt": "Best lab facilities at KAHE"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/7-150x150.jpg",
+              "alt": "Best lab facilities"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/1-scaled-150x150.jpg",
+              "alt": "Best Microbiology lab"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/2-scaled-150x150.jpg",
+              "alt": "Microbiology lab"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/1-8-150x150.jpg",
+              "alt": "Karpagam Academy - Department of Microbiology"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/2-7-150x150.jpg",
+              "alt": "Department of Microbiology - Top College In Coimbatore, India"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/3-6-150x150.jpg",
+              "alt": "Department of Microbiology - Top College In Coimbatore, Tamilnadu"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/4-3-150x150.jpg",
+              "alt": "Department of Microbiology - Top College In Coimbatore"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/5-3-150x150.jpg",
+              "alt": "KAHE's Department of Microbiology"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/6-2-150x150.jpg",
+              "alt": "Department of Microbiology - top engineering colleges in coimbatore, India"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/7-1-150x150.jpg",
+              "alt": "Department of Microbiology - best placement colleges in coimbatore"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "tab": "Faculty",
-      "slug": "department-of-computer-technology",
+      "slug": "department-of-computer-science",
       "basic": {
         "title": "Faculty",
         "description": "",
@@ -210,7 +450,7 @@
         },
         {
           "label": "Department of Computer Science",
-          "href": "/academics/arts-science-and-humanities/department-of-computer-technology"
+          "href": "/academics/arts-science-and-humanities/department-of-computer-science"
         },
         {
           "label": "Faculty"
@@ -218,189 +458,223 @@
       ],
       "faculty": [
         {
-          "name": "Dr K Devasenapathy",
-          "designation": "HOD & Associate Professor",
-          "qualification": [
-            "MCA",
-            "M.Phil",
-            "Ph.D"
-          ],
-          "specialization": [],
-          "email": [
-            "ct.hod@kahedu.edu.in"
-          ],
-          "src": "",
-          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Dr.K.Devasenapathy.pdf",
+          "name": "Dr Mythili S",
+          "qualification": "MCA, M.Phil., Ph.D., SET, NET",
+          "designation": "Professor & Head",
+          "email": "",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2026/01/01-Dr.S.Mythili.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
           "target": "_blank"
         },
         {
-          "name": "Dr A Faritha Banu",
+          "name": "Dr Veni S",
+          "qualification": "M.Sc., M.Phil., Ph.D., SET",
+          "designation": "Professor",
+          "email": "",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2026/01/02-Dr.-S.-Veni.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Mr Yuvaraj K",
+          "qualification": "MCA, M.Phil., (Ph.D.)",
           "designation": "Assistant Professor",
-          "qualification": [
-            "MCA",
-            "M.Phil",
-            "M.E",
-            "Ph.D"
-          ],
-          "specialization": [],
-          "email": [
-            "farithabanu.ahamedsheriff@kahedu.edu.in"
-          ],
-          "src": "",
-          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Dr.A.Faritha-banu.pdf",
+          "email": "",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2026/01/03-Mr.-K.-Yuvaraj.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
           "target": "_blank"
         },
         {
-          "name": "Mr K Prabu",
+          "name": "Dr Kathirvel K",
+          "qualification": "M.Sc., M.Phil., Ph.D.",
           "designation": "Assistant Professor",
-          "qualification": [
-            "M.Sc",
-            "M.Phil"
-          ],
-          "specialization": [],
-          "email": [
-            "kkprabu21@gmail.com"
-          ],
-          "src": "",
-          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/K.Prabhu.pdf",
+          "email": "",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2026/01/04-Dr.-K.-Kathrivel.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
           "target": "_blank"
         },
         {
-          "name": "Ms P Archana",
+          "name": "Dr Vasanthakumar S",
+          "qualification": "MCA, M.Phil., Ph.D.",
           "designation": "Assistant Professor",
-          "qualification": [
-            "M.Sc Computer Science"
-          ],
-          "specialization": [],
-          "email": [
-            "archana.periasamy@kahedu.edu.in"
-          ],
-          "src": "",
-          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/P.ARCHANA.pdf",
+          "email": "",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2026/01/05-Dr.-S.-Vasanthakumar.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
           "target": "_blank"
         },
         {
-          "name": "Mrs H Gunavathi",
+          "name": "Ms Vinitha A",
+          "qualification": "MCA, MBA",
           "designation": "Assistant Professor",
-          "qualification": [
-            "M.Sc (CS)",
-            "M.Phil (CS)",
-            "(Ph.D)"
-          ],
-          "specialization": [],
-          "email": [
-            "gunavathy.sakthivel@kahedu.edu.in"
-          ],
-          "src": "",
-          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/H.GUNAVATHY.pdf",
+          "email": "",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2026/01/06-Ms.-A.-Vinitha.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
           "target": "_blank"
         },
         {
-          "name": "Ms R Sivaranjani",
+          "name": "Mr Arunkumar N",
+          "qualification": "M.Sc., M.Phil.",
           "designation": "Assistant Professor",
-          "qualification": [
-            "BCA",
-            "MCA"
-          ],
-          "specialization": [],
-          "email": [
-            "sivaranjani.rajakumar@kahedu.edu.in"
-          ],
-          "src": "",
-          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/R-SIVARANJANI.pdf",
+          "email": "",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2026/01/07-Mr.-N.-Arunkumar.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
           "target": "_blank"
         },
         {
-          "name": "Ms A S Deeppana",
+          "name": "Ms R Nandhini",
+          "qualification": "MCA",
           "designation": "Assistant Professor",
-          "qualification": [
-            "MCA",
-            "Ph.D"
-          ],
-          "specialization": [],
-          "email": [
-            "deeppana.asubramaniam@kahedu.edu.in"
-          ],
-          "src": "",
-          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/A.S.-DEEPPANA.pdf",
+          "email": "",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2026/01/08-Ms.-R.-Nandhini.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
           "target": "_blank"
         },
         {
-          "name": "Dr K Lakshmipriya",
-          "designation": "Associate Professor",
-          "qualification": [
-            "M.Sc (CS)",
-            "M.Phil",
-            "Ph.D"
-          ],
-          "specialization": [],
-          "email": [
-            "lakshmipriya.krishnan@kahedu.edu.in"
-          ],
-          "src": "",
-          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Dr.-K.-LAKSHMI-PRIYA.pdf",
-          "target": "_blank"
-        },
-        {
-          "name": "Mrs R Poongodi",
+          "name": "Mrs T Prabhavathi",
+          "qualification": "M.Sc., M.Phil.",
           "designation": "Assistant Professor",
-          "qualification": [
-            "M.Sc",
-            "M.Phil"
-          ],
-          "specialization": [],
-          "email": [
-            "poongodi.rajan@kahedu.edu.in"
-          ],
-          "src": "",
-          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/R-.Poongodi.pdf",
+          "email": "",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2026/01/09-Mrs.-T.-Prabhavathi.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
           "target": "_blank"
         },
         {
-          "name": "Mr G Santhana Krishnan",
+          "name": "Mrs P Ranjani",
+          "qualification": "MCA",
           "designation": "Assistant Professor",
-          "qualification": [
-            "MCA",
-            "SET",
-            "(Ph.D)"
-          ],
-          "specialization": [],
-          "email": [
-            "santhanakrishnan.gurusaminathan@kahedu.edu.in"
-          ],
-          "src": "",
-          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/G.SANTHANAKRISHNAN.pdf",
+          "email": "",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2026/01/10-Mrs.-P.-Ranjani.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
           "target": "_blank"
         },
         {
-          "name": "Mrs R Menaka",
+          "name": "Dr A Krishnaveni",
+          "qualification": "M.Sc., M.Phil., Ph.D",
           "designation": "Assistant Professor",
-          "qualification": [
-            "M.Sc (SS)",
-            "M.Phil"
-          ],
-          "specialization": [],
-          "email": [
-            "menaka.rasan@kahedu.edu.in"
-          ],
-          "src": "",
-          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/R.-MENAKA.pdf",
+          "email": "",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2026/01/11-Dr.-A.-Krishnaveni.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
           "target": "_blank"
         },
         {
-          "name": "Ms V Kiruthiga",
+          "name": "Mrs K Renuga",
+          "qualification": "MCA, M.Phil.",
           "designation": "Assistant Professor",
-          "qualification": [
-            "M.Sc (IT)",
-            "B.Ed",
-            "(Ph.D)"
-          ],
-          "specialization": [],
-          "email": [
-            "kiruthigavenkateshp@gmail.com"
-          ],
-          "src": "",
-          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Kiruthiga.V.pdf",
+          "email": "",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2026/01/12-Mrs.-K.-Renuga.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr M M Karthikeyan",
+          "qualification": "Ph.D",
+          "designation": "Assistant Professor",
+          "email": "",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2026/01/13-Dr.-M.M.-karthikeyan.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Mrs S Julie Violet Joyslin",
+          "qualification": "M.Sc., M.Phil",
+          "designation": "Assistant Professor",
+          "email": "",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2026/01/14-Mrs.-S.-Julie-Violet-Joyslin.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Mrs S Divyabharathi",
+          "qualification": "M.Sc., M.Phil, (Ph.D)",
+          "designation": "Assistant Professor",
+          "email": "",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2026/01/15-Mrs.-S.-Divyabharathi.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr M Sivaraman",
+          "qualification": "MCA, Ph.D",
+          "designation": "Assistant Professor",
+          "email": "",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2026/01/16-Dr.-M.-Sivaraman.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr Banumathi A C",
+          "qualification": "MCA, M.Phil, Ph.D",
+          "designation": "Assistant Professor",
+          "email": "",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2026/01/17-Dr.-A.C.-Banumathi.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr J Kanimozhi",
+          "qualification": "MCA, M.Phil, Ph.D",
+          "designation": "Assistant Professor",
+          "email": "",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2026/01/18-Dr.-J.-Kanimozhi.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Mr N Karthick",
+          "qualification": "MCA, M.Phil, (Ph.D)",
+          "designation": "Assistant Professor",
+          "email": "",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2026/01/19-Mr.-N.-Karthick.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr M Devaki",
+          "qualification": "MCA, M.Phil, Ph.D",
+          "designation": "Assistant Professor",
+          "email": "",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2026/01/20-Dr.M.Devaki.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
           "target": "_blank"
         }
       ]
@@ -433,8 +707,82 @@
       }
     },
     {
+      "tab": "students",
+      "title": "students",
+      "content": [
+        {
+          "data1": {
+            "type": "vision",
+            "subTitle": "Achievements /Awards",
+            "src": "/images/Kahe/Innerpages/vision.png",
+            "content": [
+              "Kavitha M of III B.Sc Computer Science has successfully completed the NPTEL Course on Software Testing.",
+              "SuryaKumar V of III B.Sc Computer Science has successfully completed the NPTEL Course on Software Testing.",
+              "Gunaselan V of III B.Sc Computer Science has successfully completed the NPTEL Course on Software Testing.",
+              "Pavithra S of III B.Sc Computer Science has successfully completed the NPTEL Course on Software Testing.",
+              "Parathosh S of III B.Sc Computer Science has successfully completed the NPTEL Course on Software Testing.",
+              "SathyaPriya S of III B.Sc Computer Science has successfully completed the NPTEL Course on Software Testing.",
+              "BalaPragadeesan A of III B.Sc Computer Science has successfully completed the NPTEL Course on Software Testing.",
+              "Kowsalya C of III B.Sc Computer Science has successfully completed the NPTEL Course on Software Testing.",
+              "Sivakavinesh N of III B.Sc Computer Science has successfully completed the NPTEL Course on Software Testing.",
+              "Pechiyammal P of II B.Sc Computer Science has successfully completed the NPTEL Course on Data Science for Engineers.",
+              "Saranya S of II B.Sc Computer Science has successfully completed the NPTEL Course on Data Science for Engineers.",
+              "Pethuraja M of II B.Sc Computer Science has successfully completed the NPTEL Course on Data Science for Engineers.",
+              "Sandhiya A of II B.Sc Computer Science has successfully completed the NPTEL Course on Data Science for Engineers.",
+              "Harshavardhan J of II B.Sc Computer Science has successfully completed the NPTEL Course on Data Science for Engineers."
+            ]
+          },
+          "data2": {
+            "type": "mission",
+            "subTitle": "Placements",
+            "src": "/images/Kahe/Innerpages/goal.png",
+            "multiContent": [
+              {
+                "title": "OVERALL PLACEMENT DATA",
+                "contentList": [
+                  "A two-day National Conference on “Strategies to combat the Strategies to Combat the Menace of Multidrug Resistant (MDR) Pathogens” was organized by the Department of Microbiology, FASCM, Karpagam Academy of Higher Education, during 07-03-2025 and 08-03-2025."
+                ]
+              },
+              {
+                "title": "LIST OF COMPANIES",
+                "subTitle": "B.Sc Computer Science",
+                "contentList": [
+                  "TCS – 36",
+                  "ACCENTURE – 21",
+                  "KGIS – 18",
+                  "COGNIZENT – 10",
+                  "EY GLOBAL – 9",
+                  "ENVISION S/W – 6",
+                  "WIPRO – 6",
+                  "LTI MINDTREE – 4",
+                  "AR TECH – 2",
+                  "NEXT SYNC – 2",
+                  "DELOITTE – 1",
+                  "GEP – 1",
+                  "HEXAWARE – 1"
+                ]
+              },
+              {
+                "title": "LIST OF COMPANIES",
+                "subTitle": "B.Sc Computer Science",
+                "contentList": [
+                  "UiTM Cawangan Terengganu, Malayasia",
+                  "National Chaung Cheng University, Taiwan",
+                  "Kriya & Reeths , Coimbatore",
+                  "VeePhoniex Compliance Pvt.Ltd, Coimbatore",
+                  "GEP Solutions, Coimbatore",
+                  "BrandMock , Coimbatore",
+                  "EdVedha, Coimbatore"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
       "tab": "Publications",
-      "slug": "department-of-computer-technology",
+      "slug": "department-of-computer-science",
       "breadcrumbItems": [
         {
           "label": "Academics",
@@ -446,7 +794,7 @@
         },
         {
           "label": "Department of Computer Science",
-          "href": "/academics/arts-science-and-humanities/department-of-computer-technology"
+          "href": "/academics/arts-science-and-humanities/department-of-computer-science"
         },
         {
           "label": "Publication"
@@ -532,7 +880,7 @@
     },
     {
       "tab": "Events",
-      "slug": "department-of-computer-technology",
+      "slug": "department-of-computer-science",
       "breadcrumbItems": [
         {
           "label": "Academics",
@@ -544,7 +892,7 @@
         },
         {
           "label": "Department of Computer Science",
-          "href": "/academics/arts-science-and-humanities/department-of-computer-technology"
+          "href": "/academics/arts-science-and-humanities/department-of-computer-science"
         },
         {
           "label": "Events"
@@ -552,92 +900,221 @@
       ],
       "items": [
         {
-          "title": "Event Organized",
+          "title": "Events",
           "multiContent": [
             {
-              "title": "",
-              "content": [
-                "Students listening to the talk on Transforming Innovative Ideas into IT Startups on 24-06-2025"
-              ],
-              "images": {
-                "images": [
-                  {
-                    "id": 1,
-                    "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Students-listening-to-the-talk-on-Transforming-Innovative-Ideas-into-IT-Startups-on-24-06-2025-1024x387.png",
-                    "alt": "Karpagam Academy of Higher Education | best b com accounting and finance colleges in coimbatore"
-                  }
-                ]
-              }
+              "title": "Conference",
+              "contentList": [
+                "Seminar “Hardware-Assisted Virtualization Technologies in OS” on 17-06.2025",
+                "Two-Day Hands-on Training Session on “Creating and Identifying Phishing Attacks using Go Phish” on 26-06-2025 and 27-06-2025",
+                "Three-Day Bootcamp – “Bootcamp Blitz 2025: Design, Code & Conquer” on 15-07-2025 to 17-07-2025",
+                "Guest Lecture on The Role of AI in Digital Marketing: Personalized Campaigns and Predictive Analytics on 22-08-2025",
+                "Two-Days Hands on Training – “Python Full Stack Development” on 6-8-2025 to 07-08-2025",
+                "Seminar on “Opportunities on Data Science & Machine Learning” on 08-08-2025",
+                "Seminar on “Intrinsic Skills Development” on 26-08.2025",
+                "Guest Lecture on “AI in Natural Language Processing: Making Machines Understand Language” on 12-09-2025",
+                "Workshop on “Step into Mobile Innovation: Android Development Workshop” on 16-09-2025 & 17-09-2025",
+                "Seminar on Indian Knowledge Systems: Information and Initiatives on 17-09-2025",
+                "Day Celebration “National Unity Day-Sardar Vallabhbhai Patel Birthday” on 31-10-2025",
+                "Entrepreneurship as a Career Choice on 03-11-2024",
+                "RPA – Robotics Process Automation 18-09-2024 to 19-09-2024",
+                "Usage of Online Coding Platforms on 29-08-2024 to 30-08-2024",
+                "Startup Innovation Business Plan – Best Innovations – Business Plan Competition on 16-08-2023 to 17-08-2023 and 21-08-2023",
+                "Step by Step Guide to PAN & AADHAR Application and their Importance on 28-08-2024",
+                "Career Opportunities Counselling on Computer Science on 19-07-2024",
+                "Website Design Process and Web application Development Tools on 03-07-2024 to 04-07-2024",
+                "Prototype Design Process and Development in Digital Products on 24-06-2024 to 25-06-2024",
+                "Techno Buzz 2024 – Technical Symposium for Students on 06.02.2024 to 08.02.2024",
+                "Web Designing and Hosting 22-01-2024 to 23-01-2024",
+                "Two Days Training Programme on Cyber Security Penetration testing for beginners",
+                "Android Programming on 23-01-2024 to 24-01-2024",
+                "One day Skill and Training programme on word press web development essentials: A Practical Skill Development Workshop on 05-02-2024",
+                "Web Designing and Maintenance on 05-02-2024 to 07-02-2024",
+                "One day Career Counselling Programme for Competitive Exams on 14-02-2024",
+                "Achieving Problem Solution fit & Problem Market Fit on 08-03-2024",
+                "Awareness Programme on Women Welfare Schemes",
+                "Building Innovative Application Using Python on 17-07-2023 to 18-07-2023",
+                "Recent Trends in IOT Applications on 20-07-2023",
+                "Data Science & Machine Learning on 27-07-2023",
+                "Latest Innovations in Artificial Intelligence & Machine Learning on 21-08-2023",
+                "One Day Orientation Programme for Competitive Exams on 08-11-2023"
+              ]
             },
             {
-              "title": "",
-              "content": [
-                "Resource Person Dr.Karthik Rengarajan addresses to Students related to Transform Innovative Ideas into IT Startups on 24-06-2025"
-              ],
-              "images": {
-                "images": [
-                  {
-                    "id": 1,
-                    "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Resource-Person-Dr.Karthik-Rengarajan-addresses-to-Students-related-to-Transform-Innovative-Ideas-into-IT-Startups-on-24-06-2025-1024x377.png",
-                    "alt": "Karpagam Academy of Higher Education | best b com accounting and finance colleges in coimbatore"
-                  }
-                ]
-              }
-            },
-            {
-              "title": "",
-              "content": [
-                "Resource Person Dr.M.Balamurugan addresses to Students related to Recent Innovations in Data Science and Data Analytics on 28th July 2025."
-              ],
-              "images": {
-                "images": [
-                  {
-                    "id": 1,
-                    "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Resource-Person-Dr.M.Balamurugan-addresses-to-Students-related-to-Recent-Innovations-in-Data-Science-and-Data-Analytics-on-28th-July-2025-1024x356.png",
-                    "alt": "Karpagam Academy of Higher Education | best b com accounting and finance colleges in coimbatore"
-                  }
-                ]
-              }
-            },
-            {
-              "title": "",
-              "content": [
-                "Resource Person Dr.M.Balamurugan addresses to Students related to Recent Innovations in Data Science and Data Analytics on 28th July 2025."
-              ],
-              "images": {
-                "images": [
-                  {
-                    "id": 1,
-                    "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Resource-Person-Dr.M.Balamurugan-addresses-to-Students-related-to-Recent-Innovations-in-Data-Science-and-Data-Analytics-on-28th-July-2025-1024x356.png",
-                    "alt": "Karpagam Academy of Higher Education | best b com accounting and finance colleges in coimbatore"
-                  }
-                ]
-              }
+              "title": "SKILL DEVELOPMENT COURSES CONDUCTED",
+              "contentList": [
+                "Conducted a course on Selenium Testing",
+                "Conducted a course on Next Generation Data Analytics"
+              ]
             }
           ]
         },
         {
-          "title": "Seminar",
+          "title": "Events",
           "content": [
-            "Two-day seminar on “Innovation in Cloud Computing: Transforming the Future of Digital Infrastructure” on 18.09.2025 and 19.09.2025.",
-            "Seminar on “UPSC: A Gateway to Government Jobs” on 04.08.2025.",
-            "Seminar on “Design Thinking: A Social Perspective” on 31.07.2025."
+            "Seminar “Hardware-Assisted Virtualization Technologies in OS” on 17-06.2025",
+            "Two-Day Hands-on Training Session on “Creating and Identifying Phishing Attacks using Go Phish” on 26-06-2025 and 27-06-2025",
+            "Three-Day Bootcamp – “Bootcamp Blitz 2025: Design, Code & Conquer” on 15-07-2025 to 17-07-2025",
+            "Guest Lecture on The Role of AI in Digital Marketing: Personalized Campaigns and Predictive Analytics on 22-08-2025",
+            "Two-Days Hands on Training – “Python Full Stack Development” on 6-8-2025 to 07-08-2025",
+            "Seminar on “Opportunities on Data Science & Machine Learning” on 08-08-2025",
+            "Seminar on “Intrinsic Skills Development” on 26-08.2025",
+            "Guest Lecture on “AI in Natural Language Processing: Making Machines Understand Language” on 12-09-2025",
+            "Workshop on “Step into Mobile Innovation: Android Development Workshop” on 16-09-2025 & 17-09-2025",
+            "Seminar on Indian Knowledge Systems: Information and Initiatives on 17-09-2025",
+            "Day Celebration “National Unity Day-Sardar Vallabhbhai Patel Birthday” on 31-10-2025",
+            "Entrepreneurship as a Career Choice on 03-11-2024",
+            "RPA – Robotics Process Automation 18-09-2024 to 19-09-2024",
+            "Usage of Online Coding Platforms on 29-08-2024 to 30-08-2024",
+            "Startup Innovation Business Plan – Best Innovations – Business Plan Competition on 16-08-2023 to 17-08-2023 and 21-08-2023",
+            "Step by Step Guide to PAN & AADHAR Application and their Importance on 28-08-2024",
+            "Career Opportunities Counselling on Computer Science on 19-07-2024",
+            "Website Design Process and Web application Development Tools on 03-07-2024 to 04-07-2024",
+            "Prototype Design Process and Development in Digital Products on 24-06-2024 to 25-06-2024",
+            "Techno Buzz 2024 – Technical Symposium for Students on 06.02.2024 to 08.02.2024",
+            "Web Designing and Hosting 22-01-2024 to 23-01-2024",
+            "Two Days Training Programme on Cyber Security Penetration testing for beginners",
+            "Android Programming on 23-01-2024 to 24-01-2024",
+            "One day Skill and Training programme on word press web development essentials: A Practical Skill Development Workshop on 05-02-2024",
+            "Web Designing and Maintenance on 05-02-2024 to 07-02-2024",
+            "One day Career Counselling Programme for Competitive Exams on 14-02-2024",
+            "Achieving Problem Solution fit & Problem Market Fit on 08-03-2024",
+            "Awareness Programme on Women Welfare Schemes",
+            "Building Innovative Application Using Python on 17-07-2023 to 18-07-2023",
+            "Recent Trends in IOT Applications on 20-07-2023",
+            "Data Science & Machine Learning on 27-07-2023",
+            "Latest Innovations in Artificial Intelligence & Machine Learning on 21-08-2023",
+            "One Day Orientation Programme for Competitive Exams on 08-11-2023"
           ]
         },
         {
-          "title": "Others",
+          "title": "National / International Conference",
           "content": [
-            "Two days’ Workshop on “Design of Cloud Infrastructure and Optimization” on 20.11.2025 and 21.11.2025.",
-            "Association Inauguration on 19.08.2025.",
-            "Seminar on “UPSC: A Gateway to Government Jobs” on 04.08.2025.",
-            "Seminar on “Design Thinking: A Social Perspective” on 31.07.2025."
+            "National conference on “Emerging  Technologies: Robotics and IOT” (NCET ‘2020) conducted on February 28, 2020 by Mr.Sarathkumar Karunakaran, Software Developer, cognivgmbh, Bonn, Germany, has acted as the Chief guest of the inaugural function.",
+            "National conference on “Recent Trends and Advances in the Field of Information Technology” conducted on September 27, 2019 by Dr.M.Sundaresan, Professor, Department of  IT, Bharathiyar University, Coimbatore.",
+            "National Conference on “Emerging Trends in Computing and Communication” (NCCC’17)  was conducted on February 17, 2017. Dr.M.Hanumanthappa Professor & Chairman, Department of Computer Science & Applications, Bangalore University, Bangalore, has acted as the Chief guest of the inaugural function.",
+            "A Karpagam Academy of Higher Education sponsored 4th National Conference on “Recent trends and Advances in Information Technology” on September 23, 2016 with Dr. Devi, Bharathiar University Coimbatore as a resource person which had 250 Participants.",
+            "A Karpagam Academy of Higher Education sponsored 3rd National Conference on “Recent Trends and Advances in Information Technology”, conducted on March 11, 2014 with  Dr. Devi, Bharathiar University Coimbatore as a resource person which had 185 Participants.",
+            "A Karpagam Academy of Higher Education sponsored 2nd National Conference on “Recent Trends and Advances in Information Technology” was conducted on October 20, 2012 with Dr. R. Rajesh Bharathiar University, Coimbatore as resource person which had 105 Participants."
+          ]
+        },
+        {
+          "title": "National Seminar",
+          "content": [
+            "National Webinar on “Big Data Analytics” on November 10, 2020 by Dr.Gakwaya N Joel, Assistant Professor, Department of Computer Science, Lowry Memorial College, Bangalore.",
+            "National Webinar on “Cascade Style Sheets” on November 16, 2020 by S.Karthik, Developer TCS, Chennai.",
+            "National Webinar on “Hadoop Framework” on November 20, 2020 by Dr.B.M.Bandgar,Associate Professor, JSPM’s Rajashi Shahu College of Engineering, Pune.",
+            "Power Seminar on “Career Opportunities for IT & ITES Sector” in association with ICT Academy on 25.01.2020. Resource persons were   Ms. Vaishnavee Balaji, Founder, Food Bank, Coimbatore & Youth India, Mr.Manoj Chenthamarakshan , Positive store – e commerce Business, Mr.Prashanth Ganesh, Devops Team Ltd, RFPio Inc , Coimbatore, Mr. Ajay Balaji, Partner Advisor, RFPio Ic, Coimbatore",
+            "National Seminar on “Open-Source Software Computing Tools for Researchers” on January 27, 2017 by Dr. D. H. Manjaiah, Professor, Department of Computer Science, Mangalore University Mangalagangotri, Mangalore- 574 199 Karnataka.",
+            "National Seminar on “Tools And Techniques To Do A Research & To Improve Scholarly Writing Skills” was conducted on July 30, 2016. Dr.B.Ramdoss, Former Head & Professor, Dept. of Computer Applications, National Institute of Technology, Tiruchirappalli has acted as the Resource Person."
+          ]
+        },
+        {
+          "title": "National & State Level Workshop",
+          "content": [
+            "One day National Workshop on “cloud literacy Day” For students on  October 16, 2019.",
+            "Two day state level workshop on “Computer Training for Mobile Applications and Tools” for School Headmasters and Teachers from May 29, 2017 to May 30, 2017.",
+            "State level workshop on “Internet of Things (IoT)” Programme for School Headmasters and Teachers on April 15, 2017.",
+            "National Workshop on “Cyber Security” was conducted on March 03, 2017. Mr. C. Balan, Joint director, CDAC, Thiruvananthapuram, has acted as the Resource Person.",
+            "T.Senthil Kumar Associate Professor, Department of Computer Science and Engineering, Amirta School of Engineering, conducted a workshop on September 02, 2016, Mobile Application Development using Android.",
+            "Mr.M.Easwaran, Software Engineer, Poras Technologies India Pvt ltd, Coimbatore, conducted a Workshop on “Android in Mobile Application” on February 21, 2015 for 150 students of Department of Computer Science.",
+            "Dr.B.RajaThilagam, Professor, Department of CSE, Amrita University conducted a Workshop on “Android in Mobile Application” on March 01, 2014 for 56 students of Department of Computer Science.",
+            "Mr.G.Ramesh from Image Creative Education, Coimbatore, conducted a Workshop on “Multimedia Technology” from September 21, 2013 to September 22, 2013 for 100 students of Department of Computer Science."
+          ]
+        },
+        {
+          "title": "Technical Symposium",
+          "content": [
+            "Technical Symposium on “TECHNOBUZZ” on 19.09.2025 at the Intra-Collegiate Level.",
+            "State Level Technical Symposium “Infosium 2020” conducted on February 12, 2020.",
+            "National Level Technical Symposium “Infosium 2K18” on February 09, 2018.",
+            "State Level Technical Symposium “Infosium 2017” conducted on February 28, 2017.",
+            "Conducted state level technical Symposium “Infosium 2K16” on March 02, 2016, Jointly organized by Department of Computer Science, Computer Applications, Information Technology ."
+          ]
+        },
+        {
+          "title": "Guest Lecture",
+          "content": [
+            "Guest Lecture on “AI in Natural Language Processing: Making Machines Understand Language” on 12.09.2025.",
+            "Guest Lecture on “The Role of AI in Digital Marketing-Personalized campaigns & predictive analytics” on 22.08.2025.",
+            "Webinar on Software Testing with Selenium Tool on 23rd June, 2020 with Mrs.S.Ponmalar, Assistant Professor, Department of Computer science, PSGR Krishnammal college for women, Coimbatore has acted as the Resource Person.",
+            "Webinar on The Future of Future on 16th June, 2020 with Dr. A.Muruganatham, Associate Professor, Department of MCA, Kristu Jayanti College (Autonomous), Bengaluru  has acted as the Resource Person.",
+            "Webinar on Interview Skills on 12th June, 2020 with Mr. K. Manikandan, Head, Training & Placement, New Prince Group of Institutions, Chennai has acted as the Resource Person.",
+            "Webinar on “Advanced Excel” on 10th  June, 2020 with Mr.J.Manoprince, Senior Associate, Amazon, Bangalore has acted as the Resource Person.",
+            "Webinar on “Emerging Technologies 2020” on  10th June, 2020 with Mr.V.Prasanna Sree Hari, Solution Architect, HP INC, Bangalore, has acted as the Resource Person",
+            "Webinar on “Internet of Things” on 1st June, 2020 Dr.T.Amudha, Associate Professor, Department of Computer Applications, Bharathiar University has acted as the Resource Person.",
+            "Webinar series on “Python Programming and CCNAv3” from 16th to 20th June, 2020 and Mr.Poovaragavan Velumani, Master Trainer, IBM Edunet has acted as the Resource Person.",
+            "Webinar on “Introduction to AI and ML” on 28th May, 2020 and Mr. A L Sreedeep, Project Engineer, CDAC, Trivandrum has acted as the Resource Person.",
+            "Webinar on “Latest Web Application Development Trends” on 8th May, 2020 with Mr.M.Thangaraj, Front end developer in Zinier Technologies has acted as the Resource Person.",
+            "Webinar on “Microcontrollers in IOT” on 1st June, 2020 and Ms. Dhanya V S, Principal Engineer, CDAC, Trivandrum has acted as the Resource Person.",
+            "Webinar on “OWASP” on 2nd June, 2020 with Mr. Hiran Bose, Scientist E, CDAC, Trivandrum has acted as the Resource Person.",
+            "Webinar on “Network traffic and flow analysis” on 29th May, 2020 with Mr. Hiran Bose, Scientist E, CDAC, Trivandrum has acted as the Resource Person.",
+            "Webinar on “OSINT for Forensics” on 27th May, 2020 with Mr. Hiran Bose, Scientist E, CDAC, Trivandrum has acted as the Resource Person.",
+            "Webinar on “PHP Developer” on 24th May, 2020  with Resource Person R.B. Ganapathy Raman, PHP Developer, UDI global, Chennai",
+            "Webinar on “Soft skill Development on 23rd May, 2020 with Resource Person Mr. Yuvanesh, Assistant System engineer, Tata Consultancy Services, Chennai.",
+            "Conducted Guest Lecture on January 25, 2020 in “Career Opportunities for IT & ITES Sector” byVaishneevi Balaji Founder ICT Academy.",
+            "Conducted Guest Lecture on January 28, 2020 in “block chain Technology” by  Mr.Yokaraj Manaoharan, Group leader operations, Avantor, Rathinam The park, Coimbatore.",
+            "Conducted guest Lecture on August 22, 2019 in “Struts Framework” by Mr.Nathan S.M, Technical Director, Accent Techno Soft, Coimbatore.",
+            "Conducted Project Training on July 29, 2017 in Citizen Centric Mobile App for   e-Governance service. V.Karthi, Senior Software Developer, NIC, Chennai, acted as Resource person.",
+            "Conducted guest Lecture on July 13, 2017 in Advanced Java, Servelts and Java Beans. Mr.Senthil, Senior Trainer, Sri Krishna I-Tech, Coimbatore acted as resource person.",
+            "Conducted guest Lecture on June 30, 2017 in Advanced Trends in DOT NET Technologies Mr.K.Jeeva, Senior Software Engineer, ASCENTZ Technologies, Coimbatore acted as resource person.",
+            "One day Seminar on “Script Language – JOOMLA” by Mr.Sunil Jose, Director, Amulya Infotech India Pvt.Ltd, Coimbatore on January 27, 2017.",
+            "Guest Lecture on  Real Time Applications of Operations Research on January 06, 2017 by Dr.T.Amudha, Assistant Professor, Department of Computer Science, Bharathiar University, Coimbatore.",
+            "Conducted guest Lecture in “Big Data” on March 10, 2016. Mr.Ravi Venkatraman, Senior Consultant & Head of Deliver Excellence, HP Sofware University, Coimbatore acted as resource person.",
+            "Guest Lecture on E- Learning on September 27, 2016 by Mrs. V.Rachel, Assistant Professor,  Department of Computer Science,  Avinashilingam University for Women,  Coimbatore.",
+            "Conducted guest Lecture in “Internet of Things” on August 23, 2016. Mr.P.S.Felix, Senior Project Manager of CG-VAK Software & Exports Ltd., Coimbatore acted as resource person.",
+            "Conducted guest Lecture in “Big Data on September 23, 2016. Ms.B.Ashwini, Project Leader, Accent TechnoSoft, Coimbatore acted as resource person.",
+            "Conducted guest Lecture in Problem solving Techniques for Programming Languages on February 06, 2015. Ms.Shanthini, Associate Professor, Department of Computer Applications, Sri Ramakrishna Institute of Technology, Coimbatore acted as resource person.",
+            "Conducted guest Lecture in  Internet of Things on December 15, 2015. Dr. R. Lawrance, Director, Department of MCA, Ayya Nadar Janaki Ammal College, Sivakasi  acted as resource person.",
+            "A Special Lecture was delivered by Mr.G.Ramesh Image Creative Education Coimbatore on January 03, 2014 on the topic of Guest Lecture on “Multimedia”.",
+            "A Special Lecture was delivered by S. Thiyagarajan Operations Head Image – Institute of Multimedia Arts and Graphic Effects, on February 24, 2014 on the topic of “Right Career in Multimedia and its Job Opportunities”.",
+            "A Special Lecture was delivered by Dr. L. Arockiam, Associate Professor, Department of Computer Science St.Joseph’s College, Trichy on February 24, 2014 on the topic of Guest Lecture on “Big Data”.",
+            "A Special Lecture was delivered by Mr.Sathish – Production Incharge Apex Institute of Multimedia, Coimbatore on September 05, 2014 on the topic of “Multimedia”.",
+            "A Special Lecture was delivered by Dr.A. Pushparajan, Dean, Dept of Physical Education Karpagam Academy of Higher Education, Coimbatore on September 17, 2014 on the topic of Health and Wellness.",
+            "A Special Lecture was delivered by Prasanth SriHari on August 27, 2013 on the topic of Ethical Hacking.",
+            "A Special Lecture was delivered by The Leadership Team, Save the Globe, Coimbatore on August 27, 2013 on the topic of Leadership Sessions.",
+            "A Special Lecture was delivered by Mr. A. Mohammed Khaja, Director, Mokhmo Institute of technology on September 20, 2013 on the topic of Job Assistance – What current Industries are looking for."
+          ]
+        },
+        {
+          "title": "Guest Lecture",
+          "content": [
+            "Seminar on “Aptitude for Future Opportunities Program” for III B.Sc CS students on 23.12.2025.",
+            "Alumni Talk on “Roadmap to IT success: Placement, Learning and Corporate Life” by our Alumni student Ms. NITYASREE KRISHNASAMY, Business Analyst, Amadeus Software Labs, Bengaluru on 22.12.2025.",
+            "Inauguration of “Code Hub Club” and organize a Poster Presentation competition for the students through the club on “Creativity and Technical Presentation Skills” on 22.12.2025.",
+            "Seminar on “AI Assisted Software Engineering” for the students of KAHE on 22.12.2025.",
+            "An Alumni talk on “Career Path of Programmer Analyst” on 19.12.2025 by our Alumni Student (2019-2022batch) Ms.K.Chandana, Programmer Analyst, Cognizant Technology Solutions, Coimbatore.",
+            "Alumni talk on “Journey of Automation Test Engineer” on 19.12.2025 by our Alumni Student (2019-2022 batch)  Ms.P. Sakthi, Testing Engineer,Nous Infosystems, Coimbatore.",
+            "Two Days IIC Workshop on “Applying Design Thinking to AI Based System Developement” from 10.12.2025 and 11.12.2025.",
+            "Five-day workshop on “Modern Web Application Development with MERN Stack” from 10.12.2025 onwards.",
+            "Five-Days Faculty Development Program on “AI Enhanced Transformations in Wireless Networks and IoT Connectivity” for the Faculty Members across all Computer Science Streams from 08.12.2025 to 12.12.2025.",
+            "Five-Day days Workshop on “Modern Web Application Development with MERN Stack” for the I Year UG 925 Students for the respective UG programmes from 10.12.2025 to 14.12.2025 and 17.12.2025 to 21.12.2025.",
+            "National Cyber Security Research & Development (NCSR & D) centre at our Institution and to Conduct a Faculty Development Programme on “AI -Driven Cyber and Cloud Security: Standards, Privacy, and Emerging Threats” from 04.12.2025 to 06.12.2025.",
+            "National Unity Day on “Role of Youth in Strengthening National Unity” on 31.10.2025.",
+            "Alumni Talk on “Progressing along the technical pathway” on 27.09.2025 by our Alumni student Mr. K. Manikandan is working as a Director – Training & Placement in New Prince Group of Institution, Chennai.",
+            "Organized a Career Counselling Programme on “Pathway to Success TNPSC Career Guidance and Counselling” on 27.09.2025.",
+            "Two days IIC Workshop on “The Role of Intellectual Property Rights in Fostering Innovation in IT” on 24.09.2025 to 25.09.2025",
+            "organize a Career Counselling Programme on “Pathway to Success TNPSC Career Guidance and Counselling” on 27.09.2025.",
+            "Seminar on “TNPSC-Banking Career Boost” on 23.09.2025.",
+            "Two-day workshop on “Step into Mobile Innovation: Android Development Workshop” on 16.09.2025 and 17.09.2025.",
+            "Career Counselling Programme on “Smart Strategies for Cracking Bank and Competitive Examinations” on 02.09.2025.",
+            "One-day seminar on “Indian Knowledge Systems: Information and Initiatives” on 17.09.2025.",
+            "Seminar on “Intrinsic Skills Development” on 26.08.2025.",
+            "Awareness Programme on Cyber Crime for Rural People at Nachipalayam village on 19.08.2025",
+            "Association Inauguration on 22.08.2025.",
+            "Inauguration of Department Association “TECHNOWEB” on 12.08.2025.",
+            "Seminar on “Opportunities on Data Science & Machine Learning” for the I PG students on 08.08.2025.",
+            "Alumni Interaction on “Career Advise” by our Alumni Mr. Vimal Vaibhav A P, Chief Executive Officer, VANNAM DESIGN HUB, Karpagam Industries, Coimbatore on 07.08.2025.",
+            "Seminar on “Postgraduate Careers and Counselling” for the I M.Sc. Computer Science students on 08.08.2025.",
+            "Two Days Hands on Training on “Python Full Stack Development” on 06.08.2025 and 07.08.2025.",
+            "Poster Presentation Competition from 29.07.2025 to 31.07.2025."
           ]
         }
       ]
     },
     {
       "tab": "gallery",
-      "slug": "department-of-computer-technology",
+      "slug": "department-of-computer-science",
       "title": "Gallery",
       "breadcrumbItems": [
         {

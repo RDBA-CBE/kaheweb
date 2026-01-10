@@ -6,7 +6,7 @@ import BreadCrumb from "@/components/00-Kahe/common-components/BreadCrumb";
 // import CourseData from "../../../../../data/course-details/courseData.json";
 import TabInnerSection from "@/components/00-Kahe/Components/TabInnerSection";
 import { subMenu } from "@/JSON/ACADEMIC/Overview";
-import data from "../../../../JSON/ACADEMIC/Arts/dept_of_ct.json";
+import data from "../../../../JSON/ACADEMIC/Arts/dept_of_cs.json";
 import InnerBanner from "@/components/00-Kahe/common-components/InnerBanner";
 import SidebarCopy from "../../common-components/Sidebar2";
 import { Provider } from "react-redux";
@@ -23,7 +23,7 @@ const DepartmentOfComputerScience = () => {
       href: `academics/arts-science-and-humanities/`,
     },
 
-    { label: "Department of Commerce" },
+    { label: "Department of Computer Science" },
   ];
   return (
     <>
