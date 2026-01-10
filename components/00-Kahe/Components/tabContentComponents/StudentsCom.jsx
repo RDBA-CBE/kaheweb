@@ -17,19 +17,23 @@ const StudentsCom = ({ data }) => {
           }}
         ></h2>
       </div>
-     
 
-      {data?.content?.map((item, index) => {
-        return (
-          <div key={index}>
-            {(item?.data1 || item?.data2) && (
-              <div className="section-wid section-bg1">
-                <ImageCard visionItem={item?.data1} missionItem={item?.data2} />
-              </div>
-            )}
-          </div>
-        );
-      })}
+      <section className="d-flex section-wid justify-content-center flex-wrap">
+        {data?.content?.map((item, index) => {
+          return (
+            <div key={index} className="h-100">
+              {(item?.data1 || item?.data2) && (
+                <div className="section-wid section-bg1">
+                  <ImageCard
+                    visionItem={item?.data1}
+                    missionItem={item?.data2}
+                  />
+                </div>
+              )}
+            </div>
+          );
+        })}
+      </section>
     </div>
   );
 };

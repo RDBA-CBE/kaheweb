@@ -1,4 +1,4 @@
-"use client"
+"use client";
 
 import BreadCrumb from "@/components/00-Kahe/common-components/BreadCrumb";
 // import MenuData from "@/data/kahe/MegaMenu.json";

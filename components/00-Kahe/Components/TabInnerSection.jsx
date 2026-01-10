@@ -107,7 +107,7 @@ const TabInnerSection = ({ tabSections, tabContent }) => {
 
         {studentsContent && (
           <div className=" section-bg1" id="students">
-            <StudentsCom data={studentsContent} />
+            <StudentsCom data={studentsContent}/>
           </div>
         )}
 
