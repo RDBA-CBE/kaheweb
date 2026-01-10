@@ -1,0 +1,18 @@
+{
+    "title": "KAHE - Learning Management System (LMS)",
+    "btnText": "View Details",
+    "clsName": "col-lg-3 col-md-6 col-sm-6 col-12",
+    "content": [
+      {
+        "title": "Moodel Server 1",
+        
+        "url": "http://121.200.52.108/login/index.php",
+        "target": "_target"
+      },
+      {
+        "title": "Moodel Server 2",
+        "url": "http://121.200.52.107/login/index.php",
+        "target": "_target"
+      }
+    ]
+  }

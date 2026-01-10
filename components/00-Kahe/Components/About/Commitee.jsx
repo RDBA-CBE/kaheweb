@@ -6,12 +6,15 @@ import Image from "next/image";
 import Link from "next/link";
 
 const Commitee = ({ data, paddingtop = false }) => {
-  console.log("data", data);
-
   return (
     <div className="commitee">
       {data?.title && (
         <div className="decor-ti">{FirstLetterUp(data?.title)} </div>
+      )}
+      {data?.description && (
+        <div className="content">
+          <p>{data.description}</p>
+        </div>
       )}
 
       <div

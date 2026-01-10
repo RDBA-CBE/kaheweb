@@ -1,0 +1,44 @@
+{
+  "title": "KAHE Media Centre - Studio 360° - Media Center and Recording Facility",
+  "video": {
+    "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/new-studio-video.mp4",
+    "title": "KAHE Media Centre Studio 360"
+  },
+  "images": [
+    {
+      "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/Editor-Room-scaled-1024x768.jpg",
+      "alt": "Editor Room"
+    },
+    {
+      "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/Media-Centre-scaled-1024x768.jpg",
+      "alt": "Media Centre"
+    },
+    {
+      "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/Media-Centre_Photos-preperation-Room-scaled-1024x768.jpg",
+      "alt": "Media Centre Photos Preparation Room"
+    },
+    {
+      "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/Media-Centre_Post-Production-Room_1-scaled-1024x768.jpg",
+      "alt": "Media Centre Post Production Room 1"
+    },
+    {
+      "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/Media-Centre_Post-Production-Room_2-scaled-1024x768.jpg",
+      "alt": "Media Centre Post Production Room 2"
+    },
+    {
+      "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/Media-Centre_Reception-scaled-1024x768.jpg",
+      "alt": "Media Centre Reception"
+    },
+    {
+      "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/Studio-Room-scaled-1024x768.jpg",
+      "alt": "Studio Room"
+    }
+  ],
+  "subHeading": "Advanced Media Production Facility",
+  "description": "Our state-of-the-art Studio 360° is equipped with cutting-edge technology for comprehensive media production, broadcasting, and digital content creation. Students gain hands-on experience with professional-grade equipment and industry-standard workflows.",
+  "link": {
+    "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/New-Microsoft-Excel-Worksheet.pdf",
+    "text": "List of Lessons Prepared so far and Submitted to UGC for approval",
+    "target": "_blank"
+  }
+}
