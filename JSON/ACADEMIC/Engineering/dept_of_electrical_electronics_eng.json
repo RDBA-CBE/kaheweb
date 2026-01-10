@@ -248,8 +248,8 @@
       "slug": "department-of-electrical-electronics-engineering",
       "basic": {
         "title": "Faculty",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris",
-        "src": "/images/Kahe/Innerpages/vission.jpg",
+        "description": "The faculty of the Department of Electrical and Electronics Engineering focuses on power systems, control technologies, and intelligent electrical applications. Through hands-on experimentation, system-level problem solving, and technology-driven instruction, the faculty prepares students for advancements in energy, automation, and smart electrical systems.",
+       "src": "/images/Kahe/academics/faculty.webp",
         "buttonText": "View All Faculty"
       },
       "breadcrumbItems": [

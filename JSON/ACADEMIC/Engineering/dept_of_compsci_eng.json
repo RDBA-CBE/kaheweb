@@ -219,8 +219,8 @@
       "slug": "department-of-computer-science-and-engineering",
       "basic": {
         "title": "Faculty",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris",
-        "src": "/images/Kahe/Innerpages/vission.jpg",
+        "description": "The Department of Computer Science and Engineering faculty emphasizes computational thinking, software design, and emerging digital technologies. Through project-based learning, research mentoring, and continuous skill development, the faculty prepares students to create efficient, scalable, and innovative computing solutions.",
+        "src": "/images/Kahe/academics/faculty.webp",
         "buttonText": "View All Faculty"
       },
       "breadcrumbItems": [

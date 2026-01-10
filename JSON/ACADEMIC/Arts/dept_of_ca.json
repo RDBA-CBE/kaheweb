@@ -17,21 +17,22 @@
       "label": "Faculty"
     },
     {
-      "id": "infrastructure",
-      "label": "Infrastructure"
+      "id": "placements",
+      "label": "Placements"
     },
 
     {
       "id": "publications",
       "label": "Publications"
     },
-    {
-      "id": "gallery",
-      "label": "Gallery"
-    },
+
     {
       "id": "events",
       "label": "Events"
+    },
+    {
+      "id": "gallery",
+      "label": "Gallery"
     },
     {
       "id": "contact",
@@ -538,6 +539,694 @@
           }
         ]
       }
+    },
+
+    {
+      "tab": "placements",
+      "slug": "department-of-computer-application",
+      "basic": {
+        "title": "Placement",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Temporibus architecto magnam, eius, labore vel enim eveniet officiis veritatis reiciendis expedita ab odit nobis, itaque aspernatur suscipit odio inventore consectetur autem",
+        "src": "/images/Kahe/Innerpages/vission.jpg",
+        "buttonText": "View All Faculty"
+      },
+
+      "breadcrumbItems": [
+        { "label": "Academics", "href": "academics" },
+        {
+          "label": "Arts, Science, Commerce and Management",
+          "href": "academics/arts-science-and-humanities/"
+        },
+
+        {
+          "label": "Department of Computer Application",
+          "href": "/academics/arts-science-and-humanities/department-of-computer-application"
+        },
+        { "label": "Faculty" }
+      ],
+
+      "tableContent": {
+        "content": [
+          {
+            "head": [
+              { "id": "col1", "label": "Student Name" },
+              { "id": "col2", "label": "Company" }
+            ],
+            "data": [
+              { "col1": { "text": "Apoorva A K" }, "col2": { "text": "EY" } },
+              {
+                "col1": { "text": "Nandhini R Dharshini K" },
+                "col2": { "text": "EY" }
+              },
+              { "col1": { "text": "Cindrella A" }, "col2": { "text": "EY" } },
+
+              { "col1": { "text": "Mahidharan T" }, "col2": { "text": "LTI" } },
+              {
+                "col1": { "text": "Datchana Moorthy S" },
+                "col2": { "text": "LTI" }
+              },
+              {
+                "col1": { "text": "Dheenadayalan N" },
+                "col2": { "text": "LTI" }
+              },
+
+              { "col1": { "text": "Apoorva A K" }, "col2": { "text": "EY" } },
+              {
+                "col1": { "text": "Nandhini R Dharshini K" },
+                "col2": { "text": "EY" }
+              },
+              { "col1": { "text": "Cindrella A" }, "col2": { "text": "EY" } },
+
+              {
+                "col1": { "text": "Thamarai Manalan V" },
+                "col2": { "text": "UHD Drive" }
+              },
+
+              {
+                "col1": { "text": "Siva Guru N" },
+                "col2": { "text": "Asteria Company" }
+              },
+              {
+                "col1": { "text": "Ramya Sri N" },
+                "col2": { "text": "Asteria Company" }
+              },
+              {
+                "col1": { "text": "Karthick Selvan" },
+                "col2": { "text": "Asteria Company" }
+              },
+              {
+                "col1": { "text": "Selsiyya S" },
+                "col2": { "text": "Asteria Company" }
+              },
+              {
+                "col1": { "text": "Sakthi Harini S" },
+                "col2": { "text": "Asteria Company" }
+              },
+              {
+                "col1": { "text": "Neha Lincy J" },
+                "col2": { "text": "Asteria Company" }
+              },
+              {
+                "col1": { "text": "Manoj S K" },
+                "col2": { "text": "Asteria Company" }
+              },
+              {
+                "col1": { "text": "Sorna Kirthiga S" },
+                "col2": { "text": "Asteria Company" }
+              },
+
+              {
+                "col1": { "text": "Abivarshini" },
+                "col2": { "text": "Sky Link Fiber" }
+              },
+              {
+                "col1": { "text": "Sneha" },
+                "col2": { "text": "Sky Link Fiber" }
+              },
+              {
+                "col1": { "text": "Megadharshini" },
+                "col2": { "text": "Sky Link Fiber" }
+              },
+              {
+                "col1": { "text": "Prasanna" },
+                "col2": { "text": "Sky Link Fiber" }
+              },
+              {
+                "col1": { "text": "Gokul" },
+                "col2": { "text": "Sky Link Fiber" }
+              },
+              {
+                "col1": { "text": "Eshwar" },
+                "col2": { "text": "Sky Link Fiber" }
+              },
+
+              { "col1": { "text": "Mahidharan T" }, "col2": { "text": "LTI" } },
+              {
+                "col1": { "text": "Datchana Moorthy S" },
+                "col2": { "text": "LTI" }
+              },
+              {
+                "col1": { "text": "Dheenadayalan N" },
+                "col2": { "text": "LTI" }
+              }
+            ]
+          }
+        ]
+      },
+
+      "cardSlider": [
+        {
+          "title": "Prominent Alumni",
+
+          "slider": [
+            {
+              "title": "Radhika K",
+              "position": "Software tester",
+              "company": "@ Value momentum, Coimbatore",
+              "desc": "BCA 2018",
+              "list": [{ "icon": "feather-phone", "desc": "8508276446" }]
+            },
+            {
+              "title": "S Manikandaboobathi",
+              "position": "Manager",
+              "company": "@ Federal Bank",
+              "desc": "BCA 2012",
+              "list": [{ "icon": "feather-phone", "desc": "9791671778" }]
+            },
+            {
+              "title": "Divya V",
+              "position": "Senior analyst",
+              "company": "@ Accenture, Coimbatore",
+              "desc": "BCA 2012",
+              "list": [{ "icon": "feather-phone", "desc": "8608634881" }]
+            },
+            {
+              "title": "Latha M",
+              "position": "Data engineer",
+              "company": "@ Aidas technologies, Coimbatore",
+              "desc": "BCA 2012",
+              "list": [{ "icon": "feather-phone", "desc": "9976068619" }]
+            },
+            {
+              "title": "R Ramesh Kumar",
+              "position": "Area sales manager",
+              "company": "@ Paytm, Coimbatore",
+              "desc": "BCA 2012",
+              "list": [{ "icon": "feather-phone", "desc": "7502949141" }]
+            },
+            {
+              "title": "Elangovan S",
+              "position": "Lead consultant",
+              "company": "@ Genpact, Bengaluru",
+              "desc": "BCA 2012",
+              "list": [{ "icon": "feather-phone", "desc": "9585182402" }]
+            },
+            {
+              "title": "Murugeshan S",
+              "position": "Entrepreneur",
+              "company": "@ Kritanit sourcing, Tirupur",
+              "desc": "MCA 2012",
+              "list": [{ "icon": "feather-phone", "desc": "9965464914" }]
+            },
+            {
+              "title": "Vijaya kumar S",
+              "position": "Systems software development",
+              "company": "@ Freelancer, Salem",
+              "desc": "MCA 2012",
+              "list": [{ "icon": "feather-phone", "desc": "9443289816" }]
+            },
+            {
+              "title": "Vijaya kumar S",
+              "position": "Systems software development",
+              "company": "@ Freelancer, Salem",
+              "desc": "MCA 2012",
+              "list": [{ "icon": "feather-phone", "desc": "9443289816" }]
+            },
+            {
+              "title": "Dharmaraj D",
+              "position": "Tech lead",
+              "company": "@ Thinkpalm Technologies Pvt Ltd, Kochi",
+              "desc": "BCA 2013",
+              "list": [{ "icon": "feather-phone", "desc": "9842905385" }]
+            },
+            {
+              "title": "Geofre echariahz C",
+              "position": "Associate HR",
+              "company": "@ PSG & Sons Charities, Coimbatore",
+              "desc": "BCA 2013",
+              "list": [{ "icon": "feather-phone", "desc": "9976017216" }]
+            },
+            {
+              "title": "Vivin Kumar V",
+              "position": "Test Lead",
+              "company": "@ Wipro, Coimbatore",
+              "desc": "BCA 2013",
+              "list": [{ "icon": "feather-phone", "desc": "8754325999" }]
+            },
+            {
+              "title": "Vignesh D",
+              "position": "Program manager",
+              "company": "@ Trelkix Software Ltd, Bengaluru",
+              "desc": "MCA 2013",
+              "list": [{ "icon": "feather-phone", "desc": "9095261414" }]
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "tab": "Publications",
+      "slug": "department-of-mathematics",
+      "title": "Best Five Papers Faculty wise:",
+      "subtitle": "Paper Publications by the Faculty Members",
+      "breadcrumbItems": [
+        { "label": "Academics", "href": "academics" },
+        {
+          "label": "Arts, Science, Commerce and Management",
+          "href": "academics/arts-science-and-humanities/"
+        },
+
+        {
+          "label": "Department of Maths",
+          "href": "/academics/arts-science-and-humanities/department-of-mathematics"
+        },
+        { "label": "Gallery" }
+      ],
+      "content": [
+        {
+          "faculty_name": "Dr. R. Gunasundari",
+          "content": [
+            "Athira O M1, R Gunasundari 2025, Advanced Osteoporosis Prediction from Knee X-rays via Residual Convolution and Recurrent Networks, International Journal of Intelligent Engineering and Systems, Vol.18, No.6,2025.",
+            "R Gunasundari, Bharathi Gopalsamy,2025,Crop growth and disease prediction using deep learning techniques, 6th International Conference on Computational Intelligence and Digital Technology, Volume 3260, Issue 1.",
+            "R Gunasundari, D. Sakthivel,2025 Analysis and Prediction of Water Access and Hygiene on Resource Data Using Machine Learning, volume 1317 & 267–281.",
+            "R Gunasundari, G Jeyabharathi,2024, Cognitive Disorder Detection Used for Early Autism Screening Using Deep Learning, volume 1317 239-251.",
+            "Kiruba S. Mercy, R. Gunasundari, 2025, A study on business intelligence and its comparison with business analytics, Applications of Mathematics in Science and Technology, CRC Press, Pages 5.",
+            "Kumar N. Praveen, R. Gunasundari, 2025 Job portal with chatbot using NLP with socket, Applications of Mathematics in Science and Technology, CRC Press, Pages 5.",
+            "R. Bhavadharani, R. Gunasundari, 2025, Android-based sign language conversion using message service system, Book Applications of Mathematics in Science and Technology, Edition1st, Pages 4.",
+            "Gunasundari R, Rose Mary Mathew, Sujesh P Lal, June 2025. Assessing the Models with Resampled Data Using Explainable Artificial Intelligence Techniques, Journal of Soft Computing and Data Mining, Vol. 14, No. 2, pp. 405-415.",
+            "K.S. Praveenkumar & Gunasundari R. 2025, Optimizing Type II Diabetes Prediction Through Hybrid Big Data Analytics and H-SMOTE Tree Methodology, International Journal of Computational and Experimental Science and Engineering (IJCESEN), Vol. 11-No.1.",
+            "R. Chennappan, A. Vinitha, S. Vinitha, R. Gunasundari, Automated Disaster Monitoring Through Social Media Posts Using Whale Optimization and ANN, Innovations in Optimization and Machine Learning, Pages: 24.",
+            "R. Gunasundari, D. Sakthive, July 2025, Analysis and Prediction of Water Access and Hygiene on Resource Data Using Machine Learning, Fourth International Conference on Computing and Communication Networks, LNNS, volume 1317, pp 267–281."
+          ]
+        },
+        {
+          "faculty_name": "Dr. G. Devika",
+          "content": [
+            "Real-Time Quality Assurance of Fruits and Vegetables using Hybrid Distance based MKELM Devika G. 2023.",
+            "Prediction Of Fake Instagram Profiles Using Machine Learning, Journal of Emerging Technologies and Innovative Research.",
+            "Devika, Review on m-Health Care Monitoring System, International Conference on Emerging Vistas of Soft Computing and Advanced Communication Technology.",
+            "G. Devika, Burrows Wheeler Transform For Satellite Image Compression Using Whale Optimization Algorithm, Advances and Applications in Mathematical Sciences, Volume 20, Issue 11, September 2021, Pages 2627-2634.",
+            "G. Devika, Performance Analysis Of Automated Diagnosis Of Lung Parenchyma Using A Novel Approach (CFSFCM), Advances and Applications in Mathematical Sciences, Volume 20, Issue 11, September 2021, Pages 2599-2605.",
+            "G. Devika, Efficiency of Self Organizing Map in High Dimensional Data, IJRAR June 2020, Volume 6, Issue 2.",
+            "G. Devika, Expert System in Determining Baby Disease using Web Mobile-based Weighted Product Method, IJRTE, Volume-8, Issue-1, May 2019.",
+            "G. Devika, Decision Support System for Determining Lecturer Scholarships for Doctoral Study Using CBR, IJRTE, Volume-8, Issue-1, May 2019.",
+            "Devika, G & Parthasarathy, S 2018, Optimized Transformation Model for Contrast Enhancement of Satellite Images Using Modified Whale Optimization.",
+            "Devika, G & Parthasarathy, S 2018, Fuzzy statistics-based affinity propagation technique for clustering in satellite cloud image.",
+            "G. Devika, A. Kaveena Rebecca, Performance Inspection of Apache Spark and Map Reduce Analyzing Through KMeans, 2018.",
+            "G. Devika, K. Shankar & M. Ilayaraja, Optimal Radial Basis Neural Network (ORB-NN) For Effective Classification of Clouds in Satellite Images, 2017.",
+            "G. Devika & M. Ilayaraja, Secure and Efficient Multi-Secret Image Sharing Scheme, 2017.",
+            "G. Devika, A Modified Symmetric Key Cryptography Method for Secure Data Transmission Network, 2017.",
+            "Devika, G & Parthasarathy, S 2016, Modified approach of support vector machine for classification of AVHRR image data.",
+            "Devika, G & Parthasarathy, S 2015, Fuzzy topology based satellite cloud image classification using support vector machine.",
+            "Devika, G & Parthasarathy, S 2015, Domain adaptation based active learning approach for classification of satellite images.",
+            "Devika, G & Parthasarathy, S 2014, Improved kernel support vector machine with fast training integrated fuzzy topology technique."
+          ]
+        },
+        {
+          "faculty_name": "Dr. S. Hemalatha",
+          "content": [
+            "Seenia Joseph, S. Hemalatha 2025, Aspect-based Sentiment Analysis on Product Reviews, Journal of Wireless Mobile Networks, Volume 16 – Issue 2, 579-590.",
+            "Suhaila M. P., Hemalatha S., Automated Rice Leaf Disease Detection Using Artificial Intelligence Deep Learning, IJ-ICT.",
+            "Sandhya Chandrabhanu, Shanmugam Hemalatha, 2024, CGAN Facilitated Data Augmentation of Voice and Speech Parameters for Detecting Parkinson’s Disease.",
+            "Divya P; Hemalatha S, 2025, Deep Learning for Depression Diagnosis in Women: A Hybrid CNNGRU-MLP Fusion Model.",
+            "Seenia Joseph; S. Hemalatha; D. Tamilvannan, 2024, Image based Bird Species Identification using CNN."
+          ]
+        },
+        {
+          "faculty_name": "Mr. C. Balakumar",
+          "content": [
+            "C. Balakumar, G. Surya, 2025, Trust and Reinforcement Learning-Based Security Model for Mitigating Black Hole Attacks in VANETs.",
+            "C. Balakumar, B. Akashpriyan, 2025, Secure Data Dissemination in VANET Using Trust and Random Forest Algorithm.",
+            "C. Balakumar & U. Priyatharshini, 2025, SDN-Enabled Secure Data Communication in 5G VANETS Using ECC Algorithm.",
+            "C. Balakumar, M. Kalaimani, S. Nagaraj, 2025, Protocol models in emergency data transmission services: A survey.",
+            "C. Balakumar, N. Arrthy, G. Sujatha, 2025, IMBP-EDT: Intelligent multi HOP broadcast protocol for emergency data transmission services."
+          ]
+        },
+        {
+          "faculty_name": "Mr. S. Prabhu",
+          "content": [
+            "Chandru S; Prabhu S, 2025, Tomato Plant Disease Recognition Using Efficient Det.",
+            "S. Vignesh; S. Prabhu; et al., 2024, Intelligent Method for Detecting Jute Pests Using Deep CNN.",
+            "K. Rajchandar; M. Ramesh; Anuj Tyagi; S. Prabhu; et al., Edge Computing in Network-based Systems."
+          ]
+        },
+        {
+          "faculty_name": "Ms. N. Sneha",
+          "content": [
+            "S. Swamynathan; N. Sneha; et al., 2024, Machine Learning Approach for Predicting Air Quality Index in Smart Cities.",
+            "Karthikadevi M; Sneha N, 2025, Early Chronic Kidney Disease Detection Using Machine Learning Techniques."
+          ]
+        },
+        {
+          "faculty_name": "Ms. P. Shalini",
+          "content": [
+            "R. Karthick; P. Shalini; D. David Neels Ponkumar, 2025, Deep Learning-Based Image Annotation Methods for Fruit Calorie Measurement."
+          ]
+        },
+        {
+          "faculty_name": "Mr. S. Sasikumar",
+          "content": [
+            "S. Sasikumar, G. Ravishankar, P. Poongothai, Suresh Palarimath, 2025, Sentiment Analysis of Guardian Metaverse Articles."
+          ]
+        },
+        {
+          "faculty_name": "Mr. G. Ravishankar",
+          "content": [
+            "M. Ram Prasath; G. Ravishankar; et al., 2025, Clustering Techniques for Machine Learning with Electronic Healthcare Data."
+          ]
+        }
+      ]
+    },
+
+    {
+      "tab": "gallery",
+      "slug": "department-of-computer-application",
+      "title": "Gallery",
+      "breadcrumbItems": [
+        { "label": "Academics", "href": "academics" },
+        {
+          "label": "Arts, Science, Commerce and Management",
+          "href": "academics/arts-science-and-humanities/"
+        },
+
+        {
+          "label": "Department of Computer Application",
+          "href": "/academics/arts-science-and-humanities/department-of-computer-application"
+        },
+        { "label": "Gallery" }
+      ],
+      "multiImages": [
+        {
+          "title": "Guest Lecture on “Blockchain Technology Real-World Use Cases” by Dr.L.Thara, Associate Professor, PSG College of Arts and Science, Coimbatore",
+          "images": [
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2026/01/event-1.png",
+              "alt": "event-1",
+              "title": "Knowledge in action — Dr. L. Thara, Associate Professor, PSG College of Arts and Science, delivering the Guest Lecture on “Blockchain Technology Real-World Use Cases.”"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2026/01/event-2.png",
+              "alt": "event-2",
+              "title": "Students actively participating and engaging with the speaker during the Guest Lecture on “Blockchain Technology Real-World Use Cases.”"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2026/01/event-3.png",
+              "alt": "event-3",
+              "title": "Guest Speaker Dr. L. Thara, Professor, PSG College of Arts and Science delivering her lecture using visual presentations to illustrate real-world Blockchain applications."
+            }
+          ]
+        },
+        {
+          "title": "Computer Applications Department Inauguration on Guest Lecture on “Reimaging Software Development with CoPilot” By Mr. Nisar Mohamed V, UI FullStack Developer on 20-08-2025.",
+          "images": [
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2026/01/event-4.png",
+              "alt": "event-4",
+              "title": "Felicitation Address by Dr. S. Ravi, Vice Chancellor, Karpagam University, during the Computer Applications Department Inauguration"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2026/01/event-5.png",
+              "alt": "event-5",
+              "title": "The Chief Guest Mr. Nisar Mohamed.V, UI FullStack Developer, receiving a memento as a symbol of respect and appreciation from the institution."
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2026/01/event-6.png",
+              "alt": "event-6",
+              "title": "Students attentively listening to the guest speaker during the session."
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2026/01/event-7.png",
+              "alt": "event-7",
+              "title": "An attentive audience of students during the informative and insightful guest session."
+            }
+          ]
+        },
+        {
+          "title": "Skill Development Program Organised Workshop on “Advanced Business Application Programming on HANA” By Mr.G.Arun Kumar, Head and SAP Consultant, Mini University, Coimbatore, on 26th Aug 2025",
+          "images": [
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2026/01/event-1-1.png",
+              "alt": "event-1",
+              "title": "Mr. G. Arun Kumar, Head and SAP Consultant, Mini University, addressing the participants in the Skill Development Program on “Advanced Business Application Programming on HANA.”"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2026/01/event-2-1.png",
+              "alt": "event-2",
+              "title": "An engaged audience of students attentively absorbing the insights shared by the guest speaker."
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2026/01/event-3-1.jpg",
+              "alt": "event-3",
+              "title": "BITBLAZE Association Inauguration"
+            }
+          ]
+        },
+        {
+          "title": "Dr.G. Devika acted an Examiner for Ph.D. Viva Voce on 12th August 2025 at Providence College, Kunnoor.",
+          "images": [
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2026/01/event-1-1.png",
+              "alt": "event-1",
+              "title": "Mr. G. Arun Kumar, Head and SAP Consultant, Mini University, addressing the participants in the Skill Development Program on “Advanced Business Application Programming on HANA.”"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2026/01/event-2-1.png",
+              "alt": "event-2",
+              "title": "An engaged audience of students attentively absorbing the insights shared by the guest speaker."
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2026/01/event-3-1.jpg",
+              "alt": "event-3",
+              "title": "BITBLAZE Association Inauguration"
+            }
+          ]
+        },
+
+        {
+          "title": "ICT Academy 5-Day Faculty Development Program (FDP) on Microsoft Power BI Data Analyst Associate.at PSG College of Arts and Science, Coimbatore from 22nd September 2025 to 26th September 2025",
+          "images": [
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2026/01/event-6-1.png",
+              "alt": "event-6",
+              "title": "event-6"
+            }
+          ]
+        },
+
+        {
+          "title": "Field Visit Field Visit to Origin CADD Infotech – Peelamedu for our KAHE BCA on 6th August 2025",
+          "images": [
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2026/01/field-1.png",
+              "alt": "field-1",
+              "title": "field-1"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2026/01/field-2.png",
+              "alt": "field-2",
+              "title": "field-2"
+            }
+          ]
+        },
+
+        {
+          "title": "Field Visit to Southern Railway, Signal and Telecommunication Workshop our BCA on 8th August 2025.",
+          "images": [
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2026/01/field-4.png",
+              "alt": "field-4",
+              "title": "field-4"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2026/01/field-3.png",
+              "alt": "field-3",
+              "title": "field-3"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "tab": "Events",
+      "slug": "department-of-computer-application",
+      "breadcrumbItems": [
+        { "label": "Academics", "href": "academics" },
+        {
+          "label": "Arts, Science, Commerce and Management",
+          "href": "academics/arts-science-and-humanities/"
+        },
+
+        {
+          "label": "Department of Computer Application",
+          "href": "/academics/arts-science-and-humanities/department-of-computer-application"
+        },
+        { "label": "Events" }
+      ],
+
+      "items": [
+        {
+          "title": "Events",
+          "multiContent": [
+            {
+              "contentList": [
+                "One Day First National Conference on 29.01.2026.",
+                "State Level Symposium Infosium 2026 on 20.02.2026.",
+                "Five-day Faculty Development Programme on “Dynamic Artificial Intelligence & Hybrid Cloud” from 25th November 2025 to 29th November 2025.",
+                "Skill Development Programme on “ABAP on HANA” on 26th August 2025.",
+                "Department of Computer Applications Association BITBLAZE inauguration on 20th August 2025.",
+                "Field visit to Origin CADD Infotech on 6th August 2025.",
+                "Field visit to Southern Railway Workshop on 8th August 2025.",
+                "PG Induction Programme on 6th August 2025.",
+                "World Wide Web (WWW) Day celebration on 1st August 2025.",
+                "Hands-on training on “Simplified and Secure Connectivity with eSIM and IoT” on 29th July 2025.",
+                "Alumni Meet on 26th July 2025.",
+                "Alumni Talk on 8th July 2025.",
+                "Guest lecture on “Blockchain Technology: Real-World Use Cases” on 26th June 2025.",
+                "National Conference on “Emerging Technologies: Robotics and IoT” on 28th February 2020.",
+                "State-Level Technical Symposium “Infosium 2020” on 12th February 2020."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Conference",
+          "multiContent": [
+            {
+              "contentList": [
+                "National Conference on “Emerging Technologies: Robotics and IOT” on February 28, 2020.",
+                "National Conference on “Recent Trends and Advances in the Field of Information Technology” on September 27, 2019.",
+                "National Conference on “Emerging Trends in Computing and Communication” (NCCC 17) on February 17, 2017.",
+                "4th National Conference on “Recent Trends and Advances in Information Technology” on September 23, 2016."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Seminars",
+          "multiContent": [
+            {
+              "contentList": [
+                "National Seminar on “Script Language – JOOMLA” on January 27, 2017.",
+                "National Seminar on “Tools And Techniques To Do A Research & To Improve Scholarly Writing Skills” on July 30, 2016."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Workshops",
+          "multiContent": [
+            {
+              "contentList": [
+                "Two days workshop on “Developing Android Apps” from 05.03.2018 to 06.03.2018.",
+                "Two days state level workshop on “Computer Training for Mobile Applications and Tools” from May 29, 2017 to May 30, 2017.",
+                "State level workshop on “Internet of Things (IoT)” on April 15, 2017.",
+                "National Workshop on “Cyber Security” on March 03, 2017.",
+                "One Day National Level Workshop on “Software Testing Tool- Selenium” on 07.01.2017.",
+                "One day Hands on Training on Mobile Application Development using Android on September 02, 2016.",
+                "Workshop on “Network Security Championship” from 11-3-2016 to 12-3-2016.",
+                "Hands on Training on JQuery, Json, AJAX on 28-1-2016.",
+                "Workshop on “Android in Mobile Application” on February 21, 2015."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Technical Symposium",
+          "multiContent": [
+            {
+              "contentList": [
+                "State Level Technical Symposium “Infosium 2020” on February 12, 2020.",
+                "National Level Technical Symposium “Infosium 2K18” on February 09, 2018.",
+                "State Level Technical Symposium “Infosium 2017” on February 28, 2017.",
+                "State Level Technical Symposium “Infosium 2K16” on March 02, 2016."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Guest Lectures",
+          "multiContent": [
+            {
+              "contentList": [
+                "Guest Lecture on “Introduction to Gaming” on 11th January 2021.",
+                "Guest Lecture on “Text Prediction using LSTM” on December 10, 2020.",
+                "Guest Lecture on “Sardar Vallabhbhai Patel Day” on October 31, 2020.",
+                "Guest Lecture on “International Internet Day” on October 29, 2020.",
+                "Guest Lecture on “Career Opportunities for IT & ITES Sector” on January 25, 2020.",
+                "Guest Lecture on “Struts Framework” on August 22, 2019.",
+                "Project Training on Citizen Centric Mobile App on July 29, 2017.",
+                "Guest Lecture on Advanced Java on July 13, 2017.",
+                "Guest Lecture on Advanced Trends in DOT NET on June 30, 2017.",
+                "Seminar on “Script Language – JOOMLA” on January 27, 2017.",
+                "Guest Lecture on Operations Research on January 06, 2017.",
+                "Guest Lecture on “Big Data” on March 10, 2016.",
+                "Guest Lecture on E-Learning on September 27, 2016.",
+                "Guest Lecture on “Internet of Things” on August 23, 2016.",
+                "Guest Lecture on “Big Data” on September 23, 2016.",
+                "Guest Lecture on Problem Solving Techniques on February 06, 2015.",
+                "Guest Lecture on “Internet of Things” on December 15, 2015."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tab": "contact",
+      "contact": {
+        "title": "Contact",
+        "content": [
+          {
+            "bgcolor": "bg-lblue shadow-none",
+            "gridCls": " col-md-6 col-sm-6 col-12",
+
+            "ConClsName": "text-start",
+            "title": "Department of Computer Applications, KAHE",
+            "subtitle": "Dr. G. Devika",
+            "content": "Head of the Department",
+            "links": [
+              {
+                "icon": "feather-phone-call",
+                "text": "0422-2980011",
+                "url": "tellto:0422-2980011"
+              },
+              {
+                "icon": "feather-mail",
+                "text": "ca.hod@kahedu.edu.in",
+                "url": "mailto:ca.hod@kahedu.edu.in"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "tab": "testimonial",
+      "testimonial": [
+        {
+          "title": "Testimonials",
+
+          "slider": [
+            {
+              "img": "https://kahedu.edu.in/n/wp-content/uploads/2026/01/stud-1-250x250.jpg",
+              "title": "",
+              "desc": "I would like to take a moment to express my heartfelt gratitude to Karpagam Academy of Higher Education (KAHE) and the Department of Computer Applications for their immense contribution to my academic journey. The unwavering commitment and support of the faculty and staff have greatly enriched my learning experience. I am deeply thankful for the encouragement and guidance that have nurtured my personal and professional growth, strengthened my confidence, and prepared me for future achievements. My sincere appreciation goes to all the mentors and well-wishers whose dedication and hard work have played a vital role in shaping my career. I am truly grateful for the invaluable experiences and opportunities provided during my time at KAHE."
+            },
+            {
+              "img": "https://kahedu.edu.in/n/wp-content/uploads/2026/01/stud-2-250x250.png",
+              "title": "",
+              "desc": "I feel truly privileged to express my heartfelt gratitude for the wholesome experience at Karpagam Academy of Higher Education (KAHE). The well-structured curriculum and the enriching learning environment provided by the Department of Computer Applications have played a significant role in my academic and personal development. I sincerely appreciate the dedicated efforts of the faculty and staff, whose commitment and guidance make KAHE an exceptional place for students to learn and grow. The university beautifully balances both discipline and freedom, ensuring the overall well-being of every student. KAHE truly provides an ideal platform for holistic development, nurturing not only knowledge and skills but also values and confidence for a successful future."
+            },
+            {
+              "img": "https://kahedu.edu.in/n/wp-content/uploads/2026/01/stud-3-250x250.png",
+              "title": "",
+              "desc": "The Department of Computer Applications at Karpagam Academy of Higher Education (KAHE) doesn’t just teach programming—it nurtures creators, innovators, and future entrepreneurs. The department’s commitment to providing a collaborative and inspiring academic environment motivates students to push their limits and think beyond traditional learning. The Computer Applications program strikes a perfect balance between core computing concepts, modern technologies, and entrepreneurial thinking. With a strong emphasis on hands-on projects, industry collaboration, and innovation, the program equips students with the confidence and competence to face real-world challenges."
+            },
+            {
+              "img": "https://kahedu.edu.in/n/wp-content/uploads/2026/01/stud-4-250x250.png",
+              "title": "",
+              "desc": "I am truly grateful for the enriching academic experience I have had at Karpagam Academy of Higher Education (KAHE). The Department of Computer Applications provided a well-structured curriculum that seamlessly blended theoretical knowledge with practical applications, greatly enhancing my technical and analytical skills. The faculty members were highly knowledgeable, supportive, and always willing to provide guidance. The placement cell also played a pivotal role by offering continuous support, which helped me secure a position that perfectly aligns with my career aspirations."
+            },
+            {
+              "img": "https://kahedu.edu.in/n/wp-content/uploads/2026/01/stud-5-250x250.png",
+              "title": "",
+              "desc": "Choosing Karpagam Academy of Higher Education (KAHE) has truly been one of the best decisions of my life. The Department of Computer Applications offers exceptional academic guidance and unwavering faculty support that continuously motivates students to excel. The vibrant and diverse campus environment has broadened my perspective and helped me grow both personally and professionally. The emphasis on hands-on learning, innovation, and career development has set me on a clear path toward achieving my goals."
+            }
+          ]
+        }
+      ]
     }
   ]
 }

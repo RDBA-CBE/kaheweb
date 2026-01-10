@@ -223,8 +223,8 @@
       "slug": "department-of-civil-engineering",
       "basic": {
         "title": "Faculty",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris",
-        "src": "/images/Kahe/Innerpages/vission.jpg",
+        "description": "The faculty of the Department of Civil Engineering focuses on building technical competence in planning, design, and sustainable infrastructure development. With an emphasis on practical exposure, field-based learning, and modern construction practices, the faculty prepares students to contribute effectively to society and the built environment.",
+       "src": "/images/Kahe/academics/faculty.webp",
         "buttonText": "View All Faculty"
       },
       "breadcrumbItems": [

@@ -4,7 +4,6 @@ import { useEffect, useState } from "react";
 import "venobox/dist/venobox.min.css";
 
 const GalleryPage = ({ content }) => {
-
   useEffect(() => {
     import("venobox/dist/venobox.min.js").then((venobox) => {
       new venobox.default({
@@ -59,30 +58,30 @@ const GalleryPage = ({ content }) => {
         {content?.multiImages ? (
           content.multiImages?.map((item, i) => (
             <>
-            <div>
-              <h3 className="main-ti text-black pt-4 mb-0">{item?.title}</h3>
-            </div>            <div className="lab-container parent-gallery-container">
-              {item.images.map((item, i) => (
-                <Link
-                  className="lab-item child-gallery-single"
-                  key={i}
-                  href={item.src}
-                  data-gall="gallery01"
-                  title={item.title}
-                  // style={
-                  //   i === 4 && content.images.length > 5
-                  //     ? { position: "relative" }
-                  //     : {}
-                  // }
-                >
-                  <img src={item.src} alt={item.alt} />
+              <div>
+                <h3 className="main-ti text-black pt-4 mb-0">{item?.title}</h3>
+              </div>{" "}
+              <div className="lab-container parent-gallery-container">
+                {item.images.map((item, i) => (
+                  <Link
+                    className="lab-item child-gallery-single"
+                    key={i}
+                    href={item.src}
+                    data-gall="gallery01"
+                    title={item.title}
+                    // style={
+                    //   i === 4 && content.images.length > 5
+                    //     ? { position: "relative" }
+                    //     : {}
+                    // }
+                  >
+                    <img src={item.src} alt={item.alt} />
 
-                  {item.title && <p>{item.title}</p>}
-                </Link>
-              ))}
-            </div>
+                    {item.title && <p>{item.title}</p>}
+                  </Link>
+                ))}
+              </div>
             </>
-            
           ))
         ) : content?.images ? (
           <div className="lab-container parent-gallery-container">
