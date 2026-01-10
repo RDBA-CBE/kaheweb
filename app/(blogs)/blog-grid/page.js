@@ -3,8 +3,8 @@ import BlogGridPage from "./(blog-grid)";
 import { getAllPostsMeta } from "@/mdx";
 
 export const metadata = {
-  title: "Blog Grid - Online Courses & Education NEXTJS14 Template",
-  description: "Online Courses & Education NEXTJS14 Template",
+  title: "Blog Grid - Karpagam Academy of Higher Education (KAHE) offers a wide range of UG, PG &amp; research programs in Engineering, Arts &amp; Science, Management, Architecture, and Pharmacy.",
+  description: "Karpagam Academy of Higher Education (KAHE) offers a wide range of UG, PG &amp; research programs in Engineering, Arts &amp; Science, Management, Architecture, and Pharmacy.",
 };
 
 const BlogGridLayout = async () => {
