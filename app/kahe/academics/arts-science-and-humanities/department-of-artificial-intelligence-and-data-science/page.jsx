@@ -2,8 +2,8 @@ import DepartmentOfArtificialIntelligence from "@/components/00-Kahe/AcademicsCo
 
 
 export const metadata = {
-  title: "About Us 01 - Online Courses & Education NEXTJS14 Template",
-  description: "Online Courses & Education NEXTJS14 Template",
+  title: "Department of Artificial Intelligence & Data Science",
+  description: "KAHE is the best information technology colleges in Coimbatore and top artificial intelligence and data science colleges in Tamilnadu. Join KAHE now.",
 };
 const page = () => {
   return (

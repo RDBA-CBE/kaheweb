@@ -4,7 +4,6 @@ import { useEffect, useState } from "react";
 import "venobox/dist/venobox.min.css";
 
 const GalleryPage = ({ content }) => {
-  console.log("Content", content);
 
   useEffect(() => {
     import("venobox/dist/venobox.min.js").then((venobox) => {
