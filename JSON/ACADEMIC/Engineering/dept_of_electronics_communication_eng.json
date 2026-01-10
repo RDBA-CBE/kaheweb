@@ -174,8 +174,8 @@
       "slug": "department-of-electronics-communication-engineering",
       "basic": {
         "title": "Faculty",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris",
-        "src": "/images/Kahe/Innerpages/vission.jpg",
+        "description": "The faculty of the Department of Electronics and Communication Engineering brings expertise in communication systems, signal processing, and embedded technologies. With a focus on design-oriented learning and emerging communication platforms, the faculty equips students to innovate in areas such as wireless networks, VLSI, and smart communication solutions.",
+       "src": "/images/Kahe/academics/faculty.webp",
         "buttonText": "View All Faculty"
       },
       "breadcrumbItems": [

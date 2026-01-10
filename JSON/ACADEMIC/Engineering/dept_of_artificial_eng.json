@@ -78,8 +78,8 @@
       "slug": "department-of-artificial-intelligence-and-data-science",
       "basic": {
         "title": "Faculty",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris",
-        "src": "/images/Kahe/Innerpages/vission.jpg",
+        "description": "The faculty of the Department of Artificial Intelligence and Data Science comprises experienced academicians and industry-exposed professionals dedicated to excellence in teaching, research, and innovation. They focus on building strong foundations in AI, machine learning, and data analytics while mentoring students to solve real-world problems through intelligent, data-driven solutions.",
+       "src": "/images/Kahe/academics/faculty.webp",
         "buttonText": "View All Faculty"
       },
       "breadcrumbItems": [

@@ -282,8 +282,8 @@
       "slug": "department-of-physics",
       "basic": {
         "title": "Faculty",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris",
-        "src": "/images/Kahe/Innerpages/vission.jpg",
+        "description": "The faculty of the Department of Physics comprises experienced academicians and researchers committed to excellence in teaching, experimentation, and research. They emphasize strong conceptual understanding, analytical skills, and practical applications, preparing students for careers in research, technology, and interdisciplinary sciences.",
+        "src": "/images/Kahe/academics/faculty.webp",
         "buttonText": "View All Faculty"
       },
       "breadcrumbItems": [

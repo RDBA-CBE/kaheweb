@@ -37,7 +37,7 @@
           "type": "overview",
           "subTitle": "Overview",
           "contents": "The department of Biochemistry was established in the year 2008. The main objective of the department is to provide deep insight into the fundamental concepts in biochemistry and to equip students with biological knowledge enabling them to explore a wide range of opportunities in biological fields. Our undergraduate programme is uniquely framed with balanced theoretical and practical courses following CBCS. Our postgraduate programme is aimed at equipping skills in different experiments to address specific problems. This would cater to the needs of clinical laboratory, industrial requirements and entrepreneurship. The Department has well equipped undergraduation, postgraduation and Research labs with sophisticated instruments such as Inverted Microscope, Fluorescent Microscope, Fluorimeter, UV Spectrophotometer, Microplate reader, Lyophiliser, Rotary Evaporator, chemi-doc etc. In addition, we have a well-established Animal House Facility approved by CPCSEA with a functioning IAEC. The facility houses different rodent models for training and research purposes. We have conducted ICMR/KAHE funded workshops in animal handling. To maintain a pathogen free environment for immunocompromised strains, we have Individual Ventilated Cages (IVC). The department also hosts animal tissue culture laboratory (ATC) with state-of-the-art facilities such as biosafety cabinet, CO2 incubator, inverted phase-contrast microscope, deep-freezer, liquid nitrogen containers to study the cell-based research objectives. The department routinely conducts guest lectures, seminars, conferences and workshops funded by DBT, DST, TNSCST, ICMR and INSA. All the faculties hold PhD degree in diverse fields of biochemistry with good experience in teaching and research. Our students are placed in reputed institutions/organizations to pursue advanced training/career. The department encourages students to take part in sports, extracurricular and extension activities. The department has so far completed 5 major research projects funded by ICMR, UGC, DST and 3 minor research projects funded by UGC and KAHE. The research findings of the faculty members and students have been published in reputed international journals. At present the department has published more than 200 research articles. The major thrust area of research includes Diabetes, Cancer Biology, Phytomedicine, Nanomedicine and Computational Biology.",
-          "image": "/images/others/video-07.jpg"
+          "image": "/images/Kahe/academics/arts-and-science/biochemistry/Biochemistry-overview.png"
         },
         {
           "type": "vision",
@@ -70,21 +70,21 @@
           {
             "key": "ug",
             "title": "Under Graduate Programme",
-            "img": "/images/others/health-b-02.png",
+            "img": "/images/Kahe/academics/arts-and-science/biochemistry/Biochemistry-studentprogrammes.png",
             "items": ["B.Sc. Biochemistry"],
             "type": "programme"
           },
           {
             "key": "pg",
             "title": "Post Graduate Programmes",
-            "img": "/images/others/health-b-02.png",
+            "img": "/images/Kahe/academics/arts-and-science/biochemistry/Biochemistry-studentprogrammes.png",
             "items": ["M.Sc. Biochemistry (Strength: 30)"],
             "type": "programme"
           },
           {
             "key": "res",
             "title": "Research Programmes",
-            "img": "/images/others/health-b-02.png",
+            "img": "/images/Kahe/academics/arts-and-science/biochemistry/Biochemistry-studentprogrammes.png",
             "items": ["M.Phil Biochemistry", "Ph.D. Biochemistry"],
             "type": "programme"
           }
@@ -96,7 +96,7 @@
           {
             "key": "bsc",
             "title": "B.Sc. Biochemistry",
-            "img": "/images/others/health-b-02.png",
+           "img": "/images/Kahe/academics/arts-and-science/biochemistry/Biochemistry-studentprogrammes.png",
             "type": "curriculum",
             "items": [
               {
@@ -112,7 +112,7 @@
           {
             "key": "msc",
             "title": "M.Sc. Biochemistry",
-            "img": "/images/others/health-b-02.png",
+            "img": "/images/Kahe/academics/arts-and-science/biochemistry/Biochemistry-studentprogrammes.png",
             "type": "curriculum",
             "items": [
               {
@@ -132,7 +132,7 @@
           {
             "key": "mphil",
             "title": "M.Phil Biochemistry",
-            "img": "/images/others/health-b-02.png",
+           "img": "/images/Kahe/academics/arts-and-science/biochemistry/Biochemistry-studentprogrammes.png",
             "type": "curriculum",
             "items": [
               {
@@ -148,7 +148,7 @@
           {
             "key": "phd",
             "title": "Ph.D. Biochemistry",
-            "img": "/images/others/health-b-02.png",
+            "img": "/images/Kahe/academics/arts-and-science/biochemistry/Biochemistry-studentprogrammes.png",
             "type": "curriculum",
             "items": [
               {
@@ -178,8 +178,8 @@
       "slug": "department-of-biochemistry",
       "basic": {
         "title": "Faculty",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris",
-        "src": "/images/Kahe/Innerpages/vission.jpg",
+        "description": "The faculty of the Department of Biochemistry at Karpagam Academy of Higher Education (KAHE) comprises experienced academicians and dedicated researchers with strong expertise in teaching and laboratory practices. They are committed to delivering quality education, mentoring students in research and analytical skills, and fostering scientific curiosity to prepare graduates for careers in life sciences, healthcare, and biotechnology.",
+        "src": "/images/Kahe/academics/faculty.webp",
         "buttonText": "View All Faculty"
       },
 
