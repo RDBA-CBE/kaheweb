@@ -13,7 +13,7 @@ const FacultyPage = ({ facultyContent }) => {
         className="section-wid row row--15 mt_dec--30 align-items-stretch events-pg"
         style={{ padding: "80px 0" }}
       >
-        <div className="section-title d-flex justify-content-lg-between ">
+        <div className="section-title d-flex justify-content-between flex-wrap">
           <h2
             className="decor-ti "
             dangerouslySetInnerHTML={{
@@ -42,7 +42,7 @@ const FacultyPage = ({ facultyContent }) => {
           </div>
         </div>
         {facultyContent?.faculty?.map((data, index) => (
-          <div className="col-lg-3 col-md-3 col-12 mt--30 d-flex" key={index}>
+          <div className="col-xl-3 col-lg-4  col-sm-6 col-12 mt--30 d-flex" key={index}>
             <div className="rbt-team team-style-default style-three rbt-hover h-100 w-100">
               <div className="inner p-0 h-100 d-flex flex-column">
                 <div className="thumbnail">
@@ -80,7 +80,7 @@ const FacultyPage = ({ facultyContent }) => {
                   {data.email && (
                     <span className="team-form ">
                       <i className="feather-mail me-3"></i>
-                      <span className="location">{data.email}</span>
+                      <span className="location" style={{wordBreak:"break-word"}}>{data.email}</span>
                     </span>
                   )}
 

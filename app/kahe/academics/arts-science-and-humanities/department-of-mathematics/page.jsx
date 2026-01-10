@@ -1,15 +1,14 @@
-import BreadCrumb from "@/components/00-Kahe/common-components/BreadCrumb";
-
+import DeptOfMaths from "@/components/00-Kahe/AcademicsComponents/Arts/DeptOfMaths";
 
 export const metadata = {
-  title: "About Us 01 - Online Courses & Education NEXTJS14 Template",
-  description: "Online Courses & Education NEXTJS14 Template",
+  title: "Department of Maths| Best Mathematics College in Coimbatore",
+  description: "One of the Best Mathematics colleges in Coimbatore is KAHE. Our excellent faculty and infrastructure make it an all-round international campus.",
 };
+
 const page = () => {
   return (
     <>
-      <BreadCrumb  />
-      <h5>Dept of bio tech</h5>
+     <DeptOfMaths/>
     </>
   );
 };

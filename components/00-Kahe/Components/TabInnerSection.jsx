@@ -107,6 +107,7 @@ const TabInnerSection = ({ tabSections, tabContent }) => {
             galleryContent={galleryContent && galleryContent}
           />
         </div>
+       
 
         {/* {publicationsContent && (
           <div

@@ -29,7 +29,7 @@ const GalleryPage = ({ content }) => {
   return (
     <>
       <section className="section-wid gal-pg section-bg1">
-        <div className="section-title d-flex justify-content-lg-between ">
+        <div className="section-title d-flex justify-content-between ">
           <h2
             className="decor-ti "
             dangerouslySetInnerHTML={{
@@ -57,26 +57,56 @@ const GalleryPage = ({ content }) => {
             </div>
           </div>
         </div>
-        <div className="lab-container parent-gallery-container">
-          {content.images.map((item, i) => (
-            <Link
-              className="lab-item child-gallery-single"
-              key={i}
-              href={item.src}
-              data-gall="gallery01"
-              title={item.title}
-              // style={
-              //   i === 4 && content.images.length > 5
-              //     ? { position: "relative" }
-              //     : {}
-              // }
-            >
-              <img src={item.src} alt={item.alt} />
+        {content?.multiImages ? (
+          content.multiImages?.map((item, i) => (
+            <>
+            <div>
+              <h3 className="main-ti text-black pt-4 mb-0">{item?.title}</h3>
+            </div>            <div className="lab-container parent-gallery-container">
+              {item.images.map((item, i) => (
+                <Link
+                  className="lab-item child-gallery-single"
+                  key={i}
+                  href={item.src}
+                  data-gall="gallery01"
+                  title={item.title}
+                  // style={
+                  //   i === 4 && content.images.length > 5
+                  //     ? { position: "relative" }
+                  //     : {}
+                  // }
+                >
+                  <img src={item.src} alt={item.alt} />
 
-              {item.title && <p>{item.title}</p>}
-            </Link>
-          ))}
-        </div>
+                  {item.title && <p>{item.title}</p>}
+                </Link>
+              ))}
+            </div>
+            </>
+            
+          ))
+        ) : content?.images ? (
+          <div className="lab-container parent-gallery-container">
+            {content.images.map((item, i) => (
+              <Link
+                className="lab-item child-gallery-single"
+                key={i}
+                href={item.src}
+                data-gall="gallery01"
+                title={item.title}
+                // style={
+                //   i === 4 && content.images.length > 5
+                //     ? { position: "relative" }
+                //     : {}
+                // }
+              >
+                <img src={item.src} alt={item.alt} />
+
+                {item.title && <p>{item.title}</p>}
+              </Link>
+            ))}
+          </div>
+        ) : null}
       </section>
     </>
   );
