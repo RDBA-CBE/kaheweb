@@ -9,6 +9,7 @@ const FacultyPage = ({ facultyContent }) => {
   const goBack = () => {
     window.history.back();
   };
+
   return (
     <>
       <div
@@ -43,7 +44,78 @@ const FacultyPage = ({ facultyContent }) => {
             </div>
           </div>
         </div>
+        {facultyContent?.faculty_1 && <p className="main-sub-ti fw-semibold my-2 pt-5">Tamil</p>}
         {facultyContent?.faculty?.map((data, index) => (
+          <div
+            className="col-xl-3 col-lg-4  col-sm-6 col-12 mt--30 d-flex"
+            key={index}
+          >
+            <div className="rbt-team team-style-default style-three rbt-hover h-100 w-100">
+              <div className="inner p-0 h-100 d-flex flex-column">
+                <div className="thumbnail">
+                  <Image
+                    src={data.src || "/images/team/team-11.png"}
+                    width={415}
+                    height={555}
+                    priority
+                    alt={data.name}
+                  />
+                </div>
+
+                <div className="content p-3 py-5 ">
+                  <p className="main-sub-ti fw-semibold mb-2">{data.name}</p>
+
+                  {data.designation && <p>{data.designation}</p>}
+
+                  {data.qualification && (
+                    <span className="team-form">
+                      <img
+                        src={
+                          data?.iconSrc ||
+                          "/images/Kahe/Innerpages/education.png"
+                        }
+                        alt="icon"
+                        width={30}
+                        height={30}
+                      />
+                      <span className="location ms-2">
+                        {data.qualification}
+                      </span>
+                    </span>
+                  )}
+
+                  {data.email && (
+                    <span className="team-form ">
+                      <i className="feather-mail me-3"></i>
+                      <span
+                        className="location"
+                        style={{ wordBreak: "break-word" }}
+                      >
+                        {data.email}
+                      </span>
+                    </span>
+                  )}
+
+                  {data.profile && (
+                    <div className="read-more-btn mt-auto">
+                      <Link href={data?.profile} target={data?.target}>
+                        <span className="rbt-btn-link">
+                          {data?.profileText}{" "}
+                          <i className="feather-arrow-up-right"></i>
+                        </span>
+                      </Link>
+                    </div>
+                  )}
+                </div>
+              </div>
+            </div>
+          </div>
+        ))}
+
+        {facultyContent?.faculty_1 && (
+          <p className="main-sub-ti fw-semibold my-2 pt-5">English</p>
+        )}
+        {facultyContent?.faculty_1?.map((data, index) => (
           <div
             className="col-xl-3 col-lg-4  col-sm-6 col-12 mt--30 d-flex"
             key={index}

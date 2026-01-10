@@ -1,3 +1,4 @@
+import DeptOfLanguage from "@/components/00-Kahe/AcademicsComponents/Arts/DeptOfLanguage";
 import BreadCrumb from "@/components/00-Kahe/common-components/BreadCrumb";
 
 
@@ -8,8 +9,7 @@ export const metadata = {
 const page = () => {
   return (
     <>
-      <BreadCrumb  />
-      <h5>Dept of bio tech</h5>
+      <DeptOfLanguage  />
     </>
   );
 };
