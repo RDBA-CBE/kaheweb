@@ -6,7 +6,6 @@ import Image from "next/image";
 import Link from "next/link";
 
 const Commitee = ({ data, paddingtop = false }) => {
-  console.log("data", data);
 
   return (
     <div className="commitee">

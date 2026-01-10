@@ -441,7 +441,7 @@ const Footer = () => {
             <a href="https://kahedu.edu.in/current-vacancies/" className="iitm-footer-link" target="_blank">
               Current Vacancies
             </a>
-            <a href="/kahe/https://karpagam.edu.in/Recruitment/#one" className="iitm-footer-link">
+            <a href="/kahe/https://karpagam.edu.in/Recruitment/#one" className="iitm-footer-link" target="_blank">
               Recruitment
             </a>
           </div>
