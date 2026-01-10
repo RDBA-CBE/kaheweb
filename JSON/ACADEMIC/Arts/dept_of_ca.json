@@ -1,0 +1,543 @@
+{
+  "title": "Department of Computer Application",
+  "bannerCon": "The University of Wyoming welcomes students to experience a one-of-a-kind education in the heart of the Mountain West.",
+  "applyLink": "#",
+  "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+  "tabs": [
+    {
+      "id": "overview",
+      "label": "Overview"
+    },
+    {
+      "id": "programme",
+      "label": "Programme"
+    },
+    {
+      "id": "faculty",
+      "label": "Faculty"
+    },
+    {
+      "id": "infrastructure",
+      "label": "Infrastructure"
+    },
+
+    {
+      "id": "publications",
+      "label": "Publications"
+    },
+    {
+      "id": "gallery",
+      "label": "Gallery"
+    },
+    {
+      "id": "events",
+      "label": "Events"
+    },
+    {
+      "id": "contact",
+      "label": "Contact Us"
+    },
+    {
+      "id": "testimonial",
+      "label": "Testimonial"
+    }
+  ],
+
+  "tabContent": [
+    {
+      "tab": "Overview",
+      "items": [
+        {
+          "type": "overview",
+          "subTitle": "Overview",
+          "contents": "The Department of Computer Applications was established in 2006 with the intent to provide quality education to the young aspirants. A team of 19 teaching and 05 technical staff members under the leadership of Dr. G.Devika unanimously harnesses its potential in all aspects to take the department to greater heights. The department had intake of 60 in 2006 and now the current intake for the undergraduate programme is 180. The Postgraduate (PG) programme in Computer Applications has a student intake of 120. Our curriculum is well structured and provides a strong foundation in every area of Computer Applications. The curriculum of the course syllabus comprises both classroom-based teachings as well as practical training along with internship programs. The curriculum can be persistently upgraded and revamped to prepare the students with all the necessary competencies in order to excel and become future-ready professionals as part of the workforce. Students are regularly placed in top MNCs with an average package of 13.5 LPA. Our students are pursuing higher education in top universities (Indian as well as Foreign). The department encourages students to participate in various National and International level competitions, project exhibitions, hackathons, sports events and extra-curricular activities. Students have won awards in various competitions including significant achievements in Smart India Hackathon. Department is also assisting students in getting internships at niche companies with pre-placement offer",
+          "image": "https://kahedu.edu.in/n/wp-content/uploads/2026/01/CA-1.jpg"
+        },
+
+        {
+          "type": "highlights",
+          "items": {
+            "title": "Highlights",
+            "src": "/images/Kahe/Innerpages/image-1.jpg",
+            "content": [
+              {
+                "icon": "rs-icon-book",
+                "value": "2008 – 2009",
+                "label": "Establishment"
+              },
+              {
+                "icon": "rs-icon-book",
+                "value": "782",
+                "label": "Student strength(2025-2026)"
+              },
+              {
+                "icon": "rs-icon-fund",
+                "value": "377",
+                "label": "Higher studies"
+              },
+              {
+                "icon": "rs-icon-lab",
+                "value": "250",
+                "text": "Total Number of NPTEL Courses Completed"
+              },
+              {
+                "icon": "rs-icon-complete",
+                "value": "60",
+                "text": "Patents(2025-2026)"
+              },
+              {
+                "icon": "rs-icon-complete",
+                "value": "50",
+                "text": "publications(2025-2026)"
+              },
+              {
+                "icon": "rs-icon-complete",
+                "value": "913",
+                "text": "Internship-National & International"
+              }
+            ]
+          }
+        },
+
+        {
+          "type": "hod",
+          "items": {
+            "content": [
+              {
+                "title1": "Head of the Department (HOD)",
+                "title": "",
+                "caption": "Professor and Head",
+                "content": "It is my distinct honour to serve as the Head of the Department of such an amazing and exciting place, and along with all our faculty members we welcome you to our home. It is my goal everyday to lead the Computing Streams towards an unmatched commitment to student success, the pursuit of research discoveries, and to support of our industry and community partners. In addition to our world-class degree programs, many of our students participate in extracurricular activities including regional programming contests, technical competitions, internships, and faculty directed research projects",
+                "src": "/images/Kahe/team-13.png"
+              }
+            ]
+          }
+        }
+      ]
+    },
+
+    {
+      "tab": "Programme",
+      "programmes": {
+        "title": "Programmes",
+        "content": [
+          {
+            "key": "ug",
+            "title": "Under Graduate Programme",
+            "img": "/images/others/health-b-02.png",
+            "items": ["BCA Computer Applications (Strength: 150)"],
+            "type": "programme"
+          },
+          {
+            "key": "pg",
+            "title": "Post Graduate Programme",
+            "img": "/images/others/health-b-02.png",
+            "items": ["MCA Computer Applications (Strength: 120)"],
+            "type": "programme"
+          }
+        ]
+      },
+      "curriculum": {
+        "title": "Curriculum",
+        "content": [
+          {
+            "key": "bsc",
+            "title": "BCA (Computer Applications)",
+            "img": "/images/others/health-b-02.png",
+            "type": "curriculum",
+            "items": [
+              {
+                "year": "2020-2021",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/07/BCA-2020-2021.pdf"
+              },
+              {
+                "year": "2021-2022",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2021/11/BCA-Syllabus-2021-2022-2.pdf"
+              },
+              {
+                "year": "2022-2023",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2022/09/BCA-2022-2023-Syllabus-final_12.04.2022.pdf"
+              },
+              {
+                "year": "2023-2024",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2024/04/BCA.pdf"
+              },
+              {
+                "year": "2024-2025",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/05/BCA-2024-2025-SYLLABUS.pdf"
+              },
+              {
+                "year": "2025-2026",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/10/BCA-Syllabus-2025-2026.pdf"
+              }
+            ]
+          },
+          {
+            "key": "msc",
+            "title": "MCA (Computer Applications)2018-2019",
+            "img": "/images/others/health-b-02.png",
+            "type": "curriculum",
+            "items": [
+              {
+                "year": "2020-2021",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/07/BCA-2020-2021.pdf"
+              },
+              {
+                "year": "2021-2022",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2021/11/BCA-Syllabus-2021-2022-2.pdf"
+              },
+              {
+                "year": "2022-2023",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2022/09/BCA-2022-2023-Syllabus-final_12.04.2022.pdf"
+              },
+              {
+                "year": "2023-2024",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2024/04/BCA.pdf"
+              },
+              {
+                "year": "2024-2025",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/05/BCA-2024-2025-SYLLABUS.pdf"
+              },
+              {
+                "year": "2025-2026",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/10/BCA-Syllabus-2025-2026.pdf"
+              }
+            ]
+          }
+        ]
+      }
+    },
+
+    {
+      "tab": "Faculty",
+      "slug": "department-of-computer-application",
+      "basic": {
+        "title": "Faculty",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Temporibus architecto magnam, eius, labore vel enim eveniet officiis veritatis reiciendis expedita ab odit nobis, itaque aspernatur suscipit odio inventore consectetur autem",
+        "src": "/images/Kahe/Innerpages/vission.jpg",
+        "buttonText": "View All Faculty"
+      },
+
+      "breadcrumbItems": [
+        { "label": "Academics", "href": "academics" },
+        {
+          "label": "Arts, Science, Commerce and Management",
+          "href": "academics/arts-science-and-humanities/"
+        },
+
+        {
+          "label": "Department of Computer Application",
+          "href": "/academics/arts-science-and-humanities/department-of-computer-application"
+        },
+        { "label": "Faculty" }
+      ],
+
+      "faculty": [
+        {
+          "name": "Dr. R. Gunasundari",
+          "qualification": "MCA.,M.Phil., Ph.D.,",
+          "designation": "Professor & Programme Coordinator",
+          "email": "gunasundari.r@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2026/01/1-Dr.R.Gunasundari.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr. G. Devika",
+          "qualification": "MCA,M.Phil, Ph.D",
+          "designation": "Professor & HOD",
+          "email": "devika.govindan@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2026/01/2-Devika.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr.S.Hemalatha",
+          "qualification": "B.Sc.,MCA.,PH.D",
+          "designation": "Associate Professor",
+          "email": "hemalathas.s@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2026/01/3-Dr.S.Hemalatha.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Mr. C. Balakumar",
+          "qualification": "MCA., ME.,",
+          "designation": "Assistant Professor",
+          "email": "balakumar.chellamuthu@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2026/01/4-BALAKUMAR.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Mr.S.Prabhu",
+          "qualification": "MCA., M.Phil.,(Ph.D).,",
+          "designation": "Assistant Professor",
+          "email": "prabhu.sakthivel@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2026/01/5-S.Prabu_.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Mrs. S. Banumathi",
+          "qualification": "MCA",
+          "designation": "Assistant Professor",
+          "email": "banumathiitt@gmail.com",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2026/01/6-Banumathi.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Ms. Y. Merlin",
+          "qualification": "MCA",
+          "designation": "Assistant Professor",
+          "email": "merlin.yogukumar@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2026/01/7-Merlin.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Mr. Sasikumar.S",
+          "qualification": "M.Sc. (SE)., M.Phil., (Ph.D.)",
+          "designation": "Assistant Professor",
+          "email": "sasikumar.sivan@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2026/01/8-S.Sasikumar.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Mr. G. Ravishankar",
+          "qualification": "M.Sc(CS)., (Ph.D)",
+          "designation": "Assistant Professor",
+          "email": "Ravishankar.govindaraj@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2026/01/9-Ravishankar.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Mrs. A. Sajuna",
+          "qualification": "M.C.A., M.Phil",
+          "designation": "Assistant Professor",
+          "email": "sajunanazir@gmail.com",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2026/01/10-SAJUNA.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Mrs. S. Rameela",
+          "qualification": "MCA",
+          "designation": "Assistant Professor",
+          "email": "rameelas.sathar@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2026/01/11-Rameela.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Ms. N. Sneha",
+          "qualification": "MCA",
+          "designation": "Assistant Professor",
+          "email": "snehanatarajan26@gmail.com",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2026/01/12-N.Sneha_.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Mrs. P. Shalini",
+          "qualification": "MCA.,",
+          "designation": "Assistant Professor",
+          "email": "shalini.palanisamy@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2026/01/13-SHALINI.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Mr.S.R.Dharan",
+          "qualification": "MCA",
+          "designation": "Assistant Professor",
+          "email": "dharan.ravichandran@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2026/01/14.-S.R.DHARAN-S.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Mrs. Pavithra M",
+          "qualification": "M.Sc., M.Phil.,",
+          "designation": "Assistant Professor",
+          "email": "pavithra.maniyan@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2026/01/15-Pavithra.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr.A.Elakkiya",
+          "qualification": "MCA,MBA,Mphil,Phd",
+          "designation": "Assistant Professor",
+          "email": "elakkiya.asockan@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2026/01/16-Dr.A.Elakkiya.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Ms. S. Sharmila",
+          "qualification": "M.C.A , M.Phil(CS)",
+          "designation": "Assistant Professor",
+          "email": "ssharmilasona@gamil.com",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2026/01/17-S-SHARMILA.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr. J. Sumitha",
+          "qualification": "M.C.A, M.Phil., Ph.D",
+          "designation": "Assistant Professor",
+          "email": "sumivenkat2006@gmail.com",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2026/01/Sumitha.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Mr Sundaresh S",
+          "qualification": "MCA,ME-CSE",
+          "designation": "Assistant Professor",
+          "email": "sundaresh.saminathan@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2026/01/19-Sundaresh.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        }
+      ],
+
+      "cardContent": {
+        "title": "AWARDS",
+
+        "content": [
+          {
+            "content": "Mr. G. Ravishankar, Assistant Professor, received the Best Assistant Professor Award from Silampoli Foundations for the year 2025.",
+
+            "src": "/images/Kahe/Innerpages/group.png"
+          },
+          {
+            "content": "Mr. S. Prabhu, Assistant Professor, received an Award for Social Service from Sindhanai Siragukal Nagai Sangamam in the year 2024.",
+
+            "src": "/images/Kahe/Innerpages/group.png"
+          },
+          {
+            "content": "Mr. S. Prabhu, Assistant Professor, received the Best Teacher Award from Mazhilchi in the year 2024.",
+            "src": "/images/Kahe/Innerpages/group.png"
+          },
+          {
+            "content": "Mr. G. Ravishankar received the Exceptional Changemaker Award from SAMMAT Foundation for the year 2023.",
+            "src": "/images/Kahe/Innerpages/group.png"
+          }
+        ]
+      },
+
+      "tableContent": {
+        "title": "FACULTY PARTICIPATION",
+        "content": [
+          {
+            "head": [
+              { "id": "col1", "label": "Faculty Name" },
+              { "id": "col2", "label": "Detail" }
+            ],
+            "data": [
+              {
+                "col1": { "text": "Dr. G. Devika" },
+                "col2": {
+                  "text": "Dr. G. Devika acted as an Examiner for the Ph.D. Viva Voce on 12th August 2025 at Providence College, Coonoor."
+                }
+              },
+              {
+                "col1": { "text": "Mrs. P. Shalini" },
+                "col2": {
+                  "text": "Mrs. P. Shalini participated in a Two-Day National Level Conference on “Road Map to Viksit Bharat – A Multi-Disciplinary Approach”, organized by THETA at Vellore Institute of Technology (VIT), Chennai, from 26th July 2025 to 27th July 2025."
+                }
+              },
+              {
+                "col1": { "text": "Mr. S. Prabhu and Mr. S. R. Dharan" },
+                "col2": {
+                  "text": "Mr. S. Prabhu and Mr. S. R. Dharan successfully completed the ICT Academy 5-Day Faculty Development Program (FDP) on Microsoft Power BI Data Analyst Associate at PSG College of Arts and Science, Coimbatore, from 22nd September 2025 to 26th September 2025."
+                }
+              },
+              {
+                "col1": { "text": "Mr. S. R. Dharan" },
+                "col2": {
+                  "text": "Mr. S. R. Dharan successfully completed the 10-Day Malaviya Mission Teacher Training Programme at Coimbatore from 17th March 2025 to 27th March 2025."
+                }
+              },
+              {
+                "col1": {
+                  "text": "Mr. S. R. Dharan, Dr. A. Elakkiya, and Dr. S. Hemalatha"
+                },
+                "col2": {
+                  "text": "Mr. S. R. Dharan, Dr. A. Elakkiya, and Dr. S. Hemalatha successfully completed the 5-Day Faculty Development Program (FDP) on Emerging Research Skills at SRM Institute of Science and Technology, Coimbatore, from 22nd July 2025 to 26th July 2025."
+                }
+              },
+              {
+                "col1": { "text": "Dr. A. Elakkiya" },
+                "col2": {
+                  "text": "Dr. A. Elakkiya successfully completed the International Conference on Research Perspective in New-Gen Computational Paradigms at St. Joseph’s College for Women, Tirupur, on 12th August 2025."
+                }
+              },
+              {
+                "col1": { "text": "Mrs. A. Sajuna" },
+                "col2": {
+                  "text": "Mrs. A. Sajuna successfully completed the International Conference on Research Perspective in New-Gen Computational Paradigms at St. Joseph’s College for Women, Tirupur, on 12th August 2025."
+                }
+              },
+              {
+                "col1": { "text": "Mrs. A. Sajuna" },
+                "col2": {
+                  "text": "Mrs. A. Sajuna successfully published a book chapter titled “Analysis of Autism Children’s Education Using Artificial Intelligence Techniques”, published by Orange Books Publications on 8th August 2025."
+                }
+              },
+              {
+                "col1": { "text": "Mrs. P. Shalini" },
+                "col2": {
+                  "text": "Mrs. P. Shalini participated in a Two-Day National Level Conference on “Road Map to Viksit Bharat – A Multi-Disciplinary Approach”, organized by Tamil Nadu Higher Education Teachers Association affiliated to Akhil Bhartiya Rashtriya Shaikshik Mahasangh (ABRSM), New Delhi, in association with Vellore Institute of Technology (VIT), Chennai, from 26th July 2025 to 27th July 2025."
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

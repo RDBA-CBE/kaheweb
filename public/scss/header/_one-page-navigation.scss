@@ -36,6 +36,7 @@
 
       gap: 10px;
       overflow-x: auto;
+      scrollbar-width: none;
 
       &::-webkit-scrollbar {
         width: 10px;
@@ -97,14 +98,12 @@
             &::after {
               width: 100%;
               opacity: 1;
-              background: #66170E;
+              background: #66170e;
             }
           }
         }
       }
     }
-
-    
   }
 
   &.version-02 {
