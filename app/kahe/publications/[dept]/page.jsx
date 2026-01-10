@@ -21,7 +21,7 @@ const Page = () => {
   console.log("Content", content);
 
   const bannerCon = {
-    bannerImg: "/images/Kahe/breadcrumb/banner-inner1.jpg",
+    bannerImg: "/images/Kahe/general/publications-banner.webp",
     title: "Publications",
   };
 
