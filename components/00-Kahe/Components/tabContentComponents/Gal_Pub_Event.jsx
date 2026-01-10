@@ -7,7 +7,8 @@ const Gal_Pub_Event = ({
   publicationsContent,
   eventsContent,
   galleryContent,
-  laboratoryContent
+  laboratoryContent,
+  placementContent,
 }) => {
   const router = useRouter();
 
@@ -38,10 +39,16 @@ const Gal_Pub_Event = ({
     router.push(`/kahe/gallery/${galleryContent.slug}`);
   };
 
-  const goToDeptLabotaory= () => {
+  const goToDeptLabotaory = () => {
     sessionStorage.setItem("labotoryData", JSON.stringify(laboratoryContent));
     sessionStorage.setItem("labotoryUrl", window.location.href);
     router.push(`/kahe/labotory/${laboratoryContent.slug}`);
+  };
+
+  const goToPlacement = () => {
+    sessionStorage.setItem("placementData", JSON.stringify(placementContent));
+    sessionStorage.setItem("placementUrl", window.location.href);
+    router.push(`/kahe/placements/${placementContent.slug}`);
   };
 
   return (
@@ -173,9 +180,9 @@ const Gal_Pub_Event = ({
             </div>
           )}
 
-{laboratoryContent && (
+          {laboratoryContent && (
             <div
-              id="gallery"
+              id="laboratory"
               className="col-lg-4 col-md-6 col-sm-6 col-12"
               onClick={goToDeptLabotaory} // 👈 On click push to /gallery
               style={{ cursor: "pointer" }} // 👈 To indicate clickable
@@ -193,6 +200,38 @@ const Gal_Pub_Event = ({
                   </div>
                   <div className="content">
                     <h5 className="title">Laboratory Gallery</h5>
+                    <div className="read-more-btn">
+                      <span className="rbt-btn-link">
+                        View <i className="feather-arrow-right"></i>
+                      </span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          )}
+
+           {placementContent && (
+            <div
+            id="placements"
+              className="col-lg-4 col-md-6 col-sm-6 col-12"
+              onClick={goToPlacement} // 👈 On click push to /events
+              style={{ cursor: "pointer" }} // 👈 To indicate clickable
+            >
+              <div className="rbt-cat-box rbt-cat-box-1 image-overlaping-content on-hover-content-visible">
+                <div className="inner">
+                  <div className="thumbnail">
+                    <Image
+                      src="/images/Kahe/Innerpages/infra-1.jpg"
+                      width={300}
+                      height={300}
+                      priority
+                      alt="Icons Images"
+                    />
+                  </div>
+                  <div className="content">
+                    <h5 className="title"> Placements</h5>
+
                     <div className="read-more-btn">
                       <span className="rbt-btn-link">
                         View <i className="feather-arrow-right"></i>

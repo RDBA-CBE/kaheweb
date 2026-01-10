@@ -12,6 +12,8 @@ import ProgrammesMbl from "./tabContentComponents/ProgrammesMbl";
 import Gal_Pub_Event from "./tabContentComponents/Gal_Pub_Event";
 import StudentsCom from "./tabContentComponents/StudentsCom";
 import QuoteBox from "./About/QuoteBox";
+import Testimonial from "./Testimonial";
+import AddContentCard from "./AddContentCard";
 
 const TabInnerSection = ({ tabSections, tabContent }) => {
   const tabItems = tabContent;
@@ -42,6 +44,16 @@ const TabInnerSection = ({ tabSections, tabContent }) => {
   const patentsContent = tabContent.find((item) => item.tab == "patents");
 
   const galleryContent = tabContent.find((item) => item.tab == "gallery");
+
+  const placementContent = tabContent.find((item) => item.tab == "placements");
+
+  const testimionialContent = tabContent.find(
+    (item) => item.tab == "testimonial"
+  );
+
+  const contactContent = tabContent.find(
+    (item) => item.tab == "contact"
+  );
 
   return (
     <>
@@ -114,9 +126,27 @@ const TabInnerSection = ({ tabSections, tabContent }) => {
             eventsContent={eventsContent && eventsContent}
             galleryContent={galleryContent && galleryContent}
             laboratoryContent={laboratoryContent && laboratoryContent}
+            placementContent={placementContent && placementContent}
           />
         </div>
-       
+
+        {contactContent && (
+          <section className="mb-3" id="contact">
+            <div className="section-wid " >
+              <AddContentCard data={contactContent?.contact} />
+            </div>
+          </section>
+        )}
+
+        {testimionialContent && (
+          <section className="section-bg3" id="testimonial">
+            <div className="section-wid " >
+              <Testimonial data={testimionialContent?.testimonial} />
+            </div>
+          </section>
+        )}
+
+
 
         {/* {publicationsContent && (
           <div
