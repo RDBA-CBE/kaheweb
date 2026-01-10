@@ -73,22 +73,22 @@ const HeaderLogos = ({ gapSpaceBetween, sticky, navigationEnd, container }) => {
                 <div className="header-info d-flex flex-column justify-content-center">
                   <ul className="social-share-transparent">
                     <li>
-                      <Link href="#">
+                      <Link href="https://www.facebook.com/wekaheians/" target="_blank">
                         <i className="fab fa-facebook-f"></i>
                       </Link>
                     </li>
                     <li>
-                      <Link href="#">
-                        <i className="fab fa-twitter"></i>
+                      <Link href="https://twitter.com/wekaheians" target="_blank">
+                        <i className="fab ">𝕏</i>
                       </Link>
                     </li>
                     <li>
-                      <Link href="#">
+                      <Link href="https://www.linkedin.com/company/wekaheians/about/?viewAsMember=true" target="_blank">
                         <i className="fab fa-linkedin-in"></i>
                       </Link>
                     </li>
                     <li>
-                      <Link href="#">
+                      <Link href="https://instagram.com/wekaheians?igshid=NGExMmI2YTkyZg==" target="_blank">
                         <i className="fab fa-instagram"></i>
                       </Link>
                     </li>
@@ -98,7 +98,7 @@ const HeaderLogos = ({ gapSpaceBetween, sticky, navigationEnd, container }) => {
                     </Link>
                   </li> */}
                     <li>
-                      <Link href="#">
+                      <Link href="https://www.youtube.com/@wekaheians" target="_blank">
                         <i className="fab fa-youtube"></i>
                       </Link>
                     </li>

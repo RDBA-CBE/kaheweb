@@ -32,8 +32,8 @@ const HeaderTop = ({
                 <div className="header-info">
                   <ul className="rbt-information-list">
                     <li>
-                      <Link href="tellto:+1-202-555-0174">
-                        <i className="feather-phone"></i>+1-202-555-0174
+                      <Link href="tellto:04222980011">
+                        <i className="feather-phone"></i>+91-422 – 2980011 – 14
                       </Link>
                     </li>
                   </ul>
@@ -42,8 +42,8 @@ const HeaderTop = ({
                 <div className="header-info">
                   <ul className="rbt-information-list">
                     <li>
-                      <Link href="mailto:abc@gmail.com">
-                        <i className="feather-mail"></i>abc@gmail.com
+                      <Link href="mailto:info@kahedu.edu.in">
+                        <i className="feather-mail"></i>info@kahedu.edu.in
                       </Link>
                     </li>
                   </ul>
@@ -57,22 +57,22 @@ const HeaderTop = ({
                 <div className="header-info">
                   <ul className="rbt-secondary-menu">
                     <li>
-                      <Link href="/my-account">Academic Calendar</Link>
+                      <Link href="#">Academic Calendar</Link>
                     </li>
                     <li>
-                      <Link href="#">Alumni Association</Link>
+                      <Link href="https://www.karpagamalumni.in/" target="_blank">Alumni Association</Link>
                     </li>
                     <li>
-                      <Link href="/contact"> Student Login</Link>
+                      <Link href="http://karpagam.edu.in/Automation/studentOnline.do?param=login&Id=1" target="_blank"> Student Login</Link>
                     </li>
                     <li>
-                      <Link href="/privacy-policy">Karpagam Publications</Link>
+                      <Link href="http://karpagampublications.com/" target="_blank">Karpagam Publications</Link>
                     </li>
                     <li>
-                      <Link href="#">Center for ODL/DL</Link>
+                      <Link href="https://kaheodl.edu.in/" target="_blank">Center for ODL/DL</Link>
                     </li>
                     <li>
-                      <Link href="#">Admission Enquiry</Link>
+                      <Link href="/kahe/admissions/admission-details/how-to-apply/">Admission Enquiry</Link>
                     </li>
                   </ul>
                 </div>
