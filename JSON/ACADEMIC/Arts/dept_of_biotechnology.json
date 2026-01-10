@@ -20,22 +20,12 @@
       "id": "infrastructure",
       "label": "Infrastructure"
     },
-    {
-      "id": "students",
-      "label": "Students"
-    },
-    {
-      "id": "patents",
-      "label": "Patents/MoUs"
-    },
+
     {
       "id": "publications",
       "label": "Publications"
     },
-    {
-      "id": "gallery",
-      "label": "Gallery"
-    },
+
     {
       "id": "events",
       "label": "Events"
@@ -48,9 +38,14 @@
         {
           "type": "overview",
           "subTitle": "Overview",
-          "contents": "The Department Biotechnology was established in 2001 at Karpagam Arts and Science College then the KASC promoted in 2009 as Karpagam Academy of Higher Education (KAHE) (Deemed University). The Department of Biotechnology offering 4 year B.Sc., Biotechnology programmes, 2 year M.Sc., Biotechnology programme, and Ph.D. in Biotechnology programme.The Department of Biotechnology at KAHE is a Centre for excellence in research with excellent faculty members. The department mainly concentrating research on Natural Products, Phytotherapeutics, Functional Foods, Nano Biotechnology, Plant Molecular Biology, Environmental Toxicology, Cancer Biology and Bioinformatics. Also the department established a Centre of excellence for Natural Products and Functional Foods and Bioinformatics. The progress of the department is consistent over the years and received a research grants Rs. 2.01 crores from DBT, DST, SERB and TNSCST. During the last 10 years, the department has made all round progress and is on par with the well-established departments of the KAHE. It is commendable to mention that the department is recognized by DST and recipient of Rs. 44.80 Lakhs from the DST-FIST, Govt. of India for the infrastructure improvement of the development. Through these research grants our faculties have published more than 254 research articles during last five years. At present the department holds 4 Indian patents.The Department holds two Centre of excellence Centre for Natural Products and Functional Foods and Centre for Bioinformatics with highly sophisticated instruments such as Ultra-High Performance Liquid Chromatography, Atomic Absorption Spectrophotometer, 2D Gel Electrophoresis, Particle Bombardment (Gene Gun), Florescence Microscope, Fourier transform infrared Spectroscopy, High Performance Liquid Chromatography and Gas Chromatography.",
-          "image": "/images/Kahe/academics/arts-and-science/biotechnology/biotechnology-overview.png"
+          "contents": "The Department Biotechnology was established in 2001 at Karpagam Arts and Science College then the KASC promoted in 2009 as Karpagam Academy of Higher Education (KAHE) (Deemed University). The Department of Biotechnology offering 4 year B.Sc., Biotechnology programmes, 2 year M.Sc., Biotechnology programme, and Ph.D. in Biotechnology programme. The Department of Biotechnology at KAHE is a Centre for excellence in research with excellent faculty members. The department mainly concentrating research on Natural Products, Phytotherapeutics, Functional Foods, Nano Biotechnology, Plant Molecular Biology, Environmental Toxicology, Cancer Biology and Bioinformatics. Also the department established a Centre of excellence for Natural Products and Functional Foods and Bioinformatics. The progress of the department is consistent over the years and received a research grants Rs. 2.01 crores from DBT, DST, SERB and TNSCST. During the last 10 years, the department has made all round progress and is on par with the well-established departments of the KAHE. It is commendable to mention that the department is recognized by DST and recipient of Rs. 44.80 Lakhs from the DST-FIST, Govt. of India for the infrastructure improvement of the development. Through these research grants our faculties have published more than 254 research articles during last five years. At present the department holds 4 Indian patents. The Department holds two Centre of excellence Centre for Natural Products and Functional Foods and Centre for Bioinformatics with highly sophisticated instruments such as Ultra-High Performance Liquid Chromatography, Atomic Absorption Spectrophotometer, 2D Gel Electrophoresis, Particle Bombardment (Gene Gun), Florescence Microscope, Fourier transform infrared Spectroscopy, High Performance Liquid Chromatography and Gas Chromatography.",
+          "image": [
+            { "src": "/images/others/video-07.jpg" },
+            { "src": "/images/others/video-07.jpg" },
+            { "src": "/images/others/video-07.jpg" }
+          ]
         },
+
         {
           "type": "vision",
           "subTitle": "Vision",
@@ -65,11 +60,12 @@
           "subTitle": "Mission",
           "src": "/images/Kahe/Innerpages/goal.png",
           "content": [
-            "To promote quality and value-based education by motivating the technical skills of students and creating awareness on the recent advances in Microbiology and research fields worldwide, making each student a better citizen of India.",
+            "Educating the students to acquire knowledge and skills, to comprehend and commercialize technologies and products.",
             "Training the learners to find out the new technologies and products based on the applications of the life sciences.",
-            "Making the students to involve in multi-disciplinary research for providing the solutions to solve the issues on human and animal health, agriculture and environment by their technologies."
+            "Making the students to involve in multi-disciplinary research for providing the solutions to solve the issues on human and animal health, agriculture and environment by their technologies. "
           ]
         },
+
         {
           "type": "highlights",
           "items": {
@@ -78,8 +74,8 @@
             "content": [
               {
                 "icon": "rs-icon-book",
-                "value": "2001",
-                "label": "Established"
+                "value": "254",
+                "label": "Publications"
               },
               {
                 "icon": "rs-icon-book",
@@ -88,48 +84,61 @@
               },
               {
                 "icon": "rs-icon-fund",
-                "value": "554",
-                "label": "Publications"
+                "value": "23.56 Lks",
+                "label": "Seed money granted"
               },
               {
                 "icon": "rs-icon-lab",
-                "value": "23.56 Lakhs",
-                "text": "Seed Money"
+                "value": "8",
+                "text": "Ph.D Awarded"
               },
               {
                 "icon": "rs-icon-complete",
-                "value": "79",
-                "text": "PhD awarded"
-              },
-              {
-                "icon": "rs-icon-lab",
                 "value": "84",
-                "text": "Events Organised"
+                "text": "Events organized"
               },
               {
-                "icon": "rs-icon-complete",
+                "icon": "rs-icon-ongoing",
                 "value": "15",
-                "text": "Foreign internship"
+                "text": "Internship and Higher Studies <br /> – Abroad"
               },
               {
-                "icon": "rs-icon-lab",
+                "icon": "rs-icon-ongoing",
+                "value": "10",
+                "text": "Total Number of NPTEL  <br /> Completed Faculty"
+              },
+              {
+                "icon": "rs-icon-ongoing",
                 "value": "30",
-                "text": "NPTEL Completed"
+                "text": "Total Number of NPTEL  <br /> Completed Students"
               },
               {
-                "icon": "rs-icon-complete",
-                "value": "2",
-                "text": "Centre of Excellence"
+                "icon": "rs-icon-ongoing",
+                "value": "1",
+                "text": "Centre for Natural products <br />  and functional foods"
+              },
+
+              {
+                "icon": "rs-icon-ongoing",
+                "value": "1",
+                "text": "Centre for Bioinformatics "
+              },
+
+              {
+                "icon": "rs-icon-ongoing",
+                "value": "1",
+                "text": "Centre for Bioinformatics "
+              },
+
+              {
+                "icon": "rs-icon-ongoing",
+                "value": "201.86 Lks",
+                "text": "On going - 5 <br/> Funded project"
               },
               {
-                "icon": "rs-icon-lab",
-                "value": "201.86 Lakhs",
-                "text": "Ongoing Projects"
-              },
-              {
-                "icon": "rs-icon-complete",
-                "value": "138 Lakhs",
-                "text": "Completed Projects"
+                "icon": "rs-icon-ongoing",
+                "value": "138 Lks",
+                "text": "Completed - 6 <br/> Funded project"
               }
             ]
           }
@@ -141,15 +150,16 @@
               {
                 "title1": "Head of the Department (HOD)",
                 "title": "Dr. A. Sangilimuthu",
-                "caption": "Professor and Head",
-                "content": "I am glad to welcome you to the Department of Biotechnology under the Faculty of Arts, Science, Commerce and Management, Karpagam Academy of Higher Education. The Department is recognized as excellent in academic and research by Department of Science and Technology, New Delhi, India and committed to advancing education, research in frontier areas of Biotechnology, empowering young minds with scientific knowledge, research aptitude, and societal responsibility.Since joining the University in 2009, I have had the privilege of witnessing the department grow into a vibrant hub of learning, innovation, and research. Our vision is to nurture students with strong theoretical foundations and hands-on laboratory expertise, preparing them to meet global challenges in healthcare, agriculture, recombinant DNA technology, environmental biotechnology, and industrial biotechnology.As a Professor in the Department, I am proud to be part of a team of passionate and highly qualified faculty members who are deeply committed to academic excellence and research. The department’s research strength is reflected in the extensive publications in SCI/Scopus indexed journals (254 publications for the last 5 years), peer-reviewed contributions, patents, and major funded research projects supported by prestigious scientific bodies such as DBT, DST, SERB, TARE and TNSCST.The Department offers programs designed to meet the expectations of academia, industry, and research organizations. Students gain a strong research exposure through internships, industrial training, and dissertation work of publishable quality in their final semester, giving them an academic and professional advantage in pursuing careers or higher studies in India and abroad.I invite you to explore our website to learn more about the department, our faculty expertise, research focus, academic programs, achievements, and upcoming events. Thank you for your interest in the Department of Biotechnology.",
-                "src": "/images/Kahe/team-13.png"
+                "caption": "HOD",
+                "content": "I am glad to welcome you to the Department of Biotechnology under the Faculty of Arts, Science, Commerce and Management, Karpagam Academy of Higher Education. The Department is recognized as excellent in academic and research by Department of Science and Technology, New Delhi, India and committed to advancing education, research in frontier areas of Biotechnology, empowering young minds with scientific knowledge, research aptitude, and societal responsibility. Since joining the University in 2009, I have had the privilege of witnessing the department grow into a vibrant hub of learning, innovation, and research. Our vision is to nurture students with strong theoretical foundations and hands-on laboratory expertise, preparing them to meet global challenges in healthcare, agriculture, recombinant DNA technology, environmental biotechnology, and industrial biotechnology. As a Professor in the Department, I am proud to be part of a team of passionate and highly qualified faculty members who are deeply committed to academic excellence and research. The department’s research strength is reflected in the extensive publications in SCI/Scopus indexed journals (254 publications for the last 5 years), peer-reviewed contributions, patents, and major funded research projects supported by prestigious scientific bodies such as DBT, DST, SERB, TARE and TNSCST. The Department offers programs designed to meet the expectations of academia, industry, and research organizations. Students gain a strong research exposure through internships, industrial training, and dissertation work of publishable quality in their final semester, giving them an academic and professional advantage in pursuing careers or higher studies in India and abroad. I invite you to explore our website to learn more about the department, our faculty expertise, research focus, academic programs, achievements, and upcoming events. Thank you for your interest in the Department of Biotechnology.",
+                "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/biotech-hod.png"
               }
             ]
           }
         }
       ]
     },
+
     {
       "tab": "Programme",
       "programmes": {
@@ -158,28 +168,25 @@
           {
             "key": "ug",
             "title": "Under Graduate Programme",
-            "img": "/images/Kahe/academics/arts-and-science/biotechnology/studentprogrammes.png",
-            "items": [
-              "B.Sc. Biotechnology (Strength: 60)"
-            ],
+            "img": "/images/others/health-b-02.png",
+            "items": ["B.Sc. Biotechnology (Strength: 60)"],
+
             "type": "programme"
           },
           {
             "key": "pg",
-            "title": "Post Graduate Programme",
-            "img": "/images/Kahe/academics/arts-and-science/biotechnology/studentprogrammes.png",
-            "items": [
-              "M.Sc. Biotechnology (Strength: 40)"
-            ],
+            "title": "Post Graduate Programmes",
+            "img": "/images/others/health-b-02.png",
+            "items": ["M.Sc. Biotechnology (Strength: 60)"],
+
             "type": "programme"
           },
           {
             "key": "res",
             "title": "Research Programmes",
-            "img": "/images/Kahe/academics/arts-and-science/biotechnology/studentprogrammes.png",
-            "items": [
-              "Ph.D. Biotechnology"
-            ],
+            "img": "/images/others/health-b-02.png",
+            "items": ["M.Phil Biotechnology", "Ph.D. Biotechnology"],
+
             "type": "programme"
           }
         ]
@@ -231,31 +238,31 @@
               },
               {
                 "year": "2019-2020",
-                "link": "https://kahedu.edu.in/n/wp-content/uploads/2021/01/2019-M.Sc_.-Biotechnology_syllabus.pdf"
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/07/B.Sc_.-Biotechnology-2020-2021.pdf"
               },
               {
                 "year": "2020-2021",
-                "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/07/M.Sc_.-Biotechnology-2020-2021.pdf"
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/07/B.Sc_.-Biotechnology-2020-2021.pdf"
               },
               {
                 "year": "2021-2022",
-                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/11/PG-2021-2022.pdf"
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/07/B.Sc_.-Biotechnology-2020-2021.pdf"
               },
               {
                 "year": "2022-2023",
-                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/11/PG-2022-2023.pdf"
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/11/UG-2022-2023.pdf"
               },
               {
                 "year": "2023-2024",
-                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/11/PG-2023-2024.pdf"
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/11/UG-2023-2024.pdf"
               },
               {
                 "year": "2024-2025",
-                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/11/PG-2024-2025.pdf"
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/11/UG-2025-2026.pdf"
               },
               {
                 "year": "2025-2026",
-                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/11/PG-2025-2026.pdf"
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/11/UG-2025-2026.pdf"
               }
             ]
           },
@@ -267,27 +274,11 @@
             "items": [
               {
                 "year": "2020-2021",
-                "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/07/Ph.D_Biotechnology-2020-2021.pdf"
-              },
-              {
-                "year": "2021-2022",
-                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/11/PhD-2021-2022.pdf"
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/07/UG-Biochemistry_Syllabus_2020-2021.pdf"
               },
               {
                 "year": "2022-2023",
-                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/11/Ph.D-2022-2023.pdf"
-              },
-              {
-                "year": "2023-2024",
-                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/11/Ph.D-2023-2024.pdf"
-              },
-              {
-                "year": "2024-2025",
-                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/11/Ph.D-2024-2025.pdf"
-              },
-              {
-                "year": "2025-2026",
-                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/11/Ph.D-2025-2026.pdf"
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/07/UG-Biochemistry_Syllabus_2020-2021.pdf"
               }
             ]
           }
@@ -299,27 +290,26 @@
       "slug": "department-of-biotechnology",
       "basic": {
         "title": "Faculty",
-        "description": "Our faculty members are the major cause for our sustained capacity to impart vivacious and value-based education for the student community. This platform paves a pathway to our faculty members to progress their knowledge and to carry the observed concepts to the classrooms and laboratories, thus, serving the students in the department",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris",
         "src": "/images/Kahe/Innerpages/vission.jpg",
         "buttonText": "View All Faculty"
       },
+
       "breadcrumbItems": [
-        {
-          "label": "Academics",
-          "href": "academics"
-        },
+        { "label": "Academics", "href": "academics" },
+
         {
           "label": "Arts, Science, Commerce and Management",
           "href": "academics/arts-science-and-humanities/"
         },
+
         {
-          "label": "Department of Biotechnology",
+          "label": "Department of BioTechnology",
           "href": "/academics/arts-science-and-humanities/department-of-biotechnology"
         },
-        {
-          "label": "Faculty"
-        }
+        { "label": "Faculty" }
       ],
+
       "faculty": [
         {
           "name": "Dr. A. Sangilimuthu",
@@ -334,7 +324,7 @@
         },
         {
           "name": "Dr.S.Balamurugan",
-          "qualification": "M.Sc., Ph.D.",
+          "qualification": "M.Sc., Ph.D.,",
           "designation": "Associate Professor",
           "email": "balamurugan.shanmugaraj@kahedu.edu.in",
           "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Dr.S-.Balamurugan-One-page-biodata-for-KAHE-website_19.11.-2024.pdf",
@@ -411,7 +401,7 @@
         },
         {
           "name": "Dr.R.Srinath",
-          "qualification": "M.Sc., Ph.D.",
+          "qualification": "M.Sc., Ph.D",
           "designation": "Assistant Professor",
           "email": "srinath.rajeswaran@kahedu.edu.in",
           "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Dr.-R.-Srinath-One-page-biodata.pdf",
@@ -422,7 +412,7 @@
         },
         {
           "name": "Dr.R.Amsaveni",
-          "qualification": "M.Sc., (Ph.D)",
+          "qualification": "MSc., (Ph.D)",
           "designation": "Assistant Professor",
           "email": "amsaveni.ramasamy@kahedu.edu.in",
           "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Dr.-R.-Amsaveni-One-page-biodata-Nov-2024.pdf",
@@ -433,7 +423,7 @@
         },
         {
           "name": "Dr.P.S.Reethy",
-          "qualification": "M.Sc., Ph.D., SET, PGDBD, M.Sc., Botany",
+          "qualification": "M.Sc., Ph.D., SET, PGDBD, M. Sc., Botany.,",
           "designation": "Assistant Professor",
           "email": "reethy.sreedharan@kahedu.edu.in",
           "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/One-page-biodata-Dr.Reethy.pdf",
@@ -476,8 +466,8 @@
           "target": "_blank"
         },
         {
-          "name": "Dr. M. Rajkumar",
-          "qualification": "M.Sc., M.Phil., PGDBI., SET., (Ph.D)",
+          "name": "Dr. Dr. M. Rajkumar",
+          "qualification": "M.Sc., M.phil., PGDBI., SET., (Ph.D)",
           "designation": "Assistant Professor",
           "email": "rajkumar.manickam@kahedu.edu.in",
           "profile": "",
@@ -488,7 +478,7 @@
         },
         {
           "name": "Dr. V.V. Sathibabu Uddandrao",
-          "qualification": "M.Sc., Ph.D.",
+          "qualification": "M.Sc., Ph.D",
           "designation": "Assistant Professor",
           "email": "sathibabuuddandrao.veeraraghavulu@kahedu.edu.in",
           "profile": "",
@@ -499,61 +489,77 @@
         }
       ]
     },
+
     {
       "tab": "Infrastructure",
       "items": [
         {
-          "type": "laboratories",
-          "title": "Facilities / Infrastructure List",
-          "desc": "The UG, PG and Research labs of the department contains all the important equipment and offers an all-inclusive atmosphere for the students to work around. ",
+          "type": "infrastructure",
+          "title": "Department Infrastructure",
           "content": [
-            "Fermenter",
-            "HPLC",
-            "GC-FID",
-            "Walk-in Cold Room",
-            "Walk-in Hot Room",
-            "Multi ELISA Reader",
-            "Freeze Drier",
-            "Phase Contrast Microscope",
-            "Shaker Incubator",
-            "PCR",
-            "Agarose Gel Electrophoresis",
-            "SDS-PAGE Electrophoresis"
+            {
+              "title": "Staff room",
+              "count": "05"
+            },
+            {
+              "title": "Class room",
+              "count": "08"
+            }
+          ]
+        },
+        {
+          "type": "laboratories",
+          "title": "Facilities laboratories List",
+
+          "content": [
+            "UG & PG Biotechnology labs",
+            "Plant Tissue culture lab",
+            "Microbiology lab",
+            "Animal Tissue culture lab",
+            "Research and Development lab",
+            "Animal house and Instrumentation lab",
+            "Central Instrumentation Facility",
+            "Drug design and development lab"
           ]
         },
         {
           "type": "equipment",
           "title": "Major Research Equipments",
           "content": [
-            "Agarose Gel Electrophoresis",
-            "SDS-PAGE Apparatus",
-            "Sonicator",
-            "Shaker Incubator",
-            "Phase Contrast Microscope",
+            "Inverted, Binocular and Trinocular Microscope",
+            "Fluorescence microscope",
+            "Phase contrast microscope",
+            "Deep Freezers",
+
             "PCR",
-            "Multi plate ELISA Reader",
-            "Freeze Drier",
-            "Fermentor",
-            "HPLC",
-            "GC-FID",
-            "Walk-in Cold Room",
-            "Walk-in Hot Room"
+            "Real Time PCR",
+            "ELISA",
+            "AAS",
+            "UV-Visible Spectrophotometer",
+            "Gel documentation system",
+            "Southern Blotting Unit",
+            "Western Blotting Unit",
+            "Electrophoresis units",
+            "Walk-in Cold room",
+            "Walk-in Hot room",
+            "Cooling Centrifuge",
+            "Ultra Centrifuge",
+            "CO2, BOD and Biological Incubators",
+            "2D PAGE system",
+            "Particle gun bombardment"
           ]
         },
+
         {
           "type": "library",
           "title": "Department Library",
-          "desc": "The department has outstanding library facilities, which comprises up-to-date editions of Books, National/International Journals and Magazines covering all fields of Microbiology",
+
           "content": [
-            "Bacteriology",
-            "Virology",
-            "Microbial Physiology",
-            "Microbial Genetics",
-            "Mycology",
-            "Parasitology",
-            "Immunology",
-            "Industrial Microbiology",
-            "Environmental Microbiology"
+            "Total number of reference books: 107",
+            "Newsletters : 15",
+            "Journals : 15",
+            "Proceedings : 22",
+            "Ph.D thesis : 32"
           ]
         },
         {
@@ -561,213 +567,34 @@
           "slug": "department-of-biotechnology",
           "images": [
             {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Fermentor-1024x576.jpg",
-              "alt": "Fermentor",
-              "title": "Fermentor"
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/SCIENCE-ACADEMIES-14-3-150x150.png",
+              "alt": "Karpagam Academy of Higher Education | information technology colleges in coimbatore"
             },
             {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Cold-room-facility.jpg",
-              "alt": "Cold room facility",
-              "title": "Cold room facility"
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/SCIENCE-ACADEMIES-14-2-150x150.png",
+              "alt": "Karpagam Academy of Higher Education | be cyber security colleges in tamilnadu"
             },
             {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Shaker-Incubator-717x1024.jpg",
-              "alt": "Shaker Incubator",
-              "title": "Shaker Incubator"
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/SCIENCE-ACADEMIES-14-1-150x150.png",
+              "alt": "Karpagam Academy of Higher Education | b.tech artificial intelligence and data science colleges in tamilnadu"
             },
             {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Laminar-Airflow-Chamber-2-1024x493.jpg",
-              "alt": "Laminar Airflow Chamber -2",
-              "title": "Laminar Airflow Chamber"
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/NCBHW14-1-150x150.png",
+              "alt": "Karpagam Academy of Higher Education | artificial intelligence colleges in tamilnadu"
             },
             {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Laminar-Airflow-Chamber-1-1024x597.jpg",
-              "alt": "Laminar Airflow Chamber -1",
-              "title": "Laminar Airflow Chamber"
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/NCBHW14-150x150.png",
+              "alt": "Karpagam Academy of Higher Education | best mba colleges in coimbatore under tancet"
             },
             {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Phase-Contrast-Microscope.jpg",
-              "alt": "Phase Contrast Microscope",
-              "title": "Phase Contrast Microscope"
-            },
-            {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Practical-Session-4-1024x768.jpg",
-              "alt": "Practical Session-4",
-              "title": "Practical Session"
-            },
-            {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Practical-Session-3-768x1024.jpg",
-              "alt": "Practical Session-3",
-              "title": "Practical Session"
-            },
-            {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Practical-Session-2-768x1024.jpg",
-              "alt": "Practical Session-2",
-              "title": "Practical Session"
-            },
-            {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Practical-Session-1-1024x768.jpg",
-              "alt": "Practical Session-1",
-              "title": "Practical Session"
-            },
-            {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/ug-lab-150x150.jpg",
-              "alt": "Best UG lab facilities at Karpagam Academy"
-            },
-            {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/pg-lab-150x150.jpg",
-              "alt": "Best Research lab facilities at KAHE"
-            },
-            {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/research-lab-150x150.jpg",
-              "alt": "Best Research lab facilities at Karpagam Academy"
-            },
-            {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/3-scaled-150x150.jpg",
-              "alt": "Best Research lab facilities at Karpagam Academy of Higher Education"
-            },
-            {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/4-scaled-150x150.jpg",
-              "alt": "Best lab facilities at Karpagam Academy of Higher Education"
-            },
-            {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/5-150x150.jpg",
-              "alt": "Best lab facilities at Karpagam Academy"
-            },
-            {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/6-150x150.jpg",
-              "alt": "Best lab facilities at KAHE"
-            },
-            {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/7-150x150.jpg",
-              "alt": "Best lab facilities"
-            },
-            {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/1-scaled-150x150.jpg",
-              "alt": "Best Microbiology lab"
-            },
-            {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/2-scaled-150x150.jpg",
-              "alt": "Microbiology lab"
-            },
-            {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/1-8-150x150.jpg",
-              "alt": "Karpagam Academy - Department of Microbiology"
-            },
-            {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/2-7-150x150.jpg",
-              "alt": "Department of Microbiology - Top College In Coimbatore, India"
-            },
-            {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/3-6-150x150.jpg",
-              "alt": "Department of Microbiology - Top College In Coimbatore, Tamilnadu"
-            },
-            {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/4-3-150x150.jpg",
-              "alt": "Department of Microbiology - Top College In Coimbatore"
-            },
-            {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/5-3-150x150.jpg",
-              "alt": "KAHE's Department of Microbiology"
-            },
-            {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/6-2-150x150.jpg",
-              "alt": "Department of Microbiology - top engineering colleges in coimbatore, India"
-            },
-            {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/7-1-150x150.jpg",
-              "alt": "Department of Microbiology - best placement colleges in coimbatore"
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/NCBBE-14_2-150x150.png",
+              "alt": "Karpagam Academy of Higher Education | best mca colleges in tamilnadu,India"
             }
           ]
         }
       ]
     },
-    {
-      "tab": "students",
-      "title": "students",
-      "content": [
-        {
-          "data1": {
-            "type": "vision",
-            "subTitle": "Association",
-            "src": "/images/Kahe/Innerpages/vision.png",
-            "content": [
-              "MICROINNOVATA is the association of the Department of Microbiology. In the year 2025, the association was inaugurated with an insightful and thought-provoking guest lecture on the topic “Microbiology – Beyond Classrooms and Laboratories”."
-            ]
-          },
-          "data2": {
-            "type": "mission",
-            "subTitle": "Achievements /Awards",
-            "src": "/images/Kahe/Innerpages/goal.png",
-            "content": [
-              "The students of the department visited countries like Taiwan and Poland for the Internship and Student Exchange program.",
-              "Best student project under Student Projects Scheme (2023 – 2024) was awarded by Tamil Nādu State Council for Science and Technology (TNSCST), Chennai."
-            ]
-          }
-        },
-        {
-          "data1": {
-            "type": "mission",
-            "subTitle": "Placement",
-            "src": "/images/Kahe/Innerpages/goal.png",
-            "content": [
-              "The students of the Department of Microbiology (50< students in 2024-25) have been placed in several industries and organizations like BIOCON, Microbiological Laboratories, Indian Immunologicals, BECQ Radiological Service Provider LLP., Amura Health Care, Cotivity, Corrohealth, Optum, Molecular Connections and Clarus"
-            ]
-          },
-          "data2": {
-            "type": "mission",
-            "subTitle": "Alumni",
-            "src": "/images/Kahe/Innerpages/goal.png",
-            "content": [
-              "The department alumni encompass scientists in Pharmaceutical and Biotechnology Industries, research associates and Teachers in universities and colleges in India and abroad. The department of Microbiology is organising Alumni Interaction Sessions every month for the benefit of the students in the department."
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "tab": "patents",
-      "title": "Patents/MoUs",
-      "content": [
-        {
-          "data1": {
-            "type": "vision",
-            "subTitle": "Association",
-            "src": "/images/Kahe/Innerpages/vision.png",
-            "content": [
-              "MICROINNOVATA is the association of the Department of Microbiology. In the year 2025, the association was inaugurated with an insightful and thought-provoking guest lecture on the topic “Microbiology – Beyond Classrooms and Laboratories”."
-            ]
-          },
-          "data2": {
-            "type": "mission",
-            "subTitle": "Achievements /Awards",
-            "src": "/images/Kahe/Innerpages/goal.png",
-            "content": [
-              "The students of the department visited countries like Taiwan and Poland for the Internship and Student Exchange program.",
-              "Best student project under Student Projects Scheme (2023 – 2024) was awarded by Tamil Nādu State Council for Science and Technology (TNSCST), Chennai."
-            ]
-          }
-        },
-        {
-          "data1": {
-            "type": "mission",
-            "subTitle": "Placement",
-            "src": "/images/Kahe/Innerpages/goal.png",
-            "content": [
-              "The students of the Department of Microbiology (50< students in 2024-25) have been placed in several industries and organizations like BIOCON, Microbiological Laboratories, Indian Immunologicals, BECQ Radiological Service Provider LLP., Amura Health Care, Cotivity, Corrohealth, Optum, Molecular Connections and Clarus"
-            ]
-          },
-          "data2": {
-            "type": "mission",
-            "subTitle": "Alumni",
-            "src": "/images/Kahe/Innerpages/goal.png",
-            "content": [
-              "The department alumni encompass scientists in Pharmaceutical and Biotechnology Industries, research associates and Teachers in universities and colleges in India and abroad. The department of Microbiology is organising Alumni Interaction Sessions every month for the benefit of the students in the department."
-            ]
-          }
-        }
-      ]
-    },
+
     {
       "tab": "Publications",
       "slug": "department-of-biotechnology",

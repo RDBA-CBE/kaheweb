@@ -1,21 +1,19 @@
 "use client"
 
 import BreadCrumb from "@/components/00-Kahe/common-components/BreadCrumb";
-// import MenuData from "@/data/kahe/MegaMenu.json";
-// import BreadcrumbImage from "../../../../../public/images/Kahe/breadcrumb/banner-inner1.jpg";
-// import CourseData from "../../../../../data/course-details/courseData.json";
 import TabInnerSection from "@/components/00-Kahe/Components/TabInnerSection";
 import { subMenu } from "@/JSON/ACADEMIC/Overview";
-import data from "../../../../JSON/ACADEMIC/Arts/dept_of_cs.json";
+import data from "../../../../JSON/ACADEMIC/Arts/dept_of_maths.json";
 import InnerBanner from "@/components/00-Kahe/common-components/InnerBanner";
 import SidebarCopy from "../../common-components/Sidebar2";
 import { Provider } from "react-redux";
 import Context from "@/context/Context";
 import Store from "@/redux/store";
 
+
 console.log("data", data);
 
-const DepartmentOfComputerScience = () => {
+const DeptOfMaths = () => {
   const breadcrumbItems = [
     { label: "Academics", href: `academics` },
     {
@@ -23,7 +21,7 @@ const DepartmentOfComputerScience = () => {
       href: `academics/arts-science-and-humanities/`,
     },
 
-    { label: "Department of Computer Science" },
+    { label: "Department of Maths" },
   ];
   return (
     <>
@@ -62,4 +60,4 @@ const DepartmentOfComputerScience = () => {
   );
 };
 
-export default DepartmentOfComputerScience;
+export default DeptOfMaths;
