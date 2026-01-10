@@ -26,7 +26,7 @@
     },
     {
       "id": "patents",
-      "label": "Patents/MoUs"
+      "label": "Department Highlight"
     },
     {
       "id": "publications",
@@ -50,6 +50,66 @@
           "subTitle": "Overview",
           "contents": "The Department of Computer Science, established with B.Sc. Computer Science in 1995 and now it is offering a Postgraduate programme and Research Programme. The department provides a current and comprehensive learning environment for the students. The department fosters personal and professional growth for both students and faculty and is committed to impart quality education by providing strong fundamental knowledge complemented by extensive practical training. With academic autonomy, the department regularly updates its curriculum and syllabi enabling the students to apply the latest techniques, methods, and tools to solve problems in all domains.",
           "image": "/images/others/video-07.jpg"
+        },
+        {
+          "type": "highlights",
+          "items": {
+            "title": "Highlights",
+            "src": "/images/Kahe/Innerpages/image-1.jpg",
+            "content": [
+              {
+                "icon": "rs-icon-book",
+                "value": "300+",
+                "label": "No. of Publications"
+              },
+              {
+                "icon": "rs-icon-book",
+                "value": "20+",
+                "label": "Faculty Strength"
+              },
+              {
+                "icon": "rs-icon-fund",
+                "value": "650+",
+                "label": "Student Strength"
+              },
+              {
+                "icon": "rs-icon-lab",
+                "value": "20",
+                "text": "Patents"
+              },
+              {
+                "icon": "rs-icon-complete",
+                "value": "5+",
+                "text": "MOU’s"
+              },
+              {
+                "icon": "rs-icon-ongoing",
+                "value": "2",
+                "text": "SET Qualified"
+              },
+              {
+                "icon": "rs-icon-ongoing",
+                "value": "10",
+                "text": "No. of. PhD Faculties"
+              },
+              {
+                "icon": "rs-icon-ongoing",
+                "value": "120+",
+                "text": "Placed Students"
+              },
+              {
+                "icon": "rs-icon-ongoing",
+                "value": "1",
+                "text": "NET Qualified"
+              },
+
+              {
+                "icon": "rs-icon-ongoing",
+                "value": "32",
+                "text": "No. of Event Organized"
+              }
+            ]
+          }
         },
         {
           "type": "vision",
@@ -234,57 +294,229 @@
       "tab": "Infrastructure",
       "items": [
         {
-          "type": "laboratories",
-          "title": "Facilities / Infrastructure List",
-          "desc": "The UG, PG and Research labs of the department contains all the important equipment and offers an all-inclusive atmosphere for the students to work around. ",
+          "type": "infrastructure",
+          "title": "Department Infrastructure",
           "content": [
-            "Fermenter",
-            "HPLC",
-            "GC-FID",
-            "Walk-in Cold Room",
-            "Walk-in Hot Room",
-            "Multi ELISA Reader",
-            "Freeze Drier",
-            "Phase Contrast Microscope",
-            "Shaker Incubator",
-            "PCR",
-            "Agarose Gel Electrophoresis",
-            "SDS-PAGE Electrophoresis"
+            {
+              "title": "Class room",
+              "count": "20"
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Facilities / Infrastructure List",
+
+          "table": {
+            "content": [
+              {
+                "head": [
+                  { "id": "col1", "label": "S. No." },
+                  { "id": "col2", "label": "Block Name" },
+                  { "id": "col3", "label": "Lab Name" },
+                  { "id": "col4", "label": "Description" },
+                  { "id": "col5", "label": "Qty" }
+                ],
+                "data": [
+                  {
+                    "col1": { "text": "1" },
+                    "col2": { "text": "A" },
+                    "col3": { "text": "A Lab-I" },
+                    "col4": {
+                      "text": "Dell Optiplex 3000 Tower, 12th Gen Intel core I3-12100, 8 GB DDR4, 256 GB NVMe SSD HDD Dell 20” Monitor, Dell LBD & Mouse"
+                    },
+                    "col5": { "text": "70" }
+                  },
+                  {
+                    "col1": { "text": "2" },
+                    "col2": { "text": "E" },
+                    "col3": { "text": "E Lab-I" },
+                    "col4": {
+                      "text": "DELL OPTIPLEX 3090, INTEL CORE I3 10105 @3.70GHZ, DDR4 8GB RAM, NVME SAMSUNG 256GB SSD HARDDISK"
+                    },
+                    "col5": { "text": "60" }
+                  },
+                  {
+                    "col1": { "text": "3" },
+                    "col2": { "text": "E" },
+                    "col3": { "text": "E Lab-II" },
+                    "col4": {
+                      "text": "Dell Optiplex 7050, Intel Core I7 @3.60Ghz 7th Gen, 16GB RAM, 250GB SSD HDD"
+                    },
+                    "col5": { "text": "60" }
+                  },
+                  {
+                    "col1": { "text": "4" },
+                    "col2": { "text": "S" },
+                    "col3": { "text": "S Lab-I" },
+                    "col4": {
+                      "text": "DELL OPTIPLEX 7020 Intel Core i7-12700 @ 2.10GHz DDR5 32 GB RAM, M.2 NVME 512 HDD"
+                    },
+                    "col5": { "text": "60" }
+                  },
+                  {
+                    "col1": { "text": "5" },
+                    "col2": { "text": "S" },
+                    "col3": { "text": "S Lab-II" },
+                    "col4": {
+                      "text": "HP PRO TOWER 400 G9 Intel Core i7-12700 @ 2.10GHz 32 GB RAM, M.2 NVME 512 HDD"
+                    },
+                    "col5": { "text": "50" }
+                  },
+                  {
+                    "col1": { "text": "5" },
+                    "col2": { "text": "S" },
+                    "col3": { "text": "S Lab-II" },
+                    "col4": {
+                      "text": "HP PRODESK 400 G7 Intel Core i7-10700 CPU @ 2.90GHz DDR4 16 GB RAM, M.2 NVME 512"
+                    },
+                    "col5": { "text": "10" }
+                  },
+                  {
+                    "col1": { "text": "6" },
+                    "col2": { "text": "S" },
+                    "col3": { "text": "S Lab-III" },
+                    "col4": {
+                      "text": "HP PRODESK 400 G7 Intel Core i7-10700 CPU @ 2.90GHz DDR4 16 GB RAM, M.2 NVME 512 HDD"
+                    },
+                    "col5": { "text": "60" }
+                  },
+                  {
+                    "col1": { "text": "7" },
+                    "col2": { "text": "S" },
+                    "col3": { "text": "S Lab-IV" },
+                    "col4": {
+                      "text": "HP PRODESK 400 G7 Intel Core i7-10700 CPU @ 2.90GHz DDR4 16 GB RAM, M.2 NVME 512 HDD"
+                    },
+                    "col5": { "text": "60" }
+                  },
+                  {
+                    "col1": { "text": "8" },
+                    "col2": { "text": "S" },
+                    "col3": { "text": "S Lab-V" },
+                    "col4": {
+                      "text": "DELL OPTIPLEX 3000 Intel Core i3-12100 @ 3.30 GHz DDR4 8 GB RAM, M.2 NVME 256 HDD"
+                    },
+                    "col5": { "text": "60" }
+                  },
+                  {
+                    "col1": { "text": "9" },
+                    "col2": { "text": "S" },
+                    "col3": { "text": "S Lab-VI" },
+                    "col4": {
+                      "text": "DELL OPTIPLEX 3080 Intel Core i3-10100 @ 3.60GHz DDR4 8 GB RAM, M.2 NVME 256 HDD"
+                    },
+                    "col5": { "text": "30" }
+                  },
+                  {
+                    "col1": { "text": "10" },
+                    "col2": { "text": "N" },
+                    "col3": { "text": "N Lab-I" },
+                    "col4": {
+                      "text": "INTEL CORE I 7 2.10 GHZ, 16 GB DDR4 RAM, 500 GB SSD HDD (DELL OPTIPLEX 5000)"
+                    },
+                    "col5": { "text": "70" }
+                  },
+                  {
+                    "col1": { "text": "11" },
+                    "col2": { "text": "N" },
+                    "col3": { "text": "N Lab-II" },
+                    "col4": {
+                      "text": "INTEL CORE I 7 2.90 GHZ, 16 GB DDR4 RAM, 500 GB SSD HDD (HP PRODESK G7 400)"
+                    },
+                    "col5": { "text": "60" }
+                  },
+                  {
+                    "col1": { "text": "12" },
+                    "col2": { "text": "N" },
+                    "col3": { "text": "N Lab-III" },
+                    "col4": {
+                      "text": "INTEL CORE I 7 2.90 GHZ, 16 GB DDR4 RAM, 500 GB SSD HDD (HP PRODESK G7 400)"
+                    },
+                    "col5": { "text": "70" }
+                  },
+                  {
+                    "col1": { "text": "13" },
+                    "col2": { "text": "N" },
+                    "col3": { "text": "N Lab-IV" },
+                    "col4": {
+                      "text": "INTEL CORE I3 3.60 GHZ, 8 GB DDR4 RAM, 256 GB SSD HDD, DELL 19” TFT (DELL 3080)"
+                    },
+                    "col5": { "text": "60" }
+                  },
+                  {
+                    "col1": { "text": "14" },
+                    "col2": { "text": "N" },
+                    "col3": { "text": "N Lab-V" },
+                    "col4": {
+                      "text": "INTEL CORE I 7 2.10 GHZ, 16 GB DDR4 RAM, 500 GB SSD HDD (DELL OPTIPLEX 5000)"
+                    },
+                    "col5": { "text": "70" }
+                  },
+                  {
+                    "col1": { "text": "15" },
+                    "col2": { "text": "N" },
+                    "col3": { "text": "N Lab-VI" },
+                    "col4": {
+                      "text": "INTEL CORE I3 3.60 GHZ, 8 GB DDR4 RAM, 256 GB SSD HDD (DELL 3080)"
+                    },
+                    "col5": { "text": "60" }
+                  },
+                  {
+                    "col1": { "text": "16" },
+                    "col2": { "text": "V" },
+                    "col3": { "text": "V Lab-I" },
+                    "col4": {
+                      "text": "INTEL CORE I3 3.60 GHZ, 8 GB DDR4 RAM, 256 GB SSD HDD (DELL 3080)"
+                    },
+                    "col5": { "text": "70" }
+                  },
+                  {
+                    "col1": { "text": "17" },
+                    "col2": { "text": "V" },
+                    "col3": { "text": "V Lab-II" },
+                    "col4": {
+                      "text": "INTEL CORE I3 3.60 GHZ, 8 GB DDR4 RAM, 256 GB SSD HDD (DELL 3080)"
+                    },
+                    "col5": { "text": "70" }
+                  },
+                  {
+                    "col1": { "text": "18" },
+                    "col2": { "text": "V" },
+                    "col3": { "text": "V Lab-III" },
+                    "col4": {
+                      "text": "INTEL CORE I3 3.60 GHZ, 8 GB DDR4 RAM, 256 GB SSD HDD (DELL 3080)"
+                    },
+                    "col5": { "text": "60" }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+
+        {
+          "type": "laboratories",
+          "title": "Facilities laboratories List",
+
+          "content": [
+            "2003 Server: IBM X 3400 Server 7975i1S – 1",
+            "Computers: 376",
+            "Printers: 6",
+            "LCD Projectors: 6"
           ]
         },
         {
           "type": "equipment",
-          "title": "Major Research Equipments",
-          "content": [
-            "Agarose Gel Electrophoresis",
-            "SDS-PAGE Apparatus",
-            "Sonicator",
-            "Shaker Incubator",
-            "Phase Contrast Microscope",
-            "PCR",
-            "Multi plate ELISA Reader",
-            "Freeze Drier",
-            "Fermentor",
-            "HPLC",
-            "GC-FID",
-            "Walk-in Cold Room",
-            "Walk-in Hot Room"
-          ]
+          "title": "Internet facilities for staff and students",
+          "desc": "All the members are provided net access in department and computer lab and internet facility with 1GBPS NKN Connectivity in BSNL and 45 Mbps in Airtel. WiFi Connectivity provided for faculty and students."
         },
         {
           "type": "library",
           "title": "Department Library",
-          "desc": "The department has outstanding library facilities, which comprises up-to-date editions of Books, National/International Journals and Magazines covering all fields of Microbiology",
+
           "content": [
-            "Bacteriology",
-            "Virology",
-            "Microbial Physiology",
-            "Microbial Genetics",
-            "Mycology",
-            "Parasitology",
-            "Immunology",
-            "Industrial Microbiology",
-            "Environmental Microbiology"
+            "In Department Library 321 reference books are available for faculty and student reference."
           ]
         },
         {
@@ -307,124 +539,32 @@
               "label": "Gallery"
             }
           ],
+
           "images": [
             {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Fermentor-1024x576.jpg",
-              "alt": "Fermentor",
-              "title": "Fermentor"
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/03/old-lab-faculty-civil-150x150.jpg",
+              "alt": "Lab facilities - Best Civil Engineering College in Coimbatore",
+              "title": "old lab"
             },
             {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Cold-room-facility.jpg",
-              "alt": "Cold room facility",
-              "title": "Cold room facility"
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/03/e-lab-faculty-civul-engineering-150x150.jpg",
+              "alt": "Civil Engineering Department - Best college for Civil Engineering",
+              "title": "e block lab"
             },
             {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Shaker-Incubator-717x1024.jpg",
-              "alt": "Shaker Incubator",
-              "title": "Shaker Incubator"
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/03/e-lab-faculty-civul-engineering-1-150x150.jpg",
+              "alt": "Civil Engineering students - Top Civil Engineering college in India",
+              "title": "s block lab"
             },
             {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Laminar-Airflow-Chamber-2-1024x493.jpg",
-              "alt": "Laminar Airflow Chamber -2",
-              "title": "Laminar Airflow Chamber"
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/03/e-lab-faculty-civul-engineering-2-150x150.jpg",
+              "alt": "Civil Engineering - Best Civil Engineering college in Coimbatore",
+              "title": "A2 lab"
             },
             {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Laminar-Airflow-Chamber-1-1024x597.jpg",
-              "alt": "Laminar Airflow Chamber -1",
-              "title": "Laminar Airflow Chamber"
-            },
-            {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Phase-Contrast-Microscope.jpg",
-              "alt": "Phase Contrast Microscope",
-              "title": "Phase Contrast Microscope"
-            },
-            {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Practical-Session-4-1024x768.jpg",
-              "alt": "Practical Session-4",
-              "title": "Practical Session"
-            },
-            {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Practical-Session-3-768x1024.jpg",
-              "alt": "Practical Session-3",
-              "title": "Practical Session"
-            },
-            {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Practical-Session-2-768x1024.jpg",
-              "alt": "Practical Session-2",
-              "title": "Practical Session"
-            },
-            {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Practical-Session-1-1024x768.jpg",
-              "alt": "Practical Session-1",
-              "title": "Practical Session"
-            },
-            {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/ug-lab-150x150.jpg",
-              "alt": "Best UG lab facilities at Karpagam Academy"
-            },
-            {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/pg-lab-150x150.jpg",
-              "alt": "Best Research lab facilities at KAHE"
-            },
-            {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/research-lab-150x150.jpg",
-              "alt": "Best Research lab facilities at Karpagam Academy"
-            },
-            {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/3-scaled-150x150.jpg",
-              "alt": "Best Research lab facilities at Karpagam Academy of Higher Education"
-            },
-            {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/4-scaled-150x150.jpg",
-              "alt": "Best lab facilities at Karpagam Academy of Higher Education"
-            },
-            {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/5-150x150.jpg",
-              "alt": "Best lab facilities at Karpagam Academy"
-            },
-            {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/6-150x150.jpg",
-              "alt": "Best lab facilities at KAHE"
-            },
-            {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/7-150x150.jpg",
-              "alt": "Best lab facilities"
-            },
-            {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/1-scaled-150x150.jpg",
-              "alt": "Best Microbiology lab"
-            },
-            {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/2-scaled-150x150.jpg",
-              "alt": "Microbiology lab"
-            },
-            {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/1-8-150x150.jpg",
-              "alt": "Karpagam Academy - Department of Microbiology"
-            },
-            {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/2-7-150x150.jpg",
-              "alt": "Department of Microbiology - Top College In Coimbatore, India"
-            },
-            {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/3-6-150x150.jpg",
-              "alt": "Department of Microbiology - Top College In Coimbatore, Tamilnadu"
-            },
-            {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/4-3-150x150.jpg",
-              "alt": "Department of Microbiology - Top College In Coimbatore"
-            },
-            {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/5-3-150x150.jpg",
-              "alt": "KAHE's Department of Microbiology"
-            },
-            {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/6-2-150x150.jpg",
-              "alt": "Department of Microbiology - top engineering colleges in coimbatore, India"
-            },
-            {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/7-1-150x150.jpg",
-              "alt": "Department of Microbiology - best placement colleges in coimbatore"
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/03/e-lab-faculty-civul-engineering-3-150x150.jpg",
+              "alt": "Lab for students - Best college for Civil Engineering",
+              "title": "MBA lab"
             }
           ]
         }
@@ -435,7 +575,7 @@
       "slug": "department-of-computer-science",
       "basic": {
         "title": "Faculty",
-        "description": "",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Temporibus architecto magnam, eius, labore vel enim eveniet officiis veritatis reiciendis expedita ab odit nobis, itaque aspernatur suscipit odio inventore consectetur autem!",
         "src": "/images/Kahe/Innerpages/vission.jpg",
         "buttonText": "View All Faculty"
       },
@@ -681,101 +821,80 @@
     },
     {
       "tab": "patents",
-      "title": "Highlights & Strengths",
+      "title": "Department Highlight",
       "items": {
-        "qualityPolicyTitle": "Program Highlights",
-        "qualityPolicyText": "The following patents were awarded to the faculty members of the department",
+        "qualityPolicyTitle": "Department Highlight",
+
         "list": [
-          "Industry-Aligned Curriculum: Structured around current trends such as AI, Cloud Computing, Data Science, Cyber Security, and Full-Stack Development.",
-          "State-of-the-Art Laboratories: Equipped with advanced tools, software, and high-performance systems to support practical learning.",
-          "Value-Added Courses & Certifications: Students receive training in AWS, Microsoft Azure, Google Cloud, Python, Power BI, TensorFlow, Ethical Hacking, and more.",
-          "Project-Based Learning: Every semester includes real-time projects, mini-projects, and innovative problem-solving tasks.",
-          "Strong Placement Support: Pre-placement training, mock interviews, aptitude coaching, and exclusive industry tie-ups ensure excellent placement outcomes.",
-          "MoUs & Collaborations: Partnerships with leading IT companies for internships, research, and skill development."
+          "A team of accomplished and dedicated faculty with extensive expertise in computer science.",
+          "State-of-the-art computer labs featuring the latest technologies, licensed software, and high-speed internet to support an engaging learning environment.",
+          "Adoption of innovative ICT-enabled teaching methods to ensure interactive and effective learning experiences.",
+          "Wi-Fi-enabled classrooms that promote flexible and accessible learning from any location.",
+          "A well-rounded curriculum combining theoretical knowledge with practical skills tailored to industry needs.",
+          "Core computer science courses enriched with real-time problem-solving for a deeper understanding of real-world applications.",
+          "Project-based learning programs, conducted in partnership with industries, emphasize emerging technologies.",
+          "Extensive internship opportunities that provide hands-on industry experience and practical exposure.",
+          "A comprehensive placement program led by dedicated trainers, designed to equip students with the skills to secure positions in leading multinational corporations. This program ensures thorough preparation for interviews and assessments conducted by top MNCs.",
+          "International internship opportunities that align with students’ interests, providing hands-on global experience and enriching their academic journey with diverse perspectives.",
+          "Start-up opportunities through the Karpagam Innovation and Incubation Council (KIIC), empowering aspiring entrepreneurs to transform their ideas into successful ventures."
         ],
-        "mottoTitle": "Department Strengths",
-        "mottContnet": [
-          "Experienced and research-driven faculty members",
-          "Consistently high academic performance",
-          "Dedicated Research & Innovation Cell",
-          "Hackathons, coding challenges, and tech fests every semester",
-          "Regular workshops, seminars, guest lectures, and industry expert sessions",
-          "Active department clubs: Coding Club, Cyber Security Club, AI & Data Science Forum, Creative Media Cell",
-          "Student mentoring system for academic and career guidance",
-          "Community outreach and digital literacy initiatives"
+        "mottoTitle": "Achievements",
+        "motolist": [
+          "Kavitha M of III B.Sc Computer Science has successfully completed the NPTEL Course on Software Testing.",
+          "SuryaKumar V of III B.Sc Computer Science has successfully completed the NPTEL Course on Software Testing.",
+          "Gunaselan V of III B.Sc Computer Science has successfully completed the NPTEL Course on Software Testing.",
+          "Pavithra S of III B.Sc Computer Science has successfully completed the NPTEL Course on Software Testing.",
+          "Parathosh S of III B.Sc Computer Science has successfully completed the NPTEL Course on Software Testing.",
+          "SathyaPriya S of III B.Sc Computer Science has successfully completed the NPTEL Course on Software Testing.",
+          "BalaPragadeesan A of III B.Sc Computer Science has successfully completed the NPTEL Course on Software Testing.",
+          "Kowsalya C of III B.Sc Computer Science has successfully completed the NPTEL Course on Software Testing.",
+          "Sivakavinesh N of III B.Sc Computer Science has successfully completed the NPTEL Course on Software Testing.",
+          "Pechiyammal P of II B.Sc Computer Science has successfully completed the NPTEL Course on Data Science for Engineers.",
+          "Saranya S of II B.Sc Computer Science has successfully completed the NPTEL Course on Data Science for Engineers.",
+          "Pethuraja M of II B.Sc Computer Science has successfully completed the NPTEL Course on Data Science for Engineers.",
+          "Sandhiya A of II B.Sc Computer Science has successfully completed the NPTEL Course on Data Science for Engineers.",
+          "Harshavardhan J of II B.Sc Computer Science has successfully completed the NPTEL Course on Data Science for Engineers."
         ]
       }
     },
     {
       "tab": "students",
-      "title": "students",
+      "title": "STUDENTS ACHIEVEMENTS",
       "content": [
         {
           "data1": {
             "type": "vision",
-            "subTitle": "Achievements /Awards",
+            "subTitle": "MOU’S SIGNED",
             "src": "/images/Kahe/Innerpages/vision.png",
+
             "content": [
-              "Kavitha M of III B.Sc Computer Science has successfully completed the NPTEL Course on Software Testing.",
-              "SuryaKumar V of III B.Sc Computer Science has successfully completed the NPTEL Course on Software Testing.",
-              "Gunaselan V of III B.Sc Computer Science has successfully completed the NPTEL Course on Software Testing.",
-              "Pavithra S of III B.Sc Computer Science has successfully completed the NPTEL Course on Software Testing.",
-              "Parathosh S of III B.Sc Computer Science has successfully completed the NPTEL Course on Software Testing.",
-              "SathyaPriya S of III B.Sc Computer Science has successfully completed the NPTEL Course on Software Testing.",
-              "BalaPragadeesan A of III B.Sc Computer Science has successfully completed the NPTEL Course on Software Testing.",
-              "Kowsalya C of III B.Sc Computer Science has successfully completed the NPTEL Course on Software Testing.",
-              "Sivakavinesh N of III B.Sc Computer Science has successfully completed the NPTEL Course on Software Testing.",
-              "Pechiyammal P of II B.Sc Computer Science has successfully completed the NPTEL Course on Data Science for Engineers.",
-              "Saranya S of II B.Sc Computer Science has successfully completed the NPTEL Course on Data Science for Engineers.",
-              "Pethuraja M of II B.Sc Computer Science has successfully completed the NPTEL Course on Data Science for Engineers.",
-              "Sandhiya A of II B.Sc Computer Science has successfully completed the NPTEL Course on Data Science for Engineers.",
-              "Harshavardhan J of II B.Sc Computer Science has successfully completed the NPTEL Course on Data Science for Engineers."
+              "Institutional Member in National Cyber Safety and Security Standards and National Cyber Security Research and Development Centre.",
+              "MoU with BCBUZZ Technologies Private Limited to provide training on blockchain and cyber security.",
+              "MOU with Let’s Game Tech for providing courses on Game Development."
             ]
-          },
-          "data2": {
-            "type": "mission",
-            "subTitle": "Placements",
-            "src": "/images/Kahe/Innerpages/goal.png",
-            "multiContent": [
-              {
-                "title": "OVERALL PLACEMENT DATA",
-                "contentList": [
-                  "A two-day National Conference on “Strategies to combat the Strategies to Combat the Menace of Multidrug Resistant (MDR) Pathogens” was organized by the Department of Microbiology, FASCM, Karpagam Academy of Higher Education, during 07-03-2025 and 08-03-2025."
-                ]
-              },
-              {
-                "title": "LIST OF COMPANIES",
-                "subTitle": "B.Sc Computer Science",
-                "contentList": [
-                  "TCS – 36",
-                  "ACCENTURE – 21",
-                  "KGIS – 18",
-                  "COGNIZENT – 10",
-                  "EY GLOBAL – 9",
-                  "ENVISION S/W – 6",
-                  "WIPRO – 6",
-                  "LTI MINDTREE – 4",
-                  "AR TECH – 2",
-                  "NEXT SYNC – 2",
-                  "DELOITTE – 1",
-                  "GEP – 1",
-                  "HEXAWARE – 1"
-                ]
-              },
-              {
-                "title": "LIST OF COMPANIES",
-                "subTitle": "B.Sc Computer Science",
-                "contentList": [
-                  "UiTM Cawangan Terengganu, Malayasia",
-                  "National Chaung Cheng University, Taiwan",
-                  "Kriya & Reeths , Coimbatore",
-                  "VeePhoniex Compliance Pvt.Ltd, Coimbatore",
-                  "GEP Solutions, Coimbatore",
-                  "BrandMock , Coimbatore",
-                  "EdVedha, Coimbatore"
-                ]
-              }
+          }
+        },
+        {
+          "data1": {
+            "type": "vision",
+            "subTitle": "VAC Courses Conducted",
+            "src": "/images/Kahe/Innerpages/vision.png",
+
+            "content": [
+              "Conducted Business Data Analytics with 55 beneficiaries",
+              "Conducted Generative Artificial Intelligence and Prompt Engineering with 57 beneficiaries.",
+              "Conducted Social Network Analysis with 58 student beneficiaries.",
+              "Conducted RapidMiner in Data Mining with 40 student beneficiaries."
             ]
+          }
+        },
+        {
+          "data1": {
+            "type": "vision",
+            "subTitle": "CENTER OF EXCELLENCE",
+            "src": "/images/Kahe/Innerpages/vision.png",
+
+            "content": ["Cyber Defence Resource Centre (CDRC) KAHE"]
           }
         }
       ]
@@ -1133,6 +1252,7 @@
           "label": "Gallery"
         }
       ],
+
       "images": [
         {
           "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Exibition.jpg",
@@ -1140,85 +1260,184 @@
           "title": "Exhibition"
         },
         {
-          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Microinnovata-1024x768.jpg",
-          "alt": "Microinnovata",
-          "title": "Microinnovata"
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/1-1024x517.jpg",
+          "alt": "1",
+          "title": "1"
         },
         {
-          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Guest-lecture-on-Sustainable-Waste-Management-through-Microbial-Interventions-1024x540.jpg",
-          "alt": "Guest lecture on Sustainable Waste Management through Microbial Interventions",
-          "title": "Guest lecture on Sustainable Waste Management through Microbial Interventions"
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/2-1024x517.jpg",
+          "alt": "2",
+          "title": "2"
         },
         {
-          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/National-Conference-on-Strategies-to-combat-the-Strategies-to-Combat-the-Menace-of-Multidrug-Resistant-MDR-Pathogens-2-1024x769.jpg",
-          "alt": "National Conference on Strategies to Combat MDR Pathogens-2",
-          "title": "National Conference on Strategies to Combat MDR Pathogens"
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/3-1024x473.jpg",
+          "alt": "3",
+          "title": "3"
         },
         {
-          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/National-Conference-on-Strategies-to-combat-the-Strategies-to-Combat-the-Menace-of-Multidrug-Resistant-MDR-Pathogens-1-1024x769.jpg",
-          "alt": "National Conference on Strategies to Combat MDR Pathogens-1",
-          "title": "National Conference on Strategies to Combat MDR Pathogens"
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/4-1024x473.jpg",
+          "alt": "4",
+          "title": "4"
         },
         {
-          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/National-Conference-on-Strategies-to-combat-the-Strategies-to-Combat-the-Menace-of-Multidrug-Resistant-MDR-Pathogens-1024x769.jpg",
-          "alt": "National Conference on Strategies to Combat MDR Pathogens",
-          "title": "National Conference on Strategies to Combat MDR Pathogens"
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/5-1024x768.jpg",
+          "alt": "5",
+          "title": "5"
         },
         {
-          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Picture4-2-1024x768.jpg",
-          "alt": "Picture4"
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/6-1024x768.jpg",
+          "alt": "6",
+          "title": "6"
         },
         {
-          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Picture3-2-768x1024.jpg",
-          "alt": "Picture3"
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/7-1024x768.jpg",
+          "alt": "7",
+          "title": "7"
         },
         {
-          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Picture2-2-768x1024.jpg",
-          "alt": "Picture2"
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/8-1024x768.jpg",
+          "alt": "8",
+          "title": "8"
         },
         {
-          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Picture1-1-1-1024x768.jpg",
-          "alt": "Picture1"
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/9-1024x462.jpeg",
+          "alt": "9",
+          "title": "9"
         },
         {
-          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/CT-GAL-8-1024x576.jpg",
-          "alt": "CT-GAL-8",
-          "title": "CT-GAL-8"
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/10-1024x576.jpeg",
+          "alt": "10",
+          "title": "10"
         },
         {
-          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/CT-GAL-1.png",
-          "alt": "CT-GAL-1",
-          "title": "CT-GAL-1"
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/11-1024x462.jpeg",
+          "alt": "11",
+          "title": "11"
         },
         {
-          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/CT-GAL-2.png",
-          "alt": "CT-GAL-2",
-          "title": "CT-GAL-2"
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/12-1024x581.jpeg",
+          "alt": "12",
+          "title": "12"
         },
         {
-          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/CT-GAL-3-1024x772.jpg",
-          "alt": "CT-GAL-3",
-          "title": "CT-GAL-3"
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/13-1024x582.jpeg",
+          "alt": "13",
+          "title": "13"
         },
         {
-          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/CT-GAL-4.jpg",
-          "alt": "CT-GAL-4",
-          "title": "CT-GAL-4"
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/14-1024x462.jpeg",
+          "alt": "14",
+          "title": "14"
         },
         {
-          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/CT-GAL-5.jpg",
-          "alt": "CT-GAL-5",
-          "title": "CT-GAL-5"
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/15-1024x576.jpeg",
+          "alt": "15",
+          "title": "15"
         },
         {
-          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/CT-GAL-6-1024x459.jpg",
-          "alt": "CT-GAL-6",
-          "title": "CT-GAL-6"
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/16-1024x576.jpeg",
+          "alt": "16",
+          "title": "16"
         },
         {
-          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/CT-GAL-7.jpg",
-          "alt": "CT-GAL-7",
-          "title": "CT-GAL-7"
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/17-1024x595.jpeg",
+          "alt": "17",
+          "title": "17"
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/18-1024x462.jpeg",
+          "alt": "18",
+          "title": "18"
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/19-1024x462.jpeg",
+          "alt": "19",
+          "title": "19"
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/20-1024x576.jpeg",
+          "alt": "20",
+          "title": "20"
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/21-1024x590.jpeg",
+          "alt": "21",
+          "title": "21"
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/22-1024x610.jpeg",
+          "alt": "22",
+          "title": "22"
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/23-1024x462.jpeg",
+          "alt": "23",
+          "title": "23"
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/24.jpeg",
+          "alt": "24",
+          "title": "24"
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/25-1024x582.jpeg",
+          "alt": "25",
+          "title": "25"
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/26-1024x462.jpeg",
+          "alt": "26",
+          "title": "26"
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/27-1024x576.jpeg",
+          "alt": "27",
+          "title": "27"
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/28.jpeg",
+          "alt": "28",
+          "title": "28"
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/29-1024x576.jpeg",
+          "alt": "29",
+          "title": "29"
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/30-1024x592.jpeg",
+          "alt": "30",
+          "title": "30"
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/31-1024x462.jpeg",
+          "alt": "31",
+          "title": "31"
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/32-1024x576.jpeg",
+          "alt": "32",
+          "title": "32"
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/33-1024x462.jpeg",
+          "alt": "33",
+          "title": "33"
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/34-1024x462.jpeg",
+          "alt": "34",
+          "title": "34"
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/35-1024x462.jpeg",
+          "alt": "35",
+          "title": "35"
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/36-1024x462.jpeg",
+          "alt": "36",
+          "title": "36"
         }
       ]
     }

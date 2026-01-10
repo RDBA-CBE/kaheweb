@@ -5,6 +5,7 @@ import StudentsIcon from "@/public/images/Kahe/icons/StudentsIcon";
 import { FirstLetterUp } from "@/utils/functions.utils";
 import Link from "next/link";
 import React, { useEffect, useState } from "react";
+import TableCom from "../PaginationTable";
 
 const Infrastructure = ({ infrastructureContent }) => {
   console.log("facultyContent", infrastructureContent);
@@ -42,13 +43,20 @@ const Infrastructure = ({ infrastructureContent }) => {
 
   const para = infrastructureContent.items?.find((item) => item.type == "para");
 
+  const tableContent = infrastructureContent.items?.find(
+    (item) => item.type == "table"
+  );
+   
+
   const gallery = infrastructureContent.items?.find(
     (item) => item.type == "gallery"
   );
 
-  const visibleFaculty = toggle
-    ? equipementItem?.content
-    : equipementItem?.content.slice(0, 8);
+
+
+
+    console.log("tableContent", tableContent);
+    
 
   return (
     <div className={`section-wid rbt-dashboard-content infra `}>
@@ -67,6 +75,12 @@ const Infrastructure = ({ infrastructureContent }) => {
         </div>
         <div className="row gy-5">
           <div className="col-lg-12">
+
+            {tableContent && (
+              <section className="section-bg1">
+                <TableCom data={tableContent?.table} />
+              </section>
+            )}
             {para && (
               <div className="row ">
                 <p
@@ -159,7 +173,7 @@ const Infrastructure = ({ infrastructureContent }) => {
             )}
 
             {equipementItem && (
-              <div className="equip rbt-dashboard-table table-responsive mb--30 pt-5">
+              <div className="equip rbt-dashboard-table  mb--30 pt-5">
                 <h3
                   className="main-sub-ti"
                   dangerouslySetInnerHTML={{

@@ -30,6 +30,20 @@ const QuoteBox = ({ data }) => {
           <h2 className="qm-title">{data?.mottoTitle}</h2>
           { data?.mottContnet &&<p className="qm-text">{data?.mottContnet}</p>}
 
+          {data?.motolist &&  (
+              <ul className="rbt-list-style-1">
+                {data?.motolist.map((v, i) => (
+                  <li key={i}>
+                    <i className="feather-check"></i>
+                    <span
+                      className="text-start"
+                      dangerouslySetInnerHTML={{ __html: v }}
+                    ></span>
+                  </li>
+                ))}
+              </ul>
+            )}
+
           {data?.motto && <div className="qm-motto-icons">
             {data?.motto.map((item, index) => (
               <React.Fragment key={index}>

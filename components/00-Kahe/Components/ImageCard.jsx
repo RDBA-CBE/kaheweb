@@ -7,7 +7,7 @@ const ImageCard = ({ visionItem, missionItem }) => {
       <div className="vm-container">
         {/* VISION */}
         {visionItem && (
-          <div className="vm-card vision">
+          <div className="vm-card vision" style={{ width: visionItem?.width && visionItem?.width}}> 
             <div className="vm-icon">
               <img src={visionItem.src} alt={visionItem.subTitle} />
             </div>
