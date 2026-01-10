@@ -1,0 +1,946 @@
+{
+  "title": "Department of Maths",
+  "bannerCon": "The University of Wyoming welcomes students to experience a one-of-a-kind education in the heart of the Mountain West.",
+  "applyLink": "#",
+  "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+  "tabs": [
+    {
+      "id": "overview",
+      "label": "Overview"
+    },
+    {
+      "id": "programme",
+      "label": "Programme"
+    },
+    {
+      "id": "faculty",
+      "label": "Faculty"
+    },
+    {
+      "id": "infrastructure",
+      "label": "Infrastructure"
+    },
+
+    {
+      "id": "publications",
+      "label": "Publications"
+    },
+    {
+      "id": "gallery",
+      "label": "Gallery"
+    },
+    {
+      "id": "events",
+      "label": "Events"
+    }
+  ],
+
+  "tabContent": [
+    {
+      "tab": "Overview",
+      "items": [
+        {
+          "type": "overview",
+          "subTitle": "Overview",
+          "contents": "The Department of Mathematics, established in 2009, serves as a strong academic backbone for the institution by delivering rigorous training in mathematical sciences and statistics. The Department offers full-time postgraduate and research programmes, including M.Sc. in Mathematics and Ph.D. in Mathematics, with a focus on developing both theoretical understanding and practical problem-solving skills. The Department actively supports interdisciplinary learning by providing foundational and allied courses to various departments. Through a structured curriculum, continuous assessment and research-oriented learning, students are trained to think logically, analyze complex problems and apply mathematical principles to real-world challenges.The Department has built a strong academic reputation through consistent student performance, successful alumni and active research contributions. Research activities are carried out in specialized areas such as Fuzzy Mathematics, Differential Equations, Queueing Theory, Fluid Dynamics and Fuzzy Topology, leading to publications in reputed journals. With a commitment to academic integrity, innovation and excellence, the Department of Mathematics continues to evolve as a centre for learning, research and professional development.",
+          "image": "/images/others/video-07.jpg"
+        },
+
+        {
+          "type": "vision",
+          "subTitle": "Vision",
+          "src": "/images/Kahe/Innerpages/vision.png",
+          "content": [
+            "To enable students to acquire understanding of mathematics and mathematical applications."
+          ]
+        },
+        {
+          "type": "mission",
+          "subTitle": "Mission",
+          "src": "/images/Kahe/Innerpages/goal.png",
+          "content": [
+            "To develop analytical and logical thinking of students.",
+            "To encourage students to develop mathematical models.",
+            "To make students as professionals with social and economic responsibilities.",
+            "To encourage collaborative research with other disciplines."
+          ]
+        },
+
+        {
+          "type": "hod",
+          "items": {
+            "content": [
+              {
+                "title1": "Head of the Department (HOD)",
+                "title": "",
+                "caption": "Professor and Head",
+                "content": "Welcome to the Department of Mathematics. It gives me great pleasure to address students, parents and visitors to our department. Mathematics is the language of science, technology and innovation, and our department strives to nurture a deep appreciation for its beauty, logic and real-world applications. Our focus is not only on delivering strong theoretical foundations but also on developing critical thinking, analytical abilities and independent learning skills among our students. We encourage a culture of curiosity, creativity and ethical academic practice, enabling learners to grow into confident individuals who can contribute meaningfully to society. The Department provides a supportive academic environment where students are guided by committed faculty members who mentor them in both academics and research. Through seminars, workshops, guest lectures and research-oriented activities, we strive to expose our students to recent developments and practical applications in mathematical sciences. I warmly invite you to become a part of our academic journey and explore the opportunities that our department offers for personal growth, intellectual development and professional success.",
+                "src": "/images/Kahe/team-13.png"
+              }
+            ]
+          }
+        }
+      ]
+    },
+
+    {
+      "tab": "Programme",
+      "programmes": {
+        "title": "Programmes",
+        "content": [
+          {
+            "key": "ug",
+            "title": "Post Graduate Programme",
+            "img": "/images/others/health-b-02.png",
+            "items": ["M.Sc. Mathematics"],
+            "type": "programme"
+          },
+          {
+            "key": "pg",
+            "title": "Research Programme",
+            "img": "/images/others/health-b-02.png",
+            "items": ["Ph.D. in Mathematics"],
+            "type": "programme"
+          }
+        ]
+      },
+      "curriculum": {
+        "title": "Curriculum",
+        "content": [
+          {
+            "key": "bsc",
+            "title": "M.Sc. Mathematics",
+            "img": "/images/others/health-b-02.png",
+            "type": "curriculum",
+            "items": [
+              {
+                "year": "2018-2019",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/M.Sc-Mathematics.pdf"
+              },
+              {
+                "year": "2019-2020",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2021/01/2019-MATHS-PG-SYLLABUS.pdf"
+              },
+              {
+                "year": "2020-2021",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/07/2020-2021-PG-Maths-Final.pdf"
+              },
+              {
+                "year": "2021-2022",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2021/11/M.ScMaths-Syllabus-2021-2022.pdf"
+              },
+              {
+                "year": "2022-2023",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2022/09/Maths-2022-2023-PG.pdf"
+              }
+            ]
+          },
+          {
+            "key": "msc",
+            "title": "Ph.D. Mathematics",
+            "img": "/images/others/health-b-02.png",
+            "type": "curriculum",
+            "items": [
+              {
+                "year": "2020-2021",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/07/2020-2021-Mathematics-Ph.D-Final.pdf"
+              },
+              {
+                "year": "2021-2022",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2021/11/Ph.DMaths-Syllabus-2021-2022.pdf"
+              },
+              {
+                "year": "2022-2023",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2022/09/Maths-2022-2023-Ph.D.pdf"
+              },
+              {
+                "year": "2023-2024",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2023/09/Ph.D-MathematicsFinal-IQAC.pdf"
+              },
+              {
+                "year": "2024-2025",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/01/Ph.D-Maths.pdf"
+              },
+              {
+                "year": "2025-2026",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/09/Ph.D-Mathematics-Syllabus.pdf"
+              }
+            ]
+          }
+        ]
+      }
+    },
+
+    {
+      "tab": "Faculty",
+      "slug": "department-of-mathematics",
+      "basic": {
+        "title": "Faculty",
+        "description": " Lorem ipsum, dolor sit amet consectetur adipisicing elit. Temporibus architecto magnam, eius, labore vel enim eveniet officiis veritatis reiciendis expedita ab odit nobis, itaque aspernatur suscipit odio inventore consectetur autem!",
+        "src": "/images/Kahe/Innerpages/vission.jpg",
+        "buttonText": "View All Faculty"
+      },
+
+      "breadcrumbItems": [
+        { "label": "Academics", "href": "academics" },
+        {
+          "label": "Arts, Science, Commerce and Management",
+          "href": "academics/arts-science-and-humanities/"
+        },
+
+        {
+          "label": "Department of Maths",
+          "href": "/academics/arts-science-and-humanities/department-of-mathematics"
+        },
+        { "label": "Faculty" }
+      ],
+
+      "faculty": [
+        {
+          "name": "Dr.M.M.Shanmugapriya",
+          "qualification": "M.Sc., M.Phil, PGDCA., Ph.D.",
+          "designation": "Professor",
+          "email": "shanmugapriya.mm@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/06/Dr.M.M.Shanmugapriya-1.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Mr.U.R.Ramakrishnan",
+          "qualification": "M.Sc., M.Phil., (Ph.D.)",
+          "designation": "Assistant Professor",
+          "email": "ramakrishnan.ur@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/06/Mr.-U.-R.-Ramakrishnan-1.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr.J.Jansi",
+          "qualification": "M. Sc, M.Phil., Ph. D.",
+          "designation": "Assistant Professor",
+          "email": "jansi.j@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/06/Dr.-J.-Jansi.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr.R.Manjuram",
+          "qualification": "M.Sc., B.Ed., M.Phil., PhD.",
+          "designation": "Assistant Professor",
+          "email": "manjuram.ramalingam@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/06/Dr.-R.-Manjuram.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Ms. A. Henna Shenofer",
+          "qualification": "M.Sc.,(Ph.D).,",
+          "designation": "Assistant Professor",
+          "email": "hennashenofera.ahmedhussain@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/06/Mrs.A.Henna-Shenofer-1.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr. M. Abinaya",
+          "qualification": "M.Sc. Ph.D.,",
+          "designation": "Assistant Professor",
+          "email": "abinaya.mylsamy@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/06/Dr.-M.-Abinaya.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr. S. Gowtham",
+          "qualification": "M.Sc., Ph.D",
+          "designation": "Assistant Professor",
+          "email": "gowtham.senthilkumar@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/06/Dr.-S.-Gowtham-1.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Mrs. M. Malarvizhi",
+          "qualification": "M.Sc., M.Phil.,",
+          "designation": "Assistant Professor",
+          "email": "malarvizhi.manimaran@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/06/Mrs.M.Malarvizhi-1.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Ms. S. Tamilselvi",
+          "qualification": "M.Sc. B.Ed., M. Phil",
+          "designation": "Assistant Professor",
+          "email": "tamilselvi.subramani@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/05/S.Tamilselvi.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Ms. L. Lincy",
+          "qualification": "M.Sc.,M.Phil.,",
+          "designation": "Assistant Professor",
+          "email": "lincy.lizoria@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/06/Ms.-L.-Lincy-1.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr. T. Satheesh",
+          "qualification": "M. Sc., Ph. D.",
+          "designation": "Assistant Professor",
+          "email": "satheesh.thangavel@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Dr.T.Satheesh.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr. N. Aravinth",
+          "qualification": "M.Sc., M. Phil., Ph.D.",
+          "designation": "Assistant Professor",
+          "email": "aravinth.narayanan@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Dr.N.-Aravinth.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Ms. M. Rahini",
+          "qualification": "M.Sc., PGDDA, (Ph.D)",
+          "designation": "Assistant Professor",
+          "email": "rahini.manivannan@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/06/Ms.-M.-Rahini-1.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr. S. Joyce Sharline",
+          "qualification": "M.Phil., Ph.D.,",
+          "designation": "Assistant Professor",
+          "email": "joycesharline.savarimuthu@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/06/Dr.-S.-Joyce-Sharline-1.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr. Nandhini V",
+          "qualification": "M.Sc, M.Phil, Ph.D,",
+          "designation": "Assistant Professor",
+          "email": "nandhini.venkatachalam@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/06/Dr.-Nandhini.-V.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr.T.Mythili",
+          "qualification": "M.Sc., Ph.D.",
+          "designation": "Assistant Professor",
+          "email": "mythili.thirumurthy@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Dr.-T.-Mythili.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr.V.Panneerselvam",
+          "qualification": "M.Sc., Ph.D.,",
+          "designation": "Assistant Professor",
+          "email": "panneerselvam.vellingiri@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Dr.-V.-Panneerselvam.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        }
+      ]
+    },
+
+    {
+      "tab": "Infrastructure",
+      "items": [
+        {
+          "type": "infrastructure",
+          "title": "Department Infrastructure",
+          "content": [
+            {
+              "title": "Staff room",
+              "count": "01"
+            },
+            {
+              "title": "Class room",
+              "count": "01"
+            }
+          ]
+        },
+
+        {
+          "type": "library",
+          "title": "Department Library",
+          "desc": "The library has around 200 books and also Journals of national and international level on different areas.",
+          "content": ["Department library - 191 Books"]
+        }
+      ]
+    },
+
+    {
+      "tab": "Publications",
+      "slug": "department-of-mathematics",
+      "title": "Best Five Papers Faculty wise:",
+      "subtitle": "Paper Publications by the Faculty Members",
+      "breadcrumbItems": [
+        { "label": "Academics", "href": "academics" },
+        {
+          "label": "Arts, Science, Commerce and Management",
+          "href": "academics/arts-science-and-humanities/"
+        },
+
+        {
+          "label": "Department of Maths",
+          "href": "/academics/arts-science-and-humanities/department-of-mathematics"
+        },
+        { "label": "Gallery" }
+      ],
+      "content": [
+        {
+          "faculty_name": "Dr.M.M.Shanmugapriya",
+          "content": [
+            "Mohanapriya G., Aarthi D., Muthukumar S., Shanmugapriya M M., and Santhosh Kumar S., (2025). Neutrosophic Morphological Segmented Gaussian Regressive Deep Convolutional Network for MRI Images Brain Tumor Classification. Sensing and Imaging, 16 & 1-23.",
+            "Jayalakshmi N., and Shanmugapriya M. M., (2024). Some New Types of Generalized Fuzzy Real Numbers. Journal of Intelligent & Fuzzy Systems, 46 & 2179-2192.",
+            "Mohanapriya G., Muthukumar S., Santhosh Kumar S., and Shanmugapriya M.M. (2024). Kalman Bucy Filtered Neuro Fuzzy Image Denoising for Medical Image Processing. Neutrosophic Sets and Systems, 70 & 314-330.",
+            "Chella Priya K., and Shanmugapriya M.M., (2023). Numerical Solutions of Fuzzy Two Coupled Nonlinear Differential Equations, Journal of Computational Analysis and Applications, 31(4) & 481-489.",
+            "Alapati Varalakshmi, Santhosh Kumar S., Shanmugapriya M.M., Mohanapriya G., and Clement Joe Anand M., (2022). Markers Location Monitoring on Images from an Infrared Camera Using Optimal Fuzzy Inference System. International Journal of Fuzzy Systems."
+          ]
+        },
+        {
+          "faculty_name": "Mr. U. R. RAMAKRISHNAN",
+          "content": [
+            "Kalidass K., & Ramakrishnan U.R., (2019). A Vacation Queue with Synchronized Abandonments and A Waiting Server, International Journal of Applied Mathematics, (2019) , 7(2) & 93-99, ISSN: 0975-7937.",
+            "Ramakrishnan U. R., (2021), The effects of inclined magnetic field and inclined plate of MHD Casson fluid, Karpagam Journal of Computer Science, 16&183-189."
+          ]
+        },
+        {
+          "faculty_name": "Dr. J. JANSI",
+          "content": [
+            "Jansi.J, Divya P.S, Vijila M, and Devaraj Arumainayagam S, (2018). Construction and Selection of Quick Switching Multiple Sampling System; Sample Size Tightening. International Journal of Pure and Applied Mathematics, 119 (17) & 603 – 616.",
+            "Divya P.S. Jansi J, Vijila M and Devaraj Arumainayagam S, (2018), Designing & Selection of Quick Switching Multiple Sampling System – Acceptance Number Tightening. International Journal of Pure and Applied Mathematics, 119 (17) & 589 – 602.",
+            "Vijila M, Jansi J and Divya P.S, (2018), Product control for non destructive components in intermittent production process through average outgoing quality with MCChSP –(C1,C2, i, j) algorithm, International Journal of Mechanical Engineering and Technology. 9 (11) & 1484-1489",
+            "Jansi J, Jegathambal P and DevarajArumainayagam S, (2019), Identifying the Underlying Relationship Between Water Quality Parameters of the Groundwater Samples using Association and Clustering Algorithms in Coimbatore District, International Journal of Recent Technology and Engineering (IJRTE) ISSN:, 8 (2) & 2277-3878,",
+            "Jegathambal Palanichamy, Sundarambal Palani, Jansi Viola, (2022), Simulation and Prediction of Groundwater Quality of Semi-Arid Region Using Fuzzy Inference System and Neural Network Techniques, Journal of Soft Computing in Civil Engineering. 6(1) & 110-126."
+          ]
+        },
+        {
+          "faculty_name": "Dr. R. MANJURAM",
+          "content": [
+            "Muthulakshmi V and Manjuram R, (2021), Interval oscillation criteria for damped second-order delay differential equation with nonlinearities given by Riemann-Stieltjes integral, International Journal of Dynamical Systems and Differential Equations, 11(2), 89 – 107.",
+            "Muthulakshmi V and Manjuram R, (2021), Interval oscillation criteria for second-order impulsive delay differential equation with mixed nonlinearities, Electronic Journal of Mathematical Analysis and Applications, 9(2), 106-129.",
+            "Manjuram R and Muthulakshmi V, (2020), Oscillatory behavior of damped second-order nonlinear delay differential equations with riemann-stieltjes integral, AIP Conference Proceedings, 2261(1), 030134-1-19.",
+            "Muthulakshmi V and Manjuram R, (2020), Interval oscillation of damped second-order mixed nonlinear differential equation with variable delay under impulse effects, Journal of Applied Nonlinear Dynamics, 9(3), 493-511.",
+            "Muthulakshmi V and Manjuram R, (2019), Interval criteria for oscillation of damped second-order nonlinear impulsive differential equation with variable delay, Journal of Discontinuity, Nonlinearity and Complexity, 8(4), 403-418."
+          ]
+        },
+        {
+          "faculty_name": "Mrs. A. HENNA SHENOFER",
+          "content": [
+            "M. Deivanayaki, M.Jannath Begam, A.Henna Shenofer, B Arun.(2021). Free Convection of Casson Nanofluid with Inclined Magnetic field. AIP Conference Proceedings 2327(1), 020057.",
+            "M. Jannath Begam, M.Deivanayaki, B Arun, A.Henna Shenofer. (2021). Casson Fluid Flow Past a Porous Medium with Heat Source in The Presence of An Inclined Magnetic Field. AIP Conference Proceedings 2327(1), 020058.",
+            "B Arun, M.Jannath Begam, M.Deivanayaki, A.Henna Shenofer. (2021). Analysis of Magneto Casson Nanofluid with Chemical Reaction. AIP Conference Proceedings 2327(1), 020056.",
+            "M.Jeganathan, Henna Shenofer, R.Praveen Kumar. (2018). Solving Transportation Problem by Average Allocation Method, International Journal of Applied Mathematics, 7(2).",
+            "A.Henna Shenofer, Jeganathan Mariappan, R Praveen Kumar.(2017). International Journal of Pure and Applied Mathematics 117(21), 489-495."
+          ]
+        },
+        {
+          "faculty_name": "Dr. M. ABINAYA",
+          "content": [
+            "Abinaya, M. and Jayanthi, D., (2024). Intuitionistic fuzzy semi γ* generalized irresolute mappings, South East Asian Journal of Mathematics and Mathematical Sciences, 20 & 31-46.",
+            "Abinaya, M. and Jayanthi, D., (2022). Intuitionistic fuzzy semi γ * generalized closed mappings, AIP Conference Proceedings, 2835 & 130013-1 to 130013-9.",
+            "Abinaya, M and Jayanthi, D., (2021). On intuitionistic fuzzy semi γ * generalized continuous mappings, Advances in Fuzzy Mathematics, 10 & 17-26.",
+            "Abinaya, M. and Jayanthi, D., (2021). Intuitionistic fuzzy almost semi γ * generalized continuous mappings, Malaya Journal of Matematik, 1 & 278-282.",
+            "Abinaya, M. and Jayanthi, D., (2021). Intuitionistic fuzzy contra semi γ * generalized continuous mappings, Indian Journal of Natural Sciences, 12(69) & 36496- 36501.",
+            "Abinaya, M. and Jayanthi, D., (2021). Intuitionistic fuzzy semi γ * generalized connectedness, Advances and applications in mathematical sciences, 21(2) & 851-863."
+          ]
+        },
+        {
+          "faculty_name": "Dr. S. GOWTHAM",
+          "content": [
+            "Gowtham S., Sivaraj C., and Sheremet M.A., (2024). Analysis of magneto-natural convection and second law of thermodynamics of Cu-Al2O3-hybrid nanofluid in a vertical wavy cabinet having a localized non-uniform heat source, Journal of Magnetism and Magnetic Materials, 610 & 172416.",
+            "Gowtham S., Vignesh E., and Priyadharshini S., (2023). Thermal convection and entropy generation of ferrofluid in a wavy cavity with a heat source, PSGCAS search journal: A Journal of Science and Technology, 10 (1) (ISSN: 2320-2254).",
+            "Gowtham S., Sivaraj C., and Sheremet M.A., (2022). Thermogravitational convection of water-based nanofluids with entropy generation in a wavy cabinet having a localized non-uniform heat source, The European Physical Journal Plus, 137 & 510.",
+            "Sivaraj C., Gowtham S., Elango M., and Sheremet M.A., (2022). Analysis of thermo-magnetic convection and entropy generation of Al2O3-water nanofluid in a partially heated wavy electronic cabinet, International Communications in Heat and Mass Transfer, 133 & 105955."
+          ]
+        },
+        {
+          "faculty_name": "Mrs. M. MALARVIZHI",
+          "content": [
+            "V. J. Nirmala, & M. Malarvizhi, (2021). Existence of Sequential Caputo Fractional Differential Equations Subject to Erdelyi-Kober Integral Boundary Conditions. Aegaeum Journal, Volume 9, Issue 5, 20-34."
+          ]
+        },
+        {
+          "faculty_name": "Dr. J. EBENESAR ANNA BAGYAM",
+          "content": [
+            "Vivesini, D., Ebenesar Anna Bagyam, J., & Poongodi, T. (2025). Optimising communication and performance in IoT with RabbitMQ: A bulk arrival single server retrial queueing model with multi-phase service. International Journal of Mathematical Modelling and Numerical Optimisation, 15(1), 6–26.",
+            "Preethi Sowndharya, K., & Ebenesar Anna Bagyam, J. (2024). Optimal server analysis of M/M/c queueing model to reduce the waiting time of patients in healthcare service. International Journal of Mathematics in Operational Research, 27(2), 254–266.",
+            "Ebenesar Anna Bagyam, J., Suganthi, P., & Visali, P. (2023). Unreliable single server retrial queueing model with repeated vacation. International Journal of Mathematics in Operational Research, 26(3), 357–372.",
+            "Ebenesar Anna Bagyam, J., & Udaya Chandrika, K. (2019). Fuzzy analysis of bulk arrival two-phase retrial queue with vacation and admission control. Journal of Analysis, 27(1), 209–232.",
+            "Ebenesar Anna Bagyam, J., Udaya Chandrika, K., & Viswanathan, A. (2015). Bulk arrival multi-stage retrial queue with vacation. Applied Mathematical Sciences, 9(53–56), 2691–2706."
+          ]
+        },
+        {
+          "faculty_name": "Mrs. L. LINCY",
+          "content": [
+            "Kalaichelvi, A., & Lincy, L. (2018). Supra soft regular open sets, Supra soft regular closed sets and Supra soft regular continuity., International Journal of Pure and applied Mathematics., 1075-1078."
+          ]
+        },
+        {
+          "faculty_name": "Dr. M. RAHINI",
+          "content": [
+            "Vivek Prabu M., Rahini M. (2023). Sustainable growth of cipla during COVID-19 pandemic − A detailed study, Palestine Journal of Mathematics, 99-109.",
+            "Rahini, M., & Prabu, V. (2021). Downtrend of banking sectors using technical analysis. Kongunadu Research Journal, 8(1), 36-40.",
+            "Vivek Prabu M., & Rahini, M. (2022). Obtaining Weaker Form of Closed Sets in Topological Space using Python Program. Theoretical Mathematics and Pedagogical Mathematics, 29(1), 93-102.",
+            "Vivek Prabu M., & Rahini, M. (2023). Application of Kuratowski’s closure operator in Python program, In AIP Conference Proceedings, 2718(1), 030003.",
+            "Vivek Prabu M., & Rahini, M. (2023). Developing a topology generator using Python program. In AIP Conference Proceedings, 2649(1), 030002."
+          ]
+        },
+        {
+          "faculty_name": "Dr. NANDHINI V",
+          "content": [
+            "Sakthivel, K. M., & Nandhini, V. (2022). Record-based transmuted power Lomax distribution: properties and its applications in reliability. Reliability: Theory & Applications, 17(4 (71)), 574-592.",
+            "Sakthivel, K. M., & Nandhini, V. (2022). Alpha power transformation of Lomax distribution: Properties and applications. Thailand Statistician, 20(3), 669-685.",
+            "Sakthivel, K. M., & Nandhini, V. (2024). An Entropy-Based Validation of Threshold Selection Technique for Extreme Value Analysis and Risk Assessment. Lobachevskii Journal of Mathematics, 45(4), 1633-1651.",
+            "Sakthivel, K. M., & Nandhini, V. (2024). Modeling Extreme Values of Non-Stationary Precipitation Data with Effects of Covariates. Indian Journal of Science and Technology, 17(22), 2283-2295.",
+            "Sakthivel, K. M., & Nandhini, V. (2025). An Algorithm for Conditional Extreme Value Theory GARCH-EVT Technique for Estimating Value at Risk. Reliability: Theory & Applications, 20(1 (82)), 253-276.",
+            "Sakthivel, K. M., & Nandhini, V. (2025). Dual-phase threshold selection methodology for modelling extreme events. Statistical Modelling.",
+            "Sakthivel, K. M., & Nandhini, V. (2025). Adaptive threshold selection for extreme value analysis to predict return levels of ozone layer depletion. Natural Hazards, 1-26."
+          ]
+        },
+        {
+          "faculty_name": "Dr. S. JOYCE SHARLINE",
+          "content": [
+            "Uma G., & Joyce Sharline S., (2021). Construction of Modified Switching System using Zero Inflated Poisson Distribution. The International Journal of Analytical and Experimental Model Analysis, XIII(X), 149-157.",
+            "Uma G., & Joyce Sharline S., (2022). Impact of Fuzzy Logic and its Applications in Medicine: A Review. International Journal of Statistics and Applied Mathematics, 7(1), 20-27.",
+            "Uma G., & Joyce Sharline S., (2022). Assessment of Knowledge, Attitude and Practice on Breast Cancer among Women – Coimbatore City. International Journal of Mechanical Engineering,7(5).",
+            "Uma G., & Joyce Sharline S., (2023). A Systematic Review on Risk Assessment Models in Breast Cancer. International Journal of Research and Analytical Review, 10(2).",
+            "Uma G., & Joyce Sharline S., (2023). Estimating the Risk for Development of Breast Cancer using Gail Model. International Journal of Science and Research (IJSR), 12(12)."
+          ]
+        },
+        {
+          "faculty_name": "Dr. T. MYTHILI",
+          "content": [
+            "Jeyanthi, V., & Mythili, T. (2023). Heptapartitioned Neutrosophic Topological Space. Indian Journal of Natural Sciences, 14, 0976-0997.",
+            "Jeyanthi, V., & Mythili, T. (2024). An improved EDAS method based on trapezoidal neutrosophic number and its application in group decision-making. ShodhKosh: Journal of Visual and Performing Arts, 5(1), 2640-2655.",
+            "Jeyanthi, V., & Mythili, T. (2024). Enhanced Decision-Making Academic Libraries with TOPSIS methods using Blockchain Technology by Heptapartitioned Neutrosophic Number. Leveraging Blockchain for Future- Ready Libraries, 123-140.",
+            "Jeyanthi, V., & Mythili, T. (2025). Exploring Heptapartitioned Neutrosophic Pythagorean Topological spaces. Journal of Indian Academy of Mathematics, 47 (1)."
+          ]
+        },
+        {
+          "faculty_name": "DR. V. PANNEERSELVAM",
+          "content": [
+            "Sweetha S., Panneerselvam V., and Sakthivel R., Fault Estimation based Control Design for Nonlinear Fractional-Order Systems under Proportional Integral Observer, International Journal of Adaptive Control and Signal Processing, 2025, https://doi.org/10.1002/acs.70002.",
+            "Elakkiya V., Shobana N., Panneerselvam V., and Sakthivel R., Secured Fault Reconstruction based Fault-Tolerant Tracking Control Design for Hyperbolic Markov Jump PDE Systems with Deception Attacks, Communications in Nonlinear Science and Numerical Simulation, 2025, 153 & 109477."
+          ]
+        }
+      ]
+    },
+
+    {
+      "tab": "gallery",
+      "slug": "department-of-mathematics",
+      "title": "Gallery",
+      "breadcrumbItems": [
+        { "label": "Academics", "href": "academics" },
+        {
+          "label": "Arts, Science, Commerce and Management",
+          "href": "academics/arts-science-and-humanities/"
+        },
+
+        {
+          "label": "Department of Maths",
+          "href": "/academics/arts-science-and-humanities/department-of-mathematics"
+        },
+        { "label": "Gallery" }
+      ],
+      "multiImages": [
+        {
+          "title": "Alumni Meet 2022",
+          "images": [
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/alumi-1-1024x368.jpg",
+              "alt": "alumi-1"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/alumi-2-1024x473.jpg",
+              "alt": "alumi-2"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/alumi-3.jpg",
+              "alt": "alumi-3"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/alumi-4.jpg",
+              "alt": "alumi-4"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/alumi-5.jpg",
+              "alt": "alumi-5"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/alumi-6.jpg",
+              "alt": "alumi-6"
+            }
+          ]
+        },
+        {
+          "title": "Alumni Meet 2022",
+          "images": [
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/mathday-2-1024x769.jpg",
+              "alt": "mathday-2"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/mathday-1-1024x769.jpg",
+              "alt": "mathday-1"
+            }
+          ]
+        },
+        {
+          "title": "FDP",
+          "images": [
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/fdp-1.jpg",
+              "alt": "fdp-1"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/fdp-2-1.jpg",
+              "alt": "fdp-2"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/fdp-3-1.jpg",
+              "alt": "fdp-3"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/fdp-4.jpg",
+              "alt": "fdp-4"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/fdp-5.jpg",
+              "alt": "fdp-5"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/fdp-6.jpg",
+              "alt": "fdp-6"
+            }
+          ]
+        },
+        {
+          "title": "Convocation",
+          "images": [
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/convo-1024x768.jpg",
+              "alt": "convo"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "tab": "Events",
+      "slug": "department-of-mathematics",
+      "breadcrumbItems": [
+        { "label": "Academics", "href": "academics" },
+        {
+          "label": "Arts, Science, Commerce and Management",
+          "href": "academics/arts-science-and-humanities/"
+        },
+
+        {
+          "label": "Department of Maths",
+          "href": "/academics/arts-science-and-humanities/department-of-mathematics"
+        },
+        { "label": "Events" }
+      ],
+
+      "items": [
+        {
+          "title": "Events (2025-2026)",
+
+          "multiContent": [
+            {
+              "title": "Workshop",
+              "content": "A One day Workshop on “SPSS for Biosciences: Transforming Data into Meaningful Decisions” was conducted by Dr.S. Joyce Sharline, Assistant Professor, Department of Mathematics at Karpagam Academy of Higher Education, Coimbatore, on July 11, 2025.",
+              "images": {
+                "images": [
+                  {
+                    "id": 1,
+                    "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/event-1-1.jpg",
+                    "alt": "Conference Image 1"
+                  },
+                  {
+                    "id": 2,
+                    "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/event-1a.jpg",
+                    "alt": "Conference Image 2"
+                  }
+                ]
+              }
+            },
+            {
+              "title": "Faculty Development Programme",
+              "contentList": [
+                "Faculty Development Programme on “Mathematical Statistics, Probability and Simulation Techniques” was handled by Dr. G. Uma, Head & Associate Professor, Department of Statistics, PSG College of Arts & Science, Coimbatore on November 27, 2025, Dr.K.Ramakrishnan, Professor of Mathematics, Department of Science and Humanities, Karpagam College of Engineering, Coimbatore on November 28, 2025, Dr. M. Vijila, Assistant Professor, Department of Statistics, Loyola College, Chennai on November 29, 2025.",
+                "Faculty Orientation Programme on “Building Your Research Identity: Creating and Managing Author Profiles in Scopus, Web of Science and Google Scholar” was handled by Dr. A. Thangamani, Associate Professor and Head, Department of Chemistry, FASCM at Karpagam Academy of Higher Education, Coimbatore on October 29, 2025.",
+                "Faculty Orientation Programme on “Transforming the Mathematics Classroom: Active Learning for All Levels of Learners” was handled by Dr. R. Thiyagarajan, Department of Management, Head and Programme Coordinator at Karpagam Academy of Higher Education, Coimbatore on September 9, 2025."
+              ],
+              "images": {
+                "images": [
+                  {
+                    "id": 1,
+                    "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/fdp-event-1.jpg",
+                    "alt": "Conference Image 1",
+                    "desc": "Interactive session with Dr. G. Uma during the Faculty Development Programme (27-11-2025)"
+                  },
+                  {
+                    "id": 2,
+                    "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/fdp-event-2a.jpg",
+                    "alt": "Conference Image 2",
+                    "desc": "Interactive session with Dr. K. Ramakrishnan during the Faculty Development Programme (28-11-2025)"
+                  },
+                  {
+                    "id": 3,
+                    "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/fdp-event2b.jpg",
+                    "alt": "Conference Image 1",
+                    "desc": "Interactive session with Dr. M. Vijila during the Faculty Development Programme (29-11-2025)"
+                  },
+                  {
+                    "id": 4,
+                    "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/fdp-event-2c.jpg",
+                    "alt": "Conference Image 2",
+                    "desc": "Presentation on Creating and Managing Author Profiles by Dr. M. Vijila (29-11-2025)"
+                  },
+                  {
+                    "id": 5,
+                    "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/fdp-2.jpg",
+                    "alt": "Conference Image 1",
+                    "desc": "Interactive session with Dr. A. Thangamani during the Faculty Orientation Programme (29-10-2025)"
+                  },
+                  {
+                    "id": 6,
+                    "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/fdp-2a.jpg",
+                    "alt": "Conference Image 2",
+                    "desc": "Presentation on Creating and Managing Author Profiles by Dr. A. Thangamani (29-10-2025)"
+                  },
+                  {
+                    "id": 7,
+                    "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/fdp-3.jpg",
+                    "alt": "Conference Image 1",
+                    "desc": "Interactive session with Dr. R. Thiyagarajan during the Faculty Orientation Programme (09-09-2025)"
+                  },
+                  {
+                    "id": 8,
+                    "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/fdp-3b.jpg",
+                    "alt": "Conference Image 2",
+                    "desc": "Presentation on Active Learning strategies in Mathematics by Dr. R. Thiyagarajan (09-09-2025)"
+                  }
+                ]
+              }
+            },
+            {
+              "title": "Seminar",
+              "content": "Seminar on “Mathematics behind AI” exclusively for the Postgraduate students of Computer Applications was handled by Dr. R. Selvamani, Associate Professor, Department of Mathematics, Karunya Institute of Technology and Sciences, Coimbatore on September 17, 2025.",
+              "images": {
+                "images": [
+                  {
+                    "id": 1,
+                    "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/sem-1.jpg",
+                    "alt": "Conference Image 1",
+                    "desc": "Students and faculty engaged in the Seminar on ‘Mathematics Behind AI 17-09-2025"
+                  },
+                  {
+                    "id": 2,
+                    "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/sem2.jpg",
+                    "alt": "Conference Image 2",
+                    "desc": "Dr. R. Selvamani delivering insights during the Seminar on (17-09-2025)"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "title": "GUEST LECTURE",
+          "multiContent": [
+            {
+              "contentList": [
+                "A Guest lecture on “Global Math Opportunities for Graduates” was conducted by Mr. S. DHARUN B.Sc., M.S, a former student and currently employed with R & A Inventive Limited, Barnsley, United Kingdom, on 14th March 2024.",
+                "A Guest lecture on “A Successful Journey from the Campus to the IT Field” was conducted by Ms. Veerasundari A, Alumnus B.Sc. 2019-2022, Programmer trainee, Cognizant Technology Solutions, Bangalore., on 25th September 2023.",
+                "An Alumni Seminar on “Delivering Insights: A Journey to the Postal Department” was conducted by Ms. Aparna M, our alumni (Batch 2016-2019), Gramin Dak Sevak (BPM), Achipatti Post Office, Pollachi.",
+                "A Seminar on “Innovative uses of Machine Learning” was conducted by Dr.S.Santhosh Kumar, our alumni (Batch 2011-2016), Assistant Professor, Department of Mathematics (Aided), Sri Ramakrishna Mission Vidyalaya College of Arts and Science, Coimbatore-641 020, on 27th July 2023.",
+                "A Guest lecture on “Leadership and Entrepreneurship” was conducted by Dr.M.Kulandhaivel, Associate Professor, Department of Microbiology, Faculty of Arts, Science, commerce and Management, Karpagam Academy of Higher Education, Coimbatore, on 27th July 2023.",
+                "A Seminar on “Career Opportunities in Indian Postal Service” was conducted by RUBITHA S, B.Sc., Gramin Dak Sevak, Negamam Sub Post Office, Negamam., on 20th July 2023.",
+                "A Guest lecture on “Innovation and Development of Mathematics Skills among Students” was conducted by Mrs. N. Nandhini, M.Sc., B.Ed., PRT (Teacher), KSR Akshara Academy CBSE School, Tiruchengode, on 26th June 2023.",
+                "A Guest lecture on “Session on Achieving Problem-Solution Fit and Product-Market Fit” was conducted by Anand L, M.Sc., MBA., Chief Manager – Sales & Marketing, Pricol Properties Ltd, Coimbatore, on 20th March 2023.",
+                "A Guest lecture on “Essential Skills and Qualities to be a successful entrepreneur” was conducted by Dr.R.Jayalakshmi, IIC Ambassador, Assistant Professor, Department of Commerce-B.Com(PA) & B.Com(BPS), Faculty of Arts, Science, Commerce and Management, Karpagam Academy of Higher Education, Coimbatore, on 31st January 2023.",
+                "A Guest lecture on “Divers views of Fermat’s Theorem” was conducted by Dr. N. Kamatchi, Associate Professor in Department of Mathematics, Kamaraj College of Engineering and Technology, Virudhunagar, on 16th September 2022.",
+                "A Guest lecture on “Importance of Mathematics in IT Sector” was conducted by Ms. N. Pushparani, Operations Executive, Infosys Private Limited, Mysore, on 29th October 2022.",
+                "A Guest lecture on “Stochastic Inventory Models” was conducted by Dr. N. Anbazhagan, Professor and Head, Department of Mathematics, Alagappa University, Karaikudi, on 8th July 2022.",
+                "A Guest lecture on “Understanding hidden mathematics behind innovative technologies” was conducted by Dr. A. K. Abdul Hakeem, Assistant Professor, Department of Applied Mathematics, Sri Ramakrishna Mission Vidyalaya College of Arts and Science, Coimbatore, on 17th May 2022.",
+                "A Guest lecture on “Current Sector and Opportunities in IT Industries” was conducted by Ms. M. VENNILA, Operations Executive, Infosys Technologies, Bangalore, on 20th April 2022.",
+                "A Career Counselling on “Tips to face IT sector interviews” was conducted by Ms. M. Afsana, Programmer, Cognizant Technology Solutions, Chennai, on 29.03.2022.",
+                "A Guest lecture on “Applications of Mathematical Logic to Develop Innovation” was conducted by Dr. J. Catherine Grace John, Assistant Professor, Departments of Mathematics, Karunya Institute of Technologies and Sciences, Coimbatore, on 14th March 2022.",
+                "A Alumni webinar on “Innovation in digital for corporate career” was conducted by Ms. P. R. Arunthamizh, Talent Acquisition Associate, SSi People, Coimbatore, on 28th Febraury 2022.",
+                "A Guest lecture on “Uses of Mathematical Technique in Career Guidance” was conducted by Ms. P. Sangavi, Subject Matter Expert, Content Developer Team, Straive, Chennai, on 12th December 2021.",
+                "A Guest lecture on “Application of Statistical Quality Control” was conducted by Dr. M. Rajeswari, Assistant Professor, Department of Biostatistics, Jawaharlal Institute of Postgraduate Medical Education and Research, Puducherry, on 13th November 2021.",
+                "A Guest lecture on “Numerical Approach to Fluid Flow Problems” was conducted by Dr. M. Muthtamilselvan, Assistant Professor, Department of Mathematics, Bharathiar University, Coimbatore, on 21st October 2021.",
+                "A Webinar on “Applications of Graph Theory”, was delivered by the Resource Person Mr.R.Sivakumar, Assistant Professor, Department of Mathematics, Ayya Nadar Janaki Ammal College, Sivakasi on August 27, 2021.",
+                "A Guest lecture on “Applications Graph Theory” was conducted by Mr.R.Sivakumar, Assistant Professor, Department of Mathematics, Ayya Nadar Janaki Ammal College, Sivakasi, on 27th August 2021.",
+                "A Webinar on “Introduction to Complex Analysis”, was delivered by the Resource Person Dr. N. Kamatchi, Associate Professor, Department of Mathematics, Kamaraj College of Engineering & Technology, Virudhunagar on August 24, 2021.",
+                "A Guest lecture on “Distance Antimagic Graphs” was conducted by Dr. N. Kamatchi, Associate Professor, Department of Mathematics, Kamaraj College of Engineering & Technology, Virudhunagar, on 24th August 2021.",
+                "A Webinar on “Distance Antimagic Graphs”, was delivered by the Resource Person Dr. N. Kamatchi, Associate Professor, Department of Mathematics, Kamaraj College of Engineering & Technology, Virudhunagar on June 29, 2021.",
+                "A Guest lecture on “Career Guidence” was conducted by Ms.G.Indhumathi, Sr. Business Presentation Specialist, McKinsey and Company, Bangalore, on 28th June 2021.",
+                "A Guest lecture on “Introduction to Complex Analysis” was conducted by Dr. N. Kamatchi, Associate Professor, Department of Mathematics, Kamaraj College of Engineering & Technology, Virudhunagar, on 26th June 2021.",
+                "A Webinar on “Mathematics in Python”, was delivered by the Resource Person Dr. P. Ajitha, Dean-Academics-Science, KG College of arts and Science, Coimbatore on June 7, 2021.",
+                "A Guest lecture on “Mathematics in Python” was conducted by Dr. P. Ajitha, Dean-Academics-Science, KG College of arts and Science, Coimbatore, on 07th June 2021.",
+                "A Webinar on “Mathematics in Sports”, was delivered by the Resource Person S.Santhosh Kumar, Department of Mathematics, Sri Ramakrishna Mission Vidyalaya College of Arts and Science Coimbatote on March 31, 2021.",
+                "A Webinar on “Industry Expectation from Graduates”, was delivered by the Resource Person Mr.S.Vignesh, Test Engineer, Wipro Technologies, Hyderabad on March 29, 2021.",
+                "A Webinar on “Mathematical Modelling with R-Programming”, was delivered by the Resource Person P.S.Divya, Assistant Professor, Department of Mathematics, Karunya Institute of Technology and Sciences, Coimbatore on March 25, 2021.",
+                "A Webinar on “Strategy to Succeed in CSIR-NET, SET and GATE Exam in Mathematics”, was delivered by the Resource Person Dr. P. Prabakaran, Assistant Professor, Department of Mathematics, Bannari Amman Institute of Technology, Sathyamangalam, Erode on January 09, 2021.",
+                "A Webinar on “Machine learning on Statistical tools”, was delivered by the Resource Person Dr M. Vijila, Assistant Professor, Department of Mathematics, Karunya Institute of Technology, Coimbatore on January 08, 2021.",
+                "A Webinar on “Mathematical Applications of Management Decisions”, was delivered by the Resource Person Dr. Varalakshmi Alapati, Associate Professor, Department of Commerce, Manipal Academy of Higher Education, Manipal on December 26, 2020.",
+                "Endowment Guest Lecture for National Mathematics Day 2020: “Robust Numerical Schemes for Differential Equations Exhibiting Boundary Layers” delivered by Dr. Natesan Srinivasan, Professor, IIT Guwahati on December 22, 2020.",
+                "A Webinar on “Distance Magic Graphs”, was delivered by the Resource Person Dr. N. Kamatchi, Associate Professor, Kamaraj College of Engineering & Technology, Virudhunagar on August 08, 2020.",
+                "A Webinar on “Career Advancement in Data Analytics” was delivered by Raguraman Srinivasan, Managing Director and Founder ,EDAIN FRONT Solutions ,Bangalore on June 29,2020.",
+                "Skill based special lecture on “Career Guidance and Soft Skills ” was delivered by Ms. J.Mehanaz Fathima, SRF (NRSE-ISRO), Outreach Facility, Hyderabad on February 08, 2020.",
+                "A Guest Lecture on “Time Delay Systems” was delivered by Dr. R.Rakkiyappan, Assistant Professor, Department of Mathematics, Bharathiar University, Coimbatore on January 07, 2020.",
+                "The Endowment Guest Lecture on “Genesis of Numerical Linear Algebra”, was delivered by Dr. E.Natarajan, Associate Professor , Department of Mathematics, Indian Institute of Space Science and Technology, Kerala on January 06, 2020.",
+                "A Guest Lecture on “Graphs Arising from Distance” was delivered by Dr. KM. Kathiresan, Associate Professor , Department of Mathematics, Ayya Nadar Janaki Ammal College,Sivakasi on September 13, 2019.",
+                "Inauguration of Mathematics Association Activities 2019-2020 with special lecture on “Mathematical application in Industries” by Dr.Guru Selvaraj, G M-HR & IR, Flow link Systems(P) Ltd, Coimbatore on August 22, 2019.",
+                "A Guest Lecture on “Topological Spaces” was delivered by Dr. K.Balachandaran, Professor (UGC- BSR), Department of Mathematics, Bharathiar University, on March 07, 2019.",
+                "A Guest Lecture on “Numerical Methods and its Applications” was delivered by Dr. V.Sundarapandian, Professor, R&D Center, Vel Tech University, Chennai on January 03, 2019.",
+                "A Guest Lecture on “Mathematical Modeling” was delivered by Dr. N.Anbazhagan, Professor and Head, Department of Mathematics, Alagappa University, Karaikudi on August 16, 2018.",
+                "A Guest Lecture on “Algebra and Analysis” was delivered by Dr. N.Kamatchi, Associate Professor, Kamaraj College of Engineering and Technology, Virudhunagar on August 06, 2018.",
+                "Skill based special lecture on “Soft Skills and Hard Skills opportunities in banking” was delivered by Mr. P.Arun Gopalan, Assistant Manager, South Indian Bank, Coimbatore on July 28, 2018.",
+                "A Guest Lecture on “Fuzzy Topology” was delivered by Dr. G.Thangaraj, Professor and Head, Department of Mathematics, Thiruvalluvar University, Vellore on January 29, 2018.",
+                "A Guest Lecture on “Applications of Mathematics in Industry” was delivered by S.Raguraman, Sr.Director , CTS, Bangalore on August 05, 2017.",
+                "A Guest Lecture on “Mathematical Modelling” was delivered by Dr. K.Bhuvaneswari, Associate Professor and Head, Department of Mathematics, Mother Teresa Women’s University, Kodaikkanal on February 20, 2017.",
+                "A Guest Lecture on “Algebra and its Applications in real life” was delivered by Dr. R.Uthayakumar, Professor, Department of Mathematics, The Gandhigram Rural Institute, Gandhigram on September 29, 2016.",
+                "A Guest Lecture on “Graph Theory and its Applications in Real Life” was delivered by Dr.N.Murugesan, Assistant Professor, Department of Mathematics, Govt. Arts College, Coimbatore on August 24, 2016.",
+                "A Guest Lecture on “Fundamentals of Fluid Dynamics” was delivered by Dr.P.T. Hemamalini, Professor and Head, Department of Science and Humanities, Karpagam Academy of Higher Education, Coimbatore on January 29, 2016.",
+                "Special lecture for Ramanujan Day-2015: “Contribution of Srinivasa Ramanujan to Infinite Series and Continued fraction in Mathematics” delivered by Dr.A.Angurag, Associate Professor, P.S.G. College of Arts and Science, Coimbatore on December 22, 2015.",
+                "A Guest Lecture on “Applications of Differential Equations” was delivered by Dr.S.Marshal Anthoni, Associate Professor, Department of Mathematics, Anna University Regional Center, Coimbatore on October 08, 2015.",
+                "A Guest Lecture on “Fractal Analysis” was delivered by Dr. R.Uthayakumar, Professor, Department of Mathematics, The Gandhigram Rural Institute, Gandhigram on August 12, 2015."
+              ]
+            }
+          ]
+        },
+
+        {
+          "title": "WORKSHOP",
+          "multiContent": [
+            {
+              "contentList": [
+                "A One day Workshop on “Basics of Data Analytics using MS-EXCEL” was conducted by Dr. N. Kanagaraj, Department of Computer Science at Karpagam Academy of Higher Education, Coimbatore, on January 27, 2023.",
+                "A One Day Workshop on “Numerical Analysis using Excel” was conducted by Dr. B. Deepa, Department of Science and Humanities, Faculty of Engineering, Karpagam Academy of Higher Education, Coimbatore on December 20, 2022.",
+                "A Workshop on “Abstract and Linear Algebra” was conducted by Mr.U.R.Ramakrishnan and Mr.V.Kuppusamy, Assistant Professor, Department of Mathematics, Karpagam Academy of Higher Education, Coimbatore from June 21, 2021 to June 26, 2021.",
+                "A Workshop on “Math in MATLAB” was conducted by Dr. P. K . Saranya, Head, Department of Computer Science, RT National college of Arts and Science, Erode on February 02, 2021.",
+                "4. A Workshop on “Math in MATLAB” was conducted by Dr. P. K. Saranya, Head, Department of Computer Science, RT National college of Arts and Science, Erode on February 02, 2021.",
+                "SSD Workshop on “Mastering self for a grate career and life” was conducted by Mr. R. Aravindkumar, CEO, Academics Initiative, KGisl Educational Institutions, Comibatore on February 02,2019.",
+                "Two Day workshop on Algebra and Analysis for CSIR-UGC NET Aspirants by Dr.K.M. Kathiresan, Director, Center for Graph theory Department of Mathematics, Ayya Nadar Janaki Ammal College, Sivakasi and Dr. R. Roopkumar, Associate Professor, Department of Mathematics, Central university of Tamilnadu, Thiruvarur on October 03&04,2018.",
+                "Science Academics Lecture Workshop on “Algebra and Analysis” conducted by Dr. D. S. Nagaraj, C.I.T. Campus, Tharamani, Chennai, Prof. S. Kesavan, IIT Madras, Chennai and by Prof. K. N. Raghavan, IMSc, CIT Chennai Campus, Tharamani, Chennai on January 04 & 05,2017.",
+                "A One day National level Workshop on “MATLAB” was conducted by Dr. S. Ruban Raj, Associate Professor, Department Of Mathematics, St. Joseph’s college, Tiruchirappalli on September 03, 2016."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "CONFERENCES/ SEMINAR",
+          "multiContent": [
+            {
+              "contentList": [
+                " Seminar on “Mathematics behind AI” on 17.09.2025, exclusively for the Postgraduate students of Computer Applications",
+                "One day Seminar on “Interdependence of Multidisciplinary Research for Innovative Solutions” was conducted by Dr. M. Sridhar Muthusami, Department of Biochemistry, Head, Centre for Cancer Research, FASCM, KAHE, Coimbatore on February 14, 2024.",
+                "A Seminar on “Innovative uses of Machine Learning” was conducted by Dr.S.Santhosh Kumar, our alumni (Batch 2011-2016), Assistant Professor, Department of Mathematics (Aided), Sri Ramakrishna Mission Vidyalaya College of Arts and Science, Coimbatore-641 020, on 27th July 2023.",
+                "A Seminar on “Career Opportunities in Indian Postal Service” was conducted by RUBITHA S, B.Sc., Gramin Dak Sevak, Negamam Sub Post Office, Negamam., on 20th July 2023.",
+                "A State Level Conference on “Emerging Trends in Mathematical Sciences-2020 (ETMS-20) Conducted on March 03,2020 by Dr. N. Kamatchi, Associate Professor Department of Mathematics, Kamaraj College of Engg & Tech, Virudhunagar.",
+                "One day National Seminar on “Recent Development in Pure and Applied Mathematics” was conducted by Dr.K.A. Germina, Associate Professor, Department of Mathematics, Central University of Kerala and Dr.S. Saravanan, Professor and Head, Department of Mathematics, Bharathiar University, Coimbatore on September 15, 2017.",
+                "A State Level Conference on “Emerging Trends in Mathematical Sciences-2020 (ETMS-20) Conducted on March 03,2020 by Dr. N. Kamatchi, Associate Professor Department of Mathematics, Kamaraj College of Engineering and Technology, Virudhunagar.",
+                "An Alumni Seminar on “Delivering Insights: A Journey to the Postal Department” was conducted by Ms. Aparna M, our alumni (Batch 2016-2019), Gramin Dak Sevak (BPM), Achipatti Post Office, Pollachi."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "SYMPOSIUM",
+          "multiContent": [
+            {
+              "contentList": [
+                "A Celebration of Mathematics week in “Remembrance of Srinivasa Ramanujan’s Birthday” conducted by department of Mathematics, KAHE, 22nd December, 2023.",
+                "The Celebration of Srinivasa Ramanujan’s Birthday was organized by the Department of Mathematics, Karpagam Academy of Higher Education Coimbatore on 22nd December 2022.",
+                "The Department of Mathematics has organized an intra college meet “International Pi Day 2021” on March 13, 2021.",
+                "The Department of Mathematics has organized an inter college meet “ZONAZA 2K21” on February 27, 2021.",
+                "The Department of Mathematics has organized an intra college meet “KAHE MATHLATHON 2021” on February 08, 2021.",
+                "The Department of Mathematics has organized an inter college meet “ZONAZA 2K20” on January 24, 2020"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "FDP",
+          "multiContent": [
+            {
+              "contentList": [
+                "Faculty Orientation Programme on “Transforming the Mathematics Classroom:  Active Learning for All Levels of Learners” on 30.08.2025.",
+                "The Department of Mathematics (FASCM), conducted a Department Faculty Induction Programme, on 10th June 2023.",
+                "Department of Mathematics (FASCM), conducted a Department Faculty Development on “Enhanced and efficient teaching, learning and research methods for Mathematics Teachers” from 12.12.2022 to 20.12.2022."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "OTHERS",
+          "multiContent": [
+            {
+              "contentList": [
+                "Skill Training Program on “Beyond Degrees: Building a Future-Ready Minds” for II B.Sc., Computer Science stream students on 07.01.2026 at Bharathi Hall.",
+                "Vedic Mathematics Through the Centre for Indian Knowledge Systems on 06.01.2026.",
+                "Celebrations of Srinivasa Ramanujan’s Birthday (National Mathematics Day) on “Exploring the Elegance and Significance of Mathematics” on 22.12.2025 and organize Mathematics Week from 15.12.2025 to 18.12.2025.",
+                "One Day Skill Training Programme on “Practical Approaches to Mathematical Decision Making in Modern Industries” for II B.Sc., CS (Cognitive Systems) students of KAHE on 18.12.2025.",
+                "Three-Days Faculty Development Programme on “Mathematical Statistics, Probability and Simulation Techniques” in Hybrid Mode from 27.11.2025 to 29.11.2025",
+                "Faculty Orientation Programme on “Building Your Research Identity: Creating and Managing Author Profiles in Scopus, Web of Science and Google Scholar” on 23.10.2025.",
+                "“Department Alumni Meet 2025” on 10.08.2025 by our alumni 6 faculty members from the department of Mathematics and Mr. Gokul MC, Manager-Alumni Relations, to participate in this alumni meet."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

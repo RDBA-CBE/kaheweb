@@ -116,6 +116,7 @@ const TabInnerSection = ({ tabSections, tabContent }) => {
             laboratoryContent={laboratoryContent && laboratoryContent}
           />
         </div>
+       
 
         {/* {publicationsContent && (
           <div
