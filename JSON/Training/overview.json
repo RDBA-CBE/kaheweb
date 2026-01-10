@@ -19,102 +19,86 @@
   "recruiters": {
     "title": "Prominent Recruiters",
     "content": [
-      { "title": "TCS", "img": "/images/Kahe/Innerpages/placement.png" },
-      { "title": "ZOHO", "img": "/images/Kahe/Innerpages/placement.png" },
-      { "title": "Accenture", "img": "/images/Kahe/Innerpages/placement.png" },
+      { "img": "/images/Kahe/recruiters/logo-1.png" },
+      { "img": "/images/Kahe/recruiters/logo-2.png" },
+      { "title": "", "img": "/images/Kahe/recruiters/logo-3.png" },
       {
-        "title": "ZIFO RnD Solutions",
-        "img": "/images/Kahe/Innerpages/placement.png"
+        "img": "/images/Kahe/recruiters/logo-1.png"
       },
       {
-        "title": "LTI Mindtree",
-        "img": "/images/Kahe/Innerpages/placement.png"
+        "img": "/images/Kahe/recruiters/logo-1.png"
       },
-      { "title": "Cognizant", "img": "/images/Kahe/Innerpages/placement.png" },
-      { "title": "Infosys", "img": "/images/Kahe/Innerpages/placement.png" },
-      { "title": "TATA ELXSI", "img": "/images/Kahe/Innerpages/placement.png" },
-      { "title": "Wipro", "img": "/images/Kahe/Innerpages/placement.png" },
-      { "title": "KONE", "img": "/images/Kahe/Innerpages/placement.png" },
-      { "title": "DIYUM", "img": "/images/Kahe/Innerpages/placement.png" },
-      { "title": "CODINGMART", "img": "/images/Kahe/Innerpages/placement.png" },
-      { "title": "Donyati", "img": "/images/Kahe/Innerpages/placement.png" },
+      { "img": "/images/Kahe/recruiters/logo-4.png" },
+      { "img": "/images/Kahe/recruiters/logo-5.png" },
+      {  "img": "/images/Kahe/recruiters/logo-6.png" },
+      { "img": "/images/Kahe/recruiters/logo-7.png" },
+      { "img": "/images/Kahe/recruiters/logo-8.png" },
+      { "img": "/images/Kahe/recruiters/logo-9.png" },
+      { "img": "/images/Kahe/recruiters/logo-10.png" },
+      { "img": "/images/Kahe/recruiters/logo-11.png" },
       {
-        "title": "Tech Mahindra",
-        "img": "/images/Kahe/Innerpages/placement.png"
+        "img": "/images/Kahe/recruiters/logo-12.png"
       },
-      { "title": "AVASOFT", "img": "/images/Kahe/Innerpages/placement.png" },
-      { "title": "Mr. Cooper", "img": "/images/Kahe/Innerpages/placement.png" },
-      { "title": "Kaar", "img": "/images/Kahe/Innerpages/placement.png" },
-      { "title": "Hexaware", "img": "/images/Kahe/Innerpages/placement.png" },
-      { "title": "Vuram", "img": "/images/Kahe/Innerpages/placement.png" },
+      { "img": "/images/Kahe/recruiters/logo-13.png" },
+      { "img": "/images/Kahe/recruiters/logo-14.png" },
+      { "img": "/images/Kahe/recruiters/logo-15.png" },
+      { "img": "/images/Kahe/recruiters/logo-16.png" },
+      { "img": "/images/Kahe/recruiters/logo-17.png" },
       {
-        "title": "Moonraft Innovation Labs",
-        "img": "/images/Kahe/Innerpages/placement.png"
+        "img": "/images/Kahe/recruiters/logo-1.png"
       },
-      { "title": "Ducen", "img": "/images/Kahe/Innerpages/placement.png" },
-      { "title": "Virtusa", "img": "/images/Kahe/Innerpages/placement.png" },
-      { "title": "Kanini", "img": "/images/Kahe/Innerpages/placement.png" },
+      { "img": "/images/Kahe/recruiters/logo-18.png" },
+      { "img": "/images/Kahe/recruiters/logo-19.png" },
+      {"img": "/images/Kahe/recruiters/logo-20.png" },
       {
-        "title": "iLink Digital",
-        "img": "/images/Kahe/Innerpages/placement.png"
+        "img": "/images/Kahe/recruiters/logo-21.png"
       },
-      { "title": "Rently", "img": "/images/Kahe/Innerpages/placement.png" },
-      { "title": "Fractal", "img": "/images/Kahe/Innerpages/placement.png" },
+      { "img": "/images/Kahe/recruiters/logo-22.png" },
+      { "img": "/images/Kahe/recruiters/logo-23.png" },
       {
-        "title": "Aspire Systems",
-        "img": "/images/Kahe/Innerpages/placement.png"
+        "img": "/images/Kahe/recruiters/logo-24.png"
       },
       {
-        "title": "Karur Vysya Bank",
-        "img": "/images/Kahe/Innerpages/placement.png"
+        "img": "/images/Kahe/recruiters/logo-25.png"
       },
       {
-        "title": "HDB Financial Services",
-        "img": "/images/Kahe/Innerpages/placement.png"
+        "img": "/images/Kahe/recruiters/logo-26.png"
       },
-      { "title": "COTIVITI", "img": "/images/Kahe/Innerpages/placement.png" },
+      { "img": "/images/Kahe/recruiters/logo-27.png" },
       {
-        "title": "Cloud Destinations",
-        "img": "/images/Kahe/Innerpages/placement.png"
+        "img": "/images/Kahe/recruiters/logo-28.png"
       },
-      { "title": "Azentio", "img": "/images/Kahe/Innerpages/placement.png" },
-      { "title": "Episource", "img": "/images/Kahe/Innerpages/placement.png" },
+      { "img": "/images/Kahe/recruiters/logo-29.png" },
+      { "img": "/images/Kahe/recruiters/logo-30.png" },
       {
-        "title": "Mallow Technologies",
-        "img": "/images/Kahe/Innerpages/placement.png"
+        "img": "/images/Kahe/recruiters/logo-1.png"
       },
-      { "title": "HDFC Bank", "img": "/images/Kahe/Innerpages/placement.png" },
+      { "img": "/images/Kahe/recruiters/logo-31.png" },
       {
-        "title": "Bajaj Finserv",
-        "img": "/images/Kahe/Innerpages/placement.png"
+        "img": "/images/Kahe/recruiters/logo-1.png"
       },
-      { "title": "Consero", "img": "/images/Kahe/Innerpages/placement.png" },
-      { "title": "B", "img": "/images/Kahe/Innerpages/placement.png" },
-      { "title": "Ramco", "img": "/images/Kahe/Innerpages/placement.png" },
-      { "title": "SSHS", "img": "/images/Kahe/Innerpages/placement.png" },
+      { "img": "/images/Kahe/recruiters/logo-32.png" },
+      { "img": "/images/Kahe/recruiters/logo-33.png" },
+      {"img": "/images/Kahe/recruiters/logo-34.png" },
+      { "img": "/images/Kahe/recruiters/logo-35.png" },
       {
-        "title": "Kotak Life Insurance",
-        "img": "/images/Kahe/Innerpages/placement.png"
+        "img": "/images/Kahe/recruiters/logo-36.png"
       },
       {
-        "title": "Molecular Connections",
-        "img": "/images/Kahe/Innerpages/placement.png"
+        "img": "/images/Kahe/recruiters/logo-37.png"
       },
-      { "title": "EmbedUR", "img": "/images/Kahe/Innerpages/placement.png" },
+      { "img": "/images/Kahe/recruiters/logo-38.png" },
       {
-        "title": "Microbiological Laboratory",
-        "img": "/images/Kahe/Innerpages/placement.png"
+        "img": "/images/Kahe/recruiters/logo-39.png"
       },
-      { "title": "MRF", "img": "/images/Kahe/Innerpages/placement.png" },
+      {"img": "/images/Kahe/recruiters/logo-40.png" },
       {
-        "title": "The India Cements Ltd",
-        "img": "/images/Kahe/Innerpages/placement.png"
+        "img": "/images/Kahe/recruiters/logo-41.png"
       },
       {
-        "title": "PON PURE Chemicals",
-        "img": "/images/Kahe/Innerpages/placement.png"
+        "img": "/images/Kahe/recruiters/logo-42.png"
       },
-      { "title": "CorroHealth", "img": "/images/Kahe/Innerpages/placement.png" }
+      { "img": "/images/Kahe/recruiters/logo-43.png" }
     ]
   },
 

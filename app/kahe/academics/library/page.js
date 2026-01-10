@@ -2,8 +2,8 @@ import DeptOfBioChemPage from "@/components/00-Kahe/AcademicsComponents/Arts/Dep
 import EngineeringLibrary from "@/components/00-Kahe/DirectPageComponent/EngineeringLibrary";
 
 export const metadata = {
-  title: "Best MSc Biochemistry Colleges in Coimbatore",
-  description: "Looking for MSc Biochemistry colleges in Coimbatore? Choose KAHE which provides students with the knowledge and skills to become successful in the field.",
+  title: "Library - Cyber Security Colleges in Coimbatore",
+  description: "KAHE is a leading cyber security college in Coimbatore that remains as a one-stop destination for books, magazines, and more. Join KAHE &amp; avail the facilities.",
 };
 
 const page = () => {
