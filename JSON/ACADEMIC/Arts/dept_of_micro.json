@@ -1,8 +1,8 @@
 {
   "title": "Department of Microbiology",
-  "bannerCon": "The University of Wyoming welcomes students to experience a one-of-a-kind education in the heart of the Mountain West.",
+  "bannerCon": "Through rigorous academics and hands-on laboratory learning, the department nurtures skilled professionals in microbial sciences.",
   "applyLink": "#",
-  "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+  "bannerImg": "/images/Kahe/academics/arts-and-science/microbiology/microbiology-banner.webp",
   "tabs": [
     {
       "id": "overview",
@@ -49,7 +49,7 @@
           "type": "overview",
           "subTitle": "Overview",
           "contents": "The Department of Microbiology was established in the academic year 2002-2003, with more than 5000 sq. ft. of laboratory facility. The department comprises all the essential equipment and provides a holistic atmosphere for the students to work around. The facility encompasses Fermenter, HPLC, GC-FID, Walk-in Cold Room, Walk-in Hot Room, Multi ELISA Reader, Free Drier, Phase Contrast Microscope, Shaker Incubator, PCR, Agarose Gel Electrophoresis and SDS-PAGE Electrophoresis.The department possesses excellent library facilities, which includes latest editions of Books, National/International Journals and Magazines covering all fields of Microbiology i.e., Bacteriology, Virology, Microbial Physiology, Microbial Genetics, Mycology, Parasitology, Immunology, Industrial Microbiology, Environmental Microbiology etc. The department offers B.Sc., M.Sc., and Ph.D. research programs. The department is equipped with well-qualified, dedicated and experienced faculty members.The faculty members are regularly updating their knowledge by attending online and offline Faculty Development Programme (FDP) through SWAYAM, and Faculty Immersion Programme (FIP). The department has received six major research grants from various funding agencies such as UGC, ICMR, DBT, DST and TNSCST for research work since the inception of the department and received 1.14 crore as research grant. The salient findings of the research activities of the department are regularly being published in Web of Science and Scopus indexed journals and presented in international and national conferences and other scientific meets. The publications are widely cited and fetched good h-index. Further, 10 patents have been granted and 35 gene sequences have so far been submitted. The department is regularly organizing conferences, seminars, workshops/skill development programs, guest lectures, exhibitions and competitions. It is conducting Value Added Courses (VAC) like Mushroom Cultivation, Pharmaceutical Microbiology and Biofertilizers etc. Thus, students can get placed in both private and government sectors.The goal of our department is to promote quality and value-based education by motivating the practical skills of students and creating awareness on the recent advances in Microbiology which will make each student as a renovator to seek remedy for the future with a mission and vision.",
-          "image": "/images/others/video-07.jpg"
+          "image": "/images/Kahe/academics/arts-and-science/microbiology/overview.webp"
         },
 
         {
@@ -128,7 +128,7 @@
           {
             "key": "ug",
             "title": "B.Sc. Programme",
-            "img": "/images/others/health-b-02.png",
+            "img": "/images/Kahe/academics/arts-and-science/microbiology/studentprogrammes.webp",
             "multiItems": [
               {
                 "title": "Duration",
@@ -151,7 +151,7 @@
           {
             "key": "pg",
             "title": "M.Sc. Programme",
-            "img": "/images/others/health-b-02.png",
+            "img": "/images/Kahe/academics/arts-and-science/microbiology/studentprogrammes.webp",
             "multiItems": [
               {
                 "title": "Duration",
@@ -170,7 +170,7 @@
           {
             "key": "res",
             "title": "Ph.D. Programme",
-            "img": "/images/others/health-b-02.png",
+            "img": "/images/Kahe/academics/arts-and-science/microbiology/studentprogrammes.webp",
             "multiItems": [
               {
                 "title": "Eligibility",
@@ -190,7 +190,7 @@
           {
             "key": "bsc",
             "title": "B.Sc. Microbiology",
-            "img": "/images/others/health-b-02.png",
+             "img": "/images/Kahe/academics/arts-and-science/microbiology/studentprogrammes.webp",
             "type": "curriculum",
             "items": [
               {
@@ -222,7 +222,7 @@
           {
             "key": "msc",
             "title": "M.Sc. Microbiology",
-            "img": "/images/others/health-b-02.png",
+           "img": "/images/Kahe/academics/arts-and-science/microbiology/studentprogrammes.webp",
             "type": "curriculum",
             "items": [
               {
@@ -262,7 +262,7 @@
           {
             "key": "phd",
             "title": "Ph.D. Microbiology",
-            "img": "/images/others/health-b-02.png",
+            "img": "/images/Kahe/academics/arts-and-science/microbiology/studentprogrammes.webp",
             "type": "curriculum",
             "items": [
               {

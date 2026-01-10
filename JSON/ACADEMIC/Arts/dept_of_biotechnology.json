@@ -2,7 +2,7 @@
   "title": "Department of Biotechnology",
   "bannerCon": "The University of Wyoming welcomes students to experience a one-of-a-kind education in the heart of the Mountain West.",
   "applyLink": "#",
-  "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+  "bannerImg": "/images/Kahe/academics/arts-and-science/biotechnology/biotechnology-banner.png",
   "tabs": [
     {
       "id": "overview",
@@ -197,7 +197,7 @@
           {
             "key": "bsc",
             "title": "B.Sc Biotechnology",
-            "img": "/images/others/health-b-02.png",
+            "img": "/images/Kahe/academics/arts-and-science/biotechnology/studentprogrammes.png",
             "type": "curriculum",
             "items": [
               {
@@ -229,7 +229,7 @@
           {
             "key": "msc",
             "title": "M.Sc Biotechnology",
-            "img": "/images/others/health-b-02.png",
+            "img": "/images/Kahe/academics/arts-and-science/biotechnology/studentprogrammes.png",
             "type": "curriculum",
             "items": [
               {
@@ -269,7 +269,7 @@
           {
             "key": "phd",
             "title": "Ph.D. Biotechnology",
-            "img": "/images/others/health-b-02.png",
+            "img": "/images/Kahe/academics/arts-and-science/biotechnology/studentprogrammes.png",
             "type": "curriculum",
             "items": [
               {

@@ -1,0 +1,1121 @@
+{
+  "title": "Department of Physics",
+  "bannerCon": "Promoting academic excellence and research in biotechnology to address global health and environmental challenges.",
+  "applyLink": "#",
+  "bannerImg": "/images/Kahe/academics/engineering/Biotechnology/biotechnology-banner.png",
+  "tabs": [
+    {
+      "id": "overview",
+      "label": "Overview"
+    },
+    {
+      "id": "programme",
+      "label": "Programme"
+    },
+    {
+      "id": "faculty",
+      "label": "Faculty"
+    },
+    {
+      "id": "infrastructure",
+      "label": "Infrastructure"
+    },
+    {
+      "id": "publications",
+      "label": "Publications"
+    },
+    {
+      "id": "laboratory",
+      "label": "Laboratory"
+    },
+    {
+      "id": "events",
+      "label": "Events"
+    }
+  ],
+  "tabContent": [
+    {
+      "tab": "Overview",
+      "items": [
+        {
+          "type": "overview",
+          "subTitle": "Overview",
+          "contents": "The Department of Physics was established in the year 2003. The Department is facilitated with different Research thrust areas such as Batteries, Crystal Growth, DSSC, Magnetic Materials, Nano Materials, Solar Energy, Supercapacitor, Water Splitting, Photocatalysis, Functional Energy Materials and Thin Film Physics which provide a wide range of opportunities to engage in world-class physics and multi-disciplinary research. The contribution of motivated and well qualified teaching faculty generated a number of successful students, who are now working in various public and private sectors. The department consistently produces students who are qualified in admission entrance of reputed institutions all over the country.Students are continuously clearing the national level examinations such as CSIR-NET, GATE, etc with good All India Ranking (AIR) and are pursuing higher education in reputed universities, and research institutes within the country and abroad.For Research, two Center of Excellence viz., Center for Energy and Environment and Center for Computational Physics which are equipped with high-end equipments of Fourier Transform Infrared Spectrometer (FTIR), UV-Visible Spectrophotometer, Photoluminescence spectrometer, Photocatalytic activity, Electrochemical Work Station, LCR meter, TGA, DSC and Vacuum Furnace. These facilities provide a practical approach to learning that allows students to explore concepts and theories in a tangible way which can help to cultivate a lifelong interest in science and learning.",
+          "image": [
+            {
+              "src": "/images/Kahe/academics/engineering/Biotechnology/biotechnology-overview.png"
+            },
+            {
+              "src": "/images/Kahe/academics/engineering/Biotechnology/biotechnology-overview.png"
+            },
+            {
+              "src": "/images/Kahe/academics/engineering/Biotechnology/biotechnology-overview.png"
+            }
+          ]
+        },
+        {
+          "type": "vision",
+          "subTitle": "Vision",
+          "src": "/images/Kahe/Innerpages/vision.png",
+          "content": [
+            "Towards a Global Knowledge Hub, striving continuously in pursuit of excellence in Education, Research, Entrepreneurship and Technological services to the society."
+          ]
+        },
+        {
+          "type": "mission",
+          "subTitle": "Mission",
+          "src": "/images/Kahe/Innerpages/goal.png",
+          "content": [
+            "Bring the vital and exciting element of exploration and discovery to the study of natural sciences at the undergraduate and postgraduate level.",
+            "Promote interdisciplinary research across departments and disciplines by setting up centres of excellence in research and teaching.",
+            "Create vibrant partnerships with industry to solve problems that are relevant to mankind and a sustainable future"
+          ]
+        },
+        {
+          "type": "highlights",
+          "items": {
+            "title": "Highlights",
+            "src": "/images/Kahe/Innerpages/image-1.jpg",
+            "content": [
+              {
+                "icon": "rs-icon-book",
+                "value": "400",
+                "label": "Publications"
+              },
+              {
+                "icon": "rs-icon-book",
+                "value": "1",
+                "label": "Astronomy Club"
+              },
+              {
+                "icon": "rs-icon-fund",
+                "value": "18",
+                "label": "Ph.D Awarded"
+              },
+              {
+                "icon": "rs-icon-lab",
+                "value": "20",
+                "text": "Internship – National"
+              },
+              {
+                "icon": "rs-icon-complete",
+                "value": "86",
+                "text": " NPTEL Courses Completed"
+              },
+              {
+                "icon": "rs-icon-lab",
+                "value": "12",
+                "text": "Internship"
+              },
+              {
+                "icon": "rs-icon-complete",
+                "value": "12",
+                "text": "Higher Studies – Abroad"
+              },
+              {
+                "icon": "rs-icon-lab",
+                "value": "30",
+                "text": "NPTEL Completed"
+              },
+              {
+                "icon": "rs-icon-complete",
+                "value": "2",
+                "text": "Centre of Excellence"
+              },
+              {
+                "icon": "rs-icon-lab",
+                "value": "400",
+                "text": "Center For Energy "
+              },
+              {
+                "icon": "rs-icon-lab",
+                "value": "400",
+                "text": "Environment"
+              },
+              {
+                "icon": "rs-icon-complete",
+                "value": "1",
+                "text": "Center For Computational Physics"
+              }
+            ]
+          }
+        },
+        {
+          "type": "hod",
+          "items": {
+            "content": [
+              {
+                "title1": "Head of the Department (HOD)",
+                "title": "",
+                "caption": "Professor and Head",
+                "content": "I am pleased to welcome you to the Department of Physics under the Faculty of Arts, Science, Commerce and Management. Our department was established in 2003, along with the inception of our University and our vision is to ignite and nurture enthusiasm, interests, and passion in young minds for pure and applied physics, and build a foundation for excellence in fundamental and applied research. As the Head of the Department, I am proud to be part of a team of dedicated and talented individuals who are not only committed to excellence in teaching but also highly committed to research which is evident from their publications in peer-reviewed journals, patents, and research grants sponsored by DST-SERB CRG and TARE. The Department offers PG and Doctoral programmes with curricula that conforms to the requirement of Academia and R & D Organizations along with exposure to Industrial atmosphere / research institutes through internships and publishable quality dissertation work in final semester which is the added advantage to our students to further excel in the research field.I invite you to explore our website to learn more about all that our department has to offer. You will find a wealth of information about our faculty, research programs, courses, posts, and upcoming events. Thank you for your interest in the Physics Department.",
+                "src": "/images/Kahe/team-13.png"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "tab": "Programme",
+      "programmes": {
+        "title": "Programmes",
+        "content": [
+          {
+            "key": "ug",
+            "title": "Under Graduate Programme",
+            "img": "/images/Kahe/academics/engineering/Biotechnology/biotechnology-studentprogrammes.png",
+            "items": [
+              "B.Sc. Physics"
+            ],
+            "type": "programme"
+          },
+          {
+            "key": "res",
+            "title": "Post Programme",
+            "img": "/images/Kahe/academics/engineering/Biotechnology/biotechnology-studentprogrammes.png",
+            "items": [
+              "M.Sc. Physics (Strength: 60)"
+            ],
+            "type": "programme"
+          },
+          {
+            "key": "res",
+            "title": "Research Programmes",
+            "img": "/images/Kahe/academics/engineering/Biotechnology/biotechnology-studentprogrammes.png",
+            "items": [
+              "M.Phil in Physics",
+              "Ph.D. in Physics"
+            ],
+            "type": "programme"
+          }
+        ]
+      },
+      "curriculum": {
+        "title": "Curriculum",
+        "content": [
+          {
+            "key": "bsc-physics",
+            "title": "B.Sc. Physics",
+            "img": "/images/Kahe/academics/science/physics/bsc-physics.png",
+            "type": "curriculum",
+            "items": [
+              {
+                "year": "2020-2021",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/07/B.Sc-Physics-2020-2021.pdf"
+              },
+              {
+                "year": "2021-2022",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2021/11/B.-Sc.-Physics-Syllabus-2021-2022.pdf"
+              }
+            ]
+          },
+          {
+            "key": "msc-physics",
+            "title": "M.Sc. Physics",
+            "img": "/images/Kahe/academics/science/physics/msc-physics.png",
+            "type": "curriculum",
+            "items": [
+              {
+                "year": "2020-2021",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/07/M.Sc-Physics-2020-2021.pdf"
+              },
+              {
+                "year": "2021-2022",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2021/11/M.-Sc.-Physics-Syllabus-2021-2022.pdf"
+              },
+              {
+                "year": "2022-2023",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2022/07/14B_MSc_PH.pdf"
+              },
+              {
+                "year": "2023-2024",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2023/08/M.Sc-Physics-Syllabus-2023.pdf"
+              },
+              {
+                "year": "2024-2025",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/01/M.-Sc.-Physics.pdf"
+              },
+              {
+                "year": "2025-2026",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/09/KAHE-M.Sc-Physics-2025-2026.pdf"
+              }
+            ]
+          },
+          {
+            "key": "phd-physics",
+            "title": "Ph.D. Physics",
+            "img": "/images/Kahe/academics/science/physics/phd-physics.png",
+            "type": "curriculum",
+            "items": [
+              {
+                "year": "2020-2021",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/07/Physics-Ph.D.-2020-2021.pdf"
+              },
+              {
+                "year": "2021-2022",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2021/11/PHYSICS-M.Phil-Ph.D-SYLLABUS-2021-Batch.pdf"
+              },
+              {
+                "year": "2022-2023",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2022/09/PHYSICS-M.Phil-Ph.D-SYLLABUS-2022-Batch.pdf"
+              },
+              {
+                "year": "2023-2024",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2023/08/PHYSICS-Ph.D-SYLLABUS-2023-FINAL.pdf"
+              },
+              {
+                "year": "2024-2025",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/01/Ph.-D-PHYSICS.pdf"
+              },
+              {
+                "year": "2025-2026",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/09/KAHE-Ph.D-Physics-2025-2026.pdf"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "tab": "Faculty",
+      "slug": "department-of-physics",
+      "basic": {
+        "title": "Faculty",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris",
+        "src": "/images/Kahe/Innerpages/vission.jpg",
+        "buttonText": "View All Faculty"
+      },
+      "breadcrumbItems": [
+        {
+          "label": "Academics",
+          "href": "/academics"
+        },
+        {
+          "label": "Engineering",
+          "href": "academics/engineering/"
+        },
+        {
+          "label": "Department of Biotechnology",
+          "href": "/academics/engineering/department-of-physics"
+        },
+        {
+          "label": "Faculty"
+        }
+      ],
+      "faculty": [
+        {
+          "name": "Dr. B. Janarthanan",
+          "qualification": "M.Sc., PGDCPA., Ph.D.",
+          "designation": "Professor and Head",
+          "email": "janarthanan.b@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/One-page-biodata-Teaching-Dr.-B.-Janarthanan.pdf",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr. E. Sivasenthil",
+          "qualification": "M.Sc., M.Ed., M.Phil., M.A., DCA., DYHE., Ph.D.",
+          "designation": "Associate Professor",
+          "email": "sivasenthil.e@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/One-page-biodata-Dr.-E.-Sivasenthil.pdf",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr. S. Esakki Muthu",
+          "qualification": "M.Sc., M.Phil., Ph.D.",
+          "designation": "Assistant Professor",
+          "email": "esakkimuthu.s@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/One-page-biodata-Dr.S.-Esakki-Muthu.pdf",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr. A. Nagamani Prabu",
+          "qualification": "M.Sc., M.Phil., Ph.D.",
+          "designation": "Assistant Professor",
+          "email": "nagamaniprabu.a@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/One-page-biodata-Dr.-A.-Nagamani-Prabu.pdf",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr. V. Siva",
+          "qualification": "M.Sc., M.Phil., Ph.D.",
+          "designation": "Assistant Professor",
+          "email": "siva.vadivel@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/One-page-biodata-Dr.-V.-Siva.pdf",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr. Ranjithkumar R",
+          "qualification": "M.Sc., Ph.D.",
+          "designation": "Assistant Professor",
+          "email": "ranjithkumar.ravi@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/One-page-biodata-Dr.-R.-Ranjithkumar.pdf",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr. T. Kavinkumar",
+          "qualification": "M.Sc., Ph.D.",
+          "designation": "Assistant Professor",
+          "email": "kavinkumar.thangavel@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/One-page-biodata-format-Dr.-T.-Kavin-Kumar.pdf",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr. L. Bruno Chandrasekar",
+          "qualification": "M.Sc., Ph.D.",
+          "designation": "Assistant Professor",
+          "email": "brunochandrasekar.lourdhumariaraj@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/One-page-biodata-Teaching-Dr.-Bruno-Chandrasekar.pdf",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr. S. Swathi",
+          "qualification": "M.Sc., M.Phil., Ph.D.",
+          "designation": "Assistant Professor",
+          "email": "swathi.srinivasan@kahedu.edu.in",
+          "profile": "",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr. Anjana Vinod",
+          "qualification": "M.Sc., Ph.D.",
+          "designation": "Assistant Professor",
+          "email": "anjanavinodkumar@kahedu.edu.in",
+          "profile": "",
+          "profileText": "View profile",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        }
+      ]
+    },
+    {
+      "tab": "Infrastructure",
+      "title": "Department Infrastructure",
+      "items": [
+        {
+          "type": "infrastructure",
+          "title": "Department Infrastructure",
+          "content": [
+            {
+              "title": "Staff room",
+              "count": "04"
+            },
+            {
+              "title": "Class room",
+              "count": "05"
+            }
+          ]
+        },
+        {
+          "type": "laboratories",
+          "title": "List of Laboratories",
+          "content": [
+            "UG laboratory-2",
+            "PG laboratory-2",
+            "Research Laboratory-5"
+          ]
+        },
+        {
+          "type": "equipment",
+          "title": "List of Equipments",
+          "content": [
+            "Thermal Evaporation Unit",
+            "FTIR",
+            "UV",
+            "Solar Radiation Monitor",
+            "Electric Oven",
+            "Sunshine Monitor",
+            "Auto Clave",
+            "Vacuum Furnace",
+            "Four Probe Instruments",
+            "Telescope",
+            "Ball Milling",
+            "Compatible Dip Coating Unit",
+            "Compatible Spin Coating Unit",
+            "Sankaranarayanan-Ramasamy Crystal Growth Setup",
+            "Ultrasonicater"
+          ]
+        },
+        {
+          "type": "library",
+          "title": "Department Library",
+          "content": [
+            "Department library: 135 Books"
+          ]
+        },
+        {
+          "type": "gallery",
+          "slug": "department-of-physics",
+          "images": [
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/Eqiupments1.jpg",
+              "alt": "Part time mphil in india",
+              "title": ""
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/Eqiupments2.jpg",
+              "alt": "Equipments at KAHE - Top Microbiology college in India",
+              "title": ""
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/Eqiupments3.jpg",
+              "alt": "Msc course in coimbatore colleges",
+              "title": ""
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/Eqiupments4.jpg",
+              "alt": "Practical learning - Best Biochemistry College in India",
+              "title": ""
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/Eqiupments5.jpg",
+              "alt": "Private universities in coimbatore",
+              "title": ""
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/Eqiupments6.jpg",
+              "alt": "Lab equipments - Top B.Sc Physics Colleges in Coimbatore",
+              "title": ""
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/1-7.jpg",
+              "alt": "Students project - Top Engineering College in Coimbatore",
+              "title": ""
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/2-6.jpg",
+              "alt": "Top lab facilities - coimbatore colleges and universities",
+              "title": ""
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/3-5.jpg",
+              "alt": "Best lab infrastructure - Coimbatore colleges and universities",
+              "title": ""
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/4-2.jpg",
+              "alt": "Best lab facilities - Top College In Coimbatore",
+              "title": ""
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/5-2.jpg",
+              "alt": "College Lab infrastructure - Private universities in Coimbatore",
+              "title": ""
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/6-1.jpg",
+              "alt": "Best Students Training - Best Arts and Science College in TamilNadu",
+              "title": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tab": "Publications",
+      "slug": "department-of-phsics",
+      "title": "Best Five Papers Faculty wise:",
+      "subtitle": "Paper Publications by the Faculty Members",
+      "content": [
+        {
+          "faculty_name": "Dr. B. Janarthanan",
+          "content": [
+            "Vishnupriya Vijendran, Janarthanan Balasundaram, Design engineering of photoanode and counter electrode using lanthanum titanate infused natural dyes and activated carbon to enhance the performance of dye sensitized solar cells, Optical Materials, Volume 154, 2024, 115723, https://doi.org/10.1016/j.optmat.2024.115723.",
+            "Saranya Kumaresan, Inbarajan Kathiravan, Vishnupriya Vijendran, Janarthanan Balasundaram, Inorganic hole transport layer for lead free bismuth halide perovskite for photovoltaic device, Optical Materials, Volume 154, 2024, 115722, https://doi.org/10.1016/j.optmat.2024.115722.",
+            "Kumaresan, S., Subban, R. & Balasundaram, J. Microwave intervened dye extracted from the fruits of Reutealis trispermaand its persuasive effect on the transport of charge carriers in DSSC. Ionics(2024). https://doi.org/10.1007/s11581-024-05771-3",
+            "S. Bagyalakshmi, B. Janarthanan, A. Dinesh, L. Guganathan, Madhappan Santhamoorthy, Mohamed Hashem, Hassan Fouad, J. Chandrasekaran, Optimizing sensitizer concentration from senna tora leaves for enhanced interfacial interactions in dye-sensitized solar cells, Inorganic Chemistry Communications, Volume 170, Part 1, 2024, 113224, https://doi.org/10.1016/j.inoche.2024.113224.",
+            "Pooja Prakash, B. Janarthanan, Review on the progress of light harvesting natural pigments as DSSC sensitizers with high potency, Inorganic Chemistry Communications, Volume 152, 2023, 110638, https://doi.org/10.1016/j.inoche.2023.110638."
+          ]
+        },
+        {
+          "faculty_name": "Dr. E. Sivasenthil",
+          "content": [
+            "Sudhakaran, A., Sudhakaran, A. & Sivasenthil, E. Comprehensive Analysis of Optical, Dielectric, and Electrical Properties in Al- and Cu-Doped Barium Hexaferrite/Cobalt–Zinc Ferrite Hybrid Nanocomposites.  Electron. Mater.53, 4622–4644 (2024). https://doi.org/10.1007/s11664-024-11197-4",
+            "Senthil, E., Sangeetha, R., Nirmala, C., Sumathi, R., & Mohanasudha, K. (2023). Studies on Lead Sulphide (PbS) Thin Film Prepared by Chemical Bath Deposition Method. In Solid State Phenomena (Vol. 350, pp. 65–73). Trans Tech Publications, Ltd. https://doi.org/10.4028/p-osn7m4",
+            "Neetha Mehathaj, M., Padmanathan, N. & Sivasenthil, E. Fabrication of CeO2/CuO bimetallic oxides thin film heterostructure for tunable UV filter applications. J Mater Sci: Mater Electron32, 24011–24025 (2021). https://doi.org/10.1007/s10854-021-06864-9",
+            "Mehathaj, M.N., Padmanathan, N. & Sivasenthil, E. Doping catalysed unintentional hydrogenation effect on the structural, optical and magnetic properties of Co-doped ZnO semiconductor nanoparticles. J Mater Sci: Mater Electron33, 11523–11541 (2022). https://doi.org/10.1007/s10854-022-08126-8",
+            "SivaSenthil, B. Janarthanan, Ashraf M.M. Abdelbacki, Shaban R.M. Syed, A. Arunkumar, ZnS and CdS nano thin films – A comprehensive analysis of structural, morphology and optical properties for photovoltaic applications, Optical Materials, Volume 157, Part 1, 2024, 116142, https://doi.org/10.1016/j.optmat.2024.116142."
+          ]
+        },
+        {
+          "faculty_name": "Dr. A. Nagamani Prabu",
+          "content": [
+            "Nagamani Prabu, N. Revathi, Anuj Kumar, Ali Fatima, I. Mohamed Abdulla, Mohd Ubaidullah, Bidhan Pandit, Lavish Kansal, Himanshu Payal, B. Janarthanan, Mohammad Yusuf, Satbir S. Sehgal, Analysing the design, fabrication, and  performance of a compact parabolic trough collector equipped with a shell-type receiver made from a variety of metals and introduced with single slope solar still, Journal of King Saud University – Science, Volume 35, Issue 7, 2023, 102844, https://doi.org/10.1016/j.jksus.2023.102844.",
+            "Revathi, A. Ali Fatima, A. Nagamani Prabu, Efficiency of the dye from Spinacia olerace linn for augmentation of charge transfer to Tio2 in dye sensitized solar cell, Materials Today: Proceedings, 2023, https://doi.org/10.1016/j.matpr.2023.08.282.",
+            "Nazarath Begum,A. Nagamani Prabu,I. Mohamed Abdulla; Structural, spectral, mechanical and SHG studies of triglycine sulpho malate (TGSM) single crystals.AIP Conf. Proc.12 May 2023; 2747 (1): 020015.https://doi.org/10.1063/5.0132541",
+            "Pradeep,A. Nagamani Prabu,S. Sharmila,B. Janarthanan,E. Sivasenthil; Rummaging effect of leaf extract of Tilia platyphyllos to captivate solar radiation and activated carbon from coconut shell unified TiO2counter electrode in dye sensitized solar cell.AIP Conf. Proc.12 May 2023; 2747 (1): 020013.https://doi.org/10.1063/5.0132543",
+            "Pradeep, S. Sharmila, E. Sivasenthil, A. Nagamani Prabu, B. Janarthanan, Stimulated carbon from Jackfruit wood with TiO2 on FTO substrate as an active counter electrode in DSSC, Materials Today: Proceedings, Volume 66, Part 3, 2022, Pages 1431-1438, https://doi.org/10.1016/j.matpr.2022.05.339."
+          ]
+        },
+        {
+          "faculty_name": "Dr. R. Ranjith Kumar",
+          "content": [
+            "Samikannu, P., Madhan, V., Chiang, K.-Y., George, R. K., & R. (2024). Polylactic acid-based plastic activated NIAL2O4 nanoparticles as highly active positive electrode materials for energy storage supercapacitor. Environmental Science and Pollution Research, 31(18), 26606–26617. https://doi.org/10.1007/s11356-024-32721-3",
+            "Ranjithkumar, R., Rosario, J. D., Swaminathan, R., Raju, N., Bhojan, V., & Ayyasamy, S. (2023). Improved load bearing performance of electroadhesive tapes with hexagonal boron nitride/barium titanate composite in Poly (vinylidene fluoride co-hexafluoropropylene). Journal of Materials Science: Materials in Electronics, 34(4). https://doi.org/10.1007/s10854-022-09543-5",
+            "Rosario, J. D., R., Deepthi, V., Vidhya, B., Swaminathan, R., Ayyasamy, S., & Nandhakumar, R. (2023). Synergistic effect of impure/pure graphene oxide and TiO2 fillers on the dielectric properties of poly (vinylidene fluoride- hexafluoropropylene) for electroadhesive high load bearing applications. Journal of Electroceramics, 50(1), 23–36. https://doi.org/10.1007/s10832-022-00301-x.",
+            "Swaminathan, A., R, Sasikumar, M., Dasaiah, M., Hirankumar, G., & Ayyasamy, S. (2020). Preparation and characterization of PVA/PAM/NH4SCN polymer film by ultrasound-assisted solution casting method for application in electric double layer capacitor. Ionics, 26(8), 4113–4128. https://doi.org/10.1007/s11581-020-03542-4.",
+            "Shanmugaraj, P., Swaminathan, A., Ranjithkumar R. K., Dasaiah, M., Senthil Kumar, P., & Sakunthala, A. (2019). Preparation and characterization of porous PVDF-HFP/Graphene oxide composite membranes by solution casting technique. Journal of Materials Science: Materials in Electronics, 30(22), 20079–20087. https://doi.org/10.1007/s10854-019-02380-z."
+          ]
+        },
+        {
+          "faculty_name": "Dr. N. Padmanathan",
+          "content": [
+            "Mohammed Shafi Thalthodi, Jhelai Sahadevan, R. Sasikumar, S. Esakki Muthu, N. Padmanathan, Bio-extract mediated green synthesis of bi-functional ammonium cobalt phosphate nanoflakes electrode/catalyst for supercapattery and ethanol oxidation, Inorganic Chemistry Communications, Volume 164, 2024, 112481, https://doi.org/10.1016/j.inoche.2024.112481.",
+            "Sahadevan, J.; Sivaprakash, P.; Esakki Muthu, S.; Kim, I.; Padmanathan, N.; Eswaramoorthi, V. Influence of Te-Incorporated LaCoO3on Structural, Morphology and Magnetic Properties for Multifunctional Device Applications.  J. Mol. Sci.2023, 24, 10107. https://doi.org/10.3390/ijms241210107",
+            "Amit Tanwar, Swatchith Lal, Rajvinder Kaur, N. Padmanathan, Eric Dalton, Kafil M. Razeeb, A fully automated measurement system for the characterization of micro thermoelectric devices near room temperature, Applied Thermal Engineering, Volume 224, 2023, 120111, https://doi.org/10.1016/j.applthermaleng.2023.120111.",
+            "Jhelai sahadevan, M. Radhakrishnan, N. Padmanathan, S. Esakki Muthu,  P.Sivaprakash, Mohanrangam Kadiresan, Effect of Mn substitution on magnetic behaviour of oxygen defective LaCoO3 perovskite oxide, Materials Science and Engineering: B, Volume 284, 2022, 115875, https://doi.org/10.1016/j.mseb.2022.115875.",
+            "Kaur, A. Tanwar, P. Gupta, N. Padmanathan, P. O’Brien and K. M. Razeeb, “Design Optimization of Micro-Thermoelectric Cooler for Thermal Management using Finite Element Simulations,” 2022 28th International Workshop on Thermal Investigations of ICs and Systems (THERMINIC), Dublin, Ireland, 2022, pp. 1-6, doi: 10.1109/THERMINIC57263.2022.9950684."
+          ]
+        },
+        {
+          "faculty_name": "Dr. V. Siva",
+          "content": [
+            "Siva*, A. Murugan, A. Shameem, S. Thangarasu, S. Kannan, A. Raja, Gel combustion synthesized NiMoO4 anchored polymer nanocomposites as a flexible electrode material for solid state asymmetric supercapacitors.International Journal of Hydrogen Energy,(2024) 48(49), 18856-18870. https://doi.org/10.1016/j.ijhydene.2023.01.295",
+            "Siva*, A. Murugan, A. Shameem, S. Thangarasu, S. Kannan, S. Asath Bahadur. In situ encapsulation of V2O5@ZIF-8 nanocomposites as electrode materials for high-performance supercapacitors with long term cycling stability.Journal of Materials Chemistry C,(2023) 11(8), 3070-3085. https://doi.org/10.1039/D2TC03996F",
+            "Murugan, V. Siva*, A. Shameem, R. Deepika, S. Bharathkumar, Héctor Valdés, S. Asath Bahadur, Electrochemical properties of nanoscale CuCo spinel ferrite system: A promising positive electrode for high performance supercapacitors, Journal of Energy Storage, 99 (2024) 113179. https://doi.org/10.1016/j.est.2024.113179",
+            "Sanjana, V. Siva*, S. Sharmila, A. Murugan, A. Shameem, Fabrication of V2O5@Co-MOF as a cathode material with excellent rate capability, Sustainable Materials and Technologies, 41 (2024) e01072, https://doi.org/10.1016/j.susmat.2024.e01072.",
+            "Siva*, A. Murugan, A. Shameem, S. Thangarasu, S. Asath Bahadur, A facile microwave-assisted combustion synthesis of NiCoFe2O4 anchored polymer nanocomposites as an efficient electrode material for asymmetric supercapacitor application, Journal of Energy Storage, 48 (2022) 103965, https://doi.org/10.1016/j.est.2022.103965"
+          ]
+        },
+        {
+          "faculty_name": "Dr. L. Bruno Chandrasekar",
+          "content": [
+            "Bruno Chandrasekar, M.Karunakaran, A theoretical analysis of spin-dependent tunneling in ZnO-based heterostructures,  Spin (ISSN: 2010-3247) 31, 2350016, 2023.",
+            "Bruno Chandrasekar, M.Karunakaran, P.Muthukumar, A study of tunneling in triangular resonant tunnel diodes: Effect of barrier width, barrier height, pressure, temperature, and heterostructure strain, Micro and Nanostructures (ISSN: 2773-0131) 178, 207564, 2023.",
+            "Bruno Chandrasekar, M.Karunakaran, K.Gnanasekar, Spin-polarized transport in InAs/ GaAs double-barrier heterostructure with electric and magnetic fields, Journal of Low Temperature Physics (ISSN: 0022-2291) 210, 241, 2023.",
+            "Bruno Chandrasekar, M.Karunakaran, K.Gnanasekar, Effect of pressure and temperature on spin-dependent tunneling in InAs/GaAs heterostructure with Dresselhaus spin-orbit interaction, Physics Letters A (ISSN:0375-9601), 383, 125989-7, 2019.",
+            "Bruno Chandrasekar, M.Karunakaran, K.Gnanasekar, Spin-Dependent electron tunneling in ZnSe/Zn1−xMnxSe heterostructures with double δ-potentials, Communications in Theoretical Physics (ISSN: 0253-6102) 71 (3), 339-343, 2019."
+          ]
+        },
+        {
+          "faculty_name": "Dr. T. Kavinkumar",
+          "content": [
+            "T. Kavinkumar, Selvaraj Seenivasan, Hyeonjung Jung, Jeong Woo Han and Do-Heyoung Kim, Interface-Modulated Uniform Outer Nanolayer: A Category of Electrodes of Nanolayer-Encapsulated Core-Shell Configuration for Supercapacitors, Nano energy 81 (2021) 105667",
+            "T. Kavinkumar, Selvaraj Seenivasan, Amarnath T. Sivagurunathan and Do-Heyoung Kim, Supercapattery-driven electrolyzer both empowered by the same superb electrocatalyst, Journal of Materials Chemistry A 9 (2021) 21750-21759",
+            "T. Kavinkumar, Selvaraj Seenivasan, Hyeonjung Jung, Jeong Woo Han and Do-Heyoung Kim, Atomic Layer Deposition-Triggered Hierarchical Core/Shell Stable Bifunctional Electrocatalysts for Overall Water Splitting, Journal of Materials Chemistry A 9 (2021) 21132-21141",
+            "T. Kavinkumar, Heejae Yang, Amarnath T. Sivagurunathan, Hayoung Jeong, Jeong Woo Han and Do-Heyoung Kim, Regulating Electronic Structure of Iron Nitride by Tungsten Nitride Nanosheets for Accelerated Overall Water Splitting, Small 19 (2023) 2300963.",
+            "T. Kavinkumar, Ganghyun Jang, Amarnath T. Sivagurunathan and Do-Heyoung Kim, Reconfiguration of the Electronic Structure of Metal Phosphide for Ultrahigh Energy Density Hybrid Supercapacitors, Chemical Engineering Journal 470 (2023) 144214."
+          ]
+        },
+        {
+          "faculty_name": "Dr. Shakthi S Ray",
+          "content": [
+            "Shakti S Ray, Smruti R Sahoo, & Sridhar Sahu. Hydrogen storage in scandium doped small boron clusters (BnSc2, n=3-10): A density functional study, International Journal of Hydrogen Energy, 44, 5661 (2019).  doi:10.1016/j.ijhydene.2018.12.109",
+            "A Jaiswal, Sahoo, Rakesh K Sahoo, Shakti S Ray & Sridhar Sahu. Alkali metals decorated silicon clusters (SinMn, n = 6, 10; M = Li, Na) as potential hydrogen storage materials: A dft study. International Journal of Hydrogen Energy, 47(3), 1775–1789 (2022).  doi:10.1016/j.ijhydene.2021.10.228",
+            "Shakti S Ray, Rakesh K Sahoo & Sridhar Sahu. Reversible hydrogen storage in vanadium decorated small boron clusters: A dispersion corrected density functional study. Computational and Theoretical Chemistry, 1217, 113899(2022). doi:10.1016/j.comptc.2022.113899",
+            "Shakti S Ray, Rakesh K Sahoo & Sridhar Sahu. Reversible hydrogen storage in Ti decorated small boron clusters (BnTi2, n=6-10): Insights from molecular dynamics simulations. Journal of Physics and Chemistry of Solids. 181, 111496(2023). doi:1016/j.jpcs.2023.111496",
+            "Shakti S Ray & Sridhar Sahu. Reversible hydrogen storage in lithiated boranes: Acumen from molecular dynamics simulation. (Physica B: Condensed Matter. 694,414441(2024)). doi:10.1016/j.physb.2024.416441"
+          ]
+        },
+        {
+          "faculty_name": "Dr. K. Manikandan",
+          "content": [
+            "Manikandan, O. Sangabathula, B. Chakraborty, and C. S. Sharma, Candle soot carbon-Co3O4 nanofibers composite as a binder-free electrode for high-performance supercapacitor application: An experimental and theoretical investigation. Journal of Energy Storage, 81 (2024) 110371.",
+            "Manikandan, A. Seetharaman, I.M. Babu, J.J. William, G. Muralidharan, D. Sivasubramanian, K. Jothivenkatachalam, M. Imran, B. Chakraborty, Experimental and theoretical investigations of a multiwalled carbon nanotubes/SnO2/polyaniline ternary nanohybrid electrode for energy storage. Surfaces and Interfaces, 30 (2022) 101978.",
+            "Manikandan, A. Seetharaman, B. Chakraborty, I. Manohara Babu, J. J. William, G. Muralidharan, K. Jothivenkatachalam, D. Sivasubramanian, Experimental and theoretical investigation of the energy-storage behavior of a polyaniline-linked reduced-graphene-oxide–SnO2 ternary nanohybrid electrode. Physical Review Applied, 14 (2020) 024067.",
+            "Manikandan, A. Seetharaman, D. Sivasubramanian, A. Nithya, K. Jothivenkatachalam, N. Maheswari, M. Gopalan, S. Dillibabu, A. Eftekhari, Ni-doped SnO2 nanoparticles for sensing and photocatalysis. ACS Applied Nano Materials, 1 (2018) 5823-5836.",
+            "Manikandan, S. Dhanuskodi, A. R. Thomas, N. Maheswari, G. Muralidharan, D. Sastikumar, Size–strain distribution analysis of SnO2 nanoparticles and their multifunctional applications as fiber optic gas sensors, supercapacitors and optical limiters. RSC Advances, 6 (2016) 90559-90570."
+          ]
+        },
+        {
+          "faculty_name": "Dr. S. Esakki Muthu",
+          "content": [
+            "Sanjay Ravichandran, Jhelai Sahadevan, P Sivaprakash, Suresh Sagadevan, Ikhyun Kim, Ammar Mohamed Tighezza, Amanat Ali, S Esakki Muthu, Synthesis and physicochemical properties of graphene incorporated indium tin oxide nanocomposites for optoelectronic device applications, Materials Science and Engineering: B, 301 117199, 2024",
+            "P Sivaprakash, S Esakki Muthu, C Saravanan, NV Rama Rao, Ikhyun Kim, The effect of Mn on structural, magnetic and magnetoresistance properties of Ni-Mn-Sb Heusler melt spun ribbons under extreme conditions, Journal of Physics D: Applied Physics 56, 495002, 2023",
+            "Jhelai Sahadevan , P. Sivaprakash, Esakki Muthu, Ikhyun Kim, N. Padmanathan and V. Eswaramoorthi, Influence of Te-Incorporated LaCoO3 on Structural, Morphology and Magnetic Properties for Multifunctional Device Applications, International Journal of Molecular Sciences, 24, 10107, 2023",
+            "Divya S, P.Sivaprakash , S.Raja, S.Esakki Muthu, Ikhyun Kim , N. Renuka , S. Arumugam , Tae Hwan Oh, Impact of Zn doping on the dielectric and magnetic properties of CoFe2O4 nanoparticles, Ceramics International, 48, 33208–33218, 2022",
+            "Thiyagarajan, P.Sivaprakash, S.Arumugam, S.Esakki Muthu, D.M.Raj Kumar, C.Saravanan, N.V.Rama Rao, Y.Uwatoko, Correlation of magnetocaloric effect through magnetic and electrical resistivity on Si doped Ni–Mn–In Heusler melt spun ribbon, Intermetallics, 137, 107285, 2021"
+          ]
+        },
+        {
+          "faculty_name": "Dr. Ravi Kumar Trivedi",
+          "content": [
+            "Lingaraj Pradhan, Bishnupad Mohanty, Ganeswara Padhy, Ravi Kumar Trivedi, Debi Prasad Das, Brahmananda Chakraborty, Bikash Kumar Jena, Concerted Approach of Machine Learning and DFT in Finding the Supercapacitance Properties of Partially Oxidised-MXene Quantum Dots/Graphene Hybrids: Fabrication of Flexible/Wearable Micro-supercapacitor Devices, Chemical Engineering Journal, 497, 154587, 2024, https://doi.org/10.1016/j.cej.2024.154587.",
+            "Samanta, Rajib; Manna, Biplab; Trivedi, Ravi; Chakraborty, Brahmananda; Barman, Sudip Hydrogen Spillover Enhancing the Alkaline Hydrogen Electrocatalysis on Interface-Rich Metallic Pt-Supported MoO3, Chemical Science, 15, 364, 2024",
+            "Biplab Kumar Manna, Rajib Samanta, Ravi Kumar Trivedi, Brahmananda Chakraborty,Sudip Barman Hydrogen Spillover Inspired Bifunctional Pt/Rh2O3– CNx Composite for Enhanced Hydrogen Evolution and Oxidation Reactions in Base [Journal of Colloid and Interface Science, 670(15), 258-271 2024",
+            "Ravi Trivedi, Surinder Kaur, Nandini Garg, Brahmananda Chakraborty Ti-decorated nitrogen-rich BeN4 monolayer for reversible hydrogen storage: DFT investigations, Applied Surface Science, 2023, 622, 156806",
+            "Ravi Trivedi, Kapil Dhaka, Debashis Bandyopadhyay, Study of electronic properties, stabilities and magnetic quenching of molybdenum-doped germanium clusters: A density functional investigation, RSC advance, 2014, 4, 64825",
+            "Ravi Trivedi, Debashis Bandyopadhyay. Study of adsorption and dissociation pathway of H2 molecule on Mg n Rh (n = 1-10) clusters: A first principle investigation. International journal of Hydrogen energy, 2016, 41, 20113-20121"
+          ]
+        }
+      ]
+    },
+    {
+      "tab": "Events",
+      "slug": "department-of-physics",
+      "items": [
+        {
+          "title": "Events Conducted from January 2020 – October 2025",
+          "content": [
+            "Hands-On-Training program on Embedded Systems by Mr. K. Jeevananth, Managing Director, Academy (Electrical, Electronics, Mechanical and Robotics), Coimbatore-23 on 28.10.2025",
+            "One Day Workshop on \"Synthesis of Nanomaterials via Chemical Method\" by Dr. L. Bruno Chandrasekar, Assistant Professor, Department of Physics, Karpagam Academy of Higher Education, Coimbatore – 641021 on 18.09.2025",
+            "Quiz competition on the Eve of \"Safe Landing of Indian Astronaut Subhanshu Shukla, Axiom-4 Commander Peggy Whitson as Dragon Spacecraft from ISS\" on 16.07.2025",
+            "Inauguration of Physics Association \"Physica – 2025\" by Dr. Y. L. Jayachandran, Assistant Professor, Department of Physics, Bharathiar University, Coimbatore – 641021 on 20.08.2025",
+            "Department of Physics organized Alumni Talk on \"Career Opportunities for Physics Students in Medical Field\" by Mr. V. Pradeep Kumar, Medical Physicist, American Oncology Institute, Rajasthan, India on 13.08.2025",
+            "Department of Physics and Skill Development Cell organized \"Five Days Skill and Training Program on NDT Level 1 Certification\" with Mr. V. Krishnamoorthi, Senior QA/AC Welding/Piping/NDT/Painting Inspector, The Engineers Edge Institute of NDT, Civil Aerodrome Road, Coimbatore from 07.02.2025 to 21.02.2025",
+            "Department of Physics Guest Lecture on \"A Fortune to Materials Characterization Through Analytical Tools\" by Dr. S. Gunasekaran, Dean, R & D, TANSA Awardee, St. Peter’s Institute of Higher Education and Research, Chennai",
+            "Department of Physics Alumni Talk on \"Versatile Practicing Techniques to Prepare for GATE and CSIR-NET Examinations\" by Mr. O. L. Lenin, Ph.D Research Scholar, Department of Physics, NIT Goa",
+            "Department of Physics organized Guest Lecture on \"Fundamentals of Spectroscopic and Microscopic Analysis of Materials\" by Dr. Y. L. Jayachandran, Assistant Professor, Department of Physics, Bharathiar University, Coimbatore",
+            "Alumni Talk on \"Physics for Music\" by Sam Monova, Founder and Director, Blessing Audios and Musical Instruments, Coimbatore",
+            "Department of Physics and Astronomy Club celebrated \"National Space Day\" to commemorate the success of Chandrayaan-3 mission, safe and soft landing of Vikram Lander at Shiv Shakti Point and deployment of Pragyaan Rover on the lunar surface on 23rd August 2023",
+            "Department of Physics organized Alumni Talk on \"Versatile Job Openings in Physics\" by Dr. Naidu Dhanpal Jayram, Assistant Professor, Department of Physics, Kalasalingam Academy of Research and Education, Coimbatore – 641021",
+            "Department of Physics organized Five Days Faculty Development Program entitled \"Recent Advancement in Sustainable Energy Sources – Research and Development\" during the period from 26.02.2024 to 01.03.2024 with resource persons Dr. S. Arungalai Vendan, Dr. J. Shanthi, Dr. S. Shanmugan, Dr. R. Easwara Moorthy and Dr. P. Maadeswaran",
+            "Department of Physics conducted a one-day workshop entitled \"Wise Time Management to Enhance the Skills for Successful Career\" for the students of the Department of Physics on 22.12.2023 by Mr. Karthik Rengarajan, Skill Development Trainer",
+            "Department of Physics, Chemistry and Mathematics organized a Guest Lecture on \"Introductory Plasma Physics and Non-linear Partial Differential Equation\" on 28.11.2023 by Dr. R. Sakthivel, Bharathiar University and Dr. Md. Golam Hafez, Chittagong University of Engineering and Technology, Bangladesh",
+            "Department of Physics inaugurated the Physics Association \"Physica – 2023\" on 18.10.2023 by Dr. R. Easwaramoorthy, Scientist ‘E’, Center for Solar Energy Materials, International Advanced Research Center, Hyderabad",
+            "Department of Physics organized a two-day hands-on training program entitled \"Two-day Hands-on Training on PCB Layout and Circuit Simulation\" on 24 and 25 August 2023 conducted by TRIOX Technology, Industrial and Automation Technology, Coimbatore – 641021",
+            "Department of Physics organized a skill development program entitled \"Two Days Skill and Training Program on Fundamentals of Non-Destructive Testing with Practical Demonstrations\" for the students of Physics and Mechanical Engineering",
+            "Department of Physics organized a program under IIC on Design Thinking for the students of the Department of Physics on 24.07.2023 with Mr. Daniel Das as the Chief Guest",
+            "One-day Guest Lecture on \"Structural Analysis and Refinement of Materials using X-ray Diffraction Techniques\" on 06 March 2023 by Dr. R. Thiyagarajan, Senior Researcher, Materials Science Research Centre, Department of Physics, IIT Madras",
+            "Department of Physics celebrated Einstein’s 134th Birthday with a Guest Lecture on \"Opportunities in Physics\" on 17 March 2023 by Dr. K. Kulathuraan, Associate Professor, Arulmigu Palaniandavar College of Arts and Culture, Palani",
+            "Department of Physics organized a one-day Technical Symposium PHYSICA’23 on 22.02.2023 for Physics students",
+            "Department of Physics in association with the Center for Career Counselling and Competitive Examination conducted a special lecture on UPSC Examination on 31 January 2020 by Mr. Deepak Samam Singh, Alumni of Department of Physics, KAHE",
+            "One Day District Level Science Exhibition KAHESTECH 2020 conducted for school students on 04 February 2020",
+            "Two-day Hands-on Training on Mobile Servicing conducted on 02 and 03 March 2020 by New Technology, Coimbatore",
+            "A National Seminar entitled \"Advanced Materials and its Applications\" conducted for two days on 05 and 06 March 2020",
+            "National Science Day FEST 2020 and Astro Club Inauguration conducted on 28 February 2020 with a special lecture by Prof. Dr. Sakthivel, Founder, Coimbatore Astronomy Club",
+            "Quiz Competition conducted by the Astronomy Club on 28 February 2020",
+            "Einstein’s Birthday celebrated by the Department of Physics, KAHE on 14 March 2020 with an invited talk on \"Future Energy Careers\" by Dr. K. Muthu Kumaran",
+            "Webinar on \"Spectroscopy in Medical Diagnosis\" conducted during 06 to 09 June 2020",
+            "Webinar on \"Understanding the Term Nano\" conducted during 06 to 09 June 2020",
+            "Webinar on \"Physics in Medical Field\" conducted during 06 to 09 June 2020",
+            "Summer Webinar Series Lecture on 12 May 2020 by Dr. S. Esakki Muthu on Science and Technology",
+            "Summer Webinar Series Lecture on 13 May 2020 by Dr. B. Janarthanan on Solar Energy and its Applications",
+            "Summer Webinar Series Lecture on 14 May 2020 by Dr. S. Yuvaraj on Magnetic Materials",
+            "Summer Webinar Series Lecture on 15 May 2020 by Dr. S. Karuppusamy on Melt Growth of Crystals",
+            "Summer Webinar Series Lecture on 18 May 2020 by Dr. N. Padmanathan on How to face CSIR and GATE Examination",
+            "Summer Webinar Series Lecture on 19 May 2020 by Mr. J. Thirupathy on Fundamentals of Photoacoustic Spectrophotometer",
+            "Summer Webinar Series Lecture on 20 May 2020 by Mr. V. Thayanithi on Solution Growth of Crystal",
+            "Summer Webinar Series Lecture on 21 May 2020 by Dr. E. Sivasenthil on Space Science",
+            "Summer Webinar Series Lecture on 22 May 2020 by Dr. K. Mohan Rangam Kadiresan on Nanomaterials",
+            "Summer Webinar Series Lecture on 24 May 2020 by Dr. S. Sharmila on Non-Destructive Testing Method",
+            "Department of Physics, KAHE conducted Virtual Alumni Meet on 26 August 2020",
+            "Guest Lecture on \"Wireless Power Transmission and its Applications\" conducted online on 30.11.2020 by Dr. Libin Baby, Assistant Professor, PSG Arts and Science College, Coimbatore",
+            "Virtual Endowment Lecture on \"Human Rights and Welfare\" conducted on 10 December 2020 by Dr. G. Vasanthimala, Associate Professor, Department of Tamil, PSG College of Arts and Science, Coimbatore",
+            "Astronomy Club and Department of Physics in collaboration with Tamil Nadu Science Forum, Coimbatore observed the Great Conjunction of Jupiter and Saturn on 21 December 2020",
+            "Guest Lecture on \"Classical Nonlinear Dynamics\" conducted on 23 December 2020 by Mr. B. Rajesh, Assistant Professor, Department of Physics, The American College, Madurai",
+            "Guest Lecture on \"An Overview of Synthesis and Material Characterization of Nanostructures\" conducted on 24 December 2020 by Dr. A. Saranya, Assistant Professor, Department of Physics, Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology, Chennai",
+            "Guest Lecture on \"Physics Today\" conducted on 28 December 2020 by Dr. R. Shankar, Assistant Professor, Department of Physics, Bharathiar University, Coimbatore",
+            "Guest Lecture on 30th December 2020 on \"Optics and Optical Instruments\" by Dr. K. Sathish Kumar, Assistant Professor, Department of Physics, SRMV College of Arts and Science, Coimbatore, who served as the Chief Guest of the session"
+          ]
+        },
+        {
+          "title": "Hands on Training / Activities / Guest Lecture",
+          "content": [
+            "Hands-on Workshop on “Scientific Data Handling with SQL: From Lab Records to Big Data” for PG students of Basic and Life Sciences on 24th November 2025 at the Physics Lab.",
+            "Department of Physics organized a Guest Lecture on “Non-linear optics” on 29th January 2021 from 11:30AM to 12:30 PM through Google meet under Institutional Innovation Center (IIC). R. Bharathi Kannan, Associate Professor, Department of Physics, Sri Ramakrishna Mission Vidyalaya College of Arts and Science, Coimbatore is the resource person. The lecture was attended by 75 students and 8 Faculty members of Physics Department.",
+            "International Seminar on Physics and Chemistry of Materials was organized by Department of Physics on 06.02.2021. Dr. R. Thiyagarajan, Institute of solid state and Materials Physics, Technical University of Dresden, Germany delivered a lecture on the topic “Pressure effects on magnetocaloric property of manganites.” Followed by Dr. G. Paramaguru, CAS-PIFI Researcher Laboratory Of Advanced Functional Materials, Xiamen Institute Of Rare Earth Materials, Chinese Academy Of Sciences, China explained about “Molecular engineering of Donor Acceptor molecules for light harvesting and light emitting applications”.",
+            "Department of Physics Conducted International Virtual Seminar on Nano Research and Development on 16.3.2021. Dr. Mahendran Sekar, Associate Professor, Head, Faculty of Pharmacy and Health Science, Universiti Kuala Lumpur, Royal College of Medicine Perak, Malaysia and Ramu Manikandan, Post-Doctoral Researcher, Sunchon National University, South Korea were the Resource persons.",
+            "Department of Physics organized a career counseling Webinar on “Roadmap on Researcher” on 10th March, 2021 through Google meet. Dr. V. Manikandan, Assistant Professor, Department of Physics, Sri Krishna College of Technology, Kovaipudur, Coimbatore was the expert.",
+            "Department of Physics, in association with the Center for Career Counselling & Competitive Examination, has conducted a special lecture on 31st January 2020 by Mr. Deepak Samam Singh, Alumni of Department of Physics, Karpagam Academy of Higher Education. His motivational talk regarding the UPSC Examination inspired the students to prepare for the exam.",
+            "Conducted Two-day Hands-on Training on March 2 and 3, 2020, Mobile servicing and training provided by New technology, Coimbatore.",
+            "A National Seminar entitled “Advanced Materials and its Applications” for two days (March 5 and 6, 2020) has been conducted, and the seminar was divided into four technical sessions chaired by a group of learned Professors.",
+            "National Science Day (FEST 2020) and Astro Club inauguration has been done on 28th February 2020, with a delivery of a special lecture by Prof. Dr. Sakthivel, Founder, Coimbatore Astronomy Club.",
+            "Quiz Competition was conducted on behalf of the Astronomy Club Activity on 28th February 2020.",
+            "Einstein’s Birthday was celebrated by the Department of Physics, KAHE on 14th March 2020, and Dr. K. Muthu Kumaran has delivered an invited talk on “Future Energy Careers.”",
+            "Organized a series of Webinars with the Alumnus Dr. Ambili Vipin, Dr. Naidu Dhanpal Jayram, and Dr. Sanoj Varghese of KAHE entitled “Spectroscopy in Medical Diagnosis,” “Understanding the Term Nano” and “Physics in Medical Field” from 6th to 9th June 2020.",
+            "Department of Physics, KAHE conducted Virtual Alumni Meet on 26th August 2020.",
+            "Online Student Induction Program organized by Internal Quality Assurance Cell for First-year UG students from 31.8.2020 to 7.9.2020. Various programs and activities were conducted to kindle their knowledge and their interest other than curriculum. The students also actively take part in the program and attend all the sessions.",
+            "Guest Lecture was organized on “Wireless Power Transmission and its Applications” on November 2020. Dr. Libin Baby, Assistant Professor, PSG Arts and Science Coimbatore, was the resource person.",
+            "A virtual Endowment lecture on “Human Rights & welfare” was organized to commemorate International Human Rights Day on 10th December 2020. Dr. G. Vasanthimala, Associate Professor from Department of Tamil, PSG College of Arts and Science, Coimbatore, was the resource person.",
+            "Astronomy Club & Department of Physics, in collaboration with Tamil Nadu Science forum Coimbatore, jointly organised great event conjunction of Jupiter and Saturn was observed on 21st December 2020.",
+            "An online Student Induction Program conducted for I MSc Physics from 21.11.2020 to 4.12.2020. Special lectures were given by our faculty members and Eminent faculties in and around Coimbatore and also by our Alumni.",
+            "A Guest Lecture was organized on “Classical Nonlinear Dynamics” on 23rd December 2020. Mr. B. Rajesh, Assistant Professor, Department of Physics, The American College, Madurai, was the resource person.",
+            "A Guest Lecture was organized on “An Overview of Synthesis and Material Characterization of Nanostructures” on 24th December 2020. Dr. A. Saranya, Assistant Professor, Department of Physics, Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology, Chennai, was the resource person.",
+            "A Guest Lecture was organized on “Physics Today” on 28th December 2020. R. Shankar, Assistant Professor from Department of Physics, Bharathiar University, Coimbatore, was the resource person.",
+            "A Guest Lecture was organized on “Optics and Optical Instruments” on 30th December 2020. Dr. K. Sathish Kumar, Assistant Professor from Department of Physics, SRMV College of Arts and Science, Coimbatore, was the resource person.",
+            "Human Rights Day organized on December 10, 2019.",
+            "Nuclear Physics and its Applications on December 13, 2019.",
+            "Physics Based Earthquake Prediction on November 27, 2019.",
+            "MEMS and its Applications on September 03, 2019.",
+            "Nobel Laureates in Physics and Nobel Facts on August 24, 2019.",
+            "Nanotechnology-An Overview on August 02, 2019.",
+            "Fundamental Understanding and Descriptive Sense of Relative Basic Characteristics on February 14, 2019.",
+            "Mobile Servicing and Training from January 03, 2019 to January 04, 2019."
+          ]
+        },
+        {
+          "title": "Workshop",
+          "content": [
+            "Conducted a workshop on “Synthesis of Nanomaterials via Chemical Method” for the students of I M.Sc. and II M.Sc. Physics, on 18.09.2025.",
+            "Critical Thinking, Decision making and Assertiveness on August 01, 2019."
+          ]
+        },
+        {
+          "title": "National Conference&Seminar",
+          "content": [
+            "National Seminar of Material Science on March 05, 2020 and March 06, 2020."
+          ]
+        },
+        {
+          "title": "Exhibition",
+          "content": [
+            "KAHESTECH 2020 Science & Technology Exhibition for School and Polytechnic Students on February 04, 2020.",
+            "KAHESTECH 2020 Science & Technology Exhibition for School and Polytechnic Students on October 10, 2019."
+          ]
+        },
+        {
+          "title": "Coaching for Competitive Examination",
+          "content": [
+            "1.NET (National Eligibility Test) class conducted regularly after the classes by Dr. B. Janarthanan (Assoc. Prof) Dr. N. Padmanathan (Assoc. Prof) Department of Physics, Karpagam Academy of Higher Education, Coimbatore"
+          ]
+        },
+        {
+          "title": "Others",
+          "content": [
+            "Five-days Skill Development Program on Solar Energy Technology Fundamentals to Device Fabrication from 15.12.2025 to 19.12.2025 at the Central Electrochemical Research Institute, Karaikudi",
+            "Faculty Development Program on Role of Physics in Engineering Technology, Advanced Computational Methods and Experimental Research through hybrid mode (offline and online) from 25th to 29th November,2025 along with Staff members of the Department of Physics in both FASCM and FOE and Ph.D.Scholars",
+            "One day Hands-On-Training on Embedded Systems for our students of M.Sc and II M.Sc Physics on 28.10.2025",
+            "Inaugurate Physics Association on Physica-2025 on 20.08.2025",
+            "Quiz Competition and informative sessions splash down of Dragon Spacecraft from ISS on 16.07.2025"
+          ]
+        }
+      ]
+    },
+    {
+      "tab": "Laboratory",
+      "slug": "department-of-phsics",
+      "title": "PG laboratory",
+      "subtitle": "Paper Publications by the Faculty Members",
+      "type": "gallery",
+      "images": [
+          {
+            "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Picture1-1.jpg",
+            "alt": "Picture1",
+            "title": "Workspace for the Synthesis of Nanomaterials"
+          },
+          {
+            "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Picture2-1.jpg",
+            "alt": "Picture2",
+            "title": "Workspace for Research Work"
+          },
+          {
+            "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Picture3-1.jpg",
+            "alt": "Picture3",
+            "title": "Solar Thermal Device Fabrication in the Research Laboratory"
+          },
+          {
+            "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Picture4-1.jpg",
+            "alt": "Picture4",
+            "title": "Workspace for the Fabrication of Dye Sensitized Solar Cell and Synthesis of Functional Energy Materials"
+          },
+          {
+            "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Picture5-1024x576.jpg",
+            "alt": "Picture5",
+            "title": "Zeeman Effect"
+          },
+        
+          {
+            "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Picture6-1.png",
+            "alt": "Picture6",
+            "title": "Thermal Evaporation Unit"
+          },
+          {
+            "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Picture7.png",
+            "alt": "Picture7",
+            "title": "Ball Milling – Nanomaterial synthesis"
+          },
+          {
+            "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Picture8-1.png",
+            "alt": "Picture8",
+            "title": "Solar Radiation Monitor and Sunshine Recorder"
+          },
+          {
+            "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Picture9-1.jpg",
+            "alt": "Picture9",
+            "title": "Indigenous Dip Coating Unit"
+          },
+          {
+            "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Picture10-1-1024x576.jpg",
+            "alt": "Picture10",
+            "title": "Four-Probe Apparatus"
+          },
+          {
+            "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Picture11.png",
+            "alt": "Picture11",
+            "title": "Workspace for Wet lab"
+          },
+          {
+            "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Picture12.png",
+            "alt": "Picture12",
+            "title": "Workspace for Wet lab"
+          },
+          {
+            "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Picture13.png",
+            "alt": "Picture13",
+            "title": "Four-Probe Apparatus"
+          },
+          {
+            "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Picture71.png",
+            "alt": "",
+            "title": "Electrochemical Workstation"
+          },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Picture14.png",
+              "alt": "",
+              "title": ""
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Picture51.png",
+              "alt": "",
+              "title": ""
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Picture16.png",
+              "alt": "",
+              "title": ""
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Picture1.png",
+              "alt": "",
+              "title": "Vacuum Oven, Photocatalytic Reactor (Visible and UV) and Muffle Furnace"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Picture4-1.png",
+              "alt": "Picture4",
+              "title": "Double Distillation Unit"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Picture10.png",
+              "alt": "",
+              "title": "ASTRONOMY CLUB"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Picture5.png",
+              "alt": "",
+              "title": "LCR Meter"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Picture6-2.png",
+              "alt": "",
+              "title": "Weighing Balance and Pelletizer"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Picture7-1.png",
+              "alt": "",
+              "title": "UV-Visible Spectrophotometer"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Picture8-2-1024x576.jpg",
+              "alt": "",
+              "title": "CENTER FOR COMPUTATIONAL PHYSICS"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Picture9-2-1024x576.jpg",
+              "alt": "",
+              "title": "CENTER FOR COMPUTATIONAL PHYSICS"
+            }
+          
+        
+      ],
+      "section1": {
+        "items": [
+          {
+            "type": "laboratories",
+            "title": "Research Laboratory",
+            "desc": "Research Excellence - Key Research Areas",
+            "content": [
+              "Battery Technology & Energy Storage",
+              "Crystal Growth & Characterization",
+              "Dye-Sensitized Solar Cells (DSSC)",
+              "Magnetic Materials & Spintronics",
+              "Nanomaterials Synthesis",
+              "Solar Energy Applications",
+              "Thin Film Technology",
+              "Functional Energy Materials"
+            ]
+          },
+          {
+            "type": "equipment",
+            "desc": "Advanced Equipment",
+            "title": "Laboratory Facilities ",
+            "content": [
+              "Thermal Evaporation Unit – Thin film deposition",
+              "Four Probe Instruments – Electrical measurements",
+              "Ball Milling – Nanomaterial synthesis",
+              "Spin & Dip Coating Units – Film preparation",
+              "Crystal Growth Setup – Single crystal development",
+              "Solar Radiation Monitor – Energy research"
+            ]
+          },
+          {
+            "type": "library",
+            "title": "Research Impact",
+            "desc": "Our faculty members have published extensively in high-impact journals, contributing to advancements in materials science, renewable energy, and nanotechnology. The department maintains active collaborations with international research institutions",
+            "content": []
+          },
+          
+          {
+            "type": "gallery",
+            "slug": "department-of-microbiology",
+            "breadcrumbItems": [
+              {
+                "label": "Academics",
+                "href": "academics"
+              },
+              {
+                "label": "Arts, Science, Commerce and Management",
+                "href": "academics/arts-science-and-humanities/"
+              },
+              {
+                "label": "Department of Microbiology",
+                "href": "/academics/arts-science-and-humanities/department-of-microbiology"
+              },
+              {
+                "label": "Gallery"
+              }
+            ],
+            "images": [
+              {
+                "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Fermentor-1024x576.jpg",
+                "alt": "Fermentor",
+                "title": "Fermentor"
+              },
+              {
+                "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Cold-room-facility.jpg",
+                "alt": "Cold room facility",
+                "title": "Cold room facility"
+              },
+              {
+                "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Shaker-Incubator-717x1024.jpg",
+                "alt": "Shaker Incubator",
+                "title": "Shaker Incubator"
+              },
+              {
+                "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Laminar-Airflow-Chamber-2-1024x493.jpg",
+                "alt": "Laminar Airflow Chamber -2",
+                "title": "Laminar Airflow Chamber"
+              },
+              {
+                "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Laminar-Airflow-Chamber-1-1024x597.jpg",
+                "alt": "Laminar Airflow Chamber -1",
+                "title": "Laminar Airflow Chamber"
+              },
+              {
+                "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Phase-Contrast-Microscope.jpg",
+                "alt": "Phase Contrast Microscope",
+                "title": "Phase Contrast Microscope"
+              },
+              {
+                "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Practical-Session-4-1024x768.jpg",
+                "alt": "Practical Session-4",
+                "title": "Practical Session"
+              },
+              {
+                "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Practical-Session-3-768x1024.jpg",
+                "alt": "Practical Session-3",
+                "title": "Practical Session"
+              },
+              {
+                "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Practical-Session-2-768x1024.jpg",
+                "alt": "Practical Session-2",
+                "title": "Practical Session"
+              },
+              {
+                "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Practical-Session-1-1024x768.jpg",
+                "alt": "Practical Session-1",
+                "title": "Practical Session"
+              },
+              {
+                "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/ug-lab-150x150.jpg",
+                "alt": "Best UG lab facilities at Karpagam Academy"
+              },
+              {
+                "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/pg-lab-150x150.jpg",
+                "alt": "Best Research lab facilities at KAHE"
+              },
+              {
+                "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/research-lab-150x150.jpg",
+                "alt": "Best Research lab facilities at Karpagam Academy"
+              },
+              {
+                "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/3-scaled-150x150.jpg",
+                "alt": "Best Research lab facilities at Karpagam Academy of Higher Education"
+              },
+              {
+                "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/4-scaled-150x150.jpg",
+                "alt": "Best lab facilities at Karpagam Academy of Higher Education"
+              },
+              {
+                "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/5-150x150.jpg",
+                "alt": "Best lab facilities at Karpagam Academy"
+              },
+              {
+                "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/6-150x150.jpg",
+                "alt": "Best lab facilities at KAHE"
+              },
+              {
+                "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/7-150x150.jpg",
+                "alt": "Best lab facilities"
+              },
+              {
+                "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/1-scaled-150x150.jpg",
+                "alt": "Best Microbiology lab"
+              },
+              {
+                "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/2-scaled-150x150.jpg",
+                "alt": "Microbiology lab"
+              },
+              {
+                "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/1-8-150x150.jpg",
+                "alt": "Karpagam Academy - Department of Microbiology"
+              },
+              {
+                "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/2-7-150x150.jpg",
+                "alt": "Department of Microbiology - Top College In Coimbatore, India"
+              },
+              {
+                "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/3-6-150x150.jpg",
+                "alt": "Department of Microbiology - Top College In Coimbatore, Tamilnadu"
+              },
+              {
+                "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/4-3-150x150.jpg",
+                "alt": "Department of Microbiology - Top College In Coimbatore"
+              },
+              {
+                "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/5-3-150x150.jpg",
+                "alt": "KAHE's Department of Microbiology"
+              },
+              {
+                "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/6-2-150x150.jpg",
+                "alt": "Department of Microbiology - top engineering colleges in coimbatore, India"
+              },
+              {
+                "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/7-1-150x150.jpg",
+                "alt": "Department of Microbiology - best placement colleges in coimbatore"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

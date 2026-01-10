@@ -1,15 +1,14 @@
-import BreadCrumb from "@/components/00-Kahe/common-components/BreadCrumb";
-
+import DeptOfCA from "@/components/00-Kahe/AcademicsComponents/Arts/DeptOfCA";
 
 export const metadata = {
-  title: "About Us 01 - Online Courses & Education NEXTJS14 Template",
-  description: "Online Courses & Education NEXTJS14 Template",
+  title: "Best MCA Colleges in Coimbatore, Tamilnadu | BCA Colleges",
+  description: "KAHE is one of top B Com Computer Application colleges in Coimbatore offering an industry-relevant curriculum and modern infrastructure. Study BCA in KAHE.",
 };
+
 const page = () => {
   return (
     <>
-      <BreadCrumb  />
-      <h5>Dept of bio tech</h5>
+     <DeptOfCA/>
     </>
   );
 };
