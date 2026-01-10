@@ -344,7 +344,7 @@ const Nav = () => {
                           <p className="sub-dd-p">
                             {activeChild?.desc ||
                               activeSub?.desc ||
-                              "Explore more details related to this section."}
+                              menu.desc || "Explore more details related to this section."}
                           </p>
 
                           <Link
@@ -355,7 +355,7 @@ const Nav = () => {
                               src={
                                 activeChild?.src ||
                                 activeSub?.src ||
-                                addImage
+                                menu.src || addImage
                               }
                               alt="Menu Banner"
                               width={400}

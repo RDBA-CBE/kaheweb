@@ -1,0 +1,187 @@
+{
+  "bannerCon": {
+    "bannerImg": "/images/Kahe/examination/Exam-Notification/examnotification-banner.webp",
+    "title": "Exam Notification",
+    "bannerCon": "Important dates and details, stay informed and prepared.",
+    "applyLink": "/"
+  },
+  "examiNotify": {
+    "title": "Department of Transport",
+   "content": [
+    {
+      "head": [
+        { "id": "col1", "label": "S. No" },
+        { "id": "col2", "label": "Route No. and Name" },
+        { "id": "col3", "label": "Time" },
+        { "id": "col4", "label": "Stages" }
+      ],
+      "data": [
+        {
+          "col1": { "text": "1" },
+          "col2": { "text": "1 – Metupalayam" },
+          "col3": { "text": "6:40 Am" },
+          "col4": { "text": "Mettupalayam , Karamadai , Veerapandi Pirivu" }
+        },
+        {
+          "col1": { "text": "2" },
+          "col2": { "text": "1A – Perianaickenpalayam" },
+          "col3": { "text": "7:10 Am" },
+          "col4": { "text": "Perianaickenpalayam , NSN Palayam ,Thoppampatty Pirivu , NGGO Colony,Vadamadurai" }
+        },
+        {
+          "col1": { "text": "3" },
+          "col2": { "text": "1B – Thudiyalur" },
+          "col3": { "text": "7:15 Am" },
+          "col4": { "text": "Thudiyalur , Kanuvai , TVS Nagar" }
+        },
+        {
+          "col1": { "text": "4" },
+          "col2": { "text": "2 – Kalveerapalayam" },
+          "col3": { "text": "7:20 Am" },
+          "col4": { "text": "Kalveerapalayam,.Vadavalli BS , PN Pudur , TNAU" }
+        },
+        {
+          "col1": { "text": "5" },
+          "col2": { "text": "3 – Ondipudur" },
+          "col3": { "text": "7:20 Am" },
+          "col4": { "text": "Ondipudur , Rajalakshmi Mills , Sowripalayam Pirivu , Nanjundapuram , Muthaiah Nagar , Sundarapuram , LIC Colony" }
+        },
+        {
+          "col1": { "text": "6" },
+          "col2": { "text": "4 – Edayarpalayam" },
+          "col3": { "text": "7:30 Am" },
+          "col4": { "text": "Edayarpalayam , Vekittapuram , Saibaba Colony , Flower Market , Marakkadai" }
+        },
+        {
+          "col1": { "text": "7" },
+          "col2": { "text": "4A – Lawley Road" },
+          "col3": { "text": "7:30 Am" },
+          "col4": { "text": "Lawley Road , Gandhipark , Raja St , Ukkadam , Kuniamuthur , Kovaipudur , Madukkarai market" }
+        },
+        {
+          "col1": { "text": "8" },
+          "col2": { "text": "5 – Anamalai" },
+          "col3": { "text": "06.45 Am" },
+          "col4": { "text": "Pollachi , Kovilpalayam , Kinathukadavu , Premier Mills" }
+        },
+        {
+          "col1": { "text": "9" },
+          "col2": { "text": "6 – Annur" },
+          "col3": { "text": "6:55 Am" },
+          "col4": { "text": "Annur , Kovilpalayam , Saravanampatty , Bharathi Nagar , Ganapathy , Athupalam" }
+        },
+        {
+          "col1": { "text": "10" },
+          "col2": { "text": "6A – Sivanandha Colony" },
+          "col3": { "text": "7:25 Am" },
+          "col4": { "text": "Sivanandha Colony , Gandhipuram , WPT , Kuruchi , Iyer Hospital" }
+        },
+        {
+          "col1": { "text": "11" },
+          "col2": { "text": "7 – SITRA" },
+          "col3": { "text": "7:30 Am" },
+          "col4": { "text": "Sitra , Hopes , Peelamedu , Lakshmi Mills , Puliakulam , Nanjundapuram , Podanur Junction" }
+        },
+        {
+          "col1": { "text": "12" },
+          "col2": { "text": "7A – Cheran Maa Nagar" },
+          "col3": { "text": "7:10 Am" },
+          "col4": { "text": "Cheran Maanagar , Hopes , ESI , Singanallur BS , Vellalore , GD Tank , Echanari , Malumichampatty" }
+        },
+        {
+          "col1": { "text": "13" },
+          "col2": { "text": "9 – Pethappampatty" },
+          "col3": { "text": "6:40 Am" },
+          "col4": { "text": "Pethappampatty BS , iIupanagaram , Sinthiluppu , Moongiltholuvu , Senjerimalai , Vadasithur" }
+        },
+        {
+          "col1": { "text": "14" },
+          "col2": { "text": "10 – Perumanallur" },
+          "col3": { "text": "6:35 Am" },
+          "col4": { "text": "Perumanallur BS , Ayyampalayam , Kanakkampalayam Pirivu , Pandiyan Nagar , Puluvapatti Pirivu , Pichampalayam,Tirupur NBS , Puspha Theatre , Karadivavi , Selakarichal , Sithanaickenpalayam" }
+        },
+        {
+          "col1": { "text": "15" },
+          "col2": { "text": "10A – Avinashi" },
+          "col3": { "text": "6:30 Am" },
+          "col4": { "text": "Avinashi , Poondi , Ammapalayam , Anupparpalayam Pudur , Periyar Colony , SAP , Kumar Nagar" }
+        },
+        {
+          "col1": { "text": "16" },
+          "col2": { "text": "10B – Aandipalayam" },
+          "col3": { "text": "6:50 Am" },
+          "col4": { "text": "Aandipalayam, Tirupur Obs ,Thennampalayam Pirivu , Veerapandi Pirivu , TKT" }
+        },
+        {
+          "col1": { "text": "17" },
+          "col2": { "text": "10D – Tirupur Obs" },
+          "col3": { "text": "6:50 Am" },
+          "col4": { "text": "Tirupur obs , Thennampalayam Pirivu , Veerapandi Pirivu , TKT ,Palladam,Ayyampalaym,Karadivavi" }
+        },
+        {
+          "col1": { "text": "18" },
+          "col2": { "text": "10C – Palladam" },
+          "col3": { "text": "7:10 Am" },
+          "col4": { "text": "Palladam BS , Sulur , L & T Bye pass" }
+        },
+        {
+          "col1": { "text": "19" },
+          "col2": { "text": "11 – Alandurai" },
+          "col3": { "text": "6:55 Am" },
+          "col4": { "text": "Alandurai , Madhampatti , Perur , Selvapuram , Kovaipudur" }
+        },
+        {
+          "col1": { "text": "20" },
+          "col2": { "text": "N3 – Udumalpet" },
+          "col3": { "text": "6:50 Am" },
+          "col4": { "text": "Udumalpet BS , Mukkonam , Poolankinar , Kedimedu , Kolarpatti , Unjavelampatti , MCET , RTO Office" }
+        },
+        {
+          "col1": { "text": "21" },
+          "col2": { "text": "UA3 – Mangalam" },
+          "col3": { "text": "6:45 Am" },
+          "col4": { "text": "Mangalam BS , Somanur , Karanampettai , Sulur , Kannampalayam , Paapampatti , Chettipalayam" }
+        },
+        {
+          "col1": { "text": "22" },
+          "col2": { "text": "UA4 – Palakkad" },
+          "col3": { "text": "7:10 Am" },
+          "col4": { "text": "Palakkad , Kalmandapam , Walayar , KG Chavady" }
+        },
+        {
+          "col1": { "text": "23" },
+          "col2": { "text": "UA6 – Puliyampatty" },
+          "col3": { "text": "6:50 Am" },
+          "col4": { "text": "Vijayapuram BS , Puliyampatty , Negamam , Kurunelipalayam , Vadasithur , Panapatti" }
+        }
+      ]
+    }
+  ]
+  },
+  "placementContact": {
+    "title": "Contact Details",
+    "content": [
+      {
+        "bgcolor": "bg-lmaroon shadow-none",
+        "gridCls": " col-md-6 col-sm-6 col-12",
+
+        "ConClsName": "text-start",
+        "subtitle": "Ms. J. Kalaivathi",
+        "content": "Transport Officer",
+        "links": [
+          {
+            "icon": "feather-phone-call",
+            "text": "+91 78458 11244",
+            "url": "tellto:+91 78458 11244"
+          },
+          {
+            "icon": "feather-mail",
+            "text": " transport@kce.ac.in",
+            "url": "mailto: transport@kce.ac.in"
+          }
+        ]
+      }
+    ]
+  }
+}
+

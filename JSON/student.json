@@ -1,0 +1,79 @@
+{
+  "bannerCon": {
+    "bannerImg": "/images/Kahe/Office-of-International-Affairs/overview-banner.webp",
+    "title": "Student",
+    "bannerCon": "Fostering international collaboration and global learning experiences.",
+    "applyLink": "/"
+  },
+  "overview": {
+    "title": "Students",
+    "content": "The Office of International Affairs(OIA) at Karpagam Academy of Higher Education stands as a pivotal nexus for cultivating global alliances with esteemed institutions and organizations worldwide, enriching the scholastic milieu and avenues for both students and faculty members alike. Demonstrating an unwavering dedication to cultivating international bonds, the Office of International Affairs(OIA) has adeptly forged active Memorandums of Understanding (MoUs) with prestigious counterparts in countries spanning the USA, Canada, Argentina, Russia, Northern Cyprus, Australia, Romania, South Korea, Malaysia, Taiwan, Philippines, Vietnam and Ethiopia.<br /><br />These collaborative ventures encompass a diverse array of initiatives, encompassing student and faculty exchange programs, joint research enterprises, and initiatives for resource sharing. Extending across multifarious faculties such as Arts, Science, Commerce and Management (FASCM), Faculty of Engineering (FoE), Faculty of Pharmacy (FoP), and Faculty of Architecture Design and Planning (FADP), these partnerships facilitate academic endeavors ranging from specialized courses and collaborative projects to internships and research pursuits. Through these strategic partnerships, KAHE endeavors to elevate the academic landscape, foster cross-cultural learning opportunities and propel the exchange of knowledge on a global scale.",
+    "src": "/images/Kahe/Innerpages/vission.jpg"
+  },
+  "student_att": {
+    "title": "My Attendance",
+    "btnText": "View",
+    "content": [
+      {
+        "url": "https://karpagam.edu.in/Automation/studentOnline.do?param=login&Id=1",
+        "target": "_blank"
+      }
+    ]
+  },
+  "internal_mark": {
+    "title": "My Internal Marks",
+    "btnText": "Click here",
+    "content": [
+      {
+        "url": "http://karpagam.edu.in/Automation/studentOnline.do?param=login&Id=1",
+        "target": "_blank"
+      }
+    ]
+  },
+  "complaint": {
+    "title": " Complaint against Caste Based Discrimination",
+    "btnText": "Click here",
+    "content": [
+      {
+        "url": "https://karpagam.edu.in/Automation/studentOnline.do?param=login&Id=1",
+        "target": "_blank"
+      }
+    ]
+  },
+  "complaint_against": {
+    "title": " Complaint against Caste Based Discrimination Details till date",
+    "content": [
+      {
+        "title": "Grievance Redressal Cell"
+      },
+      {
+        "title": " Students Grievance Redressal Mechanism",
+        "url": "https://kahedu.edu.in/n/wp-content/uploads/2020/05/Students-grievance-redressal-Mechanism-Final.pdf",
+        "target": "_blank"
+
+      }
+    ]
+  },
+  "vision": {
+    "type": "Institutional  Student Grievance Redressal Committee (ISGRC)",
+    "subTitle": "Institutional  Student Grievance Redressal Committee (ISGRC)",
+    "src": "/images/Kahe/Innerpages/vision.png",
+    "content": ["Dr. N. V. Balaji, Dean, FASH (Convenor)",
+"Dr. P. Thamilarasi, Dean, Student Affairs (Ex-Office)",
+"Dr. P. Shanmugasundaram, Dept. of Automobile Engineering (Faculty Member)",
+"Dr. K . Jothi, Head, Dept. of Commerce (Faculty Member)",
+"Mr. A. Rethish, II B.Sc CS (Cognitive System) (Student Member)"
+    ]
+  },
+  "mission": {
+    "type": "mission",
+    "subTitle": "Departmental Student Grievance Redressal Committee (DSGRC)",
+    "src": "/images/Kahe/Innerpages/goal.png",
+    "content": [
+      "Head of the Department, School, or the Centre, by whatever designation known – Chairperson",
+      "Two Professors, from outside the Department/School/Centre to be nominated by the Vice-Chancellor – Members",
+      "A member of the faculty, well-versed with the mechanism of grievance redressal to be nominated by the Chairperson – Member",
+      "A Representative from among students of the college to be nominated by the Vice-Chancellor based on academic merit/excellence in sports/performance in co-curricular activities – Special Invitee"
+    ]
+  }
+}

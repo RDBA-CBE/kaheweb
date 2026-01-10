@@ -1,0 +1,30 @@
+{
+ 
+  "student_att": {
+    "title": "Scholarship",
+    "description":"Our Karpagam Academy of Higher Education (KAHE) has been helping students of SC/ST Communities – UG and PG by getting scholarship for them from the Government of India and Tamilnadu",
+    "btnText": "View",
+    "content": [
+      {
+        "url": "https://kahedu.edu.in/n/wp-content/uploads/2020/01/Post-matric-scholarship.pdf",
+        "target": "_blank",
+        "title":"Post matric scholarship"
+      },
+      {
+        "url": "https://kahedu.edu.in/n/wp-content/uploads/2020/01/Higher-Education-Special-Scholarship.pdf",
+        "target": "_blank",
+        "title":"Higher Education Special Scholarship"
+
+      },
+      {
+        "url": "https://kahedu.edu.in/n/wp-content/uploads/2020/01/Renewal-form.pdf",
+        "target": "_blank",
+        "title":"Renewal form"
+
+      }
+    ]
+  }
+}
+
+
+

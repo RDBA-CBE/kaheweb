@@ -7,71 +7,71 @@
       "hasMenuChild": true,
       "hasPositionStatic": true,
       "hasSideBanner": true,
-      "desc": "Learn more about KAHE.",
-      "src": "/images/banner/co-men.png",
+      "desc": "Empowering learners for a brighter future",
+      "src": "/images/Kahe/menu/about.svg",
       "menuItems": [
         {
           "id": 1,
           "title": "Overview",
           "link": "/kahe/about-us",
-          "desc": "Learn more about KAHE overview.",
-          "src": "/images/banner/co-men.png"
+          "desc": "Where knowledge meets innovation",
+          "src": "/images/Kahe/menu/about.svg"
         },
         {
           "id": 2,
           "title": "Vision And Mission",
           "link": "/kahe/vision-and-mission/",
-          "desc": "Learn more about KAHE overview.",
-          "src": "/images/banner/co-men.png"
+          "desc": "To be a hub of excellence, innovation, and holistic learning.",
+          "src": "/images/Kahe/menu/about.svg"
         },
         {
           "id": 3,
           "title": "Administration",
           "link": "#",
-          "desc": "Learn more about KAHE overview.",
-          "src": "/images/banner/co-men.png",
+          "desc": "Managing resources, governance, and growth for KAHE",
+          "src": "/images/Kahe/menu/about.svg",
           "children": [
             {
               "title": "Board of Trustees",
               "link": "/kahe/administration/board-of-trustees",
-              "desc": "Learn more about KAHE overview.",
-              "src": "/images/banner/co-men.png"
+              "desc": "Steering KAHE towards innovation, quality, and holistic development.",
+              "src": "/images/Kahe/menu/about.svg"
             },
             {
               "title": "Chancellor",
               "link": "/kahe/administration/chancellor",
-              "desc": "Learn more about KAHE overview.",
-              "src": "/images/banner/co-men.png"
+              "desc": "Inspiring excellence and shaping future-ready professionals.",
+              "src": "/images/Kahe/menu/about.svg"
             },
             {
               "title": "Vice Chancellor",
               "link": "/kahe/administration/vice-chancellor",
-              "desc": "Learn more about KAHE overview.",
-              "src": "/images/banner/co-men.png"
+              "desc": "Fostering innovation, quality learning, and professional growth.",
+              "src": "/images/Kahe/menu/about.svg"
             },
             {
               "title": "KAHE Registrar",
               "link": "/kahe/administration/kahe-registrar",
-              "desc": "Learn more about KAHE overview.",
-              "src": "/images/banner/co-men.png"
+              "desc": "Facilitating governance and seamless functioning across KAHE.",
+              "src": "/images/Kahe/menu/about.svg"
             },
             {
               "title": "Deans",
               "link": "/kahe/administration/deans",
-              "desc": "Learn more about KAHE overview.",
-              "src": "/images/banner/co-men.png"
+              "desc": "Guiding teaching, research, and holistic growth within their faculties.",
+              "src": "/images/Kahe/menu/about.svg"
             },
             {
               "title": "Controller of Examinations",
               "link": "/kahe/administration/controller-of-examinations",
-              "desc": "Learn more about KAHE overview.",
-              "src": "/images/banner/co-men.png"
+              "desc": "Overseeing examinations with integrity, accuracy, and professionalism.",
+              "src": "/images/Kahe/menu/about.svg"
             },
             {
               "title": "IQAC",
               "link": "/kahe/administration/iqac",
-              "desc": "Learn more about KAHE overview.",
-              "src": "/images/banner/co-men.png"
+              "desc": "Driving continuous improvement for academic and institutional growth.",
+              "src": "/images/Kahe/menu/about.svg"
             }
           ]
         },
@@ -79,20 +79,20 @@
           "id": 4,
           "title": "Committees",
           "link": "#",
-          "desc": "Learn more about KAHE overview.",
-          "src": "/images/banner/co-men.png",
+          "desc": "Driving effective teamwork and institutional efficiency.",
+          "src": "/images/Kahe/menu/about.svg",
           "children": [
             {
               "title": "Statutory Committees",
               "link": "/kahe/statutory-committees",
-              "desc": "Learn more about KAHE overview.",
-              "src": "/images/banner/co-men.png"
+              "desc": "Upholding statutory norms and guiding institutional policies",
+              "src": "/images/Kahe/menu/about.svg"
             },
             {
               "title": "Non-Statutory Committees",
               "link": "/kahe/non-statutory-committees",
-              "desc": "Learn more about KAHE overview.",
-              "src": "/images/banner/co-men.png"
+              "desc": "Facilitating academic, cultural, and co-curricular excellence.",
+              "src": "/images/Kahe/menu/about.svg"
             }
           ]
         },
@@ -100,8 +100,8 @@
           "id": 5,
           "title": "RTI",
           "link": "/kahe/rti",
-          "desc": "Learn more about KAHE overview.",
-          "src": "/images/banner/co-men.png"
+          "desc": "Ensuring transparency and public access to information as per the Right to Information Act.",
+          "src": "/images/Kahe/menu/about.svg"
         }
       ]
     },
@@ -418,64 +418,64 @@
       "hasMenuChild": true,
       "hasPositionStatic": true,
       "hasSideBanner": true,
-      "desc": "Learn more about KAHE.",
-      "src": "/images/banner/co-men.png",
+      "desc": "Guiding students towards quality education and a future-ready learning journey.",
+      "src": "/images/Kahe/menu/admissions.svg",
       "menuItems": [
         {
           "id": 1,
           "title": "Overview",
           "link": "/kahe/admissions",
-          "desc": "Learn more about KAHE overview.",
-          "src": "/images/banner/co-men.png"
+          "desc": "Facilitating seamless access to academic programs and opportunities.",
+          "src": "/images/Kahe/menu/admissions.svg"
         },
         {
           "id": 2,
           "title": "Admission Details",
           "link": "/kahe/admissions/admission-details",
-          "desc": "Learn more about KAHE overview.",
-          "src": "/images/banner/co-men.png",
+          "desc": "Clear and comprehensive details to help you join KAHE.",
+          "src": "/images/Kahe/menu/admissions.svg",
           "children": [
             {
               "title": "Overview",
               "link": "/kahe/admissions/admission-details",
-              "desc": "Learn more about KAHE overview.",
-              "src": "/images/banner/co-men.png"
+              "desc": "Clear and comprehensive details to help you join KAHE.",
+              "src": "/images/Kahe/menu/admissions.svg"
             },
             {
               "title": "Admission Procedure",
               "link": "/kahe/admissions/admission-details/admission-procedure",
-              "desc": "Learn more about KAHE overview.",
-              "src": "/images/banner/co-men.png"
+              "desc": "Simplifying the admission process with accurate guidance",
+              "src": "/images/Kahe/menu/admissions.svg"
             },
             {
               "title": "How To Apply",
               "link": "/kahe/admissions/admission-details/how-to-apply",
-              "desc": "Learn more about KAHE overview.",
-              "src": "/images/banner/co-men.png"
+              "desc": "Simple instructions to apply and secure your place at KAHE.",
+              "src": "/images/Kahe/menu/admissions.svg"
             },
             {
               "title": "UG Programs",
               "link": "/kahe/admissions/admission-details/ug-programs",
-              "desc": "Learn more about KAHE overview.",
-              "src": "/images/banner/co-men.png"
+              "desc": "Offering a diverse range of undergraduate programs for holistic learning and career readiness.",
+              "src": "/images/Kahe/menu/admissions.svg"
             },
             {
               "title": "PG Programs",
               "link": "/kahe/admissions/admission-details/pg-programs",
-              "desc": "Learn more about KAHE overview.",
-              "src": "/images/banner/co-men.png"
+              "desc": "Advanced postgraduate programs to foster expertise, research, and professional growth.",
+              "src": "/images/Kahe/menu/admissions.svg"
             },
             {
               "title": "Research Programs",
               "link": "/kahe/admissions/admission-details/research-programs",
-              "desc": "Learn more about KAHE overview.",
-              "src": "/images/banner/co-men.png"
+              "desc": "Enabling cutting-edge research for scientific and societal impact.",
+              "src": "/images/Kahe/menu/admissions.svg"
             },
             {
               "title": "Fee Refund Policy",
               "link": "https://kahedu.edu.in/n/wp-content/uploads/2023/07/fee-refund-policy.pdf",
-              "desc": "Learn more about KAHE overview.",
-              "src": "/images/banner/co-men.png"
+              "desc": "Clear and fair fee refund procedures for students.",
+              "src": "/images/Kahe/menu/admissions.svg"
             }
           ]
         },
@@ -483,15 +483,15 @@
           "id": 3,
           "title": "Downloads",
           "link": "/kahe/admissions/downloads",
-          "desc": "Learn more about KAHE overview.",
-          "src": "/images/banner/co-men.png"
+          "desc": "Access forms, documents, and resources quickly and easily.",
+          "src": "/images/Kahe/menu/admissions.svg"
         },
         {
           "id": 3,
           "title": "Study In India",
           "link": "/kahe//admissions/study-in-india",
-          "desc": "Learn more about KAHE overview.",
-          "src": "/images/banner/co-men.png"
+          "desc": "Join KAHE and explore world-class education in India.",
+          "src": "/images/Kahe/menu/admissions.svg"
         }
       ]
     },
@@ -502,66 +502,66 @@
       "hasMenuChild": true,
       "hasPositionStatic": true,
       "hasSideBanner": true,
-      "desc": "Learn more about KAHE.",
-      "src": "/images/banner/co-men.png",
+      "desc": "Facilitating smooth and credible examination processes.",
+      "src": "/images/Kahe/menu/examination.svg",
       "menuItems": [
         {
           "id": 1,
           "title": "Overview",
           "link": "/kahe/examinations/",
-          "desc": "Learn more about KAHE overview.",
-          "src": "/images/banner/co-men.png"
+          "desc": "Managing evaluations with integrity and accuracy.",
+          "src": "/images/Kahe/menu/examination.svg"
         },
         {
           "id": 2,
           "title": "Exam Notification",
           "link": "/kahe/examinations/exam-notification/",
-          "desc": "Learn more about KAHE overview.",
-          "src": "/images/banner/co-men.png"
+          "desc": "Stay updated with the latest examination schedules and announcements.",
+          "src": "/images/Kahe/menu/examination.svg"
         },
         {
           "id": 3,
           "title": "Forms",
           "link": "/kahe/examinations/forms/",
-          "desc": "Learn more about KAHE overview.",
-          "src": "/images/banner/co-men.png"
+          "desc": "Quick and convenient access to university forms.",
+          "src": "/images/Kahe/menu/examination.svg"
         },
         {
           "id": 4,
           "title": "CIA",
           "link": "/kahe/examinations/cia-test/",
-          "desc": "Learn more about KAHE overview.",
-          "src": "/images/banner/co-men.png"
+          "desc": "Tracking academic progress with regular internal assessments.",
+          "src": "/images/Kahe/menu/examination.svg"
         },
         {
           "id": 5,
           "title": "ESE",
           "link": "/kahe/examinations/ese-test/",
-          "desc": "Learn more about KAHE overview.",
-          "src": "/images/banner/co-men.png"
+          "desc": "Ensuring rigorous evaluation through end-semester examinations.",
+          "src": "/images/Kahe/menu/examination.svg"
         },
         {
           "id": 6,
           "title": "Result",
           "link": "https://karpagam.edu.in/Automation/studentOnline.do?param=login&Id=1",
-          "desc": "Learn more about KAHE overview.",
-          "src": "/images/banner/co-men.png",
+          "desc": "Check your exam results quickly and reliably.",
+          "src": "/images/Kahe/menu/examination.svg",
           "target": "_blank"
         },
         {
           "id": 7,
           "title": "eSanad Notification",
           "link": "https://kahedu.edu.in/n/wp-content/uploads/2021/11/eSanad-notification.pdf",
-          "desc": "Learn more about KAHE overview.",
-          "src": "/images/banner/co-men.png",
+          "desc": "Access important eSanad-related information quickly.",
+          "src": "/images/Kahe/menu/examination.svg",
           "target": "_blank"
         },
         {
           "id": 8,
           "title": "Examination Reforms",
           "link": "/kahe/examinations/examination-reforms/",
-          "desc": "Learn more about KAHE overview.",
-          "src": "/images/banner/co-men.png",
+          "desc": "Modernizing evaluation processes for enhanced academic integrity.",
+          "src": "/images/Kahe/menu/examination.svg",
           "target": "_blank"
         }
       ]
@@ -573,22 +573,22 @@
       "hasMenuChild": true,
       "hasPositionStatic": true,
       "hasSideBanner": true,
-      "desc": "Learn more about KAHE.",
-      "src": "/images/banner/co-men.png",
+      "desc": "Driving continuous quality enhancement in all institutional processes.",
+      "src": "/images/Kahe/menu/iqac.svg",
       "menuItems": [
         {
           "id": 1,
           "title": "Overview",
           "link": "/kahe/administration/iqac",
-          "desc": "Learn more about KAHE overview.",
-          "src": "/images/banner/co-men.png"
+          "desc": "Promoting quality, innovation, and continuous improvement across academics and administration.",
+          "src": "/images/Kahe/menu/iqac.svg"
         },
         {
           "id": 1,
           "title": "Members",
           "link": "/kahe/administration/iqac",
-          "desc": "Learn more about KAHE overview.",
-          "src": "/images/banner/co-men.png"
+          "desc": "Dedicated members ensuring quality enhancement and innovation across the institution.",
+          "src": "/images/Kahe/menu/iqac.svg"
         }
       ]
     },
@@ -686,29 +686,29 @@
       "hasMenuChild": true,
       "hasPositionStatic": true,
       "hasSideBanner": true,
-      "desc": "Learn more about KAHE.",
-      "src": "/images/banner/co-men.png",
+      "desc": "Connecting KAHE with global opportunities in education, research, and collaboration.",
+      "src": "/images/Kahe/menu/office-of-international-affairs.svg",
       "menuItems": [
        
         {
           "id": 1,
           "title": "Overview",
           "link": "/kahe/office-of-international-affairs/office-of-international-affairs-overview/",
-          "desc": "Learn more about KAHE overview.",
-          "src": "/images/banner/co-men.png"
+          "desc": "Expanding KAHE’s global presence through education and collaboration.",
+          "src": "/images/Kahe/menu/office-of-international-affairs.svg"
         },
         {
           "id": 3,
           "title": "Partnerships & Scholarships",
           "link": "/kahe/office-of-international-affairs/partnerships-scholarships/",
-          "desc": "Learn more about KAHE overview.",
-          "src": "/images/banner/co-men.png",
+          "desc": "Promoting excellence through global partnerships and merit-based scholarships.",
+          "src": "/images/Kahe/menu/office-of-international-affairs.svg",
           "children": [
             {
               "title": "Bon Voyage Scholarship",
               "link": "/kahe/office-of-international-affairs/bon-voyage-scholarship/",
-              "desc": "Learn more about KAHE overview.",
-              "src": "/images/banner/co-men.png"
+              "desc": "Enabling international exposure through merit-based scholarships.",
+              "src": "/images/Kahe/menu/office-of-international-affairs.svg"
             }
           ]
         },
@@ -716,20 +716,20 @@
           "id": 3,
           "title": "Collaboration and Mobility",
           "link": "/kahe/office-of-international-affairs/collaboration-and-exchanges/",
-          "desc": "Learn more about KAHE overview.",
-          "src": "/images/banner/co-men.png",
+          "desc": "Enabling international collaboration and student-faculty mobility programs.",
+          "src": "/images/Kahe/menu/office-of-international-affairs.svg",
           "children": [
             {
               "title": "Students Exchange Program",
               "link": "/kahe/office-of-international-affairs/collaboration-and-exchanges/students-exchange-program/",
-              "desc": "Learn more about KAHE overview.",
-              "src": "/images/banner/co-men.png"
+              "desc": "Bridging cultures and knowledge by enabling students to study abroad.",
+              "src": "/images/Kahe/menu/office-of-international-affairs.svg"
             },
             {
               "title": "Faculty Exchange Program",
               "link": "/kahe/office-of-international-affairs/collaboration-and-exchanges/faculty-exchange-program/",
-              "desc": "Learn more about KAHE overview.",
-              "src": "/images/banner/co-men.png"
+              "desc": "Promoting global academic exchange and research collaboration for faculty.",
+              "src": "/images/Kahe/menu/office-of-international-affairs.svg"
             }
           ]
         },
@@ -737,29 +737,29 @@
           "id": 4,
           "title": "Foreign Languages",
           "link": "/kahe/office-of-international-affairs/foreign-languages/",
-          "desc": "Learn more about KAHE overview.",
-          "src": "/images/banner/co-men.png"
+          "desc": "Fostering multilingual proficiency for academic and professional growth",
+          "src": "/images/Kahe/menu/office-of-international-affairs.svg"
         },
         {
           "id": 5,
           "title": "International Admissions",
           "link": "/kahe/office-of-international-affairs/international-admissions/",
-          "desc": "Learn more about KAHE overview.",
-          "src": "/images/banner/co-men.png"
+          "desc": "Simplifying global enrollment and welcoming students from around the world.",
+          "src": "/images/Kahe/menu/office-of-international-affairs.svg"
         },
         {
           "id": 6,
           "title": "Testimonials",
           "link": "/kahe/office-of-international-affairs/testimonials/",
-          "desc": "Learn more about KAHE overview.",
-          "src": "/images/banner/co-men.png"
+          "desc": "Real stories of learning, growth, and success at KAHE.",
+          "src": "/images/Kahe/menu/office-of-international-affairs.svg"
         },
         {
           "id": 7,
           "title": "Contact",
           "link": "/kahe/office-of-international-affairs/contact/",
-          "desc": "Learn more about KAHE overview.",
-          "src": "/images/banner/co-men.png"
+          "desc": "Reach out to KAHE for guidance and assistance.",
+          "src": "/images/Kahe/menu/office-of-international-affairs.svg"
         }
       ]
     },
@@ -770,36 +770,36 @@
       "hasMenuChild": true,
       "hasPositionStatic": true,
       "hasSideBanner": true,
-      "desc": "Learn more about KAHE.",
-      "src": "/images/banner/co-men.png",
+      "desc": "Empowering students with skills, guidance, and opportunities for successful careers.",
+      "src": "/images/Kahe/menu/training-placement.svg",
       "menuItems": [
         {
           "id": 1,
           "title": "Overview",
           "link": "/kahe/placement/",
-          "desc": "Learn more about KAHE overview.",
-          "src": "/images/banner/co-men.png"
+          "desc": "Connecting talent to industry through training and placement support.",
+          "src": "/images/Kahe/menu/training-placement.svg"
         },
         {
           "id": 2,
           "title": "Training and Placement Cell",
           "link": "/kahe/placement/training-and-placement-cell/",
-          "desc": "Learn more about KAHE overview.",
-          "src": "/images/banner/co-men.png"
+          "desc": "Preparing students for professional excellence and career growth.",
+          "src": "/images/Kahe/menu/training-placement.svg"
         },
         {
           "id": 3,
           "title": "Key Recruiters",
           "link": "/kahe/placement/recruiting-companies/",
-          "desc": "Learn more about KAHE overview.",
-          "src": "/images/banner/co-men.png"
+          "desc": "Highlighting industry leaders who trust KAHE talent.",
+          "src": "/images/Kahe/menu/training-placement.svg"
         },
         {
           "id": 4,
           "title": "Contact Details",
           "link": "/kahe/placement/contact-details/",
-          "desc": "Learn more about KAHE overview.",
-          "src": "/images/banner/co-men.png"
+          "desc": "Connecting you to KAHE—quickly and efficiently.",
+          "src": "/images/Kahe/menu/training-placement.svg"
         }
       ]
     },
@@ -810,99 +810,99 @@
       "hasMenuChild": true,
       "hasPositionStatic": true,
       "hasSideBanner": true,
-      "desc": "Learn more about KAHE.",
-      "src": "/images/banner/co-men.png",
+      "desc": "Where learning extends beyond classrooms into a dynamic campus life.",
+      "src": "/images/Kahe/menu/campus-life.svg",
       "menuItems": [
         {
           "id": 1,
           "title": "Overview",
           "link": "/kahe/campus-life/",
-          "desc": "Learn more about KAHE overview.",
-          "src": "/images/banner/co-men.png"
+          "desc": "Fostering culture, creativity, and connections on campus.",
+          "src": "/images/Kahe/menu/campus-life.svg"
         },
         {
           "id": 2,
           "title": "Campus Events",
           "link": "/kahe/campus-life/campus-events/",
-          "desc": "Learn more about KAHE overview.",
-          "src": "/images/banner/co-men.png"
+          "desc": "Moments that bring the KAHE community together",
+          "src": "/images/Kahe/menu/campus-life.svg"
         },
         {
           "id": 3,
           "title": "Sports",
           "link": "/kahe/campus-life/sports/",
-          "desc": "Learn more about KAHE overview.",
-          "src": "/images/banner/co-men.png"
+          "desc": "Encouraging physical excellence and competitive spirit on campus.",
+          "src": "/images/Kahe/menu/campus-life.svg"
         },
         {
           "id": 4,
           "title": "Yugadya Swachh Bharat / NCC / NSS / YRC",
           "link": "/kahe/campus-life/yugadya-swachh-bharat-ncc-nss/",
-          "desc": "Learn more about KAHE overview.",
-          "src": "/images/banner/co-men.png"
+          "desc": "Encouraging physical excellence and competitive spirit on campus..",
+          "src": "/images/Kahe/menu/campus-life.svg"
         },
         {
           "id": 5,
           "title": "Campus Facilities",
           "link": "/kahe/campus-life/campus-facilities/",
-          "desc": "Learn more about KAHE overview.",
-          "src": "/images/banner/co-men.png"
+          "desc": "Providing modern facilities that support learning, living, and innovation.",
+          "src": "/images/Kahe/menu/campus-life.svg"
         },
         {
           "id": 6,
           "title": "Central Animal House Facility",
           "link": "/kahe/campus-life/central-animal-house-facility/",
-          "desc": "Learn more about KAHE overview.",
-          "src": "/images/banner/co-men.png"
+          "desc": "Ethical and regulated animal research facility.",
+          "src": "/images/Kahe/menu/campus-life.svg"
         },
         {
           "id": 7,
           "title": "Learning Center",
           "link": "/kahe/campus-life/learning-center/",
-          "desc": "Learn more about KAHE overview.",
-          "src": "/images/banner/co-men.png"
+          "desc": "Supporting students with focused learning and skill enhancement.",
+          "src": "/images/Kahe/menu/campus-life.svg"
         },
         {
           "id": 8,
           "title": "Gallery",
           "link": "/kahe/campus-life/gallery/",
-          "desc": "Learn more about KAHE overview.",
-          "src": "/images/banner/co-men.png"
+          "desc": "A visual glimpse into life and activities at KAHE.",
+          "src": "/images/Kahe/menu/campus-life.svg"
         },
         {
           "id": 9,
           "title": "MoUs",
           "link": "/kahe/campus-life/mous/",
-          "desc": "Learn more about KAHE overview.",
-          "src": "/images/banner/co-men.png"
+          "desc": "trengthening academic and industry collaborations through strategic MoUs.",
+          "src": "/images/Kahe/menu/campus-life.svg"
         },
         {
           "id": 10,
           "title": "Endowment Lectures",
           "link": "/kahe/campus-life/endowment-lectures/",
-          "desc": "Learn more about KAHE overview.",
-          "src": "/images/banner/co-men.png"
+          "desc": "Insights from eminent scholars and industry leaders.",
+          "src": "/images/Kahe/menu/campus-life.svg"
         },
         {
           "id": 11,
           "title": "Hostel",
           "link": "/kahe/campus-life/hostel/",
-          "desc": "Learn more about KAHE overview.",
-          "src": "/images/banner/co-men.png"
+          "desc": "Safe, comfortable, and supportive residential facilities for students",
+          "src": "/images/Kahe/menu/campus-life.svg"
         },
         {
           "id": 12,
           "title": "Barrier Free Environment",
           "link": "/kahe/campus-life/barrier-free-environment/",
-          "desc": "Learn more about KAHE overview.",
-          "src": "/images/banner/co-men.png"
+          "desc": "Ensuring inclusive, accessible, and supportive spaces for all.",
+          "src": "/images/Kahe/menu/campus-life.svg"
         },
         {
           "id": 13,
           "title": "Health Facilities",
           "link": "/kahe/campus-life/health-facilities/",
-          "desc": "Learn more about KAHE overview.",
-          "src": "/images/banner/co-men.png"
+          "desc": "On-campus medical facilities for a healthy campus community.",
+          "src": "/images/Kahe/menu/campus-life.svg"
         }
       ]
     }

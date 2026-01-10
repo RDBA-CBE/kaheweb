@@ -13,8 +13,11 @@ export default function RecognitionsSection() {
       <RecognitionCards />
 
       <div className="know-more-wrap">
-        <button className="know-more">KNOW MORE</button>
-      </div>
+  <a href="/kahe/about-us">
+    <button className="know-more">KNOW MORE</button>
+  </a>
+</div>
+
 
       <LogoSlider />
 
