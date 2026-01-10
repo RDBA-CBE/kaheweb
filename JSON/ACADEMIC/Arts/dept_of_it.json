@@ -1,0 +1,712 @@
+{
+  "title": "Department of Information Technology",
+  "bannerCon": "The University of Wyoming welcomes students to experience a one-of-a-kind education in the heart of the Mountain West.",
+  "applyLink": "#",
+  "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+  "tabs": [
+    {
+      "id": "overview",
+      "label": "Overview"
+    },
+    {
+      "id": "programme",
+      "label": "Programme"
+    },
+    {
+      "id": "faculty",
+      "label": "Faculty"
+    },
+    {
+      "id": "infrastructure",
+      "label": "Infrastructure"
+    },
+    {
+      "id": "students",
+      "label": "Students"
+    },
+    {
+      "id": "patents",
+      "label": "Patents/MoUs"
+    },
+    {
+      "id": "publications",
+      "label": "Publications"
+    },
+    {
+      "id": "gallery",
+      "label": "Gallery"
+    },
+    {
+      "id": "events",
+      "label": "Events"
+    }
+  ],
+  "tabContent": [
+    {
+      "tab": "Overview",
+      "items": [
+        {
+          "type": "overview",
+          "subTitle": "Overview",
+          "contents": "The Department of Information Technology stands as a vibrant hub of innovation, academic excellence, and industry-aligned learning. With a strong commitment to shaping future-ready IT professionals, the department blends cutting-edge curriculum, hands-on lab experience, and real-world problem-solving to prepare students for emerging technologies and global opportunities.Our faculty team comprises highly qualified academicians, industry experts, and research mentors dedicated to nurturing every learner’s potential. We encourage curiosity, creativity, and continuous learning — the values that define the IT profession.",
+          "image": "/images/others/video-07.jpg"
+        },
+        {
+          "type": "vision",
+          "subTitle": "Vision",
+          "src": "/images/Kahe/Innerpages/vision.png",
+          "content": [
+            "To emerge as a leading center for excellence in Information Technology education and innovation, committed to producing ethically responsible, technically skilled, and socially conscious IT professionals who contribute meaningfully to global and local communities."
+          ]
+        },
+        {
+          "type": "mission",
+          "subTitle": "Mission",
+          "src": "/images/Kahe/Innerpages/goal.png",
+          "content": [
+            "To deliver value-based and quality IT education using modern tools and e-learning platforms.",
+            "To foster creativity, innovation, and problem-solving abilities through project-based and research-oriented learning.",
+            "To conduct research in socially relevant and cutting-edge technological domains.",
+            "To empower students, especially from marginalized communities, to become self-reliant and industry-ready professionals.",
+            "To instill professional ethics, leadership qualities, and a sense of societal responsibility among learners"
+          ]
+        },
+        {
+          "type": "highlights",
+          "items": {
+            "title": "Highlights",
+            "src": "/images/Kahe/Innerpages/image-1.jpg",
+            "content": [
+              {
+                "icon": "rs-icon-book",
+                "value": "2025 - 2026",
+                "label": "Established"
+              },
+              {
+                "icon": "rs-icon-book",
+                "value": "758",
+                "label": "Student Strength"
+              },
+              {
+                "icon": "rs-icon-fund",
+                "value": "52",
+                "label": "Higher Studies"
+              },
+              {
+                "icon": "rs-icon-lab",
+                "value": "72",
+                "text": "Total Number of NPTEL Courses Completed"
+              },
+              {
+                "icon": "rs-icon-complete",
+                "value": "L2025-2026 Years – 45 , Patents - 5",
+                "text": "Publications"
+              },
+              {
+                "icon": "rs-icon-complete",
+                "value": "441",
+                "text": "Internship - National"
+              }
+            ]
+          }
+        },
+        {
+          "type": "hod",
+          "items": {
+            "content": [
+              {
+                "title1": "Head of the Department (HOD)",
+                "title": "Dr. P Tamil Selvan",
+                "caption": "Professor and Head",
+                "content": "The Department of Information Technology has always been driven by a clear purpose — to create a learning environment where knowledge meets innovation, and students grow into confident, competent, and industry-ready professionals. In today’s fast-evolving digital era, it is essential not only to understand technology but to adapt, innovate, and lead with it.Our department strives to bridge the gap between classroom learning and real-world applications by integrating modern tools, hands-on labs, industry collaborations, value-added training, and research-driven teaching practices. We encourage our students to think critically, explore emerging technologies such as Artificial Intelligence, Cyber Security, Cloud Computing, Data Analytics, and develop solutions that contribute to society.With a team of dedicated faculty members, advanced laboratory facilities, and a student-centric learning ecosystem, we ensure that every learner is guided, mentored, and motivated throughout their academic journey. We take pride in nurturing holistic growth — academically, professionally, and personallyI warmly welcome you to the Department of Information Technology and invite you to explore the opportunities, resources, and vibrant learning culture we offer. Together, let us build a future driven by innovation, integrity, and excellence.",
+                "src": "/images/Kahe/team-13.png"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "tab": "Programme",
+      "programmes": {
+        "title": "Programmes",
+        "content": [
+          {
+            "key": "ug",
+            "title": "B.Sc. Information Technology",
+            "img": "/images/others/health-b-02.png",
+            "multiItems": [
+              {
+                "title": "Programme",
+                "desc": "Undergraduate Programme in Information Technology"
+              }
+            ],
+            "type": "programme"
+          }
+        ]
+      },
+      "curriculum": {
+        "title": "Curriculum",
+        "content": [
+          {
+            "key": "bsc-it",
+            "title": "B.Sc. Information Technology",
+            "img": "/images/others/health-b-02.png",
+            "type": "curriculum",
+            "items": [
+              {
+                "year": "2020-2021",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/07/B.ScIT-2020-2021-1.pdf"
+              },
+              {
+                "year": "2021-2022",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2021/11/B.Sc-IT-Syllabus-2021-2022.pdf"
+              },
+              {
+                "year": "2022-2023",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2022/07/8B_BSc_CS_IT.pdf"
+              },
+              {
+                "year": "2023-2024",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2024/04/2023-2024-B.SC-IT-SYLLABUS.pdf"
+              },
+              {
+                "year": "2024-2025",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/01/B.Sc_.-IT.pdf"
+              },
+              {
+                "year": "2025-2026",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/09/Final-Syllabus-IT.pdf"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "tab": "Faculty",
+      "slug": "department-of-information-technology",
+      "basic": {
+        "title": "Faculty",
+        "description": "The Department of Information Technology is powered by a team of dedicated, experienced, and research-oriented faculty members who bring academic excellence, industry exposure, and innovation into the classroom. Our faculty combine strong subject expertise with a passion for teaching, ensuring that students receive the best blend of theory, practical knowledge, and emerging technology insights.We focus on outcome-based education, personalized mentoring, and continuous professional development to elevate the learning experience for every student.",
+        "src": "/images/Kahe/Innerpages/vission.jpg",
+        "buttonText": "View All Faculty"
+      },
+      "breadcrumbItems": [
+        {
+          "label": "Academics",
+          "href": "academics"
+        },
+        {
+          "label": "Arts, Science, Commerce and Management",
+          "href": "academics/arts-science-and-humanities/"
+        },
+        {
+          "label": "Department of Information Technology",
+          "href": "/academics/arts-science-and-humanities/department-of-information-technology"
+        },
+        {
+          "label": "Faculty"
+        }
+      ],
+      "faculty": [
+        {
+          "name": "Dr P TAMILSELVAN",
+          "designation": "HOD & Associate Professor",
+          "qualification": [
+            "Ph.D. – Karpagam Academy of Higher Education, Coimbatore",
+            "M.Phil. – Karpagam Academy of Higher Education, Coimbatore"
+          ],
+          "specialization": [
+            "Data Mining"
+          ],
+          "email": [
+            "tamilselvancs@kahedu.edu.in",
+            "it.hod@kahedu.edu.in"
+          ],
+          "src": "",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr K VEERASAMY",
+          "designation": "Assistant Professor",
+          "qualification": [
+            "Ph.D. – Karpagam Academy of Higher Education, Coimbatore",
+            "M.E – Karpagam Academy of Higher Education, Coimbatore",
+            "M.Sc. – RVS Arts and Science College, Sulur, Coimbatore"
+          ],
+          "specialization": [
+            "Data Mining",
+            "Image Processing"
+          ],
+          "email": [
+            "veerasamyca@kahedu.edu.in"
+          ],
+          "src": "",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr E. J. THOMSON FREDRICK",
+          "designation": "Professor",
+          "qualification": [
+            "Ph.D. – Bharathiyar University, Coimbatore",
+            "M.Phil. – Alagappa University, Karaikudi"
+          ],
+          "specialization": [
+            "AI and Data Mining"
+          ],
+          "email": [
+            "thomson.ej@kahedu.edu.in"
+          ],
+          "src": "",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr N THANGARASU",
+          "designation": "Assistant Professor",
+          "qualification": [
+            "Ph.D. – Bharathiyar University, Coimbatore",
+            "MCA – Hindustan Institute of Science and Technology, Chennai"
+          ],
+          "specialization": [
+            "Data Mining"
+          ],
+          "email": [
+            "drthangarasu.n@kahedu.edu.in"
+          ],
+          "src": ""
+        },
+        {
+          "name": "Dr K RANJITH SINGH",
+          "designation": "Assistant Professor",
+          "qualification": [
+            "Ph.D. – Periyar University, Salem",
+            "M.Phil – Periyar University, Salem"
+          ],
+          "specialization": [
+            "Cryptography and Network Security",
+            "MANET"
+          ],
+          "email": [
+            "ranjithsingh.koppaiyan@kahedu.edu.in"
+          ],
+          "src": ""
+        },
+        {
+          "name": "Mrs. S SUMATHI",
+          "designation": "Assistant Professor",
+          "qualification": [
+            "Ph.D. – Karpagam Academy of Higher Education",
+            "M.Phil. – Karpagam University, Coimbatore",
+            "MCA – IGNOU University"
+          ],
+          "specialization": [
+            "Cryptography and Network Security"
+          ],
+          "email": [
+            "sumathi.srinivasan@kahedu.edu.in"
+          ],
+          "src": ""
+        },
+        {
+          "name": "Mr. D SATHISH",
+          "designation": "Assistant Professor",
+          "qualification": [
+            "Ph.D. – Bharathiyar University",
+            "M.Phil. – Bharathiyar University, Coimbatore",
+            "MCA – Anna University"
+          ],
+          "specialization": [
+            "Cryptography and Network Security"
+          ],
+          "email": [
+            "sathish.duraisamy@kahedu.edu.in"
+          ],
+          "src": ""
+        },
+        {
+          "name": "Mr. A RAMKUMAR",
+          "designation": "Assistant Professor",
+          "qualification": [
+            "Ph.D. – Kalasalingam Academy of Research and Education",
+            "M.Phil – Anna University"
+          ],
+          "specialization": [
+            "Medical Image Processing",
+            "Machine Learning"
+          ],
+          "email": [
+            "ramkumar.ashokkumar@kahedu.edu.in"
+          ],
+          "src": ""
+        },
+        {
+          "name": "Mrs. S KEERTHI PRIYA",
+          "designation": "Assistant Professor",
+          "qualification": [
+            "Ph.D. – Karpagam Academy of Higher Education, Coimbatore",
+            "MCA – Bharathiyar University"
+          ],
+          "specialization": [
+            "Network Security"
+          ],
+          "email": [
+            "keerthipriya.sakthivel@kahedu.edu.in"
+          ],
+          "src": ""
+        },
+        {
+          "name": "Mrs. D JEYASREE",
+          "designation": "Assistant Professor",
+          "qualification": [
+            "Ph.D. – Bharathiyar University, Coimbatore",
+            "M.Phil. – Bharathiyar University, Coimbatore",
+            "MCA – Anna University"
+          ],
+          "specialization": [
+            "Cryptography and Network Security"
+          ],
+          "email": [],
+          "src": ""
+        },
+        {
+          "name": "Ms. G NIVASHINI",
+          "designation": "Assistant Professor",
+          "qualification": [
+            "Ph.D. – Bharathiyar University, Coimbatore",
+            "M.Sc. – Bharathiyar University, Coimbatore"
+          ],
+          "specialization": [
+            "Data Mining",
+            "Machine Learning"
+          ],
+          "email": [
+            "nivashini.ganesan@kahedu.edu.in"
+          ],
+          "src": ""
+        },
+        {
+          "name": "Mrs. K ILLAKIYA",
+          "designation": "Assistant Professor",
+          "qualification": [
+            "M.Phil – Bharathiar University, Coimbatore",
+            "M.Sc. – Bharathidasan University, Trichy"
+          ],
+          "specialization": [
+            "Network Security"
+          ],
+          "email": [
+            "illakiya.kuppusamy@kahedu.edu.in"
+          ],
+          "src": ""
+        },
+        {
+          "name": "Dr RUTHRAVIGNESHWARAN",
+          "designation": "Assistant Professor",
+          "qualification": [
+            "Ph.D. – Karpagam Academy of Higher Education, Coimbatore",
+            "M.Phil. – Bharathiar University, Coimbatore"
+          ],
+          "specialization": [
+            "IOT",
+            "Cryptography and Network Security"
+          ],
+          "email": [
+            "rutravigneshwaran.palanichamy@kahedu.edu.in"
+          ],
+          "src": ""
+        },
+        {
+          "name": "Ms C PREETHIKA",
+          "designation": "Assistant Professor",
+          "qualification": [
+            "(Ph.D.) – Karpagam Academy of Higher Education, Coimbatore",
+            "M.Sc. – Karpagam Academy of Higher Education, Coimbatore"
+          ],
+          "specialization": [
+            "Cryptography and Network Security"
+          ],
+          "email": [
+            "preethika.chandramohan@kahedu.edu.in"
+          ],
+          "src": ""
+        },
+        {
+          "name": "Mrs P JAYAPRIYA",
+          "designation": "Assistant Professor",
+          "qualification": [
+            "(Ph.D.) – Karpagam Academy of Higher Education, Coimbatore",
+            "M.Sc. – Karpagam Academy of Higher Education, Coimbatore"
+          ],
+          "specialization": [
+            "Cryptography and Network Security"
+          ],
+          "email": [
+            "jayapriya.perumal@kahedu.edu.in"
+          ],
+          "src": ""
+        },
+        {
+          "name": "Dr SARANYADEVI",
+          "designation": "Assistant Professor",
+          "qualification": [
+            "Ph.D. – Karpagam Academy of Higher Education, Coimbatore",
+            "M.Sc. – Karpagam Academy of Higher Education, Coimbatore"
+          ],
+          "specialization": [
+            "Data Mining"
+          ],
+          "email": [
+            "saranyadevi.kandhasamy@kahedu.edu.in"
+          ],
+          "src": ""
+        },
+        {
+          "name": "Dr A MYTHILI",
+          "designation": "Associate Professor",
+          "qualification": [
+            "Ph.D. – Bharathiar University, Coimbatore",
+            "M.Phil – KG College of Arts and Science, Coimbatore"
+          ],
+          "specialization": [
+            "Network Security"
+          ],
+          "email": [
+            "mythili.arumugam@kahedu.edu.in"
+          ],
+          "src": ""
+        }
+      ]
+    },
+    {
+      "tab": "patents",
+      "title": "Highlights & Strengths",
+      "items": {
+        "qualityPolicyTitle": "Program Highlights",
+        "qualityPolicyText": "The following patents were awarded to the faculty members of the department",
+        "list": [
+          "Industry-Aligned Curriculum: Structured around current trends such as AI, Cloud Computing, Data Science, Cyber Security, and Full-Stack Development.",
+          "State-of-the-Art Laboratories: Equipped with advanced tools, software, and high-performance systems to support practical learning.",
+          "Value-Added Courses & Certifications: Students receive training in AWS, Microsoft Azure, Google Cloud, Python, Power BI, TensorFlow, Ethical Hacking, and more.",
+          "Project-Based Learning: Every semester includes real-time projects, mini-projects, and innovative problem-solving tasks.",
+          "Strong Placement Support: Pre-placement training, mock interviews, aptitude coaching, and exclusive industry tie-ups ensure excellent placement outcomes.",
+          "MoUs & Collaborations: Partnerships with leading IT companies for internships, research, and skill development."
+        ],
+        "mottoTitle": "Department Strengths",
+        "mottContnet": [
+          "Experienced and research-driven faculty members",
+          "Consistently high academic performance",
+          "Dedicated Research & Innovation Cell",
+          "Hackathons, coding challenges, and tech fests every semester",
+          "Regular workshops, seminars, guest lectures, and industry expert sessions",
+          "Active department clubs: Coding Club, Cyber Security Club, AI & Data Science Forum, Creative Media Cell",
+          "Student mentoring system for academic and career guidance",
+          "Community outreach and digital literacy initiatives"
+        ]
+      }
+    },
+    {
+      "tab": "Publications",
+      "slug": "department-of-information-technology",
+      "breadcrumbItems": [
+        {
+          "label": "Academics",
+          "href": "academics"
+        },
+        {
+          "label": "Arts, Science, Commerce and Management",
+          "href": "academics/arts-science-and-humanities/"
+        },
+        {
+          "label": "Department of Information Technology",
+          "href": "/academics/arts-science-and-humanities/department-of-information-technology"
+        },
+        {
+          "label": "Publication"
+        }
+      ],
+      "title": "Best Five Papers Faculty wise:",
+      "subtitle": "Paper Publications by the Faculty Members",
+      "content": [
+        {
+          "faculty_name": "Dr P TAMIL SELVAN",
+          "content": [
+            "P. Tamil Selvan, Noora C.T. (2024). Facial Expression Analysis for Academic Engagement Monitoring with Kriging Geometry and Region Proposal Network Deep Transfer Learning. Journal of Theoretical and Applied Information Technology, 102(20).",
+            "P. Tamil Selvan, Shajeni Justin (2024). Connected Health: IoT and AI-driven CNNs for Lung Cancer Early Detection. SSRG International Journal of Electronics and Communication Engineering, 11(12).",
+            "P. Tamil Selvan, Shajeni Justin (2025). A Systematic Comparative Study on the Use of Machine Learning Techniques to Predict Lung Cancer and its Metastasis to the Liver: LCLM-Predictor Model. International Journal of Computational and Experimental Science and Engineering, 11(1).",
+            "P. Tamil Selvan, C. Vivek (2025). Student Academic Performance Prediction Using Probit-Generative Restricted Deep Boltzmann Machine. Journal of Theoretical and Applied Information Technology, 103(7).",
+            "P. Tamil Selvan, Noora C.T. (2025). Leveraging CNN to Analyse Facial Expressions for Academic Engagement Monitoring with Insights from the Multi-Source Academic Affective Engagement Dataset. Journal of Harbin Institute of Technology, 32(2)."
+          ]
+        },
+        {
+          "faculty_name": "Dr K VEERASAMY",
+          "content": [
+            "K. Veerasamy, E. J. Thomson Fredrik. Intelligent Farming Based on Uncertainty Expert System with Butterfly Optimization Algorithm for Crop Recommendation. Journal of Internet Services and Information Security, 13(4), 158–169.",
+            "K. Veerasamy, E. J. Thomson Fredrik. Intelligence System to Identify Weeds in Crops Using Image Processing and Deep Learning Techniques. Journal of Wireless Mobile Networks, Ubiquitous Computing, and Dependable Applications, 14(4), 45–49.",
+            "S. Prathosh, K. Veerasamy (2025). Optimizing Crop Yield – An IoT and ML-based Soil Testing and Crop Recommendation System.",
+            "K. S. Manoj Ram et al. (2024). Addressing Scalability and Latency Issues in Blockchain-Based IoT Applications.",
+            "K. Veerasamy et al. (2022). IoT Based Supply Chain Coordination and Control Through Machine Learning. International Conference on Emerging Technologies in Computer Engineering."
+          ]
+        },
+        {
+          "faculty_name": "Dr K RANJITH SINGH",
+          "content": [
+            "Ranjith Singh, K., Jacqueline, C. (2024). Enriched Deep Neural Network Improved by Chaotic Harris Hawk Optimizer for Prediction of Behavioural Traits. Journal of Internet Services and Information Security, 14(4), 511–523.",
+            "Ranjith Singh, K., Jacqueline, C. (2024). A Novel Meta-Model Based Enhanced Learner for Prediction of Behavior Traits. Journal of Theoretical and Applied Information Technology, 102(19), 7016–7026.",
+            "Ranjith Singh, K., Vasuki, R. (2024). Iris Biometric Template Identification Using a Parallel Fused Encoder. Multimedia Tools and Applications.",
+            "Ranjith Singh, K., Soumya Koshy (2025). Cutting-Edge Deep Learning Strategies for Ovarian Disease Detection. Communications on Applied Nonlinear Analysis, 32(1s), 611–621.",
+            "Ranjith Singh, K., Maruthu Pandi J. (2022). Sentiment Analysis of Public Tweets on COVID-19 Vaccination. NeuroQuantology, 20(10), 1578–1589."
+          ]
+        },
+        {
+          "faculty_name": "Dr N THANGARASU",
+          "content": [
+            "Optimizing Feature Extraction for Tampering Image Detection Using Deep Learning. Indonesian Journal of Electrical Engineering and Computer Science, 35(3), 1853–1864 (2024).",
+            "Optimization of CPBIS Methods for Image Segmentation in Dynamic Databases. International Journal of Electrical and Computer Engineering, 14(3), 2803–2813 (2024).",
+            "Utilizing Machine Learning for Traffic Identification Systems. International Journal of Information Management Data Insights, 4, 100218 (2024).",
+            "Blinder Oaxaca and Wilk Neutrosophic Fuzzy Set-based IoT Sensor Communication for Remote Healthcare Analysis. IEEE Access (2022).",
+            "Improved Elliptic Curve Cryptography for Sensor-Cloud Computing. Springer Cluster Computing (2019)."
+          ]
+        },
+        {
+          "faculty_name": "Dr E J THOMSON FREDRIK",
+          "content": [
+            "Babitha Thamby, E. J. Thomson Fredrik (2025). Improved Diagnosis of Hepatocellular Carcinoma Using Optimized Meta Classifier. Bulletin of Electrical Engineering and Informatics, 14(4).",
+            "Jeena Jose, E. J. Thomson Fredrik (2025). GRU-CapsNet Framework for Chronic Kidney Disease Detection. International Journal of Intelligent Engineering and Systems, 18(6).",
+            "Joby Jacob, E. J. Thomson Fredrik (2025). Predictive Analytics for Customer Churn in Banking. International Journal of Applied Mathematics, 38(4S).",
+            "Rajalekshmy K. D., E. J. Thomson Fredrik (2025). GAN-Based Classification for Early Detection of Cerebral Palsy. Journal of Information Systems Engineering and Management.",
+            "Askar Ali K. T., E. J. Thomson Fredrik (2024). Spinal Tuberculosis Detection Using Enhanced CSA. International Journal of Intelligent Systems and Applications in Engineering."
+          ]
+        },
+        {
+          "faculty_name": "Dr P RUTHRAVIGNESHWARAN",
+          "content": [
+            "Optimizing Gradient Boosting Machine for Alzheimer’s Disease Prediction Using CSO-GBM. Indian Journal of Science and Technology, 18(22), 2025.",
+            "Seal Optimization Driven Random Forest Framework for Alzheimer’s Classification. Journal of Theoretical and Applied Information Technology, 103(9), 2025.",
+            "Trust-Based SVR Security Mechanism in IoBT. International Journal of System Assurance Engineering and Management, 2022.",
+            "Security Model to Mitigate Black Hole Attacks in IoBT. International Journal of Computer Networks and Applications, 10(1), 2023.",
+            "Trust-Based Security Mechanisms for IoT – A Review. Journal of Physics: Conference Series, 1850, 2021."
+          ]
+        },
+        {
+          "faculty_name": "Mr A RAMKUMAR",
+          "content": [
+            "Ghode, S. et al., Ramkumar, A. (2024). Healthcare Analytics Using IoT and AI. Nanotechnology Perceptions, 20(S15), 67–76.",
+            "Ramkumar, A., Arun, V. (2025). Detection of Plant Leaf Diseases Using RNN and Transfer Learning. Karpagam Journal of Computer Science, 20(4)."
+          ]
+        },
+        {
+          "faculty_name": "Mrs S SUMATHI",
+          "content": [
+            "Deep Spiking Neural Based Dolphin Echolocative Optimization for VANET Load Balancing. IEEE, August 2025.",
+            "Krill Herd Optimized Quadratic Boost Classification for VANET Load Balancing. International Journal of Electrical and Electronics Engineering, 12(5), 2025.",
+            "Rainfall Drop Resource Optimized Load Balancing in VANET. African Journal of Biological Sciences, 6(14), 2024."
+          ]
+        },
+        {
+          "faculty_name": "Dr K SARANYADEVI",
+          "content": [
+            "Chronic Disease Risk Prediction Using Squirrel Search Algorithm and Hybrid KNN. NeuroQuantology, 20(8), 2022.",
+            "Hybrid SVM-KNN Classification Algorithm. Data Acquisition and Processing, 38(2), 2023.",
+            "Early Renal Risk Prediction Using Improved SSA and ANNGO. Computer Integrated Manufacturing Systems, 29(9), 2023."
+          ]
+        }
+      ]
+    },
+    {
+      "tab": "Events",
+      "slug": "department-of-information-technology",
+      "breadcrumbItems": [
+        {
+          "label": "Academics",
+          "href": "academics"
+        },
+        {
+          "label": "Arts, Science, Commerce and Management",
+          "href": "academics/arts-science-and-humanities/"
+        },
+        {
+          "label": "Department of Information Technology",
+          "href": "/academics/arts-science-and-humanities/department-of-information-technology"
+        },
+        {
+          "label": "Events"
+        }
+      ],
+      "items": [
+        {
+          "title": "Event Organized",
+          "multiContent": [
+            {
+              "title": "",
+              "content": [
+                "Students listening to the talk on Transforming Innovative Ideas into IT Startups on 24-06-2025"
+              ],
+              "images": {
+                "images": [
+                  {
+                    "id": 1,
+                    "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Students-listening-to-the-talk-on-Transforming-Innovative-Ideas-into-IT-Startups-on-24-06-2025-1024x387.png",
+                    "alt": "Karpagam Academy of Higher Education | best b com accounting and finance colleges in coimbatore"
+                  }
+                ]
+              }
+            },
+            {
+              "title": "",
+              "content": [
+                "Resource Person Dr.Karthik Rengarajan addresses to Students related to Transform Innovative Ideas into IT Startups on 24-06-2025"
+              ],
+              "images": {
+                "images": [
+                  {
+                    "id": 1,
+                    "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Resource-Person-Dr.Karthik-Rengarajan-addresses-to-Students-related-to-Transform-Innovative-Ideas-into-IT-Startups-on-24-06-2025-1024x377.png",
+                    "alt": "Karpagam Academy of Higher Education | best b com accounting and finance colleges in coimbatore"
+                  }
+                ]
+              }
+            },
+            {
+              "title": "",
+              "content": [
+                "Resource Person Dr.M.Balamurugan addresses to Students related to Recent Innovations in Data Science and Data Analytics on 28th July 2025."
+              ],
+              "images": {
+                "images": [
+                  {
+                    "id": 1,
+                    "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Resource-Person-Dr.M.Balamurugan-addresses-to-Students-related-to-Recent-Innovations-in-Data-Science-and-Data-Analytics-on-28th-July-2025-1024x356.png",
+                    "alt": "Karpagam Academy of Higher Education | best b com accounting and finance colleges in coimbatore"
+                  }
+                ]
+              }
+            },
+            {
+              "title": "",
+              "content": [
+                "Resource Person Dr.M.Balamurugan addresses to Students related to Recent Innovations in Data Science and Data Analytics on 28th July 2025."
+              ],
+              "images": {
+                "images": [
+                  {
+                    "id": 1,
+                    "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Resource-Person-Dr.M.Balamurugan-addresses-to-Students-related-to-Recent-Innovations-in-Data-Science-and-Data-Analytics-on-28th-July-2025-1024x356.png",
+                    "alt": "Karpagam Academy of Higher Education | best b com accounting and finance colleges in coimbatore"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "title": "Others",
+          "content": [
+            " Career Counselling Programme on “Career Opportunities in Fire and Resource Service” on 24.12.2025",
+            "Alumni Talk on “Roadmap to IT success: Placement, Learning and Corporate Life” by our Alumni student Ms. NITYASREE KRISHNASAMY, Business Analyst, Amadeus Software Labs, Bengaluru on 22.12.2025."
+          ]
+        }
+      ]
+    }
+  ]
+}
