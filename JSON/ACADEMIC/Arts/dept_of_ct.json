@@ -1,0 +1,710 @@
+{
+  "title": "Department of Computer Technology",
+  "bannerCon": "The University of Wyoming welcomes students to experience a one-of-a-kind education in the heart of the Mountain West.",
+  "applyLink": "#",
+  "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+  "tabs": [
+    {
+      "id": "overview",
+      "label": "Overview"
+    },
+    {
+      "id": "programme",
+      "label": "Programme"
+    },
+    {
+      "id": "faculty",
+      "label": "Faculty"
+    },
+    {
+      "id": "infrastructure",
+      "label": "Infrastructure"
+    },
+    {
+      "id": "students",
+      "label": "Students"
+    },
+    {
+      "id": "patents",
+      "label": "Patents/MoUs"
+    },
+    {
+      "id": "publications",
+      "label": "Publications"
+    },
+    {
+      "id": "gallery",
+      "label": "Gallery"
+    },
+    {
+      "id": "events",
+      "label": "Events"
+    }
+  ],
+  "tabContent": [
+    {
+      "tab": "Overview",
+      "items": [
+        {
+          "type": "overview",
+          "subTitle": "Overview",
+          "contents": "A premier destination for learning, discovery, and technological innovation, our institution offers advanced programs in Cognitive Systems, Cyber Security, and Computer Technology. These programs blend strong foundational knowledge with emerging technologies, ensuring students develop the skills needed for a rapidly evolving digital world.With expert faculty, modern laboratories, and active industry partnerships, we foster an environment where learners can explore ideas, work on real-time projects, and gain practical exposure to professional practices. Our focus extends beyond technical skills, emphasizing analytical thinking, ethical responsibility, and innovation.We shape confident, industry-ready graduates equipped to lead with intelligence, integrity, and a forward-looking mindset.",
+          "image": "/images/others/video-07.jpg"
+        },
+        {
+          "type": "vision",
+          "subTitle": "Vision",
+          "src": "/images/Kahe/Innerpages/vision.png",
+          "content": [
+            "The Department’s aim is to fulfil the requirements of the future and set high standards for academic achievement in order to produce highly competent technical and communicative computing professionals, researchers, and entrepreneurs."
+          ]
+        },
+        {
+          "type": "mission",
+          "subTitle": "Mission",
+          "src": "/images/Kahe/Innerpages/goal.png",
+          "content": [
+            "To provide motivated faculty and state of the art facilities for education and research, both in foundational aspects and emerging computing trends.",
+            "To develop knowledgeable, industry-ready students with pertinent competencies such as problem solving, leadership, and interpersonal skills"
+          ]
+        },
+        {
+          "type": "highlights",
+          "items": {
+            "title": "Highlights",
+            "src": "/images/Kahe/Innerpages/image-1.jpg",
+            "content": [
+              {
+                "icon": "rs-icon-book",
+                "value": "2025 - 2026",
+                "label": "Established"
+              },
+              {
+                "icon": "rs-icon-book",
+                "value": "758",
+                "label": "Student Strength"
+              },
+              {
+                "icon": "rs-icon-fund",
+                "value": "52",
+                "label": "Higher Studies"
+              },
+              {
+                "icon": "rs-icon-lab",
+                "value": "72",
+                "text": "Total Number of NPTEL Courses Completed"
+              },
+              {
+                "icon": "rs-icon-complete",
+                "value": "L2025-2026 Years – 45 , Patents - 5",
+                "text": "Publications"
+              },
+              {
+                "icon": "rs-icon-complete",
+                "value": "441",
+                "text": "Internship - National"
+              }
+            ]
+          }
+        },
+        {
+          "type": "hod",
+          "items": {
+            "content": [
+              {
+                "title1": "Head of the Department (HOD)",
+                "title": "Dr.K. Devasenapathy",
+                "caption": "Professor and Head",
+                "content": "Welcome to the Department of Computer Technology — a space where knowledge, innovation, and purpose converge to inspire the technology leaders of tomorrow. We are committed to nurturing curiosity, encouraging creativity, and empowering learners to transform their aspirations into meaningful achievements.Our department offers three programmes—Computer Technology, Cognitive Systems, and Cyber Security—that blend strong computing foundations with advanced technological domains. This integrated approach empowers students to build intelligent systems, secure digital environments, and explore emerging frontiers in the digital world.With a vibrant learning ecosystem, modern laboratories, specialised facilities, and a dedicated faculty team, students are immersed in real-time problem solving, AI-driven applications, and project-based learning that reflect the demands of today’s global tech landscape. Each programme is thoughtfully designed to prepare adaptable, innovative, and industry-ready professionals capable of contributing to a rapidly evolving digital future.As you start your journey with us, I encourage you to explore with enthusiasm, reason with depth, and innovate with purpose. Allow your curiosity to uncover new insights, and your vision to contribute to a smarter and more connected world",
+                "src": "/images/Kahe/team-13.png"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "tab": "Programme",
+      "programmes": {
+        "title": "Programmes",
+        "content": [
+          {
+            "key": "ug",
+            "title": "B.Sc. Information Technology",
+            "img": "/images/others/health-b-02.png",
+            "multiItems": [
+              {
+                "title": "Programme",
+                "desc": "Undergraduate Programme in Information Technology"
+              }
+            ],
+            "type": "programme"
+          }
+        ]
+      },
+      "curriculum": {
+        "title": "Curriculum",
+        "content": [
+          {
+            "key": "bsc-it",
+            "title": "B.Sc. Information Technology",
+            "img": "/images/others/health-b-02.png",
+            "type": "curriculum",
+            "items": [
+              {
+                "year": "2020-2021",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/07/B.ScIT-2020-2021-1.pdf"
+              },
+              {
+                "year": "2021-2022",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2021/11/B.Sc-IT-Syllabus-2021-2022.pdf"
+              },
+              {
+                "year": "2022-2023",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2022/07/8B_BSc_CS_IT.pdf"
+              },
+              {
+                "year": "2023-2024",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2024/04/2023-2024-B.SC-IT-SYLLABUS.pdf"
+              },
+              {
+                "year": "2024-2025",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/01/B.Sc_.-IT.pdf"
+              },
+              {
+                "year": "2025-2026",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/09/Final-Syllabus-IT.pdf"
+              }
+            ]
+          },
+          {
+            "key": "bsc-ct",
+            "title": "B.Sc. Computer Technology",
+            "img": "/images/others/health-b-02.png",
+            "type": "curriculum",
+            "items": [
+              {
+                "year": "2020-2021",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/07/B.ScCT-2020-2021.pdf"
+              },
+              {
+                "year": "2021-2022",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2021/11/B.Sc-CT-Syllabus-2021-2022.pdf"
+              },
+              {
+                "year": "2022-2023",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2022/07/8A_BSc_CS_CT.pdf"
+              },
+              {
+                "year": "2023-2024",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2024/04/2023-2024-B.SC-CT-SYLLABUS.pdf"
+              },
+              {
+                "year": "2024-2025",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/01/B.Sc_.-CT.pdf"
+              },
+              {
+                "year": "2025-2026",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/09/B.Sc-CT-2025-2026-Syllabus.pdf"
+              }
+            ]
+          },
+          {
+            "key": "bsc-cs-cognitive",
+            "title": "B.Sc. Computer Science (Cognitive Systems)",
+            "img": "/images/others/health-b-02.png",
+            "type": "curriculum",
+            "items": [
+              {
+                "year": "2020-2021",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/07/B.Sc-CS-COG-2020-2021.pdf"
+              },
+              {
+                "year": "2021-2022",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2022/09/2021-BSc-CS-COG-SYS-COLOR-CODED.pdf"
+              },
+              {
+                "year": "2022-2023",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2022/07/8D_BSc_CS_CG.pdf"
+              },
+              {
+                "year": "2023-2024",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2024/04/B.Sc-Cog-_syllabus-2023-2024.pdf"
+              },
+              {
+                "year": "2024-2025",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/01/B.Sc-CS-Cognitive-Systems.pdf"
+              },
+              {
+                "year": "2025-2026",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/09/B.Sc-CSCognitive-Systems-2025-2026-Syllabus.pdf"
+              }
+            ]
+          },
+          {
+            "key": "bsc-cs-cyber",
+            "title": "B.Sc. Computer Science (Cyber Security)",
+            "img": "/images/others/health-b-02.png",
+            "type": "curriculum",
+            "items": [
+              {
+                "year": "2024-2025",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/01/B.Sc-CS-Cyber-Security.pdf"
+              },
+              {
+                "year": "2025-2026",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/09/B.Sc-CSCyber-Security-2025-2026-Syllabus.pdf"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "tab": "Faculty",
+      "slug": "department-of-computer-technology",
+      "basic": {
+        "title": "Faculty",
+        "description": "",
+        "src": "/images/Kahe/Innerpages/vission.jpg",
+        "buttonText": "View All Faculty"
+      },
+      "breadcrumbItems": [
+        {
+          "label": "Academics",
+          "href": "academics"
+        },
+        {
+          "label": "Arts, Science, Commerce and Management",
+          "href": "academics/arts-science-and-humanities/"
+        },
+        {
+          "label": "Department of Computer Technology",
+          "href": "/academics/arts-science-and-humanities/department-of-computer-technology"
+        },
+        {
+          "label": "Faculty"
+        }
+      ],
+      "faculty": [
+        {
+          "name": "Dr K Devasenapathy",
+          "designation": "HOD & Associate Professor",
+          "qualification": [
+            "MCA",
+            "M.Phil",
+            "Ph.D"
+          ],
+          "specialization": [],
+          "email": [
+            "ct.hod@kahedu.edu.in"
+          ],
+          "src": "",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Dr.K.Devasenapathy.pdf",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr A Faritha Banu",
+          "designation": "Assistant Professor",
+          "qualification": [
+            "MCA",
+            "M.Phil",
+            "M.E",
+            "Ph.D"
+          ],
+          "specialization": [],
+          "email": [
+            "farithabanu.ahamedsheriff@kahedu.edu.in"
+          ],
+          "src": "",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Dr.A.Faritha-banu.pdf",
+          "target": "_blank"
+        },
+        {
+          "name": "Mr K Prabu",
+          "designation": "Assistant Professor",
+          "qualification": [
+            "M.Sc",
+            "M.Phil"
+          ],
+          "specialization": [],
+          "email": [
+            "kkprabu21@gmail.com"
+          ],
+          "src": "",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/K.Prabhu.pdf",
+          "target": "_blank"
+        },
+        {
+          "name": "Ms P Archana",
+          "designation": "Assistant Professor",
+          "qualification": [
+            "M.Sc Computer Science"
+          ],
+          "specialization": [],
+          "email": [
+            "archana.periasamy@kahedu.edu.in"
+          ],
+          "src": "",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/P.ARCHANA.pdf",
+          "target": "_blank"
+        },
+        {
+          "name": "Mrs H Gunavathi",
+          "designation": "Assistant Professor",
+          "qualification": [
+            "M.Sc (CS)",
+            "M.Phil (CS)",
+            "(Ph.D)"
+          ],
+          "specialization": [],
+          "email": [
+            "gunavathy.sakthivel@kahedu.edu.in"
+          ],
+          "src": "",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/H.GUNAVATHY.pdf",
+          "target": "_blank"
+        },
+        {
+          "name": "Ms R Sivaranjani",
+          "designation": "Assistant Professor",
+          "qualification": [
+            "BCA",
+            "MCA"
+          ],
+          "specialization": [],
+          "email": [
+            "sivaranjani.rajakumar@kahedu.edu.in"
+          ],
+          "src": "",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/R-SIVARANJANI.pdf",
+          "target": "_blank"
+        },
+        {
+          "name": "Ms A S Deeppana",
+          "designation": "Assistant Professor",
+          "qualification": [
+            "MCA",
+            "Ph.D"
+          ],
+          "specialization": [],
+          "email": [
+            "deeppana.asubramaniam@kahedu.edu.in"
+          ],
+          "src": "",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/A.S.-DEEPPANA.pdf",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr K Lakshmipriya",
+          "designation": "Associate Professor",
+          "qualification": [
+            "M.Sc (CS)",
+            "M.Phil",
+            "Ph.D"
+          ],
+          "specialization": [],
+          "email": [
+            "lakshmipriya.krishnan@kahedu.edu.in"
+          ],
+          "src": "",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Dr.-K.-LAKSHMI-PRIYA.pdf",
+          "target": "_blank"
+        },
+        {
+          "name": "Mrs R Poongodi",
+          "designation": "Assistant Professor",
+          "qualification": [
+            "M.Sc",
+            "M.Phil"
+          ],
+          "specialization": [],
+          "email": [
+            "poongodi.rajan@kahedu.edu.in"
+          ],
+          "src": "",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/R-.Poongodi.pdf",
+          "target": "_blank"
+        },
+        {
+          "name": "Mr G Santhana Krishnan",
+          "designation": "Assistant Professor",
+          "qualification": [
+            "MCA",
+            "SET",
+            "(Ph.D)"
+          ],
+          "specialization": [],
+          "email": [
+            "santhanakrishnan.gurusaminathan@kahedu.edu.in"
+          ],
+          "src": "",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/G.SANTHANAKRISHNAN.pdf",
+          "target": "_blank"
+        },
+        {
+          "name": "Mrs R Menaka",
+          "designation": "Assistant Professor",
+          "qualification": [
+            "M.Sc (SS)",
+            "M.Phil"
+          ],
+          "specialization": [],
+          "email": [
+            "menaka.rasan@kahedu.edu.in"
+          ],
+          "src": "",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/R.-MENAKA.pdf",
+          "target": "_blank"
+        },
+        {
+          "name": "Ms V Kiruthiga",
+          "designation": "Assistant Professor",
+          "qualification": [
+            "M.Sc (IT)",
+            "B.Ed",
+            "(Ph.D)"
+          ],
+          "specialization": [],
+          "email": [
+            "kiruthigavenkateshp@gmail.com"
+          ],
+          "src": "",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Kiruthiga.V.pdf",
+          "target": "_blank"
+        }
+      ]
+    },
+    {
+      "tab": "patents",
+      "title": "Highlights & Strengths",
+      "items": {
+        "qualityPolicyTitle": "Program Highlights",
+        "qualityPolicyText": "The following patents were awarded to the faculty members of the department",
+        "list": [
+          "Industry-Aligned Curriculum: Structured around current trends such as AI, Cloud Computing, Data Science, Cyber Security, and Full-Stack Development.",
+          "State-of-the-Art Laboratories: Equipped with advanced tools, software, and high-performance systems to support practical learning.",
+          "Value-Added Courses & Certifications: Students receive training in AWS, Microsoft Azure, Google Cloud, Python, Power BI, TensorFlow, Ethical Hacking, and more.",
+          "Project-Based Learning: Every semester includes real-time projects, mini-projects, and innovative problem-solving tasks.",
+          "Strong Placement Support: Pre-placement training, mock interviews, aptitude coaching, and exclusive industry tie-ups ensure excellent placement outcomes.",
+          "MoUs & Collaborations: Partnerships with leading IT companies for internships, research, and skill development."
+        ],
+        "mottoTitle": "Department Strengths",
+        "mottContnet": [
+          "Experienced and research-driven faculty members",
+          "Consistently high academic performance",
+          "Dedicated Research & Innovation Cell",
+          "Hackathons, coding challenges, and tech fests every semester",
+          "Regular workshops, seminars, guest lectures, and industry expert sessions",
+          "Active department clubs: Coding Club, Cyber Security Club, AI & Data Science Forum, Creative Media Cell",
+          "Student mentoring system for academic and career guidance",
+          "Community outreach and digital literacy initiatives"
+        ]
+      }
+    },
+    {
+      "tab": "Publications",
+      "slug": "department-of-computer-technology",
+      "breadcrumbItems": [
+        {
+          "label": "Academics",
+          "href": "academics"
+        },
+        {
+          "label": "Arts, Science, Commerce and Management",
+          "href": "academics/arts-science-and-humanities/"
+        },
+        {
+          "label": "Department of Computer Technology",
+          "href": "/academics/arts-science-and-humanities/department-of-computer-technology"
+        },
+        {
+          "label": "Publication"
+        }
+      ],
+      "title": "Paper Publications by the Faculty Members",
+      "subtitle": "",
+      "content": [
+        {
+          "faculty_name": "Dr K DEVASENAPATHY",
+          "content": [
+            "Devasenapathy K. (2025). Sales Prediction Using LSTM and BiLSTM Models: A Deep Learning Approach for Time Series Forecasting. Journal of Wireless Mobile Networks, Ubiquitous Computing, and Dependable Applications, 16(3), 393–402.",
+            "Devasenapathy K. (2025). Detection of Confirmation Bias in Horoscope Texts Using Random Forest Classifier. International Journal of Applied Mathematics, 38(2S).",
+            "Devasenapathy K. (2025). Self-adaptive Transient Generalized Functional Regressive Cryptosystem Based Authentication for Secured Data Transmission in Personal Area Network. Journal of Theoretical and Applied Information Technology, 103(14), 5204–5215.",
+            "Devasenapathy K. (2024). Performance Comparison of Deep Learning Algorithm for Autism Spectrum Disorder Prediction. Communication and Applied Nonlinear Analysis, 32(1), 622–631.",
+            "Devasenapathy K. (2024). Beyond the Zodiac: Investigating Confirmation Bias in Newspaper Horoscopes via Machine Learning Techniques. Frontiers in Health Informatics, 13(3), 5673–5679."
+          ]
+        },
+        {
+          "faculty_name": "Dr A FARITHA BANU",
+          "content": [
+            "Priyadharshini M., Faritha Banu A., et al. (2023). Hybrid Multi-Label Classification Model for Medical Applications Based on Adaptive Synthetic Data and Ensemble Learning. Sensors, 23(15).",
+            "Lavanya V.S., Faritha Banu A. (2023). Machine Learning with Ensemble Classifier Algorithm for Imbalanced Data Classification. Journal of Propulsion Technology, 44(5).",
+            "Faritha Banu A., Lavanya V.S. (2022). A Survey on Different Methods for Imbalanced Data Classification. Zeichen Journal, 8(10).",
+            "Faritha Banu A., Lavanya V.S. (2024). Imbalanced Data Classification Using Improved Grey Wolf Optimization and Enhanced ANN Algorithm. International Journal of Interdisciplinary Organizational Studies, 19(1).",
+            "Priyadharshini M., Faritha Banu A., et al. (2024). Advanced Cyberbullying Detection: A Hybrid Model Integrated with Naïve Bayes. ICEEICT 2024."
+          ]
+        },
+        {
+          "faculty_name": "Mr K PRABHU",
+          "content": [
+            "Menge H.O., Prabu K. (2024). Machine Learning–Based Early Type 2 Diabetes Detection. ICERCS 2024, Karpagam Academy of Higher Education.",
+            "Prabu K., Ayyapparaj T. (2025). Decoding Liver Fibrosis: An AI-Powered Path to Early Cirrhosis Diagnosis. Karpagam Journal of Computer Science, 20(4)."
+          ]
+        },
+        {
+          "faculty_name": "Ms P ARCHANA",
+          "content": [
+            "Sharmila S., Vignesh B., Archana P. Data Mining Techniques and Application. Journal of the Maharaja Sayajirao University of Baroda. ISSN: 0025-0422."
+          ]
+        },
+        {
+          "faculty_name": "Mrs H GUNAVATHY",
+          "content": [
+            "Gunavathy H. (2019). A Survey: Data Security in Cloud Using Cryptography and Steganography. International Research Journal of Engineering and Technology, 6(5).",
+            "Gunavathy H. (2024). A Survey on Flying Ad-Hoc Network (FANET). Indian Journal of Natural Sciences, 15(85).",
+            "Gunavathy H. (2025). Dragonfly-Inspired OLSR Protocol for Interference-Aware Seamless Connectivity in FANET. Journal of Theoretical and Applied Information Technology, 103(13)."
+          ]
+        },
+        {
+          "faculty_name": "Dr K LAKSHMIPRIYA",
+          "content": [
+            "Lakshmipriya K. (2024). Anomaly Detection Using Machine Learning and Deep Learning. Nanotechnology Perceptions, 20(S11).",
+            "Lakshmipriya K. (2025). Entropy-Based Cascaded Capsule Neural Network with Optimized LSTM. Journal of Theoretical and Applied Information Technology, 103(8).",
+            "Lakshmipriya K. (2025). X2_PDDVnet: Explainable AI-Based Dual Path Vision Transformer Network. Journal Européen des Systèmes Automatisés, 58(4).",
+            "Lakshmipriya K. (2025). Anomaly Detection in Complex Systems Using Improved Fish Swarm Optimizer. IEEE.",
+            "Lakshmipriya K. (2025). Privacy-Aware AI Approaches for Early Mental Health Detection. International Journal of Creative Research Thoughts, 13(7)."
+          ]
+        },
+        {
+          "faculty_name": "Mr G SANTHANAKRISHNAN",
+          "content": [
+            "Santhanakrishnan G., Kumaravel S. (2024). Generating Sign Language Using LSTM for Spoken Language Conversion. SSRN.",
+            "Ganesan V., Santhanakrishnan G., et al. (2025). Predictive Technologies Using AI and IoMT. ICIMIA 2025.",
+            "Santhanakrishnan G., Kumaravel S. Voice to Sign Language. IOSR Journal of Computer Engineering."
+          ]
+        },
+        {
+          "faculty_name": "Mrs R MENAKA",
+          "content": [
+            "Menaka R., Padmavathi G. (2023). Selection of Robust Text-Based CAPTCHA Using TensorFlow Object Detection. ICDAM 2023, Springer LNNS."
+          ]
+        },
+        {
+          "faculty_name": "Ms V KIRUTHIGA",
+          "content": [
+            "Kiruthiga V., Lakshmipriya K. (2025). Privacy-Aware AI Approaches for Early Mental Health Detection. IJCRT, 13(7).",
+            "Kiruthiga V., Lakshmipriya K. (2025). Privacy-Preserving Mental Health Prediction Using Federated Learning. IJRASET, 13(7).",
+            "Kiruthiga V., Lakshmipriya K. (2025). Multimodal vs Unimodal Learning for Mental Health Prediction. IJISRT, 10(10), 1021–1027."
+          ]
+        }
+      ]
+    },
+    {
+      "tab": "Events",
+      "slug": "department-of-computer-technology",
+      "breadcrumbItems": [
+        {
+          "label": "Academics",
+          "href": "academics"
+        },
+        {
+          "label": "Arts, Science, Commerce and Management",
+          "href": "academics/arts-science-and-humanities/"
+        },
+        {
+          "label": "Department of Computer Technology",
+          "href": "/academics/arts-science-and-humanities/department-of-computer-technology"
+        },
+        {
+          "label": "Events"
+        }
+      ],
+      "items": [
+        {
+          "title": "Event Organized",
+          "multiContent": [
+            {
+              "title": "",
+              "content": [
+                "Students listening to the talk on Transforming Innovative Ideas into IT Startups on 24-06-2025"
+              ],
+              "images": {
+                "images": [
+                  {
+                    "id": 1,
+                    "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Students-listening-to-the-talk-on-Transforming-Innovative-Ideas-into-IT-Startups-on-24-06-2025-1024x387.png",
+                    "alt": "Karpagam Academy of Higher Education | best b com accounting and finance colleges in coimbatore"
+                  }
+                ]
+              }
+            },
+            {
+              "title": "",
+              "content": [
+                "Resource Person Dr.Karthik Rengarajan addresses to Students related to Transform Innovative Ideas into IT Startups on 24-06-2025"
+              ],
+              "images": {
+                "images": [
+                  {
+                    "id": 1,
+                    "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Resource-Person-Dr.Karthik-Rengarajan-addresses-to-Students-related-to-Transform-Innovative-Ideas-into-IT-Startups-on-24-06-2025-1024x377.png",
+                    "alt": "Karpagam Academy of Higher Education | best b com accounting and finance colleges in coimbatore"
+                  }
+                ]
+              }
+            },
+            {
+              "title": "",
+              "content": [
+                "Resource Person Dr.M.Balamurugan addresses to Students related to Recent Innovations in Data Science and Data Analytics on 28th July 2025."
+              ],
+              "images": {
+                "images": [
+                  {
+                    "id": 1,
+                    "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Resource-Person-Dr.M.Balamurugan-addresses-to-Students-related-to-Recent-Innovations-in-Data-Science-and-Data-Analytics-on-28th-July-2025-1024x356.png",
+                    "alt": "Karpagam Academy of Higher Education | best b com accounting and finance colleges in coimbatore"
+                  }
+                ]
+              }
+            },
+            {
+              "title": "",
+              "content": [
+                "Resource Person Dr.M.Balamurugan addresses to Students related to Recent Innovations in Data Science and Data Analytics on 28th July 2025."
+              ],
+              "images": {
+                "images": [
+                  {
+                    "id": 1,
+                    "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Resource-Person-Dr.M.Balamurugan-addresses-to-Students-related-to-Recent-Innovations-in-Data-Science-and-Data-Analytics-on-28th-July-2025-1024x356.png",
+                    "alt": "Karpagam Academy of Higher Education | best b com accounting and finance colleges in coimbatore"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        
+        {
+          "title": "Seminar",
+          "content": [
+            "Two-day seminar on “Innovation in Cloud Computing: Transforming the Future of Digital Infrastructure” on 18.09.2025 and 19.09.2025.",
+            "Seminar on “UPSC: A Gateway to Government Jobs” on 04.08.2025.",
+            "Seminar on “Design Thinking: A Social Perspective” on 31.07.2025."
+          ]
+        },
+        {
+          "title": "Others",
+          "content": [
+            "Two days’ Workshop on “Design of Cloud Infrastructure and Optimization” on 20.11.2025 and 21.11.2025.",
+            "Association Inauguration on 19.08.2025.",
+            "Seminar on “UPSC: A Gateway to Government Jobs” on 04.08.2025.",
+            "Seminar on “Design Thinking: A Social Perspective” on 31.07.2025."
+          ]
+        }
+      ]
+    }
+  ]
+}
