@@ -129,19 +129,19 @@ const Footer = () => {
         {/* Top Links */}
         <div className="row py-4">
           <div className="col-12 d-flex flex-wrap gap-3 gap-md-5 flex-column flex-md-row text-start">
-            <a href="#" className="iitm-footer-link">
+            <a href="/kahe//parents/" className="iitm-footer-link">
               Parents
             </a>
 
-            <a href="#" className="iitm-footer-link">
+            <a href="/kahe/students/" className="iitm-footer-link">
               Students
             </a>
 
-            <a href="#" className="iitm-footer-link">
+            <a href="/kahe/scholarship/" className="iitm-footer-link">
               Scholarship
             </a>
 
-            <a href="#" className="iitm-footer-link">
+            <a href="/kahe/bus-schedule/" className="iitm-footer-link">
               Bus Schedule
             </a>
           </div>
@@ -156,22 +156,22 @@ const Footer = () => {
           <div className="col-12 col-md-2 mb-2">
             <ul className="iitm-footer-list">
               <li>
-                <a href="#" className="iitm-footer-link">
+                <a href="/kahe/admissions" className="iitm-footer-link">
                   Admissions
                 </a>
               </li>
               <li>
-                <a href="#" className="iitm-footer-link">
+                <a href="https://kahedu.edu.in/blog/" className="iitm-footer-link" target="_blank">
                   Blog
                 </a>
               </li>
               <li>
-                <a href="#" className="iitm-footer-link">
+                <a href="/kahe/campus-life" className="iitm-footer-link">
                   Campus Life
                 </a>
               </li>
               <li>
-                <a href="#" className="iitm-footer-link">
+                <a href="https://kahedu.edu.in/n/wp-content/uploads/2020/05/Code-of-Conduct.pdf" className="iitm-footer-link" target="_blank">
                   Code of Conduct
                 </a>
               </li>
@@ -181,22 +181,22 @@ const Footer = () => {
           <div className="col-12 col-md-2 mb-2">
             <ul className="iitm-footer-list">
               <li>
-                <a href="#" className="iitm-footer-link">
+                <a href="/kahe/research/center-of-excellence/" className="iitm-footer-link">
                   Centre of Excellence
                 </a>
               </li>
               <li>
-                <a href="#" className="iitm-footer-link">
+                <a href="/kahe/academics/" className="iitm-footer-link">
                   Departments
                 </a>
               </li>
               <li>
-                <a href="#" className="iitm-footer-link">
+                <a href="/kahe/admissions/downloads/" className="iitm-footer-link">
                   Downloads
                 </a>
               </li>
               <li>
-                <a href="#" className="iitm-footer-link">
+                <a href="/kahe/administration/iqac/" className="iitm-footer-link">
                   IQAC Cell
                 </a>
               </li>
@@ -206,23 +206,23 @@ const Footer = () => {
           <div className="col-12 col-md-2 mb-2">
             <ul className="iitm-footer-list">
               <li>
-                <a href="#" className="iitm-footer-link">
+                <a href="https://karpagampublications.com/" className="iitm-footer-link" target="_blank">
                   Journals
                 </a>
               </li>
 
               <li>
-                <a href="#" className="iitm-footer-link">
+                <a href="/kahe/kahe-media-centre-studio-360/" className="iitm-footer-link">
                   KAHE Media Centre - Studio 360°
                 </a>
               </li>
               <li>
-                <a href="#" className="iitm-footer-link">
+                <a href="https://kahedu.edu.in/n/wp-content/uploads/2023/03/Academic-Bank-of-Credit-Cell.pdf" className="iitm-footer-link" target="_blank">
                   Academic Bank of Credit
                 </a>
               </li>
               <li>
-                <a href="#" className="iitm-footer-link">
+                <a href="https://karpagam.com/fpdf/kahe/ariia/mobile/index.html" className="iitm-footer-link" target="_blank">
                   NIRF Innovation ranking 2023 - ARIIA
                 </a>
               </li>
@@ -232,17 +232,17 @@ const Footer = () => {
           <div className="col-12 col-md-2 mb-2">
             <ul className="iitm-footer-list">
               <li>
-                <a href="#" className="iitm-footer-link">
+                <a href="/kahe/academics/library/" className="iitm-footer-link">
                   Library
                 </a>
               </li>
               <li>
-                <a href="#" className="iitm-footer-link">
+                <a href="/kahe/academics/library/learning-management-system-lms/" className="iitm-footer-link">
                   Learning Management System (LMS)
                 </a>
               </li>
               <li>
-                <a href="#" className="iitm-footer-link">
+                <a href="/kahe/academics/reports/" className="iitm-footer-link">
                   Mandatory Disclosure
                 </a>
               </li>
@@ -252,17 +252,17 @@ const Footer = () => {
           <div className="col-12 col-md-2 mb-2">
             <ul className="iitm-footer-list">
               <li>
-                <a href="#" className="iitm-footer-link">
+                <a href="/kahe/kahe-media-centre-studio-360/" className="iitm-footer-link">
                   Media Centre
                 </a>
               </li>
               <li>
-                <a href="#" className="iitm-footer-link">
+                <a href="https://kaherdb.in/" className="iitm-footer-link" target="_blank">
                   Publications
                 </a>
               </li>
               <li>
-                <a href="#" className="iitm-footer-link">
+                <a href="https://kaherdb.in/" className="iitm-footer-link" target="_blank">
                   Research database
                 </a>
               </li>
@@ -272,17 +272,17 @@ const Footer = () => {
           <div className="col-12 col-md-2 mb-2">
             <ul className="iitm-footer-list">
               <li>
-                <a href="#" className="iitm-footer-link">
+                <a href="/kahe/academics/regulations/" className="iitm-footer-link">
                   Rules & Regulations
                 </a>
               </li>
               <li>
-                <a href="#" className="iitm-footer-link">
+                <a href="https://kahedu.edu.in/n/wp-content/uploads/2022/11/skill-development-center.pdf" className="iitm-footer-link" target="_blank">
                   Skill Development Centre
                 </a>
               </li>
               <li>
-                <a href="#" className="iitm-footer-link">
+                <a href="https://kahedu.edu.in/n/wp-content/uploads/2025/08/AICTE-IDEA-Tender-Document_KAHE_30.07-2025.pdf" className="iitm-footer-link" target="_blank">
                   KAHE AICTE Idea Lab
                 </a>
               </li>
@@ -313,112 +313,112 @@ const Footer = () => {
                   <div className="col-12 mb-3">
                     <ul className="iitm-footer-list text-start">
                       <li>
-                        <a className="iitm-footer-link" href="#">
+                        <a className="iitm-footer-link" href="/kahe/admissions">
                           Admissions
                         </a>
                       </li>
                       <li>
-                        <a className="iitm-footer-link" href="#">
+                        <a className="iitm-footer-link" href="https://kahedu.edu.in/blog/" target="_blank">
                           Blog
                         </a>
                       </li>
                       <li>
-                        <a className="iitm-footer-link" href="#">
+                        <a className="iitm-footer-link" href="/kahe/campus-life">
                           Campus Life
                         </a>
                       </li>
                       <li>
-                        <a className="iitm-footer-link" href="#">
+                        <a className="iitm-footer-link" href="https://kahedu.edu.in/n/wp-content/uploads/2020/05/Code-of-Conduct.pdf" target="_blank">
                           Code of Conduct
                         </a>
                       </li>
 
                       <li>
-                        <a className="iitm-footer-link" href="#">
+                        <a className="iitm-footer-link" href="/kahe/research/center-of-excellence/">
                           Centre of Excellence
                         </a>
                       </li>
                       <li>
-                        <a className="iitm-footer-link" href="#">
+                        <a className="iitm-footer-link" href="/kahe/academics/">
                           Departments
                         </a>
                       </li>
                       <li>
-                        <a className="iitm-footer-link" href="#">
+                        <a className="iitm-footer-link" href="/kahe/admissions/downloads/">
                           Downloads
                         </a>
                       </li>
                       <li>
-                        <a className="iitm-footer-link" href="#">
+                        <a className="iitm-footer-link" href="/kahe/administration/iqac/">
                           IQAC Cell
                         </a>
                       </li>
 
                       <li>
-                        <a className="iitm-footer-link" href="#">
+                        <a className="iitm-footer-link" href="https://karpagampublications.com/" target="_blank">
                           Journals
                         </a>
                       </li>
                       <li>
-                        <a className="iitm-footer-link" href="#">
+                        <a className="iitm-footer-link" href="/kahe/kahe-media-centre-studio-360/">
                           KAHE Media Centre - Studio 360°
                         </a>
                       </li>
                       <li>
-                        <a className="iitm-footer-link" href="#">
+                        <a className="iitm-footer-link" href="https://kahedu.edu.in/n/wp-content/uploads/2023/03/Academic-Bank-of-Credit-Cell.pdf" target="_blank">
                           Academic Bank of Credit
                         </a>
                       </li>
                       <li>
-                        <a className="iitm-footer-link" href="#">
+                        <a className="iitm-footer-link" href="https://karpagam.com/fpdf/kahe/ariia/mobile/index.html" target="_blank">
                           NIRF Innovation ranking 2023 - ARIIA
                         </a>
                       </li>
 
                       <li>
-                        <a className="iitm-footer-link" href="#">
+                        <a className="iitm-footer-link" href="/kahe/academics/library/">
                           Library
                         </a>
                       </li>
                       <li>
-                        <a className="iitm-footer-link" href="#">
+                        <a className="iitm-footer-link" href="/kahe/academics/library/learning-management-system-lms/">
                           Learning Management System (LMS)
                         </a>
                       </li>
                       <li>
-                        <a className="iitm-footer-link" href="#">
+                        <a className="iitm-footer-link" href="/kahe/academics/reports/">
                           Mandatory Disclosure
                         </a>
                       </li>
 
                       <li>
-                        <a className="iitm-footer-link" href="#">
+                        <a className="iitm-footer-link" href="/kahe/kahe-media-centre-studio-360/">
                           Media Centre
                         </a>
                       </li>
                       <li>
-                        <a className="iitm-footer-link" href="#">
+                        <a className="iitm-footer-link" href="https://kaherdb.in/" target="_blank">
                           Publications
                         </a>
                       </li>
                       <li>
-                        <a className="iitm-footer-link" href="#">
+                        <a className="iitm-footer-link" href="https://kaherdb.in/" target="_blank">
                           Research database
                         </a>
                       </li>
 
                       <li>
-                        <a className="iitm-footer-link" href="#">
+                        <a className="iitm-footer-link" href="/kahe/academics/regulations/">
                           Rules & Regulations
                         </a>
                       </li>
                       <li>
-                        <a className="iitm-footer-link" href="#">
+                        <a className="iitm-footer-link" href="https://kahedu.edu.in/n/wp-content/uploads/2022/11/skill-development-center.pdf" target="_blank">
                           Skill Development Centre
                         </a>
                       </li>
                       <li>
-                        <a className="iitm-footer-link" href="#">
+                        <a className="iitm-footer-link" href="https://kahedu.edu.in/n/wp-content/uploads/2025/08/AICTE-IDEA-Tender-Document_KAHE_30.07-2025.pdf" target="_blank">
                           KAHE AICTE Idea Lab
                         </a>
                       </li>
@@ -435,13 +435,13 @@ const Footer = () => {
         {/* Policy / Reports */}
         <div className="row py-4">
           <div className="col-12 d-flex flex-wrap gap-3 gap-md-5 flex-column flex-md-row text-start">
-            <a href="#" className="iitm-footer-link">
+            <a href="/kahe/tbi/" className="iitm-footer-link">
               Technology Business Incubator
             </a>
-            <a href="#" className="iitm-footer-link">
+            <a href="https://kahedu.edu.in/current-vacancies/" className="iitm-footer-link" target="_blank">
               Current Vacancies
             </a>
-            <a href="#" className="iitm-footer-link">
+            <a href="/kahe/https://karpagam.edu.in/Recruitment/#one" className="iitm-footer-link">
               Recruitment
             </a>
           </div>

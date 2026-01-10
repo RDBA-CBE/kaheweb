@@ -1,15 +1,14 @@
-import BreadCrumb from "@/components/00-Kahe/common-components/BreadCrumb";
+import DeptOfChemistry from "@/components/00-Kahe/AcademicsComponents/Arts/DeptOfChemistry.jsx";
 
 
 export const metadata = {
-  title: "About Us 01 - Online Courses & Education NEXTJS14 Template",
-  description: "Online Courses & Education NEXTJS14 Template",
+  title: "Best M Sc Chemistry Colleges in Coimbatore, Tamilnadu",
+  description: "KAHE is the best msc chemistry college in Coimbatore. Through experiential learning, we ensure our students are prepared professionally to achieve their passion.",
 };
 const page = () => {
   return (
     <>
-      <BreadCrumb  />
-      <h5>Dept of chemistry</h5>
+      <DeptOfChemistry/>
     </>
   );
 };

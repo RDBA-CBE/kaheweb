@@ -1,0 +1,903 @@
+{
+  "title": "Department of Chemistry",
+  "bannerCon": "The University of Wyoming welcomes students to experience a one-of-a-kind education in the heart of the Mountain West.",
+  "applyLink": "#",
+  "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+  "tabs": [
+    {
+      "id": "overview",
+      "label": "Overview"
+    },
+    {
+      "id": "programme",
+      "label": "Programme"
+    },
+    {
+      "id": "faculty",
+      "label": "Faculty"
+    },
+    {
+      "id": "research",
+      "label": "Research Facilities"
+    },
+    {
+      "id": "publications",
+      "label": "Publications"
+    },
+    {
+      "id": "gallery",
+      "label": "Gallery"
+    },
+    {
+      "id": "events",
+      "label": "Events"
+    }
+  ],
+  "tabContent": [
+    {
+      "tab": "Overview",
+      "items": [
+        {
+          "type": "overview",
+          "subTitle": "Overview",
+          "contents": "Department of Chemistry was established in 2008 at Karpagam Academy of Higher Education (KAHE). Our Department offers Postgraduate (M.Sc.) and Ph.D. Programmes. The main objective of the Department is to impart knowledge among the students in core areas of Chemistry. Apart from the core courses, knowledge about the latest trends in Chemistry including Green Chemistry, Medicinal Chemistry, Material Chemistry and Nanochemistry are also included in the regular curriculum. Further, our Department provides training to the Postgraduate students in the sophisticated instruments like UV-Visible, IR Spectrometer, Gas Chromatography, Computational Chemistry tools, Microwave Synthesizer, etc., to fit them to industries and to research organizations like CSIR, DAE, etc. Our Department has also tie-ups with various recognized international/national institutions, and industries for student projects, training and research activities.Department of Chemistry has talented and passionate faculty members whose research areas are Synthetic Organic Chemistry, Photochemistry, Electrochemistry, Advanced Functional Materials, Energy and Water Pollution Emendation. Our Department is equipped with Sophisticated instruments like HPLC, UV-Visible Spectrometer, FT-IR Spectrometer, Gas Chromatographic Analyzer, etc. Faculty members of our Department have been publishing research articles in various reputed journals of American Chemical Society, Royal Society of Chemistry, Wiley, Springer-Nature, and Elsevier etc.,Department of Chemistry established two Centre of Excellences namely, Advanced Battery Research Centre (ABRC) and Centre for Material Chemistry (CMC). ABRC equipped with Computer Controlled battery testers and offering test facilities as per International Standard such as IIS, EN, SAE and ICE. CMC equipped with Sophisticated equipment’s like Fluorescence Spectrophotometer, TG-DTA Thermal analyzer, DSC Thermal Analyzer, UV DRS Spectrophotometer, FT-IR Spectrometer (ATR), and Electrochemical workstation.The Department was supported by DST-TDT, Govt. of India and TNSCST, Govt. of Tamil Nadu through research grants of more than Rs. 81 lakhs.",
+          "image": "/images/others/video-07.jpg"
+        },
+        {
+          "type": "vision",
+          "subTitle": "Vision",
+          "src": "/images/Kahe/Innerpages/vision.png",
+          "content": [
+            "To promote, inspire and nurture the fundamentals of Chemistry through PG and Ph. D. courses offered for the students. The Department aspires to excel in chemical education, research and public outreach services."
+          ]
+        },
+        {
+          "type": "mission",
+          "subTitle": "Mission",
+          "src": "/images/Kahe/Innerpages/goal.png",
+          "content": [
+            "To offer the programs in Chemistry education and research.",
+            "To promote, inspire and nurture the fundamentals and advances of Chemistry through PG courses.",
+            "To transform budding Chemists into productive scientists, excellent teachers, entrepreneurs and innovative independent researchers by offering concept-theory-practical training.",
+            "To become a nationally recognized centre of Chemical sciences with a state of art research facilities"
+          ]
+        },
+        {
+          "type": "highlights",
+          "items": {
+            "title": "Highlights",
+            "src": "/images/Kahe/Innerpages/image-1.jpg",
+            "content": [
+              {
+                "icon": "rs-icon-book",
+                "value": "2008",
+                "label": "Established"
+              },
+              {
+                "icon": "rs-icon-book",
+                "value": "12",
+                "label": "Faculty"
+              },
+              {
+                "icon": "rs-icon-fund",
+                "value": "8",
+                "label": "Patents (Granted)"
+              },
+              {
+                "icon": "rs-icon-lab",
+                "value": "37",
+                "text": "Ph.D (Awarded)"
+              },
+              {
+                "icon": "rs-icon-complete",
+                "value": "472",
+                "text": "Publications (for past 5 years)"
+              },
+              {
+                "icon": "rs-icon-lab",
+                "value": "29",
+                "text": "Study Abroad (for past 5 years)"
+              },
+              {
+                "icon": "rs-icon-complete",
+                "value": "7",
+                "text": "Funded Projects (Completed)"
+              }
+            ]
+          }
+        },
+        {
+          "type": "hod",
+          "items": {
+            "content": [
+              {
+                "title1": "Head of the Department (HOD)",
+                "title": "Dr. A Thangamani ",
+                "caption": "Professor and Head",
+                "content": "Welcome to the Department of Chemistry, KAHE!Our Department at KAHE is highly active and enthusiastic in teaching and learning Chemistry and doing research in various fields of Chemistry. We are offering Post-Graduate (M.Sc.,) and Doctoral (Ph.D.,) Degree programs in Chemistry. Our courses and research projects create a vibrant learning environment to the students and leverage their knowledge, skills, and shape themselves to excel in their higher studies/careers.Our talented faculty members are actively involved in Chemistry research with diverse applications. Publishing research papers in reputed journals and patents clearly reveal the dedication of our Department.In short, our Department is constantly working with our vision – excelling in teaching and research, and addressing challenges facing society.",
+                "src": "/images/Kahe/team-13.png"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "tab": "Programme",
+      "programmes": {
+        "title": "Programmes",
+        "content": [
+          {
+            "key": "ug",
+            "title": "B.Sc. Programme",
+            "img": "/images/others/health-b-02.png",
+            "multiItems": [
+              {
+                "title": "Programme Offered",
+                "list": [
+                  "B.Sc. Chemistry"
+                ]
+              }
+            ],
+            "type": "programme"
+          },
+          {
+            "key": "pg",
+            "title": "M.Sc. Programme",
+            "img": "/images/others/health-b-02.png",
+            "multiItems": [
+              {
+                "title": "Programme Offered",
+                "list": [
+                  "M.Sc. Chemistry (Strength: 60)"
+                ]
+              }
+            ],
+            "type": "programme"
+          },
+          {
+            "key": "res",
+            "title": "Ph.D. Programme",
+            "img": "/images/others/health-b-02.png",
+            "multiItems": [
+              {
+                "title": "Programme Offered",
+                "list": [
+                  "Ph.D. Chemistry"
+                ]
+              }
+            ],
+            "type": "programme"
+          }
+        ]
+      },
+      "curriculum": {
+        "title": "Curriculum",
+        "content": [
+          {
+            "key": "bsc",
+            "title": "B.Sc. Chemistry",
+            "img": "/images/others/health-b-02.png",
+            "type": "curriculum",
+            "items": [
+              {
+                "year": "2020-2021",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/07/B.Sc-Chemistry-2020-2021.pdf"
+              },
+              {
+                "year": "2021-2022",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2021/11/B.Sc-Chemistry-Syllabus-2021-2022.pdf"
+              }
+            ]
+          },
+          {
+            "key": "msc",
+            "title": "M.Sc. Chemistry",
+            "img": "/images/others/health-b-02.png",
+            "type": "curriculum",
+            "items": [
+              {
+                "year": "2018-2019",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/M.SC-Chemistry-curriculum-Syllabus-2018-19.pdf"
+              },
+              {
+                "year": "2019-2020",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2021/01/2019-CHEM-PG-SYLLABUS.pdf"
+              },
+              {
+                "year": "2020-2021",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/07/M.Sc-Chemistry-2020-2021.pdf"
+              },
+              {
+                "year": "2021-2022",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2021/11/M.sc-Chemistry-Syllabus-2021-2022.pdf"
+              },
+              {
+                "year": "2022-2023",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2022/09/M.Sc-Chemistry-syllabus-14-04-22.pdf"
+              },
+              {
+                "year": "2023-2024",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2023/08/M.Sc-Chemistry-syllabus-2023.pdf"
+              },
+              {
+                "year": "2024-2025",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/01/M.Sc-Chemistry.pdf"
+              },
+              {
+                "year": "2025-2026",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/09/M.Sc-Chemistry-Syllabus-2025-2026.pdf"
+              }
+            ]
+          },
+          {
+            "key": "phd",
+            "title": "Ph.D. Chemistry",
+            "img": "/images/others/health-b-02.png",
+            "type": "curriculum",
+            "items": [
+              {
+                "year": "2020-2021",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/07/Ph.D.-Chemistry-2020-2021.pdf"
+              },
+              {
+                "year": "2021-2022",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2021/11/Ph.D-Chemistry-Syllabus-2021-2022.pdf"
+              },
+              {
+                "year": "2022-2023",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2022/09/Ph.D.-Chemistry-2022.pdf"
+              },
+              {
+                "year": "2023-2024",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2023/08/Ph.D.-Chemistry-2023.pdf"
+              },
+              {
+                "year": "2024-2025",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/01/Chemistry-Ph.D.pdf"
+              },
+              {
+                "year": "2025-2026",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/09/Ph.D-Chemistry.pdf"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "tab": "Faculty",
+      "slug": "department-of-chemistry",
+      "basic": {
+        "title": "Faculty",
+        "description": "Our faculty members are the major cause for our sustained capacity to impart vivacious and value-based education for the student community. This platform paves a pathway to our faculty members to progress their knowledge and to carry the observed concepts to the classrooms and laboratories, thus, serving the students in the department",
+        "src": "/images/Kahe/Innerpages/vission.jpg",
+        "buttonText": "View All Faculty"
+      },
+      "breadcrumbItems": [
+        {
+          "label": "Academics",
+          "href": "academics"
+        },
+        {
+          "label": "Arts, Science, Commerce and Management",
+          "href": "academics/arts-science-and-humanities/"
+        },
+        {
+          "label": "Department of Chemistry",
+          "href": "/academics/arts-science-and-humanities/department-of-chemistry"
+        },
+        {
+          "label": "Faculty"
+        }
+      ],
+      "faculty": [
+        {
+          "name": "Dr. S. Ravi",
+          "qualification": "M.Sc., Ph.D.",
+          "designation": "Registrar",
+          "email": "ravi.s@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Dr.-S.-Ravi-One-page-biodata-format-for-KAHE-website_2024.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr. A. Thangamani",
+          "qualification": "M.Sc., M.Phil., Ph.D.",
+          "designation": "Associate Professor & Head",
+          "email": "thangamani.a@kahedu.edu.in, chemistry.hod@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Dr.-A.-Thangamani-One-page-biodata-format-for-KAHE-website_2024.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr. S. P. Rajendran",
+          "qualification": "M.Sc., M.Phil., Ph.D.",
+          "designation": "Professor",
+          "email": "drrajendran.sp@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/bio-data/arts/chemistry/Dr.%20S.P.%20Rajendran.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr. D. Manoj",
+          "qualification": "M.Sc., Ph.D.",
+          "designation": "Associate Professor",
+          "email": "manoj.devaraj@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Dr.-D.-Manoj-One-page-biodata-format-for-KAHE-website_2024.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr. Manikandan Ayyar",
+          "qualification": "M.Sc., M.Phil., M.Ed., M.Phil., Ph.D., SET",
+          "designation": "Professor",
+          "email": "manikandan.ayyar@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Dr.-Manikandan-Ayyar-One-page-biodata-for-KAHE-website_2024.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr. R. Suresh",
+          "qualification": "M.Sc., Ph.D.",
+          "designation": "Associate Professor",
+          "email": "suresh.ranganathan@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Dr.-R.-Suresh-One-page-biodata-format-for-KAHE-website_2024.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr. K. Sundaram",
+          "qualification": "M.Sc., Ph.D.",
+          "designation": "Assistant Professor",
+          "email": "sundaram.k@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Dr.-K.-Sundaram-One-page-biodata-format-for-KAHE-website_2024.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr. B. Prabha",
+          "qualification": "M.Sc., M.Phil., Ph.D.",
+          "designation": "Assistant Professor",
+          "email": "prabha.b@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/bio-data/arts/chemistry/B.%20PRABHA.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Mr. R. Kumar",
+          "qualification": "M.Phil., Ph.D.",
+          "designation": "Assistant Professor",
+          "email": "kumar.r@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Dr.-R.-Kumar-One-page-biodata-format-for-KAHE-website_2024.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr. M. Gopalakrishnan",
+          "qualification": "M.Sc., B.Ed., Ph.D.",
+          "designation": "Assistant Professor",
+          "email": "gopalakrishnan.m@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/bio-data/arts/chemistry/M.%20Gopalakrishnan.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr. N. Kannapiran",
+          "qualification": "M.Phil., Ph.D.",
+          "designation": "Assistant Professor",
+          "email": "drkannapiran.n@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Dr.-N.-Kannapiran-One-page-biodata-format-for-KAHE-website_2024.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr. K. Saravana Mani",
+          "qualification": "M.Sc., M.Phil., Ph.D.",
+          "designation": "Assistant Professor",
+          "email": "drsaravanamani.k@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Dr.-K.-Saravana-Mani-One-page-biodata-format-for-KAHE-website_2024.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr. G. Kalaiarasi",
+          "qualification": "M.Sc., Ph.D.",
+          "designation": "Assistant Professor",
+          "email": "kalaiarasi.giriraj@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Dr.-G.-Kalaiarasi-One-page-biodata-format-for-KAHE-website_2024.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr. T. Bavani",
+          "qualification": "M.Sc., Ph.D.",
+          "designation": "Assistant Professor",
+          "email": "bavani.thirugnanam@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Dr.-T.-Bavani-One-page-biodata-format-for-KAHE-website_2024.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        },
+        {
+          "name": "Dr. K. Radhakrishnan",
+          "qualification": "Ph.D.",
+          "designation": "Assistant Professor",
+          "email": "radhakrishnan.kothalam@kahedu.edu.in",
+          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Dr.-K.-Radhakrishnan-One-page-biodata-format-for-KAHE-website_2024.pdf",
+          "profileText": "Click Here",
+          "src": "/images/team/team-11.png",
+          "iconSrc": "/images/Kahe/Innerpages/education.png",
+          "target": "_blank"
+        }
+      ]
+    },
+    {
+      "tab": "research",
+      "slug": "department-of-chemistry",
+      "title": "Gallery",
+      "breadcrumbItems": [
+        {
+          "label": "Academics",
+          "href": "academics"
+        },
+        {
+          "label": "Arts, Science, Commerce and Management",
+          "href": "academics/arts-science-and-humanities/"
+        },
+        {
+          "label": "Department of Chemistry",
+          "href": "/academics/arts-science-and-humanities/department-of-chemistry"
+        },
+        {
+          "label": "Gallery"
+        }
+      ],
+         
+          "images": [
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/UV-DRS-Spectrophotometer-Jasco-V-750-1024x768.jpg",
+              "alt": "UV-DRS Spectrophotometer-Jasco V-750",
+              "title": "UV-DRS Spectrophotometer-Jasco V-750"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/FT-IR-ATR-Spectrophotometer-Bruker-Alpha-1024x894.jpg",
+              "alt": "FT-IR (ATR)- Spectrophotometer-Bruker Alpha",
+              "title": "FT-IR (ATR)- Spectrophotometer-Bruker Alpha"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/TGADTA-Thermal-Analyzer-NETZCH-1024x931.jpg",
+              "alt": "TGA/DTA-Thermal Analyzer-NETZCH",
+              "title": "TGA/DTA-Thermal Analyzer-NETZCH"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/DSC-Thermal-Analyzer-NETZCH-1024x768.jpg",
+              "alt": "DSC-Thermal Analyzer-NETZCH",
+              "title": "DSC-Thermal Analyzer-NETZCH"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Laminar-Airflow-Chamber-1-1024x597.jpg",
+              "alt": "Fluorescence Spectrophotometer-Horiba",
+              "title": "Fluorescence Spectrophotometer-Horiba"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Electrochemical-Workstation-CH-Instruments-1024x768.jpg",
+              "alt": "Electrochemical Workstation-CH Instruments",
+              "title": "Electrochemical Workstation-CH Instruments"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Microwave-Synthesizer-CEM-Discover-Benchmate-768x1024.jpg",
+              "alt": "Microwave Synthesizer-CEM-Discover Benchmate",
+              "title": "Microwave Synthesizer-CEM-Discover Benchmate"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Multiple-Parameter-Testers-50-Ah18V-10Ah3V-10-Ah18V-1000-Ah18V-Jinfan-Power-768x1024.jpg",
+              "alt": "Multiple Parameter Testers-50 Ah/18V, 10Ah/3V, 10 Ah/18V & 1000 Ah/18V-Jinfan Power",
+              "title": "Multiple Parameter Testers-50 Ah/18V, 10Ah/3V, 10 Ah/18V & 1000 Ah/18V-Jinfan Power"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Photocatalytic-Reactor-Heber-714x1024.jpg",
+              "alt": "Photocatalytic Reactor-Heber",
+              "title": "Photocatalytic Reactor-Heber"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Rotary-Evaporator-Buchi-1024x929.jpg",
+              "alt": "Rotary Evaporator-Buchi",
+              "title": "Rotary Evaporator-Buchi"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Internal-Resistance-Hioki-1024x768.jpg",
+              "alt": "Internal Resistance-Hioki",
+               "title": "Internal Resistance-Hioki"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Electrochemical-Workstation-CH-Instruments-1024x768.jpg",
+              "alt": "Electrochemical Workstation-CH Instruments",
+               "title": "Internal Resistance-Hioki"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Hot-Water-Bath-1024x725.jpg",
+              "alt": "Hot Water Bath",
+              "title": "Hot Water Bath"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Cooling-Chamber-Max-Cool-Engineering-1024x977.jpg",
+              "alt": "Cooling Chamber-Max Cool Engineering",
+              "title": "Cooling Chamber-Max Cool Engineering"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Internal-Resistance-Hioki-1024x768.jpg",
+              "alt": "Vacuum Oven-Kemi",
+              "title": "Vacuum Oven-Kemi"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Electrochemical-Workstation-CH-Instruments-1024x768.jpg",
+              "alt": "Muffle Furnace",
+              "title": "Muffle Furnace"
+            }
+          ]
+        
+      
+    },
+   
+    
+    {
+      "tab": "Publications",
+      "slug": "department-of-chemistry",
+      "breadcrumbItems": [
+        {
+          "label": "Academics",
+          "href": "academics"
+        },
+        {
+          "label": "Arts, Science, Commerce and Management",
+          "href": "academics/arts-science-and-humanities/"
+        },
+        {
+          "label": "Department of Chemistry",
+          "href": "/academics/arts-science-and-humanities/department-of-chemistry"
+        },
+        {
+          "label": "Publication"
+        }
+      ],
+      "title": "Best Five Papers Faculty wise:",
+      "subtitle": "Paper Publications by the Faculty Members",
+      "content": [
+        {
+          "faculty_name": "Dr. S. Ravi",
+          "content": [
+            "Aathira Sujathan Nair et al., Lawsone Unleashed: A Comprehensive Review on Chemistry, Biosynthesis, and Therapeutic Potentials. Drug Design, Development and Therapy, 2024, 18, 3295–3313.",
+            "Nasir N. N. et al., Chemistry, biosynthesis and pharmacology of Streptonigrin. Drug Design, Development and Therapy, 2023, 1065–1078.",
+            "Fuloria S. et al., Chemistry, biosynthesis and pharmacology of Viniferin. Molecules, 2022, 27(16), 5072.",
+            "Velmurugan S., Ravi S., Capsanthin from Capsicum annum fruits. Journal of Food Biochemistry, 2022, 46(10), e14352.",
+            "Venkatareddy G., Ravi S., Cinnamoylated chloroquine analogues. European Journal of Medicinal Chemistry, 2017, 135, 382–391."
+          ]
+        },
+        {
+          "faculty_name": "Dr. A. Thangamani",
+          "content": [
+            "Johny Dathees T. et al., Dipodal unsymmetrical diuryl conjugated naphthalene chemosensor. Journal of Photochemistry & Photobiology A: Chemistry, 2025, 458, 115986.",
+            "Monisha S. et al., Spiro-oxindole derivatives as MDM2-p53 inhibitors. Molecular Diversity, 2024.",
+            "Ramalingam A. et al., Study of p-tolylpiperidin-4-one as anti-Parkinson agent. Materials Chemistry and Physics, 2024, 320, 129447.",
+            "Thangamani A. et al., Spectroscopic analysis of BFDP by DFT method. Heliyon, 2023, 9, e21315.",
+            "Thangamani A., Conformational study of N-nitroso piperidin-4-one oximes. Journal of Molecular Structure, 2020, 1221, 128810."
+          ]
+        },
+        {
+          "faculty_name": "Dr. K. Sundaram",
+          "content": [
+            "Sundaram K. et al., Dispiropyrrolidines grafted rhodanine derivatives. ChemistrySelect, 2024, 9(37), e202403489.",
+            "Narmatha G. et al., Silver induced self-assembly fluorescent chemosensor. Journal of Photochemistry and Photobiology A, 2024, 459, 116029.",
+            "Sampath S. et al., Binding mechanism of rhodanine derivative on BSA. Journal of Biomolecular Structure and Dynamics, 2024, 42(1), 475–482.",
+            "Immanuel David C. et al., Rhodanine based fluorometric monitoring of Ag(I) and iodide ions. Journal of Hazardous Materials, 2021, 419, 126449.",
+            "Celestina S. et al., Aldose reductase inhibitors from rhodanine derivatives. Bioorganic Chemistry, 2020, 97, 103640."
+          ]
+        },
+        {
+          "faculty_name": "Dr. R. Kumar",
+          "content": [
+            "Kumar R. et al., PET based fluorescent chemosensor for mercury ions. Arabian Journal of Chemistry, 2021, 14, 102911.",
+            "Kumar R., Ravi S., Bis-Rhodanine derivatives synthesis. Oriental Journal of Chemistry, 2020, 36, 1078–1087.",
+            "Kumar R. et al., Molecular docking studies against BCR-ABL. Journal of Pharmaceutical Sciences and Research, 2018, 10, 2069–2073.",
+            "Kanimozi K. et al., Phenothiazine chalcone derivatives as kinase inhibitors. Journal of Chemical and Pharmaceutical Sciences, 2016, 9, 1139.",
+            "Harshitharaj P. K. et al., Cytotoxic activity of Bis-Rhodanine derivative. Journal of Chemical and Pharmaceutical Sciences, 2016."
+          ]
+        },
+        {
+          "faculty_name": "Dr. N. Kannapiran",
+          "content": [
+            "Kannapiran N. et al., Poly(o-phenylenediamine)/MnCoFe2O4 nanocomposites. Applied Physics A, 2020, 126, 959.",
+            "Kannapiran N. et al., MnCuFe2O4 nanocomposites magnetic properties. Journal of Magnetism and Magnetic Materials, 2016, 401, 345–353.",
+            "Kannapiran N. et al., NiCoFe2O4 nanocomposites synthesis. Journal of Magnetism and Magnetic Materials, 2017, 423, 208–216.",
+            "Kannapiran N. et al., Ethanol sensing properties of nanocomposites. Journal of Materials Science: Electronics, 2018, 29, 3135–3145.",
+            "Muthusamy A. et al., Electrical and magnetic properties of polymer nanocomposites. Journal of Materials Science: Electronics, 2017, 28, 15754–15761."
+          ]
+        },
+        {
+          "faculty_name": "Dr. K. Saravana Mani",
+          "publications": [
+            "K. Mohammed Mydeen et al., Sustainable strategies for fully biobased polybenzoxazine composites from trifunctional thymol and biocarbons, ACS Sustainable Chemistry & Engineering, 2024, 12(6), 2225–2240. (Impact Factor: 7.1)",
+            "M. Santhamoorthy et al., Functionalized mesoporous silica nanoparticles for selective Fe3+ sensing, Methods, 2024, 223, 26–34. (Impact Factor: 4.1)",
+            "S. Anshmya et al., Coumarin hydrazone scaffold as fluorescent chemosensor for Ag+ ions, Spectrochimica Acta Part A, 2023, 303, 123215. (Impact Factor: 4.3)",
+            "S. Udhayakumar et al., Coumarin hemicyanine-based receptor for hydrazine sensing, Journal of Molecular Liquids, 2023, 385, 122442. (Impact Factor: 5.3)",
+            "K. Saravana Mani et al., Pyrrolo[3,4-c]pyrroles as SARS-CoV-2 Mpro inhibitors, Journal of Biomolecular Structure and Dynamics, 2023, 41(22), 13454–13465. (Impact Factor: 2.7)"
+          ]
+        },
+        {
+          "faculty_name": "Dr. G. Kalaiarasi",
+          "publications": [
+            "P. Dhivakar et al., Organoruthenium(II) complexes with andrographolide hydrazide derivatives, Applied Organometallic Chemistry, 2024, e7777. (Impact Factor: 3.7)",
+            "S. Athithyan et al., Cobalt–nickel oxide nanocomposites for antioxidant and anticancer applications, Inorganic Chemistry Communications, 2024, 164, 112384. (Impact Factor: 4.4)",
+            "P. Senthilrajkapoor et al., Terpyridine-based metal complexes and apoptosis investigation, Applied Organometallic Chemistry, 2023, 37(9), e7201. (Impact Factor: 3.7)",
+            "S. Dharani et al., Catalyst-free synthesis of thiosemicarbazones via oxidative coupling, ChemistrySelect, 2023, 8(36), e202302722. (Impact Factor: 3.3)",
+            "G. Kalaiarasi et al., Palladacycles biomolecular interaction and cytotoxicity studies, Dalton Transactions, 2019, 48(33), 12496–12511. (Impact Factor: 3.5)"
+          ]
+        },
+        {
+          "faculty_name": "Dr. R. Suresh",
+          "publications": [
+            "N. Jayaprakash et al., Mn-doped Fe2O3 nanostructures for photocatalytic applications, Journal of the Indian Chemical Society, 2024, 101, 101208. (Impact Factor: 3.2)",
+            "Shanthi Balasubramanian et al., Waste toner-derived porous iron oxide pigments, Environmental Research, 2023, 216, 114695. (Impact Factor: 7.7)",
+            "R. Suresh et al., CuO/g-C3N4 nanolayer composites for catalytic degradation, Chemosphere, 2023, 315, 137711. (Impact Factor: 8.1)",
+            "R. Suresh et al., Fe2O3/NiO nanocomposites for roxarsone sensing, New Journal of Chemistry, 2023, 47, 12806–12815. (Impact Factor: 2.7)",
+            "R. Udayabhaskar et al., Graphene–CuO nanocomposites: photon and phonon properties, Carbon, 2019, 152, 766–776. (Impact Factor: 10.5)"
+          ]
+        },
+        {
+          "faculty_name": "Dr. D. Manoj",
+          "publications": [
+            "D. Manoj et al., Ionic liquid functionalized graphene for biosensing, Biosensors and Bioelectronics, 2018, 103, 104–112. (Impact Factor: 10.7)",
+            "Q. Wang et al., Fe(II)-MOF-74 nanoarrays for water oxidation, Chemical Communications, 2019, 55, 11307–11310. (Impact Factor: 4.3)",
+            "H. Yuan et al., VS2@VC@N-doped carbon Pd nanostructures for sensing, ACS Applied Materials & Interfaces, 2020, 12, 15507–15516. (Impact Factor: 8.3)",
+            "M. Benjamin et al., Bioinspired cobalt-salophen complex for glucose sensing, Biosensors and Bioelectronics, 2017, 91, 380–387. (Impact Factor: 10.7)",
+            "Q. Wang et al., MOF-derived copper nitride/phosphide electrocatalysts, ChemElectroChem, 2020, 7, 289. (Impact Factor: 3.5)"
+          ]
+        },
+        {
+          "faculty_name": "Dr. Manikandan Ayyar",
+          "publications": [
+            "S. Saranya et al., Ni–Mn bimetallic selenide electrode for supercapacitors, Sustainable Energy Technologies and Assessments, 2023, 59, 103376. (Impact Factor: 7.1)",
+            "M. A. Almessiere et al., Hard/soft ferrite nanocomposites microwave properties, Materials Today Nano, 2022, 18, 100186. (Impact Factor: 8.2)",
+            "F. Hussain et al., Microalgae-based wastewater treatment review, Renewable & Sustainable Energy Reviews, 2021, 137, 110603. (Impact Factor: 16.3)",
+            "P. A. Vinosha et al., ZnFe2O4 nanocrystals photo-Fenton properties, Environmental Pollution, 2021, 272, 115983. (Impact Factor: 7.6)",
+            "Y. Slimani et al., Ni–Cu–Zn ferrite nanospinel synthesis, Ultrasonics Sonochemistry, 2019, 59, 104757. (Impact Factor: 8.7)"
+          ]
+        },
+        {
+          "faculty_name": "Dr. T. Bavani",
+          "publications": [
+            "T. Bavani et al., NiMoO4/Bi2O2CO3 photocatalytic memory effect, Optical Materials, 2024, 156, 115992. (Impact Factor: 3.8)",
+            "M. Settu et al., S-doped FeWO4 hybrid for electro-oxidation, Materials Science & Engineering B, 2024, 309, 117677. (Impact Factor: 3.9)",
+            "T. Bavani et al., WS2/BiOI S-scheme heterojunction photocatalyst, ChemPhotoChem, 2023, 7(8), e202300024. (Impact Factor: 3.0)",
+            "T. Bavani et al., BiOBr heterostructure for visible-light photocatalysis, Chemosphere, 2022, 297, 133993. (Impact Factor: 8.1)",
+            "K. Thiagarajan et al., NiMoO4/g-C3N4 nanofiber supercapacitors, Nanomaterials, 2020, 10(2), 392. (Impact Factor: 4.4)"
+          ]
+        },
+        {
+          "faculty_name": "Dr. K. Radhakrishnan",
+          "publications": [
+            "K. Radhakrishnan & P. S. Kumar, ssDNA structural switching biosensor for Pb2+ detection, Chemosphere, 2022, 287, 132163. (Impact Factor: 8.1)",
+            "K. Radhakrishnan et al., Review on pyrolysis of waste plastics to fuels, Fuel, 2023, 337, 126890. (Impact Factor: 6.7)",
+            "A. Ravikumar et al., MoS2 nanosheets for arsenic detection, Applied Surface Science, 2018, 449, 31–38. (Impact Factor: 6.3)",
+            "K. Radhakrishnan et al., Carbon dots@g-C3N4 fluorescence sensor, Journal of Photochemistry & Photobiology A, 2020, 389, 112204. (Impact Factor: 4.1)",
+            "K. Radhakrishnan et al., Nitrogen-doped carbon dots for copper detection, Luminescence, 2024, 39(8), e4849. (Impact Factor: 3.2)"
+          ]
+        }
+      ]
+    },
+    {
+      "tab": "Events",
+      "slug": "department-of-chemistry",
+      "breadcrumbItems": [
+        {
+          "label": "Academics",
+          "href": "academics"
+        },
+        {
+          "label": "Arts, Science, Commerce and Management",
+          "href": "academics/arts-science-and-humanities/"
+        },
+        {
+          "label": "Department of Chemistry",
+          "href": "/academics/arts-science-and-humanities/department-of-chemistry"
+        },
+        {
+          "label": "Events"
+        }
+      ],
+      "items": [
+        {
+          "title": "Conferences",
+          "content": [
+            "National Conference on Recent Trends in Green and Medicinal Chemistry on March 11, 2015.",
+            "National Conference on “Advances in Environmental, Synthetic and Medicinal Chemistry” on April 05, 2016 and April 06, 2016.",
+            "National Conference on “Drug Discovery from Medicinal and Aromatic Plants” (DDMAP-2017) on February 02, 2017 and February 03, 2017.",
+            "National Conference on “Emerging Trends in Material, Medicinal and Environmental Chemistry” on March 08, 2018 and March 09, 2018.",
+            "National Conference on “Exploring the New Dimensions and Discoveries in the Field of Chemistry” on March 07, 2019 and March 08, 2019.",
+            "National Conference on “Recent Trends in Medicinal, Materials, Environmental and Battery Research in Chemistry” on March 12 and March 13, 2020."
+          ]
+        },
+        {
+          "title": "Workshop",
+          "content": [
+            "Two-day Workshop on “Artificial Intelligence and Machine Learning for Modern Microbiology” held on 05.01.2026 and 06.01.2026.",
+            "One-day Workshop on “Fermentor Operation and Process Control” held on 27.09.2025.",
+            "Two-day Workshop on “Intellectual Property Rights (IPR) and Research Methods” held from 24.09.2025 to 25.09.2025.",
+            "Virtual workshop entitled “Development of bioproduct from single cell protein for entrepreneur development” held on 30.01.2021."
+          ]
+        },
+        {
+          "title": "Guest Lecture",
+          "content": [
+            "Guest Lecture on “Sustainable Waste Management through Microbial Interventions” held on 26.08.2025.",
+            "The “Louis Pasteur Endowment Lecture” delivered by Dr. N. Gopal on 29.01.2020."
+          ]
+        },
+        {
+          "title": "Faculty Development Programme",
+          "content": [
+            "Two-day Faculty Development Program on Contemporary and Advanced Research in Life Science on 04th & 05th June 2020."
+          ]
+        },
+        {
+          "title": "Webinar",
+          "content": [
+            "Virtual lab tour to the Micro Health Reference Laboratories (MHRL), Qatar, held on 17.12.2020.",
+            "Entrepreneur Development – Early to Rise webinar held on 30.06.2020."
+          ]
+        },
+        {
+          "title": "Orientation / Induction Programme / Other Activities",
+          "multiContent": [
+            {
+              "content": "Inauguration of Department Association “Microinnovata” on 01.08.2025"
+            }
+          ]
+        },
+        {
+          "title": "Others",
+          "content": [
+            "Career Guidance Programme on “Career guidance in GATE for Life Sciences” on 22.12.2025.",
+            "Two-day Faculty Development Program on “Harnessing Microbes for Sustainable Environmental Restoration” from 28.11.2025 to 29.11.2025."
+          ]
+        }
+      ]
+    },
+    {
+      "tab": "gallery",
+      "slug": "department-of-chemistry",
+      "title": "Gallery",
+      "breadcrumbItems": [
+        {
+          "label": "Academics",
+          "href": "academics"
+        },
+        {
+          "label": "Arts, Science, Commerce and Management",
+          "href": "academics/arts-science-and-humanities/"
+        },
+        {
+          "label": "Department of Chemistry",
+          "href": "/academics/arts-science-and-humanities/department-of-chemistry"
+        },
+        {
+          "label": "Gallery"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/1693536862176-1024x769.jpg",
+          "alt": "1693536862176"
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Background-photo-1024x768.jpg",
+          "alt": "Background photo"
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/DSC07515-1024x683.jpg",
+          "alt": "DSC07515"
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/GMC10122025_100901-1024x768.jpg",
+          "alt": "GMC10122025_100901"
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/IMG-20230721-WA0028-1-1024x769.jpg",
+          "alt": "IMG-20230721-WA0028 (1)"
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/IMG-20231018-WA0038-1024x769.jpg",
+          "alt": "IMG-20231018-WA0038"
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/IMG-20250128-WA0031-1024x461.jpg",
+          "alt": "IMG-20250128-WA0031"
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/IMG-20250304-WA0053-1024x682.jpg",
+          "alt": "IMG-20250304-WA0053"
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/IMG-20250304-WA0057-1024x682.jpg",
+          "alt": "IMG-20250304-WA0057"
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/IMG-20251210-WA0091-1024x768.jpg",
+          "alt": "IMG-20251210-WA0091"
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/WhatsApp-Image-2024-09-20-at-10.18.18-PM-3-1024x771.jpeg",
+          "alt": "WhatsApp Image 2024-09-20 at 10.18.18 PM (3)"
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-10-at-5.19.14-PM-576x1024.jpeg",
+          "alt": "WhatsApp Image 2025-12-10 at 5.19.14 PM"
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-10-at-5.19.16-PM-2-1024x768.jpeg",
+          "alt": "WhatsApp Image 2025-12-10 at 5.19.16 PM (2)"
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-10-at-5.19.17-PM-1-1024x768.jpeg",
+          "alt": "WhatsApp Image 2025-12-10 at 5.19.17 PM (1)"
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-10-at-5.19.18-PM-1024x768.jpeg",
+          "alt": "WhatsApp Image 2025-12-10 at 5.19.18 PM"
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-10-at-5.19.21-PM-1-1024x814.jpeg",
+          "alt": "WhatsApp Image 2025-12-10 at 5.19.21 PM (1)"
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-10-at-5.19.21-PM-2-966x1024.jpeg",
+          "alt": "WhatsApp Image 2025-12-10 at 5.19.21 PM (2)"
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-10-at-5.19.22-PM-1-1024x653.jpeg",
+          "alt": "WhatsApp Image 2025-12-10 at 5.19.22 PM (1)"
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-10-at-5.19.23-PM-2-1024x775.jpeg",
+          "alt": "WhatsApp Image 2025-12-10 at 5.19.23 PM (2)"
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-10-at-5.41.43-PM-1024x458.jpeg",
+          "alt": "WhatsApp Image 2025-12-10 at 5.41.43 PM"
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-10-at-5.41.58-PM-1024x458.jpeg",
+          "alt": "WhatsApp Image 2025-12-10 at 5.41.58 PM"
+        }
+      ]
+    }
+  ]
+}

@@ -9,6 +9,8 @@ const Gal_Pub_Event = ({
   galleryContent,
   laboratoryContent,
   placementContent,
+  researchFacilities,
+  
 }) => {
   const router = useRouter();
 
@@ -16,6 +18,12 @@ const Gal_Pub_Event = ({
     sessionStorage.setItem("galleryData", JSON.stringify(InfraGallery));
     sessionStorage.setItem("galleryUrl", window.location.href);
     router.push(`/kahe/gallery/${InfraGallery.slug}`);
+  };
+
+  const goToresearch = () => {
+    sessionStorage.setItem("galleryData", JSON.stringify(researchFacilities));
+    sessionStorage.setItem("galleryUrl", window.location.href);
+    router.push(`/kahe/gallery/${researchFacilities.slug}`);
   };
 
   const goToPublication = () => {
@@ -65,7 +73,7 @@ const Gal_Pub_Event = ({
                 <div className="inner">
                   <div className="thumbnail">
                     <Image
-                      src="/images/Kahe/Innerpages/infra-1.jpg"
+                      src="/images/Kahe/general/infrastructure-gallery.webp"
                       width={300}
                       height={300}
                       priority
@@ -74,6 +82,37 @@ const Gal_Pub_Event = ({
                   </div>
                   <div className="content">
                     <h5 className="title">Infrastructure Gallery</h5>
+
+                    <div className="read-more-btn">
+                      <span className="rbt-btn-link">
+                        View <i className="feather-arrow-right"></i>
+                      </span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          )}
+
+          {researchFacilities && (
+            <div
+              className="col-lg-4 col-md-6 col-sm-6 col-12"
+              onClick={goToresearch} // 👈 On click push to /events
+              style={{ cursor: "pointer" }} // 👈 To indicate clickable
+            >
+              <div className="rbt-cat-box rbt-cat-box-1 image-overlaping-content on-hover-content-visible">
+                <div className="inner">
+                  <div className="thumbnail">
+                    <Image
+                      src="/images/Kahe/general/research-facility.webp"
+                      width={300}
+                      height={300}
+                      priority
+                      alt="Icons Images"
+                    />
+                  </div>
+                  <div className="content">
+                    <h5 className="title">Research Facilities</h5>
 
                     <div className="read-more-btn">
                       <span className="rbt-btn-link">
@@ -97,7 +136,7 @@ const Gal_Pub_Event = ({
                 <div className="inner">
                   <div className="thumbnail">
                     <Image
-                      src="/images/Kahe/Innerpages/infra-1.jpg"
+                      src="/images/Kahe/general/publications.webp"
                       width={300}
                       height={300}
                       priority
@@ -129,7 +168,7 @@ const Gal_Pub_Event = ({
                 <div className="inner">
                   <div className="thumbnail">
                     <Image
-                      src="/images/Kahe/Innerpages/infra-1.jpg"
+                      src="/images/Kahe/general/events.webp"
                       width={300}
                       height={300}
                       priority

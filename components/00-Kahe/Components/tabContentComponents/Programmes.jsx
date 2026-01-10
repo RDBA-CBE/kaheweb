@@ -3,6 +3,7 @@
 import React, { useState, useEffect } from "react";
 import { useRouter } from "next/navigation";
 import { FirstLetterUp } from "@/utils/functions.utils";
+import Link from "next/link";
 
 const Programmes = ({ programmeContent }) => {
   const router = useRouter();
@@ -53,10 +54,49 @@ const Programmes = ({ programmeContent }) => {
                           </span>
                         </div>
                       )}
+
                       {item.desc && (
                         <p className=" text-white ps-5">
                           {FirstLetterUp(item.desc)}
                         </p>
+                      )}
+                      {item?.url && (
+                        <Link
+                          target={item?.target || "_blank"}
+                          className="read-more-btn mt-auto"
+                          href={item?.url || "#"}
+                        >
+                          <span className="rbt-btn-link px-5  text-white">
+                            {item?.btnText}{" "}
+                            <i className="feather-arrow-up-right"></i>
+                          </span>
+                        </Link>
+                      )}
+
+                      {item?.url2 && (
+                        <Link
+                          target={item?.target || "_blank"}
+                          className="read-more-btn mt-auto"
+                          href={item?.url2 || "#"}
+                        >
+                          <span className="rbt-btn-link px-5  text-white">
+                            {item?.btnText2}{" "}
+                            <i className="feather-arrow-up-right"></i>
+                          </span>
+                        </Link>
+                      )}
+
+                      {item?.url3 && (
+                        <Link
+                          target={item?.target || "_blank"}
+                          className="read-more-btn mt-auto"
+                          href={item?.url3 || "#"}
+                        >
+                          <span className="rbt-btn-link px-5  text-white">
+                            {item?.btnText3}{" "}
+                            <i className="feather-arrow-up-right"></i>
+                          </span>
+                        </Link>
                       )}
 
                       {item.list && (
@@ -85,7 +125,8 @@ const Programmes = ({ programmeContent }) => {
 
             {/* CURRICULUM SLIDER BUTTON */}
             {activeData.type === "curriculum" && (
-              <button style={{width: 'fit-content'}}
+              <button
+                style={{ width: "fit-content" }}
                 className="rbt-btn hover-icon-reverse mt-4"
                 onClick={() => setSidebarOpen(true)}
               >
@@ -157,7 +198,7 @@ const Programmes = ({ programmeContent }) => {
           </ul>
 
           <h3 className="main-sub-ti">
-            {FirstLetterUp(programmeContent.curriculum.title)}
+            {FirstLetterUp(programmeContent?.curriculum?.title)}
           </h3>
           <ul>
             {curriculumTabs.map((item) => (

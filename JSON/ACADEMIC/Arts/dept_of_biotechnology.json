@@ -290,8 +290,8 @@
       "slug": "department-of-biotechnology",
       "basic": {
         "title": "Faculty",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris",
-        "src": "/images/Kahe/Innerpages/vission.jpg",
+        "description": "The faculty of the Department of Biotechnology at Karpagam Academy of Higher Education (KAHE) consists of qualified academicians and research-oriented professionals with expertise in modern biological sciences. They are committed to delivering quality education, hands-on laboratory training, and research guidance, preparing students for careers in biotechnology, healthcare, research, and industry.",
+       "src": "/images/Kahe/academics/faculty.webp",
         "buttonText": "View All Faculty"
       },
 

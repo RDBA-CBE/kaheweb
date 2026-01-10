@@ -80,6 +80,18 @@ const Eventspage = ({ eventsContent }) => {
                                 }}
                               />
                             )}
+                            {item?.url && (
+                              <Link
+                                target={item?.target || "_blank"}
+                                className="read-more-btn mt-auto"
+                                href={item?.url || "#"}
+                              >
+                                <span className="rbt-btn-link px-5  ">
+                                  {item?.btnText}{" "}
+                                  <i className="feather-arrow-up-right"></i>
+                                </span>
+                              </Link>
+                            )}
                             {item?.content && (
                               <p className="pb-3">{item?.content}</p>
                             )}

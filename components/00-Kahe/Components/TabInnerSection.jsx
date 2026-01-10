@@ -54,6 +54,7 @@ const TabInnerSection = ({ tabSections, tabContent }) => {
   const contactContent = tabContent.find(
     (item) => item.tab == "contact"
   );
+   const researchFacilities = tabContent.find((item) => item.tab == "research");
 
   return (
     <>
@@ -125,6 +126,7 @@ const TabInnerSection = ({ tabSections, tabContent }) => {
             publicationsContent={publicationsContent && publicationsContent}
             eventsContent={eventsContent && eventsContent}
             galleryContent={galleryContent && galleryContent}
+            researchFacilities={researchFacilities && researchFacilities}
             laboratoryContent={laboratoryContent && laboratoryContent}
             placementContent={placementContent && placementContent}
           />
