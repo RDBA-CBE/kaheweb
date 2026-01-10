@@ -1,15 +1,15 @@
-import BreadCrumb from "@/components/00-Kahe/common-components/BreadCrumb";
-
+import DepartmentOfPhysics from "@/components/00-Kahe/AcademicsComponents/Arts/DepartmentOfPhysics";
 
 export const metadata = {
-  title: "About Us 01 - Online Courses & Education NEXTJS14 Template",
-  description: "Online Courses & Education NEXTJS14 Template",
+  title: "Top 10 Biotechnology Colleges in Coimbatore, Tamilnadu",
+  description: "Are you interested in Biotechnology? KAHE is one of the top 10 biotechnology colleges in Coimbatore. Join KAHE and learn from the top-class educators!",
 };
+
 const page = () => {
   return (
     <>
-      <BreadCrumb  />
-      <h5>Dept of bio tech</h5>
+     <DepartmentOfPhysics/>
+     
     </>
   );
 };

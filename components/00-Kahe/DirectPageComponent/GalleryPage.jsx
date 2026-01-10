@@ -4,7 +4,6 @@ import { useEffect, useState } from "react";
 import "venobox/dist/venobox.min.css";
 
 const GalleryPage = ({ content }) => {
-  console.log("Content", content);
 
   useEffect(() => {
     import("venobox/dist/venobox.min.js").then((venobox) => {
@@ -58,7 +57,7 @@ const GalleryPage = ({ content }) => {
           </div>
         </div>
         <div className="lab-container parent-gallery-container">
-          {content.images.map((item, i) => (
+          {content?.images?.map((item, i) => (
             <Link
               className="lab-item child-gallery-single"
               key={i}

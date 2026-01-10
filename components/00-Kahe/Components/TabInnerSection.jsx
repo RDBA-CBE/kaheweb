@@ -31,6 +31,8 @@ const TabInnerSection = ({ tabSections, tabContent }) => {
   );
   const eventsContent = tabContent.find((item) => item.tab == "Events");
 
+  const laboratoryContent = tabContent.find((item) => item.tab == "Laboratory");
+
   const InfraGallery = infrastructureContent?.items?.find(
     (item) => item.type == "gallery"
   );
@@ -39,7 +41,7 @@ const TabInnerSection = ({ tabSections, tabContent }) => {
 
   const patentsContent = tabContent.find((item) => item.tab == "patents");
 
-   const galleryContent = tabContent.find((item) => item.tab == "gallery");
+  const galleryContent = tabContent.find((item) => item.tab == "gallery");
 
   return (
     <>
@@ -48,7 +50,13 @@ const TabInnerSection = ({ tabSections, tabContent }) => {
           <TabMenu sections={tabSections} />
         </div>
 
-        {overviewContent && <Overview overviewContent={overviewContent} />}
+        {overviewContent && (
+          <Overview
+            overviewContent={overviewContent}
+            firstParaLimit={9999}
+            firstParaSplit={9999}
+          />
+        )}
 
         {programmeContent && (
           <div
@@ -105,6 +113,7 @@ const TabInnerSection = ({ tabSections, tabContent }) => {
             publicationsContent={publicationsContent && publicationsContent}
             eventsContent={eventsContent && eventsContent}
             galleryContent={galleryContent && galleryContent}
+            laboratoryContent={laboratoryContent && laboratoryContent}
           />
         </div>
 
