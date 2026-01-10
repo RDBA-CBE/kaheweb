@@ -108,6 +108,7 @@ const Eventspage = ({ eventsContent }) => {
                             {item?.table && <TableCom data={item?.table} />}
 
                             {item?.images && <ImageGrid data={item?.images} />}
+                            {}
                           </section>
                         ))}
 

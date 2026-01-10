@@ -22,7 +22,6 @@ const ImageGrid = ({ data }) => {
   }, []);
 
   console.log("data", data);
-  
 
   return (
     <div>
@@ -45,6 +44,11 @@ const ImageGrid = ({ data }) => {
                   />
                 </a>
               </div>
+              {item?.desc && (
+                <div className="py-4 px-3">
+                  <p>{item?.desc}</p>
+                </div>
+              )}
             </div>
           </div>
         ))}
