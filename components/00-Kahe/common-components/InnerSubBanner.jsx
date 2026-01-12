@@ -12,6 +12,7 @@ const InnerSubBanner = ({ data }) => {
           backgroundPosition: "top",
           display:"flex",
           alignItems:"center",
+          zIndex:"-1"
         }}
       ></div>
       <div className="mt-4">
@@ -19,7 +20,7 @@ const InnerSubBanner = ({ data }) => {
           <div className="uw-banner-header">
             <h2
               className="banner-ti"
-              style={{zIndex:"100"}}
+              
               dangerouslySetInnerHTML={{ __html: data?.title }}
             ></h2>
           </div>

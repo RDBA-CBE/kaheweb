@@ -29,6 +29,10 @@
       "label": "Department Highlight"
     },
     {
+      "id": "placements",
+      "label": "Placements"
+    },
+    {
       "id": "publications",
       "label": "Publications"
     },
@@ -570,6 +574,150 @@
         }
       ]
     },
+
+    {
+      "tab": "placements",
+      "slug": "department-of-computer-science",
+      "basic": {
+        "title": "Placement",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Temporibus architecto magnam, eius, labore vel enim eveniet officiis veritatis reiciendis expedita ab odit nobis, itaque aspernatur suscipit odio inventore consectetur autem",
+        "src": "/images/Kahe/Innerpages/vission.jpg",
+        "buttonText": "View All Faculty"
+      },
+      "breadcrumbItems": [
+        {
+          "label": "Academics",
+          "href": "academics"
+        },
+        {
+          "label": "Arts, Science, Commerce and Management",
+          "href": "academics/arts-science-and-humanities/"
+        },
+        {
+          "label": "Department of Computer Science",
+          "href": "/academics/arts-science-and-humanities/department-of-computer-science"
+        },
+        {
+          "label": "Placements"
+        }
+      ],
+      "tableContent": [
+        {
+          "title1": "OVERALL PLACEMENT DATA",
+          "subTitle": "B. Sc CS 2022 BATCH – 117 Offers / 242 Students"
+        },
+        {
+          "title": "LIST OF COMPANIES",
+          "subTitle": "B.Sc Computer Science",
+          "content": [
+            {
+              "head": [
+                {
+                  "id": "col1",
+                  "label": "Company"
+                },
+                {
+                  "id": "col2",
+                  "label": "Students Count"
+                }
+              ],
+              "data": [
+                {
+                  "col1": { "text": "TCS" },
+                  "col2": { "text": "36" }
+                },
+                {
+                  "col1": { "text": "ACCENTURE" },
+                  "col2": { "text": "21" }
+                },
+                {
+                  "col1": { "text": "KGIS" },
+                  "col2": { "text": "18" }
+                },
+                {
+                  "col1": { "text": "COGNIZENT" },
+                  "col2": { "text": "10" }
+                },
+                {
+                  "col1": { "text": "EY GLOBAL" },
+                  "col2": { "text": "9" }
+                },
+                {
+                  "col1": { "text": "ENVISION S/W" },
+                  "col2": { "text": "6" }
+                },
+                {
+                  "col1": { "text": "WIPRO" },
+                  "col2": { "text": "6" }
+                },
+                {
+                  "col1": { "text": "LTI MINDTREE" },
+                  "col2": { "text": "4" }
+                },
+                {
+                  "col1": { "text": "AR TECH" },
+                  "col2": { "text": "2" }
+                },
+                {
+                  "col1": { "text": "NEXT SYNC" },
+                  "col2": { "text": "2" }
+                },
+                {
+                  "col1": { "text": "DELOITTE" },
+                  "col2": { "text": "1" }
+                },
+                {
+                  "col1": { "text": "GEP" },
+                  "col2": { "text": "1" }
+                },
+                {
+                  "col1": { "text": "HEXAWARE" },
+                  "col2": { "text": "1" }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "INTERNSHIP (STIPEND)",
+          "content": [
+            {
+              "head": [
+                {
+                  "id": "col1",
+                  "label": "Institution / Company"
+                }
+              ],
+              "data": [
+                {
+                  "col1": { "text": "UiTM Cawangan Terengganu, Malaysia" }
+                },
+                {
+                  "col1": { "text": "National Chaung Cheng University, Taiwan" }
+                },
+                {
+                  "col1": { "text": "Kriya & Reeths, Coimbatore" }
+                },
+                {
+                  "col1": {
+                    "text": "VeePhoniex Compliance Pvt. Ltd, Coimbatore"
+                  }
+                },
+                {
+                  "col1": { "text": "GEP Solutions, Coimbatore" }
+                },
+                {
+                  "col1": { "text": "BrandMock, Coimbatore" }
+                },
+                {
+                  "col1": { "text": "EdVedha, Coimbatore" }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
     {
       "tab": "Faculty",
       "slug": "department-of-computer-science",
@@ -921,78 +1069,323 @@
       ],
       "title": "Paper Publications by the Faculty Members",
       "subtitle": "",
+
       "content": [
         {
-          "faculty_name": "Dr K DEVASENAPATHY",
-          "content": [
-            "Devasenapathy K. (2025). Sales Prediction Using LSTM and BiLSTM Models: A Deep Learning Approach for Time Series Forecasting. Journal of Wireless Mobile Networks, Ubiquitous Computing, and Dependable Applications, 16(3), 393–402.",
-            "Devasenapathy K. (2025). Detection of Confirmation Bias in Horoscope Texts Using Random Forest Classifier. International Journal of Applied Mathematics, 38(2S).",
-            "Devasenapathy K. (2025). Self-adaptive Transient Generalized Functional Regressive Cryptosystem Based Authentication for Secured Data Transmission in Personal Area Network. Journal of Theoretical and Applied Information Technology, 103(14), 5204–5215.",
-            "Devasenapathy K. (2024). Performance Comparison of Deep Learning Algorithm for Autism Spectrum Disorder Prediction. Communication and Applied Nonlinear Analysis, 32(1), 622–631.",
-            "Devasenapathy K. (2024). Beyond the Zodiac: Investigating Confirmation Bias in Newspaper Horoscopes via Machine Learning Techniques. Frontiers in Health Informatics, 13(3), 5673–5679."
+          "faculty_name": "JOURNAL & CONFERENCE PUBLICATIONS",
+          "multiContent": [
+            {
+              "contentList": [
+                "P.S. Soumya, S Mythili, Multi-Modality physiological signal analysis for driver cognitive distraction detection using Spectral Domain Reconstruction Graph Neural Network, Biomedical Signal Processing and Control, Volume 112, Part D, 2026, 108679, ISSN 1746-8094.",
+                "R. Ragul and S. Mythili, “Cyber Threat Attack Level Detection Using Machine Learning,” 2025 3rd International Conference on Intelligent Data Communication Technologies and Internet of Things (IDCIoT), Bengaluru, India, 2025, pp. 442-449, doi: 10.1109/IDCIOT64235.2025.10915055.",
+                "K. Kaleeswaran and Mythili. S, “Early Detection of Alzheimer using EEG, fMRI, and Graph Neural Networks,” 2025 3rd International Conference on Sustainable Computing and Data Communication Systems (ICSCDS), Erode, India, 2025, pp. 861-869, doi: 10.1109/ICSCDS65426.2025.11166765.",
+                "Ibraheem, Alameen Ibraheem Mohammed, and S. Mythili. “Ransomware Detection and Mitigation using Behavior-based Analysis.” 2025 3rd International Conference on Sustainable Computing and Data Communication Systems (ICSCDS). IEEE, 2025.",
+                "Soumya, P. S., and S. Mythili. “The Impact of ChatGPT on the Revolution of Educational Trends.” Applications, Challenges, and the Future of ChatGPT. IGI Global Scientific Publishing, 2024. 143-155.",
+                "Dr.S.Veni, “A Benchmark Study of 1D CNN, GRU, and TCT on Thyroid Disease Classification”, IEEE Xplore, July 2025.",
+                "Dr.S.Veni, “A Novel Approach for Breast Cancer Prediction Using Improved Gated Recurrent Unit”, Journal of Theoretical and Applied Information Technology, 1992-8645, May 2025.",
+                "Dr.S.Veni, “The Role of Emotional Factors in Shaping Online Shopping Behavior: A Comprehensive Analysis of Consumer Engagement and Decision-Making”, Journal of Information Systems Engineering and Management, 2468-4376, May 2025.",
+                "Dr.S.Veni, “An Effective Hybrid Outlier Selection Method for Breast Cancer Classification Using Machine Learning Algorithms”, Indian Journal of Science and Technology, ISSN:0974-6846, November 2024.",
+                "Dr.S.Veni, “Improving Deep Learning for Seizure Detection Using GAN With Cramer Distance and a Temporal Spatial-Frequency Loss Function”, International Journal on Recent and Innovation Trends in Computing and Communication, ISSN: 2361-8169, July 2023.",
+                "Mr.K.Yuvaraj “Optimized Horizontal and Vertical Dimension Selection using Hybrid Sampling and Quadratic Discriminant Analysis for Predicting Software Faults” International Journal of Engineering Trends and Technology (IJETT), Volume 73 Issue 6, P.No: 318-335, June 2025, ISSN: 2231–5381.",
+                "Mr.K.Yuvaraj “Feature Weight Based Fuzzy C-Means Clustering with Optimal Initialization for Software Fault Prediction” International Journal of Engineering Trends and Technology (IJETT), Volume 73 Issue 7, P.No: 280-292, July 2025, ISSN: 2231–5381.",
+                "Mr.K.Yuvaraj “Enhancing Student Credential Security: Integrating Hierarchical Merkle Trees with Multi-Factor Authentication in Blockchain” 2025 11th International Conference on Communication and Signal Processing (ICCSP), P.No.7-12, 29 July 2025, ISSN: 2836-1873.",
+                "Mr.K.Yuvaraj “Yolo Based Real-Time Object Detection for Vehicles” 2025 International Conference on Emerging Technologies in Engineering Applications (ICETEA), 11 August 2025, ISBN: 979-8-3315-1486-0.",
+                "Mr.K.Yuvaraj “AI-Driven XSS Vulnerability Scanner with Context-Aware Remediation for Web Application Security” 4th International Conference on Innovative Mechanisms for Industry Applications (ICIMIA-2025), P.No.1839-1845, 4 December 2025, ISBN: 979-8-3315-5386-9.",
+                "K. Kathirvel and Dr. S. Hemalatha “A Multi-Metric Trust Based Approach for Detecting Black Hole Attacks in Wireless Sensor Network using K-Means Clustering” Issue Vol.49 No.2 (2025).",
+                "K. Kathirvel and Archana K.S “Automated Skin Cancer Diagnosis: A Multi-Stage Deep Learning Approach for Malignancy Detection and Classification Using Dermoscopic Images” IEEE Xplore, 11 August 2025, DOI: 10.1109/ICETEA64585.2025.11100109.",
+                "K. Kathirvel and Dr. S. Hemalatha “Shielding Wireless Sensor Networks: Unveiling Denial-of-Service Attacks Through Trust and Isolation Forest” Journal of Computational Analysis and Applications, Vol.33 No.06 (2024), DOI: 10.48047/JoCAAA.33.6.680-695.",
+                "K.kathirvel and Dr.S. Hemalatha “An Efficient Cluster Head Selection Method For Enhanced Security and Energy Optimization in Wireless Sensor Networks” IEEE Xplore, DOI: 10.1109/ICSSAS64001.2024.10760570.",
+                "M. Anand Kumar, G. Manivasagam and K. Kathirvel “Enhancing the Prediction using Bagging Ensambler Classifier” IEEE Xplore, 10 April 2023, DOI: 10.1109/IITCEE57236.2023.10090921.",
+                "Vasanthakumar S, “Ensemble Machine Learning Algorithms for Fake News Detection”, ICSCDS-2025, IEEE Xplore, August 2025, DOI: 10.1109/ICSCDS65426.2025.11167668.",
+                "Vasanthakumar S, “Detecting Attacks in Shortest Path and Network Topology using Machine Learning Algorithms”, IJPREMS, Vol.05, Issue 07, pp: 1447-1452, July 2025.",
+                "Vasanthakumar S, “Hybrid Approach of Image Processing and Deep Learning Techniques for Coconut Tree Disease Prediction and Detection”, NCRRAC’24, pp: 372-379, December 2024.",
+                "Vasanthakumar S, “Dual Model Phishing Detector using Decision Tree and Random Forest”, NCRRAC’24, pp: 392-398, December 2024.",
+                "A.Vinitha, “IoT for Smart City Planning and Development”, IEEE Xplore, February 2025.",
+                "A.Vinitha, “A Paradigm Shift in Real-Time Detection: The YOLOv7 Approach to Trainable Freebie Optimization”, IEEE Xplore, April 2025.",
+                "A.Vinitha, “Paddy Leaf Disease Prediction using Artificial Intelligence and Machine Learning”, IEEE Xplore, December 2025.",
+                "Arunkumar N, Fingerprint Image Segmentation Using Machine Learning Techniques, ICETEA, 2025.",
+                "Ms.R.Nandhini, “Smart Farming using IoT and Machine Learning for Crop Monitoring and Disease Prediction”, IEEE Xplore, ICSCDS, August 2025.",
+                "Ms.R.Nandhini, “An Attention-Driven CNN Framework for Noise-Robust Image Denoising in Low-Light Environments”, ICESC-2025, September 2025.",
+                "Dr.A.Krishnaveni, “Phishing Attack Prediction using Several Machine Learning Techniques”, ICSES 2024, IEEE.",
+                "Dr.A.Krishnaveni, “Optimizing Glaucoma Detection using Graph Neural Networks and DBSCAN Clustering Techniques”, ICETCSMA’25, January 2025.",
+                "Dr.A.Krishnaveni, “Smart Animal Monitoring System for Farms using YOLO and OPENCV”, ICEARS 2025, IEEE.",
+                "Dr.A.Krishnaveni, “Analysis Study of Two Factor Authentication for Data Communication in Cloud”, IJIRE, March–April 2025.",
+                "Dr.A.Krishnaveni, “Factorizing Analysis of Two Factor Authentication Techniques for Rapid and Secure Communication”, Nanotechnology Perception, May–June 2024.",
+                "Mrs.K.Renuga, “Deep Learning Method for Parkinson Disease Prediction”, IEEE Xplore, September 2025.",
+                "Dr.M.M.Karthikeyan, “A SHAP-Enhanced Hybrid Stacked Ensemble Model Using XGBoost for Early Detection and Staging of Liver Cirrhosis”, IEEE Xplore, September 2025.",
+                "Dr.M.M.Karthikeyan, “A Comparative Study of Image Enhancement Methods: A Literature Review”, PUIRJ, July–September 2025.",
+                "Dr.M.M.Karthikeyan, “Review on Image Processing Techniques of Early Detection of Neurodegenerative Disorders”, PUIRP, July–August 2025.",
+                "Dr.M.M.Karthikeyan, “Building Resilient API Security Through a Five-Dimensional Framework for Data Breach Prevention in Modern Digital Ecosystems”, PUMRJ, June–July 2025.",
+                "Dr.M.M.Karthikeyan, “Optimizing Deep Image Super-Resolution Techniques for Low-Power Devices”, PUIIJ, May–June 2025.",
+                "K. Kavitha et al., “Cognitive AI for Precision Medicine: Integrative Drug Recommendation Through Intelligent Architectures”, ICCMC 2025, IEEE.",
+                "R. Sivakumar et al., “Building Smarter Systems with Advanced Computational Techniques”, ICICT 2025, IEEE.",
+                "N. Karthick, “Enhancing WSN Reliability: A Survey of Security, Privacy, And Routing Strategies”, PUIIJ, June 2025."
+              ]
+            }
           ]
         },
         {
-          "faculty_name": "Dr A FARITHA BANU",
-          "content": [
-            "Priyadharshini M., Faritha Banu A., et al. (2023). Hybrid Multi-Label Classification Model for Medical Applications Based on Adaptive Synthetic Data and Ensemble Learning. Sensors, 23(15).",
-            "Lavanya V.S., Faritha Banu A. (2023). Machine Learning with Ensemble Classifier Algorithm for Imbalanced Data Classification. Journal of Propulsion Technology, 44(5).",
-            "Faritha Banu A., Lavanya V.S. (2022). A Survey on Different Methods for Imbalanced Data Classification. Zeichen Journal, 8(10).",
-            "Faritha Banu A., Lavanya V.S. (2024). Imbalanced Data Classification Using Improved Grey Wolf Optimization and Enhanced ANN Algorithm. International Journal of Interdisciplinary Organizational Studies, 19(1).",
-            "Priyadharshini M., Faritha Banu A., et al. (2024). Advanced Cyberbullying Detection: A Hybrid Model Integrated with Naïve Bayes. ICEEICT 2024."
+          "faculty_name": "Dr.S.Mythili",
+          "multiContent": [
+            {
+              "content": "",
+
+              "contentList": [
+                "P.S. Soumya, S Mythili, Multi-Modality physiological signal analysis for driver cognitive distraction detection using Spectral Domain Reconstruction Graph Neural Network, Biomedical Signal Processing and Control, Volume 112, Part D, 2026, 108679, ISSN 1746-8094.",
+                "Mythili, S., and G. Karunakaran. “A Hybrid Approach for Content Filtering and Blacklisting in OSN.” 2024 2nd International Conference on Self Sustainable Artificial Intelligence Systems (ICSSAS). IEEE, 2024.",
+                "Aadhithiyan, S., and S. Mythili. “Improved Random Forest Algorithm for Parkinson’s Disease Classification.” 2024 Third International Conference on Electrical, Electronics, Information and Communication Technologies (ICEEICT). IEEE, 2024.",
+                "Mythili, S. “Smart Traffic System using IIoT and LiDAR.” Library of Progress-Library Science, Information Technology & Computer 44.3 (2024).",
+                "Ibraheem, Alameen Ibraheem Mohammed, and S. Mythili. “Ransomware Detection and Mitigation using Behavior-based Analysis.” 2025 3rd International Conference on Sustainable Computing and Data Communication Systems (ICSCDS). IEEE, 2025.",
+                "R. Ragul and S. Mythili, “Cyber Threat Attack Level Detection Using Machine Learning,” 2025 3rd International Conference on Intelligent Data Communication Technologies and Internet of Things (IDCIoT), Bengaluru, India, 2025, pp. 442-449, doi: 10.1109/IDCIOT64235.2025.10915055.",
+                "K. Kaleeswaran and Mythili. S, “Early Detection of Alzheimer using EEG, fMRI, and Graph Neural Networks,” 2025 3rd International Conference on Sustainable Computing and Data Communication Systems (ICSCDS), Erode, India, 2025, pp. 861-869, doi: 10.1109/ICSCDS65426.2025.11166765.",
+                "Ibraheem, Alameen Ibraheem Mohammed, and S. Mythili. “Ransomware Detection and Mitigation using Behavior-based Analysis.” 2025 3rd International Conference on Sustainable Computing and Data Communication Systems (ICSCDS). IEEE, 2025.",
+                "Soumya, P. S., and S. Mythili. “The Impact of ChatGPT on the Revolution of Educational Trends.” Applications, Challenges, and the Future of ChatGPT. IGI Global Scientific Publishing, 2024. 143-155."
+              ]
+            }
           ]
         },
         {
-          "faculty_name": "Mr K PRABHU",
-          "content": [
-            "Menge H.O., Prabu K. (2024). Machine Learning–Based Early Type 2 Diabetes Detection. ICERCS 2024, Karpagam Academy of Higher Education.",
-            "Prabu K., Ayyapparaj T. (2025). Decoding Liver Fibrosis: An AI-Powered Path to Early Cirrhosis Diagnosis. Karpagam Journal of Computer Science, 20(4)."
+          "faculty_name": "Dr.K.Kathirvel",
+          "multiContent": [
+            {
+              "content": "Dr.K.Kathirvel is working as an assistant professor in the department of computer science at Karpagam Academy of Higher Education,Coimbatore,Tamilnadu.He completed a M.Phil. degree in computer science from Karpagam University in 2009. He has 15 years and 7 month of teaching experience, and he has presented 15 papers at international conferences. His research area is networking (wireless sensor networking). He completed the Ph.D. at Karpagam Academy of Higher Education,Coimbatore",
+
+              "contentList": [
+                "K.kathirvel and Dr.S. Hemalatha “An Efficient Cluster Head Selection Method For Enhanced Security and Energy Optimization in Wireless Sensor Networks” Publication IEEE Xplore, DOI: 10.1109/ICSSAS64001.2024.10760570, ISBN: 976-8-3503-6841-3, Page no: 1652-1657, 1238-1243.",
+                "K. Kathirvel and Dr. S. Hemalatha “Shielding Wireless Sensor Networks: Unveiling Denial-of-Service Attacks Through Trust and Isolation Forest” Journal of Computational Analysis and Applications, Vol.33 No.06 (2024), DOI: 10.48047/JoCAAA.33.6.680-695, Page No 618-695.",
+                "K. Kathirvel and Dr. S. Hemalatha “A Multi-Metric Trust Based Approach for Detecting Black Hole Attacks in Wireless Sensor Network using K-Means Clustering” Issue Vol.49 No.2 (2025).",
+                "K. Kathirvel and Ragunandhan.S “Graphical Password Authentication” International Journal of Advanced Research in Computer and Communication Engineering, Vol.11, Issue 5, May 2022, DOI: 10.17148/JARCCE.2022.11582, Page No 440-446.",
+                "K. Kathirvel and Dr. S. Hemalatha “Analysis of Various Wireless Sensor Network (WSN) Methods Based on Cluster Head Selection and Routing” Karpagam JCS, Vol.17, Issue 3, May–June 2022, Page No 125-129.",
+                "K. Kathirvel and Archana K.S “Automated Skin Cancer Diagnosis: A Multi-Stage Deep Learning Approach for Malignancy Detection and Classification Using Dermoscopic Images” IEEE Xplore, 11 August 2025, DOI: 10.1109/ICETEA64585.2025.11100109.",
+                "M. Anand Kumar, G. Manivasagam and K. Kathirvel “Enhancing the Prediction using Bagging Ensambler Classifier” IEEE Xplore, 10 April 2023, DOI: 10.1109/IITCEE57236.2023.10090921, Page No 486-495."
+              ]
+            },
+
+            {
+              "title": "BOOK PUBLISHED",
+
+              "contentList": [
+                "1.K.Kathirvel and R.sasikala “Fundamentals of Wireless sensor Networks” First Edition , October-2023,LuLu Publisher ,ISBN :978-1-312-05870-5. BOOK CHAPTER"
+              ]
+            },
+            {
+              "title": "BOOK CHAPTER",
+
+              "contentList": [
+                "Jhonson. J. W and K. Kathirvel “Evaluating the Effectiveness of ChatGPT in language Translation and Cross- Lingual Communication” Application of Mathematics in Science and Technology: International conference on Mathematical Applications in Science and Technology, Page no 434-439 (Publicized in Scopus).",
+                "Dhigambaran.M and K. Kathirvel “IoT based Energy Management using bidirectional visitor counter technique” Application of Mathematics in Science and Technology: International conference on Mathematical Applications in Science and Technology, Page no 451-457 (Publicized in Scopus)."
+              ]
+            },
+            {
+              "title": "PATENT :1",
+              "content": "Design No: 400386-00 <br/> Date: 21/11/2023 Issue Date 15/01/2024 <br/>Title: Interactive Smart Board Display"
+            },
+
+            {
+              "title": "PATENT :2",
+              "content": "Application Number: 202211065243 <br/> Date of Filing: 14/11/2022 <br/> Title: A System for Industrial Emissions Monitoring Using the Internet of Thing & Cloud Technology <br/> Publication Date: 02/12/2022"
+            }
           ]
         },
         {
-          "faculty_name": "Ms P ARCHANA",
-          "content": [
-            "Sharmila S., Vignesh B., Archana P. Data Mining Techniques and Application. Journal of the Maharaja Sayajirao University of Baroda. ISSN: 0025-0422."
+          "faculty_name": "Vasanthakumar S",
+          "multiContent": [
+            {
+              "contentList": [
+                "Vasanthakumar S, “Ensemble Machine Learning Algorithms for Fake News Detection”, Proceedings of the 3rd International Conference on Sustainable Computing and Data Communication Systems (ICSCDS-2025), IEEE Xplore, August 2025, DOI: 10.1109/ICSCDS65426.2025.11167668",
+                "Vasanthakumar S, “Detecting Attacks in Shortest Path and Network Topology using Machine Learning Algorithms”, International Journal of Progressive Research in Engineering Management and Science (IJPREMS), Vol. 05, Issue 07, pp: 1447-1452, July 2025, e-ISSN: 2583-1062",
+                "Vasanthakumar S, “Hybrid Approach of Image Processing and Deep Learning Techniques for Coconut Tree Disease Prediction and Detection”, National Conference on Recent Research in Advanced Computing (NCRRAC’24), pp: 372-379, December 2024, ISBN: 978-93-341-5873-1",
+                "Vasanthakumar S, “Dual Model Phishing Detector using Decision Tree and Random Forest”, National Conference on Recent Research in Advanced Computing (NCRRAC’24), pp: 392-398, December 2024, ISBN: 978-93-341-5873-1"
+              ]
+            }
           ]
         },
         {
-          "faculty_name": "Mrs H GUNAVATHY",
-          "content": [
-            "Gunavathy H. (2019). A Survey: Data Security in Cloud Using Cryptography and Steganography. International Research Journal of Engineering and Technology, 6(5).",
-            "Gunavathy H. (2024). A Survey on Flying Ad-Hoc Network (FANET). Indian Journal of Natural Sciences, 15(85).",
-            "Gunavathy H. (2025). Dragonfly-Inspired OLSR Protocol for Interference-Aware Seamless Connectivity in FANET. Journal of Theoretical and Applied Information Technology, 103(13)."
+          "faculty_name": "Ms.A.Vinitha",
+          "multiContent": [
+            {
+              "title": "PAPER PUBLICATIONS",
+              "contentList": [
+                "Ms.A.Vinitha, “IoT for Smart City Planning and Development”, IEEE Xplore, February 2025.",
+                "Ms.A.Vinitha, “A Paradigm Shift in Real-Time Detection: The YOLOv7 Approach to Trainable Freebie Optimization”, IEEE Xplore, April 2025.",
+                "Ms.A.Vinitha, “Paddy Leaf Disease Prediction using Artificial Intelligence and Machine Learning”, IEEE Xplore, December 2025."
+              ]
+            },
+            {
+              "title": "BOOK PUBLICATIONS",
+              "contentList": [
+                "Ms.A.Vinitha, “Cryptography and Network Security”, Charulatha Publications, ISBN: 978-93-6260-625-9, January 2025.",
+                "Ms.A.Vinitha, “Artificial Intelligence and Robotics: Building Smarter Machines”, Leilani Katie Publications, ISBN: 978-93-6348-3636-2, August 2025."
+              ]
+            },
+            {
+              "title": "PATENT PUBLICATIONS",
+              "contentList": [
+                "Ms.A.Vinitha, “Artificial Intelligence Based USB Device for Managing Multiple Smart Devices”, CBR Number: 210170, CBR Date: 13/05/2025 10:52:41."
+              ]
+            }
           ]
         },
         {
-          "faculty_name": "Dr K LAKSHMIPRIYA",
-          "content": [
-            "Lakshmipriya K. (2024). Anomaly Detection Using Machine Learning and Deep Learning. Nanotechnology Perceptions, 20(S11).",
-            "Lakshmipriya K. (2025). Entropy-Based Cascaded Capsule Neural Network with Optimized LSTM. Journal of Theoretical and Applied Information Technology, 103(8).",
-            "Lakshmipriya K. (2025). X2_PDDVnet: Explainable AI-Based Dual Path Vision Transformer Network. Journal Européen des Systèmes Automatisés, 58(4).",
-            "Lakshmipriya K. (2025). Anomaly Detection in Complex Systems Using Improved Fish Swarm Optimizer. IEEE.",
-            "Lakshmipriya K. (2025). Privacy-Aware AI Approaches for Early Mental Health Detection. International Journal of Creative Research Thoughts, 13(7)."
+          "faculty_name": "Mr.N.ArunkumarY",
+          "multiContent": [
+            {
+              "title": "PAPER PUBLICATIONS",
+              "contentList": [
+                "Arunkumar N, Fingerprint Image Segmentation Using Machine Learning Techniques, International Conference on Emerging Technologies in Engineering Application (ICETEA), 2025."
+              ]
+            }
           ]
         },
         {
-          "faculty_name": "Mr G SANTHANAKRISHNAN",
-          "content": [
-            "Santhanakrishnan G., Kumaravel S. (2024). Generating Sign Language Using LSTM for Spoken Language Conversion. SSRN.",
-            "Ganesan V., Santhanakrishnan G., et al. (2025). Predictive Technologies Using AI and IoMT. ICIMIA 2025.",
-            "Santhanakrishnan G., Kumaravel S. Voice to Sign Language. IOSR Journal of Computer Engineering."
+          "faculty_name": "Ms. Nandhini R",
+          "multiContent": [
+            {
+              "contentList": [
+                "Ms.R.Nandhini, “Smart Farming using IoT and Machine Learning for Crop Monitoring and Disease Prediction”, IEEE Xplore, ICSCDS Conference 06-08, August 2025.",
+                "Ms.R.Nandhini, “An Attention-Driven CNN Framework for Noise-Robust Image Denoising in Low-Light Environments”, IEEE Xplore, 6th International Conference on Electronics and Sustainable Communication System (ICESC-2025), 10-12 September 2025."
+              ]
+            }
           ]
         },
         {
-          "faculty_name": "Mrs R MENAKA",
-          "content": [
-            "Menaka R., Padmavathi G. (2023). Selection of Robust Text-Based CAPTCHA Using TensorFlow Object Detection. ICDAM 2023, Springer LNNS."
+          "faculty_name": "Dr.A.Krishnaveni",
+          "contentList": [
+            "Dr.A.Krishnaveni, “Phishing Attack Prediction using Several Machine Learning Techniques”, 4th International Conference on Sustainable Expert Systems (ICSES), 15–17 October 2024, Pokhara University, Nepal, IEEE, ISBN: 979-8-3315-4035-7.",
+            "Dr.A.Krishnaveni, “Optimizing Glaucoma Detection using Graph Neural Networks and DBSCAN Clustering Techniques”, Two Day International Conference on Evolving Technologies in Computing Science for Multidisciplinary Applications (ICETCSMA’25), January 7–8, 2025, NPR Arts and Science College, Dindigul. ISBN: 978-93-6126-958-5.",
+            "Dr.A.Krishnaveni, “Smart System Security Software”, International Conference on Multi-Agent Systems for Collaborative Intelligence (ICMSCI 2025), 20–22 January 2025, IEEE, Surya Engineering College, Erode. ISSN: 979-8-3315-0982-8/25.",
+            "Dr.A.Krishnaveni, “A Novel Approach to Glaucoma Detection using GNNs and DBSCAN”, 3rd International Conference on Intelligent Data Communication Technologies & Internet of Things (IDCIoT 2025), 5–7 February 2025, IEEE, REVA University, Bengaluru. ISSN: 979-8-3315-2754-9/25.",
+            "Dr.A.Krishnaveni, “Design of a Real-Time Crime Monitoring System using Machine Learning”, 3rd International Conference on Intelligent Data Communication Technologies & Internet of Things (IDCIoT 2025), 5–7 February 2025, IEEE, REVA University, Bengaluru. ISSN: 979-8-3315-2754-9/25.",
+            "Dr.A.Krishnaveni, “Smart Animal Monitoring System for Farms using YOLO and OPENCV”, 3rd International Conference on Electronics and Renewable Systems (ICEARS 2025), 11–13 February 2025, IEEE, St. Mother Theresa Engineering College, Tuticorin. ISSN: 979-8-3315-0967-5.",
+            "Dr.A.Krishnaveni, “Factorizing Analysis of Two Factor Authentication Techniques for Rapid and Secure Communication”, Nanotechnology Perception, Volume 20, Issue 07, May–June 2024, ISSN: 1660-6795.",
+            "Dr.A.Krishnaveni, “Analysis Study of Two Factor Authentication for Data Communication in Cloud”, International Journal of Innovative Research in Engineering, Volume 6, Issue 2, March–April 2025, ISSN: 2582-8746.",
+            "Dr.A.Krishnaveni, “Quantum Teleportation Integrated with Fifth Generation (5G)”, 10th National Conference on Recent Trends and Advances in the Field of Information and Technology (NCIT’25), 7 March 2025, Karpagam Academy of Higher Education. ISBN: 978-93-49019-98-0.",
+            "Dr.A.Krishnaveni, “Early Detection of Lung Cancer Using Artificial Intelligence”, 10th National Conference on Recent Trends and Advances in the Field of Information and Technology (NCIT’25), 7 March 2025, Karpagam Academy of Higher Education. ISBN: 978-93-49019-98-0.",
+            "Dr.A.Krishnaveni, “Real-Time Multi-Factor Biometric Encryption for Secure and Scalable Authentication Systems”, 3rd International Conference on Sustainable Computing and Data Communication Systems (ICSCDS-2025), IEEE Xplore.",
+            "Dr.A.Krishnaveni, “Improved Intrusion Detection in Wireless Networks using Random Forest and LDA”, 3rd International Conference on Sustainable Computing and Data Communication Systems (ICSCDS-2025), IEEE Xplore.",
+            "Dr.A.Krishnaveni, “Hybrid ARIMA-LSTM Model for Real-Time Influenza Monitoring and Early Prediction”, 9th International Conference on Inventive Systems and Control (ICISC-2025), IEEE Xplore.",
+            "Dr.A.Krishnaveni, “A Hybrid GAN-CNN Approach for Predicting Tomato Leaf Diseases”, 9th International Conference on Inventive Systems and Control (ICISC-2025), IEEE Xplore.",
+            "Dr.A.Krishnaveni, “Securing Blockchain from Double-Spending: A Study of Attacks and Preventive Techniques”, 3rd International Conference on Sustainable Computing and Smart Systems (ICSCSS 2025), IEEE Xplore."
           ]
         },
+        {
+          "faculty_name": "Dr.M.M.Karthikeyan",
+          "multiContent": [
+            {
+              "title": "PAPER PUBLICATIONS",
+              "contentList": [
+                "Dr.M.M.Karthikeyan, “A SHAP-Enhanced Hybrid Stacked Ensemble Model Using XGBoost for Early Detection and Staging of Liver Cirrhosis”, IEEE Xplore, September 2025.",
+                "Dr.M.M.Karthikeyan, “A Comparative Study of Image Enhancement Methods: A Literature Review”, Partners Universal International Research Journal (PUIRJ), Volume 04, Issue 03, July–September 2025, ISSN: 2583-5602.",
+                "Dr.M.M.Karthikeyan, “Review on Image Processing Techniques of Early Detection of Neurodegenerative Disorders”, Partners Universal Innovative Research Publication (PUIRP), Volume 03, Issue 04, July–August 2025, ISSN: 3048-586X.",
+                "Dr.M.M.Karthikeyan, “Building Resilient API Security Through a Five-Dimensional Framework for Data Breach Prevention in Modern Digital Ecosystems”, Partners Universal Multidisciplinary Research Journal (PUMRJ), Volume 02, Issue 04, June–July 2025.",
+                "Dr.M.M.Karthikeyan, “Optimizing Deep Image Super-Resolution Techniques for Low-Power Devices”, Partners Universal International Innovation Journal (PUIIJ), Volume 03, Issue 03, May–June 2025, ISSN: 2583-9675.",
+                "Dr.M.M.Karthikeyan, “Boomerang Careers: The Evolution of Professional Mobility and Strategic Job Transitions in the Post-Resignation Era”, Partners Universal International Innovation Journal (PUIIJ), Volume 03, Issue 03, May–June 2025, ISSN: 2583-9675.",
+                "Dr.M.M.Karthikeyan, “The English Paradigm: Natural Language Programming as the Future of Software Development”, Partners Universal International Innovation Journal (PUIIJ), Volume 02, Issue 03, May 2025.",
+                "Dr.M.M.Karthikeyan, “Enhancing Mobile Network Security Through Blockchain Technology: A Zero Trust Approach Utilizing PoW, PoS, and BFT Algorithms”, IEEE Xplore, February 2025.",
+                "Dr.M.M.Karthikeyan, “The Future of Employment: Exploring Robotics and AI in the Workplace”, Partners Universal International Innovation Journal (PUIIJ), Volume 03, Issue 01, January–February 2025.",
+                "Dr.M.M.Karthikeyan, “Future of Work Trends: Key Insights for 2025”, Partners Universal Multidisciplinary Research Journal (PUMRJ), Volume 02, Issue 01, December 2024–January 2025.",
+                "Dr.M.M.Karthikeyan, “The Emotional Connection: Exploring What Makes a Great Teacher”, Partners Universal Multidisciplinary Research Journal (PUMRJ), Volume 01, Issue 03, August–September 2024.",
+                "Dr.M.M.Karthikeyan, “Reclaiming Our Minds: Mitigating the Negative Impacts of Excessive Doomscrolling”, Partners Universal Multidisciplinary Research Journal (PUMRJ), Volume 01, Issue 03, August–September 2024."
+              ]
+            },
+            {
+              "title": "BOOK PUBLICATIONS",
+              "contentList": [
+                "Dr.M.M.Karthikeyan, “Cyber Security Essentials”, Leilani Katie Publications, 2025.",
+                "Dr.M.M.Karthikeyan, “Securing the Internet of Things”, Leilani Katie Publications, 2025.",
+                "Dr.M.M.Karthikeyan, “An Introduction to ML, DL and Natural Language Processing”, Leilani Katie Publications, 2025.",
+                "Dr.M.M.Karthikeyan, “Ethics and Social Implications of AI”, Leilani Katie Publications, 2025."
+              ]
+            }
+          ]
+        },
+
+        {
+          "faculty_name": "Dr.M.Sivaraman",
+          "multiContent": [
+            {
+              "title": "PAPER PUBLICATIONS",
+              "contentList": [
+                "Dr.A.Krishnaveni, “Phishing Attack Prediction using Several Machine Learning Techniques”, 4th International Conference on Sustainable Expert Systems (ICSES), 15–17 October 2024, Pokhara University, Nepal, IEEE, ISBN: 979-8-3315-4035-7.",
+                "Dr.A.Krishnaveni, “Optimizing Glaucoma Detection using Graph Neural Networks and DBSCAN Clustering Techniques”, Two Day International Conference on Evolving Technologies in Computing Science for Multidisciplinary Applications (ICETCSMA’25), January 7–8, 2025, NPR Arts and Science College, Dindigul. ISBN: 978-93-6126-958-5.",
+                "Dr.A.Krishnaveni, “Smart System Security Software”, International Conference on Multi-Agent Systems for Collaborative Intelligence (ICMSCI 2025), 20–22 January 2025, IEEE, Surya Engineering College, Erode. ISSN: 979-8-3315-0982-8/25.",
+                "Dr.A.Krishnaveni, “A Novel Approach to Glaucoma Detection using GNNs and DBSCAN”, 3rd International Conference on Intelligent Data Communication Technologies & Internet of Things (IDCIoT 2025), 5–7 February 2025, IEEE, REVA University, Bengaluru. ISSN: 979-8-3315-2754-9/25.",
+                "Dr.A.Krishnaveni, “Design of a Real-Time Crime Monitoring System using Machine Learning”, 3rd International Conference on Intelligent Data Communication Technologies & Internet of Things (IDCIoT 2025), 5–7 February 2025, IEEE, REVA University, Bengaluru. ISSN: 979-8-3315-2754-9/25.",
+                "Dr.A.Krishnaveni, “Smart Animal Monitoring System for Farms using YOLO and OPENCV”, 3rd International Conference on Electronics and Renewable Systems (ICEARS 2025), 11–13 February 2025, IEEE, St. Mother Theresa Engineering College, Tuticorin. ISSN: 979-8-3315-0967-5.",
+                "Dr.A.Krishnaveni, “Factorizing Analysis of Two Factor Authentication Techniques for Rapid and Secure Communication”, Nanotechnology Perception, Volume 20, Issue 07, May–June 2024, ISSN: 1660-6795.",
+                "Dr.A.Krishnaveni, “Analysis Study of Two Factor Authentication for Data Communication in Cloud”, International Journal of Innovative Research in Engineering, Volume 6, Issue 2, March–April 2025, ISSN: 2582-8746.",
+                "Dr.A.Krishnaveni, “Quantum Teleportation Integrated with Fifth Generation (5G)”, 10th National Conference on Recent Trends and Advances in the Field of Information and Technology (NCIT’25), 7 March 2025, Karpagam Academy of Higher Education. ISBN: 978-93-49019-98-0.",
+                "Dr.A.Krishnaveni, “Early Detection of Lung Cancer Using Artificial Intelligence”, 10th National Conference on Recent Trends and Advances in the Field of Information and Technology (NCIT’25), 7 March 2025, Karpagam Academy of Higher Education. ISBN: 978-93-49019-98-0.",
+                "Dr.A.Krishnaveni, “Real-Time Multi-Factor Biometric Encryption for Secure and Scalable Authentication Systems”, 3rd International Conference on Sustainable Computing and Data Communication Systems (ICSCDS-2025), IEEE Xplore.",
+                "Dr.A.Krishnaveni, “Improved Intrusion Detection in Wireless Networks using Random Forest and LDA”, 3rd International Conference on Sustainable Computing and Data Communication Systems (ICSCDS-2025), IEEE Xplore.",
+                "Dr.A.Krishnaveni, “Hybrid ARIMA-LSTM Model for Real-Time Influenza Monitoring and Early Prediction”, 9th International Conference on Inventive Systems and Control (ICISC-2025), IEEE Xplore.",
+                "Dr.A.Krishnaveni, “A Hybrid GAN-CNN Approach for Predicting Tomato Leaf Diseases”, 9th International Conference on Inventive Systems and Control (ICISC-2025), IEEE Xplore.",
+                "Dr.A.Krishnaveni, “Securing Blockchain from Double-Spending: A Study of Attacks and Preventive Techniques”, 3rd International Conference on Sustainable Computing and Smart Systems (ICSCSS 2025), IEEE Xplore."
+              ]
+            }
+          ]
+        },
+
         {
           "faculty_name": "Ms V KIRUTHIGA",
-          "content": [
-            "Kiruthiga V., Lakshmipriya K. (2025). Privacy-Aware AI Approaches for Early Mental Health Detection. IJCRT, 13(7).",
-            "Kiruthiga V., Lakshmipriya K. (2025). Privacy-Preserving Mental Health Prediction Using Federated Learning. IJRASET, 13(7).",
-            "Kiruthiga V., Lakshmipriya K. (2025). Multimodal vs Unimodal Learning for Mental Health Prediction. IJISRT, 10(10), 1021–1027."
+          "multiContent": [
+            {
+              "title": "PAPER PUBLICATIONS",
+              "contentList": [
+                "K. Kavitha, M. Sivaraman, Y. S. Reddy, N. Amsaveni, M. Umamaheswari, R. Ganga Devi, “Cognitive AI for Precision Medicine: Integrative Drug Recommendation Through Intelligent Architectures”, 2025 8th International Conference on Computing Methodologies and Communication (ICCMC), Year: 2025, IEEE.",
+                "R. Sivakumar, V. B. Kirubanand, V. Ganesan, M. Sivaraman, A. Kumarachelvan, G. Ulaganathan, “Building Smarter Systems with Advanced Computational Techniques”, 2025 International Conference on Inventive Computation Technologies (ICICT), Year: 2025, IEEE."
+              ]
+            }
+          ]
+        },
+        {
+          "faculty_name": "Mr.N.Karthick",
+          "multiContent": [
+            {
+              "contentList": [
+                "N. Karthick, “Enhancing WSN Reliability: A Survey of Security, Privacy, And Routing Strategies”, Partners Universal International Innovation Journal (PUIIJ), Volume: 03, Issue: 03, pp: 96 – 114, June 2025, ISSN: 2583-9675"
+              ]
+            },
+
+            {
+              "title": "N. Karthick Book publications",
+
+              "contentList": [
+                "N. Karthick, “Cryptography and Network Security Essentials”, Leilani Katie Publication and Press, August 2025, ISBN: 978-93-6348-760-4"
+              ]
+            }
+          ]
+        },
+        {
+          "faculty_name": "Mrs.K.Renuga",
+          "multiContent": [
+            {
+              "contentList": [
+                "Mrs.K.Renuga, “Deep Learning Method for Parkinson Disease Prediction”, IEEE Xplore, September – 2025"
+              ]
+            }
+          ]
+        },
+
+        {
+          "faculty_name": "BOOKS/BOOKCHAPTERS",
+          "multiContent": [
+            {
+              "contentList": [
+                "04 Book Chapters and 02 Books have been published."
+              ]
+            }
+          ]
+        },
+
+        {
+          "faculty_name": "PATENTS AND RESEARCH PAPERS PUBLISHED",
+          "multiContent": [
+            {
+              "contentList": [
+                "Research Publications – 36 (for the year 2024 – 2025)"
+              ]
+            }
           ]
         }
       ]

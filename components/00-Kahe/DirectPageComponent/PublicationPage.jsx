@@ -2,6 +2,8 @@ import { FirstLetterUp } from "@/utils/functions.utils";
 import Link from "next/link";
 import { useEffect, useState } from "react";
 import "venobox/dist/venobox.min.css";
+import TableCom from "../Components/PaginationTable";
+import ImageGrid from "../common-components/ImageGrid";
 
 const PublicationPage = ({ publicationsContent }) => {
   console.log("Content", publicationsContent);
@@ -112,11 +114,55 @@ const PublicationPage = ({ publicationsContent }) => {
                     backgroundColor: index % 2 === 0 ? "#f2fff9" : "#f2fff9",
                   }}
                 >
-                  <ol>
-                    {item.content?.map((pub, idx) => (
-                      <li key={idx}>{pub}</li>
-                    ))}
-                  </ol>
+                  {item?.multiContent ? (
+                    <>
+                      {item.multiContent.map((item, index) => (
+                        <section className="py-4" key={index}>
+                          {item?.title && (
+                            <h2
+                              className="main-ti text-black"
+                              dangerouslySetInnerHTML={{
+                                __html: FirstLetterUp(item?.title),
+                              }}
+                            />
+                          )}
+                          {item?.url && (
+                            <Link
+                              target={item?.target || "_blank"}
+                              className="read-more-btn mt-auto"
+                              href={item?.url || "#"}
+                            >
+                              <span className="rbt-btn-link px-5  ">
+                                {item?.btnText}{" "}
+                                <i className="feather-arrow-up-right"></i>
+                              </span>
+                            </Link>
+                          )}
+                          {item?.content && (
+                            <p className="pb-3" dangerouslySetInnerHTML={{__html:item?.content}}></p>
+                          )}
+
+                          {item?.contentList && (
+                            <ol>
+                              {item.contentList.map((pub, idx) => (
+                                <li key={idx}>{pub}</li>
+                              ))}
+                            </ol>
+                          )}
+
+                          {item?.table && <TableCom data={item?.table} />}
+                          {item?.images && <ImageGrid data={item?.images} />}
+                          {}
+                        </section>
+                      ))}
+                    </>
+                  ) : item?.content ? (
+                    <ol>
+                      {item.content.map((pub, idx) => (
+                        <li key={idx}>{pub}</li>
+                      ))}
+                    </ol>
+                  ) : null}
                 </div>
               </div>
             ))}

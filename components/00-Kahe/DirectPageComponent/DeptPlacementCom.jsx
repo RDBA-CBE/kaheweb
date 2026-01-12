@@ -41,15 +41,18 @@ const DeptPlacementCom = ({ data }) => {
         </div>
       </div>
 
-      {data?.tableContent && (
-        <div className="section-bg1">
-          <TableCom data={data?.tableContent} />
+      {data?.tableContent &&
+        data?.tableContent?.map((item, index) => (
+          <div key={index} className="section-bg1">
+            <TableCom data={item} />
+          </div>
+        ))}
+
+      {data?.cardSlider && (
+        <div className="rbt-testimonial-area  rbt-section-gapBottom">
+          <Testimonial isDesc={true} data={data?.cardSlider} />
         </div>
       )}
-
-      <div className="rbt-testimonial-area  rbt-section-gapBottom">
-        <Testimonial isDesc={true} data={data?.cardSlider}/>
-      </div>
     </div>
   );
 };

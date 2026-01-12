@@ -120,18 +120,14 @@
             "key": "ug",
             "title": "Under Graduate Programme",
             "img": "/images/others/health-b-02.png",
-            "items": [
-              "BCA Computer Applications (Strength: 150)"
-            ],
+            "items": ["BCA Computer Applications (Strength: 150)"],
             "type": "programme"
           },
           {
             "key": "pg",
             "title": "Post Graduate Programme",
             "img": "/images/others/health-b-02.png",
-            "items": [
-              "MCA Computer Applications (Strength: 120)"
-            ],
+            "items": ["MCA Computer Applications (Strength: 120)"],
             "type": "programme"
           }
         ]
@@ -587,227 +583,229 @@
           "href": "/academics/arts-science-and-humanities/department-of-computer-application"
         },
         {
-          "label": "Faculty"
+          "label": "Placements"
         }
       ],
-      "tableContent": {
-        "content": [
-          {
-            "head": [
-              {
-                "id": "col1",
-                "label": "Student Name"
-              },
-              {
-                "id": "col2",
-                "label": "Company"
-              }
-            ],
-            "data": [
-              {
-                "col1": {
-                  "text": "Apoorva A K"
+      "tableContent": [
+        {
+          "content": [
+            {
+              "head": [
+                {
+                  "id": "col1",
+                  "label": "Student Name"
                 },
-                "col2": {
-                  "text": "EY"
+                {
+                  "id": "col2",
+                  "label": "Company"
                 }
-              },
-              {
-                "col1": {
-                  "text": "Dharshini K"
+              ],
+              "data": [
+                {
+                  "col1": {
+                    "text": "Apoorva A K"
+                  },
+                  "col2": {
+                    "text": "EY"
+                  }
                 },
-                "col2": {
-                  "text": "EY"
-                }
-              },
-              {
-                "col1": {
-                  "text": "Nandhini R"
+                {
+                  "col1": {
+                    "text": "Dharshini K"
+                  },
+                  "col2": {
+                    "text": "EY"
+                  }
                 },
-                "col2": {
-                  "text": "EY"
-                }
-              },
-              {
-                "col1": {
-                  "text": "Cindrella A"
+                {
+                  "col1": {
+                    "text": "Nandhini R"
+                  },
+                  "col2": {
+                    "text": "EY"
+                  }
                 },
-                "col2": {
-                  "text": "EY"
-                }
-              },
-              {
-                "col1": {
-                  "text": "Mahidharan T"
+                {
+                  "col1": {
+                    "text": "Cindrella A"
+                  },
+                  "col2": {
+                    "text": "EY"
+                  }
                 },
-                "col2": {
-                  "text": "LTI"
-                }
-              },
-              {
-                "col1": {
-                  "text": "Datchana Moorthy S"
+                {
+                  "col1": {
+                    "text": "Mahidharan T"
+                  },
+                  "col2": {
+                    "text": "LTI"
+                  }
                 },
-                "col2": {
-                  "text": "LTI"
-                }
-              },
-              {
-                "col1": {
-                  "text": "Dheenadayalan N"
+                {
+                  "col1": {
+                    "text": "Datchana Moorthy S"
+                  },
+                  "col2": {
+                    "text": "LTI"
+                  }
                 },
-                "col2": {
-                  "text": "LTI"
-                }
-              },
-              {
-                "col1": {
-                  "text": "Thamarai Manalan V"
+                {
+                  "col1": {
+                    "text": "Dheenadayalan N"
+                  },
+                  "col2": {
+                    "text": "LTI"
+                  }
                 },
-                "col2": {
-                  "text": "UHD Drive"
-                }
-              },
-              {
-                "col1": {
-                  "text": "Siva Guru N"
+                {
+                  "col1": {
+                    "text": "Thamarai Manalan V"
+                  },
+                  "col2": {
+                    "text": "UHD Drive"
+                  }
                 },
-                "col2": {
-                  "text": "Asteria Company"
-                }
-              },
-              {
-                "col1": {
-                  "text": "Ramya Sri N"
+                {
+                  "col1": {
+                    "text": "Siva Guru N"
+                  },
+                  "col2": {
+                    "text": "Asteria Company"
+                  }
                 },
-                "col2": {
-                  "text": "Asteria Company"
-                }
-              },
-              {
-                "col1": {
-                  "text": "Karthick Selvan"
+                {
+                  "col1": {
+                    "text": "Ramya Sri N"
+                  },
+                  "col2": {
+                    "text": "Asteria Company"
+                  }
                 },
-                "col2": {
-                  "text": "Asteria Company"
-                }
-              },
-              {
-                "col1": {
-                  "text": "Selsiyya S"
+                {
+                  "col1": {
+                    "text": "Karthick Selvan"
+                  },
+                  "col2": {
+                    "text": "Asteria Company"
+                  }
                 },
-                "col2": {
-                  "text": "Asteria Company"
-                }
-              },
-              {
-                "col1": {
-                  "text": "Sakthi Harini S"
+                {
+                  "col1": {
+                    "text": "Selsiyya S"
+                  },
+                  "col2": {
+                    "text": "Asteria Company"
+                  }
                 },
-                "col2": {
-                  "text": "Asteria Company"
-                }
-              },
-              {
-                "col1": {
-                  "text": "Neha Lincy J"
+                {
+                  "col1": {
+                    "text": "Sakthi Harini S"
+                  },
+                  "col2": {
+                    "text": "Asteria Company"
+                  }
                 },
-                "col2": {
-                  "text": "Asteria Company"
-                }
-              },
-              {
-                "col1": {
-                  "text": "Manoj S K"
+                {
+                  "col1": {
+                    "text": "Neha Lincy J"
+                  },
+                  "col2": {
+                    "text": "Asteria Company"
+                  }
                 },
-                "col2": {
-                  "text": "Asteria Company"
-                }
-              },
-              {
-                "col1": {
-                  "text": "Sorna Kirthiga S"
+                {
+                  "col1": {
+                    "text": "Manoj S K"
+                  },
+                  "col2": {
+                    "text": "Asteria Company"
+                  }
                 },
-                "col2": {
-                  "text": "Asteria Company"
-                }
-              },
-              {
-                "col1": {
-                  "text": "Abivarshini"
+                {
+                  "col1": {
+                    "text": "Sorna Kirthiga S"
+                  },
+                  "col2": {
+                    "text": "Asteria Company"
+                  }
                 },
-                "col2": {
-                  "text": "Sky Link Fiber"
-                }
-              },
-              {
-                "col1": {
-                  "text": "Sneha"
+                {
+                  "col1": {
+                    "text": "Abivarshini"
+                  },
+                  "col2": {
+                    "text": "Sky Link Fiber"
+                  }
                 },
-                "col2": {
-                  "text": "Sky Link Fiber"
-                }
-              },
-              {
-                "col1": {
-                  "text": "Megadharshini"
+                {
+                  "col1": {
+                    "text": "Sneha"
+                  },
+                  "col2": {
+                    "text": "Sky Link Fiber"
+                  }
                 },
-                "col2": {
-                  "text": "Sky Link Fiber"
-                }
-              },
-              {
-                "col1": {
-                  "text": "Prasanna"
+                {
+                  "col1": {
+                    "text": "Megadharshini"
+                  },
+                  "col2": {
+                    "text": "Sky Link Fiber"
+                  }
                 },
-                "col2": {
-                  "text": "Sky Link Fiber"
-                }
-              },
-              {
-                "col1": {
-                  "text": "Gokul"
+                {
+                  "col1": {
+                    "text": "Prasanna"
+                  },
+                  "col2": {
+                    "text": "Sky Link Fiber"
+                  }
                 },
-                "col2": {
-                  "text": "Sky Link Fiber"
-                }
-              },
-              {
-                "col1": {
-                  "text": "Eshwar"
+                {
+                  "col1": {
+                    "text": "Gokul"
+                  },
+                  "col2": {
+                    "text": "Sky Link Fiber"
+                  }
                 },
-                "col2": {
-                  "text": "Sky Link Fiber"
-                }
-              },
-              {
-                "col1": {
-                  "text": "Mahidharan T"
+                {
+                  "col1": {
+                    "text": "Eshwar"
+                  },
+                  "col2": {
+                    "text": "Sky Link Fiber"
+                  }
                 },
-                "col2": {
-                  "text": "LTI"
-                }
-              },
-              {
-                "col1": {
-                  "text": "Datchana Moorthy S"
+                {
+                  "col1": {
+                    "text": "Mahidharan T"
+                  },
+                  "col2": {
+                    "text": "LTI"
+                  }
                 },
-                "col2": {
-                  "text": "LTI"
-                }
-              },
-              {
-                "col1": {
-                  "text": "Dheenadayalan N"
+                {
+                  "col1": {
+                    "text": "Datchana Moorthy S"
+                  },
+                  "col2": {
+                    "text": "LTI"
+                  }
                 },
-                "col2": {
-                  "text": "LTI"
+                {
+                  "col1": {
+                    "text": "Dheenadayalan N"
+                  },
+                  "col2": {
+                    "text": "LTI"
+                  }
                 }
-              }
-            ]
-          }
-        ]
-      },
+              ]
+            }
+          ]
+        }
+      ],
       "cardSlider": [
         {
           "title": "Prominent Alumni",
