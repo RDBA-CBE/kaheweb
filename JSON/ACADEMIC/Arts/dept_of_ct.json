@@ -106,7 +106,6 @@
       "curriculum": {
         "title": "Curriculum",
         "content": [
-          
           {
             "key": "bsc-ct",
             "title": "B.Sc. Computer Technology",
@@ -195,7 +194,7 @@
       "slug": "department-of-computer-technology",
       "basic": {
         "title": "Faculty",
-        "description": "",
+        "description": "The faculty of the Department of Computer Technology at Karpagam Academy of Higher Education (KAHE) comprises qualified academicians and industry-oriented professionals with expertise in computer science, software development, data analytics, artificial intelligence, and emerging digital technologies. They are committed to delivering quality education through a strong blend of theoretical knowledge, practical laboratory training, project-based learning, and research guidance, preparing students for successful careers in IT, software industries, research, and technological innovation.",
         "src": "/images/Kahe/Innerpages/vission.jpg",
         "buttonText": "View All Faculty"
       },
@@ -552,69 +551,182 @@
       ],
       "items": [
         {
-          "title": "Event Organized",
+          "title": "Events",
           "multiContent": [
             {
-              "title": "",
-              "content": [
-                "Students listening to the talk on Transforming Innovative Ideas into IT Startups on 24-06-2025"
-              ],
-              "images": {
-                "images": [
-                  {
-                    "id": 1,
-                    "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Students-listening-to-the-talk-on-Transforming-Innovative-Ideas-into-IT-Startups-on-24-06-2025-1024x387.png",
-                    "alt": "Karpagam Academy of Higher Education | best b com accounting and finance colleges in coimbatore"
-                  }
-                ]
-              }
+              "title": "Seminar",
+              "contentList": [
+                "A seminar on “Innovation in Cloud Computing: Transforming the Future of Digital Infrastructure” was conducted on 18-09-2025 and 19-09-2025, featuring Mr. S. Sabari Prakash, Software Development and Business Executive, Seattle Technologies, Coimbatore, and Mrs. A. Hema Ambiha, Assistant Professor, Department of Artificial Intelligence and Data Science, Karpagam Academy of Higher Education, Coimbatore."
+              ]
             },
             {
-              "title": "",
-              "content": [
-                "Resource Person Dr.Karthik Rengarajan addresses to Students related to Transform Innovative Ideas into IT Startups on 24-06-2025"
-              ],
-              "images": {
-                "images": [
-                  {
-                    "id": 1,
-                    "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Resource-Person-Dr.Karthik-Rengarajan-addresses-to-Students-related-to-Transform-Innovative-Ideas-into-IT-Startups-on-24-06-2025-1024x377.png",
-                    "alt": "Karpagam Academy of Higher Education | best b com accounting and finance colleges in coimbatore"
-                  }
-                ]
-              }
+              "title": "Workshop",
+              "contentList": [
+                "A workshop on “Innovation-Driven Cybersecurity Careers: AI Trends and Student Pathways” was conducted on 04-07-2025, facilitated by Dr. S. Dhanaraj, Founder and Director of SecForgTek Solutions, Coimbatore.",
+                "A workshop on “Cloud Infrastructure and Optimization” was conducted on 20-11-2025 and 21-11-2025, featuring Dr. K. S. Maharasan, Associate Professor and Mrs. P. Sathyapriya, Assistant Professor."
+              ]
             },
             {
-              "title": "",
-              "content": [
-                "Resource Person Dr.M.Balamurugan addresses to Students related to Recent Innovations in Data Science and Data Analytics on 28th July 2025."
-              ],
-              "images": {
-                "images": [
-                  {
-                    "id": 1,
-                    "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Resource-Person-Dr.M.Balamurugan-addresses-to-Students-related-to-Recent-Innovations-in-Data-Science-and-Data-Analytics-on-28th-July-2025-1024x356.png",
-                    "alt": "Karpagam Academy of Higher Education | best b com accounting and finance colleges in coimbatore"
-                  }
-                ]
-              }
+              "title": "Extension Activity",
+              "contentList": [
+                "An awareness camp on Coronavirus (COVID-19) prevention on 12.12.2020 at Arisipalayam, Nachipalayam, and Muthumalai villages. The awareness camp was jointly organized by the National Service Scheme and Department of Microbiology of Karpagam Academy of Higher Education, Coimbatore.",
+                "Department of Microbiology organised Awareness Campaign on Health and Hygiene for the employees of Vellalore waste dumping yard, Coimbatore on September 27, 2019.",
+                "Department of Microbiology & NCC organised Awareness Campaign on 12 Step Hand Wash demo to infection prevention for Nachipalayam and Malumichampatti people, Coimbatore on November 28, 2018.",
+                "Department of Microbiology organised Awareness Campaign to control Dengue to Arisipalayam Village people, Coimbatore on October 13, 2017.",
+                "Department of Microbiology organised Awareness Campaign to control Malaria & Dengue to Achiptty Village people, Pollachi, on January 31, 2017.",
+                "Department of Microbiology organised Awareness Campaign on Health and Hygiene for the employees of Vellalore waste dumping yard, Coimbatore on January 22, 2016."
+              ]
             },
             {
-              "title": "",
-              "content": [
-                "Resource Person Dr.M.Balamurugan addresses to Students related to Recent Innovations in Data Science and Data Analytics on 28th July 2025."
-              ],
-              "images": {
-                "images": [
-                  {
-                    "id": 1,
-                    "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Resource-Person-Dr.M.Balamurugan-addresses-to-Students-related-to-Recent-Innovations-in-Data-Science-and-Data-Analytics-on-28th-July-2025-1024x356.png",
-                    "alt": "Karpagam Academy of Higher Education | best b com accounting and finance colleges in coimbatore"
-                  }
-                ]
-              }
+              "title": "Faculty Development Programme",
+              "contentList": [
+                "A Faculty Development Programme on Cloud Computing and Security, in association with E&Y, was conducted from 25.08.2025 to 09.09.2025.",
+                "A Faculty Development Programme on Cyber Security, in association with E&Y, was conducted from 18.08.2025 to 22.09.2025.",
+                "A hands-on training programme on Cyber Security, in association with E&Y, was conducted on 11-12-2025."
+              ]
             }
           ]
+        },
+        {
+          "title": "Event Organised",
+          "table": {
+            "content": [
+              {
+                "head": [
+                  {
+                    "id": "col1",
+                    "label": "S. No."
+                  },
+                  {
+                    "id": "col2",
+                    "label": "Date"
+                  },
+                  {
+                    "id": "col3",
+                    "label": "Type of Event / Activity"
+                  },
+                  {
+                    "id": "col4",
+                    "label": "Name and Title of the Event"
+                  }
+                ],
+                "data": [
+                  {
+                    "col1": {
+                      "text": "1"
+                    },
+                    "col2": {
+                      "text": "04-07-2025"
+                    },
+                    "col3": {
+                      "text": "Workshop"
+                    },
+                    "col4": {
+                      "text": "Innovation – Driven Cybersecurity Careers: AI Trends and Student Pathways"
+                    }
+                  },
+                  {
+                    "col1": {
+                      "text": "2"
+                    },
+                    "col2": {
+                      "text": "30-07-2025"
+                    },
+                    "col3": {
+                      "text": "Guest Lecture"
+                    },
+                    "col4": {
+                      "text": "Design Thinking: A Social Perspective"
+                    }
+                  },
+                  {
+                    "col1": {
+                      "text": "3"
+                    },
+                    "col2": {
+                      "text": "04-08-2025"
+                    },
+                    "col3": {
+                      "text": "Guest Lecture"
+                    },
+                    "col4": {
+                      "text": "UPSC: A Gateway to Government Jobs"
+                    }
+                  },
+                  {
+                    "col1": {
+                      "text": "4"
+                    },
+                    "col2": {
+                      "text": "25-08-2025 to 09-09-2025"
+                    },
+                    "col3": {
+                      "text": "FDP"
+                    },
+                    "col4": {
+                      "text": "Faculty Development Programme on Cloud Computing and Security in Association with EY"
+                    }
+                  },
+                  {
+                    "col1": {
+                      "text": "5"
+                    },
+                    "col2": {
+                      "text": "18-08-2025 to 22-09-2025"
+                    },
+                    "col3": {
+                      "text": "FDP"
+                    },
+                    "col4": {
+                      "text": "Faculty Development Programme on Cyber Security in Association with EY"
+                    }
+                  },
+                  {
+                    "col1": {
+                      "text": "6"
+                    },
+                    "col2": {
+                      "text": "18-09-2025 to 19-09-2025"
+                    },
+                    "col3": {
+                      "text": "Seminar"
+                    },
+                    "col4": {
+                      "text": "Innovation in Cloud Computing: Transforming the Future of Digital Infrastructure"
+                    }
+                  },
+                  {
+                    "col1": {
+                      "text": "7"
+                    },
+                    "col2": {
+                      "text": "20-11-2025 to 21-11-2025"
+                    },
+                    "col3": {
+                      "text": "Workshop"
+                    },
+                    "col4": {
+                      "text": "Cloud Infrastructure and Optimization"
+                    }
+                  },
+                  {
+                    "col1": {
+                      "text": "8"
+                    },
+                    "col2": {
+                      "text": "11-12-2025"
+                    },
+                    "col3": {
+                      "text": "FDP"
+                    },
+                    "col4": {
+                      "text": "Hands-on Training on Cyber Security in Association with EY"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
         },
         {
           "title": "Seminar",
