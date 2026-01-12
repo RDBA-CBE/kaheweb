@@ -480,94 +480,89 @@
           "label": "Gallery"
         }
       ],
-         
-          "images": [
-            {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/UV-DRS-Spectrophotometer-Jasco-V-750-1024x768.jpg",
-              "alt": "UV-DRS Spectrophotometer-Jasco V-750",
-              "title": "UV-DRS Spectrophotometer-Jasco V-750"
-            },
-            {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/FT-IR-ATR-Spectrophotometer-Bruker-Alpha-1024x894.jpg",
-              "alt": "FT-IR (ATR)- Spectrophotometer-Bruker Alpha",
-              "title": "FT-IR (ATR)- Spectrophotometer-Bruker Alpha"
-            },
-            {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/TGADTA-Thermal-Analyzer-NETZCH-1024x931.jpg",
-              "alt": "TGA/DTA-Thermal Analyzer-NETZCH",
-              "title": "TGA/DTA-Thermal Analyzer-NETZCH"
-            },
-            {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/DSC-Thermal-Analyzer-NETZCH-1024x768.jpg",
-              "alt": "DSC-Thermal Analyzer-NETZCH",
-              "title": "DSC-Thermal Analyzer-NETZCH"
-            },
-            {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Laminar-Airflow-Chamber-1-1024x597.jpg",
-              "alt": "Fluorescence Spectrophotometer-Horiba",
-              "title": "Fluorescence Spectrophotometer-Horiba"
-            },
-            {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Electrochemical-Workstation-CH-Instruments-1024x768.jpg",
-              "alt": "Electrochemical Workstation-CH Instruments",
-              "title": "Electrochemical Workstation-CH Instruments"
-            },
-            {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Microwave-Synthesizer-CEM-Discover-Benchmate-768x1024.jpg",
-              "alt": "Microwave Synthesizer-CEM-Discover Benchmate",
-              "title": "Microwave Synthesizer-CEM-Discover Benchmate"
-            },
-            {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Multiple-Parameter-Testers-50-Ah18V-10Ah3V-10-Ah18V-1000-Ah18V-Jinfan-Power-768x1024.jpg",
-              "alt": "Multiple Parameter Testers-50 Ah/18V, 10Ah/3V, 10 Ah/18V & 1000 Ah/18V-Jinfan Power",
-              "title": "Multiple Parameter Testers-50 Ah/18V, 10Ah/3V, 10 Ah/18V & 1000 Ah/18V-Jinfan Power"
-            },
-            {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Photocatalytic-Reactor-Heber-714x1024.jpg",
-              "alt": "Photocatalytic Reactor-Heber",
-              "title": "Photocatalytic Reactor-Heber"
-            },
-            {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Rotary-Evaporator-Buchi-1024x929.jpg",
-              "alt": "Rotary Evaporator-Buchi",
-              "title": "Rotary Evaporator-Buchi"
-            },
-            {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Internal-Resistance-Hioki-1024x768.jpg",
-              "alt": "Internal Resistance-Hioki",
-               "title": "Internal Resistance-Hioki"
-            },
-            {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Electrochemical-Workstation-CH-Instruments-1024x768.jpg",
-              "alt": "Electrochemical Workstation-CH Instruments",
-               "title": "Internal Resistance-Hioki"
-            },
-            {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Hot-Water-Bath-1024x725.jpg",
-              "alt": "Hot Water Bath",
-              "title": "Hot Water Bath"
-            },
-            {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Cooling-Chamber-Max-Cool-Engineering-1024x977.jpg",
-              "alt": "Cooling Chamber-Max Cool Engineering",
-              "title": "Cooling Chamber-Max Cool Engineering"
-            },
-            {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Internal-Resistance-Hioki-1024x768.jpg",
-              "alt": "Vacuum Oven-Kemi",
-              "title": "Vacuum Oven-Kemi"
-            },
-            {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Electrochemical-Workstation-CH-Instruments-1024x768.jpg",
-              "alt": "Muffle Furnace",
-              "title": "Muffle Furnace"
-            }
-          ]
-        
-      
+      "images": [
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/UV-DRS-Spectrophotometer-Jasco-V-750-1024x768.jpg",
+          "alt": "UV-DRS Spectrophotometer-Jasco V-750",
+          "title": "UV-DRS Spectrophotometer-Jasco V-750"
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/FT-IR-ATR-Spectrophotometer-Bruker-Alpha-1024x894.jpg",
+          "alt": "FT-IR (ATR)- Spectrophotometer-Bruker Alpha",
+          "title": "FT-IR (ATR)- Spectrophotometer-Bruker Alpha"
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/TGADTA-Thermal-Analyzer-NETZCH-1024x931.jpg",
+          "alt": "TGA/DTA-Thermal Analyzer-NETZCH",
+          "title": "TGA/DTA-Thermal Analyzer-NETZCH"
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/DSC-Thermal-Analyzer-NETZCH-1024x768.jpg",
+          "alt": "DSC-Thermal Analyzer-NETZCH",
+          "title": "DSC-Thermal Analyzer-NETZCH"
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Laminar-Airflow-Chamber-1-1024x597.jpg",
+          "alt": "Fluorescence Spectrophotometer-Horiba",
+          "title": "Fluorescence Spectrophotometer-Horiba"
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Electrochemical-Workstation-CH-Instruments-1024x768.jpg",
+          "alt": "Electrochemical Workstation-CH Instruments",
+          "title": "Electrochemical Workstation-CH Instruments"
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Microwave-Synthesizer-CEM-Discover-Benchmate-768x1024.jpg",
+          "alt": "Microwave Synthesizer-CEM-Discover Benchmate",
+          "title": "Microwave Synthesizer-CEM-Discover Benchmate"
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Multiple-Parameter-Testers-50-Ah18V-10Ah3V-10-Ah18V-1000-Ah18V-Jinfan-Power-768x1024.jpg",
+          "alt": "Multiple Parameter Testers-50 Ah/18V, 10Ah/3V, 10 Ah/18V & 1000 Ah/18V-Jinfan Power",
+          "title": "Multiple Parameter Testers-50 Ah/18V, 10Ah/3V, 10 Ah/18V & 1000 Ah/18V-Jinfan Power"
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Photocatalytic-Reactor-Heber-714x1024.jpg",
+          "alt": "Photocatalytic Reactor-Heber",
+          "title": "Photocatalytic Reactor-Heber"
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Rotary-Evaporator-Buchi-1024x929.jpg",
+          "alt": "Rotary Evaporator-Buchi",
+          "title": "Rotary Evaporator-Buchi"
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Internal-Resistance-Hioki-1024x768.jpg",
+          "alt": "Internal Resistance-Hioki",
+          "title": "Internal Resistance-Hioki"
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Electrochemical-Workstation-CH-Instruments-1024x768.jpg",
+          "alt": "Electrochemical Workstation-CH Instruments",
+          "title": "Internal Resistance-Hioki"
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Hot-Water-Bath-1024x725.jpg",
+          "alt": "Hot Water Bath",
+          "title": "Hot Water Bath"
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Cooling-Chamber-Max-Cool-Engineering-1024x977.jpg",
+          "alt": "Cooling Chamber-Max Cool Engineering",
+          "title": "Cooling Chamber-Max Cool Engineering"
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Internal-Resistance-Hioki-1024x768.jpg",
+          "alt": "Vacuum Oven-Kemi",
+          "title": "Vacuum Oven-Kemi"
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Electrochemical-Workstation-CH-Instruments-1024x768.jpg",
+          "alt": "Muffle Furnace",
+          "title": "Muffle Furnace"
+        }
+      ]
     },
-   
-    
     {
       "tab": "Publications",
       "slug": "department-of-chemistry",
@@ -735,58 +730,76 @@
       ],
       "items": [
         {
-          "title": "Conferences",
+          "title": "National Conference",
           "content": [
             "National Conference on Recent Trends in Green and Medicinal Chemistry on March 11, 2015.",
-            "National Conference on “Advances in Environmental, Synthetic and Medicinal Chemistry” on April 05, 2016 and April 06, 2016.",
-            "National Conference on “Drug Discovery from Medicinal and Aromatic Plants” (DDMAP-2017) on February 02, 2017 and February 03, 2017.",
-            "National Conference on “Emerging Trends in Material, Medicinal and Environmental Chemistry” on March 08, 2018 and March 09, 2018.",
-            "National Conference on “Exploring the New Dimensions and Discoveries in the Field of Chemistry” on March 07, 2019 and March 08, 2019.",
-            "National Conference on “Recent Trends in Medicinal, Materials, Environmental and Battery Research in Chemistry” on March 12 and March 13, 2020."
+            "National Conference on Advances in Environmental, Synthetic and Medicinal Chemistry on April 05, 2016 and April 06, 2016.",
+            "National Conference on Drug Discovery from Medicinal and Aromatic Plants (DDMAP-2017) on February 02, 2017 and February 03, 2017.",
+            "National Conference on Emerging Trends in Material, Medicinal and Environmental Chemistry on March 08, 2018 and March 09, 2018.",
+            "National Conference on Exploring the New Dimensions and Discoveries in the Field of Chemistry on March 07, 2019 and March 08, 2019.",
+            "National Conference on Recent Trends in Medicinal, Materials, Environmental and Battery Research in Chemistry on March 12 and March 13, 2020."
+          ]
+        },
+        {
+          "title": "National Seminar",
+          "content": [
+            "National Seminar on Materials – Synthesis and Characterization on April 19 and April 20, 2021."
           ]
         },
         {
           "title": "Workshop",
           "content": [
-            "Two-day Workshop on “Artificial Intelligence and Machine Learning for Modern Microbiology” held on 05.01.2026 and 06.01.2026.",
-            "One-day Workshop on “Fermentor Operation and Process Control” held on 27.09.2025.",
-            "Two-day Workshop on “Intellectual Property Rights (IPR) and Research Methods” held from 24.09.2025 to 25.09.2025.",
-            "Virtual workshop entitled “Development of bioproduct from single cell protein for entrepreneur development” held on 30.01.2021."
+            "6th Workshop on Interpretation of Spectral Data and Identification of Phytoconstituents on January 29 and January 30, 2015.",
+            "7th Workshop Programme on Interpretation of Spectral Data and Identification of Phytoconstituents on March 10 and March 11, 2016.",
+            "Workshop on How to Reduce the Expenditure Drastically in Chemistry Practicals on September 19, 2016.",
+            "8th National Workshop Programme on Interpretation of Spectral Data and Identification of Phytoconstituents on September 01 and September 02, 2017.",
+            "Workshop Programme on Radiochemistry with resource persons from Indian Association of Nuclear Chemists and Allied Scientists (IANCAS) – Indira Gandhi Centre for Atomic Research (IGCAR), Kalpakkam on November 17 and November 18, 2017.",
+            "9th National Workshop Programme on Interpretation of Spectral Data and Identification of Phytoconstituents on September 26 and September 27, 2018.",
+            "Workshop Programme on Cheminformatics and Its Application in Research and Drug Industry on October 15 and October 16, 2018.",
+            "10th National Workshop Programme on Interpretation of Spectral Data and Identification of Phytoconstituents on October 11 and October 12, 2019."
           ]
         },
         {
-          "title": "Guest Lecture",
+          "title": "Hands on Training / Activities / Guest Lecture",
           "content": [
-            "Guest Lecture on “Sustainable Waste Management through Microbial Interventions” held on 26.08.2025.",
-            "The “Louis Pasteur Endowment Lecture” delivered by Dr. N. Gopal on 29.01.2020."
+            "Alumni Guest Lecture on Education: Strategy and Success by Mr. Sreejith S Nair on August 07, 2025.",
+            "Hands-on Training Programme on Innovations in Battery Technology for M.Sc. Chemistry students from July 30, 2025 to August 22, 2025.",
+            "Hands-on Training Programme on Spectroscopic and Chromatographic Techniques on February 09, 2016.",
+            "Hands-on Training Programme on Spectroscopic and Chromatographic Techniques on September 21, 2016.",
+            "Hands-on Training Programme on Spectroscopic and Chromatographic Techniques in December 2016.",
+            "World Water Day Celebration on March 22, 2017.",
+            "Training Programme on How to Test Drinking Water on March 22, 2017.",
+            "Hands-on Training Programme on Spectroscopic and Chromatographic Techniques on February 09, 2018.",
+            "Training Programme on Drawing Chemical Structures Using Computer Software on July 16, 2018.",
+            "Training Programme on Molecular Docking on September 20, 2018.",
+            "World Standards Day Celebration on October 31, 2018.",
+            "Guest Lecture on Stereochemistry of Carbon Compounds on January 10, 2019.",
+            "Guest Lecture on Electrochemistry on February 13, 2019.",
+            "Hands-on Training Programme on Spectral and Chromatographic Techniques on September 30, 2019.",
+            "Advanced Battery Research Centre Inauguration on October 04, 2019.",
+            "World Standards Day Celebration on October 14, 2019.",
+            "World Standards Day Celebration on October 14, 2020.",
+            "Guest Lecture on How to Write Research Article on December 01, 2020.",
+            "National Level Webinar on Accidental Scientific Discoveries and Breakthroughs on February 02, 2021.",
+            "Guest Lecture on Metal Clusters and Its Applications on February 05, 2021.",
+            "National Level E-Quiz on Medicinal Chemistry from February 10 to February 12, 2021.",
+            "National Level Webinar on Science – An Inspirational Tour on February 15, 2021.",
+            "National Level E-Quiz on Chemistry in Day-to-Day Life from February 17 to February 19, 2021.",
+            "International Webinar on Organic and Inorganic Materials on February 24 and February 25, 2021.",
+            "National Level Virtual Webinar on Material Science on March 11, 2021.",
+            "Guest Lecture on Chemistry in Everyday Life on March 19, 2021.",
+            "World Water Day Celebration on March 22, 2021.",
+            "Guest Lecture on Nanotechnology and Its Applications on March 26, 2021.",
+            "National Level E-Quiz on Environmental Chemistry on June 05, 2021.",
+            "World Environment Day Online Drawing and Poster Contest from June 05 to June 10, 2021.",
+            "Quiz Programme on World Ozone Day on September 16, 2021.",
+            "World Standards Day Celebration on October 23, 2021."
           ]
         },
         {
           "title": "Faculty Development Programme",
           "content": [
-            "Two-day Faculty Development Program on Contemporary and Advanced Research in Life Science on 04th & 05th June 2020."
-          ]
-        },
-        {
-          "title": "Webinar",
-          "content": [
-            "Virtual lab tour to the Micro Health Reference Laboratories (MHRL), Qatar, held on 17.12.2020.",
-            "Entrepreneur Development – Early to Rise webinar held on 30.06.2020."
-          ]
-        },
-        {
-          "title": "Orientation / Induction Programme / Other Activities",
-          "multiContent": [
-            {
-              "content": "Inauguration of Department Association “Microinnovata” on 01.08.2025"
-            }
-          ]
-        },
-        {
-          "title": "Others",
-          "content": [
-            "Career Guidance Programme on “Career guidance in GATE for Life Sciences” on 22.12.2025.",
-            "Two-day Faculty Development Program on “Harnessing Microbes for Sustainable Environmental Restoration” from 28.11.2025 to 29.11.2025."
+            "Five-Day Faculty Development Programme on Advanced Functional Materials and Energy Systems for Faculty Members and Ph.D. Research Scholars from December 08 to December 12, 2025."
           ]
         }
       ]
