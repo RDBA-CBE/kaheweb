@@ -12,17 +12,22 @@ export const truncateText = (text = "", maxLength = 100) => {
 };
 
 export const FirstLetterUp = (text = "") => {
-  console.log("text", text);
-
-  return (
-    text
-      .toLowerCase()
-      // Capitalize first letter of each word
-      .replace(/\b\w/g, (c) => c.toUpperCase())
-      // Preserve acronyms inside brackets
-      .replace(/\(([^)]+)\)/g, (_, v) => `(${v.toUpperCase()})`)
-  );
+  return text || "";
 };
+
+
+// export const FirstLetterUp = (text = "") => {
+//   console.log("text", text);
+
+//   return (
+//     text
+//       .toLowerCase()
+//       // Capitalize first letter of each word
+//       .replace(/\b\w/g, (c) => c.toUpperCase())
+//       // Preserve acronyms inside brackets
+//       .replace(/\(([^)]+)\)/g, (_, v) => `(${v.toUpperCase()})`)
+//   );
+// };
 
 // export const FirstLetterUp = (text = "") => {
 //   const ROMAN_REGEX =

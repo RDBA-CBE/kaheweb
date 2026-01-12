@@ -14,14 +14,19 @@ const ListStyle = ({ data }) => {
 
   return (
     <>
-     {data?.title && <div>
-        <h2 className="decor-ti">{FirstLetterUp(data?.title)}</h2>
-      </div>}
+      {data?.title && (
+        <div>
+          <h2 className="decor-ti">{FirstLetterUp(data?.title)}</h2>
+        </div>
+      )}
       <section className={`kahe-list-sec py-4 ${isTwoCol ? "two-col" : ""}`}>
         <div className="kahe-list-col">
           {firstCol.map((item, index) => (
             <div className="kahe-list-item" key={`col1-${index}`}>
-              <FourDiamondIcon size={22} color="#153b1c" />
+              <span className="icon">
+                <FourDiamondIcon size={22} color="#153b1c" />
+              </span>
+
               {item.url ? (
                 <span>
                   <a href={item.url}>{item.title}</a>
@@ -37,7 +42,9 @@ const ListStyle = ({ data }) => {
           <div className="kahe-list-col">
             {secondCol.map((item, index) => (
               <div className="kahe-list-item" key={`col2-${index}`}>
-                <FourDiamondIcon size={22} color="#153b1c" />
+                <span className="icon">
+                  <FourDiamondIcon size={22} color="#153b1c" />
+                </span>
                 {item.url ? (
                   <span>
                     <a href={item.url}>{item.title}</a>

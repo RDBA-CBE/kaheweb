@@ -13,7 +13,7 @@ const features = [
   {
     id: 2,
     title: "Achievements",
-    link:"",
+    link:"/kahe/achievements/",
     text: "Discover academic, research, and institutional achievements here.",
     image: "/images/Kahe/home/IMAGE-15.jpg",
     target: "_blank",

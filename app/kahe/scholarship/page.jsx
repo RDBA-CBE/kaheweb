@@ -13,6 +13,8 @@ import Sidebar2 from "@/components/00-Kahe/common-components/Sidebar2";
 import Commitee from "@/components/00-Kahe/Components/About/Commitee";
 import ImageCard from "@/components/00-Kahe/Components/ImageCard";
 import { FirstLetterUp } from "@/utils/functions.utils";
+import InnerBanner from "@/components/00-Kahe/common-components/InnerBanner";
+import Breadcrumb from "@/components/00-Kahe/common-components/BreadCrumb";
 
 const OfficeOfInternationalAffairsOverview = () => {
   const research = data;
@@ -20,12 +22,7 @@ const OfficeOfInternationalAffairsOverview = () => {
 
   const breadcrumbItems = [
     {
-      label: "Office of International Affairs",
-      href: `/office-of-international-affairs/`,
-    },
-    {
-      label: "Overview",
-      href: "/kahe/office-of-international-affairs/office-of-international-affairs-overview/",
+      label: "Scholarship",
     },
   ];
 
@@ -33,10 +30,13 @@ const OfficeOfInternationalAffairsOverview = () => {
     <>
       <Provider store={Store}>
         <Context>
+          <InnerBanner data={research?.bannerCon} />
+          <section className="bg-white  sticky-top">
+            <Breadcrumb items={breadcrumbItems} />
+          </section>
           <section className="section-wid section-bg1">
             <Commitee data={research?.student_att} />
           </section>
-
         </Context>
       </Provider>
     </>

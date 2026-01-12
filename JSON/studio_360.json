@@ -1,4 +1,11 @@
 {
+
+  "bannerCon": {
+    "bannerImg": "/images/Kahe/IQAC/overview-banner.webp",
+    "title": "KAHE Media Centre - Studio 360°",
+    "bannerCon": "Monitoring standards and best practices, strengthening academic excellence.",
+    "applyLink": "/"
+  },
   "title": "KAHE Media Centre - Studio 360° - Media Center and Recording Facility",
   "video": {
     "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/new-studio-video.mp4",

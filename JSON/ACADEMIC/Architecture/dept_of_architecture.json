@@ -1,4 +1,3 @@
-
 {
   "title": "Department of Architecure",
   "bannerCon": "Integrating aesthetics, functionality, and technology, to prepare students for impactful architectural practice.",
@@ -226,6 +225,30 @@
     },
     {
       "tab": "Faculty",
+      "slug": "department-of-architecture",
+      "basic": {
+        "title": "Faculty",
+        "description": "The faculty of the Department of Architecture at Karpagam Academy of Higher Education (KAHE) comprises experienced academicians and practicing professionals with expertise in architectural design, urban planning, building technology, and sustainable architecture. They are committed to delivering quality education through design studios, technical training, field exposure, and research mentorship, preparing students for successful careers in architecture, urban development, construction, and allied creative industries.",
+        "src": "/images/Kahe/academics/faculty.webp",
+        "buttonText": "View All Faculty"
+      },
+      "breadcrumbItems": [
+        {
+          "label": "Academics",
+          "href": "academics"
+        },
+        {
+          "label": "Arts, Science, Commerce and Management",
+          "href": "academics/arts-science-and-humanities/"
+        },
+        {
+          "label": "Department of Architecture",
+          "href": "/academics/arts-science-and-humanities/department-of-architecture"
+        },
+        {
+          "label": "Faculty"
+        }
+      ],
       "faculty": [
         {
           "name": "Ar.P.Kathiravan",
@@ -724,6 +747,170 @@
             "Inaugural Orientation Program on on 06.08.2025.",
             "Guest lecture on “Retail Design” on 06.08.2025."
           ]
+        }
+      ]
+    },
+    {
+      "tab": "gallery",
+      "slug": "department-of-architecture",
+      "title": "Gallery",
+      "breadcrumbItems": [
+        {
+          "label": "Academics",
+          "href": "academics"
+        },
+        {
+          "label": "Arts, Science, Commerce and Management",
+          "href": "academics/arts-science-and-humanities/"
+        },
+        {
+          "label": "Department of Architecture",
+          "href": "/academics/arts-science-and-humanities/department-of-architecture"
+        },
+        {
+          "label": "Gallery"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/1-1-800x449.jpg",
+          "alt": "Architecture Exhibition",
+          "title": "Architecture Exhibition"
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/eve1-4-800x533.jpg",
+          "alt": "Architecture Department Event",
+          "title": "Department Event"
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/eve1-5-800x533.jpg",
+          "alt": "Student Design Activities",
+          "title": "Student Design Activities"
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/eve1-6-800x533.jpg",
+          "alt": "Academic Event",
+          "title": "Academic Event"
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/eve1-7-800x533.jpg",
+          "alt": "Workshop Session",
+          "title": "Workshop Session"
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/eve1-8-800x533.jpg",
+          "alt": "Student Interaction Program",
+          "title": "Student Interaction Program"
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/eve1-9-800x533.jpg",
+          "alt": "Guest Lecture",
+          "title": "Guest Lecture"
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/eve1-10-800x533.jpg",
+          "alt": "Department Seminar",
+          "title": "Department Seminar"
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/eve1-11-800x449.jpg",
+          "alt": "Academic Activities",
+          "title": "Academic Activities"
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/eve1-12-800x449.jpg",
+          "alt": "Architecture Studio Work",
+          "title": "Architecture Studio Work"
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/eve1-13-800x449.jpg",
+          "alt": "Student Projects",
+          "title": "Student Projects"
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/eve1-14-800x449.jpg",
+          "alt": "Design Exhibition",
+          "title": "Design Exhibition"
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/eve1-15-400x600.jpg",
+          "alt": "Architecture Model Display",
+          "title": "Model Display"
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/eve1-16-400x600.jpg",
+          "alt": "Student Creative Work",
+          "title": "Creative Work"
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/eve1-17-400x600.jpg",
+          "alt": "Design Presentation",
+          "title": "Design Presentation"
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/eve1-18-400x600.jpg",
+          "alt": "Academic Exhibition",
+          "title": "Academic Exhibition"
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/eve1-19-400x600.jpg",
+          "alt": "Student Workshop",
+          "title": "Student Workshop"
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/eve1-20-1-800x533.jpg",
+          "alt": "Architecture Event",
+          "title": "Architecture Event"
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/eve1-21-800x533.jpg",
+          "alt": "Learning Activities",
+          "title": "Learning Activities"
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/eve1-22-800x533.jpg",
+          "alt": "Department Programme",
+          "title": "Department Programme"
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/eve1-23-400x600.jpg",
+          "alt": "Student Participation",
+          "title": "Student Participation"
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/eve1-24-800x533.jpg",
+          "alt": "Campus Activities",
+          "title": "Campus Activities"
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/eve1-25-800x449.jpg",
+          "alt": "Academic Showcase",
+          "title": "Academic Showcase"
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/eve1-26-800x449.jpg",
+          "alt": "Design Review",
+          "title": "Design Review"
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/eve1-27-800x449.jpg",
+          "alt": "Architecture Learning Session",
+          "title": "Learning Session"
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/eve1-28-800x533.jpg",
+          "alt": "Department Activity",
+          "title": "Department Activity"
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/eve1-29-800x533.jpg",
+          "alt": "Student Seminar",
+          "title": "Student Seminar"
+        },
+        {
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/eve1-31-800x533.jpg",
+          "alt": "Department of Architecture",
+          "title": "Department of Architecture"
         }
       ]
     }

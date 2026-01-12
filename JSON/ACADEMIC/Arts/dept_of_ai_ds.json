@@ -48,7 +48,7 @@
         {
           "type": "overview",
           "subTitle": "Overview",
-          "contents": "TEstablished in 2021, the Department of Artificial Intelligence and Data Science at the undergraduate level stands as a forward-thinking center for academic and technical excellence, dedicated to shaping skilled professionals in the rapidly evolving domains of AI and data science. The department offers a contemporary curriculum that integrates theoretical foundations with practical, project-based learning, ensuring students gain hands-on experience with the latest tools and methodologies. Students benefit from state-of-the-art laboratories, experienced faculty, and industry partnerships that foster exposure to real-world challenges, research opportunities, and career-oriented events. Emphasizing an interdisciplinary approach, the department encourages innovation in areas such as machine learning, big data analytics, and ethical AI, while nurturing qualities like leadership, critical thinking, and social responsibility. Since its inception in 2021, the department has aimed to produce graduates who are technically adept, ethically grounded, and adaptable to the future needs of industry and society.",
+          "contents": "Established in 2021, the Department of Artificial Intelligence and Data Science at the undergraduate level stands as a forward-thinking center for academic and technical excellence, dedicated to shaping skilled professionals in the rapidly evolving domains of AI and data science. The department offers a contemporary curriculum that integrates theoretical foundations with practical, project-based learning, ensuring students gain hands-on experience with the latest tools and methodologies. Students benefit from state-of-the-art laboratories, experienced faculty, and industry partnerships that foster exposure to real-world challenges, research opportunities, and career-oriented events. Emphasizing an interdisciplinary approach, the department encourages innovation in areas such as machine learning, big data analytics, and ethical AI, while nurturing qualities like leadership, critical thinking, and social responsibility. Since its inception in 2021, the department has aimed to produce graduates who are technically adept, ethically grounded, and adaptable to the future needs of industry and society.",
           "image": "/images/others/video-07.jpg"
         },
         {
@@ -82,8 +82,8 @@
               },
               {
                 "icon": "rs-icon-book",
-                "value": "(Ay 2025-2026): 988",
-                "label": "Student Strength"
+                "value": " 988",
+                "label": "Student Strength (Ay 2025-2026)"
               },
               {
                 "icon": "rs-icon-fund",
@@ -93,11 +93,16 @@
               {
                 "icon": "rs-icon-lab",
                 "value": "126",
-                "text": "Total Number of NPTEL Courses Completed"
+                "text": " NPTEL Courses Completed"
               },
               {
                 "icon": "rs-icon-complete",
-                "value": "129 Patents - 5",
+                "value": "129",
+                "text": "Patents"
+              },
+              {
+                "icon": "rs-icon-complete",
+                "value": "5",
                 "text": "Publications"
               },
               {

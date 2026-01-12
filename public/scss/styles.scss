@@ -1964,6 +1964,10 @@
   margin-bottom: 25px;
 }
 
+.Tbitab .vm-icon img {
+  width: auto;
+}
+
 /* TITLES */
 .vm-title {
   font-size: 26px;
@@ -2613,6 +2617,10 @@
   display: flex;
   align-items: flex-start;
   gap: 14px;
+}
+
+.kahe-list-item .icon{
+  width: 25px;
 }
 
 /* Mobile */

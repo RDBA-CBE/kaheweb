@@ -1,0 +1,61 @@
+"use client";
+
+import BreadCrumb from "@/components/00-Kahe/common-components/BreadCrumb";
+import TabInnerSection from "@/components/00-Kahe/Components/TabInnerSection";
+import { subMenu } from "@/JSON/ACADEMIC/Overview";
+import data from "../../../JSON/ACADEMIC/NIRF.json";
+import InnerBanner from "@/components/00-Kahe/common-components/InnerBanner";
+import Sidebar2 from "../common-components/Sidebar2";
+import { Provider } from "react-redux";
+import Context from "@/context/Context";
+import Store from "@/redux/store";
+import IQACInnerTab from "../Components/IQACInnerTab";
+import ReportTab from "../Components/ReportTab";
+import Sidebar from "../common-components/Sidebar";
+import SliderContent from "../Components/SliderContent";
+
+const NIRFPage = () => {
+  const breadcrumbItems = [{ label: "NIRF" }];
+
+  return (
+    <>
+      <Provider store={Store}>
+        <Context>
+          <InnerBanner data={data.bannerCon} />
+          <BreadCrumb items={breadcrumbItems} />
+          <div className="section-wid">
+            <main className=" d-flex pt-5 px-0 mx-0">
+              <div className="rbt-course-details-area w-100">
+                <div className="row mx-0 px-0">
+                  <div className="col-lg-12 px-0">
+                     <section >
+                      <SliderContent data={data?.nirf} />
+                    </section>
+                    <section >
+                      <SliderContent data={data?.nirf2025} />
+                    </section>
+                     <section >
+                      <SliderContent data={data?.nirf2024} />
+                    </section>
+                  </div>
+
+                  {/* <div className="col-lg-3 px-0 d-none d-lg-block">
+                  <div className="course-sidebar sticky-top rbt-shadow-box rbt-gradient-border ">
+                    <div className="inner">
+                      <div className="content-item-content">
+                        <Sidebar subMenu={subMenu} />
+                      </div>
+                    </div>
+                  </div>
+                </div> */}
+                </div>
+              </div>
+            </main>
+          </div>
+        </Context>
+      </Provider>
+    </>
+  );
+};
+
+export default NIRFPage;

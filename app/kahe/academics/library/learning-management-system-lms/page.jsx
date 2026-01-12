@@ -5,15 +5,19 @@ import StickyBreadcrumb from "@/components/00-Kahe/common-components/StickyNavBa
 import Sidebar from "../../../../../components/00-Kahe/common-components/Sidebar";
 import { subMenu } from "@/JSON/ACADEMIC/Overview";
 import Sidebar2 from "@/components/00-Kahe/common-components/Sidebar2";
+import InnerBanner from "@/components/00-Kahe/common-components/InnerBanner";
 
 
 export default function LearningManagementSystemLms() {
   const breadcrumbItems = [
-    { label: "Admissions", href: `admissions` },
-    { label: "Study in India", href: `study-in-india` },
+     { label: "Academics", href: `academics` },
+    { label: "Library", href: `/academics/library` },
+    { label: "Learning Management System" },
   ];
   return (
     <>
+
+     <InnerBanner data={data?.bannerCon} />
 
       <section className="bg-white  sticky-top">
         <StickyBreadcrumb items={breadcrumbItems} />

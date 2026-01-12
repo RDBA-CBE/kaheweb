@@ -1,0 +1,123 @@
+{
+  "bannerCon": {
+    "bannerImg": "/images/Kahe/research/researchpublications-banner.webp",
+    "title": "NIRF",
+    "bannerCon": "Publishing impactful research that advances science and society",
+    "applyLink": "/"
+  },
+
+  "nirf": {
+    "content": [
+      {
+        "id": 1,
+
+        "subtitle": "NIRF Home Page",
+        "list": [
+          {
+            "src": "/images/Kahe/Innerpages/file.png",
+
+            "item": "View",
+            "url": "https://www.nirfindia.org/Home",
+            "target": "_blank"
+          }
+        ]
+      }
+    ]
+  },
+
+  "nirf2025": {
+    "title": "NIRF 2025",
+    "content": [
+      {
+        "id": 1,
+
+        "subtitle": "Overall",
+        "list": [
+          {
+            "src": "/images/Kahe/Innerpages/file.png",
+
+            "item": "View",
+            "url": "https://kahedu.edu.in/n/wp-content/uploads/2025/02/Karpagam-Academy-of-Higher-Education_20250131_31.01.2025.pdf",
+            "target": "_blank"
+          }
+        ]
+      },
+      {
+        "id": 2,
+
+        "subtitle": "Innovation",
+        "list": [
+          {
+            "src": "/images/Kahe/Innerpages/file.png",
+
+            "item": "View",
+            "url": "https://kahedu.edu.in/n/wp-content/uploads/2025/02/Karpagam-Academy-of-Higher-Education20250131_Innovation_31.01.2025.pdf",
+            "target": "_blank"
+          }
+        ]
+      },
+      {
+        "id": 3,
+
+        "subtitle": "SDG Institution",
+        "list": [
+          {
+            "src": "/images/Kahe/Innerpages/file.png",
+
+            "item": "View",
+            "url": "https://kahedu.edu.in/n/wp-content/uploads/2025/02/Karpagam-Academy-of-Higher-Education20250131_SDG_31.01.2025.pdf",
+            "target": "_blank"
+          }
+        ]
+      }
+    ]
+  },
+
+  "nirf2024": {
+    "title": "NIRF 2024",
+    "content": [
+      {
+        "id": 1,
+
+        "subtitle": "Overall",
+        "list": [
+          {
+            "src": "/images/Kahe/Innerpages/file.png",
+
+            "item": "View",
+            "url": "https://karpagam.com/fpdf/kahe/nirf-overall-2024/mobile/index.html",
+            "target": "_blank"
+          }
+        ]
+      },
+      {
+        "id": 2,
+
+        "subtitle": "Innovation",
+        "list": [
+          {
+            "src": "/images/Kahe/Innerpages/file.png",
+
+            "item": "View",
+            "url": "https://karpagam.com/fpdf/kahe/nirf-innovation-2024/mobile/index.html",
+            "target": "_blank"
+          }
+        ]
+      },
+      {
+        "id": 3,
+
+        "subtitle": "SDG Institution",
+        "list": [
+          {
+            "src": "/images/Kahe/Innerpages/file.png",
+
+            "item": "View",
+            "url": "https://kahedu.edu.in/n/wp-content/uploads/2025/02/Karpagam-Academy-of-Higher-Education20250131_SDG_31.01.2025.pdf",
+            "target": "_blank"
+          }
+        ]
+      }
+    ]
+  }
+}
