@@ -435,10 +435,10 @@ const Footer = () => {
         {/* Policy / Reports */}
         <div className="row py-4">
           <div className="col-12 d-flex flex-wrap gap-3 gap-md-5 flex-column flex-md-row text-start">
-            <a href="/#" className="iitm-footer-link">
+            <a href="/kahe/tbi" className="iitm-footer-link">
               Technology Business Incubator
             </a>
-            <a href="https://kahedu.edu.in/current-vacancies/" className="iitm-footer-link" target="_blank">
+            <a href="/kahe/current-vacancies/" className="iitm-footer-link" target="_blank">
               Current Vacancies
             </a>
             <a href="/kahe/placement/recruiting-companies" className="iitm-footer-link" target="_blank">

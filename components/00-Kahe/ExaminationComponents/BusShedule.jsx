@@ -20,11 +20,12 @@ const BusShedule = (props) => {
   const Examination = data;
 
   const breadcrumbItems = [
-    { label: "Bus Schedule", href: `study-in-india` },
+    { label: "Bus Schedule" },
   ];
 
   return (
     <>
+    <InnerBanner data={Examination?.bannerCon} />
     <section className="bg-white  sticky-top">
         <StickyBreadcrumb items={breadcrumbItems} quickLink={false} />
       </section>
