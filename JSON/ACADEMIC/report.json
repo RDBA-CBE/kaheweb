@@ -140,14 +140,14 @@
         {
           "content": [
             {
-              "subtitle": "NIRF",
+             
               "id": 1,
               "list": [
                 {
                   "src": "/images/Kahe/Innerpages/file.png",
                   "title": "NIRF",
                   "item": "View",
-                  "url": "https://kahedu.edu.in/nirf/",
+                  "url": "/kahe/nirf/",
                   "target": "_blank"
                 }
               ]

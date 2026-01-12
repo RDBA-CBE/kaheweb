@@ -101,67 +101,67 @@ export const subMenu = {
     {
       category: "Engineering",
       link: "academics/engineering/",
-      // items: [
-      //   {
-      //     name: "Department of Biotechnology",
-      //     link: "/academics/engineering/biotechnology",
-      //   },
-      //   {
-      //     name: "Department of Biomedical Engineering",
-      //     link: "/academics/engineering/department-of-biomedical-engineering/",
-      //   },
-      //   {
-      //     name: "Department of Chemical Engineering",
-      //     link: "/academics/engineering/department-of-chemical-engineering/",
-      //   },
-      //   {
-      //     name: "Department of Civil Engineering",
-      //     link: "/academics/engineering/civil-engineering/",
-      //   },
-      //   {
-      //     name: "Department of Food Technology",
-      //     link: "/academics/engineering/department-of-food-technology/",
-      //   },
-      //   {
-      //     name: "Department of Artificial Intelligence and Data Science",
-      //     link: "/academics/engineering/department-of-artificial-intelligence-and-data-science/",
-      //   },
-      //   {
-      //     name: "Department of Computer Science and Engineering",
-      //     link: "/academics/engineering/computer-science-engineering/",
-      //   },
-      //   {
-      //     name: "Department of Cyber Security",
-      //     link: "/academics/engineering/department-of-cyber-security/",
-      //   },
-      //   {
-      //     name: "Department of Electronics and Communication Engineering",
-      //     link: "/academics/engineering/electronics-communication-engineering/",
-      //   },
-      //   {
-      //     name: "Department of Electrical and Electronics Engineering",
-      //     link: "/academics/engineering/electrical-electronics-engineering/",
-      //   },
-      //   {
-      //     name: "Department of Mechanical Engineering",
-      //     link: "/academics/engineering/mechanical-sciences-engineering/",
-      //   },
-      //   {
-      //     category: "Science and Humanities",
+      items: [
+        {
+          name: "Department of Biotechnology",
+          link: "/academics/engineering/biotechnology",
+        },
+        {
+          name: "Department of Biomedical Engineering",
+          link: "/academics/engineering/department-of-biomedical-engineering/",
+        },
+        {
+          name: "Department of Chemical Engineering",
+          link: "/academics/engineering/department-of-chemical-engineering/",
+        },
+        {
+          name: "Department of Civil Engineering",
+          link: "/academics/engineering/civil-engineering/",
+        },
+        {
+          name: "Department of Food Technology",
+          link: "/academics/engineering/department-of-food-technology/",
+        },
+        {
+          name: "Department of Artificial Intelligence and Data Science",
+          link: "/academics/engineering/department-of-artificial-intelligence-and-data-science/",
+        },
+        {
+          name: "Department of Computer Science and Engineering",
+          link: "/academics/engineering/computer-science-engineering/",
+        },
+        {
+          name: "Department of Cyber Security",
+          link: "/academics/engineering/department-of-cyber-security/",
+        },
+        {
+          name: "Department of Electronics and Communication Engineering",
+          link: "/academics/engineering/electronics-communication-engineering/",
+        },
+        {
+          name: "Department of Electrical and Electronics Engineering",
+          link: "/academics/engineering/electrical-electronics-engineering/",
+        },
+        {
+          name: "Department of Mechanical Engineering",
+          link: "/academics/engineering/mechanical-sciences-engineering/",
+        },
+        {
+          category: "Science and Humanities",
 
-      //     link: "/academics/engineering/science-and-humanities/",
-      //     item: [
-      //       {
-      //         name: "Guest Lecture/Seminar Archives",
-      //         link: "/academics/engineering/science-and-humanities/guest-lecture-seminar-archives/",
-      //       },
-      //       {
-      //         name: "Publication Archives",
-      //         link: "/academics/engineering/science-and-humanities/publication-archives/",
-      //       },
-      //     ],
-      //   },
-      // ],
+          link: "/academics/engineering/science-and-humanities/",
+          item: [
+            {
+              name: "Guest Lecture/Seminar Archives",
+              link: "/academics/engineering/science-and-humanities/guest-lecture-seminar-archives/",
+            },
+            {
+              name: "Publication Archives",
+              link: "/academics/engineering/science-and-humanities/publication-archives/",
+            },
+          ],
+        },
+      ],
     },
 
     {
@@ -205,43 +205,31 @@ export const subMenu = {
     },
     {
       category: "NEP",
-      link: "academics/nep/",
+      link: "/academics/nep/",
 
       items: [
         {
           name: "Overview",
           link: "/academics/nep/overview/",
-        },
-        {
-          name: "Professor Of Practice",
-          link: "/academics/nep/overview/",
-          children:[
-            {
-              name: "Overview",
-              link: "/academics/nep/overview/",
-            },
-            {
-              name: "Overview",
-              link: "/academics/nep/overview/",
-            },
-          ]
-        },
+        }
+        
+         
       ],
     },
     {
       category: "Regulations",
-      link: "academics/regulations/",
+      link: "/academics/regulations/",
     },
     {
       category: "Dean-Performing Arts",
       link: "/academics/dean-performing-arts/",
 
-      // items: [
-      //   {
-      //     name: "Faculty of Performing Arts",
-      //     link: "/academics/dean-performing-arts/faculty-of-performing-arts/",
-      //   },
-      // ],
+      items: [
+        {
+          name: "Faculty of Performing Arts",
+          link: "/academics/dean-performing-arts/faculty-of-performing-arts/",
+        },
+      ],
     },
 
     {

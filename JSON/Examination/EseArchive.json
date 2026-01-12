@@ -9,10 +9,7 @@
     "content": [
       {
         "head": [
-          {
-            "id": "col1",
-            "label": "S. No."
-          },
+          
           {
             "id": "col2",
             "label": ""
@@ -270,10 +267,7 @@
     "content": [
       {
         "head": [
-          {
-            "id": "col1",
-            "label": "S. No."
-          },
+          
           {
             "id": "col2",
             "label": "Faculty of Arts, Science and Humanities"
@@ -328,10 +322,7 @@
       },
       {
         "head": [
-          {
-            "id": "col1",
-            "label": "S. No."
-          },
+          
           {
             "id": "col2",
             "label": "Faculty of Engineering"
@@ -397,10 +388,7 @@
       },
       {
         "head": [
-          {
-            "id": "col1",
-            "label": "S. No."
-          },
+        
           {
             "id": "col2",
             "label": "Faculty of Pharmacy"
@@ -433,10 +421,7 @@
       },
       {
         "head": [
-          {
-            "id": "col1",
-            "label": "S. No."
-          },
+          
           {
             "id": "col2",
             "label": "Faculty of Architecture, Design and Planning"

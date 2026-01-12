@@ -283,22 +283,22 @@
         {
           "id": 6,
           "title": "Faculty of Performing Arts",
-          "link": "/kahe/academics/performing-arts",
+          "link": "/kahe/academics/dean-performing-arts",
           "children": [
             {
               "title": "Dean",
-              "link": "/kahe/academics/performing-arts"
+              "link": "/kahe/academics/dean-performing-arts"
             },
             {
               "title": "Department of Performing Arts",
-              "link": "/kahe/academics/performing-arts/department-of-performing-arts"
+              "link": "/kahe/academics/dean-performing-arts/department-of-performing-arts"
             }
           ]
         },
         {
           "id": 7,
           "title": "Nep",
-          "link": "/kahe/academics/nep",
+          "link": "/kahe/academics/nep/overview",
           "children": [
             {
               "title": "Overview",
