@@ -10,74 +10,76 @@
   "Behaviour": {
     "title": "Behaviour",
     "content": [
-      {
-        "id": 1,
-        "title": "It is imperative on the part of the students to attend classes, functions, and other extra and co-curricular activities regularly and punctually."
-      },
-      {
-        "id": 2,
-        "title": "Students should wear their ID cards. Without ID cards, they shall not be allowed inside the classroom or examination hall."
-      },
-      {
-        "id": 3,
-        "title": "Students must occupy their seats well before the lecturer enters the class and stand up as a mark of respect when the lecturer enters."
-      },
-      {
-        "id": 4,
-        "title": "Latecomers will not be permitted inside the classroom without a permission slip from the Head of the Department or the Registrar."
-      },
-      {
-        "id": 5,
-        "title": "Students should not absent themselves without applying for leave. Medical leave requires a medical certificate along with the leave letter."
-      },
-      {
-        "id": 6,
-        "title": "Smoking is strictly prohibited inside the campus. Students found using intoxicants or drugs will be summarily dismissed."
-      },
-      {
-        "id": 7,
-        "title": "In case of cancellation of a class, students should remain in the library."
-      },
-      {
-        "id": 8,
-        "title": "Students should refrain from participating in any political or communal activities."
-      },
-      {
-        "id": 9,
-        "title": "Students found guilty of damaging or destroying the institution’s property should replace the same at their own cost."
-      },
-      {
-        "id": 10,
-        "title": "Students should not sit on parapet walls, steps, or staircases."
-      },
-      {
-        "id": 11,
-        "title": "Students found guilty of writing, scribbling, or painting on walls, desks, or furniture will be penalized with a suitable fine."
-      },
-      {
-        "id": 12,
-        "title": "Students must identify and report any damage caused to the institution’s property to the Registrar."
-      },
-      {
-        "id": 13,
-        "title": "Outsiders are not permitted to meet students during working hours."
-      },
-      {
-        "id": 14,
-        "title": "Students using foul language or behaving rudely towards staff members will be expelled from the institution."
-      },
-      {
-        "id": 15,
-        "title": "Any requisition or letter addressed to the Registrar must be forwarded through the tutor and the concerned Head of the Department."
-      },
-      {
-        "id": 16,
-        "title": "Eve-teasers will be dismissed from Karpagam Academy of Higher Education."
-      },
-      {
-        "id": 17,
-        "title": "Use of mobile phones inside the campus is prohibited. Phones may be used in hostel premises before or after silent hours. Confiscated phones will be returned only after course completion along with the Transfer Certificate."
-      }
+     
+  {
+    "id": 1,
+    "title": "It is imperative on the part of the students to attend the classes, functions and other extra and co-curricular activities regularly and punctually."
+  },
+  {
+    "id": 2,
+    "title": "The students should wear the ID cards. Without ID cards, they shall not be allowed inside class room/examination hall."
+  },
+  {
+    "id": 3,
+    "title": "Students must occupy their seats in the respective classes well before the lecturers enter the classes. When a lecturer enters the class, the students should stand up in their places as a mark of respect."
+  },
+  {
+    "id": 4,
+    "title": "Latecomers will not be permitted inside the classroom without the permission slip from the Head of the Department concerned or Registrar."
+  },
+  {
+    "id": 5,
+    "title": "Students should not absent themselves from Karpagam Academy of Higher Education without applying for leave. Those students who could not attend classes on medical grounds must produce a medical certificate along with the leave letter."
+  },
+  {
+    "id": 6,
+    "title": "Smoking is strictly prohibited inside the campus. Students found using intoxicants and drugs will be summarily dismissed."
+  },
+  {
+    "id": 7,
+    "title": "Incase of cancellation of a class, students should be in the library."
+  },
+  {
+    "id": 8,
+    "title": "Students should refrain from participating in any kind of political or communal activities."
+  },
+  {
+    "id": 9,
+    "title": "Students found guilty of damaging, destroying the institution’s property should replace the same at their own cost."
+  },
+  {
+    "id": 10,
+    "title": "Students should not sit on the parapet walls or on the steps or staircases."
+  },
+  {
+    "id": 11,
+    "title": "Students found guilty of writing, scribbling, painting on the walls, desks etc., will be penalised suitably with fine."
+  },
+  {
+    "id": 12,
+    "title": "Students must identify those who cause damage to the institution’s property and report the same to the Registrar."
+  },
+  {
+    "id": 13,
+    "title": "Outsiders will not be permitted to meet the students during working hours."
+  },
+  {
+    "id": 14,
+    "title": "Students found guilty of using foul language or behaving rudely towards the staff members, will be expelled from Karpagam Academy of Higher Education."
+  },
+  {
+    "id": 15,
+    "title": "Any requisition or letter written by the student to the Registrar should be sent through the tutor and the HOD concerned."
+  },
+  {
+    "id": 16,
+    "title": "Eve-teasers will be dismissed from Karpagam Academy of Higher Education."
+  },
+  {
+    "id": 17,
+    "title": "Keeping and/or using the cell phone inside Karpagam Academy of Higher Education campus is prohibited. However, they are permitted to use within the hostel premises before or after the silent hours. If found in use, the cell phone will be confiscated and returned only after the completion of the course to the student at the time of leaving Karpagam Academy of Higher Education with TC."
+  }
+
     ]
   }
 }
