@@ -196,7 +196,7 @@
       "basic": {
         "title": "Faculty",
         "description": "Our faculty members are the major cause for our sustained capacity to impart vivacious and value-based education for the student community. This platform paves a pathway to our faculty members to progress their knowledge and to carry the observed concepts to the classrooms and laboratories, thus, serving the students in the department",
-       "src": "/images/Kahe/academics/faculty.webp",
+        "src": "/images/Kahe/academics/faculty.webp",
         "buttonText": "View All Faculty"
       },
       "breadcrumbItems": [
@@ -422,56 +422,44 @@
       "items": [
         {
           "type": "laboratories",
-          "title": "Facilities / Infrastructure List",
-          "desc": "The UG, PG and Research labs of the department contains all the important equipment and offers an all-inclusive atmosphere for the students to work around. ",
+          "title": "Class Rooms and Laboratory",
+          "desc": "",
           "content": [
-            "Fermenter",
-            "HPLC",
-            "GC-FID",
-            "Walk-in Cold Room",
-            "Walk-in Hot Room",
-            "Multi ELISA Reader",
-            "Freeze Drier",
-            "Phase Contrast Microscope",
-            "Shaker Incubator",
-            "PCR",
-            "Agarose Gel Electrophoresis",
-            "SDS-PAGE Electrophoresis"
+            "Lab: 1",
+            "Seminar Hall: 1",
+            "ICT Enabled Lecture Halls: 3",
+            "HOD Room: 1",
+            "Staff Room: 2",
+            "Department Library (8333 books): 1"
           ]
         },
         {
           "type": "equipment",
-          "title": "Major Research Equipments",
+          "title": "IT Infrastructure –Lab Details",
           "content": [
-            "Agarose Gel Electrophoresis",
-            "SDS-PAGE Apparatus",
-            "Sonicator",
-            "Shaker Incubator",
-            "Phase Contrast Microscope",
-            "PCR",
-            "Multi plate ELISA Reader",
-            "Freeze Drier",
-            "Fermentor",
-            "HPLC",
-            "GC-FID",
-            "Walk-in Cold Room",
-            "Walk-in Hot Room"
+            "Name of the Lab: MBA;",
+            " No. of Systems: 73"
           ]
         },
         {
           "type": "library",
-          "title": "Department Library",
-          "desc": "The department has outstanding library facilities, which comprises up-to-date editions of Books, National/International Journals and Magazines covering all fields of Microbiology",
+          "title": "Server Details",
+          "desc": "",
           "content": [
-            "Bacteriology",
-            "Virology",
-            "Microbial Physiology",
-            "Microbial Genetics",
-            "Mycology",
-            "Parasitology",
-            "Immunology",
-            "Industrial Microbiology",
-            "Environmental Microbiology"
+            "Intel, Intel Quad Core 2.66 Ghz",
+            "2 GB RAM",
+            "500GB HDD",
+            "19” LG TFT"
+          ]
+        },
+        {
+          "type": "connectivity",
+          "title": "Connectivity Details",
+          "desc": "",
+          "content": [
+            "LAN Facility: A strong network backbone of 100 Mbps Ethernet as a structured deployment with wired and wireless components",
+            "WI-FI Facility: 55 Mbps",
+            "Internet Connectivity: 1 Gbps shared BSNL Connection, 45 Mbps leased line Airtel Connection"
           ]
         },
         {
@@ -597,92 +585,6 @@
               "alt": "Department of Microbiology - best placement colleges in coimbatore"
             }
           ]
-        }
-      ]
-    },
-    {
-      "tab": "students",
-      "title": "students",
-      "content": [
-        {
-          "data1": {
-            "type": "vision",
-            "subTitle": "Association",
-            "src": "/images/Kahe/Innerpages/vision.png",
-            "content": [
-              "MICROINNOVATA is the association of the Department of Microbiology. In the year 2025, the association was inaugurated with an insightful and thought-provoking guest lecture on the topic “Microbiology – Beyond Classrooms and Laboratories”."
-            ]
-          },
-          "data2": {
-            "type": "mission",
-            "subTitle": "Achievements /Awards",
-            "src": "/images/Kahe/Innerpages/goal.png",
-            "content": [
-              "The students of the department visited countries like Taiwan and Poland for the Internship and Student Exchange program.",
-              "Best student project under Student Projects Scheme (2023 – 2024) was awarded by Tamil Nādu State Council for Science and Technology (TNSCST), Chennai."
-            ]
-          }
-        },
-        {
-          "data1": {
-            "type": "mission",
-            "subTitle": "Placement",
-            "src": "/images/Kahe/Innerpages/goal.png",
-            "content": [
-              "The students of the Department of Microbiology (50< students in 2024-25) have been placed in several industries and organizations like BIOCON, Microbiological Laboratories, Indian Immunologicals, BECQ Radiological Service Provider LLP., Amura Health Care, Cotivity, Corrohealth, Optum, Molecular Connections and Clarus"
-            ]
-          },
-          "data2": {
-            "type": "mission",
-            "subTitle": "Alumni",
-            "src": "/images/Kahe/Innerpages/goal.png",
-            "content": [
-              "The department alumni encompass scientists in Pharmaceutical and Biotechnology Industries, research associates and Teachers in universities and colleges in India and abroad. The department of Microbiology is organising Alumni Interaction Sessions every month for the benefit of the students in the department."
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "tab": "patents",
-      "title": "Patents/MoUs",
-      "content": [
-        {
-          "data1": {
-            "type": "vision",
-            "subTitle": "Association",
-            "src": "/images/Kahe/Innerpages/vision.png",
-            "content": [
-              "MICROINNOVATA is the association of the Department of Microbiology. In the year 2025, the association was inaugurated with an insightful and thought-provoking guest lecture on the topic “Microbiology – Beyond Classrooms and Laboratories”."
-            ]
-          },
-          "data2": {
-            "type": "mission",
-            "subTitle": "Achievements /Awards",
-            "src": "/images/Kahe/Innerpages/goal.png",
-            "content": [
-              "The students of the department visited countries like Taiwan and Poland for the Internship and Student Exchange program.",
-              "Best student project under Student Projects Scheme (2023 – 2024) was awarded by Tamil Nādu State Council for Science and Technology (TNSCST), Chennai."
-            ]
-          }
-        },
-        {
-          "data1": {
-            "type": "mission",
-            "subTitle": "Placement",
-            "src": "/images/Kahe/Innerpages/goal.png",
-            "content": [
-              "The students of the Department of Microbiology (50< students in 2024-25) have been placed in several industries and organizations like BIOCON, Microbiological Laboratories, Indian Immunologicals, BECQ Radiological Service Provider LLP., Amura Health Care, Cotivity, Corrohealth, Optum, Molecular Connections and Clarus"
-            ]
-          },
-          "data2": {
-            "type": "mission",
-            "subTitle": "Alumni",
-            "src": "/images/Kahe/Innerpages/goal.png",
-            "content": [
-              "The department alumni encompass scientists in Pharmaceutical and Biotechnology Industries, research associates and Teachers in universities and colleges in India and abroad. The department of Microbiology is organising Alumni Interaction Sessions every month for the benefit of the students in the department."
-            ]
-          }
         }
       ]
     },
@@ -841,21 +743,21 @@
           "content": [
             "One-day Workshop on “Trend Analysis for Entrepreneurs: Using SPSS for Decision-Making” for I-year MBA students on 05.01.2026.",
             "One-day Workshop on “Research Methodology for Beginners” on 23.12.2025.",
-            "One-day Workshop on “Stock Market Live Training” on 26.08.2025.",
-            "Entrepreneurship Development Programme conducted from 02.08.2021 to 06.08.2021.",
-            "Workshop on Intellectual Property Rights conducted from 07.06.2021 to 11.06.2021.",
-            "Workshop on Research Methodology conducted from 24.05.2021 to 28.05.2021.",
-            "Workshop on Dropshipping Startups conducted by Mr. Mohideen Abdul Kamal, Assistant Professor, Vocational Training Center (Ministry of Manpower), Muscat, Oman, on 21.01.2021.",
-            "Workshop on Defensive Techniques conducted by Mr. S. Karthick, Trainer, Defensive Technique, on 25.11.2019.",
-            "Workshop on Business Case Writing and Analysis conducted by Dr. T. Rangarajan and Dr. Kalyanai Rangarajan, Management Consultants (IIM–A Alumni), on 18.08.2018 and 19.08.2018.",
-            "Workshop on Innovative Teaching and Motivation for Research for Young Faculty conducted by Dr. Malabika Deo, Professor, Department of Commerce, Pondicherry University, and Dr. M. Selvam, Advisor, IQAC, Bharathidasan University, on 13.10.2018.",
-            "Training Programme on Human Rights conducted by Mr. V. P. Sharathi, Dr. R. Sujatha, Dr. Kamalaveni, Mr. M. Madhivanan, and Mr. C. Paventhan on 16.11.2018.",
-            "Seminar on International Day of Elimination of Violence Against Women conducted by Ms. N. Divya and Mr. Sureshkumar on 26.11.2018.",
-            "Hands-on Training on Model Building using AMOS conducted by Dr. M. Uma Shankar, Kongu Engineering College, Erode, from 15.12.2018 to 16.12.2018.",
-            "Workshop on Small Industries Day conducted on 11.10.2017.",
-            "Training Programme on Rights of Women sponsored by NHRC – National Human Rights Commission, New Delhi, conducted on 28.07.2017.",
-            "Workshop on Goods and Services Taxation: Procedural and Administrative Mechanism in India conducted on 25.07.2017.",
-            "Seminar on Capital Market Awareness and Equity Investing conducted on 08.10.2015, with a guest talk by Mr. Venugopal Rayirathi, Senior Associate, Lotus Knowlwealth Pvt. Ltd., Mumbai."
+            "One day Workshop on “Stock Market Live Training” on 26.08.2025.",
+            "Entrepreneurship Development Programme from 02.08.2021 to 06.08.2021.",
+            "Workshop on Intellectual Property Rights from 07.06.2021 to 11.06.2021.",
+            "Workshop on Research Methodology from 24.05.2021 to 28.05.2021.",
+            "Workshop on Dropshipping Startups 2021 was conducted by Mr. Mohideen Abdul Kamal, Assistant Professor, Vocational Training Center (Ministry of Manpower) Muscat, Oman on 21.01.2021",
+            "Workshop on Defensive Techniques was conducted by Mr S Karthick, Trainer, Defensive Technique, on 25.11.2019",
+            "Workshop on Business Case Writing and Analysis was conducted by Dr. T. Rangarajan, Management Consultant (IIM – A Alumnus) and Dr. Kalyanai Ranagarajan, Management Consultant (IIM – A Alumnus) on August 18, 2018 and August 19, 2018.",
+            "Workshop on Innovative Teaching and Motivation for Research for Young Faculty was conducted by Dr. Malabika Deo, Professor, Department. of Commerce, Pondicherry University and Dr. M. Selvam, Advisor, IQAC, Bharathidasan University on October 13, 2018",
+            "Training Programme on Human Rights was conducted by Mr. V. P. Sharathi, Chairperson Coimbatore, Human Rights Forum, Dr. R. Sujatha, Consultant Member of Tamil Nadu State Planning Commission, Dr. Kamalaveni, Professor Department. of Women Studies, Bharathiar University, Mr. M. Madhivanan, Advocate and Mr. C. Paventhan, Advocate on November 16, 2018.",
+            "Seminar on International day of Elimination of violence against women was conducted by Ms. N. Divya ,Advocate and Mr. Sureshkumar, Advocate on November 26, 2018.",
+            "Hands on Training on Model Building using AMOS was conducted by Dr. M. Uma Shankar, Kongu Engineering College, Erode from 15.12.2018 to 16.12.2018",
+            "Work shop on Small Industries Day was conducted on October 11, 2017.",
+            "Training Programme on Rights of Women – Sponsored by NHRC- National Human Rights Commission, New Delhi was conducted on July 28, 2017.",
+            "Workshop on Goods and Service Taxation Procedural and Administrative Mechanism in India was conducted on July 25, 2017.",
+            "Seminar on Capital Market Awareness and Equity Investing was conducted on October 08, 2015, Mr. Venugopal Rayirathi, Senior Associate, Lotus Knowlwealth Pvt. Ltd. Mumbai, delivered the guest talk."
           ]
         },
         {
@@ -903,7 +805,30 @@
             "Guest Lecture on “Certification Programs like CMA, CFA and FRM” delivered by Mr. D. Ramaswamy, Founder, Ledaa, on 04.09.2019.",
             "Guest Lecture on “Cross Culture Management” delivered by Mr. Michael Vogt, Professor, Denmark, on 12.02.2019.",
             "Guest Lecture on “Cyber Crime Awareness” delivered by Mr. D. Sai Nataraj, CEO, Duratech Solutions, on 26.11.2018.",
-            "Guest Lecture on “Personality Development and Goal Setting” delivered by Dr. R. Sujatha, Consultant Member, Tamil Nadu State Planning Commission, on 16.11.2018."
+            "Guest Lecture on “Personality Development and Goal Setting” delivered by Dr. R. Sujatha, Consultant Member, Tamil Nadu State Planning Commission, on 16.11.2018.",
+            "Guest Lecture was conducted by Mr. Charath Chander Natarajan, Max cadd, Coimbatore, on the topic, ‘Finding your purpose’ on November 14, 2018.",
+            "Guest Lecture was conducted by Dr. M. Selvan, Advisor, IQAC, Bharathidasan University, on the topic, ‘Financial statement Analysis’ on October 13, 2018.",
+            "Guest Lecture was conducted by Ms. Niveditha, Bliss MD Berry, on the topic, ’Entrepreneurship’ on September 19, 2018.",
+            "Guest Lecture was conducted by Mr. Sreejith K.C, Center Manager, Safeducate Learning Pvt. Ltd, Kochi, on the topic, ‘Scope on Logistics’ on September 17, 2018",
+            "Guest Lecture was conducted by Bhuvana Sundar, Engineering Manager, BOSCH, Coimbatore, on the topic, ‘Project Management’ on September 07, 2018.",
+            "Guest Lecture was conducted by Mr. Abin K. Jose, (IIM-K Alumnus), NIIT Ltd, Coimbatore, on the topic, ‘Corporate Expectations’on September 09, 2018.",
+            "Guest Lecture was conducted by Mr. Nanda Lal T.S, EBSCO Information Services, Tamilnadu, on the topic, ‘Use of EBSCO’ on August 27, 2018.",
+            "Guest Lecture was conducted by Commodore Mani Krishnamurthy, Indian Navy Retired, Consultant Cochin Shipyard, on the topic, ‘Personality and Corporate Expectations’, on August 09, 2018.",
+            "Guest Lecture was conducted by Mr. V. Vetrivel, Secretary, Insurance Institute of India, on the topic, ‘A Glimpse on Insurance’ on July 17, 2018.",
+            "An Alumni Interaction Programme by Jerry George Mathew, Associate – Human Resources AT & T Global Business Services India Pvt. Ltd, Bangalore on September 28, 2017.",
+            "An Entrepreneurial Talk by Ms. Shanmugapriya, Founder – Bio-Natural Products, Coimbatore on September 26, 2017.",
+            "A Guest Lecture on Insurance Management conducted by Mr. Surya Shankar, Founder – Suraksha Risk Insurance and financial services, Kerala on September 19, 2017.",
+            "A Guest Lecture on Human Resource Practices by Dr.Mohammed Sulaiman, P & A Malabar Cement Ltd, Kerala on August 29, 2017.",
+            "A Guest Lecture on Entrepreneurship by Mr.Vishnu Prasath, Chief Executive Officer, Bright Bride Info-tech Pvt. Ltd, Coimbatore on August 07, 2017.",
+            "A Guest Lecture on Capital Market and Equity Investing by Mr. Venugopal Rayirath, Senior Associate Lotus Knowlwealth Pvt., Ltd., Mumbai on July 24, 2017.",
+            "A Guest Lecture on Human Resource Management by Mr. V. Adinarayanan, Founder- Anaadi Foundation, Coimbatore on July 18, 2017.",
+            "A Guest Lecture on Human Rights by Mr. V. P. Sarathi, Founder Chairperson of Self-founded NGO Coimbatore Human Rights Forum on July 13, 2017.",
+            "A Guest Lecture on Intellectual Property Law by Mr. C. V. Madhusudhanan, Partner, KSR & Co., Company Secretaries LLP, Coimbatore on March 02, 2017.",
+            "A Guest Lecture on Capital Market Awareness and Equity Investing by Mr. K. Thangaraj, Visiting Faculty and Investment Consultant, Lotus KnowlwealthPvt. Ltd., Mumbai on February 03, 2017.",
+            "Interaction Program by Mr. Col. G. Vinod, NCC Group Headquarters Coimbatore on August 23, 2017.",
+            "On a CEO Meet by Mr. N. Balaji, CEO, Spice Foundation Chennai on August 10, 2016.",
+            "Interaction Program conducted by Dr. Allen Baby, Faculty & Trainer of Emirates Institute for Banking and Financial Studies, UAE on July 20, 2016.",
+            "Interaction Program by Mr. G. Lenin Kumar, Dean- Academic affairs, Emirates College for Management & Information Technology, UAE on July 13, 2016."
           ]
         },
         {
@@ -926,22 +851,22 @@
         {
           "title": "Others",
           "content": [
-            "Essay Writing and Poster Presentation Competition on “Intellectual Property Rights (IPR) & Technology Transfer” for BBA and MBA students was conducted from January 07, 2026 to January 09, 2026.",
-            "Career Guidance Program on “Banking – Government and Private Sector” was conducted on December 18, 2025 for I-year MBA ‘A & B’ students.",
-            "Alumni Talk on “From Campus to CEO: My Journey to Tech Entrepreneur” was conducted on December 17, 2025 by alumni (2016–2018 batch) Mr. Manikandan Ravikumar, Founder & Managing Director, Infolexus Solutions.",
-            "Alumni Talk on “How to Build a Career in the New-Age Job Market” was conducted on December 16, 2025 by alumni (2009–2012 batch) Mr. Nishar Anwar, Soft Skills Trainer.",
-            "Career Program on “Strategic Management in the Contemporary Business Environment” was conducted on December 15, 2025 for II-year MBA ‘A & B’ students.",
-            "Awareness Programme on “Commodity Derivatives” was conducted on December 04, 2025 for II-year MBA Finance specialization students.",
-            "Reels Competition was conducted in connection with World Entrepreneurs Day on November 25, 2025.",
-            "Five-Day Faculty Development Programme on “Research Lifecycle – From Clean Data to Scopus / WoS Publication” was conducted for Management faculty members from November 22, 2025 to November 26, 2025.",
-            "Street Play on NEP 2020 was organized on November 05, 2025.",
-            "Orientation Programme on Banking was conducted on October 30, 2025.",
-            "Alumni Talk on “Success Stories in Entrepreneurship” was conducted on September 26, 2025 by alumni (2014–2016 batch) Mr. Mahendran, Owner, Mahe’s Promoters & Builders.",
-            "Alumni Talk on “Entrepreneurship in Action – Plan and Execution” was conducted on September 25, 2025 by alumni (2018–2020 batch).",
-            "C.K. Prahalad Memorial Lecture on “The Fortune at the Bottom of the Pyramid” was conducted on September 22, 2025.",
-            "Motivational Talk on “Building Confidence and Self-Belief” was conducted on September 01, 2025.",
-            "Faculty Development Programme on “Next-Gen Research Methodologies: Advancing Social Science Research using AI & JAMOVI” was conducted from September 15, 2025 to September 19, 2025 through online mode.",
-            "NEP 2020 Awareness Programme was conducted on August 29, 2025."
+            "Essay Writing and Poster Presentation Competition on “Intellectual Property Rights (IPR) & Technology Transfer” for BBA and MBA students from 07.01.2026 to 09.01.2026.",
+            "Career guidance Program on “Banking-Government and Private Sector” on 18.12.2025 for the I – MBA “A & B” students.",
+            "Alumni talk on “From Campus to CEO : My Journey to Tech Entrepreneur” on 17.12.2025  by our Alumni Student (2016 – 2018 batch) Mr.MANIKANDAN RAVIKUMAR, Founder & Managing Director – Infolexus Solutions.",
+            "Alumni talk on “How to Build a Career in the New-Age job Market” on 16.12.2025 by our Alumni Student (2009-2012 batch) Mr.Nishar Anwar, Soft Skills trainer.",
+            "Career Program on “Strategic Management in the Contemporary Business Environment” on 15.12.2025 Monday for II – MBA “A & B” students.",
+            "Awareness Programme on “Commodity Derivatives” on 04.12.2025 for II-year MBA finance specialized students.",
+            "Reels Competition in connection with World Entrepreneurs Day on 25.11.2025",
+            "Five-day Faculty Development Program on “Research Lifecycle – from clean data to Scopus / WoS publication” for Management faculty members from 22.11.2025 to 26.11.2025.",
+            "Organize Street Play-NEP 2020 on 05.11.2025.",
+            "Orientation on Banking on 30.10.2025.",
+            "Alumni Talk on “Success Stories in Entrepreneurship” on 26.09.2025 by our alumni of KAHE (2014 – 2016) Mr. Mahendran, owner of Mahe’s Promoters & Builders.",
+            "Organized an Alumni Talk on “Entrepreneurship in Action – Plan and Execution” on 25.09.2025 by our alumni of KAHE (2018 – 2020)",
+            "Organized C.K. Prahalad Memorial Lecture on “THE FORTUNE AT THE BOTTOM OF THE PYRAMID BY C.K. PRAHALAD” on 22.09.2025.",
+            "Organize a Motivational Talk on “Building Confidence and Self-Belief” on 01.09.2025.",
+            "Faculty Development Programme on “Next-Gen Research Methodologies: Advancing Social Science Research using AI & JAMOVI” from 15.09.25 to 19.09.25 through online mode.",
+            "Organize a “NEP 2020 Awareness Programme” on 29.08.2025"
           ]
         }
       ]
