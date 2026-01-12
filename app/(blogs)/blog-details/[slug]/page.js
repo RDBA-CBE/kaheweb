@@ -1,7 +1,6 @@
 import BackToTop from "@/app/backToTop";
 import SingleBlog from "../index";
 import BlogLayout from "../page";
-
 import { getPostBySlug, getAllPostsMeta } from "@/mdx";
 
 const getPageContent = async (slug) => {

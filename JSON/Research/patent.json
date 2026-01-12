@@ -13,7 +13,7 @@
         "list": [
           {
             "src": "/images/Kahe/Innerpages/file.png",
-            "item": "Open Pdf",
+            "item": "Download",
             "url": "https://kahedu.edu.in/n/wp-content/uploads/2023/07/KAHE-IPR-1.pdf",
             "target": "_blank"
           }
@@ -43,7 +43,7 @@
           "list": [
             {
               "src": "/images/Kahe/Innerpages/file.png",
-              "item": "Open Pdf",
+              "item": "Download",
               "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/Consultancy_20-02-2020.pdf",
               "target": "_blank"
             }
@@ -74,7 +74,7 @@
           "list": [
             {
               "src": "/images/Kahe/Innerpages/file.png",
-              "item": "Open Pdf",
+              "item": "Download",
               "url": "https://kahedu.edu.in/n/wp-content/uploads/2025/07/List-of-Ph.D-Research-Scholars_07.07.2025.pdf",
               "target": "_blank"
             }
@@ -105,7 +105,7 @@
           "list": [
             {
               "src": "/images/Kahe/Innerpages/file.png",
-              "item": "Open Pdf",
+              "item": "Download",
               "url": "https://kahedu.edu.in/n/wp-content/uploads/2025/11/List-of-PhD-Research-Supervisor_Nov_25.pdf",
               "target": "_blank"
             }
