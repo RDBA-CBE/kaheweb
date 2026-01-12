@@ -15,11 +15,11 @@
             },
             {
               "id": "col2",
-              "label": "schedule Name"
+              "label": "Schedule Name"
             },
             {
                 "id": "col3",
-                "label": "schedule On"
+                "label": "Schedule On"
               }
           ],
           "data": [

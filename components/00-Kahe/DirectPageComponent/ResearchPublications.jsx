@@ -28,6 +28,7 @@ const  ResearchPublications = () => {
 
           <section className="section-wid section-bg1">
             <TableCom data={data?.publications} />
+            <h5>h’ index of the institution from the Scopus: 76</h5>
           </section>
 
 
