@@ -9,10 +9,7 @@
     "content": [
       {
         "head": [
-          {
-            "id": "col1",
-            "label": ""
-          },
+         
           {
             "id": "col2",
             "label": "Faculty of Performing Arts"
@@ -45,10 +42,7 @@
       },
       {
         "head": [
-          {
-            "id": "col1",
-            "label": ""
-          },
+          
           {
             "id": "col2",
             "label": "Faculty of Architecture, Design and Planning"
@@ -136,10 +130,7 @@
       },
       {
         "head": [
-          {
-            "id": "col1",
-            "label": ""
-          },
+         
           {
             "id": "col2",
             "label": "Faculty of Engineering"
@@ -216,10 +207,7 @@
       },
       {
         "head": [
-          {
-            "id": "col1",
-            "label": ""
-          },
+          
           {
             "id": "col2",
             "label": "Faculty of Arts, Science, Commerce and Management"
@@ -285,10 +273,7 @@
       },
       {
         "head": [
-          {
-            "id": "col1",
-            "label": ""
-          },
+          
           {
             "id": "col2",
             "label": "FADP & FPA ESE FEE CIRCULAR (2025)"
@@ -321,10 +306,7 @@
       },
       {
         "head": [
-          {
-            "id": "col1",
-            "label": ""
-          },
+          
           {
             "id": "col2",
             "label":"Exam Fee Circular for Second- UG ( 2024 Batch) , Second-PG ( 2024 Batch) and Third Year -UG ( 2023 Batch)- FASCM"
@@ -346,10 +328,7 @@
       },
       {
         "head": [
-          {
-            "id": "col1",
-            "label": ""
-          },
+         
           {
             "id": "col2",
             "label":"End Semester Exam Timetable - Archives"
