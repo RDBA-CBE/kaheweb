@@ -258,208 +258,641 @@
     },
     {
       "tab": "Faculty",
-      "faculty": [
+      "slug": "department-of-pharmacy",
+      "basic": {
+        "title": "Faculty",
+        "description": "Our faculty members are the major cause for our sustained capacity to impart vivacious and value-based education for the student community. This platform paves a pathway to our faculty members to progress their knowledge and to carry the observed concepts to the classrooms and laboratories, thus, serving the students in the department",
+        "src": "/images/Kahe/Innerpages/vission.jpg",
+        "buttonText": "View All Faculty"
+      },
+      "breadcrumbItems": [
         {
-          "name": "Dr. D. Kumudha",
-          "qualification": "M.Pharm., Ph.D",
-          "designation": "Professor",
-          "email": "drkumudha.d@kahedu.edu.in",
-          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/04/DR.D.KUMUDHA.pdf",
-          "profileText": "View profile",
-          "src": "/images/team/team-11.png",
-          "iconSrc": "/images/Kahe/Innerpages/education.png",
-          "target": "_blank"
+          "label": "Academics",
+          "href": "academics"
         },
         {
-          "name": "Dr. P. Senthil Kumar",
-          "qualification": "M.Pharm., Ph.D",
-          "designation": "Professor",
-          "email": "drsenthilkumar.p@kahedu.edu.in",
-          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/04/dr-senthilkumar.pdf",
-          "profileText": "View profile",
-          "src": "/images/team/team-11.png",
-          "iconSrc": "/images/Kahe/Innerpages/education.png",
-          "target": "_blank"
+          "label": "Arts, Science, Commerce and Management",
+          "href": "academics/arts-science-and-humanities/"
         },
         {
-          "name": "Dr. Jameera Begum",
-          "qualification": "M.Pharm., Ph.D",
-          "designation": "Professor",
-          "email": "pharmasameera@gmail.com",
-          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/04/Dr.Jemeera-Begum.pdf",
-          "profileText": "View profile",
-          "src": "/images/team/team-11.png",
-          "iconSrc": "/images/Kahe/Innerpages/education.png",
-          "target": "_blank"
+          "label": "Department of Pharmacy",
+          "href": "/academics/arts-science-and-humanities/department-of-pharmacy"
         },
         {
-          "name": "Dr. T. Devadoss",
-          "qualification": "M.Pharm., Ph.D",
-          "designation": "Professor",
-          "email": "devadoss.thangaraj@kahedu.edu.in",
-          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/04/Dr-T-Devadoss.pdf",
-          "profileText": "View profile",
-          "src": "/images/team/team-11.png",
-          "iconSrc": "/images/Kahe/Innerpages/education.png",
-          "target": "_blank"
+          "label": "Faculty"
+        }
+      ],
+      "multifaculty": [
+        {
+          "title": "Department of Pharmaceutical Chemistry",
+          "faculty": [
+            {
+              "name": "Dr. D. Kumudha",
+              "qualification": "M.Pharm., Ph.D",
+              "designation": "Professor",
+              "email": "drkumudha.d@kahedu.edu.in",
+              "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/04/DR.D.KUMUDHA.pdf",
+              "profileText": "View profile",
+              "src": "/images/team/team-11.png",
+              "iconSrc": "/images/Kahe/Innerpages/education.png",
+              "target": "_blank"
+            },
+            {
+              "name": "Dr. P. Senthil Kumar",
+              "qualification": "M.Pharm., Ph.D",
+              "designation": "Professor",
+              "email": "drsenthilkumar.p@kahedu.edu.in",
+              "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/04/dr-senthilkumar.pdf",
+              "profileText": "View profile",
+              "src": "/images/team/team-11.png",
+              "iconSrc": "/images/Kahe/Innerpages/education.png",
+              "target": "_blank"
+            },
+            {
+              "name": "Dr. Jameera Begum",
+              "qualification": "M.Pharm., Ph.D",
+              "designation": "Professor",
+              "email": "pharmasameera@gmail.com",
+              "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/04/Dr.Jemeera-Begum.pdf",
+              "profileText": "View profile",
+              "src": "/images/team/team-11.png",
+              "iconSrc": "/images/Kahe/Innerpages/education.png",
+              "target": "_blank"
+            },
+            {
+              "name": "Dr. T. Devadoss",
+              "qualification": "M.Pharm., Ph.D",
+              "designation": "Professor",
+              "email": "devadoss.thangaraj@kahedu.edu.in",
+              "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/04/Dr-T-Devadoss.pdf",
+              "profileText": "View profile",
+              "src": "/images/team/team-11.png",
+              "iconSrc": "/images/Kahe/Innerpages/education.png",
+              "target": "_blank"
+            },
+            {
+              "name": "Dr. E. Hemnath",
+              "qualification": "M.Pharm., Ph.D",
+              "designation": "Associate Professor",
+              "email": "hemnathelango@kahedu.edu.in",
+              "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/04/E.HEMNATH.pdf",
+              "profileText": "View profile",
+              "src": "/images/team/team-11.png",
+              "iconSrc": "/images/Kahe/Innerpages/education.png",
+              "target": "_blank"
+            },
+            {
+              "name": "Mr. R. Velmurugan",
+              "qualification": "M.Pharm",
+              "designation": "Associate Professor",
+              "email": "velmurugan.r@kahedu.edu.in",
+              "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/04/Dr.-VELMURUGAN.pdf",
+              "profileText": "View profile",
+              "src": "/images/team/team-11.png",
+              "iconSrc": "/images/Kahe/Innerpages/education.png",
+              "target": "_blank"
+            },
+            {
+              "name": "Mr. R. Rajesh",
+              "qualification": "M.Pharm",
+              "designation": "Associate Professor",
+              "email": "rajesh.ramalingam@kahedu.edu.in",
+              "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/04/2.Mr_.Rajesh.pdf",
+              "profileText": "View profile",
+              "src": "/images/team/team-11.png",
+              "iconSrc": "/images/Kahe/Innerpages/education.png",
+              "target": "_blank"
+            },
+            {
+              "name": "Mrs. Subbulaxmi",
+              "qualification": "M.Pharm",
+              "designation": "Associate Professor",
+              "email": "babysubu@gmail.com",
+              "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/04/3.Mrs_.subbulakshmi.pdf",
+              "profileText": "View profile",
+              "src": "/images/team/team-11.png",
+              "iconSrc": "/images/Kahe/Innerpages/education.png",
+              "target": "_blank"
+            },
+            {
+              "name": "Dr. Md. Sheik Tharik",
+              "qualification": "M.Pharm., Ph.D",
+              "designation": "Associate Professor",
+              "email": "ms.tharik@gmail.com",
+              "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/04/Mr.Md-Sheik-Tharik.pdf",
+              "profileText": "View profile",
+              "src": "/images/team/team-11.png",
+              "iconSrc": "/images/Kahe/Innerpages/education.png",
+              "target": "_blank"
+            },
+            {
+              "name": "Mr. Prem S",
+              "qualification": "M.Pharm",
+              "designation": "Assistant Professor",
+              "email": "premselvam0@gmail.com",
+              "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/04/Mr.Prem_.pdf",
+              "profileText": "View profile",
+              "src": "/images/team/team-11.png",
+              "iconSrc": "/images/Kahe/Innerpages/education.png",
+              "target": "_blank"
+            },
+            {
+              "name": "Ms. Meenal",
+              "qualification": "M.Pharm",
+              "designation": "Assistant Professor",
+              "email": "meenalgandhi1999@gmail.com",
+              "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/04/Ms.MEENAL.pdf",
+              "profileText": "View profile",
+              "src": "/images/team/team-11.png",
+              "iconSrc": "/images/Kahe/Innerpages/education.png",
+              "target": "_blank"
+            },
+            {
+              "name": "Ms. Meghana",
+              "qualification": "M.Pharm",
+              "designation": "Assistant Professor",
+              "email": "lavanya.arunachalam@kahedu.edu.in",
+              "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/04/Ms.MEGHANA.pdf",
+              "profileText": "View profile",
+              "src": "/images/team/team-11.png",
+              "iconSrc": "/images/Kahe/Innerpages/education.png",
+              "target": "_blank"
+            },
+            {
+              "name": "Mr. G. Ajith Kumar",
+              "qualification": "M.Pharm",
+              "designation": "Assistant Professor",
+              "email": "ajithkumar.g@kahedu.edu.in",
+              "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/04/Mr.G.AJITH-KUMAR.pdf",
+              "profileText": "View profile",
+              "src": "/images/team/team-11.png",
+              "iconSrc": "/images/Kahe/Innerpages/education.png",
+              "target": "_blank"
+            },
+            {
+              "name": "Ms. M. Archana",
+              "qualification": "M.Pharm",
+              "designation": "Assistant Professor",
+              "email": "archana.m@kahedu.edu.in",
+              "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/09/Archana-biodata.pdf",
+              "profileText": "View profile",
+              "src": "/images/team/team-11.png",
+              "iconSrc": "/images/Kahe/Innerpages/education.png",
+              "target": "_blank"
+            },
+            {
+              "name": "Mr. C. Subasambasivam",
+              "qualification": "M.Pharm",
+              "designation": "Assistant Professor",
+              "email": "subasambasivam@kahedu.edu.in",
+              "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/04/Mr.CSUBASAMBASIVAM.pdf",
+              "profileText": "View profile",
+              "src": "/images/team/team-11.png",
+              "iconSrc": "/images/Kahe/Innerpages/education.png",
+              "target": "_blank"
+            },
+            {
+              "name": "Mr. S. Karthikeyan",
+              "qualification": "M.Pharm",
+              "designation": "Assistant Professor",
+              "email": "skarthikeyan51298@gmail.com",
+              "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/04/KARTHIKEYAN.S-ONE-PAGE-BIO-DATA.pdf",
+              "profileText": "View profile",
+              "src": "/images/team/team-11.png",
+              "iconSrc": "/images/Kahe/Innerpages/education.png",
+              "target": "_blank"
+            },
+            {
+              "name": "Mrs. D. Darthi",
+              "qualification": "M.Pharm",
+              "designation": "Assistant Professor",
+              "email": "darthideva10@gmail.com",
+              "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/04/biodata-format-1-Mrs.Darthi.pdf",
+              "profileText": "View profile",
+              "src": "/images/team/team-11.png",
+              "iconSrc": "/images/Kahe/Innerpages/education.png",
+              "target": "_blank"
+            },
+            {
+              "name": "Bibinamol M N",
+              "qualification": "M.Pharm",
+              "designation": "Assistant Professor",
+              "email": "mnbibinamol@gmail.com",
+              "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/10/Bibinamol-M-N.pdf",
+              "profileText": "View profile",
+              "src": "/images/team/team-11.png",
+              "iconSrc": "/images/Kahe/Innerpages/education.png",
+              "target": "_blank"
+            }
+          ]
         },
         {
-          "name": "Dr. E. Hemnath",
-          "qualification": "M.Pharm., Ph.D",
-          "designation": "Associate Professor",
-          "email": "hemnathelango@kahedu.edu.in",
-          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/04/E.HEMNATH.pdf",
-          "profileText": "View profile",
-          "src": "/images/team/team-11.png",
-          "iconSrc": "/images/Kahe/Innerpages/education.png",
-          "target": "_blank"
+          "title": "Department of Pharmaceutics",
+          "faculty": [
+            {
+              "name": "Dr. G. Saravanan",
+              "qualification": "M.Pharm., Ph.D",
+              "designation": "Professor",
+              "email": "drsaravanan.g@kahedu.edu.in",
+              "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/04/DR.G.SARAVANAN.pdf",
+              "profileText": "View profile",
+              "src": "/images/team/team-11.png",
+              "iconSrc": "/images/Kahe/Innerpages/education.png",
+              "target": "_blank"
+            },
+            {
+              "name": "Dr. R. Hariprasad",
+              "qualification": "M.Pharm., Ph.D",
+              "designation": "Professor",
+              "email": "hari2mpharm@gmail.com",
+              "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/06/Dr.-hariprasad-R.pdf",
+              "profileText": "View profile",
+              "src": "/images/team/team-11.png",
+              "iconSrc": "/images/Kahe/Innerpages/education.png",
+              "target": "_blank"
+            },
+            {
+              "name": "Dr. K. Gayathri",
+              "qualification": "M.Pharm., Ph.D",
+              "designation": "Associate Professor",
+              "email": "gayathri.k@kahedu.edu.in",
+              "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/04/Dr.Gayathri.pdf",
+              "profileText": "View profile",
+              "src": "/images/team/team-11.png",
+              "iconSrc": "/images/Kahe/Innerpages/education.png",
+              "target": "_blank"
+            },
+            {
+              "name": "Mrs. S. Kiruthika",
+              "qualification": "M.Pharm",
+              "designation": "Associate Professor",
+              "email": "kiruthika.s@kahedu.edu.in",
+              "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/04/Ms.-Kiruthika.pdf",
+              "profileText": "View profile",
+              "src": "/images/team/team-11.png",
+              "iconSrc": "/images/Kahe/Innerpages/education.png",
+              "target": "_blank"
+            },
+            {
+              "name": "Mrs. Gomathi",
+              "qualification": "M.Pharm",
+              "designation": "Associate Professor",
+              "email": "gomathi.marimuthu@kahedu.edu.in",
+              "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/04/Mrs.GOMATHI.pdf",
+              "profileText": "View profile",
+              "src": "/images/team/team-11.png",
+              "iconSrc": "/images/Kahe/Innerpages/education.png",
+              "target": "_blank"
+            },
+            {
+              "name": "Mr. M. Kaviyarasu",
+              "qualification": "M.Pharm",
+              "designation": "Associate Professor",
+              "email": "kavi.arasu025@gmail.com",
+              "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/04/8.Mr_.Kaviarasu-1.pdf",
+              "profileText": "View profile",
+              "src": "/images/team/team-11.png",
+              "iconSrc": "/images/Kahe/Innerpages/education.png",
+              "target": "_blank"
+            },
+            {
+              "name": "Mrs. Aiswarya",
+              "qualification": "M.Pharm",
+              "designation": "Assistant Professor",
+              "email": "aiswaryak672@gmail.com",
+              "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/04/Ms.Aiswarya.pdf",
+              "profileText": "View profile",
+              "src": "/images/team/team-11.png",
+              "iconSrc": "/images/Kahe/Innerpages/education.png",
+              "target": "_blank"
+            },
+            {
+              "name": "Ms. Gocika",
+              "qualification": "M.Pharm",
+              "designation": "Assistant Professor",
+              "email": "gocika.gunasekaran@kahedu.edu.in",
+              "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/04/Ms.GOCIKA.pdf",
+              "profileText": "View profile",
+              "src": "/images/team/team-11.png",
+              "iconSrc": "/images/Kahe/Innerpages/education.png",
+              "target": "_blank"
+            },
+            {
+              "name": "Ms. Sona",
+              "qualification": "M.Pharm",
+              "designation": "Assistant Professor",
+              "email": "sona.murali@kahedu.edu.in",
+              "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/04/Ms.Sona_.pdf",
+              "profileText": "View profile",
+              "src": "/images/team/team-11.png",
+              "iconSrc": "/images/Kahe/Innerpages/education.png",
+              "target": "_blank"
+            },
+            {
+              "name": "Mr. Arun Kumar",
+              "qualification": "M.Pharm",
+              "designation": "Assistant Professor",
+              "email": "arunkumar.maruthai@kahedu.edu.in",
+              "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/04/Mr.-Arun-kumar.pdf",
+              "profileText": "View profile",
+              "src": "/images/team/team-11.png",
+              "iconSrc": "/images/Kahe/Innerpages/education.png",
+              "target": "_blank"
+            },
+            {
+              "name": "Ms. Keerthana",
+              "qualification": "M.Pharm",
+              "designation": "Assistant Professor",
+              "email": "keerthanaravindran01@gmail.com",
+              "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/04/Ms.KEERTHANA.pdf",
+              "profileText": "View profile",
+              "src": "/images/team/team-11.png",
+              "iconSrc": "/images/Kahe/Innerpages/education.png",
+              "target": "_blank"
+            },
+            {
+              "name": "Mr. S. Pranav Ragavendra",
+              "qualification": "M.Pharm",
+              "designation": "Assistant Professor",
+              "email": "pranavragavendra007@gmail.com",
+              "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/04/Mr-Pranav-Ragavendra.pdf",
+              "profileText": "View profile",
+              "src": "/images/team/team-11.png",
+              "iconSrc": "/images/Kahe/Innerpages/education.png",
+              "target": "_blank"
+            },
+            {
+              "name": "Mr. Magesh Gopi",
+              "qualification": "M.Pharm",
+              "designation": "Assistant Professor",
+              "email": "mageshgopi.saravanamurugan@kahedu.edu.in",
+              "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/04/Mr-.MAGESH-GOPI.pdf",
+              "profileText": "View profile",
+              "src": "/images/team/team-11.png",
+              "iconSrc": "/images/Kahe/Innerpages/education.png",
+              "target": "_blank"
+            },
+            {
+              "name": "Mrs. M. Kanimozhi",
+              "qualification": "M.Pharm",
+              "designation": "Assistant Professor",
+              "email": "kanimozhi.m1997@gmail.com",
+              "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/04/Mrs.-Kanimozhi-M.pdf",
+              "profileText": "View profile",
+              "src": "/images/team/team-11.png",
+              "iconSrc": "/images/Kahe/Innerpages/education.png",
+              "target": "_blank"
+            },
+            {
+              "name": "Ms. R. Indra",
+              "qualification": "M.Pharm",
+              "designation": "Assistant Professor",
+              "email": "indraramesh01@gmail.com",
+              "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/04/Ms.Indra_.pdf",
+              "profileText": "View profile",
+              "src": "/images/team/team-11.png",
+              "iconSrc": "/images/Kahe/Innerpages/education.png",
+              "target": "_blank"
+            }
+          ]
         },
         {
-          "name": "Mr. R. Velmurugan",
-          "qualification": "M.Pharm",
-          "designation": "Associate Professor",
-          "email": "velmurugan.r@kahedu.edu.in",
-          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/04/Dr.-VELMURUGAN.pdf",
-          "profileText": "View profile",
-          "src": "/images/team/team-11.png",
-          "iconSrc": "/images/Kahe/Innerpages/education.png",
-          "target": "_blank"
+          "title": "Department of Pharmacology",
+          "faculty": [
+            {
+              "name": "Dr. P. Kumar Nallasivan",
+              "qualification": "M.Pharm., Ph.D",
+              "designation": "Professor",
+              "email": "kumarnallasivam.palani@kahedu.edu.in",
+              "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/04/DR.P.KUMAR-NALLASIVAM.pdf",
+              "profileText": "View profile",
+              "src": "/images/team/team-11.png",
+              "iconSrc": "/images/Kahe/Innerpages/education.png",
+              "target": "_blank"
+            },
+            {
+              "name": "Dr. G. Praveena",
+              "qualification": "M.Pharm., (Ph.D)",
+              "designation": "Associate Professor",
+              "email": "praveena.g@kahedu.edu.in",
+              "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/04/Dr-PRAVEENA.pdf",
+              "profileText": "View profile",
+              "src": "/images/team/team-11.png",
+              "iconSrc": "/images/Kahe/Innerpages/education.png",
+              "target": "_blank"
+            },
+            {
+              "name": "Mr. A. Ajithkumar",
+              "qualification": "M.Pharm",
+              "designation": "Assistant Professor",
+              "email": "ajithkumar.ayyanar@kahedu.edu.in",
+              "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/04/Mr.-Ajith-kumar.pdf",
+              "profileText": "View profile",
+              "src": "/images/team/team-11.png",
+              "iconSrc": "/images/Kahe/Innerpages/education.png",
+              "target": "_blank"
+            },
+            {
+              "name": "Ms. V. Nivedha",
+              "qualification": "M.Pharm",
+              "designation": "Assistant Professor",
+              "email": "nivedha.vijayan@kahedu.edu.in",
+              "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Ms.Nivetha-Biodata.pdf",
+              "profileText": "View profile",
+              "src": "/images/team/team-11.png",
+              "iconSrc": "/images/Kahe/Innerpages/education.png",
+              "target": "_blank"
+            }
+          ]
         },
         {
-          "name": "Mr. R. Rajesh",
-          "qualification": "M.Pharm",
-          "designation": "Associate Professor",
-          "email": "rajesh.ramalingam@kahedu.edu.in",
-          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/04/2.Mr_.Rajesh.pdf",
-          "profileText": "View profile",
-          "src": "/images/team/team-11.png",
-          "iconSrc": "/images/Kahe/Innerpages/education.png",
-          "target": "_blank"
+          "title": "Department of Pharmacognosy",
+          "faculty": [
+            {
+              "name": "Dr. P. Kumar Nallasivan",
+              "qualification": "M.Pharm., Ph.D",
+              "designation": "Professor",
+              "email": "kumarnallasivam.palani@kahedu.edu.in",
+              "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/04/DR.P.KUMAR-NALLASIVAM.pdf",
+              "profileText": "View profile",
+              "src": "/images/team/team-11.png",
+              "iconSrc": "/images/Kahe/Innerpages/education.png",
+              "target": "_blank"
+            },
+            {
+              "name": "Dr. G. Praveena",
+              "qualification": "M.Pharm., Ph.D",
+              "designation": "Associate Professor",
+              "email": "praveena.g@kahedu.edu.in",
+              "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/04/Dr-PRAVEENA.pdf",
+              "profileText": "View profile",
+              "src": "/images/team/team-11.png",
+              "iconSrc": "/images/Kahe/Innerpages/education.png",
+              "target": "_blank"
+            },
+            {
+              "name": "Mr. A. Ajithkumar",
+              "qualification": "M.Pharm",
+              "designation": "Assistant Professor",
+              "email": "ajithkumar.ayyanar@kahedu.edu.in",
+              "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/04/Mr.-Ajith-kumar.pdf",
+              "profileText": "View profile",
+              "src": "/images/team/team-11.png",
+              "iconSrc": "/images/Kahe/Innerpages/education.png",
+              "target": "_blank"
+            },
+            {
+              "name": "Ms. V. Nivedha",
+              "qualification": "M.Pharm",
+              "designation": "Assistant Professor",
+              "email": "nivedha.vijayan@kahedu.edu.in",
+              "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Ms.Nivetha-Biodata.pdf",
+              "profileText": "View profile",
+              "src": "/images/team/team-11.png",
+              "iconSrc": "/images/Kahe/Innerpages/education.png",
+              "target": "_blank"
+            }
+          ]
         },
         {
-          "name": "Mrs. Subbulaxmi",
-          "qualification": "M.Pharm",
-          "designation": "Associate Professor",
-          "email": "babysubu@gmail.com",
-          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/04/3.Mrs_.subbulakshmi.pdf",
-          "profileText": "View profile",
-          "src": "/images/team/team-11.png",
-          "iconSrc": "/images/Kahe/Innerpages/education.png",
-          "target": "_blank"
-        },
-        {
-          "name": "Dr. Md. Sheik Tharik",
-          "qualification": "M.Pharm., Ph.D",
-          "designation": "Associate Professor",
-          "email": "ms.tharik@gmail.com",
-          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/04/Mr.Md-Sheik-Tharik.pdf",
-          "profileText": "View profile",
-          "src": "/images/team/team-11.png",
-          "iconSrc": "/images/Kahe/Innerpages/education.png",
-          "target": "_blank"
-        },
-        {
-          "name": "Mr. Prem S",
-          "qualification": "M.Pharm",
-          "designation": "Assistant Professor",
-          "email": "premselvam0@gmail.com",
-          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/04/Mr.Prem_.pdf",
-          "profileText": "View profile",
-          "src": "/images/team/team-11.png",
-          "iconSrc": "/images/Kahe/Innerpages/education.png",
-          "target": "_blank"
-        },
-        {
-          "name": "Ms. Meenal",
-          "qualification": "M.Pharm",
-          "designation": "Assistant Professor",
-          "email": "meenalgandhi1999@gmail.com",
-          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/04/Ms.MEENAL.pdf",
-          "profileText": "View profile",
-          "src": "/images/team/team-11.png",
-          "iconSrc": "/images/Kahe/Innerpages/education.png",
-          "target": "_blank"
-        },
-        {
-          "name": "Ms. Meghana",
-          "qualification": "M.Pharm",
-          "designation": "Assistant Professor",
-          "email": "lavanya.arunachalam@kahedu.edu.in",
-          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/04/Ms.MEGHANA.pdf",
-          "profileText": "View profile",
-          "src": "/images/team/team-11.png",
-          "iconSrc": "/images/Kahe/Innerpages/education.png",
-          "target": "_blank"
-        },
-        {
-          "name": "Mr. G. Ajith Kumar",
-          "qualification": "M.Pharm",
-          "designation": "Assistant Professor",
-          "email": "ajithkumar.g@kahedu.edu.in",
-          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/04/Mr.G.AJITH-KUMAR.pdf",
-          "profileText": "View profile",
-          "src": "/images/team/team-11.png",
-          "iconSrc": "/images/Kahe/Innerpages/education.png",
-          "target": "_blank"
-        },
-        {
-          "name": "Ms. M. Archana",
-          "qualification": "M.Pharm",
-          "designation": "Assistant Professor",
-          "email": "archana.m@kahedu.edu.in",
-          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/09/Archana-biodata.pdf",
-          "profileText": "View profile",
-          "src": "/images/team/team-11.png",
-          "iconSrc": "/images/Kahe/Innerpages/education.png",
-          "target": "_blank"
-        },
-        {
-          "name": "Mr. C. Subasambasivam",
-          "qualification": "M.Pharm",
-          "designation": "Assistant Professor",
-          "email": "subasambasivam@kahedu.edu.in",
-          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/04/Mr.CSUBASAMBASIVAM.pdf",
-          "profileText": "View profile",
-          "src": "/images/team/team-11.png",
-          "iconSrc": "/images/Kahe/Innerpages/education.png",
-          "target": "_blank"
-        },
-        {
-          "name": "Mr. S. Karthikeyan",
-          "qualification": "M.Pharm",
-          "designation": "Assistant Professor",
-          "email": "skarthikeyan51298@gmail.com",
-          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/04/KARTHIKEYAN.S-ONE-PAGE-BIO-DATA.pdf",
-          "profileText": "View profile",
-          "src": "/images/team/team-11.png",
-          "iconSrc": "/images/Kahe/Innerpages/education.png",
-          "target": "_blank"
-        },
-        {
-          "name": "Mrs. D. Darthi",
-          "qualification": "M.Pharm",
-          "designation": "Assistant Professor",
-          "email": "darthideva10@gmail.com",
-          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/04/biodata-format-1-Mrs.Darthi.pdf",
-          "profileText": "View profile",
-          "src": "/images/team/team-11.png",
-          "iconSrc": "/images/Kahe/Innerpages/education.png",
-          "target": "_blank"
-        },
-        {
-          "name": "Bibinamol M N",
-          "qualification": "M.Pharm",
-          "designation": "Assistant Professor",
-          "email": "mnbibinamol@gmail.com",
-          "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/10/Bibinamol-M-N.pdf",
-          "profileText": "View profile",
-          "src": "/images/team/team-11.png",
-          "iconSrc": "/images/Kahe/Innerpages/education.png",
-          "target": "_blank"
+          "title": "Department of Pharmacy Practice",
+          "faculty": [
+            {
+              "name": "Dr. S. Hema Latha",
+              "qualification": "M.Pharm., Ph.D",
+              "designation": "Professor",
+              "email": "hemalatha.selvaraj@kahedu.edu.in",
+              "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/04/Dr.Hema-latha-2.pdf",
+              "profileText": "View profile",
+              "src": "/images/team/team-11.png",
+              "iconSrc": "/images/Kahe/Innerpages/education.png",
+              "target": "_blank"
+            },
+            {
+              "name": "Mrs. I. Mufida Begum",
+              "qualification": "M.Pharm., (Ph.D)",
+              "designation": "Associate Professor",
+              "email": "mufinisar2010@gmail.com",
+              "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/04/Mrs.-Mufida-Begum.pdf",
+              "profileText": "View profile",
+              "src": "/images/team/team-11.png",
+              "iconSrc": "/images/Kahe/Innerpages/education.png",
+              "target": "_blank"
+            },
+            {
+              "name": "Mr. J. Ramesh",
+              "qualification": "M.Pharm., (Ph.D)",
+              "designation": "Associate Professor",
+              "email": "j.ramesh1320@gmail.com",
+              "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/06/Mr.J.-Ramesh.pdf",
+              "profileText": "View profile",
+              "src": "/images/team/team-11.png",
+              "iconSrc": "/images/Kahe/Innerpages/education.png",
+              "target": "_blank"
+            },
+            {
+              "name": "Dr. Lavanya",
+              "qualification": "Pharm.D",
+              "designation": "Assistant Professor",
+              "email": "lavanyalavi221199@gmail.com",
+              "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/04/Mrs.Lavanya.pdf",
+              "profileText": "View profile",
+              "src": "/images/team/team-11.png",
+              "iconSrc": "/images/Kahe/Innerpages/education.png",
+              "target": "_blank"
+            },
+            {
+              "name": "Mr. Premnath",
+              "qualification": "M.Pharm",
+              "designation": "Assistant Professor",
+              "email": "premnath.p@kahedu.edu",
+              "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/04/Mr.PREMNATH.pdf",
+              "profileText": "View profile",
+              "src": "/images/team/team-11.png",
+              "iconSrc": "/images/Kahe/Innerpages/education.png",
+              "target": "_blank"
+            },
+            {
+              "name": "Dr. J. Priscilla Mary",
+              "qualification": "Pharm.D",
+              "designation": "Professor",
+              "email": "priscillamary1995@gmail.com",
+              "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/04/Dr.Pricilla-Mary.pdf",
+              "profileText": "View profile",
+              "src": "/images/team/team-11.png",
+              "iconSrc": "/images/Kahe/Innerpages/education.png",
+              "target": "_blank"
+            },
+            {
+              "name": "Mr. Mohammed Faizal",
+              "qualification": "M.Pharm",
+              "designation": "Associate Professor",
+              "email": "achuzus1a2@gmail.com",
+              "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/04/Mr.-Mohammad-fAIZAL.pdf",
+              "profileText": "View profile",
+              "src": "/images/team/team-11.png",
+              "iconSrc": "/images/Kahe/Innerpages/education.png",
+              "target": "_blank"
+            },
+            {
+              "name": "Dr. A. Gowtham",
+              "qualification": "Pharm.D",
+              "designation": "Assistant Professor",
+              "email": "gowtham.arumugam@kahedu.edu.in",
+              "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/04/Gowtham.pdf",
+              "profileText": "View profile",
+              "src": "/images/team/team-11.png",
+              "iconSrc": "/images/Kahe/Innerpages/education.png",
+              "target": "_blank"
+            },
+            {
+              "name": "Dr. S. Sruthi",
+              "qualification": "Pharm.D",
+              "designation": "Assistant Professor",
+              "email": "sruthi.saravana@kahedu.edu.in",
+              "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/04/Dr.Sruthi.pdf",
+              "profileText": "View profile",
+              "src": "/images/team/team-11.png",
+              "iconSrc": "/images/Kahe/Innerpages/education.png",
+              "target": "_blank"
+            },
+            {
+              "name": "Dr. J. Shavitha",
+              "qualification": "Pharm.D",
+              "designation": "Assistant Professor",
+              "email": "shavitha.jayaseelan@kahedu.edu.in",
+              "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/04/Shavitha-biodata.pdf",
+              "profileText": "View profile",
+              "src": "/images/team/team-11.png",
+              "iconSrc": "/images/Kahe/Innerpages/education.png",
+              "target": "_blank"
+            },
+            {
+              "name": "Ms. Linda Merlin RP",
+              "qualification": "M.Pharm",
+              "designation": "Assistant Professor",
+              "email": "lindamerlin66@gmail.com",
+              "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/04/Merlin-Linda-biodata.pdf",
+              "profileText": "View profile",
+              "src": "/images/team/team-11.png",
+              "iconSrc": "/images/Kahe/Innerpages/education.png",
+              "target": "_blank"
+            },
+            {
+              "name": "Dr. Jeni Sapthika S",
+              "qualification": "Pharm.D",
+              "designation": "Assistant Professor",
+              "email": "jenisapthika.sujikumar@kahedu.edu.in",
+              "profile": "https://kahedu.edu.in/n/wp-content/uploads/2025/11/Dr.Jeni-Sapthika.pdf",
+              "profileText": "View profile",
+              "src": "/images/team/team-11.png",
+              "iconSrc": "/images/Kahe/Innerpages/education.png",
+              "target": "_blank"
+            }
+          ]
         }
       ]
     },
-    
     {
       "tab": "Infrastructure",
       "items": [
