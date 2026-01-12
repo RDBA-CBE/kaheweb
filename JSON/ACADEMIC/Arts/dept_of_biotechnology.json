@@ -238,19 +238,19 @@
               },
               {
                 "year": "2019-2020",
-                "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/07/B.Sc_.-Biotechnology-2020-2021.pdf"
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2021/01/2019-M.Sc_.-Biotechnology_syllabus.pdf"
               },
               {
                 "year": "2020-2021",
-                "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/07/B.Sc_.-Biotechnology-2020-2021.pdf"
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/07/M.Sc_.-Biotechnology-2020-2021.pdf"
               },
               {
                 "year": "2021-2022",
-                "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/07/B.Sc_.-Biotechnology-2020-2021.pdf"
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/11/PG-2021-2022.pdf"
               },
               {
                 "year": "2022-2023",
-                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/11/UG-2022-2023.pdf"
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/11/PG-2022-2023.pdf"
               },
               {
                 "year": "2023-2024",
@@ -258,7 +258,7 @@
               },
               {
                 "year": "2024-2025",
-                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/11/UG-2025-2026.pdf"
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/11/Ph.D-2024-2025.pdf"
               },
               {
                 "year": "2025-2026",
@@ -277,9 +277,26 @@
                 "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/07/UG-Biochemistry_Syllabus_2020-2021.pdf"
               },
               {
+                "year": "2021-2022",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/11/PhD-2021-2022.pdf"
+              },
+              {
                 "year": "2022-2023",
-                "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/07/UG-Biochemistry_Syllabus_2020-2021.pdf"
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/11/Ph.D-2022-2023.pdf"
+              },
+              {
+                "year": "2023-2024",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/11/Ph.D-2023-2024.pdf"
+              },
+              {
+                "year": "2024-2025",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/11/Ph.D-2024-2025.pdf"
+              },
+              {
+                "year": "2025-2026",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/11/Ph.D-2025-2026.pdf"
               }
+
             ]
           }
         ]
@@ -759,6 +776,254 @@
       "tab": "Events",
       "slug": "department-of-biotechnology",
       "items": [
+        {
+          "title": "Events",
+
+          "multiContent": [
+            {
+              "title": "",
+              "content": "",
+              "images": {
+                "images": [
+                  {
+                    "id": 1,
+                    "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/event-1.jpg",
+                    "alt": "Karpagam Academy of Higher Education | best b com accounting and finance colleges in coimbatore"
+                  }
+                ]
+              }
+            },
+            {
+  "title": "",
+  "table": {
+    "content": [
+      {
+        "head": [
+          { "id": "col1", "label": "S. No." },
+          { "id": "col2", "label": "Date" },
+          { "id": "col3", "label": "Type of Event / Activity" },
+          { "id": "col4", "label": "Name and title of the Event" }
+        ],
+        "data": [
+          { "col1": { "text": "1" }, "col2": { "text": "09-01-2019 / 11-01-2019" }, "col3": { "text": "Conference" }, "col4": { "text": "International conference on advances in therapeutic molecules and drug design (ATMDD)" } },
+          { "col1": { "text": "2" }, "col2": { "text": "03-01-2019 / 04-01-2019" }, "col3": { "text": "Workshop" }, "col4": { "text": "Integrated workshop on Advance Biotechnology Techniques. Module 1: Volatile molecule analysis by Gas Chromatography" } },
+          { "col1": { "text": "3" }, "col2": { "text": "30-01-2019 / 31-01-2019" }, "col3": { "text": "Workshop" }, "col4": { "text": "Integrated workshop on Advance Biotechnology Techniques. Module 2: Functional properties of Biomolecules by FTIR" } },
+          { "col1": { "text": "4" }, "col2": { "text": "27-02-2019 / 28-02-2019" }, "col3": { "text": "Workshop" }, "col4": { "text": "Integrated workshop on advance biotechnology techniques – Module 4 Workshop on Gene Amplification Techniques" } },
+          { "col1": { "text": "5" }, "col2": { "text": "21-02-2019 / 22-02-2019" }, "col3": { "text": "Conference" }, "col4": { "text": "4th International Conference on Bioscience and Biotechnology (University of Kent, UK / NED University, Pakistan / TIIKM Sri Lanka / KAHE India)" } },
+          { "col1": { "text": "6" }, "col2": { "text": "26-04-2019" }, "col3": { "text": "World Intellectual Property Day" }, "col4": { "text": "International Day Celebration" } },
+          { "col1": { "text": "7" }, "col2": { "text": "13-05-2019 – 25-05-2019" }, "col3": { "text": "Workshop" }, "col4": { "text": "3rd Summer Training Program on Bioinstrumentation" } },
+          { "col1": { "text": "8" }, "col2": { "text": "30-01-2019" }, "col3": { "text": "Guest Lecture" }, "col4": { "text": "Effect of Antibiotics residues in the livestocks" } },
+          { "col1": { "text": "9" }, "col2": { "text": "27-02-2019" }, "col3": { "text": "Guest Lecture" }, "col4": { "text": "Production of biocontrol agent and organic farming" } },
+          { "col1": { "text": "10" }, "col2": { "text": "11-12-2019" }, "col3": { "text": "Extension Activity" }, "col4": { "text": "AIDS Awareness Program" } },
+
+          { "col1": { "text": "11" }, "col2": { "text": "12-12-2019" }, "col3": { "text": "Extension Activity" }, "col4": { "text": "Distribution of Nilavembu Extract to Public people of OthakalMandabam" } },
+          { "col1": { "text": "12" }, "col2": { "text": "22-10-2019 / 23-10-2019" }, "col3": { "text": "Hands on Training" }, "col4": { "text": "Summer training on Bioinstrumentation" } },
+          { "col1": { "text": "13" }, "col2": { "text": "19-12-2019" }, "col3": { "text": "Workshop" }, "col4": { "text": "National level lecture workshop on Advances of Biotechnology to next generation from dynamics to molecular mechanisms" } },
+          { "col1": { "text": "14" }, "col2": { "text": "09-01-2020 / 10-01-2020" }, "col3": { "text": "Workshop" }, "col4": { "text": "Workshop on Gas Chromatography Analysis – Volatile molecule analysis" } },
+          { "col1": { "text": "15" }, "col2": { "text": "13-02-2020 / 14-02-2020" }, "col3": { "text": "Conference" }, "col4": { "text": "National Conference on Plant Science and Nano Science" } },
+
+          { "col1": { "text": "16" }, "col2": { "text": "16-03-2020 / 18-03-2020" }, "col3": { "text": "Hands on Training" }, "col4": { "text": "Hands on training on Molecular Techniques to Karpagam College of Pharmacy students" } },
+          { "col1": { "text": "17" }, "col2": { "text": "19-03-2020 / 20-03-2020" }, "col3": { "text": "Hands on Training" }, "col4": { "text": "Hands on training on Gas chromatographic technique to Karpagam College of Pharmacy students" } },
+          { "col1": { "text": "18" }, "col2": { "text": "18-05-2020" }, "col3": { "text": "Webinar" }, "col4": { "text": "ITC and its data analysis using dynamic approach" } },
+          { "col1": { "text": "19" }, "col2": { "text": "27-05-2020" }, "col3": { "text": "Webinar" }, "col4": { "text": "Structural Biology: A road map to drug discovery" } },
+
+          { "col1": { "text": "20" }, "col2": { "text": "21-08-2019" }, "col3": { "text": "Guest Lecture" }, "col4": { "text": "Biotechnology: Prospects and Future" } },
+
+          { "col1": { "text": "21" }, "col2": { "text": "25-10-2019" }, "col3": { "text": "Guest Lecture" }, "col4": { "text": "A value of probiotics" } },
+
+          { "col1": { "text": "22" }, "col2": { "text": "15-10-2020 / 16-10-2020" }, "col3": { "text": "Conference" }, "col4": { "text": "Two days International e-Conference on Expanding Frontiers of Pharmaceutical Research towards global exigency" } },
+
+          { "col1": { "text": "23" }, "col2": { "text": "14-12-2020" }, "col3": { "text": "Webinar" }, "col4": { "text": "Herbal medicines and its applications" } },
+
+          { "col1": { "text": "24" }, "col2": { "text": "22-02-2021 / 23-02-2021" }, "col3": { "text": "Seminar" }, "col4": { "text": "Webinar on Novel Alternatives to Antibiotics" } },
+
+          { "col1": { "text": "25" }, "col2": { "text": "27-02-2021" }, "col3": { "text": "Seminar" }, "col4": { "text": "Webinar on Stem Cell Research" } },
+
+          { "col1": { "text": "26" }, "col2": { "text": "27-02-2021" }, "col3": { "text": "Seminar" }, "col4": { "text": "Webinar on Nanomaterial based emergency kits for healthcare application" } },
+
+          { "col1": { "text": "27" }, "col2": { "text": "08-03-2021" }, "col3": { "text": "Webinar" }, "col4": { "text": "Climate Change and its impact on Coral reefs" } },
+
+          { "col1": { "text": "28" }, "col2": { "text": "31-03-2021" }, "col3": { "text": "Webinar" }, "col4": { "text": "2D nanomaterials based multifunctional hybrid systems for advanced wound care applications" } },
+
+          { "col1": { "text": "29" }, "col2": { "text": "31-03-2021" }, "col3": { "text": "Scientific Competition" }, "col4": { "text": "Scientific Competition on Herbal Medicine" } },
+
+          { "col1": { "text": "30" }, "col2": { "text": "26-04-2021" }, "col3": { "text": "Webinar (Endowment Lecture)" }, "col4": { "text": "IPRs & Biotechnology – A Treasure Trove" } },
+
+          { "col1": { "text": "31" }, "col2": { "text": "22-01-2021" }, "col3": { "text": "Guest Lecture" }, "col4": { "text": "What next? Career option for life science Students" } },
+
+          { "col1": { "text": "32" }, "col2": { "text": "05-02-2021" }, "col3": { "text": "Guest Lecture" }, "col4": { "text": "CSIR NET Preparation Lecture for Life Science Students" } },
+
+          { "col1": { "text": "33" }, "col2": { "text": "25-02-2021" }, "col3": { "text": "Guest Lecture" }, "col4": { "text": "Virtual International Laboratory Visit & Special Lecture on Mycotoxins contamination in food and feed" } },
+
+          { "col1": { "text": "34" }, "col2": { "text": "26-03-2021" }, "col3": { "text": "Guest Lecture" }, "col4": { "text": "Cancer management and therapy using designer nanoparticles" } },
+
+          { "col1": { "text": "35" }, "col2": { "text": "01-12-2020" }, "col3": { "text": "Extension Activity" }, "col4": { "text": "AIDS Awareness Programme" } },
+
+          { "col1": { "text": "36" }, "col2": { "text": "23-09-2021 / 24-09-2021" }, "col3": { "text": "Conference" }, "col4": { "text": "Modern Utilization of Smart Nanomaterials in Healthcare and Environment" } },
+
+          { "col1": { "text": "37" }, "col2": { "text": "24-09-2021" }, "col3": { "text": "Webinar" }, "col4": { "text": "Skills of Entrepreneurs from Science to Business – Road to Success" } },
+
+          { "col1": { "text": "38" }, "col2": { "text": "27-09-2021 / 08-10-2021" }, "col3": { "text": "Workshop" }, "col4": { "text": "Workshop on Advanced Molecular Biology Techniques" } },
+
+          { "col1": { "text": "39" }, "col2": { "text": "27-09-2021 / 08-10-2021" }, "col3": { "text": "Workshop" }, "col4": { "text": "Workshop on Entrepreneurship and Skill Development in Plant Tissue Culture" } },
+
+          { "col1": { "text": "40" }, "col2": { "text": "20-01-2022" }, "col3": { "text": "Webinar" }, "col4": { "text": "Low-cost point of care devices for health care – A biotechnology perspective" } },
+
+          { "col1": { "text": "41" }, "col2": { "text": "28-01-2022" }, "col3": { "text": "Webinar" }, "col4": { "text": "Chaperon modulations in stem cells and their application" } },
+
+          { "col1": { "text": "42" }, "col2": { "text": "22-02-2022" }, "col3": { "text": "Seminar" }, "col4": { "text": "Fantastic opportunities and challenges in Biotech Entrepreneurship" } },
+
+          { "col1": { "text": "43" }, "col2": { "text": "28-02-2022" }, "col3": { "text": "Seminar" }, "col4": { "text": "Innovations in healthcare techniques" } },
+
+          { "col1": { "text": "44" }, "col2": { "text": "01-04-2022" }, "col3": { "text": "Seminar" }, "col4": { "text": "Technical Symposium on Bio-Innovation 2022" } },
+
+          { "col1": { "text": "45" }, "col2": { "text": "29-04-2022 / 30-04-2022" }, "col3": { "text": "Seminar" }, "col4": { "text": "Hands-on workshop in Modern Molecular Techniques" } },
+
+          { "col1": { "text": "46" }, "col2": { "text": "09-06-2022 / 11-06-2022" }, "col3": { "text": "Conference" }, "col4": { "text": "International Conference on Recent Innovations in Multidisciplinary Scientific Research (ICRIMSR-2022)" } },
+
+          { "col1": { "text": "47" }, "col2": { "text": "27-01-2022" }, "col3": { "text": "Guest Lecture" }, "col4": { "text": "Job Opportunities for Biotechnology graduates" } },
+
+          { "col1": { "text": "48" }, "col2": { "text": "23-02-2022" }, "col3": { "text": "Guest Lecture" }, "col4": { "text": "Skill Development in Recent Technologies in Biotechnology" } },
+
+          { "col1": { "text": "49" }, "col2": { "text": "11-03-2022" }, "col3": { "text": "Guest Lecture" }, "col4": { "text": "Career opportunities of Biotechnology in Entrepreneurship" } },
+
+          { "col1": { "text": "50" }, "col2": { "text": "21-03-2022" }, "col3": { "text": "Guest Lecture" }, "col4": { "text": "Entrepreneurial Training on Silk Reeling Process" } },
+
+          { "col1": { "text": "51" }, "col2": { "text": "02-03-2022" }, "col3": { "text": "Extension Activity" }, "col4": { "text": "Training on good agronomic practice for Biotic stress management in Millets to Tribal peoples" } },
+
+          { "col1": { "text": "52" }, "col2": { "text": "07-04-2022" }, "col3": { "text": "Extension Activity" }, "col4": { "text": "Saplings Plantation" } },
+
+          { "col1": { "text": "53" }, "col2": { "text": "03-03-2022" }, "col3": { "text": "Extension Activity" }, "col4": { "text": "Awareness Programme on Wildlife Conservation" } },
+
+          { "col1": { "text": "54" }, "col2": { "text": "09-06-2022" }, "col3": { "text": "Conference" }, "col4": { "text": "International Conference on Recent Innovations in Multidisciplinary Scientific Research" } },
+
+          { "col1": { "text": "55" }, "col2": { "text": "09-09-2022" }, "col3": { "text": "Seminar" }, "col4": { "text": "Recent approach in plant biotechnology for crop improvement" } },
+
+          { "col1": { "text": "56" }, "col2": { "text": "23-09-2022 / 24-09-2022" }, "col3": { "text": "Hands on Training" }, "col4": { "text": "Workshop on Microbial Proteomics & Therapeutics-2022" } },
+
+          { "col1": { "text": "57" }, "col2": { "text": "21-12-2022 / 23-12-2022" }, "col3": { "text": "Workshop" }, "col4": { "text": "Genetic Disorders and Genetic Counselling (GDGC 2022)" } },
+
+          { "col1": { "text": "58" }, "col2": { "text": "30-08-2022" }, "col3": { "text": "Workshop" }, "col4": { "text": "International Workshop on Innovative CRISPR Based Diagnosis" } },
+
+          { "col1": { "text": "59" }, "col2": { "text": "19-09-2022" }, "col3": { "text": "Workshop" }, "col4": { "text": "Hands on Training on Advanced Bioinstrumentation Techniques – Batch 1" } },
+
+          { "col1": { "text": "60" }, "col2": { "text": "10-10-2022" }, "col3": { "text": "Workshop" }, "col4": { "text": "Hands on Training on Advanced Bioinstrumentation Techniques – Batch 2" } },
+
+          { "col1": { "text": "61" }, "col2": { "text": "20-04-2023 / 21-04-2023" }, "col3": { "text": "Conference" }, "col4": { "text": "National Conference on Biotechnology for Environment and Sustainable Development" } },
+
+          { "col1": { "text": "62" }, "col2": { "text": "26-07-2022" }, "col3": { "text": "Guest Lecture" }, "col4": { "text": "Importance of Soft Skill Development" } },
+
+          { "col1": { "text": "63" }, "col2": { "text": "05-08-2022" }, "col3": { "text": "Guest Lecture" }, "col4": { "text": "Seaweeds Resources in India: Cultivation, Opportunities and Challenges" } },
+
+          { "col1": { "text": "64" }, "col2": { "text": "05-09-2022" }, "col3": { "text": "Guest Lecture" }, "col4": { "text": "Antifouling and Anticorrosion Activities of Metallic Nanoparticles" } },
+
+          { "col1": { "text": "65" }, "col2": { "text": "12-09-2022" }, "col3": { "text": "Guest Lecture" }, "col4": { "text": "Injury-Induced Brain Regeneration and Role of Immune Reaction in Zebrafish" } },
+
+          { "col1": { "text": "66" }, "col2": { "text": "16-09-2022" }, "col3": { "text": "Guest Lecture" }, "col4": { "text": "A Small Expedition to the World of Oncogenomics" } },
+
+          { "col1": { "text": "67" }, "col2": { "text": "16-09-2022" }, "col3": { "text": "Guest Lecture" }, "col4": { "text": "Mock Interview for Prefinal Year Students" } },
+
+          { "col1": { "text": "68" }, "col2": { "text": "21-10-2022" }, "col3": { "text": "Guest Lecture" }, "col4": { "text": "Alumni Guest Lecture" } },
+
+          { "col1": { "text": "69" }, "col2": { "text": "21-10-2022" }, "col3": { "text": "Guest Lecture" }, "col4": { "text": "Principle and Applications of Confocal Microscopy" } },
+
+          { "col1": { "text": "70" }, "col2": { "text": "26-10-2022" }, "col3": { "text": "Guest Lecture" }, "col4": { "text": "Gas Chromatography and Mass Spectrometry (GC-MS)" } },
+
+          { "col1": { "text": "71" }, "col2": { "text": "17-11-2022" }, "col3": { "text": "Guest Lecture" }, "col4": { "text": "The Art of Writing a Research Article – The True Story" } },
+
+          { "col1": { "text": "72" }, "col2": { "text": "03-02-2023" }, "col3": { "text": "Guest Lecture" }, "col4": { "text": "Entrepreneurship Opportunities in Biotechnology" } },
+
+          { "col1": { "text": "73" }, "col2": { "text": "03-03-2023" }, "col3": { "text": "Guest Lecture" }, "col4": { "text": "The Chemistry of Day-To-Day Life" } },
+
+          { "col1": { "text": "74" }, "col2": { "text": "18-11-2022" }, "col3": { "text": "Extension Activity" }, "col4": { "text": "Cultivation and Conservation of Indigenous Medicinal Plants" } },
+
+          { "col1": { "text": "75" }, "col2": { "text": "25-11-2022" }, "col3": { "text": "Extension Activity" }, "col4": { "text": "Millet Awareness" } },
+
+          { "col1": { "text": "76" }, "col2": { "text": "09-08-2023" }, "col3": { "text": "Seminar" }, "col4": { "text": "International Seminar on Skill Development in Cancer Biology" } },
+
+          { "col1": { "text": "77" }, "col2": { "text": "21-07-2023" }, "col3": { "text": "Workshop" }, "col4": { "text": "Entrepreneurial opportunities in Gas Chromatography" } },
+
+          { "col1": { "text": "78" }, "col2": { "text": "28-07-2023" }, "col3": { "text": "Workshop" }, "col4": { "text": "Entrepreneurial opportunities in RNA isolation and PCR" } },
+
+          { "col1": { "text": "79" }, "col2": { "text": "23-08-2023" }, "col3": { "text": "Workshop" }, "col4": { "text": "Entrepreneurial opportunities in Golden Manure preparation" } },
+
+          { "col1": { "text": "80" }, "col2": { "text": "24-08-2023" }, "col3": { "text": "Workshop" }, "col4": { "text": "Entrepreneurial opportunities in Apiculture" } },
+
+          { "col1": { "text": "81" }, "col2": { "text": "25-08-2023" }, "col3": { "text": "Workshop" }, "col4": { "text": "Entrepreneurial opportunities in Sericulture" } },
+
+          { "col1": { "text": "82" }, "col2": { "text": "09-02-2024 / 10-02-2024" }, "col3": { "text": "Conference" }, "col4": { "text": "National Conference on Innovative Advances in Biotechnology and Nano-Biotechnology" } },
+
+          { "col1": { "text": "83" }, "col2": { "text": "08-02-2024" }, "col3": { "text": "Workshop" }, "col4": { "text": "Intellectual Property: Sources of Innovation Growth and Challenges" } },
+
+          { "col1": { "text": "84" }, "col2": { "text": "02-08-2023" }, "col3": { "text": "Guest Lecture" }, "col4": { "text": "Intellectual Property: Sources of Innovation Growth and Challenges" } },
+
+          { "col1": { "text": "85" }, "col2": { "text": "14-10-2023" }, "col3": { "text": "Guest Lecture" }, "col4": { "text": "Food Quality Process" } },
+
+          { "col1": { "text": "86" }, "col2": { "text": "16-10-2023" }, "col3": { "text": "Guest Lecture" }, "col4": { "text": "Tough Decisions Are Always Right" } },
+
+          { "col1": { "text": "87" }, "col2": { "text": "13-12-2023" }, "col3": { "text": "Guest Lecture" }, "col4": { "text": "IPR – Patent writing and filing for value added products" } },
+
+          { "col1": { "text": "88" }, "col2": { "text": "15-12-2023" }, "col3": { "text": "Guest Lecture" }, "col4": { "text": "Relevance of Entrepreneurship in Bio-Tech Arena in AI Environment" } },
+
+          { "col1": { "text": "89" }, "col2": { "text": "31-01-2024" }, "col3": { "text": "Guest Lecture" }, "col4": { "text": "Idea to Design thinking for new product development" } },
+
+          { "col1": { "text": "90" }, "col2": { "text": "31-01-2024" }, "col3": { "text": "Guest Lecture" }, "col4": { "text": "A Novelty of Design Thinking" } },
+
+          { "col1": { "text": "91" }, "col2": { "text": "06-02-2024" }, "col3": { "text": "Guest Lecture" }, "col4": { "text": "Entrepreneurial Opportunities in Medical Coding" } },
+
+          { "col1": { "text": "92" }, "col2": { "text": "12-02-2024" }, "col3": { "text": "Guest Lecture" }, "col4": { "text": "Entrepreneurial Opportunities in Biotechnology Sectors" } },
+
+          { "col1": { "text": "93" }, "col2": { "text": "12-02-2024" }, "col3": { "text": "Guest Lecture" }, "col4": { "text": "Entrepreneurial Opportunities in Biotechnology Sectors" } },
+
+          { "col1": { "text": "94" }, "col2": { "text": "26-05-2024" }, "col3": { "text": "Guest Lecture" }, "col4": { "text": "Preparing Effective Proposal to Attract Funding Bodies" } },
+
+          { "col1": { "text": "95" }, "col2": { "text": "02-08-2023" }, "col3": { "text": "Guest Lecture" }, "col4": { "text": "Intellectual Property: Sources of Innovation Growth and Challenges" } },
+
+          { "col1": { "text": "96" }, "col2": { "text": "14-10-2023" }, "col3": { "text": "Guest Lecture" }, "col4": { "text": "Food Quality Process" } },
+
+          { "col1": { "text": "97" }, "col2": { "text": "16-10-2023" }, "col3": { "text": "Guest Lecture" }, "col4": { "text": "Tough Decisions Are Always Right" } },
+
+          { "col1": { "text": "98" }, "col2": { "text": "13-12-2023" }, "col3": { "text": "Guest Lecture" }, "col4": { "text": "IPR – Patent writing and filing for value added products" } },
+
+          { "col1": { "text": "99" }, "col2": { "text": "15-12-2023" }, "col3": { "text": "Guest Lecture" }, "col4": { "text": "Relevance of Entrepreneurship in Bio-Tech Arena in AI Environment" } },
+
+          { "col1": { "text": "100" }, "col2": { "text": "03-06-2024" }, "col3": { "text": "Extension Activity" }, "col4": { "text": "International Bicycle Day" } },
+
+          { "col1": { "text": "101" }, "col2": { "text": "21-12-2023 / 22-12-2023" }, "col3": { "text": "Extension Activity" }, "col4": { "text": "Millet Awareness" } },
+
+          { "col1": { "text": "102" }, "col2": { "text": "12-07-2024" }, "col3": { "text": "Workshop" }, "col4": { "text": "Three Days Skill Development Program on Clinical Laboratory Operations" } },
+
+          { "col1": { "text": "103" }, "col2": { "text": "30-08-2024" }, "col3": { "text": "Workshop" }, "col4": { "text": "Two days Intra Institutional start-up Competition and hands-on training on Atomic Absorption Spectroscopy" } },
+
+          { "col1": { "text": "104" }, "col2": { "text": "26-09-2024 / 27-09-2024" }, "col3": { "text": "Workshop" }, "col4": { "text": "Two days workshop on Analysis of heavy metals in pollutant water by Atomic Absorption Spectroscopy" } },
+
+          { "col1": { "text": "105" }, "col2": { "text": "19-12-2024 / 20-12-2024" }, "col3": { "text": "Conference" }, "col4": { "text": "National conference on Cutting edge Advancement of Biotechnology in healthcare and pharmaceutical sector" } },
+
+          { "col1": { "text": "106" }, "col2": { "text": "10-03-2025 / 11-03-2025" }, "col3": { "text": "Workshop" }, "col4": { "text": "Two-day workshop on IPR – Art of Patent Filing – Idea to Protection" } },
+
+          { "col1": { "text": "107" }, "col2": { "text": "08-07-2025 / 09-07-2025" }, "col3": { "text": "Workshop" }, "col4": { "text": "Entrepreneur Workshop on Mushroom Production" } },
+
+          { "col1": { "text": "108" }, "col2": { "text": "10-07-2025 / 11-07-2025" }, "col3": { "text": "Workshop" }, "col4": { "text": "Safe Food, Safe Life: Food Testing and Adulteration Assessment" } },
+
+          { "col1": { "text": "109" }, "col2": { "text": "05-08-2025" }, "col3": { "text": "Symposium" }, "col4": { "text": "Medicinal plants expo and student association Inauguration" } },
+
+          { "col1": { "text": "110" }, "col2": { "text": "07-08-2025 / 08-08-2025" }, "col3": { "text": "Workshop" }, "col4": { "text": "Hands-on Training on Analytical Techniques for Life Science Students" } },
+
+          { "col1": { "text": "111" }, "col2": { "text": "03-09-2025" }, "col3": { "text": "Workshop" }, "col4": { "text": "Lecture cum workshop on Emerging Trends in Intellectual Property Rights and Patent Systems" } },
+
+          { "col1": { "text": "112" }, "col2": { "text": "17-09-2025" }, "col3": { "text": "Workshop" }, "col4": { "text": "Exploring Heavy Metal Analysis through Atomic Absorption Spectroscopy" } },
+
+          { "col1": { "text": "113" }, "col2": { "text": "25-09-2025" }, "col3": { "text": "Workshop" }, "col4": { "text": "Exploring the Science of Separation: Gas Chromatography with Live Demonstration" } }
+        ]
+      }
+    ]
+  }
+}
+
+
+            
+          ]
+        },
         {
           "title": "International Conference",
           "content": [

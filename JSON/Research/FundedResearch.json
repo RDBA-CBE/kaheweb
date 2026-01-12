@@ -16,8 +16,9 @@
           {
             "src": "/images/Kahe/Innerpages/file.png",
             "title": "Funded Research Projects / Other Grants / Awards",
-            "item": "Open Pdf",
-            "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/Research-Grant_20-02-2020.pdf"
+            "item": "Download",
+            "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/Research-Grant_20-02-2020.pdf" ,
+            "target":"_blank"
           }
         ]
       },
@@ -28,8 +29,9 @@
           {
             "src": "/images/Kahe/Innerpages/file.png",
             "title": "Funded Research Projects / Other Grants / Awards",
-            "item": "Open Pdf",
-            "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/Research-Grant_20-02-2020.pdf"
+            "item": "Download",
+            "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/Research-Grant_20-02-2020.pdf",
+            "target":"_blank"
           }
         ]
       }

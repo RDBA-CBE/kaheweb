@@ -15,7 +15,7 @@
         "list": [
           {
             "src": "/images/Kahe/Innerpages/file.png",
-            "item": "Open Pdf",
+            "item": "Download",
             "url": "https://kahedu.edu.in/n/wp-content/uploads/2024/04/saarthis.docx.pdf",
             "target":"__blank"
           }
@@ -34,7 +34,7 @@
         "list": [
           {
             "src": "/images/Kahe/Innerpages/file.png",
-            "item": "Open Pdf",
+            "item": "Download",
             "url": "https://kahedu.edu.in/n/wp-content/uploads/2024/04/NEP-Quiz-feb-2024.pdf",
             "target":"__blank"
           }
@@ -47,7 +47,7 @@
         "list": [
           {
             "src": "/images/Kahe/Innerpages/file.png",
-            "item": "Open Pdf",
+            "item": "Download",
             "url": "https://kahedu.edu.in/n/wp-content/uploads/2024/04/NEP-guest-lecture.pdf",
             "target":"__blank"
           }
@@ -66,7 +66,7 @@
         "list": [
           {
             "src": "/images/Kahe/Innerpages/file.png",
-            "item": "Open Pdf",
+            "item": "Download",
             "url": "https://kahedu.edu.in/n/wp-content/uploads/2024/04/Report-on-NEP-2020-Final.pdf",
             "target":"__blank"
           }

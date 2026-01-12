@@ -182,6 +182,79 @@ const FacultyPage = ({ facultyContent }) => {
           </div>
         ))}
 
+        {facultyContent?.multifaculty &&
+          facultyContent?.multifaculty?.map((data, index) => (
+            <div className="row mt-5" key={index}>
+              <h2 className="w-decor-ti w-100">{data.title}</h2>
+              {data?.faculty?.map((item, index) => (
+                <div
+                  className="col-xl-3 col-lg-4  col-sm-6 col-12 mt--30 d-flex"
+                  key={index}
+                >
+                  <div className="rbt-team team-style-default style-three rbt-hover h-100 w-100">
+                    <div className="inner p-0 h-100 d-flex flex-column">
+                      <div className="thumbnail">
+                        <Image
+                          src={item.src || "/images/team/team-11.png"}
+                          width={415}
+                          height={555}
+                          priority
+                          alt={item.name}
+                        />
+                      </div>
+
+                      <div className="content p-3 py-5 ">
+                        <p className="main-sub-ti fw-semibold mb-2">{item.name}</p>
+
+                        {item.designation && <p>{item.designation}</p>}
+
+                        {item.qualification && (
+                          <span className="team-form">
+                            <img
+                              src={
+                                item?.iconSrc ||
+                                "/images/Kahe/Innerpages/education.png"
+                              }
+                              alt="icon"
+                              width={30}
+                              height={30}
+                            />
+                            <span className="location ms-2">
+                              {item.qualification}
+                            </span>
+                          </span>
+                        )}
+
+                        {item.email && (
+                          <span className="team-form ">
+                            <i className="feather-mail me-3"></i>
+                            <span
+                              className="location"
+                              style={{ wordBreak: "break-word" }}
+                            >
+                              {item.email}
+                            </span>
+                          </span>
+                        )}
+
+                        {item.profile && (
+                          <div className="read-more-btn mt-auto">
+                            <Link href={item?.profile} target={item?.target}>
+                              <span className="rbt-btn-link">
+                                {item?.profileText}{" "}
+                                <i className="feather-arrow-up-right"></i>
+                              </span>
+                            </Link>
+                          </div>
+                        )}
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              ))}
+            </div>
+          ))}
+
         {facultyContent?.cardContent && (
           <div className="section-bg1">
             <IconCard data={facultyContent?.cardContent} />

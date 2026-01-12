@@ -475,7 +475,8 @@
               "title": "Fee Refund Policy",
               "link": "https://kahedu.edu.in/n/wp-content/uploads/2023/07/fee-refund-policy.pdf",
               "desc": "Clear and fair fee refund procedures for students.",
-              "src": "/images/Kahe/menu/admissions.svg"
+              "src": "/images/Kahe/menu/admissions.svg",
+              "target":"_blank"
             }
           ]
         },
@@ -561,8 +562,7 @@
           "title": "Examination Reforms",
           "link": "/kahe/examinations/examination-reforms/",
           "desc": "Modernizing evaluation processes for enhanced academic integrity.",
-          "src": "/images/Kahe/menu/examination.svg",
-          "target": "_blank"
+          "src": "/images/Kahe/menu/examination.svg"
         }
       ]
     },
@@ -642,7 +642,7 @@
         },
         {
           "id": 9,
-          "title": "List Of PhD Scholars",
+          "title": "List of PhD Research",
           "link": "/kahe/research/list-of-ph-d-scholars/"
         },
         {
@@ -652,12 +652,12 @@
         },
         {
           "id": 11,
-          "title": "Research Opportunities Details",
+          "title": "Research Opportunities",
           "link": "/kahe/research/research-opportunities-details/"
         },
         {
           "id": 12,
-          "title": "List Of Phd Guides For Research",
+          "title": "List Of Phd Guides For Research Supervisors",
           "link": "/kahe/research/list-of-ph-d-guides-for-research/"
         },
         {
@@ -669,6 +669,12 @@
           "id": 14,
           "title": "Annual Research Congress",
           "link": "/kahe/research/annual-research-congress/"
+        },
+         {
+          "id": 15,
+          "title": "Research Database",
+          "link": "https://kaherdb.in/",
+          "target": "_blank"
         },
         {
           "id": 16,

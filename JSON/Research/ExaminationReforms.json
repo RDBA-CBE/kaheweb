@@ -16,8 +16,9 @@
           {
             "src": "/images/Kahe/Innerpages/file.png",
             "title": "KAHE Examination Reforms",
-            "item": "Open Pdf",
-            "url": "https://kahedu.edu.in/n/wp-content/uploads/2025/03/KAHE_Examinations-reforms.pdf"
+            "item": "Download",
+            "url": "https://kahedu.edu.in/n/wp-content/uploads/2025/03/KAHE_Examinations-reforms.pdf",
+            "target":"_blank"
           }
         ]
       }

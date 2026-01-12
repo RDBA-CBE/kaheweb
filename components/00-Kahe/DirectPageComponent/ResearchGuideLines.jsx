@@ -18,7 +18,7 @@ const ResearchGuideLines = (props) => {
   const breadcrumbItems = [
     { label: "Research", href: `research` },
     {
-      label: "Research Consultancy",
+      label: "Research Policy and Guidelines",
       href: ``,
     },
   ];

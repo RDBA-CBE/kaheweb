@@ -2635,7 +2635,7 @@
 }
 
 .omb-sec .border-bottom {
-  border-bottom: 1px solid #e6e4e4 !important;
+  border-bottom: 1px solid #a17f7f !important;
 }
 .slider-con .omb-sec {
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
@@ -2646,10 +2646,14 @@
   border-radius: 20px;
   padding: 30px;
   transition: background-color 0.4s ease, transform 0.4s ease;
+  background: #F4E9E7;
   height: 100%; /* allows grid stretch */
   max-height: 280px; /* cap only */
-  overflow: auto; /* scroll if content exceeds */
+  overflow: auto; /* scroll if content exceeds */ 
 }
+.omb-item1:hover {  background: #e0fff1;}
+.omb-item1 h3{color:#000;}
+.omb-item1 a{color: #66170E; text-decoration: underline;}
 .mom .omb-item1 {
   max-height: fit-content;
   background: #e0fff1;
