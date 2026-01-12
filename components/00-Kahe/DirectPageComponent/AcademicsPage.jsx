@@ -14,6 +14,10 @@ const AcademicsPage = () => {
   const merits = {
     title: "RECOGNITION",
     content: [
+       {
+        title: "Karpagam Academy of Higher Education is conferred with Deemed to be University status under Section 3 of UGC Act, 1956 in 2008.",
+        src: "/images/Kahe/Innerpages/group.png",
+      },
       {
         title: "Member of Association of Indian Universities.",
         src: "/images/Kahe/Innerpages/group.png",

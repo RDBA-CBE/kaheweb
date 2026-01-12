@@ -15,7 +15,7 @@ const Eventspage = ({ eventsContent }) => {
     <>
       <div className="section-wid events-pg" style={{ padding: "80px 0" }}>
         <div className="rbt-course-feature-inner">
-          <div className="section-title d-flex justify-content-lg-between ">
+          <div className="section-title d-flex justify-content-between ">
             <h2 className="decor-ti">{FirstLetterUp(eventsContent.tab)}</h2>
 
             <div className=" d-flex ">
