@@ -561,8 +561,7 @@
           "title": "Examination Reforms",
           "link": "/kahe/examinations/examination-reforms/",
           "desc": "Modernizing evaluation processes for enhanced academic integrity.",
-          "src": "/images/Kahe/menu/examination.svg",
-          "target": "_blank"
+          "src": "/images/Kahe/menu/examination.svg"
         }
       ]
     },
@@ -669,6 +668,12 @@
           "id": 14,
           "title": "Annual Research Congress",
           "link": "/kahe/research/annual-research-congress/"
+        },
+         {
+          "id": 15,
+          "title": "Research Database",
+          "link": "https://kaherdb.in/",
+          "target": "_blank"
         },
         {
           "id": 16,

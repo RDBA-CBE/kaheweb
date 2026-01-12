@@ -12,11 +12,13 @@
     "content": [
       {
         "title": "Regulations of FASCM 2023 – UG",
-        "url": "https://kahedu.edu.in/n/wp-content/uploads/2023/07/FASCM-UG-REGULATION-2023_FINAL.pdf"
+        "url": "https://kahedu.edu.in/n/wp-content/uploads/2023/07/FASCM-UG-REGULATION-2023_FINAL.pdf",
+         "target":"_blank"
       },
       {
         "title": "Regulations of FASCM 2023 – PG",
-        "url": "https://kahedu.edu.in/n/wp-content/uploads/2023/07/FASCM-PG-REGULATION-2023_FINAL.pdf"
+        "url": "https://kahedu.edu.in/n/wp-content/uploads/2023/07/FASCM-PG-REGULATION-2023_FINAL.pdf",
+        "target":"_blank"
       }
     ]
   },
@@ -28,7 +30,8 @@
     "content": [
       {
         "title": "Regulations of FOE 2023",
-        "url": "https://kahedu.edu.in/n/wp-content/uploads/2023/07/FoE.pdf"
+        "url": "https://kahedu.edu.in/n/wp-content/uploads/2023/07/FoE.pdf",
+         "target":"_blank"
       }
     ]
   },
@@ -40,23 +43,28 @@
     "content": [
       {
         "title": "Regulations of B.Arch 2023",
-        "url": "https://kahedu.edu.in/n/wp-content/uploads/2023/07/B.Arch_.pdf"
+        "url": "https://kahedu.edu.in/n/wp-content/uploads/2023/07/B.Arch_.pdf",
+         "target":"_blank"
       },
       {
         "title": "Regulations of B.Des FD 2023",
-        "url": "https://kahedu.edu.in/n/wp-content/uploads/2023/07/B.Des-FD-2023-regualtions-only.pdf"
+        "url": "https://kahedu.edu.in/n/wp-content/uploads/2023/07/B.Des-FD-2023-regualtions-only.pdf",
+         "target":"_blank"
       },
       {
         "title": "Regulations of B.Des ID 2023",
-        "url": "https://kahedu.edu.in/n/wp-content/uploads/2023/07/B.Des-ID-2023-regualtions-only.pdf"
+        "url": "https://kahedu.edu.in/n/wp-content/uploads/2023/07/B.Des-ID-2023-regualtions-only.pdf",
+         "target":"_blank"
       },
       {
         "title": "Regulations of M.Arch 2023",
-        "url": "https://kahedu.edu.in/n/wp-content/uploads/2023/07/M.Arch-2023-regulations-only.pdf"
+        "url": "https://kahedu.edu.in/n/wp-content/uploads/2023/07/M.Arch-2023-regulations-only.pdf",
+         "target":"_blank"
       },
       {
         "title": "Regulations of M.Plan 2023",
-        "url": "https://kahedu.edu.in/n/wp-content/uploads/2023/07/M.Plan-2023-regualtions-only.pdf"
+        "url": "https://kahedu.edu.in/n/wp-content/uploads/2023/07/M.Plan-2023-regualtions-only.pdf",
+         "target":"_blank"
       }
     ]
   },
