@@ -42,7 +42,7 @@ const ImageCard = ({ visionItem, missionItem }) => {
                 ))}
               </ul>
             )}
-            {visionItem.desc && <p>{visionItem.desc}</p>}
+            {visionItem.desc && <p dangerouslySetInnerHTML={{__html:visionItem.desc}}></p>}
           </div>
         )}
 

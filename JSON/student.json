@@ -1,7 +1,7 @@
 {
   "bannerCon": {
     "bannerImg": "/images/Kahe/Office-of-International-Affairs/overview-banner.webp",
-    "title": "Student",
+    "title": "Students",
     "bannerCon": "Fostering international collaboration and global learning experiences.",
     "applyLink": "/"
   },
@@ -50,7 +50,6 @@
         "title": " Students Grievance Redressal Mechanism",
         "url": "https://kahedu.edu.in/n/wp-content/uploads/2020/05/Students-grievance-redressal-Mechanism-Final.pdf",
         "target": "_blank"
-
       }
     ]
   },
@@ -58,11 +57,12 @@
     "type": "Institutional  Student Grievance Redressal Committee (ISGRC)",
     "subTitle": "Institutional  Student Grievance Redressal Committee (ISGRC)",
     "src": "/images/Kahe/Innerpages/vision.png",
-    "content": ["Dr. N. V. Balaji, Dean, FASH (Convenor)",
-"Dr. P. Thamilarasi, Dean, Student Affairs (Ex-Office)",
-"Dr. P. Shanmugasundaram, Dept. of Automobile Engineering (Faculty Member)",
-"Dr. K . Jothi, Head, Dept. of Commerce (Faculty Member)",
-"Mr. A. Rethish, II B.Sc CS (Cognitive System) (Student Member)"
+    "content": [
+      "Dr. N. V. Balaji, Dean, FASH (Convenor)",
+      "Dr. P. Thamilarasi, Dean, Student Affairs (Ex-Office)",
+      "Dr. P. Shanmugasundaram, Dept. of Automobile Engineering (Faculty Member)",
+      "Dr. K . Jothi, Head, Dept. of Commerce (Faculty Member)",
+      "Mr. A. Rethish, II B.Sc CS (Cognitive System) (Student Member)"
     ]
   },
   "mission": {

@@ -67,6 +67,12 @@ const Commitee = ({ data, paddingtop = false }) => {
           </div>
         ))}
       </div>
+
+      {data?.description2 && (
+        <div className="content">
+          <p>{data.description2}</p>
+        </div>
+      )}
     </div>
   );
 };

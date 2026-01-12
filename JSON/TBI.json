@@ -1,0 +1,250 @@
+{
+  "bannerCon": {
+    "bannerImg": "/images/Kahe/IQAC/overview-banner.webp",
+    "title": "Board of Trustees",
+    "bannerCon": "Monitoring standards and best practices, strengthening academic excellence.",
+    "applyLink": "/"
+  },
+
+  "tabs": [
+    {
+      "id": "overview",
+      "label": "Overview"
+    },
+    {
+      "id": "facility",
+      "label": "Facility"
+    },
+    {
+      "id": "seed-funding",
+      "label": "Seed Funding"
+    },
+    {
+      "id": "process",
+      "label": "Process"
+    },
+    {
+      "id": "policy",
+      "label": "Policy"
+    },
+    {
+      "id": "how-to-apply",
+      "label": "How to Apply"
+    }
+  ],
+
+  "tabContent": [
+    {
+      "tab": "overview",
+      "objectives": {
+        "Overview": {
+          "subTitle": "Overview",
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/03/KAHE-TBI-LOGO.jpg",
+          "desc": "The Institute established a non-profit Trust for Technology Business Incubation Centre (TBI) in 2019 to oversee all activities pertaining to translating research and know-how developed in the Institute to the market place. TBI has three broad activities to achieve the above mandate: <br/> <br/> (i) Facilitating commercialization of R&D technologies,<br/> (ii) Promoting faculty to incubate start-up companies in collaborative mode and <br/> (iii) Facilitating alumni and local entrepreneurs to establish start-up venture. <br/> <br/> TBI is supported by an advisory body consisting of industrialists, successful entrepreneurs, venture capitalists, technical specialists and managers as well as by the MSME-DI, GoI. <br/> <br/> Incubation is open to all entrepreneurs (i.e., they need not be KAHE faculty, alumni or students) so long as the idea is innovative and has commercial feasibility. A comprehensive organizational ecosystem has been established by KAHE, with the TBI, to nurture innovation by established companies and start-ups in collaboration with faculty of KAHE. TBI, with a group of Indian Angel Network and early stage Venture capital firms, is also the investing arm which can receive equity in the start-ups in lieu of the IP and Investment. <br/> <br/> An area of 18,920 sq.ft has been earmarked with basic infrastructural facilities like CEO’s cabin, cabin for executives, conference room and co-working cabins.<br/> <br/> KAHE through TBI has started two new programs – Entrepreneurship in Residence to allow inventors to explore the business potential of their invention and an initiative to help MSMEs move up the value chain through product development based on indigenous IP."
+        },
+        "establishment": {
+          "description": "Establishment of the following five Start-ups under Technology Business Incubation Centre are as follows.",
+
+          "content": [
+            {
+              "title": "Brightnest Technologies Pvt. Ltd."
+            },
+            {
+              "title": "Sivam Watts Hybrid System LLP"
+            },
+            {
+              "title": "Dhanvantri Drug Development Centre LLP"
+            },
+            {
+              "title": "Charcosorb India Private Limited"
+            },
+            {
+              "title": "Geonomics India Pvt. Ltd."
+            }
+          ],
+          "description2": "Also planning to establish ten more Start-ups under Technology Business Incubation Centre in 2020-21."
+        },
+        "contact": {
+          "title": "Further details – Contact",
+          "content": [
+            {
+              "bgcolor": "bg-lblue shadow-none",
+              "gridCls": " col-md-6 col-sm-6 col-12",
+              "src": "/images/Kahe/Innerpages/customer-service.png",
+              "ConClsName": "text-start",
+              "subtitle": "The Manager – Technology Business Incubator",
+              "content": "Karpagam Academy of Higher EducationQAC",
+              "links": [
+                {
+                  "icon": "feather-phone-call",
+                  "text": "+914222980011 – 14, Ext. 232"
+                },
+                {
+                  "icon": "feather-phone-call",
+                  "text": "+91 98437 53892"
+                },
+                {
+                  "icon": "feather-mail",
+                  "text": "tbioffice@kahedu.edu.in",
+                  "url": "mailto:tbioffice@kahedu.edu.in"
+                },
+                {
+                  "icon": "feather-mail",
+                  "text": "info@kahedu.edu.in",
+                  "url": "mailto:info@kahedu.edu.in"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+
+    {
+      "tab": "facility",
+      "facilities": {
+        "title": "Facilities",
+        "caption": "KAHE – TBI provides both physical and virtual incubation. The incubation programme offers the following facilities / benefits to the incubatees.",
+        "content": [
+          {
+            "title": "Dedicated Mentorship",
+            "content": "Mentor pool comprises of KAHE Alumni, Faculty, Entrepreneurs, and investors with expertise on different domains.",
+            "src": "/images/Kahe/Innerpages/group.png"
+          },
+          {
+            "title": "Seed Funding",
+            "content": "KAHE-TBI offers seed funding to eligible incubatees in form of equity/debt.",
+            "src": "/images/Kahe/Innerpages/group.png"
+          },
+          {
+            "title": "Funding Connect",
+            "content": "We help our startups leverage our strong investor network.",
+            "src": "/images/Kahe/Innerpages/group.png"
+          },
+          {
+            "title": "Networking",
+            "content": "KAHE – TBI connects incubatees to potential funding customers and investors and in turn leverages strong ties with investor community.",
+            "src": "/images/Kahe/Innerpages/group.png"
+          },
+          {
+            "title": "Plug and Play Workspace",
+            "content": "Furnished office space (which may seat upto 5-6 persons) at KAHE campus, PC with internet, printing and conferencing facility.",
+            "src": "/images/Kahe/Innerpages/group.png"
+          },
+          {
+            "title": "Support Services",
+            "content": "Legal, Secretarial, IT Infrastructure support, HR & Payroll, Travel and Logistics services provided by competent service providers at preferential rates.",
+            "src": "/images/Kahe/Innerpages/group.png"
+          },
+          {
+            "title": "KAHE Student Support",
+            "content": "Engage KAHE students with the incubatees and help in solving some of the challenges faced by the start-ups.",
+            "src": "/images/Kahe/Innerpages/group.png"
+          },
+          {
+            "title": "Training Program",
+            "content": "Training program on various aspects of entrepreneurship at KAHE campus.",
+            "src": "/images/Kahe/Innerpages/group.png"
+          }
+        ]
+      }
+    },
+
+    {
+      "tab": "seed-funding",
+      "seedFunding": {
+        "content": [
+          {
+            "title1": "SeedFunding",
+            "caption": "Finance Officer",
+            "content": "KAHE-TBI offers seed funding to eligible incubatees in the form of equity / debt. The basic idea of seed support is providing financial assistance to startups with new and meritorious ideas, innovations and technologies. The seed fund is supposed to act as a bridge between development and commercialization of innovative technologies/products/services.",
+            "src": "/images/Kahe/team-13.png"
+          }
+        ]
+      }
+    },
+
+    {
+      "tab": "process",
+      "process": [
+        {
+          "title": "Process",
+          "content": [
+            "Application for incubation – A formal expression of interest for incubation along with the business plan needs to be submitted",
+            "Selection of incubatees – A multistage process – the initial levels of screening done by the KAHE-TBI management. Final decision taken by the steering committee.",
+            "Incubation Agreement – On approval of incubation support, the startup needs to sign the incubation agreement with KAHE-TBI. It is mandatory for the startup to form a for-profit company before signing the agreement.",
+            "Incubation Support – All the facilities mentioned on the facility page are made available to the incubatee. The incubatee is expected to interact with the assigned mentors on regular basis.",
+            "Ongoing Monitoring – Incubatee to submit monthly progress report and detailed quarterly report. A monitoring & review committee comprising of faculty, alumni, entrepreneurs and investors reviews the progress every quarter and advises on the way forward.",
+            "Graduation – On becoming self-sustainable, on raising funds to finance expansion plan, on selling the venture to larger company, on expiry of the incubation period."
+          ],
+          "desc1": "The standard incubation period at the KAHE-TBI is 24 months."
+        },
+        {
+          "title": "Charges",
+          "desc": "The KAHE-TBI facilities (except the outsourced support services) are provided to the incubatees at no charge. The support services will have to be availed by the incubatees, at their discretion, on paid basis from the service providers.",
+
+          "desc1": "KAHE-TBI will take a small percentage of equity as a consideration for the incubation support."
+        },
+        {
+          "title": "Selection Criteria",
+          "desc": "KAHE-TBI is looking for early-stage start-ups with innovative ideas having a prototype or proof of concept which can become fundable or self sustainable in 18 – 24 months time.",
+
+          "desc1": "There is a special interest in ventures offering technology enabled solutions with a social impact. Healthcare, Clean Energy, Analytics, Life sciences, IOT is the preferred domains."
+        }
+      ]
+    },
+
+    {
+      "tab": "policy",
+      "policy": {
+        "title": "Policy",
+
+        "content": [
+          {
+            "id": 1,
+            "list": [
+              {
+                "src": "/images/Kahe/Innerpages/file.png",
+                "title": "KAHE Innovation and Startup Policy",
+                "item": "KAHE Innovation and Startup Policy",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2022/07/KAHE-Innovation-and-Startup-Policy.pdf",
+                "target": "_blank"
+              },
+              {
+                "src": "/images/Kahe/Innerpages/file.png",
+                "title": "Tamil Nadu State Innovation and Startup Policy",
+                "item": "Tamil Nadu State Innovation and Startup Policy",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2022/07/STARTUP-TN-Policy.pdf",
+                "target": "_blank"
+              },
+              {
+                "src": "/images/Kahe/Innerpages/file.png",
+                "title": "National Innovation and Startup Policy",
+                "item": "National Innovation and Startup Policy",
+                "url": "https://kahedu.edu.in/n/wp-content/uploads/2022/07/National-Startup_policy_2019.pdf",
+                "target": "_blank"
+              }
+            ]
+          }
+        ]
+      }
+    },
+
+    {
+      "tab": "how-to-apply",
+      "howtoapply": {
+        "title": "How To Apply",
+        "image": "https://kahedu.edu.in/n/wp-content/uploads/2022/05/Technology-Business-Incubator.jpg",
+        "btnText": "To Apply Click Here",
+        "btnUrl": "https://docs.google.com/forms/d/e/1FAIpQLSf5DWopTMNklM7GPmWnN0lt4K9cfZhO8QpJ7z1w7gsgJ3O-1g/viewform?usp=pp_url"
+      }
+    },
+
+    {
+     
+        "tab": "bottomContent",
+        "image": "https://kahedu.edu.in/n/wp-content/uploads/2024/01/Ignition-Grant-Post-2nd-Call-scaled.jpg"
+     
+    }
+  ]
+}

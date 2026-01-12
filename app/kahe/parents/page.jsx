@@ -11,19 +11,18 @@ import {
 } from "@/JSON/ACADEMIC/Overview";
 import Sidebar2 from "@/components/00-Kahe/common-components/Sidebar2";
 import Commitee from "@/components/00-Kahe/Components/About/Commitee";
+import InnerBanner from "@/components/00-Kahe/common-components/InnerBanner";
+import Breadcrumb from "@/components/00-Kahe/common-components/BreadCrumb";
 
 const OfficeOfInternationalAffairsOverview = () => {
   const research = data;
   console.log("research", research);
 
   const breadcrumbItems = [
+   
     {
-      label: "Office of International Affairs",
-      href: `/office-of-international-affairs/`,
-    },
-    {
-      label: "Overview",
-      href: "/kahe/office-of-international-affairs/office-of-international-affairs-overview/",
+      label: "Parents",
+      
     },
   ];
 
@@ -31,6 +30,10 @@ const OfficeOfInternationalAffairsOverview = () => {
     <>
       <Provider store={Store}>
         <Context>
+          <InnerBanner data={research?.bannerCon} />
+          <section className="bg-white  sticky-top">
+            <Breadcrumb items={breadcrumbItems} />
+          </section>
           <AboutOverview data={research?.overview} />
           <section className="section-wid section-bg1">
             <Commitee data={research?.student_att} />

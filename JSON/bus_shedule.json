@@ -1,12 +1,13 @@
 {
   "bannerCon": {
     "bannerImg": "/images/Kahe/examination/Exam-Notification/examnotification-banner.webp",
-    "title": "Exam Notification",
+    "title": "Bus Schedule",
     "bannerCon": "Important dates and details, stay informed and prepared.",
     "applyLink": "/"
   },
   "examiNotify": {
     "title": "Department of Transport",
+    "title1":"TRANSPORT FACILITIES AVAILABLE FOR STAFF AND STUDENTS",
    "content": [
     {
       "head": [

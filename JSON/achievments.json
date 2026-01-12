@@ -1,0 +1,144 @@
+{
+  "bannerCon": {
+    "bannerImg": "/images/Kahe/IQAC/overview-banner.webp",
+    "title": "Achievements",
+    "bannerCon": "Monitoring standards and best practices, strengthening academic excellence.",
+    "applyLink": "/"
+  },
+
+  "facAchievemnets": [
+    {
+      "title1": "Faculty of Arts Science  and Humanities",
+
+      "content": [
+        {
+          "subtitle": "Computer Science",
+          "id": 1,
+          "list": [
+            {
+              "src": "/images/Kahe/Innerpages/file.png",
+              "title": "Dr. S. Manjupriya",
+              "item": "Dr. S. Manjupriya",
+              "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/Awards_Manju.pdf",
+              "target": "_blank"
+            },
+            {
+              "src": "/images/Kahe/Innerpages/file.png",
+              "title": "Dr. M. Mohankumar",
+              "item": "Dr. M. Mohankumar",
+              "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/Awards-Dr.M.Mohankumar-1.pdf",
+              "target": "_blank"
+            },
+            {
+              "src": "/images/Kahe/Innerpages/file.png",
+              "title": "Dr. S. Saravana Kumar",
+              "item": "Dr. S. Saravana Kumar",
+              "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/Awards-Dr.S.Saravana-Kumar.pdf",
+              "target": "_blank"
+            },
+            {
+              "src": "/images/Kahe/Innerpages/file.png",
+              "title": "Dr. Genish T",
+              "item": "Dr. Genish T",
+              "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/Awards-Genish.-T.pdf",
+              "target": "_blank"
+            },
+            {
+              "src": "/images/Kahe/Innerpages/file.png",
+              "title": "Ms. K. Kanimozhi",
+              "item": "Ms. K. Kanimozhi",
+              "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/Awards-K.Kanimozhi.pdf",
+              "target": "_blank"
+            }
+          ]
+        },
+
+        {
+          "subtitle": "Department of  Mathematics",
+          "id": 1,
+          "list": [
+            {
+              "src": "/images/Kahe/Innerpages/file.png",
+              "title": "Ms. M. Sangeetha",
+              "item": "Ms. M. Sangeetha",
+              "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/Faculty-Achievement.pdf",
+              "target": "_blank"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title1": "Engineering",
+
+      "content": [
+        {
+          "subtitle": "Electronics and Communication Engineering",
+          "id": 1,
+          "list": [
+            {
+              "src": "/images/Kahe/Innerpages/file.png",
+              "title": "Dr. Baskar",
+              "item": "Dr. Baskar",
+              "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/Dr.Baskar.pdf",
+              "target": "_blank"
+            },
+            {
+              "src": "/images/Kahe/Innerpages/file.png",
+              "title": "Dr. Kamalraj",
+              "item": "Dr. Kamalraj",
+              "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/Dr.Kamalraj.pdf",
+              "target": "_blank"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+
+  "stuAchievemnets": [
+    {
+      "title1": "Faculty of Arts Science  and Humanities",
+
+      "content": [
+        {
+          "subtitle": "Department of Management",
+          "id": 1,
+          "list": [
+            {
+              "src": "/images/Kahe/Innerpages/file.png",
+              "title": "Mr. S. Sathish",
+              "item": "Mr. S. Sathish",
+              "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/Mr.-S.-Sathish.pdf",
+              "target": "_blank"
+            }
+          ]
+        },
+
+        {
+          "subtitle": "Department of  Mathematics",
+          "id": 1,
+          "list": [
+            {
+              "src": "/images/Kahe/Innerpages/file.png",
+              "title": "Mr. K. Sabarinath",
+              "item": "Mr. K. Sabarinath",
+              "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/STUDENT-ACHIEVEMENT-SABARINATH.pdf",
+              "target": "_blank"
+            },
+            {
+              "src": "/images/Kahe/Innerpages/file.png",
+              "title": "Mr. S. Vignesh",
+              "item": "Mr. S. Vignesh",
+              "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/STUDENT-ACHIEVEMENT-VIGNESH.pdf",
+              "target": "_blank"
+            }
+          ]
+        }
+      ]
+    }
+
+  
+  ]
+}
