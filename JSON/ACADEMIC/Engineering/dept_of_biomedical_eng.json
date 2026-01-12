@@ -293,120 +293,87 @@
           "type": "laboratories",
           "title": "Facilities laboratories List",
           "content": [
-            "UG Biochemistry Lab I & II",
-            "PG Biochemistry Lab",
-            "Research Laboratory",
-            "Animal Tissue Culture Lab",
-            "Animal House of in vivo animal studies"
+            "Bio sensors and Transducers Lab",
+            "Biomedical Signal Processing Lab",
+            "Biomedical Instrumentation Lab",
+            "Diagnostic & Therapeutic Equipments Lab"
           ]
         },
         {
           "type": "equipment",
-          "title": "Major Research Equipments",
+          "title": "Research Lab",
           "content": [
-            "ELISA Reader",
-            "Thermal Cycler",
-            "Horizontal and Vertical Electrophoresis Unit",
-            "Wet Transfer Unit",
-            "Semi-dry Transfer Unit",
-            "Laminar Chamber for Animal Tissue Culture",
-            "CO2 Incubator",
-            "Inverted Phase Contrast Microscope",
-            "Fluorescence Microscope",
-            "Orbital Shaker",
-            "Rotary Evaporator",
-            "Laminar Chamber for Microbiology",
-            "Refrigerated centrifuge",
-            "Millipore Water System",
-            "Photo Fluorimeter",
-            "Centrifuge (4 bucket)",
-            "Colorimeter",
-            "Soxhlet Apparatus",
-            "Magnetic Stirrer",
-            "Incubator",
-            "Conductivity meter",
-            "Water bath",
-            "Electronic balance",
-            "Microscope",
-            "Hot air oven",
-            "Cyclo mixer",
-            "pH meter",
-            "Lyophilizer (Borg Scientific)",
-            "Bio-rad gel documentation (Biorad)",
-            "Individual Ventilated Caging System (IVC)",
-            "Cooling Microcentrifuge"
+            "Centre for Rehabilitation and Healthcare Lab",
+            "Centre for Biophotonics and Technology Lab"
+          ]
+        },
+          {
+          "type": "library",
+          "title": "Laboratory Facilities:",
+          "desc":"Department of Biomedical Engineering have well equipped laboratories which are used for academic, research established projects.",
+
+          "content": [
+            "Department of BME believes in imparting strong practical exposure to students.",
+            "Maintains its specialized labs, equipped with modern equipment of industry standards.",
+            "The Department of BME keeps upgrading the facilities and equipment in the laboratories to the latest industry standards, from time to time.",
+            "Proceedings : 22",
+            "Ph.D thesis : 32"
           ]
         },
         {
           "type": "gallery",
-          "slug": "department-of-biochemistry",
-          "images": [
-            {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/Ultra-Violet-Visible-Spectrometer-150x150.png",
-              "alt": "Visible Spectrometer - Top Science College in Coimbatore",
-              "title": "Visible Spectrometer – Top Science College in Coimbatore"
-            },
-            {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/High-Perfomance-Liquid-Chromatography-150x150.png",
-              "alt": "Liquid Chromatography - Best college for Science in Coimbatore",
-              "title": "Liquid Chromatography – Best college for Science in Coimbatore"
-            },
-            {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/GAS-Chromatography-150x150.png",
-              "alt": "Gas Chromatography - Best Engineering college in India",
-              "title": "Gas Chromatography – Best Engineering college in India"
-            },
-            {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/fourier-trandform-infrared-spectroscopy-150x150.png",
-              "alt": "Infrared Spectroscopy - Best Science College in Tamilnadu",
-              "title": "Infrared Spectroscopy – Best Science College in Tamilnadu"
-            },
-            {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/Elisa-Plate-Reader-150x150.png",
-              "alt": "Elisa Plate Reader - Best Educational Institute in India",
-              "title": "Elisa Plate Reader – Best Educational Institute in India"
-            },
-            {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/bc_gallery1-150x150.png",
-              "alt": "Medical camp - Coimbatore Best Engineering college",
-              "title": "Medical camp – Coimbatore Best Engineering college"
-            },
-            {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/bc_gallery2-150x150.png",
-              "alt": "KAHE Volunteers - Coimbatore degree colleges",
-              "title": "KAHE Volunteers – Coimbatore degree colleges"
-            },
-            {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/bc_gallery3-150x150.png",
-              "alt": "Karpagam Group - Top 10 Arts Colleges in Coimbatore",
-              "title": "Karpagam Group – Top 10 Arts Colleges in Coimbatore"
-            },
-            {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/bc_gallery4-150x150.png",
-              "alt": "KAHE activities - Top college for Engineering",
-              "title": "KAHE activities – Top college for Engineering"
-            },
-            {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/03/pht-150x150.png",
-              "alt": "Lab experiment - Best Pharmacy College in Coimbatore",
-              "title": "Lab experiment – Best Pharmacy College in Coimbatore"
-            },
-            {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/03/pht-1-150x150.png",
-              "alt": "Initiatives - Best Arts and Science College in India",
-              "title": "Initiatives – Best Arts and Science College in India"
-            },
-            {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/03/pht-2-150x150.png",
-              "alt": "Student Projects - Top Engineering college",
-              "title": "Student Projects – Top Engineering college"
-            },
-            {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/03/pht-3-150x150.png",
-              "alt": "Projects at KAHE - Top college for Arts and Science",
-              "title": "Projects at KAHE – Top college for Arts and Science"
-            }
-          ]
+          "slug": "department-of-biomedical-engineering",
+           "breadcrumbItems": [
+        {
+          "label": "Academics",
+          "href": "/academics"
+        },
+        {
+          "label": "Engineering",
+          "href": "academics/engineering/"
+        },
+        {
+          "label": "Department of Biomedical Engineering",
+          "href": "/academics/engineering/department-of-biomedical-engineering"
+        },
+        {
+          "label": "Infrastructure Gallery"
+        }
+      ],
+          "images":[
+  {
+    "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/03/bio4-150x150.png",
+    "alt": "b com accounting and finance colleges in tamilnadu"
+  },
+  {
+    "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/03/bio5-150x150.png",
+    "alt": "b com finance colleges in tamilnadu"
+  },
+  {
+    "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/03/bio3-1-150x150.png",
+    "alt": "Top BCom Professional Accounting Colleges in Coimbatore"
+  },
+  {
+    "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/03/bio1-1-150x150.png",
+    "alt": "pharm d colleges in coimbatore fees structure"
+  },
+  {
+    "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/04/lab8-150x150.jpg",
+   "alt": "b com finance colleges in tamilnadu"
+  },
+  {
+    "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/04/lab7-150x150.jpg",
+    "alt": "b com finance colleges in tamilnadu"
+  },
+  {
+    "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/04/lab6-150x150.jpg",
+    "alt": "b com finance colleges in tamilnadu"
+  },
+  {
+    "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/04/lab5-150x150.jpg",
+    "alt": "b com finance colleges in tamilnadu"
+  }
+]
         }
       ]
     },
@@ -471,135 +438,111 @@
       "tab": "Events",
       "slug": "department-of-biochemistry",
       "items": [
-        {
-          "title": "Conferences / Seminar / Symposium",
-          "content": [
-            "Seminar on “Smart and systematic strategies for cracking Civil Service exam” on 12.12.2025.",
-            "3rd National Conference on Intelligent Biosystems for Healthcare Analytics on 06.03.2026.",
-            "Seminar on “Application of STFT in Non Stationary Biomedical Signal Processing” on 22-03-2024 by Dr. P. Sivakumar, Professor, Department of Electronics and Communication Engineering, Dr. N.G.P Institute of Technology, Coimbatore.",
-            "5th National Level Technical Fest Medicnik -2024 on 09-02-2024 by Mr. Boopathi Sakthivel CEO Prashan Medical Technologies, Coimbatore.",
-            "National conference on “Intelligent Biosystems for Healthcare Analytics (IBHA’24) ON 02-02-2024 By Dr. Sathish Muthu MBBS, MS, FISS, FEIORA, FIRM, Ph.D, Orthopedic Surgeon, Assistant Professor, Government Medical College & Hospital , Karur.",
-            "Seminar on “Pros and Cons of Incubation for Startups” on 11.01.2024 by Mrs.Sathya Raja, Founder & CEO, Protowiz Private Limited, Coimbatore.",
-            "Seminar on Opportunities for Engineering Grads in Civil Services on 13.12.2023 by Mr. K.S. Gokul Prasadh, Founder and Director, Noyyal IAS Academy, Coimbatore.",
-            "Seminar on “Intellectual Property for Biomedical Engineers” on 20.11.2023 by Dr.C.Ramkumar, Professor, Department of ECE, Sri Krishna College of Technology, Coimbatore.",
-            "Seminar on “Developing Soft Skills and Personality” on 03.10.2023 by Mr. Mohammed Rafiq M A, Soft skill trainer, Coimbatore.",
-            "Seminar on “Innovation and Start up Ecosystem” on 25.08.2023 by Mr.Karthik Rengarajan, Business Development Manager, Blue stone Consultants, Coimbatore was the resource person.",
-            "Three Days Tech Fest on “Embedded Systems for Biomedical Applications on 08.08.2023 – 10.08.23 by Mr. Boopathi Sakthivel, CEO of Prashan Medical Technologies, Coimbatore.",
-            "Seminar on “Overseas Education opportunities and Challenges” on 19.07.2023 by Mr.Karthik Rengarajan, Institutional Head, Business Development Manager, Bluestone Overseas Consultants , Coimbatore.",
-            "Seminar on the topic “Opportunities for the Embryonic Startups” on 16.03.2023 by Mr. K. Santhosh Kumar, Business Development and Technical Head, Accent Techno Soft, Coimbatore.",
-            "Seminar on “Clinical Effectiveness of Plethysmography on 27.02.2023 by Dr. Smily Jeya Jothi, Assistant Professor, Department of Biomedical Instrumentation Engineering, Avinshilingam Institute for Home Science and Higher Education for Women, Coimbatore.",
-            "4th National Level Technical Symposium Medicnik on 20.02.2023 by Dr.Karthik Prabhu, Chairman Indian Medical Association, Tamilnadu Nursing Home Board, Tamilnadu State Branch.",
-            "Seminar on “Robotic Assisted Surgery for Brain Stroke” on 16.02.2023 Mr. Abhijith Yenikekaluva, M.Tech, M.Sc., Team Lead, Medical Technology Domain, Skill-Lync, Bangalore, India1",
-            "Seminar on “Siddha Diet and Nutrition for Healthy Life” on 9.1.2023 by Dr.K.Shanmugam B.S.M.S, M.D(S), Consultant, Chendoor Siddham & Varmam Hospital, Coimbatore",
-            "Seminar on the topic “Guidelines for Bio Startups” on 24.11.2022 by Mr.U.Uma Maheswaran, Proprietor–Managing Director, Spectrum Infotech,Virudhunagar",
-            "Seminar on “Innovation in Artificial Organs and Implants on 23.11.22 by Dr. Ram Kumar C, Associate Professor, Department of Biomedical Engineering, Dr. N.G.P. Institute of Technology, Coimbatore",
-            "Seminar on Recent Trends in Medical Electronics on Orthopedic Applications on 23.01.2020 by  BRJ.Satish Kumar, MBBS,MS(ortho),DNB(ortho), Managing Director and Chief Orthopedic Surgeon, BRJ Ortho Centre and MAK Hospital, Coimbatore.",
-            "One day Seminar on “Telehealth Technology” on 19.02.2020 by Mr. G. Guru Prasandh, CEO and Founder of MedsBy, Healthcare Solutions, Coimbatore.",
-            "National level Technical Symposium & Workshop ‘Medicnik 2020’ on February 12, 2020.",
-            "Seminar on Health care and Hospital Management on January 29, 2020 by Er.L.Shathiya Narayanan(BME), Trainee RSO, RADQ Services, Salem.",
-            "National level Technical Symposium ‘Medicnik 2019‘on February 20, 2019.",
-            "ICMR sponsored National seminar was conducted on “Awareness of uterine fibroids and prevention of infertility in young adolescent girls” from September 26, 2017 to September 27, 2019."
-          ]
-        },
-        {
-          "title": "Skill Development Program",
-          "content": [
-            "Skill training program on “Medical Coding” from 25.08.2025 to 26.08.2025.",
-            "Two Days Skill Development Program on Medical Coding on 29-01-2024 and 30-01-2024 by Mr. Vijay Rajendran, Technical Consultant, BioXplora, Coimbatore."
-          ]
-        },
-        {
-          "title": "Guest Lecture / Webinars",
-          "content": [
-            "Guest Lecture on “Advancements in Image Processing for Biomedical Applications” on 31.03.2023 by Dr. D. Sugumar, Associate Professor/ ECE, Karunya Institute of Technology and Sciences (Deemed to be University), Coimbatore, India-641114.",
-            "Guest Lecture on “Competitive Exams: Opportunities and Scope on 04.11.22 by Mr. J. Yuva Prakash B.E., M.Tech., Civil Service Exam- Educator, Shanmugam IAS Academy, Coimbatore.",
-            "Guest Lecture on “Career Guidance and Career Counseling” on 11.10.2022 by Dr.S.Thilagarani, Principal, P.G.P College of Education, Namakkal.",
-            "Guest Lecture on the topic “Innovations in Image Processing on 29.9.2022 by Dr. C.S. Manikandababu, Associate Professor, Department of Electronics and Communication Engineering, Sri Ramakrishna Engineering College, Coimbatore",
-            "Guest Lecture on “Novel Characteristics of Biopolymers as Implants” on 29.9.2022 by Dr. V. Dooslin Mercy Bai, Professor, Department of Biomedical Engineering, Sri Shakthi Institute of Engineering and Technology, Coimbatore.",
-            "Guest Lecture on the topic “Role and Scope of Biomedical Engineers on 27.9.2022 by Mr.R.Vigneshkumar, Sales and Service Engineer, Nipro Medical India Pvt. Ltd, Chennai.",
-            "Guest Lecture on the topic “AI revolution in Healthcare Application on 26.9.2022 by Dr. K. Porkumaran, Principal, Sri Sai Engineering College, Chennai – 600044.",
-            "Guest Lecture on the topic “Thermography in Biomedical Application” on 22.9.2022 by Mr. Ajith B Singh, Assistant Professor, Department of Instrumentation and Control Engineering, Sri Krishna College of Technology, Coimbatore.",
-            "Guest Lecture on the topic “Design of Combinational Circuits” on 20.9.2022 by Dr. P. Sivakumar, Professor, Department of Electronics and Communication Engineering, Dr. N.G.P Institute of Technology, Coimbatore.",
-            "Guest Lecture on the topic “Bio innovation and IPR” on 30.8.2022 by Mr.John Amose, Assistant Professor (Sr.G), Department of Biomedical Engineering, KPR Institute of Engineering and Technology, Coimbatore.",
-            "Guest Lecture on the topic “Career Opportunities in Hospital Sector” on 29.8.2022 by Mr.S.Kalimuthu, Biomedical Engineer, Ganga Hospital, Coimbatore.",
-            "Guest Lecture on the topic “IOT Based Non Invasive Wearable Vital Parameter Monitoring on 25.8.2022 by Ms.V.Srividhyasakthi, Assistant Professor, Sri Ramakrishna Engineering College, Coimbatore-641002.",
-            "Guest Lecture on the topic “Transforms and its Application” on 25.8.2022 by Dr.V.Rukkumani, Associate Professor, Sri Ramakrishna Engineering College, Coimbatore-641002.",
-            "Guest Lecture on the topic “A High Gain Instrumentation Amplifier for Biomedical Applications” on 25.8.2022 by Mr. L. Ramasethu, Associate Business Operation Manager, Tealiot Infrasys, Sriperumbudur – 602117.",
-            "Guest Lecture on the topic “Angel Investment/ VC Funding Opportunity for Early stage Entrepreneurs” on 24.8.2022 by Mr.N.R.R.Vijayakumar, Entrepreneurship & Managing Director, Founder passion foundation.",
-            "Guest Lecture on the topic “Entrepreneurship” on 22.07.2022 by Mr. Surya Chinnaraj, Managing Director, Brightnest Technologies, Private Limited, Coimbatore.",
-            "Guest Lecture on the topic “Role of Intellectual Property Rights in a Knowledge Based Economy” on 20.7.2022 by Mr.Boopathi Sakthivel, Founder, Prashan Medical Technologies, Coimbatore-641004.",
-            "Webinar on Intricacy and Importance of Human Body on 24.12.2020 by Dr.Jagadheeswari M, M.B.B.S, Government Registered Medical Practitioner, Coimbatore- 641 105.",
-            "Webinar on Design Thinking in Healthcare on 22.12.2020 by Ms. SamidhaTamhankar,Healthcare Entrepreneurial Fellow, Center for Healthcare Entrepreneurship, IIT Hyderabad.",
-            "National level Webinar on Influence of Virtual reality in Medicine on 16.12.2020 by Mrs. Gayathri Priyadarshini R, HOD, Department of Biomedical Engineering, Bannari Amman Institute of Technology, Sathyamangalam – 638 401.",
-            "Webinar on Biometrics in Today’s World on 27.11.2020 by Ms. AbinayaBaskaran, Product Consultant, Genworks Health, Chennai.",
-            "Webinar on Problems and Solutions for Orthopedic Issues during COVID-19 on 18.09.2020 by Dr.BRJ.Satish Kumar, MBBS,MS(ortho),DNB(ortho), Managing Director and Chief Orthopedic Surgeon, BRJ Ortho Centre and MAK Hospital, Coimbatore.",
-            "Guest lecture on Patient and devices safety was conducted on September 13, 2019 by Ms.P.Sowmiya, Biomedical Engineer, PSG IMSR(Hospitals),Coimbatore.",
-            "Guest lecture on Medical Instrumentation was conducted on July 18, 2019.",
-            "Guest lecture on Application of Biosensors was conducted on February 16, 2018.",
-            "Guest lecture on Issues faced in biomaterials and artificial organs was conducted on January 23, 2018."
-          ]
-        },
-        {
-          "title": "Workshop",
-          "content": [
-            "One-day Workshop on “Corporate Edge: Essential Skills for Success” along with a poster presentation Competition for the academic year 2025-2026  on 19.09.2025.",
-            "Expert Talk on “Application of STFT in Non Stationary Biomedical Signal Processing” on 27.07.2023 by Dr. P. Sivakumar, Professor, Department of Electronics and Communication Engineering, Dr. N.G.P Institute of Technology, Coimbatore.",
-            "One day Workshop on “Medical Device Design and Development” On 26.06.2023 by Ms.S.Sridevi , (PhD), Madras Institute of Technology, Chennai – 600044.",
-            "National Level Workshop on “Medical Equipment Troubleshooting and Service” on 11.01.2023 by Mr. Boopathy Sakthivel, Founder and CEO, Prashan Medical Technologies, Coimbatore – 641004",
-            "Workshop on the topic “Biosignal Analysis using Arduino” on 25.11.2022 by Mr.U.Uma Maheswaran, Proprietor – Managing Director, Spectrum Infotech , Virudhunagar.",
-            "One day Workshop on3D Printing For Medical & Robotic Applications on 12.02.2020 by Mr.GuruPrasadh,Founder& COE, MEDSBY, Coimbatore.",
-            "One day Workshop onBio Signal Conditioning on 31.01.2020  by Mr.K.Kanagaraj,Business Development Manager,AD Instruments South Asia.",
-            "One day National workshop on IoT based Health care system was conducted on March 05, 2018.",
-            "One day National workshop on Artificial Neural networks and Fuzzy logic using MATLAB was conducted on October 06, 2017.",
-            "Two day workshop on Motion Capturing VFx from September 07, 2017 to September 08, 2017."
-          ]
-        },
-        {
-          "title": "Industrial Visit",
-          "content": [
-            "One Week Online National Level Professional Development Programme on “Neuro rehabilitation and Stroke Management” on 20 to 25 November, 2023, by Dr. Judith Justin Professor & Head, Department of Biomedical Instrumentation, Avinashilingam University, Coimbatore – 641 043, Dr. Aravinth Karthikeyan, Implantologist, MD of Lalitha Groups of Clinics, Chairman, Hand and leg Fittment Project, Mettupalayam Coimbatore – 641 301, Dr.Jagatheeswari.M. M, General Practioner, L & T, Health Center, Eachanari, Coimbatore – 641 021, Dr. M. Muthulakshmi, Assistant Professor (Sr.Gr.), Department of Electronics and Communication Engineering, Amrita Vishwa Vidyapeetham, Chennai – 601 103, Dr.K. Venkata Subramanian, Associate Professor, Department of Electronics and Communication Engineering, Amrita Vishwa Vidyapeetham, Chennai – 601 103, Mr. Boopathi Sakthivel, Founder, Prashan Medical Technologies, Coimbatore – 641 004.",
-            "One Week Online National Level Professional Development Programme on 12th to 17th December 2022 by Mr. Atheena Milagi Pandian CEO, Atheena Pandian Pvt. Ltd Chennai, Mr. Sumant, CEO, Alphatek Systems Kolkata, Dr. Judith Justin, Professor & Head Department of Biomedical Instrumentation Engineering Avinashilingam University, Mr. Boopathi Sakthivel, CEO, Prashan Medical Technologies, Coimbatore, Dr. G. Devanand Venkatasubbu Assistant Professor Department of Nanotechnology SRM Institute of Science and Technology, Chennai, Mr. Prathap Singh Head of Operations, WOL3D Coimbatore."
-          ]
-        },
-        {
-          "title": "Extension Activity",
-          "content": [
-            "Extension Activity “Women Health Awareness Programme & Camp” on 18.10.2023"
-          ]
-        },
-        {
-          "title": "STTPs",
-          "content": [
-            "AICTE Sponsored one week Short Term Training Programme on Data Analytics in biomedical engineering, Slot I from 23.11.2020 to 29.11.2020.",
-            "AICTE Sponsored one week Short term training Programme on Data Analytics in biomedical engineering, Slot II from 14.12.2020 to 19.12.2020."
-          ]
-        },
-        {
-          "title": "Seminar",
-          "content": [
-            "Seminar on “Assistive Technologies for Rehabilitation: Challenges and Applications” on 24.12.2025.",
-            "Seminar on “AI in Healthcare” on 19.12.2025 (10.00 am to 11.30 pm) through online mode.",
-            "Seminar on “A Systematic Roadmap for Cracking the Indian Engineering Service” on 18.12.2025.",
-            "Seminar on “Fluid Behavior in Biology: A Mechanistic Entry Point” on 09.12.2025.",
-            "To organize online seminar on “Foundations of assistive technology: for Modern Solutions to abled” on 06.10.2025.",
-            "Conducted a seminar on “Medical Equipment Calibration and Regulatory Compliance” on 06.10.2025.",
-            "Seminar on “Bio-wearable sensors for tailoring personalized Healthcare” on 16.09.2025.",
-            "Seminar on “Computed Tomography Medical Image Segmentation and Analysis Using Deep Learning Algorithms” on 19.09.2025.",
-            "Seminar on “Internet of Medical Things (IOMT) and Evolution of Healthcare 4.0” for BME students on 09.08.2025",
-            "Organize online seminar on “Foundations of AI in Healthcare: Trends, Programming, and Mathematics for Modern Solutions” on 28.08.2025.",
-            "Seminar on “Pharma and Clinical Research : Scope, Skills and Career Growth” on 13.08.2025",
-            "Seminar on “Smart strategy for cracking banking exams” on 01.08.2025"
-          ]
-        },
-        {
-          "title": "Others",
-          "content": [
-            "One day National Level Technical Fest (MEDICNIK-2026) cum Biomedical project Expo for both Internal and External participants on 06.02.2026",
-            "Alumni interaction session for BME students on ”Data analytics in Biomedical Engineering” on 23.12.2025 by our Biomedical Engineering Alumni (2020 – 2024) batch, Mr.Kabildev V, Associate Analyst,Zifo RnD,Chennai through online platform",
-            "5-day Faculty Development Program on “The Next Frontier: Transforming Healthcare through AI and Robotics” for our faculty members from 24.11.2025 to 28.11.2025.",
-            "Orientation Programme on Career opportunities in Biomedical Engineering and Introduction to Biomedical equipment and devices for I-Year Biomedical Engineering students on 29.07.2025."
-          ]
-        }
+       {
+    "title": "Conferences / Seminar / Symposium",
+    "content": [
+      "Seminar on “Smart and systematic strategies for cracking Civil Service exam” on 12.12.2025.",
+      "3rd National Conference on Intelligent Biosystems for Healthcare Analytics on 06.03.2026.",
+      "Seminar on “Application of STFT in Non Stationary Biomedical Signal Processing” on 22.03.2024 by Dr. P. Sivakumar, Professor, Department of Electronics and Communication Engineering, Dr. N.G.P Institute of Technology, Coimbatore.",
+      "5th National Level Technical Fest Medicnik-2024 on 09.02.2024 by Mr. Boopathi Sakthivel, CEO, Prashan Medical Technologies, Coimbatore.",
+      "National Conference on “Intelligent Biosystems for Healthcare Analytics (IBHA’24)” on 02.02.2024 by Dr. Sathish Muthu, MBBS, MS, Ph.D., Orthopedic Surgeon, Assistant Professor, Government Medical College & Hospital, Karur.",
+      "Seminar on “Pros and Cons of Incubation for Startups” on 11.01.2024 by Mrs. Sathya Raja, Founder & CEO, Protowiz Private Limited, Coimbatore.",
+      "Seminar on Opportunities for Engineering Grads in Civil Services on 13.12.2023 by Mr. K.S. Gokul Prasadh, Founder and Director, Noyyal IAS Academy, Coimbatore.",
+      "Seminar on “Intellectual Property for Biomedical Engineers” on 20.11.2023 by Dr. C. Ramkumar, Professor, Department of ECE, Sri Krishna College of Technology, Coimbatore.",
+      "Seminar on “Developing Soft Skills and Personality” on 03.10.2023 by Mr. Mohammed Rafiq M A, Soft Skill Trainer, Coimbatore.",
+      "Seminar on “Innovation and Start up Ecosystem” on 25.08.2023 by Mr. Karthik Rengarajan, Business Development Manager, Bluestone Consultants, Coimbatore.",
+      "Three Days Tech Fest on “Embedded Systems for Biomedical Applications” from 08.08.2023 to 10.08.2023 by Mr. Boopathi Sakthivel, CEO, Prashan Medical Technologies, Coimbatore.",
+      "Seminar on “Overseas Education Opportunities and Challenges” on 19.07.2023 by Mr. Karthik Rengarajan, Institutional Head, Bluestone Overseas Consultants, Coimbatore.",
+      "Seminar on “Opportunities for the Embryonic Startups” on 16.03.2023 by Mr. K. Santhosh Kumar, Accent Techno Soft, Coimbatore.",
+      "Seminar on “Clinical Effectiveness of Plethysmography” on 27.02.2023 by Dr. Smily Jeya Jothi, Assistant Professor, Avinashilingam Institute, Coimbatore.",
+      "4th National Level Technical Symposium Medicnik on 20.02.2023.",
+      "Seminar on “Robotic Assisted Surgery for Brain Stroke” on 16.02.2023 by Mr. Abhijith Yenikekaluva, Skill-Lync, Bangalore.",
+      "Seminar on “Siddha Diet and Nutrition for Healthy Life” on 09.01.2023 by Dr. K. Shanmugam, Consultant, Chendoor Siddham & Varmam Hospital, Coimbatore.",
+      "Seminar on “Guidelines for Bio Startups” on 24.11.2022 by Mr. U. Uma Maheswaran, Spectrum Infotech, Virudhunagar.",
+      "Seminar on “Innovation in Artificial Organs and Implants” on 23.11.2022 by Dr. Ram Kumar C, Dr. N.G.P Institute of Technology, Coimbatore.",
+      "Seminar on Recent Trends in Medical Electronics on Orthopedic Applications on 23.01.2020.",
+      "One Day Seminar on “Telehealth Technology” on 19.02.2020.",
+      "National Level Technical Symposium & Workshop Medicnik 2020 on 12.02.2020.",
+      "Seminar on Healthcare and Hospital Management on 29.01.2020.",
+      "National Level Technical Symposium Medicnik 2019 on 20.02.2019.",
+      "ICMR Sponsored National Seminar on Awareness of Uterine Fibroids from 26.09.2017 to 27.09.2019."
+    ]
+  },
+  {
+    "title": "Skill Development Program",
+    "content": [
+      "Skill training program on “Medical Coding” from 25.08.2025 to 26.08.2025.",
+      "Two Days Skill Development Program on Medical Coding on 29.01.2024 and 30.01.2024 by Mr. Vijay Rajendran, Technical Consultant, BioXplora, Coimbatore."
+    ]
+  },
+  {
+    "title": "Guest Lecture / Webinars",
+    "content": [
+      "Guest Lecture on “Advancements in Image Processing for Biomedical Applications” on 31.03.2023.",
+      "Guest Lecture on “Competitive Exams: Opportunities and Scope” on 04.11.2022.",
+      "Guest Lecture on “Career Guidance and Career Counseling” on 11.10.2022.",
+      "Guest Lecture on “Innovations in Image Processing” on 29.09.2022.",
+      "Guest Lecture on “Novel Characteristics of Biopolymers as Implants” on 29.09.2022.",
+      "Guest Lecture on “Role and Scope of Biomedical Engineers” on 27.09.2022.",
+      "Guest Lecture on “AI Revolution in Healthcare Application” on 26.09.2022.",
+      "Guest Lecture on “Thermography in Biomedical Application” on 22.09.2022.",
+      "Guest Lecture on “Design of Combinational Circuits” on 20.09.2022.",
+      "Guest Lecture on “Bio Innovation and IPR” on 30.08.2022.",
+      "Guest Lecture on “Career Opportunities in Hospital Sector” on 29.08.2022.",
+      "Guest Lecture on “IoT Based Non-Invasive Wearable Vital Parameter Monitoring” on 25.08.2022.",
+      "Webinars conducted during 2020–2019 on healthcare, biometrics, virtual reality, and medical instrumentation."
+    ]
+  },
+  {
+    "title": "Workshops",
+    "content": [
+      "Five-Day Workshop on “Translational Research in Medical Textiles for Healthcare Management” from 05.01.2026 to 09.01.2026.",
+      "One-Day Workshop on “Corporate Edge: Essential Skills for Success” on 19.09.2025.",
+      "Workshop on “Medical Device Design and Development” on 26.06.2023.",
+      "National Level Workshop on “Medical Equipment Troubleshooting and Service” on 11.01.2023.",
+      "Workshops conducted on Biosignal Analysis, 3D Printing, Bio Signal Conditioning, IoT Healthcare Systems, Artificial Neural Networks, and Motion Capturing VFX."
+    ]
+  },
+  {
+    "title": "Professional Development Programme",
+    "content": [
+      "One Week Online National Level Professional Development Programme on “Neuro Rehabilitation and Stroke Management” from 20.11.2023 to 25.11.2023.",
+      "One Week Online National Level Professional Development Programme from 12.12.2022 to 17.12.2022."
+    ]
+  },
+  {
+    "title": "Extension Activity",
+    "content": [
+      "Extension Activity “Women Health Awareness Programme & Camp” on 18.10.2023."
+    ]
+  },
+  {
+    "title": "STTPs",
+    "content": [
+      "AICTE Sponsored One Week Short Term Training Programme on Data Analytics in Biomedical Engineering (Slot I) from 23.11.2020 to 29.11.2020.",
+      "AICTE Sponsored One Week Short Term Training Programme on Data Analytics in Biomedical Engineering (Slot II) from 14.12.2020 to 19.12.2020."
+    ]
+  },
+  {
+    "title": "Seminar",
+    "content": [
+      "Seminar on “Assistive Technologies for Rehabilitation” on 24.12.2025.",
+      "Seminar on “AI in Healthcare” on 19.12.2025.",
+      "Seminar on “A Systematic Roadmap for Cracking the Indian Engineering Service” on 18.12.2025.",
+      "Seminar on “Fluid Behavior in Biology” on 09.12.2025.",
+      "Seminars conducted during 2025 on AI, Healthcare, Wearable Sensors, IOMT, Pharma Research, and Banking Exams."
+    ]
+  },
+  {
+    "title": "Others",
+    "content": [
+      "National Level Technical Fest MEDICNIK-2026 cum Biomedical Project Expo on 06.02.2026.",
+      "Alumni Interaction Session on Data Analytics in Biomedical Engineering on 23.12.2025.",
+      "Faculty Development Program on AI and Robotics from 24.11.2025 to 28.11.2025.",
+      "Orientation Programme for First Year Biomedical Engineering students on 29.07.2025."
+    ]
+  }
+
       ]
     }
   ]

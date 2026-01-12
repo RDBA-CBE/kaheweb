@@ -41,12 +41,16 @@ const Infrastructure = ({ infrastructureContent }) => {
     (item) => item.type == "library"
   );
 
+  const connectivity = infrastructureContent.items?.find(
+    (item) => item.type == "connectivity"
+  );
+
   const para = infrastructureContent.items?.find((item) => item.type == "para");
 
   const tableContent = infrastructureContent.items?.find(
     (item) => item.type == "table"
   );
-   
+
 
   const gallery = infrastructureContent.items?.find(
     (item) => item.type == "gallery"
@@ -55,8 +59,8 @@ const Infrastructure = ({ infrastructureContent }) => {
 
 
 
-    console.log("tableContent", tableContent);
-    
+  console.log("tableContent", tableContent);
+
 
   return (
     <div className={`section-wid rbt-dashboard-content infra `}>
@@ -274,6 +278,41 @@ const Infrastructure = ({ infrastructureContent }) => {
 
                 <div className="dept-wrapper mt-0">
                   {library?.content?.map((item, i) => (
+                    <div key={i} className="dept-card bg-lblue-1">
+                      <div className="dept-inner">
+                        <BooksIcon className="dept-icon" color={"#fff"} />
+                        <p className="dept-title">{item}</p>
+                      </div>
+                    </div>
+                  ))}
+                </div>
+              </div>
+            )}
+
+            {connectivity && (
+              <div className="lib row mb--30 pt-5">
+                {connectivity.title && (
+                  <h3
+                    className="main-sub-ti"
+                    dangerouslySetInnerHTML={{
+                      __html: FirstLetterUp(connectivity.title),
+                    }}
+                  ></h3>
+                )}
+
+                {connectivity.desc && (
+                  <div className="row ">
+                    <p
+                      className="mb-5"
+                      dangerouslySetInnerHTML={{
+                        __html: FirstLetterUp(connectivity.desc),
+                      }}
+                    ></p>
+                  </div>
+                )}
+
+                <div className="dept-wrapper mt-0">
+                  {connectivity?.content?.map((item, i) => (
                     <div key={i} className="dept-card bg-lblue-1">
                       <div className="dept-inner">
                         <BooksIcon className="dept-icon" color={"#fff"} />

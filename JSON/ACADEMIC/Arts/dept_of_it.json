@@ -99,7 +99,12 @@
               },
               {
                 "icon": "rs-icon-complete",
-                "value": "2025-2026 Years – 45 , Patents - 5",
+                "value": "45",
+                "text": "Patents"
+              },
+              {
+                "icon": "rs-icon-complete",
+                "value": "5",
                 "text": "Publications"
               },
               {
@@ -189,7 +194,7 @@
       "basic": {
         "title": "Faculty",
         "description": "The Department of Information Technology is powered by a team of dedicated, experienced, and research-oriented faculty members who bring academic excellence, industry exposure, and innovation into the classroom. Our faculty combine strong subject expertise with a passion for teaching, ensuring that students receive the best blend of theory, practical knowledge, and emerging technology insights.We focus on outcome-based education, personalized mentoring, and continuous professional development to elevate the learning experience for every student.",
-       "src": "/images/Kahe/academics/faculty.webp",
+        "src": "/images/Kahe/academics/faculty.webp",
         "buttonText": "View All Faculty"
       },
       "breadcrumbItems": [
@@ -506,6 +511,60 @@
       }
     },
     {
+      "tab": "students",
+      "title": "students",
+      "className": "",
+      "content": [
+        {
+          "data1": {
+            "type": "vision",
+            "subTitle": "Value-Added Training & Certifications",
+            "src": "/images/Kahe/Innerpages/vision.png",
+            "content": [
+              "AWS, Azure, Google Cloud",
+              "Python, R, Machine Learning",
+              "Power BI, Tableau",
+              "Ethical Hacking (Kali Linux, Wireshark)",
+              "Industry MoUs / Wipro Certification Courses"
+            ]
+          },
+          "data2": {
+            "type": "mission",
+            "subTitle": "Placement",
+            "src": "/images/Kahe/Innerpages/goal.png",
+            "content": [
+              "Students placed in: TCS, Wipro, Infosys, Cognizant, HCL, Accenture, Tech Mahindra",
+              "Pre-placement training, aptitude guidance",
+              "Strong alumni network for Placement"
+            ]
+          }
+        },
+        {
+          "data1": {
+            "type": "mission",
+            "subTitle": "Student Achievements",
+            "src": "/images/Kahe/Innerpages/goal.png",
+            "content": [
+              "Hackathon winners",
+              "Internship selections",
+              "Project competitions",
+              "Extension Activities"
+            ]
+          },
+          "data2": {
+            "type": "mission",
+            "subTitle": "Faculty Achievements",
+            "src": "/images/Kahe/Innerpages/goal.png",
+            "content": [
+              "Research publications",
+              "Patents",
+              "Workshops / seminars handled"
+            ]
+          }
+        }
+      ]
+    },
+    {
       "tab": "Publications",
       "slug": "department-of-information-technology",
       "breadcrumbItems": [
@@ -685,13 +744,183 @@
             {
               "title": "",
               "content": [
-                "Resource Person Dr.M.Balamurugan addresses to Students related to Recent Innovations in Data Science and Data Analytics on 28th July 2025."
+                "B.Sc IT Students presenting their innovative ideas in Poster Presentation Competition on 29th July, 2025."
               ],
               "images": {
                 "images": [
                   {
                     "id": 1,
-                    "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Resource-Person-Dr.M.Balamurugan-addresses-to-Students-related-to-Recent-Innovations-in-Data-Science-and-Data-Analytics-on-28th-July-2025-1024x356.png",
+                    "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/B.Sc-IT-Students-presenting-their-innovative-ideas-in-Poster-Presentation-Competition-on-29th-July-2025-1024x472.png",
+                    "alt": "Karpagam Academy of Higher Education | best b com accounting and finance colleges in coimbatore"
+                  }
+                ]
+              }
+            },
+            {
+              "title": "",
+              "content": [
+                "Dr.R.Gunasundari, Programme Coordinator of CS Stream evaluating the presentation performance of B.Sc IT Students on 30th July, 2025."
+              ],
+              "images": {
+                "images": [
+                  {
+                    "id": 1,
+                    "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Dr.R.Gunasundari-Programme-Coordinator-of-CS-Stream-evaluating-the-presentation-performance-of-B.Sc-IT-Students-on-30th-July-2025-1024x422.png",
+                    "alt": "Karpagam Academy of Higher Education | best b com accounting and finance colleges in coimbatore"
+                  }
+                ]
+              }
+            },
+            {
+              "title": "",
+              "content": [
+                "Dr.K.Ranjith Singh, Associate Professor of IT Department evaluating the presentation performance of B.Sc IT Students on 31st July, 2025."
+              ],
+              "images": {
+                "images": [
+                  {
+                    "id": 1,
+                    "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Dr.K.Ranjith-Singh-Associate-Professor-of-IT-Department-evaluating-the-presentation-performance-of-B.Sc-IT-Students-on-31st-July-2025-1024x456.png",
+                    "alt": "Karpagam Academy of Higher Education | best b com accounting and finance colleges in coimbatore"
+                  }
+                ]
+              }
+            },
+            {
+              "title": "",
+              "content": [
+                "Dr.E.J.Thomson Fredrik, Professor, Department of Information Technology delivering Vote of Thanks in Skill Development Programme on July 09th,2025"
+              ],
+              "images": {
+                "images": [
+                  {
+                    "id": 1,
+                    "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Dr.E.J.Thomson-Fredrik-Professor-Department-of-Information-Technology-delivering-Vote-of-Thanks-in-Skill-Development-Programme-on-July-09th2025-1024x525.png",
+                    "alt": "Karpagam Academy of Higher Education | best b com accounting and finance colleges in coimbatore"
+                  }
+                ]
+              }
+            },
+            {
+              "title": "",
+              "content": [
+                "Students listening to the talk on Transforming Innovative Ideas into IT Startups on 24-06-2025"
+              ],
+              "images": {
+                "images": [
+                  {
+                    "id": 1,
+                    "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Students-listening-to-the-talk-on-Transforming-Innovative-Ideas-into-IT-Startups-on-24-06-2025-1024x387.png",
+                    "alt": "Karpagam Academy of Higher Education | best b com accounting and finance colleges in coimbatore"
+                  }
+                ]
+              }
+            },
+            {
+              "title": "",
+              "content": [
+                "The Resource Person Dr.P.Johnson Durairaj giving hands on training to students on developing Cloud Applications using Amazon AWS on July 09th,2025"
+              ],
+              "images": {
+                "images": [
+                  {
+                    "id": 1,
+                    "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/The-Resource-Person-Dr.P.Johnson-Durairaj-giving-hands-on-training-to-students-on-developing-Cloud-Applications-using-Amazon-AWS-on-July-09th2025-1024x530.jpg",
+                    "alt": "Karpagam Academy of Higher Education | best b com accounting and finance colleges in coimbatore"
+                  }
+                ]
+              }
+            },
+            {
+              "title": "",
+              "content": [
+                "Dr. S. Ravi, Vice Chancellor of Karpagam Academy of Higher Education delivering the inaugural address at the Department of IT Association Function on August 23, 2025."
+              ],
+              "images": {
+                "images": [
+                  {
+                    "id": 1,
+                    "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Dr.-S.-Ravi-Vice-Chancellor-of-Karpagam-Academy-of-Higher-Education-delivering-the-inaugural-address-at-the-Department-of-IT-Association-Function-on-August-23-2025-1024x473.jpg",
+                    "alt": "Karpagam Academy of Higher Education | best b com accounting and finance colleges in coimbatore"
+                  }
+                ]
+              }
+            },
+            {
+              "title": "",
+              "content": [
+                "Dr. S. Ravi, Vice Chancellor of Karpagam Academy of Higher Education delivering the inaugural address at the Department of IT Association Function on August 23, 2025."
+              ],
+              "images": {
+                "images": [
+                  {
+                    "id": 1,
+                    "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Dr.-V.-Ragavi-Dean-FASCM-delivering-the-Presidential-address-at-the-Department-of-IT-Association-Function-on-August-23-2025-1024x488.jpg",
+                    "alt": "Karpagam Academy of Higher Education | best b com accounting and finance colleges in coimbatore"
+                  }
+                ]
+              }
+            },
+            {
+              "title": "",
+              "content": [
+                "Mrs. Vijaylakshmi Sankaranarayanan, Manager at Accenture Solutions Pvt. Ltd., presenting the keynote address at the Department of IT Association Function on August 23, 2025."
+              ],
+              "images": {
+                "images": [
+                  {
+                    "id": 1,
+                    "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Mrs.-Vijaylakshmi-Sankaranarayanan-Manager-at-Accenture-Solutions-Pvt.-Ltd.-presenting-the-keynote-address-at-the-Department-of-IT-Association-Function-on-August-23-2025-1024x473.jpg",
+                    "alt": "Karpagam Academy of Higher Education | best b com accounting and finance colleges in coimbatore"
+                  }
+                ]
+              }
+            },
+            {
+              "title": "",
+              "content": [
+                "Alumini Talk"
+              ],
+              "images": {
+                "images": [
+                  {
+                    "id": 1,
+                    "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Alumini-Talk-1-1024x473.jpg",
+                    "alt": "Karpagam Academy of Higher Education | best b com accounting and finance colleges in coimbatore"
+                  },
+                  {
+                    "id": 2,
+                    "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Alumini-Talk-4-1024x769.jpg",
+                    "alt": "Karpagam Academy of Higher Education | best b com accounting and finance colleges in coimbatore"
+                  },
+                  {
+                    "id": 3,
+                    "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Alumini-Talk-3-1024x461.jpg",
+                    "alt": "Karpagam Academy of Higher Education | best b com accounting and finance colleges in coimbatore"
+                  },
+                  {
+                    "id": 4,
+                    "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Alumini-Talk-2-1024x542.jpg",
+                    "alt": "Karpagam Academy of Higher Education | best b com accounting and finance colleges in coimbatore"
+                  },
+                  {
+                    "id": 5,
+                    "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/Alumini-Talk-5-1024x768.jpg",
+                    "alt": "Karpagam Academy of Higher Education | best b com accounting and finance colleges in coimbatore"
+                  }
+                ]
+              }
+            },
+            {
+              "title": "",
+              "content": [
+                "One day trip"
+              ],
+              "images": {
+                "images": [
+                  {
+                    "id": 1,
+                    "src": "https://kahedu.edu.in/n/wp-content/uploads/2025/12/One-Day-Trip-1024x545.png",
                     "alt": "Karpagam Academy of Higher Education | best b com accounting and finance colleges in coimbatore"
                   }
                 ]

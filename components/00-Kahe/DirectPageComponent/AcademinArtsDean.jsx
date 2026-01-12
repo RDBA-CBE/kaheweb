@@ -107,6 +107,7 @@ const AcademinArtsDean = (props) => {
 
           <div className="section-wid">
             <ImageLink
+            firstParaLimit={9999} firstParaSplit={9999}
               data={
                 engineering
                   ? InterAdmin?.EnginerringDean
