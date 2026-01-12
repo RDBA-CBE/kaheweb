@@ -113,69 +113,19 @@
       "title": "IQAC",
       "IQAC": [
         {
-          "content": [
+          "content": [                   
+          
+          
             {
-              "subtitle": "Annual Report 2019-2020",
+              "subtitle": "IQAC Report",
               "id": 1,
               "list": [
                 {
-                  "src": "/images/Kahe/Innerpages/file.png",
-                  "title": "Annual Report 2019-2020",
+                 
+                  "title": "IQAC Report",
                   "item": "View",
-                  "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/Annual-Report-2019-2020.pdf",
-                  "target": "_blank"
-                }
-              ]
-            },
-            {
-              "subtitle": "Annual Report 2018-2019",
-              "id": 1,
-              "list": [
-                {
-                  "src": "/images/Kahe/Innerpages/file.png",
-                  "title": "Annual Report 2019-2020",
-                  "item": "View",
-                  "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/Annual-Report-2018-2019.pdf",
-                  "target": "_blank"
-                }
-              ]
-            },
-            {
-              "subtitle": "Annual Report 2017-2018",
-              "id": 1,
-              "list": [
-                {
-                  "src": "/images/Kahe/Innerpages/file.png",
-                  "title": "Annual Report 2019-2020",
-                  "item": "View",
-                  "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/Annual-Report-2017-2018.pdf",
-                  "target": "_blank"
-                }
-              ]
-            },
-            {
-              "subtitle": "Annual Report 2016",
-              "id": 1,
-              "list": [
-                {
-                  "src": "/images/Kahe/Innerpages/file.png",
-                  "title": "Annual Report 2019-2020",
-                  "item": "View",
-                  "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/Annual-Report-2016.pdf",
-                  "target": "_blank"
-                }
-              ]
-            },
-            {
-              "subtitle": "Annual Report 2015",
-              "id": 1,
-              "list": [
-                {
-                  "src": "/images/Kahe/Innerpages/file.png",
-                  "title": "Annual Report 2019-2020",
-                  "item": "View",
-                  "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/03/Annual-Report-2015.pdf",
-                  "target": "_blank"
+                  "url": "/kahe/administration/iqac"
+                
                 }
               ]
             }

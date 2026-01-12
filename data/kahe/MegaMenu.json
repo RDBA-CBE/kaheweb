@@ -475,7 +475,8 @@
               "title": "Fee Refund Policy",
               "link": "https://kahedu.edu.in/n/wp-content/uploads/2023/07/fee-refund-policy.pdf",
               "desc": "Clear and fair fee refund procedures for students.",
-              "src": "/images/Kahe/menu/admissions.svg"
+              "src": "/images/Kahe/menu/admissions.svg",
+              "target":"_blank"
             }
           ]
         },
