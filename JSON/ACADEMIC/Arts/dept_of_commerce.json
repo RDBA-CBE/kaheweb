@@ -57,6 +57,81 @@
             "Special focus is given to empowering women, rural, and marginalized students by offering equal learning opportunities and support.",
             "The department promotes creativity, self-reliance, and responsible citizenship through skill-building activities, entrepreneurship development, and value-based education"
           ]
+        },
+        {
+          "type": "highlights",
+          "items": {
+            "title": "Highlights",
+            "src": "/images/Kahe/Innerpages/image-1.jpg",
+            "content": [
+              {
+                "icon": "rs-icon-book",
+                "value": "185",
+                "label": "Scopus Publications"
+              },
+              {
+                "icon": "rs-icon-book",
+                "value": "40",
+                "label": "Ph.D Awarded"
+              },
+              {
+                "icon": "rs-icon-fund",
+                "value": "270",
+                "label": "Internship National"
+              },
+              {
+                "icon": "rs-icon-lab",
+                "value": "45",
+                "text": "NPTEL course completed"
+              },
+              {
+                "icon": "rs-icon-complete",
+                "value": "1",
+                "text": "University Research Fellowship"
+              },
+              {
+                "icon": "rs-icon-complete",
+                "value": "237",
+                "text": "Placement Offers (2024-2025)"
+              }
+            ]
+          }
+        },
+        {
+          "type": "hod",
+          "items": {
+            "content": [
+              {
+                "title1": "Head of the Department (HOD)",
+                "title": "Dr. V.Mathan Kumar ",
+                "caption": "HOD & Associate Professor",
+                "content": "The Department of Commerce stands as a hub of academic excellence, innovation, and professional development. Our vision is to shape students into forward-thinking leaders who can meet the evolving challenges of global business with confidence and competence. We believe that commerce education goes beyond textbooks — it is about understanding how knowledge transforms into meaningful, real-world impact.Through a well-balanced blend of theoretical knowledge and experiential learning, our department focuses on equipping students with modern business insights and analytical skills. We integrate practical exposure through industry interactions, entrepreneurship initiatives, research endeavors, and technology-driven learning practices. Students are encouraged to explore emerging domains such as fintech, business analytics, sustainability, and global trade to stay ahead in the competitive environment.Guided by a team of dedicated faculty members and supported by a learner-centric environment, we ensure that every student is mentored with care and encouraged to achieve personal and professional excellence. Our commitment lies in fostering not just successful graduates, but responsible citizens with integrity and a passion for lifelong learning.I extend a warm welcome to the Department of Commerce and invite you to experience a culture of growth, innovation, and excellence that prepares you to lead the world of business with purpose and vision.",
+                "src": "/images/Kahe/team-13.png"
+              },
+              {
+                "title1": "PROGRAMME COORDINATOR",
+                "title": "Dr. R.Velmurugan",
+                "caption": "Programme coordinator, Department of Commerce",
+                "content": "The role of the Department of Commerce is not only to educate, but to guide students in discovering their strengths, refining their skills, and preparing for meaningful careers. As Programme Coordinator, my focus is on ensuring that every learner receives the right academic support, professional exposure, and personal encouragement needed to excel in today’s competitive environment.Our department consistently works toward creating a structured and supportive learning journey. From introducing students to core principles of commerce to engaging them in industry-driven training, internships, and value-added programmes, we strive to bridge the gap between academic learning and workplace expectations. Continuous interaction with industry experts, hands-on workshops, and real-time business case discussions help our students develop clarity, confidence, and competence.We also emphasise discipline, time management, communication skills, and ethical values qualities that form the foundation of any successful professional. Along with our dedicated faculty team, we monitor academic progress, mentor students individually, and ensure that every learner gets opportunities to grow at their own pace.I wholeheartedly welcome you to the Department of Commerce, where learning is supported, talents are nurtured, and students are empowered to envision their future with confidence. Together, let us build a strong academic community that inspires achievement, responsibility, and lifelong learning.",
+                "src": "/images/Kahe/team-13.png"
+              }
+            ]
+          }
+        }
+        ,
+        {
+          "type": "programcoordinator",
+          "items": {
+            "content": [
+              {
+                "title1": "PROGRAMME COORDINATOR",
+                "title": "Dr. R.Velmurugan",
+                "caption": "Programme coordinator, Department of Commerce",
+                "content": "The role of the Department of Commerce is not only to educate, but to guide students in discovering their strengths, refining their skills, and preparing for meaningful careers. As Programme Coordinator, my focus is on ensuring that every learner receives the right academic support, professional exposure, and personal encouragement needed to excel in today’s competitive environment.Our department consistently works toward creating a structured and supportive learning journey. From introducing students to core principles of commerce to engaging them in industry-driven training, internships, and value-added programmes, we strive to bridge the gap between academic learning and workplace expectations. Continuous interaction with industry experts, hands-on workshops, and real-time business case discussions help our students develop clarity, confidence, and competence.We also emphasise discipline, time management, communication skills, and ethical values qualities that form the foundation of any successful professional. Along with our dedicated faculty team, we monitor academic progress, mentor students individually, and ensure that every learner gets opportunities to grow at their own pace.I wholeheartedly welcome you to the Department of Commerce, where learning is supported, talents are nurtured, and students are empowered to envision their future with confidence. Together, let us build a strong academic community that inspires achievement, responsibility, and lifelong learning.",
+                "src": "/images/Kahe/team-13.png"
+              }
+            ]
+          }
         }
       ]
     },
