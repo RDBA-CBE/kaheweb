@@ -39,13 +39,7 @@
     },
     {
       "tab": "Faculty",
-      "slug": "engineering-biotechnology",
-      "basic": {
-        "title": "Faculty",
-        "description": "The Engineering Biotechnology faculty integrates engineering approaches with biological systems to develop scalable bioprocesses. They emphasize hands-on experimentation, process optimization, and research-led learning for careers in biotechnology and environmental solutions.",
-        "src": "/images/Kahe/academics/faculty.webp",
-        "buttonText": "View All Faculty"
-      },
+      "slug": "science-and-humanities",
       "breadcrumbItems": [
         {
           "label": "Academics",
@@ -56,13 +50,20 @@
           "href": "academics/engineering/"
         },
         {
-          "label": "Department of Biotechnology",
-          "href": "/academics/engineering/department-of-biotechnology"
+          "label": "Science And Humanities",
+          "href": "/academics/engineering/science-and-humanities"
         },
         {
           "label": "Faculty"
         }
       ],
+      "basic": {
+        "title": "Faculty",
+        "description": "The Engineering Biotechnology faculty integrates engineering approaches with biological systems to develop scalable bioprocesses. They emphasize hands-on experimentation, process optimization, and research-led learning for careers in biotechnology and environmental solutions.",
+        "src": "/images/Kahe/academics/faculty.webp",
+        "buttonText": "View All Faculty"
+      },
+
       "faculty": [
         {
           "name": "Dr.C.Selvamani",
@@ -71,7 +72,7 @@
           "email": "selvamani.c@kahedu.edu.in",
           "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/12/One-page-biodata-selva.pdf",
           "profileText": "View profile",
-          "src": "/images/team/team-1.png",
+          "src": "/images/team/team-11.png",
           "iconSrc": "/images/Kahe/Innerpages/education.png",
           "target": "_blank"
         },
@@ -82,7 +83,7 @@
           "email": "deivanayaki.m@kahedu.edu.in",
           "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/12/One-page-biodata-Deivanayaki.pdf",
           "profileText": "View profile",
-          "src": "/images/team/team-1.png",
+          "src": "/images/team/team-11.png",
           "iconSrc": "/images/Kahe/Innerpages/education.png",
           "target": "_blank"
         },
@@ -93,7 +94,7 @@
           "email": "deepa.b@kahedu.edu.in",
           "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/12/One-page-biodata-Deepa-B.pdf",
           "profileText": "View profile",
-          "src": "/images/team/team-1.png",
+          "src": "/images/team/team-11.png",
           "iconSrc": "/images/Kahe/Innerpages/education.png",
           "target": "_blank"
         },
@@ -104,7 +105,7 @@
           "email": "vijayalakshmi.sh@kahedu.edu.in",
           "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/12/One-page-biodata-Vijiyalakshmi.pdf",
           "profileText": "View profile",
-          "src": "/images/team/team-1.png",
+          "src": "/images/team/team-11.png",
           "iconSrc": "/images/Kahe/Innerpages/education.png",
           "target": "_blank"
         },
@@ -115,7 +116,7 @@
           "email": "nithyadevi.natarajan@kahedu.edu.in",
           "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/05/One-page-Biodata-Nithya-1.pdf",
           "profileText": "View profile",
-          "src": "/images/team/team-1.png",
+          "src": "/images/team/team-11.png",
           "iconSrc": "/images/Kahe/Innerpages/education.png",
           "target": "_blank"
         },
@@ -126,7 +127,7 @@
           "email": "usha.palanisamy@kahedu.edu.in",
           "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/12/One-page-biodata-USHA.pdf",
           "profileText": "View profile",
-          "src": "/images/team/team-1.png",
+          "src": "/images/team/team-11.png",
           "iconSrc": "/images/Kahe/Innerpages/education.png",
           "target": "_blank"
         },
@@ -137,7 +138,7 @@
           "email": "nirmala.viswanathan@kahedu.edu.in",
           "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/12/One-page-biodata-Nirmala.pdf",
           "profileText": "View profile",
-          "src": "/images/team/team-1.png",
+          "src": "/images/team/team-11.png",
           "iconSrc": "/images/Kahe/Innerpages/education.png",
           "target": "_blank"
         },
@@ -148,7 +149,7 @@
           "email": "savithiri.vijayakumar@kahedu.edu.in",
           "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/05/Savithiri-ONE-PAGE-BIODATA-.pdf",
           "profileText": "View profile",
-          "src": "/images/team/team-1.png",
+          "src": "/images/team/team-11.png",
           "iconSrc": "/images/Kahe/Innerpages/education.png",
           "target": "_blank"
         },
@@ -159,7 +160,7 @@
           "email": "janaki.murugaraj@kahedu.edu.in",
           "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/05/biodata-Janaki.pdf",
           "profileText": "View profile",
-          "src": "/images/team/team-1.png",
+          "src": "/images/team/team-11.png",
           "iconSrc": "/images/Kahe/Innerpages/education.png",
           "target": "_blank"
         },
@@ -170,7 +171,7 @@
           "email": "maheshkumar.natarajan@kahedu.edu.in",
           "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/12/One-page-biodata-Dr.N.Maheshkumar.pdf",
           "profileText": "View profile",
-          "src": "/images/team/team-1.png",
+          "src": "/images/team/team-11.png",
           "iconSrc": "/images/Kahe/Innerpages/education.png",
           "target": "_blank"
         },
@@ -181,7 +182,7 @@
           "email": "shanthi.gnanasivam@kahedu.edu.in",
           "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/12/One-page-biodata-format-Shanthi.G.pdf",
           "profileText": "View profile",
-          "src": "/images/team/team-1.png",
+          "src": "/images/team/team-11.png",
           "iconSrc": "/images/Kahe/Innerpages/education.png",
           "target": "_blank"
         },
@@ -192,7 +193,7 @@
           "email": "kalaivani.arumugam@kahedu.edu.in",
           "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/12/One-page-biodata-Ms.-A.-Kalaivani.pdf",
           "profileText": "View profile",
-          "src": "/images/team/team-1.png",
+          "src": "/images/team/team-11.png",
           "iconSrc": "/images/Kahe/Innerpages/education.png",
           "target": "_blank"
         },
@@ -203,7 +204,7 @@
           "email": "nithya.murugesan@kahedu.edu.in",
           "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/12/One-page-biodata-Nithya-M.pdf",
           "profileText": "View profile",
-          "src": "/images/team/team-1.png",
+          "src": "/images/team/team-11.png",
           "iconSrc": "/images/Kahe/Innerpages/education.png",
           "target": "_blank"
         },
@@ -214,7 +215,7 @@
           "email": "janagaraj.rajendran@kahedu.edu.in",
           "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/12/One-page-biodata-Janagaraj.pdf",
           "profileText": "View profile",
-          "src": "/images/team/team-1.png",
+          "src": "/images/team/team-11.png",
           "iconSrc": "/images/Kahe/Innerpages/education.png",
           "target": "_blank"
         },
@@ -225,7 +226,7 @@
           "email": "pragathi.subramaniam@kahedu.edu.in",
           "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/12/One-page-biodata-Pragathi.S.pdf",
           "profileText": "View profile",
-          "src": "/images/team/team-1.png",
+          "src": "/images/team/team-11.png",
           "iconSrc": "/images/Kahe/Innerpages/education.png",
           "target": "_blank"
         },
@@ -236,7 +237,7 @@
           "email": "savithri.vijayakumar@kahedu.edu.in",
           "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/12/One-page-biodata-SAVITHRI.pdf",
           "profileText": "View profile",
-          "src": "/images/team/team-1.png",
+          "src": "/images/team/team-11.png",
           "iconSrc": "/images/Kahe/Innerpages/education.png",
           "target": "_blank"
         },
@@ -247,7 +248,7 @@
           "email": "karthikadevinagarajan16@gmail.com",
           "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/12/One-page-biodata-N.Karthikadevi.pdf",
           "profileText": "View profile",
-          "src": "/images/team/team-1.png",
+          "src": "/images/team/team-11.png",
           "iconSrc": "/images/Kahe/Innerpages/education.png",
           "target": "_blank"
         },
@@ -258,7 +259,7 @@
           "email": "",
           "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/12/One-page-biodata-Deepika.pdf",
           "profileText": "View profile",
-          "src": "/images/team/team-1.png",
+          "src": "/images/team/team-11.png",
           "iconSrc": "/images/Kahe/Innerpages/education.png",
           "target": "_blank"
         },
@@ -269,7 +270,7 @@
           "email": "arun.b@kahedu.edu.in",
           "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/12/One-page-biodata-ARUN.pdf",
           "profileText": "View profile",
-          "src": "/images/team/team-1.png",
+          "src": "/images/team/team-11.png",
           "iconSrc": "/images/Kahe/Innerpages/education.png",
           "target": "_blank"
         },
@@ -280,7 +281,7 @@
           "email": "ramsinghprabhu.dass@kahedu.edu.in",
           "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/05/biodata-Ramsingh.pdf",
           "profileText": "View profile",
-          "src": "/images/team/team-1.png",
+          "src": "/images/team/team-11.png",
           "iconSrc": "/images/Kahe/Innerpages/education.png",
           "target": "_blank"
         },
@@ -291,7 +292,7 @@
           "email": "murugan.munusamy@kahedu.edu.in",
           "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/05/Murugan-One-page-Biodata.pdf",
           "profileText": "View profile",
-          "src": "/images/team/team-1.png",
+          "src": "/images/team/team-11.png",
           "iconSrc": "/images/Kahe/Innerpages/education.png",
           "target": "_blank"
         },
@@ -302,7 +303,7 @@
           "email": "kaladevi.velusamy@kahedu.edu.in",
           "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/12/One-page-biodata-kaladevi.pdf",
           "profileText": "View profile",
-          "src": "/images/team/team-1.png",
+          "src": "/images/team/team-11.png",
           "iconSrc": "/images/Kahe/Innerpages/education.png",
           "target": "_blank"
         },
@@ -313,7 +314,7 @@
           "email": "leenasmagna.cyrilarockiadoss@kahedu.edu.in",
           "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/12/One-page-biodata-Ms.Leenas-Magna-C.pdf",
           "profileText": "View profile",
-          "src": "/images/team/team-1.png",
+          "src": "/images/team/team-11.png",
           "iconSrc": "/images/Kahe/Innerpages/education.png",
           "target": "_blank"
         },
@@ -324,7 +325,7 @@
           "email": "aruna.kaladharan@kahedu.edu.in",
           "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/12/One-page-biodata-ARUNA.K.pdf",
           "profileText": "View profile",
-          "src": "/images/team/team-1.png",
+          "src": "/images/team/team-11.png",
           "iconSrc": "/images/Kahe/Innerpages/education.png",
           "target": "_blank"
         },
@@ -335,7 +336,7 @@
           "email": "lakshavarthini.poonsolai@kahedu.edu.in",
           "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/12/One-page-biodata-lakshavarthini.pdf",
           "profileText": "View profile",
-          "src": "/images/team/team-1.png",
+          "src": "/images/team/team-11.png",
           "iconSrc": "/images/Kahe/Innerpages/education.png",
           "target": "_blank"
         },
@@ -346,7 +347,7 @@
           "email": "angelinsagayarani.jaikumar@kahedu.edu.in",
           "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/12/One-page-biodata-Angelin.pdf",
           "profileText": "View profile",
-          "src": "/images/team/team-1.png",
+          "src": "/images/team/team-11.png",
           "iconSrc": "/images/Kahe/Innerpages/education.png",
           "target": "_blank"
         },
@@ -357,7 +358,7 @@
           "email": "swathi.sathyan@kahedu.edu.in",
           "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/12/One-page-biodata-Swathi.S.pdf",
           "profileText": "View profile",
-          "src": "/images/team/team-1.png",
+          "src": "/images/team/team-11.png",
           "iconSrc": "/images/Kahe/Innerpages/education.png",
           "target": "_blank"
         },
@@ -368,7 +369,7 @@
           "email": "saranya.v@kahedu.edu.in",
           "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/05/Saranya-biodata-format-1.pdf",
           "profileText": "View profile",
-          "src": "/images/team/team-1.png",
+          "src": "/images/team/team-11.png",
           "iconSrc": "/images/Kahe/Innerpages/education.png",
           "target": "_blank"
         },
@@ -379,7 +380,7 @@
           "email": "gokila.viswanathan@kahedu.edu.in",
           "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/12/One-page-biodata-Gokila.V.pdf",
           "profileText": "View profile",
-          "src": "/images/team/team-1.png",
+          "src": "/images/team/team-11.png",
           "iconSrc": "/images/Kahe/Innerpages/education.png",
           "target": "_blank"
         },
@@ -390,7 +391,7 @@
           "email": "kavirasu.k@kahedu.edu.in",
           "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/05/KAVI-RASU-biodata-format.pdf",
           "profileText": "View profile",
-          "src": "/images/team/team-1.png",
+          "src": "/images/team/team-11.png",
           "iconSrc": "/images/Kahe/Innerpages/education.png",
           "target": "_blank"
         },
@@ -401,7 +402,7 @@
           "email": "kurinjinathan.panneerselvam@kahedu.edu.in",
           "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/05/biodata-format_Kurinji.pdf",
           "profileText": "View profile",
-          "src": "/images/team/team-1.png",
+          "src": "/images/team/team-11.png",
           "iconSrc": "/images/Kahe/Innerpages/education.png",
           "target": "_blank"
         },
@@ -412,7 +413,7 @@
           "email": "dineshbabu.nagarajan@kahedu.edu.in",
           "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/05/biodata-Dr.-Dineshbabu.pdf",
           "profileText": "View profile",
-          "src": "/images/team/team-1.png",
+          "src": "/images/team/team-11.png",
           "iconSrc": "/images/Kahe/Innerpages/education.png",
           "target": "_blank"
         },
@@ -423,7 +424,7 @@
           "email": "perumal.kaliappan@kahedu.edu.in",
           "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/05/PERUMAL-ONE-PAGE-BIO-DATA.pdf",
           "profileText": "View profile",
-          "src": "/images/team/team-1.png",
+          "src": "/images/team/team-11.png",
           "iconSrc": "/images/Kahe/Innerpages/education.png",
           "target": "_blank"
         },
@@ -434,7 +435,7 @@
           "email": "vinothpandi.dharmalingam@kahedu.edu.in",
           "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/05/biodata-Vinoth-29.04.2024.pdf",
           "profileText": "View profile",
-          "src": "/images/team/team-1.png",
+          "src": "/images/team/team-11.png",
           "iconSrc": "/images/Kahe/Innerpages/education.png",
           "target": "_blank"
         },
@@ -445,7 +446,7 @@
           "email": "devika.veluchamy@kahedu.edu.in",
           "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/12/One-page-biodata-devika.pdf",
           "profileText": "View profile",
-          "src": "/images/team/team-1.png",
+          "src": "/images/team/team-11.png",
           "iconSrc": "/images/Kahe/Innerpages/education.png",
           "target": "_blank"
         },
@@ -456,7 +457,7 @@
           "email": "karthika.kumarasamy@kahedu.eu.in",
           "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/12/One-page-biodata-K.-Karthika.pdf",
           "profileText": "View profile",
-          "src": "/images/team/team-1.png",
+          "src": "/images/team/team-11.png",
           "iconSrc": "/images/Kahe/Innerpages/education.png",
           "target": "_blank"
         },
@@ -467,7 +468,7 @@
           "email": "sakthivel.p@kahedu.edu.in",
           "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/12/One-page-biodata-P.-Sakthivel.pdf",
           "profileText": "View profile",
-          "src": "/images/team/team-1.png",
+          "src": "/images/team/team-11.png",
           "iconSrc": "/images/Kahe/Innerpages/education.png",
           "target": "_blank"
         },
@@ -478,7 +479,7 @@
           "email": "anand.sekar@kahedu.edu.in",
           "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/12/One-page-biodata-Anand.S.pdf",
           "profileText": "View profile",
-          "src": "/images/team/team-1.png",
+          "src": "/images/team/team-11.png",
           "iconSrc": "/images/Kahe/Innerpages/education.png",
           "target": "_blank"
         },
@@ -489,7 +490,7 @@
           "email": "Sathiyabama.ramanujam@kahedu.edu.in",
           "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/12/One-page-biodata-sathiyabama.pdf",
           "profileText": "View profile",
-          "src": "/images/team/team-1.png",
+          "src": "/images/team/team-11.png",
           "iconSrc": "/images/Kahe/Innerpages/education.png",
           "target": "_blank"
         },
@@ -500,7 +501,7 @@
           "email": "shameem.abdulsamad@kahedu.edu.in",
           "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/12/One-page-biodata-Shameem.pdf",
           "profileText": "View profile",
-          "src": "/images/team/team-1.png",
+          "src": "/images/team/team-11.png",
           "iconSrc": "/images/Kahe/Innerpages/education.png",
           "target": "_blank"
         },
@@ -511,7 +512,7 @@
           "email": "vahini.manoharqb@kahedu.edu.in",
           "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/12/One-page-biodata-Vahini.pdf",
           "profileText": "View profile",
-          "src": "/images/team/team-1.png",
+          "src": "/images/team/team-11.png",
           "iconSrc": "/images/Kahe/Innerpages/education.png",
           "target": "_blank"
         },
@@ -522,7 +523,7 @@
           "email": "sruthichemistry@gmail.com",
           "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/05/biodata-Sruthi.pdf",
           "profileText": "View profile",
-          "src": "/images/team/team-1.png",
+          "src": "/images/team/team-11.png",
           "iconSrc": "/images/Kahe/Innerpages/education.png",
           "target": "_blank"
         },
@@ -533,7 +534,7 @@
           "email": "hemalatha.sokkappan@kahedu.edu.in",
           "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/12/One-page-biodata-Hemalatha.pdf",
           "profileText": "View profile",
-          "src": "/images/team/team-1.png",
+          "src": "/images/team/team-11.png",
           "iconSrc": "/images/Kahe/Innerpages/education.png",
           "target": "_blank"
         },
@@ -544,7 +545,7 @@
           "email": "archana.bellan@kahedu.edu.in",
           "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/12/One-page-biodata-Dr.-B.-Archana.pdf",
           "profileText": "View profile",
-          "src": "/images/team/team-1.png",
+          "src": "/images/team/team-11.png",
           "iconSrc": "/images/Kahe/Innerpages/education.png",
           "target": "_blank"
         },
@@ -555,7 +556,7 @@
           "email": "preethi.balakrishnan@kahedu.edu.in",
           "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/12/One-page-biodata-PREETHI.pdf",
           "profileText": "View profile",
-          "src": "/images/team/team-1.png",
+          "src": "/images/team/team-11.png",
           "iconSrc": "/images/Kahe/Innerpages/education.png",
           "target": "_blank"
         },
@@ -566,7 +567,7 @@
           "email": "sivakumar.chickiyan@kahedu.edu.in",
           "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/12/One-page-biodata-Sivakumar-c.pdf",
           "profileText": "View profile",
-          "src": "/images/team/team-1.png",
+          "src": "/images/team/team-11.png",
           "iconSrc": "/images/Kahe/Innerpages/education.png",
           "target": "_blank"
         },
@@ -577,7 +578,7 @@
           "email": "rajkumar.thangavel@kahedu.edu.in",
           "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/05/T.Rajkumar-biodata-format.pdf",
           "profileText": "View profile",
-          "src": "/images/team/team-1.png",
+          "src": "/images/team/team-11.png",
           "iconSrc": "/images/Kahe/Innerpages/education.png",
           "target": "_blank"
         },
@@ -588,7 +589,7 @@
           "email": "surya.karuppanan@kahedu.edu.in",
           "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/12/One-page-biodata-SURYAK.pdf",
           "profileText": "View profile",
-          "src": "/images/team/team-1.png",
+          "src": "/images/team/team-11.png",
           "iconSrc": "/images/Kahe/Innerpages/education.png",
           "target": "_blank"
         },
@@ -599,7 +600,7 @@
           "email": "mani.ayyandurai@kahedu.edu.in",
           "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/12/One-page-biodata-A.-Mani.pdf",
           "profileText": "View profile",
-          "src": "/images/team/team-1.png",
+          "src": "/images/team/team-11.png",
           "iconSrc": "/images/Kahe/Innerpages/education.png",
           "target": "_blank"
         },
@@ -610,7 +611,7 @@
           "email": "greeshma.prakasan@kahedu.edu.in",
           "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/12/One-page-biodata-Greeshma.pdf",
           "profileText": "View profile",
-          "src": "/images/team/team-1.png",
+          "src": "/images/team/team-11.png",
           "iconSrc": "/images/Kahe/Innerpages/education.png",
           "target": "_blank"
         },
@@ -621,35 +622,67 @@
           "email": "jovithajane.davidmanickaraj@kahedu.edu.in",
           "profile": "https://kahedu.edu.in/n/wp-content/uploads/2024/12/One-page-biodata-Jovitha.pdf",
           "profileText": "View profile",
-          "src": "/images/team/team-1.png",
+          "src": "/images/team/team-11.png",
           "iconSrc": "/images/Kahe/Innerpages/education.png",
           "target": "_blank"
         }
       ]
     },
     {
-      "tab": "Infrastructuress",
+      "tab": "Infrastructure",
       "items": [
         {
-          "type": "laboratories",
-          "title": "Class Room Details",
-          "content": [
+          "type": "para",
+          "title": "Chemistry lab",
+          "content": "The students gain knowledge and skills regarding important concepts and principles of chemistry which is relevant to the context and practical applications in Engineering and Technology"
+        },
+        {
+          "type": "equipment",
+          "title": "Physics lab",
+          "desc": "Engineering Physics program will apply their strong problem solving skills as physicists along with an understanding of the approach, methods, and requirements of engineering and engineering design for a successful career in advancing technology. Its engineering science and design components prepare students to work as professional engineers. Engineering Physics program will use their strong skills in problem solving, research experience and knowledge in physics and engineering as successful graduate students and researchers in highly ranked graduate programs."
+        },
+        {
+          "type": "LibrarySections",
+          "title": "English lab",
+          "desc": "A well equipped language laboratory with 61 systems and a full time programmer exists to provide access to each and every student with systems so as to enhance the employability skills of the students by importing both verbal and non verbal skills."
+        },
+
+        {
+          "type": "gallery",
+          "slug": "science-and-humanities",
+          "breadcrumbItems": [
             {
-              "title": "Chemistry lab",
-              "content": "The students gain knowledge and skills regarding important concepts and principles of chemistry which is relevant to the context and practical applications in Engineering and Technology"
+              "label": "Academics",
+              "href": "/academics"
             },
             {
-              "title": "Physics lab",
-              "content": "Engineering Physics program will apply their strong problem solving skills as physicists along with an understanding of the approach, methods, and requirements of engineering and engineering design for a successful career in advancing technology. Its engineering science and design components prepare students to work as professional engineers. Engineering Physics program will use their strong skills in problem solving, research experience and knowledge in physics and engineering as successful graduate students and researchers in highly ranked graduate programs."
+              "label": "Engineering",
+              "href": "academics/engineering/"
             },
             {
-              "title": "English lab",
-              "content": "A well equipped language laboratory with 61 systems and a full time programmer exists to provide access to each and every student with systems so as to enhance the employability skills of the students by importing both verbal and non verbal skills.",
-              "images": [
-                "https://kahedu.edu.in/n/wp-content/uploads/2019/11/Physics-Lab-150x150.png",
-                "https://kahedu.edu.in/n/wp-content/uploads/2019/11/Chemistry-Lab-621x412.png",
-                "https://kahedu.edu.in/n/wp-content/uploads/2019/11/Language-Lab-740x535.png"
-              ]
+              "label": "Science And Humanities",
+              "href": "/academics/engineering/science-and-humanities"
+            },
+            {
+              "label": "Gallery"
+            }
+          ],
+
+          "images": [
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/Physics-Lab-623x411.png",
+              "alt": "Physics Lab - MSc Physics Colleges in Coimbatore",
+              "title": "Physics-Lab"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/Chemistry-Lab-621x412.png",
+              "alt": "Chemistry Lab at KAHE - Best college for Chemistry",
+              "title": "Chemistry-Lab"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/Language-Lab-740x535.png",
+              "alt": "Language Lab - Best Languages college in India",
+              "title": "Language-Lab"
             }
           ]
         }
@@ -657,1846 +690,1873 @@
     },
     {
       "tab": "Publications",
-      "slug": "department-of-cyber-security",
+      "slug": "science-and-humanities",
+      "breadcrumbItems": [
+        {
+          "label": "Academics",
+          "href": "/academics"
+        },
+        {
+          "label": "Engineering",
+          "href": "academics/engineering/"
+        },
+        {
+          "label": "Science And Humanities",
+          "href": "/academics/engineering/science-and-humanities"
+        },
+        {
+          "label": "Publications"
+        }
+      ],
       "title": "Best Five Papers Faculty wise:",
       "subtitle": "Paper publications by the Faculty Members",
       "content": [
         {
-          "head": [
-            {
-              "id": "col1",
-              "label": "S.No"
-            },
-            {
-              "id": "col2",
-              "label": "Author Name"
-            },
-            {
-              "id": "col3",
-              "label": "Title of the Paper"
-            },
-            {
-              "id": "col4",
-              "label": "Journal Name"
-            },
-            {
-              "id": "col5",
-              "label": "Year of Publication"
-            },
-            {
-              "id": "col6",
-              "label": "Volume"
-            },
-            {
-              "id": "col7",
-              "label": "Issue No"
-            },
-            {
-              "id": "col8",
-              "label": "PP"
-            }
-          ],
-          "data": [
-            {
-              "col1": {
-                "text": "1"
-              },
-              "col2": {
-                "text": "M Arunkumar, P Agilan, S Ramamoorthy, N Mahesh Kumar"
-              },
-              "col3": {
-                "text": "Generalised Ulam-Hyers stability of a n-dimensional additive functional equation in two different methods",
-                "join_link": "https://www.inderscienceonline.com/doi/abs/10.1504/IJCAET.2020.107441"
-              },
-              "col4": {
-                "text": "International Journal of Computer Aided Engineering and Technology"
-              },
-              "col5": {
-                "text": "2020"
-              },
-              "col6": {
-                "text": "12"
-              },
-              "col7": {
-                "text": "4"
-              },
-              "col8": {
-                "text": "447-460"
-              }
-            },
-            {
-              "col1": {
-                "text": "2"
-              },
-              "col2": {
-                "text": "S Pinelas, M Arunkumar, N Mahesh Kumar, E Sathya"
-              },
-              "col3": {
-                "text": "Stability of general quadratic-cubic-quartic functional equation in quasi beta Banach space via two dissimilar methods",
-                "join_link": "https://www.malayajournal.org/index.php/mjm/article/download/783/516"
-              },
-              "col4": {
-                "text": "Malaya Journal of Matematik"
-              },
-              "col5": {
-                "text": "2018"
-              },
-              "col6": {
-                "text": "6"
-              },
-              "col7": {
-                "text": "1"
-              },
-              "col8": {
-                "text": "113-128"
-              }
-            },
-            {
-              "col1": {
-                "text": "3"
-              },
-              "col2": {
-                "text": "John M Rassias, M Arunkumar, E Sathya, N Mahesh Kumar"
-              },
-              "col3": {
-                "text": "Generalized Ulam-Hyers stability of on (AQQ): additive-quadratic-quartic functional equation",
-                "join_link": "https://www.malayajournal.org/index.php/mjm/article/download/585/343"
-              },
-              "col4": {
-                "text": "Malaya Journal of Matematik"
-              },
-              "col5": {
-                "text": "2017"
-              },
-              "col6": {
-                "text": "5"
-              },
-              "col7": {
-                "text": "1"
-              },
-              "col8": {
-                "text": "122-142"
-              }
-            },
-            {
-              "col1": {
-                "text": "4"
-              },
-              "col2": {
-                "text": "John M Rassias, M Arunkumar, N Mahesh Kumar"
-              },
-              "col3": {
-                "text": "General solution and generalized Ulam-Hyers stability of a generalized 3-Dimensional AQCQ functional equation",
-                "join_link": "https://www.malayajournal.org/index.php/mjm/article/view/587"
-              },
-              "col4": {
-                "text": "Malaya Journal of Matematik"
-              },
-              "col5": {
-                "text": "2017"
-              },
-              "col6": {
-                "text": "5"
-              },
-              "col7": {
-                "text": "1"
-              },
-              "col8": {
-                "text": "149-185"
-              }
-            },
-            {
-              "col1": {
-                "text": "5"
-              },
-              "col2": {
-                "text": "John M Rassias, M Arunkumar, E Sathya, N Mahesh Kumar"
-              },
-              "col3": {
-                "text": "Solution and stability of a acq functional equation in generalized 2-normed spaces",
-                "join_link": "https://www.researchgate.net/profile/John_Rassias/publication/271764740_Solution_and_Stability_of_an_ACQ_Functional_Equation_in_Generalized_2-Normed_Spaces/links/54d0eae30cf29ca8110407ef/Solution-and-Stability-of-an-ACQ-Functional-Equation-in-Generalized-2-Normed-Spaces.pdf"
-              },
-              "col4": {
-                "text": "Intern. J. Fuzzy Mathematical Archive"
-              },
-              "col5": {
-                "text": "2015"
-              },
-              "col6": {
-                "text": "7"
-              },
-              "col7": {
-                "text": "2"
-              },
-              "col8": {
-                "text": "213-224"
-              }
-            },
-            {
-              "col1": {
-                "text": "6"
-              },
-              "col2": {
-                "text": "M Raju and C Selvamani"
-              },
-              "col3": {
-                "text": "Fixed solutions of second order nonlinear difference equations",
-                "join_link": ""
-              },
-              "col4": {
-                "text": "IOP Conference Series: Journal of Physics"
-              },
-              "col5": {
-                "text": "2021"
-              },
-              "col6": {
-                "text": "1964"
-              },
-              "col7": {
-                "text": "2"
-              },
-              "col8": {
-                "text": "05-Jan"
-              }
-            },
-            {
-              "col1": {
-                "text": "7"
-              },
-              "col2": {
-                "text": "C Selvamani and C Loganathan"
-              },
-              "col3": {
-                "text": "Nonlocal problems for controllability of functional differential equation",
-                "join_link": ""
-              },
-              "col4": {
-                "text": "IOP Conference Series: Journal of Physics"
-              },
-              "col5": {
-                "text": "2021"
-              },
-              "col6": {
-                "text": "1964"
-              },
-              "col7": {
-                "text": "2"
-              },
-              "col8": {
-                "text": "06-Jan"
-              }
-            },
-            {
-              "col1": {
-                "text": "8"
-              },
-              "col2": {
-                "text": "K Loganathan, C Selvamani, A Charles Sagayaraj"
-              },
-              "col3": {
-                "text": "Second Law Analysis of Williamson Nanofluid Flow in Attendance of Radiation and Heat Generation with Cattaneo-Christov (C-C) Heat Flux",
-                "join_link": ""
-              },
-              "col4": {
-                "text": "Advanced Applications of Computational Mathematics - River Publishers"
-              },
-              "col5": {
-                "text": "2022"
-              },
-              "col6": {
-                "text": "1"
-              },
-              "col7": {
-                "text": "1"
-              },
-              "col8": {
-                "text": "119-134"
-              }
-            },
-            {
-              "col1": {
-                "text": "9"
-              },
-              "col2": {
-                "text": "N. Manjunatha, R. Sumithra, Nazek Alessa, K. Loganathan, C. Selvamani and Sonam Gyeltshen"
-              },
-              "col3": {
-                "text": "Influence of Temperature Gradients and Heat Source in a Combined Layer on Double Component-Magneto-Marangoni-Convection",
-                "join_link": ""
-              },
-              "col4": {
-                "text": "Journal of Mathematics"
-              },
-              "col5": {
-                "text": "2023"
-              },
-              "col6": {
-                "text": "2023"
-              },
-              "col7": {
-                "text": "1"
-              },
-              "col8": {
-                "text": "1 to 22"
-              }
-            },
-            {
-              "col1": {
-                "text": "10"
-              },
-              "col2": {
-                "text": "K Manimekalai, P Umadevi, K Loganathan, C Selvamani"
-              },
-              "col3": {
-                "text": "Bioconvective flow of Maxwell nanofluid with swimming of gyrotactic microorganisms with triple stratification",
-                "join_link": ""
-              },
-              "col4": {
-                "text": "Elsevier Materials Today: Proceedings"
-              },
-              "col5": {
-                "text": "2023"
-              },
-              "col6": {
-                "text": "2023"
-              },
-              "col7": {
-                "text": "1"
-              },
-              "col8": {
-                "text": ""
-              }
-            },
-            {
-              "col1": {
-                "text": "11"
-              },
-              "col2": {
-                "text": "K. Kavi Rasu, S. Moorthy Babu"
-              },
-              "col3": {
-                "text": "Impact of Eu3+ concentration on the fluorescence properties of the LiGd(W0.5Mo0.5O4)2 novel red phosphors",
-                "join_link": ""
-              },
-              "col4": {
-                "text": "Solid State Sciences"
-              },
-              "col5": {
-                "text": "2019"
-              },
-              "col6": {
-                "text": "98"
-              },
-              "col7": {
-                "text": "–"
-              },
-              "col8": {
-                "text": "106028"
-              }
-            },
-            {
-              "col1": {
-                "text": "12"
-              },
-              "col2": {
-                "text": "S. Rajkumar, K. Kavi Rasu, K. Vijayarangamuthu"
-              },
-              "col3": {
-                "text": "A type – II MoS2/ZnO heterostructure with enhanced photocatalytic activity",
-                "join_link": ""
-              },
-              "col4": {
-                "text": "Materials Letters"
-              },
-              "col5": {
-                "text": "2019"
-              },
-              "col6": {
-                "text": "243"
-              },
-              "col7": {
-                "text": "–"
-              },
-              "col8": {
-                "text": "183-186"
-              }
-            },
-            {
-              "col1": {
-                "text": "13"
-              },
-              "col2": {
-                "text": "K. Kavi Rasu, P. Sakthivel, P. Muthukrishnan, G. K. D. Prasanna Venkatesan"
-              },
-              "col3": {
-                "text": "Investigation on the structural and optical properties of Mn2+ doped MgS nanoparticles synthesized by hydrothermal method",
-                "join_link": ""
-              },
-              "col4": {
-                "text": "Optik"
-              },
-              "col5": {
-                "text": "2021"
-              },
-              "col6": {
-                "text": "225"
-              },
-              "col7": {
-                "text": "–"
-              },
-              "col8": {
-                "text": "165774"
-              }
-            },
-            {
-              "col1": {
-                "text": "14"
-              },
-              "col2": {
-                "text": "K. Kavi Rasu, P. Sakthivel, G. K. D. Prasanna Venkatesan"
-              },
-              "col3": {
-                "text": "Effect of Pd2+ co-doping on the structural and optical properties of Mn2+: ZnS nanoparticles",
-                "join_link": ""
-              },
-              "col4": {
-                "text": "Optics & Laser Technology"
-              },
-              "col5": {
-                "text": "2020"
-              },
-              "col6": {
-                "text": "130"
-              },
-              "col7": {
-                "text": "–"
-              },
-              "col8": {
-                "text": "106365"
-              }
-            },
-            {
-              "col1": {
-                "text": "15"
-              },
-              "col2": {
-                "text": "K. Kavi Rasu, S. Moorthy Babu, K. Vijayarangamuthu"
-              },
-              "col3": {
-                "text": "Synthesis and photoluminescence properties of Sm3+ doped LiGd(WO4)2 phosphors with high color purity",
-                "join_link": ""
-              },
-              "col4": {
-                "text": "Optical Materials"
-              },
-              "col5": {
-                "text": "2020"
-              },
-              "col6": {
-                "text": "102"
-              },
-              "col7": {
-                "text": "–"
-              },
-              "col8": {
-                "text": "102:109804"
-              }
-            },
-            {
-              "col1": {
-                "text": "16"
-              },
-              "col2": {
-                "text": "J. Alzabut, S. R. Grace, A. George Maria Selvam, R. Janagaraj"
-              },
-              "col3": {
-                "text": "Nonoscillatory Solutions of Discrete Fractional Order Equations with Positive and Negative Terms",
-                "join_link": ""
-              },
-              "col4": {
-                "text": "Mathematica Bohemica"
-              },
-              "col5": {
-                "text": "2023"
-              },
-              "col6": {
-                "text": "148"
-              },
-              "col7": {
-                "text": "04"
-              },
-              "col8": {
-                "text": "461-479"
-              }
-            },
-            {
-              "col1": {
-                "text": "17"
-              },
-              "col2": {
-                "text": "Ozlem Ak Gumus, A. George Maria Selvam, R. Janagaraj"
-              },
-              "col3": {
-                "text": "Dynamics of the Mathematical Model Related to COVID-19 Pandemic",
-                "join_link": ""
-              },
-              "col4": {
-                "text": "Thai Journal of Mathematics"
-              },
-              "col5": {
-                "text": "2022"
-              },
-              "col6": {
-                "text": "20"
-              },
-              "col7": {
-                "text": "2"
-              },
-              "col8": {
-                "text": "957-970"
-              }
-            },
-            {
-              "col1": {
-                "text": "18"
-              },
-              "col2": {
-                "text": "G. E. Chatzarakis, A. George Maria Selvam, R. Janagaraj, G. N. Miliaras"
-              },
-              "col3": {
-                "text": "Oscillation Behaviour of Solutions for a Class of a Discrete Nonlinear Fractional-Order Derivatives",
-                "join_link": ""
-              },
-              "col4": {
-                "text": "Tatra Mountains Mathematical Publications"
-              },
-              "col5": {
-                "text": "2022"
-              },
-              "col6": {
-                "text": "79"
-              },
-              "col7": {
-                "text": "02"
-              },
-              "col8": {
-                "text": "101-108"
-              }
-            },
-            {
-              "col1": {
-                "text": "19"
-              },
-              "col2": {
-                "text": "M. Higazy, A. George Maria Selvam, R. Janagaraj"
-              },
-              "col3": {
-                "text": "Chaotic Dynamics of A Novel 2D Discrete Fractional Order Ushiki Map",
-                "join_link": ""
-              },
-              "col4": {
-                "text": "Fractals"
-              },
-              "col5": {
-                "text": "2021"
-              },
-              "col6": {
-                "text": "29"
-              },
-              "col7": {
-                "text": "08"
-              },
-              "col8": {
-                "text": "2140032-1 – 2140032-11"
-              }
-            },
-            {
-              "col1": {
-                "text": "20"
-              },
-              "col2": {
-                "text": "G. E. Chatzarakis, A. George Maria Selvam, R. Janagaraj, G. N. Miliaras"
-              },
-              "col3": {
-                "text": "Oscillation Criteria for a Class of Nonlinear Discrete Fractional Order Equations with Damping Term",
-                "join_link": ""
-              },
-              "col4": {
-                "text": "Mathematica Slovaca"
-              },
-              "col5": {
-                "text": "2020"
-              },
-              "col6": {
-                "text": "70"
-              },
-              "col7": {
-                "text": "05"
-              },
-              "col8": {
-                "text": "1165-1182"
-              }
-            },
-            {
-              "col1": {
-                "text": "21"
-              },
-              "col2": {
-                "text": "G.Sivashanmugam, K.Lakshmi, B.Preethi, S.Nelson, and M.Sathiyaseelan"
-              },
-              "col3": {
-                "text": "CTAB- templated formation of CuCo2O4/CuO nanorods and nanosheets for high-performance supercapacitor applications"
-              },
-              "col4": {
-                "text": "Journal of Materials Science: Materials in Electronics"
-              },
-              "col5": {
-                "text": "2021"
-              },
-              "col6": {
-                "text": "12"
-              },
-              "col7": {
-                "text": "32"
-              },
-              "col8": {
-                "text": "27148-27158"
-              }
-            },
-            {
-              "col1": {
-                "text": "22"
-              },
-              "col2": {
-                "text": "M Sathiyaseelan, Lakshmi Kunhikrishnan, P Jacquline Rosy, G Sivashanmugam, B Preethi"
-              },
-              "col3": {
-                "text": "Synthesis of 1D nanorod and 2D nanoflake mixed structures of nickel cobaltite: an efficient diffusion-controlled electrode material for asymmetric supercapacitor application"
-              },
-              "col4": {
-                "text": "Applied Physics A"
-              },
-              "col5": {
-                "text": "2024"
-              },
-              "col6": {
-                "text": "130"
-              },
-              "col7": {
-                "text": "4"
-              },
-              "col8": {
-                "text": "263"
-              }
-            },
-            {
-              "col1": {
-                "text": "23"
-              },
-              "col2": {
-                "text": "B.Preethi, K. Buvaneswari, G. K. Ayyadurai, S. Kutti Rani, R. Jayaprakash"
-              },
-              "col3": {
-                "text": "In-silico Docking approach of Vitex negundo (Nochi plant) Leaf Chemical Constituents against Covid-19 Main Protease"
-              },
-              "col4": {
-                "text": "Indian Journal of Natural Sciences"
-              },
-              "col5": {
-                "text": "2022"
-              },
-              "col6": {
-                "text": "Vol.13"
-              },
-              "col7": {
-                "text": "Issue 71"
-              },
-              "col8": {
-                "text": "Pg.No 39662-39668"
-              }
-            },
-            {
-              "col1": {
-                "text": "24"
-              },
-              "col2": {
-                "text": "B. Preethi, Sarojkumar Sha, R. Jayaprakash, S. Kutti Rani, and S. Hemalatha"
-              },
-              "col3": {
-                "text": "Synthesis, characterization and biological studies on 4-Bromo-2-{(z)-[(furan-2-ylmethyl) imino] methyl} phenol praseodymium complex"
-              },
-              "col4": {
-                "text": "Rasayan J. Chem."
-              },
-              "col5": {
-                "text": "2019"
-              },
-              "col6": {
-                "text": "Vol. 12"
-              },
-              "col7": {
-                "text": "No. 3"
-              },
-              "col8": {
-                "text": "1455-1462"
-              }
-            },
-            {
-              "col1": {
-                "text": "25"
-              },
-              "col2": {
-                "text": "B. Preethi, R. Jayaprakash, S. Kutti Rani, N.Vijayakumar"
-              },
-              "col3": {
-                "text": "Characterization, Molecular Docking, Antimicrobial and Anticancer Studies on 5-Bromo Salicylaldehyde – Furan-2-yl-metha"
-              },
-              "col4": {
-                "text": "Asian Journal of Chemistry"
-              },
-              "col5": {
-                "text": "2021"
-              },
-              "col6": {
-                "text": "Vol. 33"
-              },
-              "col7": {
-                "text": "No. 9"
-              },
-              "col8": {
-                "text": "2127-2134"
-              }
-            },
-            {
-              "col1": {
-                "text": "26"
-              },
-              "col2": {
-                "text": "D Vinoth Pandi, V Saraswathi, MR Venkatraman, N Muthukumarasamy, S Agilan, D Velauthapillai, K Brindhadevi, A Pugazhendhi"
-              },
-              "col3": {
-                "text": "PbS quantum dots-sensitized ZnO nanorods-based third generation solar cells",
-                "join_link": "https://www.sciencedirect.com/science/article/pii/S246851942300071X"
-              },
-              "col4": {
-                "text": "Materials Today Chemistry"
-              },
-              "col5": {
-                "text": "2023"
-              },
-              "col6": {
-                "text": "29"
-              },
-              "col7": {
-                "text": ""
-              },
-              "col8": {
-                "text": "101444"
-              }
-            },
-            {
-              "col1": {
-                "text": "27"
-              },
-              "col2": {
-                "text": "Akshaya Subhramaniyan Rasappan, Rajkumar Palanisamy, Venkatachalam Thangamuthu, Vinoth Pandi Dharmalingam, Muthukumarasamy Natarajan, B Archana, Dhayalan Velauthapillai, Jinho Kim"
-              },
-              "col3": {
-                "text": "Battery-type WS2 decorated WO3 nanorods for high-performance supercapacitors",
-                "join_link": "https://www.sciencedirect.com/science/article/pii/S0167577X23018256"
-              },
-              "col4": {
-                "text": "Materials Letters"
-              },
-              "col5": {
-                "text": "2024"
-              },
-              "col6": {
-                "text": "357"
-              },
-              "col7": {
-                "text": ""
-              },
-              "col8": {
-                "text": "135640"
-              }
-            },
-            {
-              "col1": {
-                "text": "28"
-              },
-              "col2": {
-                "text": "D Vinoth Pandi, V Saraswathi, N Muthukumarasamy, S Agilan, P Balraju, Dhayalan Velauthapillai"
-              },
-              "col3": {
-                "text": "C-axis oriented ZnO nanorods based quantum dot solar cells",
-                "join_link": "https://www.sciencedirect.com/science/article/pii/S0925346720311137"
-              },
-              "col4": {
-                "text": "Optical Materials"
-              },
-              "col5": {
-                "text": "2021"
-              },
-              "col6": {
-                "text": "112"
-              },
-              "col7": {
-                "text": ""
-              },
-              "col8": {
-                "text": "110774"
-              }
-            },
-            {
-              "col1": {
-                "text": "29"
-              },
-              "col2": {
-                "text": "D Vinoth Pandi, N Muthukumarasamy, S Agilan, Dhayalan Velauthapillai"
-              },
-              "col3": {
-                "text": "CdSe quantum dots sensitized ZnO nanorods for solar cell application",
-                "join_link": "https://www.sciencedirect.com/science/article/pii/S0167577X18306086"
-              },
-              "col4": {
-                "text": "Materials Letters"
-              },
-              "col5": {
-                "text": "2018"
-              },
-              "col6": {
-                "text": "223"
-              },
-              "col7": {
-                "text": ""
-              },
-              "col8": {
-                "text": "227-230"
-              }
-            },
-            {
-              "col1": {
-                "text": "30"
-              },
-              "col2": {
-                "text": "D Vinoth Pandi, S Selvasekarapandian, R Bhuvaneswari, M Premalatha, S Monisha, D Arunkumar, Kawamura Junichi"
-              },
-              "col3": {
-                "text": "Development and characterization of proton conducting polymer electrolyte based on PVA, amino acid glycine and NH4SCN",
-                "join_link": "https://www.sciencedirect.com/science/article/pii/S0167273816305859"
-              },
-              "col4": {
-                "text": "Solid State Ionics"
-              },
-              "col5": {
-                "text": "2018"
-              },
-              "col6": {
-                "text": "298"
-              },
-              "col7": {
-                "text": ""
-              },
-              "col8": {
-                "text": "15-22"
-              }
-            },
-            {
-              "col1": {
-                "text": "31"
-              },
-              "col2": {
-                "text": "K Ravichandran, N Dineshbabu, T Arun, C Ravidhas, S Valanarasu"
-              },
-              "col3": {
-                "text": "Effect of fluorine (an anionic dopant) on transparent conducting properties of Sb (a cationic) doped ZnO thin films deposited using a simplified spray technique",
-                "join_link": "https://www.sciencedirect.com/science/article/pii/S0025540816302823"
-              },
-              "col4": {
-                "text": "Materials Research Bulletin"
-              },
-              "col5": {
-                "text": "2016"
-              },
-              "col6": {
-                "text": "83"
-              },
-              "col7": {
-                "text": "–"
-              },
-              "col8": {
-                "text": "442-452"
-              }
-            },
-            {
-              "col1": {
-                "text": "32"
-              },
-              "col2": {
-                "text": "K Ravichandran, N Dineshbabu, T Arun, A Manivasaham, E Sindhuja"
-              },
-              "col3": {
-                "text": "Synergistic effects of Mo and F doping on the quality factor of ZnO thin films prepared by a fully automated home-made nebulizer spray technique",
-                "join_link": "https://www.sciencedirect.com/science/article/pii/S0169433216319481"
-              },
-              "col4": {
-                "text": "Applied Surface Science"
-              },
-              "col5": {
-                "text": "2017"
-              },
-              "col6": {
-                "text": "392"
-              },
-              "col7": {
-                "text": "–"
-              },
-              "col8": {
-                "text": "624-633"
-              }
-            },
-            {
-              "col1": {
-                "text": "33"
-              },
-              "col2": {
-                "text": "Thirumurugan Arun, T Kavinkumar, R Udayabhaskar, R Kiruthiga, Mauricio J Morel, Radhamanohar Aepuru, N Dineshbabu, K Ravichandran, Ali Akbari-Fakhrabadi, RV Mangalaraja"
-              },
-              "col3": {
-                "text": "NiFe2O4 nanospheres with size-tunable magnetic and electrochemical properties for superior supercapacitor electrode performance",
-                "join_link": "https://www.sciencedirect.com/science/article/pii/S0013468621016364"
-              },
-              "col4": {
-                "text": "Electrochimica Acta"
-              },
-              "col5": {
-                "text": "2021"
-              },
-              "col6": {
-                "text": "399"
-              },
-              "col7": {
-                "text": "–"
-              },
-              "col8": {
-                "text": "139346"
-              }
-            },
-            {
-              "col1": {
-                "text": "34"
-              },
-              "col2": {
-                "text": "N Dineshbabu, RN Jayaprakash, P Karuppasamy, Thirumurugan Arun, J Judith Vijaya, R Esther Nimshi, Muthu Senthil Pandian, S Maria Packiam, P Ramasamy"
-              },
-              "col3": {
-                "text": "Investigation on Tetracycline degradation and bactericidal properties of binary and ternary ZnO/NiO/g-C3N4 composites prepared by a facile co-precipitation method",
-                "join_link": "https://www.sciencedirect.com/science/article/pii/S221334372200241X"
-              },
-              "col4": {
-                "text": "Journal of Environmental Chemical Engineering"
-              },
-              "col5": {
-                "text": "2022"
-              },
-              "col6": {
-                "text": "10"
-              },
-              "col7": {
-                "text": "3"
-              },
-              "col8": {
-                "text": "107368"
-              }
-            },
-            {
-              "col1": {
-                "text": "35"
-              },
-              "col2": {
-                "text": "RN Jayaprakash, N Dineshbabu, Senthilnathan Selvaraj, Shanmugam Vignesh, T Arun, K Ravichandran"
-              },
-              "col3": {
-                "text": "Hydrothermally constructed and visible-light activated efficient NiO/ZnO/g-C3N4 ternary nanocomposites for methylene blue dye degradation and antibacterial applications",
-                "join_link": "https://www.sciencedirect.com/science/article/pii/S1387700323012558"
-              },
-              "col4": {
-                "text": "Inorganic Chemistry Communications"
-              },
-              "col5": {
-                "text": "2024"
-              },
-              "col6": {
-                "text": "159"
-              },
-              "col7": {
-                "text": ""
-              },
-              "col8": {
-                "text": "111643"
-              }
-            },
-            {
-              "col1": {
-                "text": "36"
-              },
-              "col2": {
-                "text": "K.Kalidas B.Deepa"
-              },
-              "col3": {
-                "text": "An M/M/1/N Queue with Working Breakdowns and Vacations",
-                "join_link": "https://scholar.google.com/scholar?cluster=12719362540318166081"
-              },
-              "col4": {
-                "text": "International Journal of Pure and Applied Mathematics"
-              },
-              "col5": {
-                "text": "2018"
-              },
-              "col6": {
-                "text": "119"
-              },
-              "col7": {
-                "text": "10"
-              },
-              "col8": {
-                "text": "859-873"
-              }
-            },
-            {
-              "col1": {
-                "text": "37"
-              },
-              "col2": {
-                "text": "K.Kalidas B.Deepa"
-              },
-              "col3": {
-                "text": "The Markovian Vacation Queues with a Waiting Server and Geometric Abandonments",
-                "join_link": "https://scholar.google.com/scholar?cluster=3690226891375634960"
-              },
-              "col4": {
-                "text": "International Journal of Pure and Applied Mathematics"
-              },
-              "col5": {
-                "text": "2018"
-              },
-              "col6": {
-                "text": "118"
-              },
-              "col7": {
-                "text": "20"
-              },
-              "col8": {
-                "text": "1903-1910"
-              }
-            },
-            {
-              "col1": {
-                "text": "38"
-              },
-              "col2": {
-                "text": "B Deepa, K Kalidass, V Vijayalakshmi"
-              },
-              "col3": {
-                "text": "An M/M/1/N Queue with Working Breakdowns and Vacations-An Approach to Cost Analysis",
-                "join_link": "https://iopscience.iop.org/article/10.1088/1742-6596/1850/1/012069/meta"
-              },
-              "col4": {
-                "text": "Journal of Physics: Conference Series"
-              },
-              "col5": {
-                "text": "2021"
-              },
-              "col6": {
-                "text": "1850"
-              },
-              "col7": {
-                "text": "1"
-              },
-              "col8": {
-                "text": "012069"
-              }
-            },
-            {
-              "col1": {
-                "text": "39"
-              },
-              "col2": {
-                "text": "K Tamilvanan, B Deepa, R Prakash, R Sathish Kumar"
-              },
-              "col3": {
-                "text": "Intuitionistic fuzzy stability results of additive functional equation by two different approaches",
-                "join_link": "https://iopscience.iop.org/article/10.1088/1742-6596/1964/2/022024/meta"
-              },
-              "col4": {
-                "text": "Journal of Physics: Conference Series"
-              },
-              "col5": {
-                "text": "2021"
-              },
-              "col6": {
-                "text": "1964"
-              },
-              "col7": {
-                "text": "2"
-              },
-              "col8": {
-                "text": "022024"
-              }
-            },
-            {
-              "col1": {
-                "text": "40"
-              },
-              "col2": {
-                "text": "S Chandrasekaran, M Satyanarayana Gupta, Sanju Jangid, K Loganathan, B Deepa, Dinesh Kumar Chaudhary"
-              },
-              "col3": {
-                "text": "Unsteady radiative Maxwell fluid flow over an expanding sheet with sodium alginate water-based copper-graphene oxide hybrid nanomaterial: an application to solar aircraft"
-              },
-              "col4": {
-                "text": "Advances in Materials Science and Engineering"
-              },
-              "col5": {
-                "text": "2022"
-              },
-              "col6": {
-                "text": ""
-              },
-              "col7": {
-                "text": ""
-              },
-              "col8": {
-                "text": ""
-              }
-            },
-            {
-              "col1": {
-                "text": "41"
-              },
-              "col2": {
-                "text": "P Sakthivel, V Gokila, V Saranya, K Kavi Rasu"
-              },
-              "col3": {
-                "text": "Influence of Cu2+ and Sn2+ ions on optical properties of MgS Nanoparticles: A comparative Analysis"
-              },
-              "col4": {
-                "text": "Journal of Physics: Conference Series"
-              },
-              "col5": {
-                "text": "2021"
-              },
-              "col6": {
-                "text": "1964"
-              },
-              "col7": {
-                "text": "6"
-              },
-              "col8": {
-                "text": "062101"
-              }
-            },
-            {
-              "col1": {
-                "text": "42"
-              },
-              "col2": {
-                "text": "T Brindha, R Rathinam, S Dheenadhayalan, M Sunitha, V Gokila"
-              },
-              "col3": {
-                "text": "Electrochemical and Quantum Chemical Evaluation on the Corrosion Protection Efficiency of Gum Exudates of Astragalus Genus for Mild Steel Corrosion in HCL Medium"
-              },
-              "col4": {
-                "text": "Rasayan J. Chem."
-              },
-              "col5": {
-                "text": "2023"
-              },
-              "col6": {
-                "text": "16"
-              },
-              "col7": {
-                "text": "23"
-              },
-              "col8": {
-                "text": "1174-1183"
-              }
-            },
-            {
-              "col1": {
-                "text": "43"
-              },
-              "col2": {
-                "text": "K. Vinutha, Manoj Kumar Niranjan, B. Natarajan, V. Nirmala"
-              },
-              "col3": {
-                "text": "A Machine Learning based Facial Expression and Emotion Recognition for Human Computer Interaction through Fuzzy Logic System"
-              },
-              "col4": {
-                "text": "IEEE Xplore"
-              },
-              "col5": {
-                "text": "2023"
-              },
-              "col6": {
-                "text": ""
-              },
-              "col7": {
-                "text": ""
-              },
-              "col8": {
-                "text": "166-173"
-              }
-            },
-            {
-              "col1": {
-                "text": "44"
-              },
-              "col2": {
-                "text": "P Vasanthi, S Ranganayaki, R Kasthuri, K Kavithamani, V Nirmala, S Girija"
-              },
-              "col3": {
-                "text": "Purchasing Model with Fuzzy Cost Parameters"
-              },
-              "col4": {
-                "text": "Telematique"
-              },
-              "col5": {
-                "text": "2022"
-              },
-              "col6": {
-                "text": "21"
-              },
-              "col7": {
-                "text": "1"
-              },
-              "col8": {
-                "text": "2130-2135"
-              }
-            },
-            {
-              "col1": {
-                "text": "45"
-              },
-              "col2": {
-                "text": "A. Ibrahim, V. Nirmala"
-              },
-              "col3": {
-                "text": "Positive And Associative Implicative Filters Of Residuated Lattice Wajsberg Algebras"
-              },
-              "col4": {
-                "text": "Advances in Mathematics: Scientific Journal"
-              },
-              "col5": {
-                "text": "2017"
-              },
-              "col6": {
-                "text": "12"
-              },
-              "col7": {
-                "text": "3"
-              },
-              "col8": {
-                "text": "935-942"
-              }
-            },
-            {
-              "col1": {
-                "text": "46"
-              },
-              "col2": {
-                "text": "S. Panayappan, V. Nirmala"
-              },
-              "col3": {
-                "text": "Stability of Evolutionary Functional Homomorphisms"
-              },
-              "col4": {
-                "text": "European Journal of Mathematical Sciences"
-              },
-              "col5": {
-                "text": "2012"
-              },
-              "col6": {
-                "text": "1"
-              },
-              "col7": {
-                "text": "1"
-              },
-              "col8": {
-                "text": "100-104"
-              }
-            },
-            {
-              "col1": {
-                "text": "47"
-              },
-              "col2": {
-                "text": "V. Nirmala, Mythili Gnaapriya, K. Kavithamani, R. Kasthuri"
-              },
-              "col3": {
-                "text": "Strong Implicative Filters of Residuated Lattice Wajsberg Algebras"
-              },
-              "col4": {
-                "text": "Jundishapur Journal of Microbiology"
-              },
-              "col5": {
-                "text": "2022"
-              },
-              "col6": {
-                "text": "15"
-              },
-              "col7": {
-                "text": "1"
-              },
-              "col8": {
-                "text": "958-964"
-              }
-            },
-            {
-              "col1": {
-                "text": "48"
-              },
-              "col2": {
-                "text": "D. Ramsingh Prabhu"
-              },
-              "col3": {
-                "text": "Equality in Treating Feminine and Masculine Gender in Chetan Bhagat’s Novel, Langlit"
-              },
-              "col4": {
-                "text": "An International Peer Reviewed Open Access"
-              },
-              "col5": {
-                "text": "2019"
-              },
-              "col6": {
-                "text": "5.61"
-              },
-              "col7": {
-                "text": ""
-              },
-              "col8": {
-                "text": "310-314"
-              }
-            },
-            {
-              "col1": {
-                "text": "49"
-              },
-              "col2": {
-                "text": "D. Ramsingh Prabhu"
-              },
-              "col3": {
-                "text": "A Study on Effects of Undeveloped Super-Ego with Illustration in Selected Novels of Chetan Bhagat"
-              },
-              "col4": {
-                "text": "Journal of Interdisciplinary Cycle Research"
-              },
-              "col5": {
-                "text": "2019"
-              },
-              "col6": {
-                "text": "6.2"
-              },
-              "col7": {
-                "text": ""
-              },
-              "col8": {
-                "text": "1369-1378"
-              }
-            },
-            {
-              "col1": {
-                "text": "50"
-              },
-              "col2": {
-                "text": "D. Ramsingh Prabhu"
-              },
-              "col3": {
-                "text": "Students’ Culture in Present Educational Scenario with reference of the Novel Five Point Someone by Chetan Bhagat"
-              },
-              "col4": {
-                "text": "An International Journal of Interdisciplinary Studies"
-              },
-              "col5": {
-                "text": "2020"
-              },
-              "col6": {
-                "text": "3.02"
-              },
-              "col7": {
-                "text": ""
-              },
-              "col8": {
-                "text": ""
-              }
-            },
-            {
-              "col1": {
-                "text": "51"
-              },
-              "col2": {
-                "text": "Ramsingh Prabhu"
-              },
-              "col3": {
-                "text": "Premarital Sex Has to Be or not to Be in our Society with Instance of Chetan Bhagat’s Selected Novels"
-              },
-              "col4": {
-                "text": "An International Journal in English"
-              },
-              "col5": {
-                "text": "2020"
-              },
-              "col6": {
-                "text": "3.02"
-              },
-              "col7": {
-                "text": ""
-              },
-              "col8": {
-                "text": ""
-              }
-            },
-            {
-              "col1": {
-                "text": "52"
-              },
-              "col2": {
-                "text": "C Sivakumar"
-              },
-              "col3": {
-                "text": "Hydroxyl-terminated hyperbranched aromatic poly (ether-ester)s: Synthesis, characterization, end-group modification, and optical properties"
-              },
-              "col4": {
-                "text": "Journal of Polymer Science Part A: Polymer Chemistry"
-              },
-              "col5": {
-                "text": "2008"
-              },
-              "col6": {
-                "text": "46 (16)"
-              },
-              "col7": {
-                "text": ""
-              },
-              "col8": {
-                "text": "5414-5430"
-              }
-            },
-            {
-              "col1": {
-                "text": "53"
-              },
-              "col2": {
-                "text": "C Sivakumar"
-              },
-              "col3": {
-                "text": "Poly (ε-caprolactone)-based hyperbranched polyurethanes prepared via A2+B3 approach and its shape-memory behaviour"
-              },
-              "col4": {
-                "text": "European Polymer Journal"
-              },
-              "col5": {
-                "text": "2009"
-              },
-              "col6": {
-                "text": "45 (8)"
-              },
-              "col7": {
-                "text": ""
-              },
-              "col8": {
-                "text": "2329-2337"
-              }
-            },
-            {
-              "col1": {
-                "text": "54"
-              },
-              "col2": {
-                "text": "C Sivakumar"
-              },
-              "col3": {
-                "text": "Hydroxyl and amine-terminated hyperbranched polyurethanes using AB2-type azide monomers"
-              },
-              "col4": {
-                "text": "Journal of Polymer Science Part A: Polymer Chemistry"
-              },
-              "col5": {
-                "text": "2009"
-              },
-              "col6": {
-                "text": "47 (13)"
-              },
-              "col7": {
-                "text": ""
-              },
-              "col8": {
-                "text": "3337-3351"
-              }
-            },
-            {
-              "col1": {
-                "text": "55"
-              },
-              "col2": {
-                "text": "C Sivakumar"
-              },
-              "col3": {
-                "text": "Shape-memory polyurethanes minimally crosslinked with hydroxyl-terminated AB2-type hyperbranched polyurethanes"
-              },
-              "col4": {
-                "text": "Journal of Applied Polymer Science"
-              },
-              "col5": {
-                "text": "2011"
-              },
-              "col6": {
-                "text": "120 (2)"
-              },
-              "col7": {
-                "text": ""
-              },
-              "col8": {
-                "text": "725-734"
-              }
-            },
-            {
-              "col1": {
-                "text": "56"
-              },
-              "col2": {
-                "text": "C Sivakumar"
-              },
-              "col3": {
-                "text": "Salicylic acid based hyperbranched polyester: Synthesis, characterization, optical properties and antimicrobial activity"
-              },
-              "col4": {
-                "text": "Macromolecular Research"
-              },
-              "col5": {
-                "text": "2018"
-              },
-              "col6": {
-                "text": "26 (9)"
-              },
-              "col7": {
-                "text": ""
-              },
-              "col8": {
-                "text": "831-837"
-              }
-            },
-            {
-              "col1": {
-                "text": "57"
-              },
-              "col2": {
-                "text": "K. Natarajan, R. Karvembu, S. Hemalatha, R. Prabhakaran"
-              },
-              "col3": {
-                "text": "Synthesis, characterization and catalytic activities of ruthenium complexes containing triphenylphosphine/triphenylarsine and tetradentate Schiff bases"
-              },
-              "col4": {
-                "text": "Inorganic Chemistry Communications"
-              },
-              "col5": {
-                "text": "2023"
-              },
-              "col6": {
-                "text": "6"
-              },
-              "col7": {
-                "text": "5"
-              },
-              "col8": {
-                "text": "486-490"
-              }
-            },
-            {
-              "col1": {
-                "text": "58"
-              },
-              "col2": {
-                "text": "S. Hemalatha, M. Makeswari"
-              },
-              "col3": {
-                "text": "Green synthesis, characterization and antibacterial studies of CuO nanoparticles from Eichhornia crassipes"
-              },
-              "col4": {
-                "text": "Rasayan J. Chem"
-              },
-              "col5": {
-                "text": "2017"
-              },
-              "col6": {
-                "text": "10"
-              },
-              "col7": {
-                "text": "3"
-              },
-              "col8": {
-                "text": "838-843"
-              }
-            },
-            {
-              "col1": {
-                "text": "59"
-              },
-              "col2": {
-                "text": "N. Balasundaram, S. Hemalatha, V. Venugopalan"
-              },
-              "col3": {
-                "text": "Comparative Study on Biogas Production from Cow Dung, Food Waste and Organic Wastes"
-              },
-              "col4": {
-                "text": "International Journal of Civil Engineering and Technology (IJCIET)"
-              },
-              "col5": {
-                "text": "2017/2"
-              },
-              "col6": {
-                "text": "8"
-              },
-              "col7": {
-                "text": "2"
-              },
-              "col8": {
-                "text": "100-106"
-              }
-            },
-            {
-              "col1": {
-                "text": "60"
-              },
-              "col2": {
-                "text": "S. Hemalatha, M. Makeswari"
-              },
-              "col3": {
-                "text": "Photocatalytic Degradation of Vat Red 13 by Green Synthesized Copper Oxide Nanocatalyst"
-              },
-              "col4": {
-                "text": "Asian Journal of Chemistry"
-              },
-              "col5": {
-                "text": "2018"
-              },
-              "col6": {
-                "text": "30"
-              },
-              "col7": {
-                "text": "8"
-              },
-              "col8": {
-                "text": "1897-1901"
-              }
-            },
-            {
-              "col1": {
-                "text": "61"
-              },
-              "col2": {
-                "text": "Arunachalam Chinnathambi, Sulaiman Ali Alharbi, Deepika Joshi, Saranya V, G.K. Jhanani, Ruangwong On-uma, Kumchai Jutamas, Wongchai Anupong"
-              },
-              "col3": {
-                "text": "Synthesis of AgNPs from leaf extract of Naringi crenulata and evaluation of its antibacterial activity against multidrug resistant bacteria"
-              },
-              "col4": {
-                "text": "Environmental Research"
-              },
-              "col5": {
-                "text": "2023"
-              },
-              "col6": {
-                "text": "216"
-              },
-              "col7": {
-                "text": "1"
-              },
-              "col8": {
-                "text": "114455"
-              }
-            },
-            {
-              "col1": {
-                "text": "62"
-              },
-              "col2": {
-                "text": "P Sakthivel, V Gokila, V Saranya, K Kavi Rasu"
-              },
-              "col3": {
-                "text": "Influence of Cu2+ and Sn2+ ions on optical properties of MgS Nanoparticles: A comparative Analysis"
-              },
-              "col4": {
-                "text": "Journal of Physics: Conference Series"
-              },
-              "col5": {
-                "text": "2021"
-              },
-              "col6": {
-                "text": "1964"
-              },
-              "col7": {
-                "text": "6"
-              },
-              "col8": {
-                "text": "062101"
-              }
-            },
-            {
-              "col1": {
-                "text": "63"
-              },
-              "col2": {
-                "text": "Mourad Kchaou, M. Mubeen Tajudeen, M. Syed Ali, Grienggrai Rajchakit, G. Shanthi, Jinde Cao"
-              },
-              "col3": {
-                "text": "Asynchronous H∞ control for IT2 fuzzy networked system subject to hybrid attacks via improved event-triggered scheme"
-              },
-              "col4": {
-                "text": "Information Sciences"
-              },
-              "col5": {
-                "text": "2024"
-              },
-              "col6": {
-                "text": "666"
-              },
-              "col7": {
-                "text": "15"
-              },
-              "col8": {
-                "text": "120390"
-              }
-            },
-            {
-              "col1": {
-                "text": "64"
-              },
-              "col2": {
-                "text": "Kurinjinathan P"
-              },
-              "col3": {
-                "text": "Enhancement in supercapacitive performance of calcium phosphate nanoneedles through Ni-ion incorporation: Insights into atomic and electronic structures"
-              },
-              "col4": {
-                "text": "Materials Today Sustainability"
-              },
-              "col5": {
-                "text": "2024"
-              },
-              "col6": {
-                "text": "26"
-              },
-              "col7": {
-                "text": "1"
-              },
-              "col8": {
-                "text": "100769"
-              }
-            },
-            {
-              "col1": {
-                "text": "65"
-              },
-              "col2": {
-                "text": "Kurinjinathan P"
-              },
-              "col3": {
-                "text": "Hybridization of Fe-O in iron doped hydroxyapatite for superior electrochemical charge storage"
-              },
-              "col4": {
-                "text": "Journal of Molecular Structure"
-              },
-              "col5": {
-                "text": "2023"
-              },
-              "col6": {
-                "text": "1291"
-              },
-              "col7": {
-                "text": "5"
-              },
-              "col8": {
-                "text": "135950"
-              }
-            },
-            {
-              "col1": {
-                "text": "66"
-              },
-              "col2": {
-                "text": "Kurinjinathan P"
-              },
-              "col3": {
-                "text": "Reline deep eutectic solvent mediated synthesis of lanthanum titanate for heavy metal remediation and photocatalytic degradation"
-              },
-              "col4": {
-                "text": "Chemosphere"
-              },
-              "col5": {
-                "text": "2022"
-              },
-              "col6": {
-                "text": "308"
-              },
-              "col7": {
-                "text": ""
-              },
-              "col8": {
-                "text": "136529"
-              }
-            },
-            {
-              "col1": {
-                "text": "67"
-              },
-              "col2": {
-                "text": "Kurinjinathan P"
-              },
-              "col3": {
-                "text": "Chemiresistive La-doped BaTiO3 microspheres for ambient-temperature formaldehyde gas sensing"
-              },
-              "col4": {
-                "text": "Sustainable Energy Technologies and Assessments"
-              },
-              "col5": {
-                "text": "2022"
-              },
-              "col6": {
-                "text": "53"
-              },
-              "col7": {
-                "text": ""
-              },
-              "col8": {
-                "text": "102604"
-              }
-            },
-            {
-              "col1": {
-                "text": "68"
-              },
-              "col2": {
-                "text": "Kurinjinathan P"
-              },
-              "col3": {
-                "text": "Role of partial amorphous and disordered stannous ions incorporated hydroxyapatite nanosphere for enhanced electrochemical energy storage application"
-              },
-              "col4": {
-                "text": "Journal of Alloys and Compounds"
-              },
-              "col5": {
-                "text": "2021"
-              },
-              "col6": {
-                "text": "851"
-              },
-              "col7": {
-                "text": ""
-              },
-              "col8": {
-                "text": "156710"
+          "multiContent": [
+            {
+              "table": {
+                "content": [
+                  {
+                    "head": [
+                      {
+                        "id": "col1",
+                        "label": "S.No"
+                      },
+                      {
+                        "id": "col2",
+                        "label": "Author Name"
+                      },
+                      {
+                        "id": "col3",
+                        "label": "Title of the Paper"
+                      },
+                      {
+                        "id": "col4",
+                        "label": "Journal Name"
+                      },
+                      {
+                        "id": "col5",
+                        "label": "Year of Publication"
+                      },
+                      {
+                        "id": "col6",
+                        "label": "Volume"
+                      },
+                      {
+                        "id": "col7",
+                        "label": "Issue No"
+                      },
+                      {
+                        "id": "col8",
+                        "label": "PP"
+                      }
+                    ],
+                    "data": [
+                      {
+                        "col1": {
+                          "text": "1"
+                        },
+                        "col2": {
+                          "text": "M Arunkumar, P Agilan, S Ramamoorthy, N Mahesh Kumar"
+                        },
+                        "col3": {
+                          "text": "Generalised Ulam-Hyers stability of a n-dimensional additive functional equation in two different methods",
+                          "join_link": "https://www.inderscienceonline.com/doi/abs/10.1504/IJCAET.2020.107441"
+                        },
+                        "col4": {
+                          "text": "International Journal of Computer Aided Engineering and Technology"
+                        },
+                        "col5": {
+                          "text": "2020"
+                        },
+                        "col6": {
+                          "text": "12"
+                        },
+                        "col7": {
+                          "text": "4"
+                        },
+                        "col8": {
+                          "text": "447-460"
+                        }
+                      },
+                      {
+                        "col1": {
+                          "text": "2"
+                        },
+                        "col2": {
+                          "text": "S Pinelas, M Arunkumar, N Mahesh Kumar, E Sathya"
+                        },
+                        "col3": {
+                          "text": "Stability of general quadratic-cubic-quartic functional equation in quasi beta Banach space via two dissimilar methods",
+                          "join_link": "https://www.malayajournal.org/index.php/mjm/article/download/783/516"
+                        },
+                        "col4": {
+                          "text": "Malaya Journal of Matematik"
+                        },
+                        "col5": {
+                          "text": "2018"
+                        },
+                        "col6": {
+                          "text": "6"
+                        },
+                        "col7": {
+                          "text": "1"
+                        },
+                        "col8": {
+                          "text": "113-128"
+                        }
+                      },
+                      {
+                        "col1": {
+                          "text": "3"
+                        },
+                        "col2": {
+                          "text": "John M Rassias, M Arunkumar, E Sathya, N Mahesh Kumar"
+                        },
+                        "col3": {
+                          "text": "Generalized Ulam-Hyers stability of on (AQQ): additive-quadratic-quartic functional equation",
+                          "join_link": "https://www.malayajournal.org/index.php/mjm/article/download/585/343"
+                        },
+                        "col4": {
+                          "text": "Malaya Journal of Matematik"
+                        },
+                        "col5": {
+                          "text": "2017"
+                        },
+                        "col6": {
+                          "text": "5"
+                        },
+                        "col7": {
+                          "text": "1"
+                        },
+                        "col8": {
+                          "text": "122-142"
+                        }
+                      },
+                      {
+                        "col1": {
+                          "text": "4"
+                        },
+                        "col2": {
+                          "text": "John M Rassias, M Arunkumar, N Mahesh Kumar"
+                        },
+                        "col3": {
+                          "text": "General solution and generalized Ulam-Hyers stability of a generalized 3-Dimensional AQCQ functional equation",
+                          "join_link": "https://www.malayajournal.org/index.php/mjm/article/view/587"
+                        },
+                        "col4": {
+                          "text": "Malaya Journal of Matematik"
+                        },
+                        "col5": {
+                          "text": "2017"
+                        },
+                        "col6": {
+                          "text": "5"
+                        },
+                        "col7": {
+                          "text": "1"
+                        },
+                        "col8": {
+                          "text": "149-185"
+                        }
+                      },
+                      {
+                        "col1": {
+                          "text": "5"
+                        },
+                        "col2": {
+                          "text": "John M Rassias, M Arunkumar, E Sathya, N Mahesh Kumar"
+                        },
+                        "col3": {
+                          "text": "Solution and stability of a acq functional equation in generalized 2-normed spaces",
+                          "join_link": "https://www.researchgate.net/profile/John_Rassias/publication/271764740_Solution_and_Stability_of_an_ACQ_Functional_Equation_in_Generalized_2-Normed_Spaces/links/54d0eae30cf29ca8110407ef/Solution-and-Stability-of-an-ACQ-Functional-Equation-in-Generalized-2-Normed-Spaces.pdf"
+                        },
+                        "col4": {
+                          "text": "Intern. J. Fuzzy Mathematical Archive"
+                        },
+                        "col5": {
+                          "text": "2015"
+                        },
+                        "col6": {
+                          "text": "7"
+                        },
+                        "col7": {
+                          "text": "2"
+                        },
+                        "col8": {
+                          "text": "213-224"
+                        }
+                      },
+                      {
+                        "col1": {
+                          "text": "6"
+                        },
+                        "col2": {
+                          "text": "M Raju and C Selvamani"
+                        },
+                        "col3": {
+                          "text": "Fixed solutions of second order nonlinear difference equations",
+                          "join_link": ""
+                        },
+                        "col4": {
+                          "text": "IOP Conference Series: Journal of Physics"
+                        },
+                        "col5": {
+                          "text": "2021"
+                        },
+                        "col6": {
+                          "text": "1964"
+                        },
+                        "col7": {
+                          "text": "2"
+                        },
+                        "col8": {
+                          "text": "05-Jan"
+                        }
+                      },
+                      {
+                        "col1": {
+                          "text": "7"
+                        },
+                        "col2": {
+                          "text": "C Selvamani and C Loganathan"
+                        },
+                        "col3": {
+                          "text": "Nonlocal problems for controllability of functional differential equation",
+                          "join_link": ""
+                        },
+                        "col4": {
+                          "text": "IOP Conference Series: Journal of Physics"
+                        },
+                        "col5": {
+                          "text": "2021"
+                        },
+                        "col6": {
+                          "text": "1964"
+                        },
+                        "col7": {
+                          "text": "2"
+                        },
+                        "col8": {
+                          "text": "06-Jan"
+                        }
+                      },
+                      {
+                        "col1": {
+                          "text": "8"
+                        },
+                        "col2": {
+                          "text": "K Loganathan, C Selvamani, A Charles Sagayaraj"
+                        },
+                        "col3": {
+                          "text": "Second Law Analysis of Williamson Nanofluid Flow in Attendance of Radiation and Heat Generation with Cattaneo-Christov (C-C) Heat Flux",
+                          "join_link": ""
+                        },
+                        "col4": {
+                          "text": "Advanced Applications of Computational Mathematics - River Publishers"
+                        },
+                        "col5": {
+                          "text": "2022"
+                        },
+                        "col6": {
+                          "text": "1"
+                        },
+                        "col7": {
+                          "text": "1"
+                        },
+                        "col8": {
+                          "text": "119-134"
+                        }
+                      },
+                      {
+                        "col1": {
+                          "text": "9"
+                        },
+                        "col2": {
+                          "text": "N. Manjunatha, R. Sumithra, Nazek Alessa, K. Loganathan, C. Selvamani and Sonam Gyeltshen"
+                        },
+                        "col3": {
+                          "text": "Influence of Temperature Gradients and Heat Source in a Combined Layer on Double Component-Magneto-Marangoni-Convection",
+                          "join_link": ""
+                        },
+                        "col4": {
+                          "text": "Journal of Mathematics"
+                        },
+                        "col5": {
+                          "text": "2023"
+                        },
+                        "col6": {
+                          "text": "2023"
+                        },
+                        "col7": {
+                          "text": "1"
+                        },
+                        "col8": {
+                          "text": "1 to 22"
+                        }
+                      },
+                      {
+                        "col1": {
+                          "text": "10"
+                        },
+                        "col2": {
+                          "text": "K Manimekalai, P Umadevi, K Loganathan, C Selvamani"
+                        },
+                        "col3": {
+                          "text": "Bioconvective flow of Maxwell nanofluid with swimming of gyrotactic microorganisms with triple stratification",
+                          "join_link": ""
+                        },
+                        "col4": {
+                          "text": "Elsevier Materials Today: Proceedings"
+                        },
+                        "col5": {
+                          "text": "2023"
+                        },
+                        "col6": {
+                          "text": "2023"
+                        },
+                        "col7": {
+                          "text": "1"
+                        },
+                        "col8": {
+                          "text": ""
+                        }
+                      },
+                      {
+                        "col1": {
+                          "text": "11"
+                        },
+                        "col2": {
+                          "text": "K. Kavi Rasu, S. Moorthy Babu"
+                        },
+                        "col3": {
+                          "text": "Impact of Eu3+ concentration on the fluorescence properties of the LiGd(W0.5Mo0.5O4)2 novel red phosphors",
+                          "join_link": ""
+                        },
+                        "col4": {
+                          "text": "Solid State Sciences"
+                        },
+                        "col5": {
+                          "text": "2019"
+                        },
+                        "col6": {
+                          "text": "98"
+                        },
+                        "col7": {
+                          "text": "–"
+                        },
+                        "col8": {
+                          "text": "106028"
+                        }
+                      },
+                      {
+                        "col1": {
+                          "text": "12"
+                        },
+                        "col2": {
+                          "text": "S. Rajkumar, K. Kavi Rasu, K. Vijayarangamuthu"
+                        },
+                        "col3": {
+                          "text": "A type – II MoS2/ZnO heterostructure with enhanced photocatalytic activity",
+                          "join_link": ""
+                        },
+                        "col4": {
+                          "text": "Materials Letters"
+                        },
+                        "col5": {
+                          "text": "2019"
+                        },
+                        "col6": {
+                          "text": "243"
+                        },
+                        "col7": {
+                          "text": "–"
+                        },
+                        "col8": {
+                          "text": "183-186"
+                        }
+                      },
+                      {
+                        "col1": {
+                          "text": "13"
+                        },
+                        "col2": {
+                          "text": "K. Kavi Rasu, P. Sakthivel, P. Muthukrishnan, G. K. D. Prasanna Venkatesan"
+                        },
+                        "col3": {
+                          "text": "Investigation on the structural and optical properties of Mn2+ doped MgS nanoparticles synthesized by hydrothermal method",
+                          "join_link": ""
+                        },
+                        "col4": {
+                          "text": "Optik"
+                        },
+                        "col5": {
+                          "text": "2021"
+                        },
+                        "col6": {
+                          "text": "225"
+                        },
+                        "col7": {
+                          "text": "–"
+                        },
+                        "col8": {
+                          "text": "165774"
+                        }
+                      },
+                      {
+                        "col1": {
+                          "text": "14"
+                        },
+                        "col2": {
+                          "text": "K. Kavi Rasu, P. Sakthivel, G. K. D. Prasanna Venkatesan"
+                        },
+                        "col3": {
+                          "text": "Effect of Pd2+ co-doping on the structural and optical properties of Mn2+: ZnS nanoparticles",
+                          "join_link": ""
+                        },
+                        "col4": {
+                          "text": "Optics & Laser Technology"
+                        },
+                        "col5": {
+                          "text": "2020"
+                        },
+                        "col6": {
+                          "text": "130"
+                        },
+                        "col7": {
+                          "text": "–"
+                        },
+                        "col8": {
+                          "text": "106365"
+                        }
+                      },
+                      {
+                        "col1": {
+                          "text": "15"
+                        },
+                        "col2": {
+                          "text": "K. Kavi Rasu, S. Moorthy Babu, K. Vijayarangamuthu"
+                        },
+                        "col3": {
+                          "text": "Synthesis and photoluminescence properties of Sm3+ doped LiGd(WO4)2 phosphors with high color purity",
+                          "join_link": ""
+                        },
+                        "col4": {
+                          "text": "Optical Materials"
+                        },
+                        "col5": {
+                          "text": "2020"
+                        },
+                        "col6": {
+                          "text": "102"
+                        },
+                        "col7": {
+                          "text": "–"
+                        },
+                        "col8": {
+                          "text": "102:109804"
+                        }
+                      },
+                      {
+                        "col1": {
+                          "text": "16"
+                        },
+                        "col2": {
+                          "text": "J. Alzabut, S. R. Grace, A. George Maria Selvam, R. Janagaraj"
+                        },
+                        "col3": {
+                          "text": "Nonoscillatory Solutions of Discrete Fractional Order Equations with Positive and Negative Terms",
+                          "join_link": ""
+                        },
+                        "col4": {
+                          "text": "Mathematica Bohemica"
+                        },
+                        "col5": {
+                          "text": "2023"
+                        },
+                        "col6": {
+                          "text": "148"
+                        },
+                        "col7": {
+                          "text": "04"
+                        },
+                        "col8": {
+                          "text": "461-479"
+                        }
+                      },
+                      {
+                        "col1": {
+                          "text": "17"
+                        },
+                        "col2": {
+                          "text": "Ozlem Ak Gumus, A. George Maria Selvam, R. Janagaraj"
+                        },
+                        "col3": {
+                          "text": "Dynamics of the Mathematical Model Related to COVID-19 Pandemic",
+                          "join_link": ""
+                        },
+                        "col4": {
+                          "text": "Thai Journal of Mathematics"
+                        },
+                        "col5": {
+                          "text": "2022"
+                        },
+                        "col6": {
+                          "text": "20"
+                        },
+                        "col7": {
+                          "text": "2"
+                        },
+                        "col8": {
+                          "text": "957-970"
+                        }
+                      },
+                      {
+                        "col1": {
+                          "text": "18"
+                        },
+                        "col2": {
+                          "text": "G. E. Chatzarakis, A. George Maria Selvam, R. Janagaraj, G. N. Miliaras"
+                        },
+                        "col3": {
+                          "text": "Oscillation Behaviour of Solutions for a Class of a Discrete Nonlinear Fractional-Order Derivatives",
+                          "join_link": ""
+                        },
+                        "col4": {
+                          "text": "Tatra Mountains Mathematical Publications"
+                        },
+                        "col5": {
+                          "text": "2022"
+                        },
+                        "col6": {
+                          "text": "79"
+                        },
+                        "col7": {
+                          "text": "02"
+                        },
+                        "col8": {
+                          "text": "101-108"
+                        }
+                      },
+                      {
+                        "col1": {
+                          "text": "19"
+                        },
+                        "col2": {
+                          "text": "M. Higazy, A. George Maria Selvam, R. Janagaraj"
+                        },
+                        "col3": {
+                          "text": "Chaotic Dynamics of A Novel 2D Discrete Fractional Order Ushiki Map",
+                          "join_link": ""
+                        },
+                        "col4": {
+                          "text": "Fractals"
+                        },
+                        "col5": {
+                          "text": "2021"
+                        },
+                        "col6": {
+                          "text": "29"
+                        },
+                        "col7": {
+                          "text": "08"
+                        },
+                        "col8": {
+                          "text": "2140032-1 – 2140032-11"
+                        }
+                      },
+                      {
+                        "col1": {
+                          "text": "20"
+                        },
+                        "col2": {
+                          "text": "G. E. Chatzarakis, A. George Maria Selvam, R. Janagaraj, G. N. Miliaras"
+                        },
+                        "col3": {
+                          "text": "Oscillation Criteria for a Class of Nonlinear Discrete Fractional Order Equations with Damping Term",
+                          "join_link": ""
+                        },
+                        "col4": {
+                          "text": "Mathematica Slovaca"
+                        },
+                        "col5": {
+                          "text": "2020"
+                        },
+                        "col6": {
+                          "text": "70"
+                        },
+                        "col7": {
+                          "text": "05"
+                        },
+                        "col8": {
+                          "text": "1165-1182"
+                        }
+                      },
+                      {
+                        "col1": {
+                          "text": "21"
+                        },
+                        "col2": {
+                          "text": "G.Sivashanmugam, K.Lakshmi, B.Preethi, S.Nelson, and M.Sathiyaseelan"
+                        },
+                        "col3": {
+                          "text": "CTAB- templated formation of CuCo2O4/CuO nanorods and nanosheets for high-performance supercapacitor applications"
+                        },
+                        "col4": {
+                          "text": "Journal of Materials Science: Materials in Electronics"
+                        },
+                        "col5": {
+                          "text": "2021"
+                        },
+                        "col6": {
+                          "text": "12"
+                        },
+                        "col7": {
+                          "text": "32"
+                        },
+                        "col8": {
+                          "text": "27148-27158"
+                        }
+                      },
+                      {
+                        "col1": {
+                          "text": "22"
+                        },
+                        "col2": {
+                          "text": "M Sathiyaseelan, Lakshmi Kunhikrishnan, P Jacquline Rosy, G Sivashanmugam, B Preethi"
+                        },
+                        "col3": {
+                          "text": "Synthesis of 1D nanorod and 2D nanoflake mixed structures of nickel cobaltite: an efficient diffusion-controlled electrode material for asymmetric supercapacitor application"
+                        },
+                        "col4": {
+                          "text": "Applied Physics A"
+                        },
+                        "col5": {
+                          "text": "2024"
+                        },
+                        "col6": {
+                          "text": "130"
+                        },
+                        "col7": {
+                          "text": "4"
+                        },
+                        "col8": {
+                          "text": "263"
+                        }
+                      },
+                      {
+                        "col1": {
+                          "text": "23"
+                        },
+                        "col2": {
+                          "text": "B.Preethi, K. Buvaneswari, G. K. Ayyadurai, S. Kutti Rani, R. Jayaprakash"
+                        },
+                        "col3": {
+                          "text": "In-silico Docking approach of Vitex negundo (Nochi plant) Leaf Chemical Constituents against Covid-19 Main Protease"
+                        },
+                        "col4": {
+                          "text": "Indian Journal of Natural Sciences"
+                        },
+                        "col5": {
+                          "text": "2022"
+                        },
+                        "col6": {
+                          "text": "Vol.13"
+                        },
+                        "col7": {
+                          "text": "Issue 71"
+                        },
+                        "col8": {
+                          "text": "Pg.No 39662-39668"
+                        }
+                      },
+                      {
+                        "col1": {
+                          "text": "24"
+                        },
+                        "col2": {
+                          "text": "B. Preethi, Sarojkumar Sha, R. Jayaprakash, S. Kutti Rani, and S. Hemalatha"
+                        },
+                        "col3": {
+                          "text": "Synthesis, characterization and biological studies on 4-Bromo-2-{(z)-[(furan-2-ylmethyl) imino] methyl} phenol praseodymium complex"
+                        },
+                        "col4": {
+                          "text": "Rasayan J. Chem."
+                        },
+                        "col5": {
+                          "text": "2019"
+                        },
+                        "col6": {
+                          "text": "Vol. 12"
+                        },
+                        "col7": {
+                          "text": "No. 3"
+                        },
+                        "col8": {
+                          "text": "1455-1462"
+                        }
+                      },
+                      {
+                        "col1": {
+                          "text": "25"
+                        },
+                        "col2": {
+                          "text": "B. Preethi, R. Jayaprakash, S. Kutti Rani, N.Vijayakumar"
+                        },
+                        "col3": {
+                          "text": "Characterization, Molecular Docking, Antimicrobial and Anticancer Studies on 5-Bromo Salicylaldehyde – Furan-2-yl-metha"
+                        },
+                        "col4": {
+                          "text": "Asian Journal of Chemistry"
+                        },
+                        "col5": {
+                          "text": "2021"
+                        },
+                        "col6": {
+                          "text": "Vol. 33"
+                        },
+                        "col7": {
+                          "text": "No. 9"
+                        },
+                        "col8": {
+                          "text": "2127-2134"
+                        }
+                      },
+                      {
+                        "col1": {
+                          "text": "26"
+                        },
+                        "col2": {
+                          "text": "D Vinoth Pandi, V Saraswathi, MR Venkatraman, N Muthukumarasamy, S Agilan, D Velauthapillai, K Brindhadevi, A Pugazhendhi"
+                        },
+                        "col3": {
+                          "text": "PbS quantum dots-sensitized ZnO nanorods-based third generation solar cells",
+                          "join_link": "https://www.sciencedirect.com/science/article/pii/S246851942300071X"
+                        },
+                        "col4": {
+                          "text": "Materials Today Chemistry"
+                        },
+                        "col5": {
+                          "text": "2023"
+                        },
+                        "col6": {
+                          "text": "29"
+                        },
+                        "col7": {
+                          "text": ""
+                        },
+                        "col8": {
+                          "text": "101444"
+                        }
+                      },
+                      {
+                        "col1": {
+                          "text": "27"
+                        },
+                        "col2": {
+                          "text": "Akshaya Subhramaniyan Rasappan, Rajkumar Palanisamy, Venkatachalam Thangamuthu, Vinoth Pandi Dharmalingam, Muthukumarasamy Natarajan, B Archana, Dhayalan Velauthapillai, Jinho Kim"
+                        },
+                        "col3": {
+                          "text": "Battery-type WS2 decorated WO3 nanorods for high-performance supercapacitors",
+                          "join_link": "https://www.sciencedirect.com/science/article/pii/S0167577X23018256"
+                        },
+                        "col4": {
+                          "text": "Materials Letters"
+                        },
+                        "col5": {
+                          "text": "2024"
+                        },
+                        "col6": {
+                          "text": "357"
+                        },
+                        "col7": {
+                          "text": ""
+                        },
+                        "col8": {
+                          "text": "135640"
+                        }
+                      },
+                      {
+                        "col1": {
+                          "text": "28"
+                        },
+                        "col2": {
+                          "text": "D Vinoth Pandi, V Saraswathi, N Muthukumarasamy, S Agilan, P Balraju, Dhayalan Velauthapillai"
+                        },
+                        "col3": {
+                          "text": "C-axis oriented ZnO nanorods based quantum dot solar cells",
+                          "join_link": "https://www.sciencedirect.com/science/article/pii/S0925346720311137"
+                        },
+                        "col4": {
+                          "text": "Optical Materials"
+                        },
+                        "col5": {
+                          "text": "2021"
+                        },
+                        "col6": {
+                          "text": "112"
+                        },
+                        "col7": {
+                          "text": ""
+                        },
+                        "col8": {
+                          "text": "110774"
+                        }
+                      },
+                      {
+                        "col1": {
+                          "text": "29"
+                        },
+                        "col2": {
+                          "text": "D Vinoth Pandi, N Muthukumarasamy, S Agilan, Dhayalan Velauthapillai"
+                        },
+                        "col3": {
+                          "text": "CdSe quantum dots sensitized ZnO nanorods for solar cell application",
+                          "join_link": "https://www.sciencedirect.com/science/article/pii/S0167577X18306086"
+                        },
+                        "col4": {
+                          "text": "Materials Letters"
+                        },
+                        "col5": {
+                          "text": "2018"
+                        },
+                        "col6": {
+                          "text": "223"
+                        },
+                        "col7": {
+                          "text": ""
+                        },
+                        "col8": {
+                          "text": "227-230"
+                        }
+                      },
+                      {
+                        "col1": {
+                          "text": "30"
+                        },
+                        "col2": {
+                          "text": "D Vinoth Pandi, S Selvasekarapandian, R Bhuvaneswari, M Premalatha, S Monisha, D Arunkumar, Kawamura Junichi"
+                        },
+                        "col3": {
+                          "text": "Development and characterization of proton conducting polymer electrolyte based on PVA, amino acid glycine and NH4SCN",
+                          "join_link": "https://www.sciencedirect.com/science/article/pii/S0167273816305859"
+                        },
+                        "col4": {
+                          "text": "Solid State Ionics"
+                        },
+                        "col5": {
+                          "text": "2018"
+                        },
+                        "col6": {
+                          "text": "298"
+                        },
+                        "col7": {
+                          "text": ""
+                        },
+                        "col8": {
+                          "text": "15-22"
+                        }
+                      },
+                      {
+                        "col1": {
+                          "text": "31"
+                        },
+                        "col2": {
+                          "text": "K Ravichandran, N Dineshbabu, T Arun, C Ravidhas, S Valanarasu"
+                        },
+                        "col3": {
+                          "text": "Effect of fluorine (an anionic dopant) on transparent conducting properties of Sb (a cationic) doped ZnO thin films deposited using a simplified spray technique",
+                          "join_link": "https://www.sciencedirect.com/science/article/pii/S0025540816302823"
+                        },
+                        "col4": {
+                          "text": "Materials Research Bulletin"
+                        },
+                        "col5": {
+                          "text": "2016"
+                        },
+                        "col6": {
+                          "text": "83"
+                        },
+                        "col7": {
+                          "text": "–"
+                        },
+                        "col8": {
+                          "text": "442-452"
+                        }
+                      },
+                      {
+                        "col1": {
+                          "text": "32"
+                        },
+                        "col2": {
+                          "text": "K Ravichandran, N Dineshbabu, T Arun, A Manivasaham, E Sindhuja"
+                        },
+                        "col3": {
+                          "text": "Synergistic effects of Mo and F doping on the quality factor of ZnO thin films prepared by a fully automated home-made nebulizer spray technique",
+                          "join_link": "https://www.sciencedirect.com/science/article/pii/S0169433216319481"
+                        },
+                        "col4": {
+                          "text": "Applied Surface Science"
+                        },
+                        "col5": {
+                          "text": "2017"
+                        },
+                        "col6": {
+                          "text": "392"
+                        },
+                        "col7": {
+                          "text": "–"
+                        },
+                        "col8": {
+                          "text": "624-633"
+                        }
+                      },
+                      {
+                        "col1": {
+                          "text": "33"
+                        },
+                        "col2": {
+                          "text": "Thirumurugan Arun, T Kavinkumar, R Udayabhaskar, R Kiruthiga, Mauricio J Morel, Radhamanohar Aepuru, N Dineshbabu, K Ravichandran, Ali Akbari-Fakhrabadi, RV Mangalaraja"
+                        },
+                        "col3": {
+                          "text": "NiFe2O4 nanospheres with size-tunable magnetic and electrochemical properties for superior supercapacitor electrode performance",
+                          "join_link": "https://www.sciencedirect.com/science/article/pii/S0013468621016364"
+                        },
+                        "col4": {
+                          "text": "Electrochimica Acta"
+                        },
+                        "col5": {
+                          "text": "2021"
+                        },
+                        "col6": {
+                          "text": "399"
+                        },
+                        "col7": {
+                          "text": "–"
+                        },
+                        "col8": {
+                          "text": "139346"
+                        }
+                      },
+                      {
+                        "col1": {
+                          "text": "34"
+                        },
+                        "col2": {
+                          "text": "N Dineshbabu, RN Jayaprakash, P Karuppasamy, Thirumurugan Arun, J Judith Vijaya, R Esther Nimshi, Muthu Senthil Pandian, S Maria Packiam, P Ramasamy"
+                        },
+                        "col3": {
+                          "text": "Investigation on Tetracycline degradation and bactericidal properties of binary and ternary ZnO/NiO/g-C3N4 composites prepared by a facile co-precipitation method",
+                          "join_link": "https://www.sciencedirect.com/science/article/pii/S221334372200241X"
+                        },
+                        "col4": {
+                          "text": "Journal of Environmental Chemical Engineering"
+                        },
+                        "col5": {
+                          "text": "2022"
+                        },
+                        "col6": {
+                          "text": "10"
+                        },
+                        "col7": {
+                          "text": "3"
+                        },
+                        "col8": {
+                          "text": "107368"
+                        }
+                      },
+                      {
+                        "col1": {
+                          "text": "35"
+                        },
+                        "col2": {
+                          "text": "RN Jayaprakash, N Dineshbabu, Senthilnathan Selvaraj, Shanmugam Vignesh, T Arun, K Ravichandran"
+                        },
+                        "col3": {
+                          "text": "Hydrothermally constructed and visible-light activated efficient NiO/ZnO/g-C3N4 ternary nanocomposites for methylene blue dye degradation and antibacterial applications",
+                          "join_link": "https://www.sciencedirect.com/science/article/pii/S1387700323012558"
+                        },
+                        "col4": {
+                          "text": "Inorganic Chemistry Communications"
+                        },
+                        "col5": {
+                          "text": "2024"
+                        },
+                        "col6": {
+                          "text": "159"
+                        },
+                        "col7": {
+                          "text": ""
+                        },
+                        "col8": {
+                          "text": "111643"
+                        }
+                      },
+                      {
+                        "col1": {
+                          "text": "36"
+                        },
+                        "col2": {
+                          "text": "K.Kalidas B.Deepa"
+                        },
+                        "col3": {
+                          "text": "An M/M/1/N Queue with Working Breakdowns and Vacations",
+                          "join_link": "https://scholar.google.com/scholar?cluster=12719362540318166081"
+                        },
+                        "col4": {
+                          "text": "International Journal of Pure and Applied Mathematics"
+                        },
+                        "col5": {
+                          "text": "2018"
+                        },
+                        "col6": {
+                          "text": "119"
+                        },
+                        "col7": {
+                          "text": "10"
+                        },
+                        "col8": {
+                          "text": "859-873"
+                        }
+                      },
+                      {
+                        "col1": {
+                          "text": "37"
+                        },
+                        "col2": {
+                          "text": "K.Kalidas B.Deepa"
+                        },
+                        "col3": {
+                          "text": "The Markovian Vacation Queues with a Waiting Server and Geometric Abandonments",
+                          "join_link": "https://scholar.google.com/scholar?cluster=3690226891375634960"
+                        },
+                        "col4": {
+                          "text": "International Journal of Pure and Applied Mathematics"
+                        },
+                        "col5": {
+                          "text": "2018"
+                        },
+                        "col6": {
+                          "text": "118"
+                        },
+                        "col7": {
+                          "text": "20"
+                        },
+                        "col8": {
+                          "text": "1903-1910"
+                        }
+                      },
+                      {
+                        "col1": {
+                          "text": "38"
+                        },
+                        "col2": {
+                          "text": "B Deepa, K Kalidass, V Vijayalakshmi"
+                        },
+                        "col3": {
+                          "text": "An M/M/1/N Queue with Working Breakdowns and Vacations-An Approach to Cost Analysis",
+                          "join_link": "https://iopscience.iop.org/article/10.1088/1742-6596/1850/1/012069/meta"
+                        },
+                        "col4": {
+                          "text": "Journal of Physics: Conference Series"
+                        },
+                        "col5": {
+                          "text": "2021"
+                        },
+                        "col6": {
+                          "text": "1850"
+                        },
+                        "col7": {
+                          "text": "1"
+                        },
+                        "col8": {
+                          "text": "012069"
+                        }
+                      },
+                      {
+                        "col1": {
+                          "text": "39"
+                        },
+                        "col2": {
+                          "text": "K Tamilvanan, B Deepa, R Prakash, R Sathish Kumar"
+                        },
+                        "col3": {
+                          "text": "Intuitionistic fuzzy stability results of additive functional equation by two different approaches",
+                          "join_link": "https://iopscience.iop.org/article/10.1088/1742-6596/1964/2/022024/meta"
+                        },
+                        "col4": {
+                          "text": "Journal of Physics: Conference Series"
+                        },
+                        "col5": {
+                          "text": "2021"
+                        },
+                        "col6": {
+                          "text": "1964"
+                        },
+                        "col7": {
+                          "text": "2"
+                        },
+                        "col8": {
+                          "text": "022024"
+                        }
+                      },
+                      {
+                        "col1": {
+                          "text": "40"
+                        },
+                        "col2": {
+                          "text": "S Chandrasekaran, M Satyanarayana Gupta, Sanju Jangid, K Loganathan, B Deepa, Dinesh Kumar Chaudhary"
+                        },
+                        "col3": {
+                          "text": "Unsteady radiative Maxwell fluid flow over an expanding sheet with sodium alginate water-based copper-graphene oxide hybrid nanomaterial: an application to solar aircraft"
+                        },
+                        "col4": {
+                          "text": "Advances in Materials Science and Engineering"
+                        },
+                        "col5": {
+                          "text": "2022"
+                        },
+                        "col6": {
+                          "text": ""
+                        },
+                        "col7": {
+                          "text": ""
+                        },
+                        "col8": {
+                          "text": ""
+                        }
+                      },
+                      {
+                        "col1": {
+                          "text": "41"
+                        },
+                        "col2": {
+                          "text": "P Sakthivel, V Gokila, V Saranya, K Kavi Rasu"
+                        },
+                        "col3": {
+                          "text": "Influence of Cu2+ and Sn2+ ions on optical properties of MgS Nanoparticles: A comparative Analysis"
+                        },
+                        "col4": {
+                          "text": "Journal of Physics: Conference Series"
+                        },
+                        "col5": {
+                          "text": "2021"
+                        },
+                        "col6": {
+                          "text": "1964"
+                        },
+                        "col7": {
+                          "text": "6"
+                        },
+                        "col8": {
+                          "text": "062101"
+                        }
+                      },
+                      {
+                        "col1": {
+                          "text": "42"
+                        },
+                        "col2": {
+                          "text": "T Brindha, R Rathinam, S Dheenadhayalan, M Sunitha, V Gokila"
+                        },
+                        "col3": {
+                          "text": "Electrochemical and Quantum Chemical Evaluation on the Corrosion Protection Efficiency of Gum Exudates of Astragalus Genus for Mild Steel Corrosion in HCL Medium"
+                        },
+                        "col4": {
+                          "text": "Rasayan J. Chem."
+                        },
+                        "col5": {
+                          "text": "2023"
+                        },
+                        "col6": {
+                          "text": "16"
+                        },
+                        "col7": {
+                          "text": "23"
+                        },
+                        "col8": {
+                          "text": "1174-1183"
+                        }
+                      },
+                      {
+                        "col1": {
+                          "text": "43"
+                        },
+                        "col2": {
+                          "text": "K. Vinutha, Manoj Kumar Niranjan, B. Natarajan, V. Nirmala"
+                        },
+                        "col3": {
+                          "text": "A Machine Learning based Facial Expression and Emotion Recognition for Human Computer Interaction through Fuzzy Logic System"
+                        },
+                        "col4": {
+                          "text": "IEEE Xplore"
+                        },
+                        "col5": {
+                          "text": "2023"
+                        },
+                        "col6": {
+                          "text": ""
+                        },
+                        "col7": {
+                          "text": ""
+                        },
+                        "col8": {
+                          "text": "166-173"
+                        }
+                      },
+                      {
+                        "col1": {
+                          "text": "44"
+                        },
+                        "col2": {
+                          "text": "P Vasanthi, S Ranganayaki, R Kasthuri, K Kavithamani, V Nirmala, S Girija"
+                        },
+                        "col3": {
+                          "text": "Purchasing Model with Fuzzy Cost Parameters"
+                        },
+                        "col4": {
+                          "text": "Telematique"
+                        },
+                        "col5": {
+                          "text": "2022"
+                        },
+                        "col6": {
+                          "text": "21"
+                        },
+                        "col7": {
+                          "text": "1"
+                        },
+                        "col8": {
+                          "text": "2130-2135"
+                        }
+                      },
+                      {
+                        "col1": {
+                          "text": "45"
+                        },
+                        "col2": {
+                          "text": "A. Ibrahim, V. Nirmala"
+                        },
+                        "col3": {
+                          "text": "Positive And Associative Implicative Filters Of Residuated Lattice Wajsberg Algebras"
+                        },
+                        "col4": {
+                          "text": "Advances in Mathematics: Scientific Journal"
+                        },
+                        "col5": {
+                          "text": "2017"
+                        },
+                        "col6": {
+                          "text": "12"
+                        },
+                        "col7": {
+                          "text": "3"
+                        },
+                        "col8": {
+                          "text": "935-942"
+                        }
+                      },
+                      {
+                        "col1": {
+                          "text": "46"
+                        },
+                        "col2": {
+                          "text": "S. Panayappan, V. Nirmala"
+                        },
+                        "col3": {
+                          "text": "Stability of Evolutionary Functional Homomorphisms"
+                        },
+                        "col4": {
+                          "text": "European Journal of Mathematical Sciences"
+                        },
+                        "col5": {
+                          "text": "2012"
+                        },
+                        "col6": {
+                          "text": "1"
+                        },
+                        "col7": {
+                          "text": "1"
+                        },
+                        "col8": {
+                          "text": "100-104"
+                        }
+                      },
+                      {
+                        "col1": {
+                          "text": "47"
+                        },
+                        "col2": {
+                          "text": "V. Nirmala, Mythili Gnaapriya, K. Kavithamani, R. Kasthuri"
+                        },
+                        "col3": {
+                          "text": "Strong Implicative Filters of Residuated Lattice Wajsberg Algebras"
+                        },
+                        "col4": {
+                          "text": "Jundishapur Journal of Microbiology"
+                        },
+                        "col5": {
+                          "text": "2022"
+                        },
+                        "col6": {
+                          "text": "15"
+                        },
+                        "col7": {
+                          "text": "1"
+                        },
+                        "col8": {
+                          "text": "958-964"
+                        }
+                      },
+                      {
+                        "col1": {
+                          "text": "48"
+                        },
+                        "col2": {
+                          "text": "D. Ramsingh Prabhu"
+                        },
+                        "col3": {
+                          "text": "Equality in Treating Feminine and Masculine Gender in Chetan Bhagat’s Novel, Langlit"
+                        },
+                        "col4": {
+                          "text": "An International Peer Reviewed Open Access"
+                        },
+                        "col5": {
+                          "text": "2019"
+                        },
+                        "col6": {
+                          "text": "5.61"
+                        },
+                        "col7": {
+                          "text": ""
+                        },
+                        "col8": {
+                          "text": "310-314"
+                        }
+                      },
+                      {
+                        "col1": {
+                          "text": "49"
+                        },
+                        "col2": {
+                          "text": "D. Ramsingh Prabhu"
+                        },
+                        "col3": {
+                          "text": "A Study on Effects of Undeveloped Super-Ego with Illustration in Selected Novels of Chetan Bhagat"
+                        },
+                        "col4": {
+                          "text": "Journal of Interdisciplinary Cycle Research"
+                        },
+                        "col5": {
+                          "text": "2019"
+                        },
+                        "col6": {
+                          "text": "6.2"
+                        },
+                        "col7": {
+                          "text": ""
+                        },
+                        "col8": {
+                          "text": "1369-1378"
+                        }
+                      },
+                      {
+                        "col1": {
+                          "text": "50"
+                        },
+                        "col2": {
+                          "text": "D. Ramsingh Prabhu"
+                        },
+                        "col3": {
+                          "text": "Students’ Culture in Present Educational Scenario with reference of the Novel Five Point Someone by Chetan Bhagat"
+                        },
+                        "col4": {
+                          "text": "An International Journal of Interdisciplinary Studies"
+                        },
+                        "col5": {
+                          "text": "2020"
+                        },
+                        "col6": {
+                          "text": "3.02"
+                        },
+                        "col7": {
+                          "text": ""
+                        },
+                        "col8": {
+                          "text": ""
+                        }
+                      },
+                      {
+                        "col1": {
+                          "text": "51"
+                        },
+                        "col2": {
+                          "text": "Ramsingh Prabhu"
+                        },
+                        "col3": {
+                          "text": "Premarital Sex Has to Be or not to Be in our Society with Instance of Chetan Bhagat’s Selected Novels"
+                        },
+                        "col4": {
+                          "text": "An International Journal in English"
+                        },
+                        "col5": {
+                          "text": "2020"
+                        },
+                        "col6": {
+                          "text": "3.02"
+                        },
+                        "col7": {
+                          "text": ""
+                        },
+                        "col8": {
+                          "text": ""
+                        }
+                      },
+                      {
+                        "col1": {
+                          "text": "52"
+                        },
+                        "col2": {
+                          "text": "C Sivakumar"
+                        },
+                        "col3": {
+                          "text": "Hydroxyl-terminated hyperbranched aromatic poly (ether-ester)s: Synthesis, characterization, end-group modification, and optical properties"
+                        },
+                        "col4": {
+                          "text": "Journal of Polymer Science Part A: Polymer Chemistry"
+                        },
+                        "col5": {
+                          "text": "2008"
+                        },
+                        "col6": {
+                          "text": "46 (16)"
+                        },
+                        "col7": {
+                          "text": ""
+                        },
+                        "col8": {
+                          "text": "5414-5430"
+                        }
+                      },
+                      {
+                        "col1": {
+                          "text": "53"
+                        },
+                        "col2": {
+                          "text": "C Sivakumar"
+                        },
+                        "col3": {
+                          "text": "Poly (ε-caprolactone)-based hyperbranched polyurethanes prepared via A2+B3 approach and its shape-memory behaviour"
+                        },
+                        "col4": {
+                          "text": "European Polymer Journal"
+                        },
+                        "col5": {
+                          "text": "2009"
+                        },
+                        "col6": {
+                          "text": "45 (8)"
+                        },
+                        "col7": {
+                          "text": ""
+                        },
+                        "col8": {
+                          "text": "2329-2337"
+                        }
+                      },
+                      {
+                        "col1": {
+                          "text": "54"
+                        },
+                        "col2": {
+                          "text": "C Sivakumar"
+                        },
+                        "col3": {
+                          "text": "Hydroxyl and amine-terminated hyperbranched polyurethanes using AB2-type azide monomers"
+                        },
+                        "col4": {
+                          "text": "Journal of Polymer Science Part A: Polymer Chemistry"
+                        },
+                        "col5": {
+                          "text": "2009"
+                        },
+                        "col6": {
+                          "text": "47 (13)"
+                        },
+                        "col7": {
+                          "text": ""
+                        },
+                        "col8": {
+                          "text": "3337-3351"
+                        }
+                      },
+                      {
+                        "col1": {
+                          "text": "55"
+                        },
+                        "col2": {
+                          "text": "C Sivakumar"
+                        },
+                        "col3": {
+                          "text": "Shape-memory polyurethanes minimally crosslinked with hydroxyl-terminated AB2-type hyperbranched polyurethanes"
+                        },
+                        "col4": {
+                          "text": "Journal of Applied Polymer Science"
+                        },
+                        "col5": {
+                          "text": "2011"
+                        },
+                        "col6": {
+                          "text": "120 (2)"
+                        },
+                        "col7": {
+                          "text": ""
+                        },
+                        "col8": {
+                          "text": "725-734"
+                        }
+                      },
+                      {
+                        "col1": {
+                          "text": "56"
+                        },
+                        "col2": {
+                          "text": "C Sivakumar"
+                        },
+                        "col3": {
+                          "text": "Salicylic acid based hyperbranched polyester: Synthesis, characterization, optical properties and antimicrobial activity"
+                        },
+                        "col4": {
+                          "text": "Macromolecular Research"
+                        },
+                        "col5": {
+                          "text": "2018"
+                        },
+                        "col6": {
+                          "text": "26 (9)"
+                        },
+                        "col7": {
+                          "text": ""
+                        },
+                        "col8": {
+                          "text": "831-837"
+                        }
+                      },
+                      {
+                        "col1": {
+                          "text": "57"
+                        },
+                        "col2": {
+                          "text": "K. Natarajan, R. Karvembu, S. Hemalatha, R. Prabhakaran"
+                        },
+                        "col3": {
+                          "text": "Synthesis, characterization and catalytic activities of ruthenium complexes containing triphenylphosphine/triphenylarsine and tetradentate Schiff bases"
+                        },
+                        "col4": {
+                          "text": "Inorganic Chemistry Communications"
+                        },
+                        "col5": {
+                          "text": "2023"
+                        },
+                        "col6": {
+                          "text": "6"
+                        },
+                        "col7": {
+                          "text": "5"
+                        },
+                        "col8": {
+                          "text": "486-490"
+                        }
+                      },
+                      {
+                        "col1": {
+                          "text": "58"
+                        },
+                        "col2": {
+                          "text": "S. Hemalatha, M. Makeswari"
+                        },
+                        "col3": {
+                          "text": "Green synthesis, characterization and antibacterial studies of CuO nanoparticles from Eichhornia crassipes"
+                        },
+                        "col4": {
+                          "text": "Rasayan J. Chem"
+                        },
+                        "col5": {
+                          "text": "2017"
+                        },
+                        "col6": {
+                          "text": "10"
+                        },
+                        "col7": {
+                          "text": "3"
+                        },
+                        "col8": {
+                          "text": "838-843"
+                        }
+                      },
+                      {
+                        "col1": {
+                          "text": "59"
+                        },
+                        "col2": {
+                          "text": "N. Balasundaram, S. Hemalatha, V. Venugopalan"
+                        },
+                        "col3": {
+                          "text": "Comparative Study on Biogas Production from Cow Dung, Food Waste and Organic Wastes"
+                        },
+                        "col4": {
+                          "text": "International Journal of Civil Engineering and Technology (IJCIET)"
+                        },
+                        "col5": {
+                          "text": "2017/2"
+                        },
+                        "col6": {
+                          "text": "8"
+                        },
+                        "col7": {
+                          "text": "2"
+                        },
+                        "col8": {
+                          "text": "100-106"
+                        }
+                      },
+                      {
+                        "col1": {
+                          "text": "60"
+                        },
+                        "col2": {
+                          "text": "S. Hemalatha, M. Makeswari"
+                        },
+                        "col3": {
+                          "text": "Photocatalytic Degradation of Vat Red 13 by Green Synthesized Copper Oxide Nanocatalyst"
+                        },
+                        "col4": {
+                          "text": "Asian Journal of Chemistry"
+                        },
+                        "col5": {
+                          "text": "2018"
+                        },
+                        "col6": {
+                          "text": "30"
+                        },
+                        "col7": {
+                          "text": "8"
+                        },
+                        "col8": {
+                          "text": "1897-1901"
+                        }
+                      },
+                      {
+                        "col1": {
+                          "text": "61"
+                        },
+                        "col2": {
+                          "text": "Arunachalam Chinnathambi, Sulaiman Ali Alharbi, Deepika Joshi, Saranya V, G.K. Jhanani, Ruangwong On-uma, Kumchai Jutamas, Wongchai Anupong"
+                        },
+                        "col3": {
+                          "text": "Synthesis of AgNPs from leaf extract of Naringi crenulata and evaluation of its antibacterial activity against multidrug resistant bacteria"
+                        },
+                        "col4": {
+                          "text": "Environmental Research"
+                        },
+                        "col5": {
+                          "text": "2023"
+                        },
+                        "col6": {
+                          "text": "216"
+                        },
+                        "col7": {
+                          "text": "1"
+                        },
+                        "col8": {
+                          "text": "114455"
+                        }
+                      },
+                      {
+                        "col1": {
+                          "text": "62"
+                        },
+                        "col2": {
+                          "text": "P Sakthivel, V Gokila, V Saranya, K Kavi Rasu"
+                        },
+                        "col3": {
+                          "text": "Influence of Cu2+ and Sn2+ ions on optical properties of MgS Nanoparticles: A comparative Analysis"
+                        },
+                        "col4": {
+                          "text": "Journal of Physics: Conference Series"
+                        },
+                        "col5": {
+                          "text": "2021"
+                        },
+                        "col6": {
+                          "text": "1964"
+                        },
+                        "col7": {
+                          "text": "6"
+                        },
+                        "col8": {
+                          "text": "062101"
+                        }
+                      },
+                      {
+                        "col1": {
+                          "text": "63"
+                        },
+                        "col2": {
+                          "text": "Mourad Kchaou, M. Mubeen Tajudeen, M. Syed Ali, Grienggrai Rajchakit, G. Shanthi, Jinde Cao"
+                        },
+                        "col3": {
+                          "text": "Asynchronous H∞ control for IT2 fuzzy networked system subject to hybrid attacks via improved event-triggered scheme"
+                        },
+                        "col4": {
+                          "text": "Information Sciences"
+                        },
+                        "col5": {
+                          "text": "2024"
+                        },
+                        "col6": {
+                          "text": "666"
+                        },
+                        "col7": {
+                          "text": "15"
+                        },
+                        "col8": {
+                          "text": "120390"
+                        }
+                      },
+                      {
+                        "col1": {
+                          "text": "64"
+                        },
+                        "col2": {
+                          "text": "Kurinjinathan P"
+                        },
+                        "col3": {
+                          "text": "Enhancement in supercapacitive performance of calcium phosphate nanoneedles through Ni-ion incorporation: Insights into atomic and electronic structures"
+                        },
+                        "col4": {
+                          "text": "Materials Today Sustainability"
+                        },
+                        "col5": {
+                          "text": "2024"
+                        },
+                        "col6": {
+                          "text": "26"
+                        },
+                        "col7": {
+                          "text": "1"
+                        },
+                        "col8": {
+                          "text": "100769"
+                        }
+                      },
+                      {
+                        "col1": {
+                          "text": "65"
+                        },
+                        "col2": {
+                          "text": "Kurinjinathan P"
+                        },
+                        "col3": {
+                          "text": "Hybridization of Fe-O in iron doped hydroxyapatite for superior electrochemical charge storage"
+                        },
+                        "col4": {
+                          "text": "Journal of Molecular Structure"
+                        },
+                        "col5": {
+                          "text": "2023"
+                        },
+                        "col6": {
+                          "text": "1291"
+                        },
+                        "col7": {
+                          "text": "5"
+                        },
+                        "col8": {
+                          "text": "135950"
+                        }
+                      },
+                      {
+                        "col1": {
+                          "text": "66"
+                        },
+                        "col2": {
+                          "text": "Kurinjinathan P"
+                        },
+                        "col3": {
+                          "text": "Reline deep eutectic solvent mediated synthesis of lanthanum titanate for heavy metal remediation and photocatalytic degradation"
+                        },
+                        "col4": {
+                          "text": "Chemosphere"
+                        },
+                        "col5": {
+                          "text": "2022"
+                        },
+                        "col6": {
+                          "text": "308"
+                        },
+                        "col7": {
+                          "text": ""
+                        },
+                        "col8": {
+                          "text": "136529"
+                        }
+                      },
+                      {
+                        "col1": {
+                          "text": "67"
+                        },
+                        "col2": {
+                          "text": "Kurinjinathan P"
+                        },
+                        "col3": {
+                          "text": "Chemiresistive La-doped BaTiO3 microspheres for ambient-temperature formaldehyde gas sensing"
+                        },
+                        "col4": {
+                          "text": "Sustainable Energy Technologies and Assessments"
+                        },
+                        "col5": {
+                          "text": "2022"
+                        },
+                        "col6": {
+                          "text": "53"
+                        },
+                        "col7": {
+                          "text": ""
+                        },
+                        "col8": {
+                          "text": "102604"
+                        }
+                      },
+                      {
+                        "col1": {
+                          "text": "68"
+                        },
+                        "col2": {
+                          "text": "Kurinjinathan P"
+                        },
+                        "col3": {
+                          "text": "Role of partial amorphous and disordered stannous ions incorporated hydroxyapatite nanosphere for enhanced electrochemical energy storage application"
+                        },
+                        "col4": {
+                          "text": "Journal of Alloys and Compounds"
+                        },
+                        "col5": {
+                          "text": "2021"
+                        },
+                        "col6": {
+                          "text": "851"
+                        },
+                        "col7": {
+                          "text": ""
+                        },
+                        "col8": {
+                          "text": "156710"
+                        }
+                      }
+                    ]
+                  }
+                ]
               }
             }
           ]
@@ -2505,339 +2565,394 @@
     },
     {
       "tab": "Events",
-      "slug": "department-of-biotechnology",
+      "slug": "science-and-humanities",
+      "breadcrumbItems": [
+        {
+          "label": "Academics",
+          "href": "/academics"
+        },
+        {
+          "label": "Engineering",
+          "href": "academics/engineering/"
+        },
+        {
+          "label": "Science And Humanities",
+          "href": "/academics/engineering/science-and-humanities"
+        },
+        {
+          "label": "Events"
+        }
+      ],
       "items": [
         {
-          "type": "table",
-          "title": "Workshop / Seminar / Guest Lecture",
-          "academic_year": "Academic Year: 2023-2024",
-          "head": [
+          "title": "Workshop/ Seminar/Guest Lecture",
+
+          "multiContent": [
             {
-              "id": "col1",
-              "label": "Sl No"
-            },
-            {
-              "id": "col2",
-              "label": "Event Date"
-            },
-            {
-              "id": "col3",
-              "label": "Academic Year"
-            },
-            {
-              "id": "col4",
-              "label": "Title of the Event"
-            },
-            {
-              "id": "col5",
-              "label": "Programme"
-            },
-            {
-              "id": "col6",
-              "label": "Resource Person"
-            },
-            {
-              "id": "col7",
-              "label": "No. of Participants"
-            }
-          ],
-          "data": [
-            {
-              "col1": {
-                "text": "1"
-              },
-              "col2": {
-                "text": "09.02.2024"
-              },
-              "col3": {
-                "text": "2023-2024"
-              },
-              "col4": {
-                "text": "Role of Technology in Environmental Sustainability 2024"
-              },
-              "col5": {
-                "text": "Conference"
-              },
-              "col6": {
-                "text": "Dr. Jayapratha, Associate Professor, Dept. of Chemistry, AVIT Campus, Chennai"
-              },
-              "col7": {
-                "text": "105"
+              "title": " Academic Year: 2023-2024",
+              
+
+              "table": {
+                "content": [
+                  {
+                    "head": [
+                      {
+                        "id": "col1",
+                        "label": "Sl No"
+                      },
+                      {
+                        "id": "col2",
+                        "label": "Event Date"
+                      },
+                      {
+                        "id": "col3",
+                        "label": "Academic Year"
+                      },
+                      {
+                        "id": "col4",
+                        "label": "Title of the Event"
+                      },
+                      {
+                        "id": "col5",
+                        "label": "Programme"
+                      },
+                      {
+                        "id": "col6",
+                        "label": "Resource Person"
+                      },
+                      {
+                        "id": "col7",
+                        "label": "No. of Participants"
+                      }
+                    ],
+                    "data": [
+                      {
+                        "col1": {
+                          "text": "1"
+                        },
+                        "col2": {
+                          "text": "09.02.2024"
+                        },
+                        "col3": {
+                          "text": "2023-2024"
+                        },
+                        "col4": {
+                          "text": "Role of Technology in Environmental Sustainability 2024"
+                        },
+                        "col5": {
+                          "text": "Conference"
+                        },
+                        "col6": {
+                          "text": "Dr. Jayapratha, Associate Professor, Dept. of Chemistry, AVIT Campus, Chennai"
+                        },
+                        "col7": {
+                          "text": "105"
+                        }
+                      },
+                      {
+                        "col1": {
+                          "text": "2"
+                        },
+                        "col2": {
+                          "text": "14.03.2024"
+                        },
+                        "col3": {
+                          "text": "2023-2024"
+                        },
+                        "col4": {
+                          "text": "A National Science Expo-2024"
+                        },
+                        "col5": {
+                          "text": "Extension Activity"
+                        },
+                        "col6": {
+                          "text": "Ms. P. Usha, AP/Mathematics, KAHE, Coimbatore"
+                        },
+                        "col7": {
+                          "text": "26"
+                        }
+                      },
+                      {
+                        "col1": {
+                          "text": "3"
+                        },
+                        "col2": {
+                          "text": "05.12.2024"
+                        },
+                        "col3": {
+                          "text": "2023-2024"
+                        },
+                        "col4": {
+                          "text": "Entrepreneurship Development"
+                        },
+                        "col5": {
+                          "text": "Seminar"
+                        },
+                        "col6": {
+                          "text": "Mr. S. P. Sudhan Nayakraj, Managing Director, Olive Green Construction, Coimbatore"
+                        },
+                        "col7": {
+                          "text": "180"
+                        }
+                      },
+                      {
+                        "col1": {
+                          "text": "4"
+                        },
+                        "col2": {
+                          "text": "30.11.2023"
+                        },
+                        "col3": {
+                          "text": "2023-2024"
+                        },
+                        "col4": {
+                          "text": "Nature’s Nanotechnology"
+                        },
+                        "col5": {
+                          "text": "Lecture"
+                        },
+                        "col6": {
+                          "text": "Dr. R. Suresh, Associate Professor, KAHE, Coimbatore"
+                        },
+                        "col7": {
+                          "text": "60"
+                        }
+                      },
+                      {
+                        "col1": {
+                          "text": "5"
+                        },
+                        "col2": {
+                          "text": "02.11.2023"
+                        },
+                        "col3": {
+                          "text": "2023-2024"
+                        },
+                        "col4": {
+                          "text": "Introduction to Design Thinking"
+                        },
+                        "col5": {
+                          "text": "Seminar"
+                        },
+                        "col6": {
+                          "text": "Dr. M. Siva Ramkumar, IIC Innovation Ambassador, AP/EEE, KAHE"
+                        },
+                        "col7": {
+                          "text": "90"
+                        }
+                      }
+                    ]
+                  }
+                ]
               }
             },
             {
-              "col1": {
-                "text": "2"
-              },
-              "col2": {
-                "text": "14.03.2024"
-              },
-              "col3": {
-                "text": "2023-2024"
-              },
-              "col4": {
-                "text": "A National Science Expo-2024"
-              },
-              "col5": {
-                "text": "Extension Activity"
-              },
-              "col6": {
-                "text": "Ms. P. Usha, AP/Mathematics, KAHE, Coimbatore"
-              },
-              "col7": {
-                "text": "26"
+              "title": "Academic Year: 2022-2023",
+              "table": {
+                "content": [
+                  {
+                    "head": [
+                      {
+                        "id": "col1",
+                        "label": "Sl No"
+                      },
+                      {
+                        "id": "col2",
+                        "label": "Event Date"
+                      },
+                      {
+                        "id": "col3",
+                        "label": "Academic Year"
+                      },
+                      {
+                        "id": "col4",
+                        "label": "Title of the Event"
+                      },
+                      {
+                        "id": "col5",
+                        "label": "Programme"
+                      },
+                      {
+                        "id": "col6",
+                        "label": "Resource Person"
+                      },
+                      {
+                        "id": "col7",
+                        "label": "No. of Participants"
+                      }
+                    ],
+                    "data": [
+                      {
+                        "col1": {
+                          "text": "1"
+                        },
+                        "col2": {
+                          "text": "27.02.2023 & 28.02.2023"
+                        },
+                        "col3": {
+                          "text": "2022-2023"
+                        },
+                        "col4": {
+                          "text": "Awareness on Ill Effects due to Food Adulteration"
+                        },
+                        "col5": {
+                          "text": "Workshop"
+                        },
+                        "col6": {
+                          "text": "Dr. R. Sayee Kannan, Associate Professor, Thiagarajar College, Madurai"
+                        },
+                        "col7": {
+                          "text": "186"
+                        }
+                      },
+                      {
+                        "col1": {
+                          "text": "2"
+                        },
+                        "col2": {
+                          "text": "28.02.2023"
+                        },
+                        "col3": {
+                          "text": "2022-2023"
+                        },
+                        "col4": {
+                          "text": "Nano Science and Technology for Human Welfare"
+                        },
+                        "col5": {
+                          "text": "Lecture"
+                        },
+                        "col6": {
+                          "text": "Dr. N. Dharmaraj, Professor, Bharathiar University"
+                        },
+                        "col7": {
+                          "text": "141"
+                        }
+                      },
+                      {
+                        "col1": {
+                          "text": "3"
+                        },
+                        "col2": {
+                          "text": "17.02.2023"
+                        },
+                        "col3": {
+                          "text": "2022-2023"
+                        },
+                        "col4": {
+                          "text": "Indian Heritage Values in Education"
+                        },
+                        "col5": {
+                          "text": "Seminar"
+                        },
+                        "col6": {
+                          "text": "Dr. R. Veerapathiran, Assistant Professor, KAHE"
+                        },
+                        "col7": {
+                          "text": "180"
+                        }
+                      },
+                      {
+                        "col1": {
+                          "text": "4"
+                        },
+                        "col2": {
+                          "text": "16.02.2023"
+                        },
+                        "col3": {
+                          "text": "2022-2023"
+                        },
+                        "col4": {
+                          "text": "Vedic Mathematics"
+                        },
+                        "col5": {
+                          "text": "Workshop"
+                        },
+                        "col6": {
+                          "text": "Dr. S. Manivannan, SDC Coordinator, KAHE"
+                        },
+                        "col7": {
+                          "text": "89"
+                        }
+                      },
+                      {
+                        "col1": {
+                          "text": "5"
+                        },
+                        "col2": {
+                          "text": "16.02.2023"
+                        },
+                        "col3": {
+                          "text": "2022-2023"
+                        },
+                        "col4": {
+                          "text": "Application of Graphs and Networks in Engineering"
+                        },
+                        "col5": {
+                          "text": "Seminar"
+                        },
+                        "col6": {
+                          "text": "Dr. G. Mahadevan, Professor, Gandhigram Rural Institute"
+                        },
+                        "col7": {
+                          "text": "142"
+                        }
+                      },
+                      {
+                        "col1": {
+                          "text": "6"
+                        },
+                        "col2": {
+                          "text": "11.01.2023"
+                        },
+                        "col3": {
+                          "text": "2022-2023"
+                        },
+                        "col4": {
+                          "text": "Role of Technology in Environmental Sustainability 2023"
+                        },
+                        "col5": {
+                          "text": "Conference"
+                        },
+                        "col6": {
+                          "text": "Dr. I. V. Muthuvijayan Enoch, Professor, Karunya Institute of Technology and Science"
+                        },
+                        "col7": {
+                          "text": "250"
+                        }
+                      }
+                    ]
+                  }
+                ]
               }
             },
+
             {
-              "col1": {
-                "text": "3"
-              },
-              "col2": {
-                "text": "05.12.2024"
-              },
-              "col3": {
-                "text": "2023-2024"
-              },
-              "col4": {
-                "text": "Entrepreneurship Development"
-              },
-              "col5": {
-                "text": "Seminar"
-              },
-              "col6": {
-                "text": "Mr. S. P. Sudhan Nayakraj, Managing Director, Olive Green Construction, Coimbatore"
-              },
-              "col7": {
-                "text": "180"
-              }
-            },
-            {
-              "col1": {
-                "text": "4"
-              },
-              "col2": {
-                "text": "30.11.2023"
-              },
-              "col3": {
-                "text": "2023-2024"
-              },
-              "col4": {
-                "text": "Nature’s Nanotechnology"
-              },
-              "col5": {
-                "text": "Lecture"
-              },
-              "col6": {
-                "text": "Dr. R. Suresh, Associate Professor, KAHE, Coimbatore"
-              },
-              "col7": {
-                "text": "60"
-              }
-            },
-            {
-              "col1": {
-                "text": "5"
-              },
-              "col2": {
-                "text": "02.11.2023"
-              },
-              "col3": {
-                "text": "2023-2024"
-              },
-              "col4": {
-                "text": "Introduction to Design Thinking"
-              },
-              "col5": {
-                "text": "Seminar"
-              },
-              "col6": {
-                "text": "Dr. M. Siva Ramkumar, IIC Innovation Ambassador, AP/EEE, KAHE"
-              },
-              "col7": {
-                "text": "90"
+              
+              "table": {
+                "content": [
+                  {
+                    "head": [
+                      {
+                        "id": "col1",
+                        "label": ""
+                      }
+                     
+                    ],
+                    "data": [
+                      {
+                        "col1": {
+                          "text": "Guest Lecture/Seminar Archives",
+                          "url":"https://kahedu.edu.in/academics/engineering/science-and-humanities/guest-lecture-seminar-archives/",
+                          "target":"_blank"
+                        }
+                       
+                      }
+                    ]
+                  }
+                ]
               }
             }
           ]
-        },
-        {
-          "type": "table",
-          "title": "Workshop / Seminar / Guest Lecture",
-          "academic_year": "Academic Year: 2022-2023",
-          "head": [
-            {
-              "id": "col1",
-              "label": "Sl No"
-            },
-            {
-              "id": "col2",
-              "label": "Event Date"
-            },
-            {
-              "id": "col3",
-              "label": "Academic Year"
-            },
-            {
-              "id": "col4",
-              "label": "Title of the Event"
-            },
-            {
-              "id": "col5",
-              "label": "Programme"
-            },
-            {
-              "id": "col6",
-              "label": "Resource Person"
-            },
-            {
-              "id": "col7",
-              "label": "No. of Participants"
-            }
-          ],
-          "data": [
-            {
-              "col1": {
-                "text": "1"
-              },
-              "col2": {
-                "text": "27.02.2023 & 28.02.2023"
-              },
-              "col3": {
-                "text": "2022-2023"
-              },
-              "col4": {
-                "text": "Awareness on Ill Effects due to Food Adulteration"
-              },
-              "col5": {
-                "text": "Workshop"
-              },
-              "col6": {
-                "text": "Dr. R. Sayee Kannan, Associate Professor, Thiagarajar College, Madurai"
-              },
-              "col7": {
-                "text": "186"
-              }
-            },
-            {
-              "col1": {
-                "text": "2"
-              },
-              "col2": {
-                "text": "28.02.2023"
-              },
-              "col3": {
-                "text": "2022-2023"
-              },
-              "col4": {
-                "text": "Nano Science and Technology for Human Welfare"
-              },
-              "col5": {
-                "text": "Lecture"
-              },
-              "col6": {
-                "text": "Dr. N. Dharmaraj, Professor, Bharathiar University"
-              },
-              "col7": {
-                "text": "141"
-              }
-            },
-            {
-              "col1": {
-                "text": "3"
-              },
-              "col2": {
-                "text": "17.02.2023"
-              },
-              "col3": {
-                "text": "2022-2023"
-              },
-              "col4": {
-                "text": "Indian Heritage Values in Education"
-              },
-              "col5": {
-                "text": "Seminar"
-              },
-              "col6": {
-                "text": "Dr. R. Veerapathiran, Assistant Professor, KAHE"
-              },
-              "col7": {
-                "text": "180"
-              }
-            },
-            {
-              "col1": {
-                "text": "4"
-              },
-              "col2": {
-                "text": "16.02.2023"
-              },
-              "col3": {
-                "text": "2022-2023"
-              },
-              "col4": {
-                "text": "Vedic Mathematics"
-              },
-              "col5": {
-                "text": "Workshop"
-              },
-              "col6": {
-                "text": "Dr. S. Manivannan, SDC Coordinator, KAHE"
-              },
-              "col7": {
-                "text": "89"
-              }
-            },
-            {
-              "col1": {
-                "text": "5"
-              },
-              "col2": {
-                "text": "16.02.2023"
-              },
-              "col3": {
-                "text": "2022-2023"
-              },
-              "col4": {
-                "text": "Application of Graphs and Networks in Engineering"
-              },
-              "col5": {
-                "text": "Seminar"
-              },
-              "col6": {
-                "text": "Dr. G. Mahadevan, Professor, Gandhigram Rural Institute"
-              },
-              "col7": {
-                "text": "142"
-              }
-            },
-            {
-              "col1": {
-                "text": "6"
-              },
-              "col2": {
-                "text": "11.01.2023"
-              },
-              "col3": {
-                "text": "2022-2023"
-              },
-              "col4": {
-                "text": "Role of Technology in Environmental Sustainability 2023"
-              },
-              "col5": {
-                "text": "Conference"
-              },
-              "col6": {
-                "text": "Dr. I. V. Muthuvijayan Enoch, Professor, Karunya Institute of Technology and Science"
-              },
-              "col7": {
-                "text": "250"
-              }
-            }
-          ]
-        },
-        {
-          "type": "link",
-          "title": "Guest Lecture / Seminar Archives",
-          "url": "https://kahedu.edu.in/academics/engineering/science-and-humanities/guest-lecture-seminar-archives/"
         },
         {
           "type": "content",
@@ -2909,11 +3024,11 @@
           "type": "content",
           "title": "Others",
           "content": [
-           "One day Hands-on-Training in association with Skill Development Centre on “Working and Fabrication of Third Generation Solar Cells – DSSC” to be held on 27.11.2025.",
-           "One-day National Conference on “Role of Technology in Environmental Sustainability”- 2026 (RTES’26) on 30.01.2026 through Hybrid mode.",
-           "Guest Lecture for the I B.E/B.Tech Engineering students on 29.11.2025.",
-           "Two-days’ workshop and the extension activity on “Building a Greener World: Integrating Ecology, Sustainable Development and Community-Led Change in the Contemporary Landscape” on 10.11.2025 to 11.11.2025",
-           "Workshop on “Basics of MS Excel and Powerpoint for Data Representation” from 21.08.2025 and 22.08.2025."
+            "One day Hands-on-Training in association with Skill Development Centre on “Working and Fabrication of Third Generation Solar Cells – DSSC” to be held on 27.11.2025.",
+            "One-day National Conference on “Role of Technology in Environmental Sustainability”- 2026 (RTES’26) on 30.01.2026 through Hybrid mode.",
+            "Guest Lecture for the I B.E/B.Tech Engineering students on 29.11.2025.",
+            "Two-days’ workshop and the extension activity on “Building a Greener World: Integrating Ecology, Sustainable Development and Community-Led Change in the Contemporary Landscape” on 10.11.2025 to 11.11.2025",
+            "Workshop on “Basics of MS Excel and Powerpoint for Data Representation” from 21.08.2025 and 22.08.2025."
           ]
         }
       ]

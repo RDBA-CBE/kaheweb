@@ -194,6 +194,23 @@
     {
       "tab": "Publications",
       "slug": "department-of-artificial-intelligence-and-data-science",
+      "breadcrumbItems": [
+        {
+          "label": "Academics",
+          "href": "academics"
+        },
+        {
+          "label": "Arts, Science, Commerce and Management",
+          "href": "academics/arts-science-and-humanities/"
+        },
+        {
+          "label": "Department of Artificial Intelligence and Data Science",
+          "href": "/academics/arts-science-and-humanities/department-of-artificial-intelligence-and-data-science"
+        },
+        {
+          "label": "Publications"
+        }
+      ],
       "title": "Best Five Papers Faculty wise:",
       "subtitle": "Paper publications by the Faculty Members",
       "content": [
@@ -260,6 +277,23 @@
     {
       "tab": "Events",
       "slug": "department-of-artificial-intelligence-and-data-science",
+      "breadcrumbItems": [
+        {
+          "label": "Academics",
+          "href": "academics"
+        },
+        {
+          "label": "Arts, Science, Commerce and Management",
+          "href": "academics/arts-science-and-humanities/"
+        },
+        {
+          "label": "Department of Artificial Intelligence and Data Science",
+          "href": "/academics/arts-science-and-humanities/department-of-artificial-intelligence-and-data-science"
+        },
+        {
+          "label": "Events"
+        }
+      ],
       "items": [
         {
           "title": "Conference / Workshop / Guest Lecture",

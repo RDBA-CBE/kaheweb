@@ -93,7 +93,7 @@
           {
             "key": "be",
             "title": "BE Computer Science and Engineering",
-             "img": "/images/Kahe/academics/engineering/CSE/computerscience-studentprogrammes.png",
+            "img": "/images/Kahe/academics/engineering/CSE/computerscience-studentprogrammes.png",
             "type": "curriculum",
             "items": [
               {
@@ -124,6 +124,59 @@
           },
           {
             "key": "me",
+            "title": "BE Computer Science and Engineering(Cyber Security)",
+            "img": "/images/Kahe/academics/engineering/CSE/computerscience-studentprogrammes.png",
+            "type": "curriculum",
+            "items": [
+              {
+                "year": "2023-2024",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2023/10/CYBER-2023-2024.pdf"
+              },
+              {
+                "year": "2024-2025",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/01/CYBER-SYLLABUS.pdf"
+              },
+              {
+                "year": "2025-2026",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/08/2025-CYBER-SECURITY-SYLLABUS.pdf"
+              }
+            ]
+          },
+          {
+            "key": "res",
+            "title": "B.Tech Artificial Intelligence and Data Science",
+            "img": "/images/Kahe/academics/engineering/CSE/computerscience-studentprogrammes.png",
+            "type": "curriculum",
+            "items": [
+              {
+                "year": "2020-2021",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/10/B.Tech-Artificial-Intelligence-and-Data-Science-Syllabus-2020-2021.pdf"
+              },
+              {
+                "year": "2022-2023",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2022/07/20C_BTech_AI_DS.pdf"
+              },
+              {
+                "year": "2023-2024",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2023/10/AIDS-2023-2024.pdf"
+              }
+            ]
+          },
+          {
+            "key": "Btech",
+            "title": "B.Tech CSBS",
+            "img": "/images/Kahe/academics/engineering/CSE/computerscience-studentprogrammes.png",
+            "type": "curriculum",
+            "items": [
+              {
+                "year": "2025-2026",
+                "link": "https://kahedu.edu.in/n/wp-content/uploads/2025/09/B.Tech-CSBS-SYLLABUS.pdf"
+              }
+            ]
+          },
+
+          {
+            "key": "Mec",
             "title": "ME Computer Science and Engineering",
             "img": "/images/Kahe/academics/engineering/CSE/computerscience-studentprogrammes.png",
             "type": "curriculum",
@@ -147,43 +200,7 @@
             ]
           },
           {
-            "key": "me",
-            "title": "M.E. Water Resources and Environmental Engineering – FT",
-            "img": "/images/Kahe/academics/engineering/CSE/computerscience-studentprogrammes.png",
-            "type": "curriculum",
-            "items": [
-              {
-                "year": "2019-2020",
-                "link": "https://kahedu.edu.in/n/wp-content/uploads/2021/04/ME-WRE-FT-2019.pdf"
-              },
-              {
-                "year": "2020-2021",
-                "link": "https://kahedu.edu.in/n/wp-content/uploads/2021/04/ME-WRE-FT-2020-Curriculum-SYLLABUS-ONLY-converted.pdf"
-              },
-              {
-                "year": "2021-2022",
-                "link": "https://kahedu.edu.in/n/wp-content/uploads/2021/11/ME-WRE-FT-2021-SYLLABUS.pdf"
-              }
-            ]
-          },
-          {
-            "key": "me",
-            "title": "M.E. Water Resources and Environmental Engineering – PT",
-             "img": "/images/Kahe/academics/engineering/CSE/computerscience-studentprogrammes.png",
-            "type": "curriculum",
-            "items": [
-              {
-                "year": "2019-2020",
-                "link": "https://kahedu.edu.in/n/wp-content/uploads/2021/01/2019_ME-WRE_PT.pdf"
-              },
-              {
-                "year": "2020-2021",
-                "link": "https://kahedu.edu.in/n/wp-content/uploads/2020/12/ME-WRE-PT-2020-2021.pdf"
-              }
-            ]
-          },
-          {
-            "key": "me",
+            "key": "phd",
             "title": "Ph.D. Computer Science and Engineering",
             "img": "/images/Kahe/academics/engineering/CSE/computerscience-studentprogrammes.png",
             "type": "curriculum",
@@ -490,18 +507,102 @@
       "tab": "Infrastructure",
       "items": [
         {
-          "type": "laboratories",
-          "title": "Laboratories",
-          "content": [
-            "Structural Engineering Laboratory",
-            "Surveying Laboratory",
-            "Soil Laboratory",
-            "Construction material Laboratory."
-          ]
+          "type": "table",
+          "title": "Class Room Details",
+          "table": {
+            "content": [
+              {
+                "head": [
+                  { "id": "col1", "label": "Programme" },
+                  { "id": "col2", "label": "Program Code" },
+                  { "id": "col3", "label": "Year" },
+                  { "id": "col4", "label": "Section" },
+                  { "id": "col5", "label": "Strength" },
+                  { "id": "col6", "label": "Block" },
+                  { "id": "col7", "label": "Room No." }
+                ],
+                "data": [
+                  {
+                    "col1": { "text": "B.E. Computer Science and Engineering" },
+                    "col2": { "text": "CSE" },
+                    "col3": { "text": "IV" },
+                    "col4": { "text": "A" },
+                    "col5": { "text": "64" },
+                    "col6": { "text": "I" },
+                    "col7": { "text": "605" }
+                  },
+                  {
+                    "col1": { "text": "B.E. Computer Science and Engineering" },
+                    "col2": { "text": "CSE" },
+                    "col3": { "text": "III" },
+                    "col4": { "text": "A" },
+                    "col5": { "text": "64" },
+                    "col6": { "text": "I" },
+                    "col7": { "text": "608" }
+                  },
+                  {
+                    "col1": { "text": "B.E. Computer Science and Engineering" },
+                    "col2": { "text": "CSE" },
+                    "col3": { "text": "II" },
+                    "col4": { "text": "A" },
+                    "col5": { "text": "71" },
+                    "col6": { "text": "I" },
+                    "col7": { "text": "609" }
+                  },
+                  {
+                    "col1": { "text": "B.E. Computer Science and Engineering" },
+                    "col2": { "text": "CSE" },
+                    "col3": { "text": "II" },
+                    "col4": { "text": "B" },
+                    "col5": { "text": "61" },
+                    "col6": { "text": "I" },
+                    "col7": { "text": "606" }
+                  },
+                  {
+                    "col1": { "text": "M.E. Computer Science and Engineering" },
+                    "col2": { "text": "CSE" },
+                    "col3": { "text": "II" },
+                    "col4": { "text": "A" },
+                    "col5": { "text": "5" },
+                    "col6": { "text": "I" },
+                    "col7": { "text": "604" }
+                  },
+                  {
+                    "col1": { "text": "M.E. Computer Science and Engineering" },
+                    "col2": { "text": "CSE" },
+                    "col3": { "text": "I" },
+                    "col4": { "text": "A" },
+                    "col5": { "text": "10" },
+                    "col6": { "text": "I" },
+                    "col7": { "text": "602" }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+
+        {
+          "type": "para",
+          "title": "Lab Details",
+          "content": "The Department is well equipped with computer labs with a Server (HP Proliant ML350G6 Xeon Processor 2.4GHz) and 255 Personal Computers (Processor – Intel Core i7, RAM: 16 GB; HDD: SSD500GB; Monitor – 19 inches wide LG- LED) with intranet and internet facilities."
         },
         {
           "type": "gallery",
-          "slug": "department-of-chemical-engineering",
+          "slug": "department-of-computer-science-and-engineering",
+          "breadcrumbItems": [
+            { "label": "Academics", "href": "academics" },
+            {
+              "label": "Arts, Science, Commerce and Management",
+              "href": "academics/arts-science-and-humanities/"
+            },
+
+            {
+              "label": "Department of Computer Science and Engineering",
+              "href": "/academics/arts-science-and-humanities/department-of-computer-science-and-engineering"
+            },
+            { "label": "Gallery" }
+          ],
           "images": [
             {
               "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/cse1-571x380.png",
@@ -554,29 +655,1395 @@
     },
     {
       "tab": "Publications",
-      "slug": "department-of-computer-science-engineering",
+      "slug": "department-of-computer-science-and-engineering",
+      "breadcrumbItems": [
+        { "label": "Academics", "href": "academics" },
+        {
+          "label": "Arts, Science, Commerce and Management",
+          "href": "academics/arts-science-and-humanities/"
+        },
+
+        {
+          "label": "Department of Computer Science and Engineering",
+          "href": "/academics/arts-science-and-humanities/department-of-computer-science-and-engineering"
+        },
+        { "label": "Publications" }
+      ],
       "title": "Best Five Papers Faculty wise:",
       "subtitle": "Paper publications by the Faculty Members",
       "content": [
         {
-          "faculty_name": "",
-          "content": [
-            "Vignesh, M. (2024). Reinventing concrete: Exploring strength and durability with Portland slag cement. Revista Materia, 27(3).",
-            "Balasundaram, N. (2024). Enhancing concrete performance with e-plastic waste and fly ash: A sustainable approach. Revista Materia, 27(4).",
-            "Balasundaram, N. (2024). An in-depth assessment of the structural integrity and advantages of bamboo reinforced cement concrete elements (BRCC) utilizing an alternative binding material: A comprehensive evaluation. Revista Materia, 27(4).",
-            "Johnpaul, V. (2023). The effects of nano-based bio-carbonates in superhydrophobic concrete—A review. Buildings, 13(6).",
-            "Vijayshankar, G. R. (2023). Changes of geotechnical properties of heavy metal contaminated soil after solidification. Oxidation Communications, 46(3).",
-            "Vijayshankar, G. R. (2023). Effect of phytoremediation on the geotechnical properties of heavy metal contaminated soil. Global Nest Journal, 25(3).",
-            "Johnpaul, V. (2024). Feasibility assessment of medium-scale hydro-power plant: Case study in Kerala, India. Asian Journal of Water Environment and Pollution, 21(1).",
-            "Johnpaul, V. (2024). Optimizing corrosion prediction initiation time for embedded steel in concrete with shell powders using deep learning techniques. Intelligent Systems and Applications in Engineering, 12(2).",
-            "Balasundaram, N. (2024). Analysis of soil characteristics of legacy landfill at Vellalore dump site and study on reclamation of old landfill site. Journal of Balkan Tribological Association, 30(2)."
+          "faculty_name": "DR.D.Selvapandian Publications",
+          "multiContent": [
+            {
+              "table": {
+                "content": [
+                  {
+                    "head": [
+                      { "id": "col1", "label": "S.No" },
+                      { "id": "col2", "label": "Author Name" },
+                      { "id": "col3", "label": "Title of the Paper" },
+                      { "id": "col4", "label": "Journal Name" },
+                      { "id": "col5", "label": "Year of Publication" },
+                      { "id": "col6", "label": "Volume" },
+                      { "id": "col7", "label": "Issue No" },
+                      { "id": "col8", "label": "PP" }
+                    ],
+                    "data": [
+                      {
+                        "col1": { "text": "1" },
+                        "col2": {
+                          "text": "S Priyanka, SA Suje, D Selvapandian, V Narasimharaj"
+                        },
+                        "col3": {
+                          "text": "Smart Farming: Intelligent Animal Detection Framework in Agriculture using IoT Sensors"
+                        },
+                        "col4": {
+                          "text": "2023 2nd International Conference on Edge Computing and Applications"
+                        },
+                        "col5": { "text": "2023" },
+                        "col6": { "text": "2" },
+                        "col7": { "text": "" },
+                        "col8": { "text": "1336-1341" }
+                      },
+                      {
+                        "col1": { "text": "2" },
+                        "col2": {
+                          "text": "K Kalaivani, NC Vijayakumar, P Poovizhi, D Selvapandian"
+                        },
+                        "col3": {
+                          "text": "An Efficient Rainfall Forecasting System using Machine Learning Methods"
+                        },
+                        "col4": {
+                          "text": "International Conference on Electrical, Electronics, Information and Communication Technologies (ICEEICT)"
+                        },
+                        "col5": { "text": "2023" },
+                        "col6": { "text": "2" },
+                        "col7": { "text": "" },
+                        "col8": { "text": "01-06" }
+                      },
+                      {
+                        "col1": { "text": "3" },
+                        "col2": {
+                          "text": "Muthulakshmi K; Kalaivani K; Uma J; Primya T; Sivakumaran AR; Selvapandian D"
+                        },
+                        "col3": {
+                          "text": "Classification of DDoS in Software-Defined IoT Networks using Hybrid Feature Selection Technique with DL"
+                        },
+                        "col4": {
+                          "text": "International Conference on Smart Technologies in Computing, Electrical and Electronics (ICSTCEE)"
+                        },
+                        "col5": { "text": "2022" },
+                        "col6": { "text": "3" },
+                        "col7": { "text": "" },
+                        "col8": { "text": "12-18" }
+                      },
+                      {
+                        "col1": { "text": "4" },
+                        "col2": {
+                          "text": "S Gokuldev; D. Selvapandian; K. Satheshkumar; T. Deepa"
+                        },
+                        "col3": {
+                          "text": "A Framework for Rainfall Forecasting based Crop Analysis using Deep Learning"
+                        },
+                        "col4": {
+                          "text": "9th International Conference on Advanced Computing and Communication Systems (ICACCS)"
+                        },
+                        "col5": { "text": "2023" },
+                        "col6": { "text": "9" },
+                        "col7": { "text": "" },
+                        "col8": { "text": "2234-2240" }
+                      },
+                      {
+                        "col1": { "text": "5" },
+                        "col2": {
+                          "text": "G Yogapriya, R Shalini Kumari, S Suganthi, K Agalya, T Elangovan, D Selva Pandian"
+                        },
+                        "col3": {
+                          "text": "Crop Yield Identification Using CNN"
+                        },
+                        "col4": {
+                          "text": "International Conference on Artificial Intelligence and Knowledge Discovery in Concurrent Engineering (ICECONF)"
+                        },
+                        "col5": { "text": "2023" },
+                        "col6": { "text": "3" },
+                        "col7": { "text": "" },
+                        "col8": { "text": "1-4" }
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        },
+
+        {
+          "faculty_name": "Dr.J.Alfred Daniel Publications",
+          "multiContent": [
+            {
+              "table": {
+                "content": [
+                  {
+                    "head": [
+                      { "id": "col1", "label": "S.No" },
+                      { "id": "col2", "label": "Author Name" },
+                      { "id": "col3", "label": "Title of the Paper" },
+                      { "id": "col4", "label": "Journal Name" },
+                      { "id": "col5", "label": "Year of Publication" },
+                      { "id": "col6", "label": "Volume" },
+                      { "id": "col7", "label": "Issue No" },
+                      { "id": "col8", "label": "PP" }
+                    ],
+                    "data": [
+                      {
+                        "col1": { "text": "1" },
+                        "col2": {
+                          "text": "van Henten, E., Montenegro, C., Popovic, M., Vougioukas, S., Daniel, A., & Han, G"
+                        },
+                        "col3": {
+                          "text": "Embracing Robotics and Intelligent Machine Systems for Smart Agricultural Applications"
+                        },
+                        "col4": {
+                          "text": "IEEE Robotics & Automation Magazine"
+                        },
+                        "col5": { "text": "2023" },
+                        "col6": { "text": "30" },
+                        "col7": { "text": "4" },
+                        "col8": { "text": "8-112" }
+                      },
+                      {
+                        "col1": { "text": "2" },
+                        "col2": {
+                          "text": "Alfred Daniel, J., Chandru Vignesh, C., Muthu, B. A., Senthil Kumar, R., Sivaparthipan, C. B., & Marin, C. E. M"
+                        },
+                        "col3": {
+                          "text": "Fully Convolutional Neural Networks For Lidar–Camera Fusion For Pedestrian Detection In Autonomous Vehicle"
+                        },
+                        "col4": { "text": "Multimedia Tools and Applications" },
+                        "col5": { "text": "2023" },
+                        "col6": { "text": "82" },
+                        "col7": { "text": "16" },
+                        "col8": { "text": "25107-25130" }
+                      },
+                      {
+                        "col1": { "text": "3" },
+                        "col2": {
+                          "text": "Chinnappan, C. V., John William, A. D., Nidamanuri, S. K. C., Jayalakshmi, S., Bogani, R., Thanapal, P., & Syed Masood, J. A. I."
+                        },
+                        "col3": {
+                          "text": "IOT-Enabled Chlorine Level Assessment and Prediction in Water Monitoring System Using Machine Learning."
+                        },
+                        "col4": { "text": "Electronics" },
+                        "col5": { "text": "2023" },
+                        "col6": { "text": "12" },
+                        "col7": { "text": "6" },
+                        "col8": { "text": "1458" }
+                      },
+                      {
+                        "col1": { "text": "4" },
+                        "col2": {
+                          "text": "Ali, M. H., Jaber, M. M., Alfred Daniel, J., Vignesh, C. C., Meenakshisundaram, I., Kumar, B. S., & Punitha, P."
+                        },
+                        "col3": {
+                          "text": "Autonomous vehicles decision-making enhancement using self-determination theory and mixed-precision neural networks"
+                        },
+                        "col4": { "text": "Multimedia Tools and Applications" },
+                        "col5": { "text": "2023" },
+                        "col6": { "text": "9" },
+                        "col7": { "text": "" },
+                        "col8": { "text": "1-24" }
+                      },
+                      {
+                        "col1": { "text": "5" },
+                        "col2": {
+                          "text": "John William, A. D., Rajendran, S., Pranam, P., Berry, Y., Sreedharan, A., Gul, J., & Paul, A."
+                        },
+                        "col3": {
+                          "text": "Blockchain technologies: smart contracts for consumer electronics data sharing and secure payment."
+                        },
+                        "col4": { "text": "Electronics" },
+                        "col5": { "text": "2022" },
+                        "col6": { "text": "12" },
+                        "col7": { "text": "1" },
+                        "col8": { "text": "208" }
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "faculty_name": "DR.M.Vigenesh Publications",
+          "multiContent": [
+            {
+              "table": {
+                "content": [
+                  {
+                    "head": [
+                      { "id": "col1", "label": "S.No" },
+                      { "id": "col2", "label": "Author Name" },
+                      { "id": "col3", "label": "Title of the Paper" },
+                      { "id": "col4", "label": "Journal Name" },
+                      { "id": "col5", "label": "Year of Publication" },
+                      { "id": "col6", "label": "Volume" },
+                      { "id": "col7", "label": "Issue No" },
+                      { "id": "col8", "label": "PP" }
+                    ],
+                    "data": [
+                      {
+                        "col1": { "text": "1" },
+                        "col2": {
+                          "text": "Ramkumar, M., Gowtham, M. S., Syed Jamaesha, S., Vigenesh, M."
+                        },
+                        "col3": {
+                          "text": "Attention induced multi-head convolutional neural network organization with MobileNetv1 transfer learning and COVID-19 diagnosis using jellyfish search optimization process on chest X-ray images"
+                        },
+                        "col4": {
+                          "text": "Biomedical Signal Processing and Control"
+                        },
+                        "col5": { "text": "2024" },
+                        "col6": { "text": "93" },
+                        "col7": { "text": "106133" },
+                        "col8": { "text": "" }
+                      },
+                      {
+                        "col1": { "text": "2" },
+                        "col2": {
+                          "text": "Gowtham, M. S., Vigenesh, M., Ramkumar, M."
+                        },
+                        "col3": {
+                          "text": "An artificial immune system-based algorithm for selfish node detection in Mobile Ad Hoc Networks (MANETs)"
+                        },
+                        "col4": {
+                          "text": "Transactions on Emerging Telecommunications Technologies"
+                        },
+                        "col5": { "text": "2024" },
+                        "col6": { "text": "35" },
+                        "col7": { "text": "2" },
+                        "col8": { "text": "" }
+                      },
+                      {
+                        "col1": { "text": "3" },
+                        "col2": { "text": "Vigenesh, M., Santhosh, R." },
+                        "col3": {
+                          "text": "An efficient stream region sink position analysis model for routing attack detection in mobile ad hoc networks"
+                        },
+                        "col4": {
+                          "text": "Computers and Electrical Engineering"
+                        },
+                        "col5": { "text": "2019" },
+                        "col6": { "text": "74" },
+                        "col7": { "text": "" },
+                        "col8": { "text": "273-280" }
+                      },
+                      {
+                        "col1": { "text": "4" },
+                        "col2": {
+                          "text": "Vigenesh, M., Ravivarman, G., Singh, P., Sharma, D., Tiwari, M."
+                        },
+                        "col3": {
+                          "text": "An Intense Systematic Review of Mobile Agent Based Harmful Threats and Attack Detection Systems in IOT Networks"
+                        },
+                        "col4": {
+                          "text": "International Conference on Advance Computing and Innovative Technologies in Engineering, ICACITE 2023"
+                        },
+                        "col5": { "text": "2023" },
+                        "col6": { "text": "3" },
+                        "col7": { "text": "" },
+                        "col8": { "text": "824–827" }
+                      },
+                      {
+                        "col1": { "text": "5" },
+                        "col2": {
+                          "text": "Singh, P., Vishnoi, R., Malik, S., Antran Vijay, S. A., Borade, M. R."
+                        },
+                        "col3": {
+                          "text": "Advancing Wireless Communication: A Comprehensive Study on Multi-User Mimo-Ofdm Techniques"
+                        },
+                        "col4": {
+                          "text": "Proceedings of International Conference on Contemporary Computing and Informatics, IC3I 2023"
+                        },
+                        "col5": { "text": "2023" },
+                        "col6": { "text": "1" },
+                        "col7": { "text": "" },
+                        "col8": { "text": "2126–2130" }
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "faculty_name": "Dr.R.Dhanapal Publications",
+          "multiContent": [
+            {
+              "table": {
+                "content": [
+                  {
+                    "head": [
+                      { "id": "col1", "label": "S.No" },
+                      { "id": "col2", "label": "Author Name" },
+                      { "id": "col3", "label": "Title of the Paper" },
+                      { "id": "col4", "label": "Journal Name" },
+                      { "id": "col5", "label": "Year of Publication" },
+                      { "id": "col6", "label": "Volume" },
+                      { "id": "col7", "label": "Issue No" },
+                      { "id": "col8", "label": "PP" }
+                    ],
+                    "data": [
+                      {
+                        "col1": { "text": "1" },
+                        "col2": {
+                          "text": "R. Dhanapal, K. Chandramohan, A. Manikandan, S. Ramalingam"
+                        },
+                        "col3": {
+                          "text": "Performance Evaluation of VANET using Directional Location Aided Routing (D-LAR) Protocol with Sleep Scheduling Algorithm"
+                        },
+                        "col4": { "text": "Ain Shams Engineering" },
+                        "col5": { "text": "March 2024" },
+                        "col6": { "text": "15" },
+                        "col7": { "text": "3" },
+                        "col8": { "text": "102458 (1-7)" }
+                      },
+                      {
+                        "col1": { "text": "2" },
+                        "col2": {
+                          "text": "R. Dhanapal, P. Anbumani, GKD Prasanna Venkatesan"
+                        },
+                        "col3": {
+                          "text": "PIRAP: AASM: An Advanced Attribute-Based Security Model for Enhancing Trustworthy Data Sharing in Cloud Computing"
+                        },
+                        "col4": {
+                          "text": "International Journal of Cooperative Information Systems"
+                        },
+                        "col5": { "text": "Jan 2024" },
+                        "col6": { "text": "33" },
+                        "col7": { "text": "1" },
+                        "col8": { "text": "2350008 (1-20)" }
+                      },
+                      {
+                        "col1": { "text": "3" },
+                        "col2": {
+                          "text": "S. Harihara Gopalan, V. Vignesh, D. Udaya Suriya Rajkumar, A. K. Velmurugan, D. Deepa, R. Dhanapal"
+                        },
+                        "col3": {
+                          "text": "Fuzzified swarm intelligence framework using FPSOR algorithm for high-speed MANET-Internet of Things (IoT)"
+                        },
+                        "col4": { "text": "Measurement: Sensors" },
+                        "col5": { "text": "February 2024" },
+                        "col6": { "text": "31" },
+                        "col7": { "text": "–" },
+                        "col8": { "text": "101000 (1-8)" }
+                      },
+                      {
+                        "col1": { "text": "4" },
+                        "col2": {
+                          "text": "Nilabar Nisha U, Manikandan A, Venkataramanan C, Dhanapal R"
+                        },
+                        "col3": {
+                          "text": "A Score based link delay aware routing protocol to improve energy optimization in wireless sensor network"
+                        },
+                        "col4": {
+                          "text": "Journal of Engineering Research",
+                          "url": "https://www.sciencedirect.com/journal/journal-of-engineering-research",
+                          "img_icon": "/images/Kahe/Innerpages/file.png",
+                          "target": "__blank"
+                        },
+                        "col5": { "text": "December 2023" },
+                        "col6": { "text": "11" },
+                        "col7": { "text": "4" },
+                        "col8": { "text": "404-413" }
+                      },
+                      {
+                        "col1": { "text": "5" },
+                        "col2": {
+                          "text": "Vishwanadham Mandala, T. Senthilnathan, S. Suganyadevi, S. Gobhinath, Dhanasekaran Selvaraj, R. Dhanapal"
+                        },
+                        "col3": {
+                          "text": "An optimized back propagation neural network for automated evaluation of health condition using sensor data"
+                        },
+                        "col4": { "text": "Measurement: Sensors" },
+                        "col5": { "text": "February 2024" },
+                        "col6": { "text": "29" },
+                        "col7": { "text": "–" },
+                        "col8": { "text": "100846 (1-7)" }
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "faculty_name": "Dr.R.Santhosh Publications",
+          "multiContent": [
+            {
+              "table": {
+                "content": [
+                  {
+                    "head": [
+                      { "id": "col1", "label": "S.No" },
+                      { "id": "col2", "label": "Author Name" },
+                      { "id": "col3", "label": "Title of the Paper" },
+                      { "id": "col4", "label": "Journal Name" },
+                      { "id": "col5", "label": "Year of Publication" },
+                      { "id": "col6", "label": "Volume" },
+                      { "id": "col7", "label": "Issue No" },
+                      { "id": "col8", "label": "PP" }
+                    ],
+                    "data": [
+                      {
+                        "col1": { "text": "1" },
+                        "col2": {
+                          "text": "Sivadasan, E.T., Mohana Sundaram, N., Santhosh, R."
+                        },
+                        "col3": {
+                          "text": "Stock market forecasting using deep learning with long short-term memory and gated recurrent unit"
+                        },
+                        "col4": {
+                          "text": "Soft Computing",
+                          "url": "https://www.scopus.com/sourceid/28554?origin=resultslist",
+                          "target": "_blank"
+                        },
+                        "col5": { "text": "2024" },
+                        "col6": { "text": "28" },
+                        "col7": { "text": "4" },
+                        "col8": { "text": "3267–3282" }
+                      },
+                      {
+                        "col1": { "text": "2" },
+                        "col2": {
+                          "text": "Premkumar, N., Santhosh, R.",
+
+                          "target": "_blank"
+                        },
+                        "col3": {
+                          "text": "Pelican optimization algorithm with blockchain for secure load balancing in fog computing",
+                          "url": "https://www.scopus.com/record/display.uri?eid=2-s2.0-85176748913&origin=resultslist",
+                          "target": "_blank"
+                        },
+                        "col4": {
+                          "text": "Multimedia Tools and Applications",
+                          "url": "https://www.scopus.com/sourceid/25627?origin=resultslist",
+                          "target": "_blank"
+                        },
+                        "col5": { "text": "2023" },
+                        "col6": { "text": "1" },
+                        "col7": { "text": "1" },
+                        "col8": { "text": "1-23" }
+                      },
+                      {
+                        "col1": { "text": "3" },
+                        "col2": {
+                          "text": "Bhanu, D., Santhosh, R.",
+
+                          "target": "_blank"
+                        },
+                        "col3": {
+                          "text": "Fuzzy enhanced location aware secure multicast routing protocol for balancing energy and security in wireless sensor network",
+                          "url": "https://www.scopus.com/record/display.uri?eid=2-s2.0-85168916578&origin=resultslist",
+                          "target": "_blank"
+                        },
+                        "col4": {
+                          "text": "Wireless Networks",
+                          "url": "https://www.scopus.com/sourceid/17569?origin=resultslist",
+                          "target": "_blank"
+                        },
+                        "col5": { "text": "2023" },
+                        "col6": { "text": "1" },
+                        "col7": { "text": "1" },
+                        "col8": { "text": "1-20" }
+                      },
+                      {
+                        "col1": { "text": "4" },
+                        "col2": {
+                          "text": "Khan, M.S.A., Santhosh, R.",
+
+                          "target": "_blank"
+                        },
+                        "col3": {
+                          "text": "Task scheduling in cloud computing using hybrid optimization algorithm",
+                          "url": "https://www.scopus.com/record/display.uri?eid=2-s2.0-85118557415&origin=resultslist",
+                          "target": "_blank"
+                        },
+                        "col4": {
+                          "text": "Soft Computing",
+                          "url": "https://www.scopus.com/sourceid/28554?origin=resultslist",
+                          "target": "_blank"
+                        },
+                        "col5": { "text": "2022" },
+                        "col6": { "text": "26" },
+                        "col7": { "text": "23" },
+                        "col8": { "text": "13069–13079" }
+                      },
+                      {
+                        "col1": { "text": "5" },
+                        "col2": {
+                          "text": "Khan, M.S.A., Santhosh, R.",
+
+                          "target": "_blank"
+                        },
+                        "col3": {
+                          "text": "Hybrid Optimization Algorithm for VM Migration in Cloud Computing",
+                          "url": "https://www.scopus.com/record/display.uri?eid=2-s2.0-85132337111&origin=resultslist",
+                          "target": "_blank"
+                        },
+                        "col4": {
+                          "text": "Computers and Electrical Engineering",
+                          "url": "https://www.scopus.com/sourceid/18159?origin=resultslist",
+                          "target": "_blank"
+                        },
+                        "col5": { "text": "2022" },
+                        "col6": { "text": "102" },
+                        "col7": { "text": "–" },
+                        "col8": { "text": "108-152" }
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        },
+
+        {
+          "faculty_name": "Dr.S.P.Sasirekha Publications",
+          "multiContent": [
+            {
+              "table": {
+                "content": [
+                  {
+                    "head": [
+                      { "id": "col1", "label": "S.No" },
+                      { "id": "col2", "label": "Author Name" },
+                      { "id": "col3", "label": "Title of the Paper" },
+                      { "id": "col4", "label": "Journal Name" },
+                      { "id": "col5", "label": "Year of Publication" },
+                      { "id": "col6", "label": "Volume" },
+                      { "id": "col7", "label": "Issue No" },
+                      { "id": "col8", "label": "PP" }
+                    ],
+                    "data": [
+                      {
+                        "col1": { "text": "1" },
+                        "col2": {
+                          "text": "Swathika, R., Radha, N., Sasirekha, S.P., Dhanabal, S."
+                        },
+                        "col3": {
+                          "text": "Flood susceptibility in urban environment using multi-layered neural network model from satellite imagery sources"
+                        },
+                        "col4": { "text": "Global Nest Journal" },
+                        "col5": { "text": "2023" },
+                        "col6": { "text": "25" },
+                        "col7": { "text": "8" },
+                        "col8": { "text": "60-73" }
+                      },
+                      {
+                        "col1": { "text": "2" },
+                        "col2": {
+                          "text": "Sherubha, P., Jubair Ahmed, L., Kannan, K.S., Sasirekha, S.P."
+                        },
+                        "col3": {
+                          "text": "Adaptive boosting model for breast cancer prediction"
+                        },
+                        "col4": {
+                          "text": "Journal of Intelligent and Fuzzy Systems"
+                        },
+                        "col5": { "text": "2023" },
+                        "col6": { "text": "45" },
+                        "col7": { "text": "2" },
+                        "col8": { "text": "3417–3431" }
+                      },
+                      {
+                        "col1": { "text": "3" },
+                        "col2": {
+                          "text": "P. Sherubha, S. P. Sasirekha, A. Dinesh Kumar Anguraj, J. Vakula Rani"
+                        },
+                        "col3": {
+                          "text": "An Efficient Unsupervised Learning Approach for Detecting Anomaly in Cloud"
+                        },
+                        "col4": {
+                          "text": "Computer Systems Science and Engineering"
+                        },
+                        "col5": { "text": "2023" },
+                        "col6": { "text": "45" },
+                        "col7": { "text": "1" },
+                        "col8": { "text": "149-166" }
+                      },
+                      {
+                        "col1": { "text": "4" },
+                        "col2": {
+                          "text": "Nagendra Singh, SP Sasirekha, Amol Dhakne, BV Sai Thrinath, D Ramya, R Thiagarajan"
+                        },
+                        "col3": {
+                          "text": "IOT enabled hybrid model with learning ability for E-health care systems"
+                        },
+                        "col4": { "text": "Measurement: Sensors" },
+                        "col5": { "text": "2022" },
+                        "col6": { "text": "24" },
+                        "col7": { "text": "1" },
+                        "col8": { "text": "1-5" }
+                      },
+                      {
+                        "col1": { "text": "5" },
+                        "col2": {
+                          "text": "P Sherubha, SP Sasirekha, V Manikandan, K Gowsic, N Mohanasundaram"
+                        },
+                        "col3": {
+                          "text": "Graph based event measurement for analyzing distributed anomalies in sensor networks"
+                        },
+                        "col4": { "text": "Sādhanā" },
+                        "col5": { "text": "2020" },
+                        "col6": { "text": "45" },
+                        "col7": { "text": "–" },
+                        "col8": { "text": "1-5" }
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        },
+
+        {
+          "faculty_name": "Dr.T.Mohanraj Publications",
+          "multiContent": [
+            {
+              "table": {
+                "content": [
+                  {
+                    "head": [
+                      { "id": "col1", "label": "S.No" },
+                      { "id": "col2", "label": "Author Name" },
+                      { "id": "col3", "label": "Title of the Paper" },
+                      { "id": "col4", "label": "Journal Name" },
+                      { "id": "col5", "label": "Year of Publication" },
+                      { "id": "col6", "label": "Volume" },
+                      { "id": "col7", "label": "Issue No" },
+                      { "id": "col8", "label": "PP" }
+                    ],
+                    "data": [
+                      {
+                        "col1": { "text": "1" },
+                        "col2": { "text": "T Mohanraj, R Santhosh" },
+                        "col3": {
+                          "text": "Security and privacy issue in multi-cloud accommodating Intrusion Detection System"
+                        },
+                        "col4": {
+                          "text": "Distributed and parallel databases"
+                        },
+                        "col5": { "text": "2023" },
+                        "col6": { "text": "41" },
+                        "col7": { "text": "1" },
+                        "col8": { "text": "155-155" }
+                      },
+                      {
+                        "col1": { "text": "2" },
+                        "col2": { "text": "T Mohanraj, R Santhosh" },
+                        "col3": {
+                          "text": "Hybrid encryption algorithm for big data security in the Hadoop distributed file system"
+                        },
+                        "col4": {
+                          "text": "Computer Assisted Methods in Engineering and Science"
+                        },
+                        "col5": { "text": "2022" },
+                        "col6": { "text": "29" },
+                        "col7": { "text": "1-2" },
+                        "col8": { "text": "33-48" }
+                      },
+                      {
+                        "col1": { "text": "3" },
+                        "col2": {
+                          "text": "S Pavalarajan, B Arun Kumar, S Shahul Hammed, K Haripriya, C Preethi, T Mohanraj"
+                        },
+                        "col3": {
+                          "text": "Detection of Alzheimer’s disease at Early Stage using Machine Learning"
+                        },
+                        "col4": {
+                          "text": "International Conference on Advanced Computing Technologies and Applications"
+                        },
+                        "col5": { "text": "2022" },
+                        "col6": { "text": "3" },
+                        "col7": { "text": "4" },
+                        "col8": { "text": "1-5" }
+                      },
+                      {
+                        "col1": { "text": "4" },
+                        "col2": { "text": "T Mohanraj, R Santhosh" },
+                        "col3": {
+                          "text": "Multi-swarm optimization model for multi-cloud scheduling for enhanced quality of services"
+                        },
+                        "col4": { "text": "Soft Computing" },
+                        "col5": { "text": "2022" },
+                        "col6": { "text": "26" },
+                        "col7": { "text": "23" },
+                        "col8": { "text": "12985-12995" }
+                      },
+                      {
+                        "col1": { "text": "5" },
+                        "col2": {
+                          "text": "Sreehari, K., Anas, T.P., Krishna, A.S.A., Mohamed Suhail, B., Mohanraj, T."
+                        },
+                        "col3": {
+                          "text": "Automated Database Management System using Artificial Intelligence"
+                        },
+                        "col4": {
+                          "text": "International Conference on Electronics and Sustainable Communication Systems"
+                        },
+                        "col5": { "text": "2022" },
+                        "col6": { "text": "21" },
+                        "col7": { "text": "2" },
+                        "col8": { "text": "789-796" }
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        },
+
+        {
+          "faculty_name": "Mr.Anandhasilambarasan Publications",
+          "multiContent": [
+            {
+              "table": {
+                "content": [
+                  {
+                    "head": [
+                      { "id": "col1", "label": "S.No" },
+                      { "id": "col2", "label": "Author Name" },
+                      { "id": "col3", "label": "Title of the Paper" },
+                      { "id": "col4", "label": "Journal Name" },
+                      { "id": "col5", "label": "Year of Publication" },
+                      { "id": "col6", "label": "Volume" },
+                      { "id": "col7", "label": "Issue No" },
+                      { "id": "col8", "label": "PP" }
+                    ],
+                    "data": [
+                      {
+                        "col1": { "text": "1" },
+                        "col2": {
+                          "text": "Kumar, P., Anandhasilambarasan, D., Kumar, B., Karthigaikumar, P., Ingle, A."
+                        },
+                        "col3": {
+                          "text": "Improving UHVDC Wall Bearings Electric Reliability: Grading Ring Optimization and Field Investigation"
+                        },
+                        "col4": {
+                          "text": "International Conference on Advances in Computation, Communication and Information Technology"
+                        },
+                        "col5": { "text": "2023" },
+                        "col6": { "text": "" },
+                        "col7": { "text": "" },
+                        "col8": { "text": "123–127" }
+                      },
+                      {
+                        "col1": { "text": "2" },
+                        "col2": {
+                          "text": "Sharma, U.C., Kumar, J.R.R., Kumari, M., Latha, B., Jadhav, P."
+                        },
+                        "col3": {
+                          "text": "Analyzing and Developing the Security of DNS-Based Authentication in Wireless Sensor Network"
+                        },
+                        "col4": {
+                          "text": "International Conference on Smart Generation Computing, Communication and Networking, SMART GENCON 2023"
+                        },
+                        "col5": { "text": "2023" },
+                        "col6": { "text": "3" },
+                        "col7": { "text": "" },
+                        "col8": { "text": "" }
+                      },
+                      {
+                        "col1": { "text": "3" },
+                        "col2": {
+                          "text": "Kumar, J.R.R., Chaturvedi, M., Anandhasilambarasan, D., Nawadkar, A.R., Va, M."
+                        },
+                        "col3": {
+                          "text": "Assessing the Efficiency of AI for Multivariate Data Analysis"
+                        },
+                        "col4": {
+                          "text": "International Conference on Smart Generation Computing, Communication and Networking, SMART GENCON 2023"
+                        },
+                        "col5": { "text": "2023" },
+                        "col6": { "text": "3" },
+                        "col7": { "text": "" },
+                        "col8": { "text": "" }
+                      },
+                      {
+                        "col1": { "text": "4" },
+                        "col2": {
+                          "text": "Joyce Jacob, J., Jadhav, V.D., Singh, B., Ganguli, R., Anandhasilambarasan, D."
+                        },
+                        "col3": {
+                          "text": "The Estimation Analysis and Impact of Mobile Device Security on Wireless Network Security"
+                        },
+                        "col4": {
+                          "text": "International Conference on Smart Generation Computing, Communication and Networking, SMART GENCON 2023"
+                        },
+                        "col5": { "text": "2023" },
+                        "col6": { "text": "3" },
+                        "col7": { "text": "" },
+                        "col8": { "text": "" }
+                      },
+                      {
+                        "col1": { "text": "5" },
+                        "col2": {
+                          "text": "Prakash, E.P., Satheshkumar, K., Anandhasilambarasan, D., Prasath, B."
+                        },
+                        "col3": {
+                          "text": "An Intelligent Deep Learning Strategy for Breast Cancer prediction using feature ensemble learning"
+                        },
+                        "col4": {
+                          "text": "IEEE International Conference on Research Methodologies in Knowledge Management, Artificial Intelligence and Telecommunication Engineering, RMKMATE 2023"
+                        },
+                        "col5": { "text": "2023" },
+                        "col6": { "text": "1" },
+                        "col7": { "text": "" },
+                        "col8": { "text": "" }
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "faculty_name": "Mrs.K.Malathi Publications",
+          "multiContent": [
+            {
+              "table": {
+                "content": [
+                  {
+                    "head": [
+                      { "id": "col1", "label": "S.N" },
+                      { "id": "col2", "label": "Author Name" },
+                      { "id": "col3", "label": "Title of the Paper" },
+                      { "id": "col4", "label": "Journal Name" },
+                      { "id": "col5", "label": "Year of Publication" },
+                      { "id": "col6", "label": "Volume" },
+                      { "id": "col7", "label": "Issue No" },
+                      { "id": "col8", "label": "PP" }
+                    ],
+                    "data": [
+                      {
+                        "col1": { "text": "1" },
+                        "col2": {
+                          "text": "K Malathi, N.Mohanasundaram, Santhosh. R, Parthasarathy. V, Saravana Kumar. G, Somnath Roy, Bappaditya Kanrar",
+
+                          "target": "_blank"
+                        },
+                        "col3": {
+                          "text": "Identification Tea Pest Infestation Against Red Spider Mite And Red Slug Catterpillar",
+                          "url": "https://ieeexplore.ieee.org/abstract/document/10434106/",
+                          "target": "_blank"
+                        },
+                        "col4": {
+                          "text": "2023 International Conference on Emerging Research in Computational Science (ICERCS)"
+                        },
+                        "col5": { "text": "Feb 2024" },
+                        "col6": { "text": "–" },
+                        "col7": { "text": "–" },
+                        "col8": { "text": "ICERCS2023-949" }
+                      },
+                      {
+                        "col1": { "text": "2" },
+                        "col2": {
+                          "text": "D Aishwarya, RP Charulatha, M Niranjan, K Malathi"
+                        },
+                        "col3": {
+                          "text": "Intelligent Autism Disease Prediction System Using Machine Learning",
+                          "url": "https://ieeexplore.ieee.org/abstract/document/10220779/",
+                          "target": "_blank"
+                        },
+                        "col4": {
+                          "text": "2023 5th International Conference on Inventive Research in Computing Applications (ICIRCA)"
+                        },
+                        "col5": { "text": "2023/8/3" },
+                        "col6": { "text": "–" },
+                        "col7": { "text": "–" },
+                        "col8": { "text": "1146-1151" }
+                      },
+                      {
+                        "col1": { "text": "3" },
+                        "col2": {
+                          "text": "D Aishwarya, RP Charulatha, M Niranjan, K Malathi"
+                        },
+                        "col3": {
+                          "text": "Effective Prediction of Autism Disease using Data Mining Techniques",
+                          "url": "https://ieeexplore.ieee.org/abstract/document/10134517/",
+                          "target": "_blank"
+                        },
+                        "col4": {
+                          "text": "2023 International Conference on Inventive Computation Technologies (ICICT)"
+                        },
+                        "col5": { "text": "2023/4/26" },
+                        "col6": { "text": "–" },
+                        "col7": { "text": "–" },
+                        "col8": { "text": "761-766" }
+                      },
+                      {
+                        "col1": { "text": "4" },
+                        "col2": {
+                          "text": "JS Gopinath, A Elsden Christober, KL Ravindrananth, K Malathi"
+                        },
+                        "col3": {
+                          "text": "LoRa WAN Communication using Wireless Sensor Network",
+                          "url": "https://ieeexplore.ieee.org/abstract/document/9936293/",
+                          "target": "_blank"
+                        },
+                        "col4": {
+                          "text": "2022 International Conference on Edge Computing and Applications (ICECAA)"
+                        },
+                        "col5": { "text": "2022/10/13" },
+                        "col6": { "text": "–" },
+                        "col7": { "text": "–" },
+                        "col8": { "text": "406-412" }
+                      },
+                      {
+                        "col1": { "text": "5" },
+                        "col2": {
+                          "text": "Riyasdeen. A, Vimal. T, Thilipkumar. V.S, Malathi. K",
+
+                          "target": "_blank"
+                        },
+                        "col3": {
+                          "text": "Machine Learning Approaches based Fake News Detection",
+                          "url": "https://ieeexplore.ieee.org/abstract/document/9936460/",
+                          "target": "_blank"
+                        },
+                        "col4": {
+                          "text": "2022 International Conference on Edge Computing and Applications (ICECAA)"
+                        },
+                        "col5": { "text": "2022/10/13" },
+                        "col6": { "text": "–" },
+                        "col7": { "text": "–" },
+                        "col8": { "text": "1406-1410" }
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "faculty_name": "Mrs.K.Tharageswari Publications",
+          "multiContent": [
+            {
+              "table": {
+                "content": [
+                  {
+                    "head": [
+                      { "id": "col1", "label": "S.No" },
+                      { "id": "col2", "label": "Author Name" },
+                      { "id": "col3", "label": "Title of the Paper" },
+                      { "id": "col4", "label": "Journal Name" },
+                      { "id": "col5", "label": "Year of Publication" },
+                      { "id": "col6", "label": "Volume" },
+                      { "id": "col7", "label": "Issue No" },
+                      { "id": "col8", "label": "PP" }
+                    ],
+                    "data": [
+                      {
+                        "col1": { "text": "1" },
+                        "col2": {
+                          "text": "Palanikumar, S., Queen, M.P.F., Mathupriya, S., Tharageswari, K."
+                        },
+                        "col3": {
+                          "text": "PALMPRINT AUTHENTICATION USING SYMBOLIC AGGREGATE APPROXIMATION FEATURES WITH IMPROVED ENHANCEMENT TECHNIQUES"
+                        },
+                        "col4": {
+                          "text": "ARPN Journal of Engineering and Applied Sciences"
+                        },
+                        "col5": { "text": "2023" },
+                        "col6": { "text": "18" },
+                        "col7": { "text": "4" },
+                        "col8": { "text": "401-411" }
+                      },
+                      {
+                        "col1": { "text": "2" },
+                        "col2": {
+                          "text": "Tharageswari, K., Mohana Sundaram, N., Santhosh, R."
+                        },
+                        "col3": {
+                          "text": "A CONCATENATION APPROACH-BASED DISEASE PREDICTION MODEL FOR SUSTAINABLE HEALTH CARE SYSTEM"
+                        },
+                        "col4": {
+                          "text": "System Research and Information Technologies"
+                        },
+                        "col5": { "text": "2023" },
+                        "col6": { "text": "–" },
+                        "col7": { "text": "3" },
+                        "col8": { "text": "81-95" }
+                      },
+                      {
+                        "col1": { "text": "3" },
+                        "col2": {
+                          "text": "Tharageswari, K., Kumar, P.M.V., Kiruba, J."
+                        },
+                        "col3": {
+                          "text": "An Efficient Gusture Recognition For Dumb And Deaf People Using Iot"
+                        },
+                        "col4": { "text": "Journal of Critical Reviews" },
+                        "col5": { "text": "2020" },
+                        "col6": { "text": "7" },
+                        "col7": { "text": "4" },
+                        "col8": { "text": "858-861" }
+                      },
+                      {
+                        "col1": { "text": "4" },
+                        "col2": {
+                          "text": "Saraswathi, R., Pavithra, D., Gokuldev, S., Jebakumar, D.I., Tharageswari, K."
+                        },
+                        "col3": {
+                          "text": "Designing the Prediction Protocol based on Sparrow Search Optimization Algorithm with Vibrational Auto Encoder in E-Healthcare"
+                        },
+                        "col4": {
+                          "text": "International Conference on Smart Systems and Inventive Technology, ICSSIT 2023"
+                        },
+                        "col5": { "text": "2023" },
+                        "col6": { "text": "–" },
+                        "col7": { "text": "5" },
+                        "col8": { "text": "1437-1444" }
+                      },
+                      {
+                        "col1": { "text": "5" },
+                        "col2": {
+                          "text": "Thomas, A.K., Poovizhi, P., Saravanan, M., Tharageswari, K."
+                        },
+                        "col3": {
+                          "text": "Animal Intrusion Detection using Deep Learning for Agricultural Fields"
+                        },
+                        "col4": {
+                          "text": "International Conference on Smart Systems and Inventive Technology, 2023"
+                        },
+                        "col5": { "text": "2023" },
+                        "col6": { "text": "–" },
+                        "col7": { "text": "5" },
+                        "col8": { "text": "1021-1027" }
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "faculty_name": "Mrs.N.Mekala Publications",
+          "multiContent": [
+            {
+              "table": {
+                "content": [
+                  {
+                    "head": [
+                      { "id": "col1", "label": "S.No" },
+                      { "id": "col2", "label": "Author Name" },
+                      { "id": "col3", "label": "Title of the Paper" },
+                      { "id": "col4", "label": "Journal Name" },
+                      { "id": "col5", "label": "Year of Publication" },
+                      { "id": "col6", "label": "Volume" },
+                      { "id": "col7", "label": "Issue No" },
+                      { "id": "col8", "label": "PP" }
+                    ],
+                    "data": [
+                      {
+                        "col1": { "text": "1" },
+                        "col2": {
+                          "text": "C Suganthi, K Padmanaban, SV Sudha, N Mekala"
+                        },
+                        "col3": {
+                          "text": "Neuro-quantum Dimensions based Digital Image Processing for Optimal Edge Extraction"
+                        },
+                        "col4": { "text": "Neuro Quantology" },
+                        "col5": { "text": "2022" },
+                        "col6": { "text": "20" },
+                        "col7": { "text": "8" },
+                        "col8": { "text": "324-330" }
+                      },
+                      {
+                        "col1": { "text": "2" },
+                        "col2": {
+                          "text": "K Vinothkumar, N Mekala, SP Sasirekha, R Reshma"
+                        },
+                        "col3": {
+                          "text": "Predicting High-Risk Areas for Crime Hotspot Using Hybrid KNN Machine Learning Framework",
+                          "url": "https://www.scopus.com/record/display.uri?eid=2-s2.0-85172228758&origin=resultslist",
+                          "target": "_blank"
+                        },
+                        "col4": {
+                          "text": "2023 5th International Conference on Inventive Research in Computing Applications (ICIRCA)"
+                        },
+                        "col5": { "text": "2023" },
+                        "col6": { "text": "–" },
+                        "col7": { "text": "1" },
+                        "col8": { "text": "845-852" }
+                      },
+                      {
+                        "col1": { "text": "3" },
+                        "col2": {
+                          "text": "K Vinothkumar, KS Ranjith, RR Vikram, N Mekala"
+                        },
+                        "col3": {
+                          "text": "Crime Hotspot Identification using SVM in Machine Learning",
+                          "url": "https://www.scopus.com/record/display.uri?eid=2-s2.0-85159081969&origin=resultslist",
+                          "target": "_blank"
+                        },
+                        "col4": {
+                          "text": "2023 International Conference on Sustainable Computing and Data Communication Systems (ICSCDS)"
+                        },
+                        "col5": { "text": "2023" },
+                        "col6": { "text": "–" },
+                        "col7": { "text": "1" },
+                        "col8": { "text": "366-369" }
+                      },
+                      {
+                        "col1": { "text": "4" },
+                        "col2": { "text": "R Reshma, R Santhosh, N Mekala" },
+                        "col3": {
+                          "text": "An analytical approach to fraudulent credit card transaction detection using various machine learning algorithms",
+                          "url": "https://scholar.google.com/scholar?oi=bibs&cluster=2105575960665464239&btnI=1&hl=en",
+                          "target": "_blank"
+                        },
+                        "col4": {
+                          "text": "2023 Second International Conference on Electronics and Renewable Systems (ICEARS)"
+                        },
+                        "col5": { "text": "2023" },
+                        "col6": { "text": "–" },
+                        "col7": { "text": "1" },
+                        "col8": { "text": "1400-1404" }
+                      },
+                      {
+                        "col1": { "text": "5" },
+                        "col2": {
+                          "text": "S Dharshini, S Geetha, S Arya, N Mekala"
+                        },
+                        "col3": {
+                          "text": "An Enhanced Brain Tumor Detection Scheme using a Hybrid Deep Learning Model",
+                          "url": "https://scholar.google.com/scholar?oi=bibs&cluster=8289623815213405017&btnI=1&hl=en",
+                          "target": "_blank"
+                        },
+                        "col4": {
+                          "text": "2023 Second International Conference on Electronics and Renewable Systems (ICEARS)"
+                        },
+                        "col5": { "text": "2023" },
+                        "col6": { "text": "–" },
+                        "col7": { "text": "1" },
+                        "col8": { "text": "1395-1399" }
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "faculty_name": "Ms.K.Vanitha Publications",
+          "multiContent": [
+            {
+              "table": {
+                "content": [
+                  {
+                    "head": [
+                      { "id": "col1", "label": "S.No" },
+                      { "id": "col2", "label": "Author Name" },
+                      { "id": "col3", "label": "Title of the Paper" },
+                      { "id": "col4", "label": "Journal Name" },
+                      { "id": "col5", "label": "Year of Publication" },
+                      { "id": "col6", "label": "Volume" },
+                      { "id": "col7", "label": "Issue No" },
+                      { "id": "col8", "label": "PP" }
+                    ],
+                    "data": [
+                      {
+                        "col1": { "text": "1" },
+                        "col2": {
+                          "text": "N Thrimoorthy, R Chandramma, Soumya Unnikrishnan, K Vanitha"
+                        },
+                        "col3": {
+                          "text": "Ornstein Uhlenbeck Cache Obliviousness Neural Congestion Control in Wireless Network for IOT Data Transmission",
+                          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oyE0J0gAAAAJ&sortby=pubdate&citation_for_view=oyE0J0gAAAAJ:maZDTaKrznsC",
+                          "target": "_blank"
+                        },
+                        "col4": {
+                          "text": "INTERNATIONAL JOURNAL OF COMPUTER NETWORKS AND APPLICATIONS"
+                        },
+                        "col5": { "text": "2023" },
+                        "col6": { "text": "10" },
+                        "col7": { "text": "1" },
+                        "col8": { "text": "68-83" }
+                      },
+                      {
+                        "col1": { "text": "2" },
+                        "col2": {
+                          "text": "Dr. Heli Amit Shah, Sweta Kumari Barnwal, Ms. Sakshi Sharma, Arjun Singh, Dr. Monika Abrol, Vanitha K"
+                        },
+                        "col3": {
+                          "text": "A Time-Frequency Grounded ECG Feature Abstraction Systems based Advanced Design for Improvement of ANN for CA classification",
+                          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oyE0J0gAAAAJ&sortby=pubdate&citation_for_view=oyE0J0gAAAAJ:hMod-77fHWUC",
+                          "target": "_blank"
+                        },
+                        "col4": {
+                          "text": "INTERNATIONAL JOURNAL OF INTELLIGENT SYSTEMS AND APPLICATIONS IN ENGINEERING"
+                        },
+                        "col5": { "text": "2023" },
+                        "col6": { "text": "11" },
+                        "col7": { "text": "8" },
+                        "col8": { "text": "319–327" }
+                      },
+                      {
+                        "col1": { "text": "3" },
+                        "col2": {
+                          "text": "K Chokkanathan, TR Mahesh, M Mohamed Musthafa, K Vanitha, V Vivek"
+                        },
+                        "col3": {
+                          "text": "MLPDR: High Performance ML Algorithms for the Prediction of Diabetes Retinopathy",
+                          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oyE0J0gAAAAJ&sortby=pubdate&citation_for_view=oyE0J0gAAAAJ:RYcK_YlVTxYC",
+                          "target": "_blank"
+                        },
+                        "col4": {
+                          "text": "IEEE Xplore-2023 International Conference on Network, Multimedia and Information Technology (NMITCON)"
+                        },
+                        "col5": { "text": "2023" },
+                        "col6": { "text": "–" },
+                        "col7": { "text": "–" },
+                        "col8": { "text": "1-7" }
+                      },
+                      {
+                        "col1": { "text": "4" },
+                        "col2": {
+                          "text": "TR Mahesh, T Rajan, K Vanitha, HK Shashikala"
+                        },
+                        "col3": {
+                          "text": "Intelligent Systems for Medical Diagnostics with the Detection of Diabetic Retinopathy at Reduced Entropy",
+                          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oyE0J0gAAAAJ&sortby=pubdate&citation_for_view=oyE0J0gAAAAJ:J_g5lzvAfSwC",
+                          "target": "_blank"
+                        },
+                        "col4": {
+                          "text": "IEEE Xplore-2023 International Conference on Network, Multimedia and Information Technology (NMITCON)"
+                        },
+                        "col5": { "text": "2023" },
+                        "col6": { "text": "–" },
+                        "col7": { "text": "–" },
+                        "col8": { "text": "1-8" }
+                      },
+                      {
+                        "col1": { "text": "5" },
+                        "col2": {
+                          "text": "Greeshma G. S, Dr. Bindiya, Ahuja, Harshita Samota, Dr. K. Vanitha, Alok Dubey, Sheetal Mujoo, Saneesh P. S."
+                        },
+                        "col3": {
+                          "text": "A novel Approach for Biomedical Text Classification Using Deep Learning and NLP for Disease Prediction"
+                        },
+                        "col4": {
+                          "text": "INTERNATIONAL JOURNAL OF INTELLIGENT SYSTEMS AND APPLICATIONS IN ENGINEERING"
+                        },
+                        "col5": { "text": "2024" },
+                        "col6": { "text": "12" },
+                        "col7": { "text": "3" },
+                        "col8": { "text": "21-30" }
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "faculty_name": "Mrs.S.Nandhini Publications",
+          "multiContent": [
+            {
+              "table": {
+                "content": [
+                  {
+                    "head": [
+                      { "id": "col1", "label": "S.No" },
+                      { "id": "col2", "label": "Author Name" },
+                      { "id": "col3", "label": "Title of the Paper" },
+                      { "id": "col4", "label": "Journal Name" },
+                      { "id": "col5", "label": "Year of Publication" },
+                      { "id": "col6", "label": "Volume" },
+                      { "id": "col7", "label": "Issue No" },
+                      { "id": "col8", "label": "PP" }
+                    ],
+                    "data": [
+                      {
+                        "col1": { "text": "1" },
+                        "col2": { "text": "Mrs.S Nandhini" },
+                        "col3": {
+                          "text": "A Heirarichal OLSR Wireless Sensor Network Attack Detection using Machine Learning Approach"
+                        },
+                        "col4": {
+                          "text": "Second International Conference on Applied Artificial Intelligence and Computing (ICAAIC 2023), IEEE Xplore"
+                        },
+                        "col5": { "text": "2023" },
+                        "col6": { "text": "–" },
+                        "col7": { "text": "2nd" },
+                        "col8": { "text": "–" }
+                      },
+                      {
+                        "col1": { "text": "2" },
+                        "col2": { "text": "Mrs.S Nandhini" },
+                        "col3": {
+                          "text": "Survey on Wireless Sensor Network Attack Detection using Machine Learning Approach"
+                        },
+                        "col4": {
+                          "text": "7th International Conference on Intelligent Computing and Control Systems (ICICCS-2023)"
+                        },
+                        "col5": { "text": "2023" },
+                        "col6": { "text": "–" },
+                        "col7": { "text": "7th" },
+                        "col8": { "text": "–" }
+                      },
+                      {
+                        "col1": { "text": "3" },
+                        "col2": { "text": "Mrs.S Nandhini" },
+                        "col3": {
+                          "text": "IOT BASED PREDICTION OF RAINFALL FORECAST IN COASTAL REGIONS USING DEEP REINFORCEMENT MODEL"
+                        },
+                        "col4": { "text": "Measurement: Sensors (2023)" },
+                        "col5": { "text": "2023" },
+                        "col6": { "text": "–" },
+                        "col7": {
+                          "text": "https://doi.org/10.1016/j.measen.2023.100877"
+                        },
+                        "col8": { "text": "–" }
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
           ]
         }
       ]
     },
     {
       "tab": "Events",
-      "slug": "department-of-computer-science-engineering",
+      "slug": "department-of-computer-science-and-engineering",
+      "breadcrumbItems": [
+        { "label": "Academics", "href": "academics" },
+        {
+          "label": "Arts, Science, Commerce and Management",
+          "href": "academics/arts-science-and-humanities/"
+        },
+
+        {
+          "label": "Department of Computer Science and Engineering",
+          "href": "/academics/arts-science-and-humanities/department-of-computer-science-and-engineering"
+        },
+        { "label": "Events" }
+      ],
       "items": [
         {
           "title": "National Conference / Seminar / Symposium",
@@ -648,6 +2115,7 @@
         {
           "title": "Other Activites",
           "content": [
+            "Skill training program on “AI For Data Analysis and Automation” for II-year B.E. Computer Science and Engineering students of KAHE from 06.01.2026 to 08.01.2026.",
             "One day National Level TECH FEST-2K26 on 12.02.2026.",
             "Career Counselling Guidance program on “Next-Gen Software Careers: From Cloud to AI” for the students of IV B.E Computer Science and Engineering on 25.11.2025.",
             "Faculty Development Program on “Data Science in Practice: Tools, Framework and Case studies” for the faculty members of Computer Science and Engineering from 17.11.2025 to 21.11.2025.",

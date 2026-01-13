@@ -525,7 +525,7 @@
         },
         {
           "type": "gallery",
-          "slug": "department-of-microbiology",
+          "slug": "department-of-computer-science",
           "breadcrumbItems": [
             {
               "label": "Academics",
@@ -536,7 +536,7 @@
               "href": "academics/arts-science-and-humanities/"
             },
             {
-              "label": "Department of Microbiology",
+              "label": "Department of Computer Science",
               "href": "/academics/arts-science-and-humanities/department-of-microbiology"
             },
             {
@@ -1440,44 +1440,7 @@
             }
           ]
         },
-        {
-          "title": "Events",
-          "content": [
-            "Seminar “Hardware-Assisted Virtualization Technologies in OS” on 17-06.2025",
-            "Two-Day Hands-on Training Session on “Creating and Identifying Phishing Attacks using Go Phish” on 26-06-2025 and 27-06-2025",
-            "Three-Day Bootcamp – “Bootcamp Blitz 2025: Design, Code & Conquer” on 15-07-2025 to 17-07-2025",
-            "Guest Lecture on The Role of AI in Digital Marketing: Personalized Campaigns and Predictive Analytics on 22-08-2025",
-            "Two-Days Hands on Training – “Python Full Stack Development” on 6-8-2025 to 07-08-2025",
-            "Seminar on “Opportunities on Data Science & Machine Learning” on 08-08-2025",
-            "Seminar on “Intrinsic Skills Development” on 26-08.2025",
-            "Guest Lecture on “AI in Natural Language Processing: Making Machines Understand Language” on 12-09-2025",
-            "Workshop on “Step into Mobile Innovation: Android Development Workshop” on 16-09-2025 & 17-09-2025",
-            "Seminar on Indian Knowledge Systems: Information and Initiatives on 17-09-2025",
-            "Day Celebration “National Unity Day-Sardar Vallabhbhai Patel Birthday” on 31-10-2025",
-            "Entrepreneurship as a Career Choice on 03-11-2024",
-            "RPA – Robotics Process Automation 18-09-2024 to 19-09-2024",
-            "Usage of Online Coding Platforms on 29-08-2024 to 30-08-2024",
-            "Startup Innovation Business Plan – Best Innovations – Business Plan Competition on 16-08-2023 to 17-08-2023 and 21-08-2023",
-            "Step by Step Guide to PAN & AADHAR Application and their Importance on 28-08-2024",
-            "Career Opportunities Counselling on Computer Science on 19-07-2024",
-            "Website Design Process and Web application Development Tools on 03-07-2024 to 04-07-2024",
-            "Prototype Design Process and Development in Digital Products on 24-06-2024 to 25-06-2024",
-            "Techno Buzz 2024 – Technical Symposium for Students on 06.02.2024 to 08.02.2024",
-            "Web Designing and Hosting 22-01-2024 to 23-01-2024",
-            "Two Days Training Programme on Cyber Security Penetration testing for beginners",
-            "Android Programming on 23-01-2024 to 24-01-2024",
-            "One day Skill and Training programme on word press web development essentials: A Practical Skill Development Workshop on 05-02-2024",
-            "Web Designing and Maintenance on 05-02-2024 to 07-02-2024",
-            "One day Career Counselling Programme for Competitive Exams on 14-02-2024",
-            "Achieving Problem Solution fit & Problem Market Fit on 08-03-2024",
-            "Awareness Programme on Women Welfare Schemes",
-            "Building Innovative Application Using Python on 17-07-2023 to 18-07-2023",
-            "Recent Trends in IOT Applications on 20-07-2023",
-            "Data Science & Machine Learning on 27-07-2023",
-            "Latest Innovations in Artificial Intelligence & Machine Learning on 21-08-2023",
-            "One Day Orientation Programme for Competitive Exams on 08-11-2023"
-          ]
-        },
+       
         {
           "title": "National / International Conference",
           "content": [
@@ -1568,7 +1531,7 @@
           ]
         },
         {
-          "title": "Guest Lecture",
+          "title": "Others",
           "content": [
             "Seminar on “Aptitude for Future Opportunities Program” for III B.Sc CS students on 23.12.2025.",
             "Alumni Talk on “Roadmap to IT success: Placement, Learning and Corporate Life” by our Alumni student Ms. NITYASREE KRISHNASAMY, Business Analyst, Amadeus Software Labs, Bengaluru on 22.12.2025.",

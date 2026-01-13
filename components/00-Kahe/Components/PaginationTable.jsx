@@ -12,8 +12,8 @@ const TableCom = ({ data }) => {
       <div className="content">
         {/* Title */}
         {data?.title && (
-          <div className="row">
-            <div className="col-lg-12">
+          <div className="row ">
+            <div className="col-lg-12 ">
               <div className="section-title">
                 <h2
                   className="decor-ti"
@@ -57,8 +57,8 @@ const TableCom = ({ data }) => {
         )}
 
         {/* TABLES */}
-        <div className="row gy-5">
-          <div className="col-lg-12">
+        <div className="row gy-5 my-4">
+          <div className="col-lg-12 mt-0">
             {data?.content?.map((table, index) => (
               <PaginatedTable key={index} table={table} />
             ))}

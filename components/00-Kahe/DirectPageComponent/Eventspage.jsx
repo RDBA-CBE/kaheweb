@@ -120,7 +120,19 @@ const Eventspage = ({ eventsContent }) => {
                             {item?.table && <TableCom data={item?.table} />}
 
                             {item?.images && <ImageGrid data={item?.images} />}
-                            {}
+
+                            {item?.url1 && (
+                              <Link
+                                target={item?.target || "_blank"}
+                                className="read-more-btn mt-5"
+                                href={item?.url1 || "#"}
+                              >
+                                <span className="rbt-btn-link px-5  ">
+                                  {item?.btnText1}{" "}
+                                  <i className="feather-arrow-up-right"></i>
+                                </span>
+                              </Link>
+                            )}
                           </section>
                         ))}
 

@@ -78,15 +78,17 @@ const Infrastructure = ({ infrastructureContent }) => {
           </div>
         </div>
         <div className="row gy-5">
-          <div className="col-lg-12">
+          <div className="col-lg-12 ">
 
             {tableContent && (
               <section className="section-bg1">
+                 <h3 className="main-sub-ti mb-4">{tableContent.title}</h3>
                 <TableCom data={tableContent?.table} />
               </section>
             )}
             {para && (
-              <div className="row ">
+              <div className="row mb--50">
+                <h3 className="main-sub-ti ">{para.title}</h3>
                 <p
                   className="mb-0"
                   dangerouslySetInnerHTML={{
@@ -96,7 +98,7 @@ const Infrastructure = ({ infrastructureContent }) => {
               </div>
             )}
             {infraCon && (
-              <div className="row mb--30">
+              <div className="row mb--50">
                 {infraCon.title && (
                   <h3
                     className="main-sub-ti"
@@ -133,7 +135,7 @@ const Infrastructure = ({ infrastructureContent }) => {
             )}
 
             {labItem && (
-              <div className="lab row g-5 mb--30">
+              <div className="lab row g-5 mb--50">
                 <h3
                   className="main-sub-ti"
                   dangerouslySetInnerHTML={{
@@ -177,7 +179,7 @@ const Infrastructure = ({ infrastructureContent }) => {
             )}
 
             {equipementItem && (
-              <div className="equip rbt-dashboard-table  mb--30 pt-5">
+              <div className="equip rbt-dashboard-table  mb--50">
                 <h3
                   className="main-sub-ti"
                   dangerouslySetInnerHTML={{
@@ -188,7 +190,7 @@ const Infrastructure = ({ infrastructureContent }) => {
                 {equipementItem.desc && (
                   <div className="row ">
                     <p
-                      className="mb-5 ms-2"
+                      className="mb-2 ms-2"
                       dangerouslySetInnerHTML={{
                         __html: FirstLetterUp(equipementItem.desc),
                       }}
@@ -216,7 +218,7 @@ const Infrastructure = ({ infrastructureContent }) => {
             )}
 
             {LibrarySections && (
-              <div className="equip rbt-dashboard-table table-responsive mb--30 pt-5">
+              <div className="equip rbt-dashboard-table mb--50 ">
                 <h3
                   className="main-sub-ti"
                   dangerouslySetInnerHTML={{
@@ -255,7 +257,7 @@ const Infrastructure = ({ infrastructureContent }) => {
             )}
 
             {library && (
-              <div className="lib row mb--30 pt-5">
+              <div className="lib row mb--50">
                 {library.title && (
                   <h3
                     className="main-sub-ti"
@@ -290,7 +292,7 @@ const Infrastructure = ({ infrastructureContent }) => {
             )}
 
             {connectivity && (
-              <div className="lib row mb--30 pt-5">
+              <div className="lib row mb--50">
                 {connectivity.title && (
                   <h3
                     className="main-sub-ti"
