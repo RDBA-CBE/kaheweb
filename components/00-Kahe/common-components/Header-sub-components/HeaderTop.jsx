@@ -57,7 +57,7 @@ const HeaderTop = ({
                 <div className="header-info">
                   <ul className="rbt-secondary-menu">
                     <li>
-                      <Link href="#">Academic Calendar</Link>
+                      <Link href="/kahe/academic-calendar">Academic Calendar</Link>
                     </li>
                     <li>
                       <Link href="https://www.karpagamalumni.in/" target="_blank">Alumni Association</Link>

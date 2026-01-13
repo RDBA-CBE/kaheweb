@@ -1250,22 +1250,26 @@
         },
         {
           "faculty_name": "Dr.A.Krishnaveni",
-          "contentList": [
-            "Dr.A.Krishnaveni, “Phishing Attack Prediction using Several Machine Learning Techniques”, 4th International Conference on Sustainable Expert Systems (ICSES), 15–17 October 2024, Pokhara University, Nepal, IEEE, ISBN: 979-8-3315-4035-7.",
-            "Dr.A.Krishnaveni, “Optimizing Glaucoma Detection using Graph Neural Networks and DBSCAN Clustering Techniques”, Two Day International Conference on Evolving Technologies in Computing Science for Multidisciplinary Applications (ICETCSMA’25), January 7–8, 2025, NPR Arts and Science College, Dindigul. ISBN: 978-93-6126-958-5.",
-            "Dr.A.Krishnaveni, “Smart System Security Software”, International Conference on Multi-Agent Systems for Collaborative Intelligence (ICMSCI 2025), 20–22 January 2025, IEEE, Surya Engineering College, Erode. ISSN: 979-8-3315-0982-8/25.",
-            "Dr.A.Krishnaveni, “A Novel Approach to Glaucoma Detection using GNNs and DBSCAN”, 3rd International Conference on Intelligent Data Communication Technologies & Internet of Things (IDCIoT 2025), 5–7 February 2025, IEEE, REVA University, Bengaluru. ISSN: 979-8-3315-2754-9/25.",
-            "Dr.A.Krishnaveni, “Design of a Real-Time Crime Monitoring System using Machine Learning”, 3rd International Conference on Intelligent Data Communication Technologies & Internet of Things (IDCIoT 2025), 5–7 February 2025, IEEE, REVA University, Bengaluru. ISSN: 979-8-3315-2754-9/25.",
-            "Dr.A.Krishnaveni, “Smart Animal Monitoring System for Farms using YOLO and OPENCV”, 3rd International Conference on Electronics and Renewable Systems (ICEARS 2025), 11–13 February 2025, IEEE, St. Mother Theresa Engineering College, Tuticorin. ISSN: 979-8-3315-0967-5.",
-            "Dr.A.Krishnaveni, “Factorizing Analysis of Two Factor Authentication Techniques for Rapid and Secure Communication”, Nanotechnology Perception, Volume 20, Issue 07, May–June 2024, ISSN: 1660-6795.",
-            "Dr.A.Krishnaveni, “Analysis Study of Two Factor Authentication for Data Communication in Cloud”, International Journal of Innovative Research in Engineering, Volume 6, Issue 2, March–April 2025, ISSN: 2582-8746.",
-            "Dr.A.Krishnaveni, “Quantum Teleportation Integrated with Fifth Generation (5G)”, 10th National Conference on Recent Trends and Advances in the Field of Information and Technology (NCIT’25), 7 March 2025, Karpagam Academy of Higher Education. ISBN: 978-93-49019-98-0.",
-            "Dr.A.Krishnaveni, “Early Detection of Lung Cancer Using Artificial Intelligence”, 10th National Conference on Recent Trends and Advances in the Field of Information and Technology (NCIT’25), 7 March 2025, Karpagam Academy of Higher Education. ISBN: 978-93-49019-98-0.",
-            "Dr.A.Krishnaveni, “Real-Time Multi-Factor Biometric Encryption for Secure and Scalable Authentication Systems”, 3rd International Conference on Sustainable Computing and Data Communication Systems (ICSCDS-2025), IEEE Xplore.",
-            "Dr.A.Krishnaveni, “Improved Intrusion Detection in Wireless Networks using Random Forest and LDA”, 3rd International Conference on Sustainable Computing and Data Communication Systems (ICSCDS-2025), IEEE Xplore.",
-            "Dr.A.Krishnaveni, “Hybrid ARIMA-LSTM Model for Real-Time Influenza Monitoring and Early Prediction”, 9th International Conference on Inventive Systems and Control (ICISC-2025), IEEE Xplore.",
-            "Dr.A.Krishnaveni, “A Hybrid GAN-CNN Approach for Predicting Tomato Leaf Diseases”, 9th International Conference on Inventive Systems and Control (ICISC-2025), IEEE Xplore.",
-            "Dr.A.Krishnaveni, “Securing Blockchain from Double-Spending: A Study of Attacks and Preventive Techniques”, 3rd International Conference on Sustainable Computing and Smart Systems (ICSCSS 2025), IEEE Xplore."
+          "multiContent": [
+            {
+              "contentList": [
+                "Dr.A.Krishnaveni, “Phishing Attack Prediction using Several Machine Learning Techniques”, 4th International Conference on Sustainable Expert Systems (ICSES), 15–17 October 2024, Pokhara University, Nepal, IEEE, ISBN: 979-8-3315-4035-7.",
+                "Dr.A.Krishnaveni, “Optimizing Glaucoma Detection using Graph Neural Networks and DBSCAN Clustering Techniques”, Two Day International Conference on Evolving Technologies in Computing Science for Multidisciplinary Applications (ICETCSMA’25), January 7–8, 2025, NPR Arts and Science College, Dindigul. ISBN: 978-93-6126-958-5.",
+                "Dr.A.Krishnaveni, “Smart System Security Software”, International Conference on Multi-Agent Systems for Collaborative Intelligence (ICMSCI 2025), 20–22 January 2025, IEEE, Surya Engineering College, Erode. ISSN: 979-8-3315-0982-8/25.",
+                "Dr.A.Krishnaveni, “A Novel Approach to Glaucoma Detection using GNNs and DBSCAN”, 3rd International Conference on Intelligent Data Communication Technologies & Internet of Things (IDCIoT 2025), 5–7 February 2025, IEEE, REVA University, Bengaluru. ISSN: 979-8-3315-2754-9/25.",
+                "Dr.A.Krishnaveni, “Design of a Real-Time Crime Monitoring System using Machine Learning”, 3rd International Conference on Intelligent Data Communication Technologies & Internet of Things (IDCIoT 2025), 5–7 February 2025, IEEE, REVA University, Bengaluru. ISSN: 979-8-3315-2754-9/25.",
+                "Dr.A.Krishnaveni, “Smart Animal Monitoring System for Farms using YOLO and OPENCV”, 3rd International Conference on Electronics and Renewable Systems (ICEARS 2025), 11–13 February 2025, IEEE, St. Mother Theresa Engineering College, Tuticorin. ISSN: 979-8-3315-0967-5.",
+                "Dr.A.Krishnaveni, “Factorizing Analysis of Two Factor Authentication Techniques for Rapid and Secure Communication”, Nanotechnology Perception, Volume 20, Issue 07, May–June 2024, ISSN: 1660-6795.",
+                "Dr.A.Krishnaveni, “Analysis Study of Two Factor Authentication for Data Communication in Cloud”, International Journal of Innovative Research in Engineering, Volume 6, Issue 2, March–April 2025, ISSN: 2582-8746.",
+                "Dr.A.Krishnaveni, “Quantum Teleportation Integrated with Fifth Generation (5G)”, 10th National Conference on Recent Trends and Advances in the Field of Information and Technology (NCIT’25), 7 March 2025, Karpagam Academy of Higher Education. ISBN: 978-93-49019-98-0.",
+                "Dr.A.Krishnaveni, “Early Detection of Lung Cancer Using Artificial Intelligence”, 10th National Conference on Recent Trends and Advances in the Field of Information and Technology (NCIT’25), 7 March 2025, Karpagam Academy of Higher Education. ISBN: 978-93-49019-98-0.",
+                "Dr.A.Krishnaveni, “Real-Time Multi-Factor Biometric Encryption for Secure and Scalable Authentication Systems”, 3rd International Conference on Sustainable Computing and Data Communication Systems (ICSCDS-2025), IEEE Xplore.",
+                "Dr.A.Krishnaveni, “Improved Intrusion Detection in Wireless Networks using Random Forest and LDA”, 3rd International Conference on Sustainable Computing and Data Communication Systems (ICSCDS-2025), IEEE Xplore.",
+                "Dr.A.Krishnaveni, “Hybrid ARIMA-LSTM Model for Real-Time Influenza Monitoring and Early Prediction”, 9th International Conference on Inventive Systems and Control (ICISC-2025), IEEE Xplore.",
+                "Dr.A.Krishnaveni, “A Hybrid GAN-CNN Approach for Predicting Tomato Leaf Diseases”, 9th International Conference on Inventive Systems and Control (ICISC-2025), IEEE Xplore.",
+                "Dr.A.Krishnaveni, “Securing Blockchain from Double-Spending: A Study of Attacks and Preventive Techniques”, 3rd International Conference on Sustainable Computing and Smart Systems (ICSCSS 2025), IEEE Xplore."
+              ]
+            }
           ]
         },
         {
@@ -1300,37 +1304,12 @@
           ]
         },
 
+       
         {
           "faculty_name": "Dr.M.Sivaraman",
           "multiContent": [
             {
-              "title": "PAPER PUBLICATIONS",
-              "contentList": [
-                "Dr.A.Krishnaveni, “Phishing Attack Prediction using Several Machine Learning Techniques”, 4th International Conference on Sustainable Expert Systems (ICSES), 15–17 October 2024, Pokhara University, Nepal, IEEE, ISBN: 979-8-3315-4035-7.",
-                "Dr.A.Krishnaveni, “Optimizing Glaucoma Detection using Graph Neural Networks and DBSCAN Clustering Techniques”, Two Day International Conference on Evolving Technologies in Computing Science for Multidisciplinary Applications (ICETCSMA’25), January 7–8, 2025, NPR Arts and Science College, Dindigul. ISBN: 978-93-6126-958-5.",
-                "Dr.A.Krishnaveni, “Smart System Security Software”, International Conference on Multi-Agent Systems for Collaborative Intelligence (ICMSCI 2025), 20–22 January 2025, IEEE, Surya Engineering College, Erode. ISSN: 979-8-3315-0982-8/25.",
-                "Dr.A.Krishnaveni, “A Novel Approach to Glaucoma Detection using GNNs and DBSCAN”, 3rd International Conference on Intelligent Data Communication Technologies & Internet of Things (IDCIoT 2025), 5–7 February 2025, IEEE, REVA University, Bengaluru. ISSN: 979-8-3315-2754-9/25.",
-                "Dr.A.Krishnaveni, “Design of a Real-Time Crime Monitoring System using Machine Learning”, 3rd International Conference on Intelligent Data Communication Technologies & Internet of Things (IDCIoT 2025), 5–7 February 2025, IEEE, REVA University, Bengaluru. ISSN: 979-8-3315-2754-9/25.",
-                "Dr.A.Krishnaveni, “Smart Animal Monitoring System for Farms using YOLO and OPENCV”, 3rd International Conference on Electronics and Renewable Systems (ICEARS 2025), 11–13 February 2025, IEEE, St. Mother Theresa Engineering College, Tuticorin. ISSN: 979-8-3315-0967-5.",
-                "Dr.A.Krishnaveni, “Factorizing Analysis of Two Factor Authentication Techniques for Rapid and Secure Communication”, Nanotechnology Perception, Volume 20, Issue 07, May–June 2024, ISSN: 1660-6795.",
-                "Dr.A.Krishnaveni, “Analysis Study of Two Factor Authentication for Data Communication in Cloud”, International Journal of Innovative Research in Engineering, Volume 6, Issue 2, March–April 2025, ISSN: 2582-8746.",
-                "Dr.A.Krishnaveni, “Quantum Teleportation Integrated with Fifth Generation (5G)”, 10th National Conference on Recent Trends and Advances in the Field of Information and Technology (NCIT’25), 7 March 2025, Karpagam Academy of Higher Education. ISBN: 978-93-49019-98-0.",
-                "Dr.A.Krishnaveni, “Early Detection of Lung Cancer Using Artificial Intelligence”, 10th National Conference on Recent Trends and Advances in the Field of Information and Technology (NCIT’25), 7 March 2025, Karpagam Academy of Higher Education. ISBN: 978-93-49019-98-0.",
-                "Dr.A.Krishnaveni, “Real-Time Multi-Factor Biometric Encryption for Secure and Scalable Authentication Systems”, 3rd International Conference on Sustainable Computing and Data Communication Systems (ICSCDS-2025), IEEE Xplore.",
-                "Dr.A.Krishnaveni, “Improved Intrusion Detection in Wireless Networks using Random Forest and LDA”, 3rd International Conference on Sustainable Computing and Data Communication Systems (ICSCDS-2025), IEEE Xplore.",
-                "Dr.A.Krishnaveni, “Hybrid ARIMA-LSTM Model for Real-Time Influenza Monitoring and Early Prediction”, 9th International Conference on Inventive Systems and Control (ICISC-2025), IEEE Xplore.",
-                "Dr.A.Krishnaveni, “A Hybrid GAN-CNN Approach for Predicting Tomato Leaf Diseases”, 9th International Conference on Inventive Systems and Control (ICISC-2025), IEEE Xplore.",
-                "Dr.A.Krishnaveni, “Securing Blockchain from Double-Spending: A Study of Attacks and Preventive Techniques”, 3rd International Conference on Sustainable Computing and Smart Systems (ICSCSS 2025), IEEE Xplore."
-              ]
-            }
-          ]
-        },
-
-        {
-          "faculty_name": "Ms V KIRUTHIGA",
-          "multiContent": [
-            {
-              "title": "PAPER PUBLICATIONS",
+              
               "contentList": [
                 "K. Kavitha, M. Sivaraman, Y. S. Reddy, N. Amsaveni, M. Umamaheswari, R. Ganga Devi, “Cognitive AI for Precision Medicine: Integrative Drug Recommendation Through Intelligent Architectures”, 2025 8th International Conference on Computing Methodologies and Communication (ICCMC), Year: 2025, IEEE.",
                 "R. Sivakumar, V. B. Kirubanand, V. Ganesan, M. Sivaraman, A. Kumarachelvan, G. Ulaganathan, “Building Smarter Systems with Advanced Computational Techniques”, 2025 International Conference on Inventive Computation Technologies (ICICT), Year: 2025, IEEE."

@@ -110,10 +110,10 @@ const Infrastructure = ({ infrastructureContent }) => {
                   {infraCon?.content?.map((item, i) => (
                     <div key={i} className="simple-counter-card">
                       <p className="simple-counter-number">{item?.count}</p>
-                      <div>
+                      <span>
                         <StudentsIcon className="dept-icon" />
                         <p className="simple-counter-title">{item?.title}</p>
-                      </div>
+                      </span>
                     </div>
                   ))}
                 </div>

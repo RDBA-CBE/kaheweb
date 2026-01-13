@@ -1,6 +1,7 @@
 "use client";
 import styles from "./HomeFeatures.module.css";
 import HomeFeatureCard from "./HomeFeatureCard";
+import Link from "next/link";
 
 const features = [
   {
@@ -45,7 +46,7 @@ export default function HomeFeaturesSection() {
       </div>
 
       <div className={styles.ctaWrap}>
-        <button className={styles.cta}>KNOW MORE</button>
+       <Link href={"/kahe/achievements"}><button className={styles.cta}>KNOW MORE</button></Link> 
       </div>
     </section>
   );

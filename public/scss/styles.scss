@@ -8,7 +8,7 @@
 **********************************************************************************/
 
 /**************************************************************
-	
+	.simple-counter-card
 	STYLESHEET INDEXING
 	|
 	|
@@ -1491,6 +1491,7 @@
 }
 
 .simple-counter-card {
+  height: fit-content;
   min-width: 200px;
   /* background: #f8fafc; */
   border-radius: 12px;

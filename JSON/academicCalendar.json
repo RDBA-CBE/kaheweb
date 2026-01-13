@@ -1,0 +1,70 @@
+{
+  "bannerCon": {
+    "bannerImg": "/images/Kahe/IQAC/overview-banner.webp",
+    "title": "Academic Calendar",
+    "bannerCon": "Monitoring standards and best practices, strengthening academic excellence.",
+    "applyLink": "/"
+  },
+
+  "facAchievemnets": [
+    {
+      "title": "Academic Calendar",
+
+      "content": [
+        {
+          "subtitle": "2023 – 2024",
+          "id": 1,
+          "list": [
+            {
+              "src": "/images/Kahe/Innerpages/file.png",
+
+              "item": "Download",
+              "url": "https://kahedu.edu.in/n/wp-content/uploads/2024/04/KAHE-Academic-calender-2023-2024.pdf",
+              "target": "_blank"
+            }
+          ]
+        },
+
+        {
+          "subtitle": "2022 – 2023",
+          "id": 1,
+          "list": [
+            {
+              "src": "/images/Kahe/Innerpages/file.png",
+
+              "item": "Faculty of Arts, Science, Commerce and Management",
+              "url": "https://kahedu.edu.in/n/wp-content/uploads/2022/10/AC-01-Arts-2022-2023.pdf",
+              "target": "_blank"
+            },
+
+            {
+              "src": "/images/Kahe/Innerpages/file.png",
+
+              "item": "Faculty of Engineering",
+              "url": "https://kahedu.edu.in/n/wp-content/uploads/2022/10/AC-02-Engg-2022-2023.pdf",
+              "target": "_blank"
+            },
+            {
+              "src": "/images/Kahe/Innerpages/file.png",
+
+              "item": "Faculty of Architecture, Design and Planning",
+              "url": "https://kahedu.edu.in/n/wp-content/uploads/2022/10/AC-03-Arch-2022-2023.pdf",
+              "target": "_blank"
+            },
+            {
+              "src": "/images/Kahe/Innerpages/file.png",
+
+              "item": "Faculty of Pharmacy",
+              "url": "https://kahedu.edu.in/n/wp-content/uploads/2022/10/AC-04-Pharmacy-2022-2023.pdf",
+              "target": "_blank"
+            }
+          ]
+        }
+      ]
+    }
+
+    
+  ]
+
+ 
+}
