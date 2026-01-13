@@ -14,7 +14,7 @@
 
   "research": {
     "title": "RESEARCH HIGHLIGHTS",
-    "src": "/images/Kahe/Innerpages/image-1.jpg",
+    "src": "/images/Kahe/general/research-highlights.webp",
     "content": [
       {
         "icon": "rs-icon-book",
@@ -46,7 +46,7 @@
 
   "patents": {
     "title": "Patents & Copyrights",
-    "src": "/images/Kahe/Innerpages/image-1.jpg",
+    "src": "/images/Kahe/general/research-highlights.webp",
     "content": [
       {
         "label": "Awarded",

@@ -1,7 +1,7 @@
 {
   "statutaryCommitee": {
     "bannerCon": {
-      "bannerImg": "/images/Kahe/about/commitee/statutorycommitee-banner.png",
+      "bannerImg": "/images/Kahe/about/commitee/statutorycommitee-banner.webp",
       "title": "Statutory Commitee",
       "bannerCon": "To be a leading institution in the field of education, providing quality education and training to students and professionals.",
       "applyLink": "/"
@@ -31,7 +31,7 @@
 
   "NonStatutaryCommitee": {
     "bannerCon": {
-     "bannerImg": "/images/Kahe/about/commitee/nonstatutorycommitee-banner.png",
+     "bannerImg": "/images/Kahe/about/commitee/nonstatutorycommitee-banner.webp",
       "title": "Non Statutory Committees",
       "bannerCon": "To be a leading institution in the field of education, providing quality education and training to students and professionals.",
       "applyLink": "/"
@@ -265,7 +265,7 @@
 
   "RTI": {
     "bannerCon": {
-      "bannerImg": "/images/Kahe/about/RTI/righttoinformation-banner.png",
+      "bannerImg": "/images/Kahe/about/RTI/righttoinformation-banner.webp",
       "title": "Right to Information (RTI)",
       "bannerCon": "To be a leading institution in the field of education, providing quality education and training to students and professionals.",
       "applyLink": "/"
