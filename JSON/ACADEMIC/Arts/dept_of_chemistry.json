@@ -46,7 +46,7 @@
         {
           "type": "vision",
           "subTitle": "Vision",
-          "src": "/images/Kahe/Innerpages/vision.png",
+          "src": "/images/Kahe/icons/academics/vision.svg",
           "content": [
             "To promote, inspire and nurture the fundamentals of Chemistry through PG and Ph. D. courses offered for the students. The Department aspires to excel in chemical education, research and public outreach services."
           ]
@@ -54,7 +54,7 @@
         {
           "type": "mission",
           "subTitle": "Mission",
-          "src": "/images/Kahe/Innerpages/goal.png",
+          "src": "/images/Kahe/icons/academics/mission.svg",
           "content": [
             "To offer the programs in Chemistry education and research.",
             "To promote, inspire and nurture the fundamentals and advances of Chemistry through PG courses.",

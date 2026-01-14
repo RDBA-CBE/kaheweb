@@ -18,7 +18,7 @@
 
   "ECampus": {
     "title": "E-Classroom",
-    "src": "/images/Kahe/Innerpages/vision.png",
+    "src": "/images/Kahe/icons/campus-life/campus-facilities/e-classroom.svg",
 
     "desc": "In the era of rapidly emerging technologies, the transition from conventional classrooms to digital classrooms is soon becoming the order of the day. At Karpagam Academy of Higher Education, we believe in being an active participant in every kind of progressive change. Our e-classroom initiative endorses our commitment to align ourselves with the latest technological developments. We have a team of highly proficient content developers who work on the latest technology platforms and to create content with multimedia inputs, rich animation, text, graphics and instruction designs. To make the teaching sessions livelier, interactive video streaming methodology is adopted."
   },
@@ -49,17 +49,17 @@
       {
         "title": "Multi Purpose Auditorium",
         "content": "The auditorium is perhaps the lifeline of every University, throbbing with multifarious activities. At Karpagam, we have a mammoth auditorium that is spaced out to accommodate huge gatherings. To host several events on campus, it is a melting pot for students from within and outside Karpagam Academy of Higher Education.",
-        "src": "/images/Kahe/Innerpages/group.png"
+         "src": "/images/Kahe/icons/campus-life/campus-facilities/auditorium.svg"
       },
       {
         "title": "General Stores",
         "content": "To meet the everyday needs of students, a store is available on campus. Well-stocked with all the daily necessities, it goes a long way in making life on campus virtually hassle-free.",
-        "src": "/images/Kahe/Innerpages/group.png"
+         "src": "/images/Kahe/icons/campus-life/campus-facilities/stores.svg"
       },
       {
         "title": "Canteen",
         "content": "The canteens in the campus are tidy and extremely spacious. It is ensured that the highest standards of health and hygiene are complied with, to serve wholesome and nutritious food to the staff and students.",
-        "src": "/images/Kahe/Innerpages/group.png"
+         "src": "/images/Kahe/icons/campus-life/campus-facilities/canteen.svg"
       }
     ]
   },

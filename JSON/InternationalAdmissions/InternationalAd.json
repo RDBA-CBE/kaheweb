@@ -24,35 +24,35 @@
 
   "programs": {
     "title": "Academic Programs",
-    "src": "/images/Kahe/Innerpages/vision.png",
+    "src": "/images/Kahe/icons/office-of-international-affairs/international-admissions/academic-programs.svg",
 
     "desc": "At KAHE, we offer a diverse range of undergraduate, postgraduate, and doctoral programs across various disciplines, including Management, Arts & Science, Commerce, Engineering, Pharmacy and Architecture. Our rigorous curriculum, world-class faculty, and state-of-the-art facilities ensure that students receive a comprehensive education that prepares them for success in their chosen fields."
   },
   "admissions": {
     "title": "International Admissions",
-    "src": "/images/Kahe/Innerpages/vision.png",
+     "src": "/images/Kahe/icons/office-of-international-affairs/international-admissions/international-admissions.svg",
     "desc": "For students seeking international admissions, KAHE offers a seamless and transparent admissions process. Whether you choose to apply directly or through the Study in India portal, our dedicated admissions team is here to assist you every step of the way. Explore our academic programs, scholarships, campus life, and more to discover why KAHE is the perfect destination for your educational journey."
   },
 
   "whyChoose": [
     {
-      "src": "/images/Kahe/Innerpages/students.png",
+      "src": "/images/Kahe/icons/office-of-international-affairs/international-admissions/why-choose.svg",
       "description": "World-class education with a focus on innovation and excellence."
     },
     {
-      "src": "/images/Kahe/Innerpages/students.png",
+      "src": "/images/Kahe/icons/office-of-international-affairs/international-admissions/why-choose.svg",
       "description": "Vibrant campus life with a rich array of extracurricular activities and cultural events."
     },
     {
-      "src": "/images/Kahe/Innerpages/students.png",
+       "src": "/images/Kahe/icons/office-of-international-affairs/international-admissions/why-choose.svg",
       "description": "Opportunities for internships, research collaborations, and industry exposure."
     },
     {
-      "src": "/images/Kahe/Innerpages/students.png",
+       "src": "/images/Kahe/icons/office-of-international-affairs/international-admissions/why-choose.svg",
       "description": "Global perspective through international collaborations and exchange programs."
     },
     {
-      "src": "/images/Kahe/Innerpages/students.png",
+       "src": "/images/Kahe/icons/office-of-international-affairs/international-admissions/why-choose.svg",
       "description": "Extensive support services, including career counseling, mentoring, and academic guidance."
     }
   ],
@@ -63,7 +63,7 @@
         "title1": "Join Us",
         "bgcolor": "bg-lblue shadow-none",
         "gridCls": " col-md-6 col-sm-6 col-12",
-        "src": "/images/Kahe/Innerpages/customer-service.png",
+         "src": "/images/Kahe/icons/office-of-international-affairs/international-admissions/join-us.svg",
         "ConClsName": "text-start",
         "subtitle": "Join us at KAHE and embark on a journey of discovery, growth, and transformation.",
         "content": "Whether you aspire to pursue your academic passions, expand your horizons, or make a positive impact on society, KAHE provides the platform and resources to help you achieve your goals."
@@ -74,7 +74,7 @@
         "title1": "Contact Us",
         "bgcolor": "bg-lblue shadow-none",
         "gridCls": " col-md-6 col-sm-6 col-12",
-        "src": "/images/Kahe/Innerpages/customer-service.png",
+         "src": "/images/Kahe/icons/office-of-international-affairs/international-admissions/contact-us.svg",
         "ConClsName": "text-start",
         "subtitle": "Ready to take the next step?",
         "content": "Contact our admissions team today to learn more about the opportunities available at KAHE. We look forward to welcoming you to our vibrant community of scholars, innovators, and global citizens. <br/> Unlock your potential, explore infinite opportunities at Karpagam Academy of Higher Education.",

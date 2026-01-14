@@ -41,7 +41,7 @@
         {
           "type": "vision",
           "subTitle": "Vision",
-          "src": "/images/Kahe/Innerpages/vision.png",
+          "src": "/images/Kahe/icons/academics/vision.svg",
           "content": [
             "To provide scientific research at the highest international standard, integrating cutting-edge multidisciplinary approaches to solving significant problems in biology and medicine.",
             "Motivate students to develop as internationally competitive professionals with excellent leadership, communication with teamwork skills."
@@ -50,7 +50,7 @@
         {
           "type": "mission",
           "subTitle": "Mission",
-          "src": "/images/Kahe/Innerpages/goal.png",
+          "src": "/images/Kahe/icons/academics/mission.svg",
           "content": [
             "To provide a high quality education and learning experience for our undergraduate and postgraduate students through.",
             "The innovative teaching methods and emphasis on the development of critical thinking and problem-solving skills.",

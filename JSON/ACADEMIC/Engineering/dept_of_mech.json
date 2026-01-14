@@ -42,7 +42,7 @@
         {
           "type": "vision",
           "subTitle": "Vision",
-          "src": "/images/Kahe/Innerpages/vision.png",
+          "src": "/images/Kahe/icons/academics/vision.svg",
           "content": [
             "The department of mechanical engineering is dedicated to blossom into Centre of Excellence, outsourcing devoted and proficient engineers to bear the responsibilities of transforming the nation into a technically, socially, and ethically advanced one."
           ]
@@ -50,7 +50,7 @@
         {
           "type": "mission",
           "subTitle": "Mission",
-          "src": "/images/Kahe/Innerpages/goal.png",
+          "src": "/images/Kahe/icons/academics/mission.svg",
           "content": [
             "To develop industry-oriented manpower to cope with global technological challenges.",
             "M1: Imparting mechanical engineering knowledge through trained faculty in a conducive environment,",

@@ -42,7 +42,7 @@
         {
           "type": "vision",
           "subTitle": "Vision",
-          "src": "/images/Kahe/Innerpages/vision.png",
+          "src": "/images/Kahe/icons/academics/vision.svg",
           "content": [
             "To transform the students into industry ready technocrats and instill research in the minds of the young graduates to serve the society."
           ]
@@ -50,7 +50,7 @@
         {
           "type": "mission",
           "subTitle": "Mission",
-          "src": "/images/Kahe/Innerpages/goal.png",
+          "src": "/images/Kahe/icons/academics/mission.svg",
           "content": [
             "To empower the students with enriched skills in the field of Electronics and Communication Engineering and also promote research by providing an excellent academic environment, inculcating values of discipline and dedication to serve the society."
           ]

@@ -42,7 +42,7 @@
         {
           "type": "vision",
           "subTitle": "Vision",
-          "src": "/images/Kahe/Innerpages/vision.png",
+          "src": "/images/Kahe/icons/academics/vision.svg",
           "content": [
             "To educate the students to face the challenges pertaining to Civil Engineering and guide them to become creative, innovative and socially responsible contributors in their profession."
           ]
@@ -50,7 +50,7 @@
         {
           "type": "mission",
           "subTitle": "Mission",
-          "src": "/images/Kahe/Innerpages/goal.png",
+          "src": "/images/Kahe/icons/academics/mission.svg",
           "content": [
             "To develop professionally competent Civil Engineers through dedicated team effort, academic collaborations and on-site experience.",
             "To motivate students to pursue higher education through competitive examinations.",

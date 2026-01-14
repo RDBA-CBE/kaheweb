@@ -54,7 +54,7 @@
         {
           "type": "vision",
           "subTitle": "Vision",
-          "src": "/images/Kahe/Innerpages/vision.png",
+          "src": "/images/Kahe/icons/academics/vision.svg",
           "content": [
             "The Department’s aim is to fulfil the requirements of the future and set high standards for academic achievement in order to produce highly competent technical and communicative computing professionals, researchers, and entrepreneurs."
           ]
@@ -62,7 +62,7 @@
         {
           "type": "mission",
           "subTitle": "Mission",
-          "src": "/images/Kahe/Innerpages/goal.png",
+          "src": "/images/Kahe/icons/academics/mission.svg",
           "content": [
             "To provide motivated faculty and state of the art facilities for education and research, both in foundational aspects and emerging computing trends.",
             "To develop knowledgeable, industry-ready students with pertinent competencies such as problem solving, leadership, and interpersonal skills"

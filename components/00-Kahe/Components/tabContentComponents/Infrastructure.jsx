@@ -169,7 +169,8 @@ const Infrastructure = ({ infrastructureContent }) => {
                   {labItem?.content?.map((item, i) => (
                     <div key={i} className="dept-card bg-lblue-1">
                       <div className="dept-inner">
-                        <BuildingIcon className="dept-icon" color={"#fff"} />
+                        {/* <BuildingIcon className="dept-icon" color={"#fff"} /> */}
+                        <img src="/images/Kahe/icons/academics/facilities-laboratories-list.svg" />
                         <p className="dept-title">{item}</p>
                       </div>
                     </div>
@@ -209,7 +210,8 @@ const Infrastructure = ({ infrastructureContent }) => {
                     >
                       <div className="dept-inner">
                         <p className="dept-title">{item}</p>
-                        <LabIcon className="dept-icon" />
+                        {/* <LabIcon className="dept-icon" /> */}
+                           <img src="/images/Kahe/icons/academics/major-research-equipments.svg" />
                       </div>
                     </div>
                   ))}
@@ -248,7 +250,7 @@ const Infrastructure = ({ infrastructureContent }) => {
                     >
                       <div className="dept-inner">
                         <p className="dept-title">{item}</p>
-                        <LabIcon className="dept-icon" />
+                        <img src="/images/Kahe/icons/academics/department-library.svg" />
                       </div>
                     </div>
                   ))}
@@ -283,6 +285,7 @@ const Infrastructure = ({ infrastructureContent }) => {
                     <div key={i} className="dept-card bg-lblue-1">
                       <div className="dept-inner">
                         <BooksIcon className="dept-icon" color={"#fff"} />
+                         {/* <img src="/images/Kahe/icons/academics/department-library.svg" /> */}
                         <p className="dept-title">{item}</p>
                       </div>
                     </div>

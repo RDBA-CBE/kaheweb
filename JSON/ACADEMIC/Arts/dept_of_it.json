@@ -54,7 +54,7 @@
         {
           "type": "vision",
           "subTitle": "Vision",
-          "src": "/images/Kahe/Innerpages/vision.png",
+          "src": "/images/Kahe/icons/academics/vision.svg",
           "content": [
             "To emerge as a leading center for excellence in Information Technology education and innovation, committed to producing ethically responsible, technically skilled, and socially conscious IT professionals who contribute meaningfully to global and local communities."
           ]
@@ -62,7 +62,7 @@
         {
           "type": "mission",
           "subTitle": "Mission",
-          "src": "/images/Kahe/Innerpages/goal.png",
+          "src": "/images/Kahe/icons/academics/mission.svg",
           "content": [
             "To deliver value-based and quality IT education using modern tools and e-learning platforms.",
             "To foster creativity, innovation, and problem-solving abilities through project-based and research-oriented learning.",
@@ -519,7 +519,7 @@
           "data1": {
             "type": "vision",
             "subTitle": "Value-Added Training & Certifications",
-            "src": "/images/Kahe/Innerpages/vision.png",
+            "src": "/images/Kahe/icons/academics/vision.svg",
             "content": [
               "AWS, Azure, Google Cloud",
               "Python, R, Machine Learning",
@@ -531,7 +531,7 @@
           "data2": {
             "type": "mission",
             "subTitle": "Placement",
-            "src": "/images/Kahe/Innerpages/goal.png",
+            "src": "/images/Kahe/icons/academics/mission.svg",
             "content": [
               "Students placed in: TCS, Wipro, Infosys, Cognizant, HCL, Accenture, Tech Mahindra",
               "Pre-placement training, aptitude guidance",
@@ -543,7 +543,7 @@
           "data1": {
             "type": "mission",
             "subTitle": "Student Achievements",
-            "src": "/images/Kahe/Innerpages/goal.png",
+            "src": "/images/Kahe/icons/academics/mission.svg",
             "content": [
               "Hackathon winners",
               "Internship selections",
@@ -554,7 +554,7 @@
           "data2": {
             "type": "mission",
             "subTitle": "Faculty Achievements",
-            "src": "/images/Kahe/Innerpages/goal.png",
+            "src": "/images/Kahe/icons/academics/mission.svg",
             "content": [
               "Research publications",
               "Patents",

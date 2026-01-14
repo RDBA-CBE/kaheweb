@@ -49,7 +49,7 @@
         {
           "type": "vision",
           "subTitle": "Vision",
-          "src": "/images/Kahe/Innerpages/vision.png",
+          "src": "/images/Kahe/icons/academics/vision.svg",
           "content": [
             "To impart the knowledge of biology and technology to students to reform society by creating innovative technology and products.",
             "To develop the department as a potential center for research in various disciplines of biotechnology, genomics, proteomics and bioinformatics."
@@ -58,7 +58,7 @@
         {
           "type": "mission",
           "subTitle": "Mission",
-          "src": "/images/Kahe/Innerpages/goal.png",
+          "src": "/images/Kahe/icons/academics/mission.svg",
           "content": [
             "Educating the students to acquire knowledge and skills, to comprehend and commercialize technologies and products.",
             "Training the learners to find out the new technologies and products based on the applications of the life sciences.",

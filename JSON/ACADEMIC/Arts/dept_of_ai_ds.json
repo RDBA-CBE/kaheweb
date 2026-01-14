@@ -54,7 +54,7 @@
         {
           "type": "vision",
           "subTitle": "Vision",
-          "src": "/images/Kahe/Innerpages/vision.png",
+          "src": "/images/Kahe/icons/academics/vision.svg",
           "content": [
             "The vision of the Artificial Intelligence and Data Science (AI & DS) department is to establish itself as a leader in the field by driving innovation and preparing graduates who are industry-ready and socially responsible."
           ]
@@ -62,7 +62,7 @@
         {
           "type": "mission",
           "subTitle": "Mission",
-          "src": "/images/Kahe/Innerpages/goal.png",
+          "src": "/images/Kahe/icons/academics/mission.svg",
           "content": [
             "To provide quality education that integrates core principles of AI and Data Science with hands-on experience to develop industry-ready professionals.",
             "To promote innovation and research by fostering collaborations with industry, academia, and interdisciplinary domains.",
