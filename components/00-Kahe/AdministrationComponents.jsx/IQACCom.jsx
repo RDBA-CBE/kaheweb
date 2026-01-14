@@ -5,6 +5,7 @@ import data from "../../../JSON/Administration/IQAC.json";
 import InnerBanner from "@/components/00-Kahe/common-components/InnerBanner";
 import Sidebar from "../common-components/Sidebar";
 import IQACInnerTab from "../Components/IQACInnerTab";
+import Breadcrumb from "../common-components/BreadCrumb";
 
 export const metadata = {
   title: "Karpagam Academy of Higher Education - Deemed University",
@@ -14,9 +15,21 @@ export const metadata = {
 const IQACCom = () => {
   const IQAC = data;
 
+  const breadcrumbItems = [
+    {
+      label: "Administration",
+      href: `/administration/`,
+    },
+
+    
+
+    { label: "IQAC" },
+  ];
+
   return (
     <>
       <InnerBanner data={IQAC?.bannerCon} />
+      <Breadcrumb items={breadcrumbItems} />
 
       <main className="section-wid d-flex section-bg1 ">
         <div className="rbt-course-details-area w-100">

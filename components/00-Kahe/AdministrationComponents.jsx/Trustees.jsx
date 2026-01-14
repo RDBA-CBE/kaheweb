@@ -4,32 +4,42 @@ import InnerBanner from "@/components/00-Kahe/common-components/InnerBanner";
 import Sidebar from "../common-components/Sidebar";
 import AccordianSidebar from "../common-components/AccordianSidebar";
 import UserCard from "../Components/UserCard";
-
+import Breadcrumb from "../common-components/BreadCrumb";
 
 export const metadata = {
   title: "Karpagam Academy of Higher Education - Deemed University",
-  description: "Karpagam Academy of Higher Education (KAHE) offers a wide range of UG, PG &amp; research programs in Engineering, Arts &amp; Science, Management, Architecture, and Pharmacy.",
+  description:
+    "Karpagam Academy of Higher Education (KAHE) offers a wide range of UG, PG &amp; research programs in Engineering, Arts &amp; Science, Management, Architecture, and Pharmacy.",
 };
 
-
 const Trustees = () => {
-    const BoardOfTrustees = data?.trustees;
+  const BoardOfTrustees = data?.trustees;
 
-    console.log("BoardOfTrustees", BoardOfTrustees);
-    
+  console.log("BoardOfTrustees", BoardOfTrustees);
+
+  const breadcrumbItems = [
+    {
+      label: "Administration",
+      href: `/administration/`,
+    },
+
+    { label: "Board Of Trustees", href: `/administration/board-of-trustees/` },
+
+    { label: "Trustee" },
+  ];
 
   return (
     <>
       <InnerBanner data={BoardOfTrustees?.bannerCon} />
+
+      <Breadcrumb items={breadcrumbItems} />
       {/* <AccordianSidebar subMenu={Administration}/> */}
 
       <main className="section-wid d-flex gap-4 section-bg1">
         <div className="rbt-course-details-area w-100">
           <div className="row">
             <div className="col-lg-9">
-
-              <UserCard data = {BoardOfTrustees}/>
-              
+              <UserCard data={BoardOfTrustees} />
             </div>
 
             <div className="col-lg-3 px-0 d-none d-lg-block sidebar-pg">

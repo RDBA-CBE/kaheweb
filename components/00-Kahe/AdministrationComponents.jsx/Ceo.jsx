@@ -4,6 +4,7 @@ import InnerBanner from "@/components/00-Kahe/common-components/InnerBanner";
 import Sidebar from "../common-components/Sidebar";
 import ImageLink from "../Components/ImageLink";
 import AccordianSidebar from "../common-components/AccordianSidebar";
+import Breadcrumb from "../common-components/BreadCrumb";
 
 
 export const metadata = {
@@ -16,11 +17,23 @@ const Ceo = () => {
     const BoardOfTrustees = data?.ceo;
 
     console.log("BoardOfTrustees", BoardOfTrustees);
+
+    const breadcrumbItems = [
+    {
+      label: "Administration",
+      href: `/administration/`,
+    },
+
+    { label: "Board Of Trustees", href: `/administration/board-of-trustees/` },
+
+    { label: "CEO" },
+  ];
     
 
   return (
     <>
       <InnerBanner data={BoardOfTrustees?.bannerCon} />
+      <Breadcrumb items={breadcrumbItems} />
       {/* <AccordianSidebar subMenu={Administration}/> */}
 
       <main className="section-wid d-flex gap-4 section-bg1">

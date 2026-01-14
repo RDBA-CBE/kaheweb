@@ -5,22 +5,30 @@ import data from "../../../JSON/Administration/BoardOfTrustees.json";
 import Sidebar from "../common-components/Sidebar";
 import { Administration } from "@/JSON/ACADEMIC/Overview";
 import ImageLink from "../Components/ImageLink";
+import Breadcrumb from "../common-components/BreadCrumb";
 
 const ControllerOfExamination = () => {
   console.log("data", data);
+  const breadcrumbItems = [
+    {
+      label: "Administration",
+      href: `/administration/`,
+    },
+
+    { label: "Controller Of Examinations" },
+  ];
 
   const BoardOfTrustees = data?.controller;
   return (
     <>
       <InnerBanner data={BoardOfTrustees?.bannerCon} />
+      <Breadcrumb items={breadcrumbItems} />
 
       <main className="section-wid d-flex section-bg1 ">
         <div className="rbt-course-details-area w-100">
           <div className="row g-5">
             <div className="col-lg-9">
-
-              <ImageLink data={BoardOfTrustees}/>
-              
+              <ImageLink data={BoardOfTrustees} />
             </div>
 
             <div className="col-lg-3 px-0 d-none d-lg-block sidebar-pg">
@@ -35,8 +43,6 @@ const ControllerOfExamination = () => {
           </div>
         </div>
       </main>
-
-      
     </>
   );
 };

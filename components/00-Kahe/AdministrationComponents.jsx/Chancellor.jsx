@@ -4,6 +4,7 @@ import InnerBanner from "@/components/00-Kahe/common-components/InnerBanner";
 import Sidebar from "../common-components/Sidebar";
 import ImageLink from "../Components/ImageLink";
 import AccordianSidebar from "../common-components/AccordianSidebar";
+import Breadcrumb from "../common-components/BreadCrumb";
 
 
 export const metadata = {
@@ -15,6 +16,17 @@ export const metadata = {
 const Chancellor = () => {
     const BoardOfTrustees = data?.chancellor;
 
+     const breadcrumbItems = [
+    {
+      label: "Administration",
+      href: `/administration/`,
+    },
+
+   
+
+    { label: "Chancellor" },
+  ];
+
     console.log("BoardOfTrustees", BoardOfTrustees);
     
 
@@ -22,6 +34,7 @@ const Chancellor = () => {
     <>
       <InnerBanner data={BoardOfTrustees?.bannerCon} />
       {/* <AccordianSidebar subMenu={Administration}/> */}
+      <Breadcrumb items={breadcrumbItems} />
 
       <main className="section-wid d-flex section-bg1 ">
         <div className="rbt-course-details-area w-100">
