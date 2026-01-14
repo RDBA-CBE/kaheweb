@@ -96,7 +96,31 @@
             "multiItems": [
               {
                 "title": "Programme",
-                "desc": "Undergraduate Programme in Computer Technology"
+                "desc": "The Computer Technology program, established in 2014, delivers a dynamic learning experience designed for the digital era. It blends strong computing fundamentals with emerging domains such as Artificial Intelligence, Data Science, and Cyber Security. Equipped with modern laboratories and hands-on project opportunities, students are encouraged to explore ideas, develop solutions, and cultivate future-ready skills. The program prepares confident, adaptable, and industry-ready professionals capable of thriving in today’s rapidly evolving technological landscape."
+              }
+            ],
+            "type": "programme"
+          },
+          {
+            "key": "ug",
+            "title": "B.Sc. Cognitive Systems",
+            "img": "/images/Kahe/academics/arts-and-science/computertechnology/studentprogrammes.webp",
+            "multiItems": [
+              {
+                "title": "Programme",
+                "desc": "The Cognitive Systems program, introduced in 2019 through a strategic collaboration with TCS, offers a forward-looking fusion of technology and human intelligence. The curriculum thoughtfully integrates Artificial Intelligence, Machine Learning, Cognitive Science, and data- driven insights, enabling students to explore how intelligent systems learn, reason, adapt, and interact with the world. Through industry-aligned training, hands-on laboratory sessions, and guided project-based learning, students gain practical experience in solving real-world challenges and designing intelligent applications. The program shapes versatile, future-ready professionals who are equipped to build impactful solutions in an increasingly AI-driven global landscape."
+              }
+            ],
+            "type": "programme"
+          },
+          {
+            "key": "ug",
+            "title": "B.Sc. Cyber Security",
+            "img": "/images/Kahe/academics/arts-and-science/computertechnology/studentprogrammes.webp",
+            "multiItems": [
+              {
+                "title": "Programme",
+                "desc": "The Cyber Security program, introduced in 2024 in collaboration with Ernst & Young (EY), is designed to cultivate professionals who can safeguard the digital world with expertise and assurance. The curriculum thoughtfully integrates ethical hacking, digital forensics, network defense, cloud security, and real-time threat analysis, offering a deep and comprehensive understanding of today’s security landscape. Through industry-aligned training, advanced laboratory experiences, and mentorship from seasoned experts, learners gain firsthand exposure to modern cyber challenges and professional security practices. This program shapes discerning, vigilant, and industry-ready cyber professionals equipped to protect, strengthen, and uphold the integrity of our ever-evolving digital ecosystems."
               }
             ],
             "type": "programme"
