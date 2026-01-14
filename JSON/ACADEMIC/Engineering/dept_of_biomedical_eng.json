@@ -42,7 +42,7 @@
         {
           "type": "vision",
           "subTitle": "Vision",
-          "src": "/images/Kahe/Innerpages/vision.png",
+          "src": "/images/Kahe/icons/academics/vision.svg",
           "content": [
             "To be a nationally recognized biomedical engineering department for disseminating knowledge, healthcare training and developing indigenous products useful to the society."
           ]
@@ -50,7 +50,7 @@
         {
           "type": "mission",
           "subTitle": "Mission",
-          "src": "/images/Kahe/Innerpages/goal.png",
+          "src": "/images/Kahe/icons/academics/mission.svg",
           "content": [
             "To facilitate learners with recent trends in biomedical engineering with emphasis on core specialization through updated curricula and effective teaching learning methods.",
             "To encourage students to take up higher studies, entrepreneurship and involve in translational research leading to patents, publications and products.",

@@ -42,7 +42,7 @@
         {
           "type": "vision",
           "subTitle": "Vision",
-          "src": "/images/Kahe/Innerpages/vision.png",
+          "src": "/images/Kahe/icons/academics/vision.svg",
           "content": [
             "To produce competent biotechnologists through quality education and promote scientific research for the benefit of society and the environment."
           ]
@@ -50,7 +50,7 @@
         {
           "type": "mission",
           "subTitle": "Mission",
-          "src": "/images/Kahe/Innerpages/goal.png",
+          "src": "/images/Kahe/icons/academics/mission.svg",
           "content": [
             "To educate students to acquire strong knowledge and skills in Biotechnology.",
             "To create opportunities for multi-disciplinary education and research in Biotechnology.",

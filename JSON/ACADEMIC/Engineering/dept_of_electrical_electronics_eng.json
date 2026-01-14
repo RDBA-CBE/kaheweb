@@ -42,7 +42,7 @@
         {
           "type": "vision",
           "subTitle": "Vision",
-          "src": "/images/Kahe/Innerpages/vision.png",
+          "src": "/images/Kahe/icons/academics/vision.svg",
           "content": [
             "To evolve as a Centre of Excellence for Teaching–Learning and Research in Electrical and Electronics Engineering."
           ]
@@ -50,7 +50,7 @@
         {
           "type": "mission",
           "subTitle": "Mission",
-          "src": "/images/Kahe/Innerpages/goal.png",
+          "src": "/images/Kahe/icons/academics/mission.svg",
           "content": [
             "Providing quality education through state-of-the-art laboratories, innovative and value-based teaching methodologies.",
             "Establishing a Centre of Excellence in prominent areas of Electrical and Electronics Engineering and supporting faculty members and students to actualize interdisciplinary research.",

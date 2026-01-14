@@ -56,7 +56,7 @@
         {
           "type": "vision",
           "subTitle": "Vision",
-          "src": "/images/Kahe/Innerpages/vision.png",
+          "src": "/images/Kahe/icons/academics/vision.svg",
           "content": [
             "Towards a Global Knowledge Hub, striving continuously in pursuit of excellence in Education, Research, Entrepreneurship and Technological services to the society."
           ]
@@ -64,7 +64,7 @@
         {
           "type": "mission",
           "subTitle": "Mission",
-          "src": "/images/Kahe/Innerpages/goal.png",
+          "src": "/images/Kahe/icons/academics/mission.svg",
           "content": [
             "Bring the vital and exciting element of exploration and discovery to the study of natural sciences at the undergraduate and postgraduate level.",
             "Promote interdisciplinary research across departments and disciplines by setting up centres of excellence in research and teaching.",

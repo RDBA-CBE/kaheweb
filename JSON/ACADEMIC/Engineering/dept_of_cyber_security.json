@@ -38,7 +38,7 @@
         {
           "type": "vision",
           "subTitle": "Vision",
-          "src": "/images/Kahe/Innerpages/vision.png",
+          "src": "/images/Kahe/icons/academics/vision.svg",
           "content": [
             "To provide Quality technical education in order to transform the students into committed and well-prepared computing professionals with innovative research capabilities, ethical and moral values to build a solid nation."
           ]
@@ -46,7 +46,7 @@
         {
           "type": "mission",
           "subTitle": "Mission",
-          "src": "/images/Kahe/Innerpages/goal.png",
+          "src": "/images/Kahe/icons/academics/mission.svg",
           "content": [
             "Train students in the fundamentals and current technological advancement in the field of Computer Science and Engineering.",
             "Pursue creative and innovative research in Computer Science and Engineering to serve the needs of Industry and Society.",

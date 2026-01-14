@@ -42,7 +42,7 @@
         {
           "type": "vision",
           "subTitle": "Vision",
-          "src": "/images/Kahe/Innerpages/vision.png",
+          "src": "/images/Kahe/icons/academics/vision.svg",
           "content": [
             "The Department vision is by giving students strong knowledge in commerce, accounting, and business, along with moral values. The department helps students to become skilled professionals by offering practical learning, encouraging them to think creatively, and supporting research that solves real-life problems. With industry exposure and skill-building activities, students are prepared for successful careers and are motivated to make a positive difference in society."
           ]
@@ -50,7 +50,7 @@
         {
           "type": "mission",
           "subTitle": "Mission",
-          "src": "/images/Kahe/Innerpages/goal.png",
+          "src": "/images/Kahe/icons/academics/mission.svg",
           "content": [
             "The department equips students with the latest knowledge in commerce, accounting, and finance through modern teaching methods and online learning platforms.",
             "Students and faculty are encouraged to undertake research projects that address real-world economic, business, and social issues.",

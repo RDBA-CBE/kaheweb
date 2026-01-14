@@ -46,30 +46,37 @@
     "btnText": "View",
     "content": [
       {
+        "src":"/images/Kahe/icons/office-of-international-affairs/overview/1.svg",
         "title": "Overview",
         "url": "/kahe/office-of-international-affairs/office-of-international-affairs-overview/"
       },
       {
+        "src":"/images/Kahe/icons/office-of-international-affairs/overview/2.svg",
         "title": "Partnerships & Scholarships",
         "url": "/kahe/office-of-international-affairs/partnerships-scholarships/"
       },
       {
+        "src":"/images/Kahe/icons/office-of-international-affairs/overview/3.svg",
         "title": "Collaboration and Exchanges",
         "url": "/kahe/office-of-international-affairs/collaboration-and-exchanges/"
       },
       {
+        "src":"/images/Kahe/icons/office-of-international-affairs/overview/4.svg",
         "title": "Foreign Languages",
         "url": "/kahe/office-of-international-affairs/foreign-languages/"
       },
       {
+        "src":"/images/Kahe/icons/office-of-international-affairs/overview/5.svg",
         "title": "International Admissions",
         "url": "/kahe/office-of-international-affairs/international-admissions/"
       },
       {
+        "src":"/images/Kahe/icons/office-of-international-affairs/overview/6.svg",
         "title": "Testimonials",
         "url": "/kahe/office-of-international-affairs/testimonials/"
       },
       {
+        "src":"/images/Kahe/icons/office-of-international-affairs/overview/7.svg",
         "title": "Contact",
         "url": "/kahe/office-of-international-affairs/contact/"
       }

@@ -10,26 +10,32 @@
     "btnText": "View",
     "content": [
       {
+        "src": "/images/Kahe/icons/admission/admission-details/overview/admission-procedure.svg",
         "title": "Admission Procedure",
         "url": "/kahe/admissions/admission-details/admission-procedure/"
       },
       {
+        "src": "/images/Kahe/icons/admission/admission-details/overview/how-to-apply.svg",
         "title": "How to apply",
         "url": "/kahe/admissions/admission-details/how-to-apply/"
       },
       {
+        "src": "/images/Kahe/icons/admission/admission-details/overview/ug.svg",
         "title": "Under Graduate Programmes",
         "url": "/kahe/admissions/admission-details/ug-programs/"
       },
       {
+        "src": "/images/Kahe/icons/admission/admission-details/overview/pg.svg",
         "title": "Post Graduate Programmes",
         "url": "/kahe/admissions/admission-details/pg-programs/"
       },
       {
+        "src": "/images/Kahe/icons/admission/admission-details/overview/research-programmes.svg",
         "title": "Research Programmes",
         "url": "/kahe/admissions/admission-details/research-programs/"
       },
       {
+        "src": "/images/Kahe/icons/admission/admission-details/overview/fee-refund-policy.svg",
         "title": "Fee Refund Policy",
         "url": "https://kahedu.edu.in/n/wp-content/uploads/2023/07/fee-refund-policy.pdf",
         "target":"_blank"

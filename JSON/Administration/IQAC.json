@@ -45,7 +45,7 @@
       "objectives": {
         "offerToTheStudent": {
           "subTitle": "Objectives",
-          "src": "/images/Kahe/Innerpages/vision.png",
+          "src": "/images/Kahe/icons/iqac/objectives.svg",
           "content": [
             "To develop a system for conscious, consistent and creditable action to improve the academic and administrative performance of the institution.",
             "To promote measures for institutional functioning towards quality enhancement through internalization of quality culture and institutionalization of best practices."
@@ -54,7 +54,7 @@
         "responsibilities": {
           "type": "mission",
           "subTitle": "Functions",
-          "src": "/images/Kahe/Innerpages/goal.png",
+          "src": "/images/Kahe/icons/iqac/functions.svg",
           "content": [
             "Development and application of quality benchmarks for various academic and administrative activities of the institution.",
             "Creation of a learner centric environment conducive to quality education and faculty development for participatory teaching and learning process.",

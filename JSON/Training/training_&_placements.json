@@ -386,21 +386,28 @@
         "title1": "The Various training Edge Includes",
         "content": [
           {
+            "src": "/images/Kahe/icons/training-and-placement/1.svg",
             "title": "Presentation Skills"
           },
           {
+            "src": "/images/Kahe/icons/training-and-placement/2.svg",
             "title": "Arithmetic logical Reasoning"
           },
           {
+            "src": "/images/Kahe/icons/training-and-placement/3.svg",
             "title": "Verbal Reasoning"
           },
           {
+            "src": "/images/Kahe/icons/training-and-placement/4.svg",
             "title": "Group Discussion"
           },
+          
           {
+            "src": "/images/Kahe/icons/training-and-placement/5.svg",
             "title": "Individual Etiquettes"
           },
           {
+            "src": "/images/Kahe/icons/training-and-placement/6.svg",
             "title": "Situational Reasoning"
           }
         ]
@@ -452,7 +459,7 @@
       },
       "offerToTheStudent": {
         "subTitle": "What we offer to the student community, society and industry ?",
-        "src": "/images/Kahe/Innerpages/vision.png",
+        "src": "/images/Kahe/icons/training-and-placement/student-community.svg",
         "content": [
           "To prepare flyers for the institution branding and awareness.",
           "To invite prospective companies to campus",
@@ -465,7 +472,7 @@
       "responsibilities": {
         "type": "Responsibilities of Department coordinators (related to Training and Placement)",
         "subTitle": "Responsibilities of Department coordinators (related to Training and Placement)",
-        "src": "/images/Kahe/Innerpages/goal.png",
+        "src": "/images/Kahe/icons/training-and-placement/department-coordinators.svg",
         "content": [
           "To facilitate the communication process  between department, Career Development and Corporate Relations Cell.",
           "To acquire the information from the placement team and identify and organize the students for training based on the eligibility.",

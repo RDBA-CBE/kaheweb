@@ -118,7 +118,7 @@
         {
           "type": "vision",
           "subTitle": "Vision",
-          "src": "/images/Kahe/Innerpages/vision.png",
+          "src": "/images/Kahe/icons/academics/vision.svg",
           "content": [
             "The Computer Science Department is formed to provide the best leading programs in the computer-oriented programme which are recognized across the world. The faculty and students dedicate themselves to take the maximal advantage of modern Computer Science to solve a wide range of complex scientific, technological and social problems. The department continues to promote innovative research in the core Computer Science as well as multidisciplinary application areas."
           ]
@@ -126,7 +126,7 @@
         {
           "type": "mission",
           "subTitle": "Mission",
-          "src": "/images/Kahe/Innerpages/goal.png",
+          "src": "/images/Kahe/icons/academics/mission.svg",
           "content": [
             "To provide motivated faculty and state of the art facilities for education and research, both in foundational aspects and emerging computing trends.",
             "To develop knowledgeable, industry-ready students with pertinent competencies such as problem solving, leadership, and interpersonal skills"
@@ -1013,7 +1013,7 @@
           "data1": {
             "type": "vision",
             "subTitle": "MOU’S SIGNED",
-            "src": "/images/Kahe/Innerpages/vision.png",
+            "src": "/images/Kahe/icons/academics/vision.svg",
 
             "content": [
               "Institutional Member in National Cyber Safety and Security Standards and National Cyber Security Research and Development Centre.",
@@ -1026,7 +1026,7 @@
           "data1": {
             "type": "vision",
             "subTitle": "VAC Courses Conducted",
-            "src": "/images/Kahe/Innerpages/vision.png",
+            "src": "/images/Kahe/icons/academics/vision.svg",
 
             "content": [
               "Conducted Business Data Analytics with 55 beneficiaries",
@@ -1040,7 +1040,7 @@
           "data1": {
             "type": "vision",
             "subTitle": "CENTER OF EXCELLENCE",
-            "src": "/images/Kahe/Innerpages/vision.png",
+            "src": "/images/Kahe/icons/academics/vision.svg",
 
             "content": ["Cyber Defence Resource Centre (CDRC) KAHE"]
           }
