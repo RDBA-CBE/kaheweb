@@ -56,6 +56,20 @@
             "To motivate students to pursue higher education through competitive examinations.",
             "To give a broad education to the students on recent areas of development through well-established laboratory facilities, collaborative projects with academic research and industrial exposure."
           ]
+        },
+                {
+          "type": "hod",
+          "items": {
+            "content": [
+              {
+                "title1": "Professional Practice to Improve the Performances Through Ideas and Proposals",
+                
+                "caption": "Professor and Head",
+                "content": "Department of civil engineering under Faculty of Engineering in Karpagam Academy of Higher Education, Coimbatore has established a full-fledged Consultancy and testing wing since January 2018 and experts in this section provide consultancy in the area of structural design, guidance related to building construction, Planning, documentation, etc., Local planning authority Coimbatore certified five of our staff members as registered engineers in various categories like Structural Design work, Developer, Geo-Technical Engineering, Registered Engineer, and Construction Engineer. We have been conducting Geotechnical investigation, material, and water sample testing work for many of the Smart City projects proposed by Coimbatore, Tiruppur city Municipal Corporation, Nilgiris Horticulture department, and Kaur Govt. Medical College works. Our Department experts are authorized for issuing Third Party Inspection Certificate to town panchayat road works of Sulur, Vellalore, Kinathukadavu, and Madhukarai. We are also providing the above-mentioned consultancy & testing service to various private construction works like Multistorey buildings, Commercial complex, and Industrial shed.",
+                "src": "/images/Kahe/team-13.png"
+              }
+            ]
+          }
         }
       ]
     },
@@ -537,6 +551,7 @@
         {
           "title": "Others",
           "content": [
+            "Dr.V.Johnpaul,Assistant Professor, Department of Civil Engineering to attend the Three -day Advanced Course on “Recent Advances in Concrete Technology & Durability of Concrete Structures from 21.01.2026 to 23.01.2026 at Chennai.",
             "Three Days Skill Development Program on “Plumbing & Drafting” from 03.12.2025 to 05.12.2025",
             "Five-day Faculty Development Program on “Recent Advances and Sustainable Innovations in Civil Engineering” from 24.11.2025 to 28.11.2025.",
             "Alumni Talk on “Career Versality” on 19.11.2025.",
