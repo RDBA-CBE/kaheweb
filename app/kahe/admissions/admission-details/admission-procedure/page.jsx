@@ -1,3 +1,4 @@
+
 import AdmissionProcedure from "@/components/00-Kahe/DirectPageComponent/AdmissionProcedure";
 
 export const metadata = {

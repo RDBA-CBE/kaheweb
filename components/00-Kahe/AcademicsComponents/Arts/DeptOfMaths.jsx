@@ -21,7 +21,7 @@ const DeptOfMaths = () => {
       href: `academics/arts-science-and-humanities/`,
     },
 
-    { label: "Department of Maths" },
+    { label: "Department of Mathematics" },
   ];
   return (
     <>

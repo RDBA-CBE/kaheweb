@@ -25,7 +25,7 @@ const DepartmentOfPharmacy = () => {
       href: `academics/engineering/`,
     },
 
-    { label: 'Department of Civil Engineering' },
+    { label: 'Department of Pharmacy' },
   ];
 
   return (

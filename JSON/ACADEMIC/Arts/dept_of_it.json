@@ -2,7 +2,7 @@
   "title": "Department of Information Technology",
   "bannerCon": "Equipping students with modern IT skills and practical knowledge, to innovate and excel in the digital world.",
   "applyLink": "#",
-  "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+  "bannerImg": "/images/Kahe/academics/arts-and-science/information-technology/it-banner.png",
   "tabs": [
     {
       "id": "overview",
@@ -49,7 +49,7 @@
           "type": "overview",
           "subTitle": "Overview",
           "contents": "The Department of Information Technology stands as a vibrant hub of innovation, academic excellence, and industry-aligned learning. With a strong commitment to shaping future-ready IT professionals, the department blends cutting-edge curriculum, hands-on lab experience, and real-world problem-solving to prepare students for emerging technologies and global opportunities.Our faculty team comprises highly qualified academicians, industry experts, and research mentors dedicated to nurturing every learner’s potential. We encourage curiosity, creativity, and continuous learning — the values that define the IT profession.",
-          "image": "/images/others/video-07.jpg"
+          "image": "/images/Kahe/academics/arts-and-science/information-technology/overview.webp"
         },
         {
           "type": "vision",
@@ -139,7 +139,7 @@
           {
             "key": "ug",
             "title": "B.Sc. Information Technology",
-            "img": "/images/others/health-b-02.png",
+            "img": "/images/Kahe/academics/arts-and-science/information-technology/studentprogrammes.webp",
             "multiItems": [
               {
                 "title": "Programme",
@@ -156,7 +156,7 @@
           {
             "key": "bsc-it",
             "title": "B.Sc. Information Technology",
-            "img": "/images/others/health-b-02.png",
+            "img": "/images/Kahe/academics/arts-and-science/information-technology/studentprogrammes.webp",
             "type": "curriculum",
             "items": [
               {

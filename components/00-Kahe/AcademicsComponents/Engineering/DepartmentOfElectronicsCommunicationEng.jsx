@@ -25,7 +25,7 @@ const DepartmentOfElectronicsCommunicationEng = () => {
       href: `academics/engineering/`,
     },
 
-    { label: 'Department of Civil Engineering' },
+    { label: 'Department of Electronics and Communication Engineering' },
   ];
 
   return (

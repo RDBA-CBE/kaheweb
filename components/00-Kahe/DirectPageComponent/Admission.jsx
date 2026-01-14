@@ -9,7 +9,8 @@ import { Provider } from "react-redux";
 import Context from "@/context/Context";
 import Store from "@/redux/store";
 import Sidebar2 from "../common-components/Sidebar2";
-import { subMenu } from "@/JSON/ACADEMIC/Overview";
+import { Admissions } from "@/JSON/ACADEMIC/Overview";
+
 
 const Admission = () => {
   const admission = data.admissionOverview;
@@ -32,7 +33,7 @@ const Admission = () => {
             <RowContent data={admission?.address} />
           </div>
 
-          <Sidebar2 subMenu={subMenu} />
+          <Sidebar2 subMenu={Admissions} />
         </Context>
       </Provider>
     </>
