@@ -2,7 +2,7 @@
   "title": "Department of Chemistry",
   "bannerCon": "Exploring matter through scientific inquiry and experimentation, to drive innovation in chemical sciences.",
   "applyLink": "#",
-  "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+  "bannerImg": "/images/Kahe/academics/arts-and-science/chemistry/chemistry-banner.webp",
   "tabs": [
     {
       "id": "overview",
@@ -41,7 +41,7 @@
           "type": "overview",
           "subTitle": "Overview",
           "contents": "Department of Chemistry was established in 2008 at Karpagam Academy of Higher Education (KAHE). Our Department offers Postgraduate (M.Sc.) and Ph.D. Programmes. The main objective of the Department is to impart knowledge among the students in core areas of Chemistry. Apart from the core courses, knowledge about the latest trends in Chemistry including Green Chemistry, Medicinal Chemistry, Material Chemistry and Nanochemistry are also included in the regular curriculum. Further, our Department provides training to the Postgraduate students in the sophisticated instruments like UV-Visible, IR Spectrometer, Gas Chromatography, Computational Chemistry tools, Microwave Synthesizer, etc., to fit them to industries and to research organizations like CSIR, DAE, etc. Our Department has also tie-ups with various recognized international/national institutions, and industries for student projects, training and research activities.Department of Chemistry has talented and passionate faculty members whose research areas are Synthetic Organic Chemistry, Photochemistry, Electrochemistry, Advanced Functional Materials, Energy and Water Pollution Emendation. Our Department is equipped with Sophisticated instruments like HPLC, UV-Visible Spectrometer, FT-IR Spectrometer, Gas Chromatographic Analyzer, etc. Faculty members of our Department have been publishing research articles in various reputed journals of American Chemical Society, Royal Society of Chemistry, Wiley, Springer-Nature, and Elsevier etc.,Department of Chemistry established two Centre of Excellences namely, Advanced Battery Research Centre (ABRC) and Centre for Material Chemistry (CMC). ABRC equipped with Computer Controlled battery testers and offering test facilities as per International Standard such as IIS, EN, SAE and ICE. CMC equipped with Sophisticated equipment’s like Fluorescence Spectrophotometer, TG-DTA Thermal analyzer, DSC Thermal Analyzer, UV DRS Spectrophotometer, FT-IR Spectrometer (ATR), and Electrochemical workstation.The Department was supported by DST-TDT, Govt. of India and TNSCST, Govt. of Tamil Nadu through research grants of more than Rs. 81 lakhs.",
-          "image": "/images/others/video-07.jpg"
+          "image": "/images/Kahe/academics/arts-and-science/chemistry/overview.webp"
         },
         {
           "type": "vision",
@@ -130,7 +130,7 @@
           {
             "key": "ug",
             "title": "B.Sc. Programme",
-            "img": "/images/others/health-b-02.png",
+            "img": "/images/Kahe/academics/arts-and-science/chemistry/studentprogrammes.webp",
             "multiItems": [
               {
                 "title": "Programme Offered",
@@ -144,7 +144,7 @@
           {
             "key": "pg",
             "title": "M.Sc. Programme",
-            "img": "/images/others/health-b-02.png",
+            "img": "/images/Kahe/academics/arts-and-science/chemistry/studentprogrammes.webp",
             "multiItems": [
               {
                 "title": "Programme Offered",
@@ -158,7 +158,7 @@
           {
             "key": "res",
             "title": "Ph.D. Programme",
-            "img": "/images/others/health-b-02.png",
+            "img": "/images/Kahe/academics/arts-and-science/chemistry/studentprogrammes.webp",
             "multiItems": [
               {
                 "title": "Programme Offered",
@@ -177,7 +177,7 @@
           {
             "key": "bsc",
             "title": "B.Sc. Chemistry",
-            "img": "/images/others/health-b-02.png",
+          "img": "/images/Kahe/academics/arts-and-science/chemistry/studentprogrammes.webp",
             "type": "curriculum",
             "items": [
               {
@@ -193,7 +193,7 @@
           {
             "key": "msc",
             "title": "M.Sc. Chemistry",
-            "img": "/images/others/health-b-02.png",
+            "img": "/images/Kahe/academics/arts-and-science/chemistry/studentprogrammes.webp",
             "type": "curriculum",
             "items": [
               {
@@ -233,7 +233,7 @@
           {
             "key": "phd",
             "title": "Ph.D. Chemistry",
-            "img": "/images/others/health-b-02.png",
+          "img": "/images/Kahe/academics/arts-and-science/chemistry/studentprogrammes.webp",
             "type": "curriculum",
             "items": [
               {
@@ -271,7 +271,7 @@
       "basic": {
         "title": "Faculty",
         "description": "Our faculty members are the major cause for our sustained capacity to impart vivacious and value-based education for the student community. This platform paves a pathway to our faculty members to progress their knowledge and to carry the observed concepts to the classrooms and laboratories, thus, serving the students in the department",
-        "src": "/images/Kahe/Innerpages/vission.jpg",
+        "src": "/images/Kahe/general/faculty.webp",
         "buttonText": "View All Faculty"
       },
       "breadcrumbItems": [

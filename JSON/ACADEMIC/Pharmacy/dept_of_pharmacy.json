@@ -2,7 +2,7 @@
   "title": "Department of Pharmacy",
   "bannerCon": "Advancing pharmaceutical knowledge through research and innovation, to develop safe and effective healthcare solutions.",
   "applyLink": "#",
-  "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+  "bannerImg": "/images/Kahe/academics/pharmacy/departmentofpharmacy-banner.png",
   "tabs": [
     {
       "id": "overview",
@@ -37,7 +37,7 @@
           "type": "overview",
           "subTitle": "Overview",
           "contents": "The department was established in 2015 with B.Pharm degree course with the approval of the Pharmacy Council of India (PCI), New Delhi, and has since been deeply rooted in classical pharmacy teaching and research. In 2019, the department started the Pharm. D. course and got approval for M.Pharm in Pharmaceutical Analysis. The discipline covers a broad range of teaching and research areas like pharmacokinetics, drug-receptor theory, identification and validation of drug targets, agonist and antagonist drug discovery, molecular and cellular mechanisms of drug actions, disease-specific systems of pharmacy, drug modality development, pharmacogenetics, and personalized medicine, drug discovery development, and clinical trial, to adverse drug reactions and toxicology. Currently, the department has a strong academic and research team committed to excel in pharmacy education and research missions.The department is strengthened with a drug testing laboratory, Karpagam Pharma LLP, and a Research center equipped with sophisticated instruments and facilities. The students are trained as per the industry’s needs with skill development, program, and placement training programs and will become pharmaceutical drug industry and clinical drug trial professionals.The students are trained to compete in various competitive exams like GPAT and are allotted internship training in hospitals and industries. They also enthusiastically participate in different cultural, sports, NSS, and other outreach programs conducted at the university and national competitions.",
-          "image": "/images/others/video-07.jpg"
+          "image": "/images/Kahe/academics/pharmacy/pharmacy-overview.png"
         }
       ]
     },
@@ -49,7 +49,7 @@
           {
             "key": "ug",
             "title": "Under Graduate Programme",
-            "img": "/images/others/health-b-02.png",
+            "img": "/images/Kahe/academics/pharmacy/pharmacy-studentprogrammes.png",
             "items": [
               "B.Pharm. (Strength: 100)"
             ],
@@ -58,7 +58,7 @@
           {
             "key": "pg",
             "title": "Post Graduate Programmes",
-            "img": "/images/others/health-b-02.png",
+            "img": "/images/Kahe/academics/pharmacy/pharmacy-studentprogrammes.png",
             "items": [
               "Pharm.D (Strength: 30)",
               "M.Pharm. – Pharmaceutical Analysis (Strength: 18)",
@@ -70,7 +70,7 @@
           {
             "key": "research",
             "title": "Research Programme",
-            "img": "/images/others/health-b-02.png",
+            "img": "/images/Kahe/academics/pharmacy/pharmacy-studentprogrammes.png",
             "items": [
               "Ph.D – Pharmacy"
             ],
@@ -84,7 +84,7 @@
           {
             "key": "bpharm",
             "title": "B.Pharm.",
-            "img": "/images/others/health-b-02.png",
+            "img": "/images/Kahe/academics/pharmacy/pharmacy-studentprogrammes.png",
             "type": "curriculum",
             "items": [
               {
@@ -128,7 +128,7 @@
           {
             "key": "pharmd",
             "title": "Pharm.D",
-            "img": "/images/others/health-b-02.png",
+            "img": "/images/Kahe/academics/pharmacy/pharmacy-studentprogrammes.png",
             "type": "curriculum",
             "items": [
               {
@@ -164,7 +164,7 @@
           {
             "key": "mpharm-analysis",
             "title": "M.Pharm – Pharmaceutical Analysis",
-            "img": "/images/others/health-b-02.png",
+            "img": "/images/Kahe/academics/pharmacy/pharmacy-studentprogrammes.png",
             "type": "curriculum",
             "items": [
               {
@@ -200,7 +200,7 @@
           {
             "key": "mpharm-chemistry",
             "title": "M.Pharm – Pharmaceutical Chemistry",
-            "img": "/images/others/health-b-02.png",
+             "img": "/images/Kahe/academics/pharmacy/pharmacy-studentprogrammes.png",
             "type": "curriculum",
             "items": [
               {
@@ -216,7 +216,7 @@
           {
             "key": "mpharm-pharmaceutics",
             "title": "M.Pharm – Pharmaceutics",
-            "img": "/images/others/health-b-02.png",
+           "img": "/images/Kahe/academics/pharmacy/pharmacy-studentprogrammes.png",
             "type": "curriculum",
             "items": [
               {
@@ -232,7 +232,7 @@
           {
             "key": "phd-pharmacy",
             "title": "Ph.D – Pharmacy",
-            "img": "/images/others/health-b-02.png",
+            "img": "/images/Kahe/academics/pharmacy/pharmacy-studentprogrammes.png",
             "type": "curriculum",
             "items": [
               {
@@ -262,7 +262,7 @@
       "basic": {
         "title": "Faculty",
         "description": "Our faculty members are the major cause for our sustained capacity to impart vivacious and value-based education for the student community. This platform paves a pathway to our faculty members to progress their knowledge and to carry the observed concepts to the classrooms and laboratories, thus, serving the students in the department",
-        "src": "/images/Kahe/Innerpages/vission.jpg",
+        "src": "/images/Kahe/general/faculty.webp",
         "buttonText": "View All Faculty"
       },
       "breadcrumbItems": [

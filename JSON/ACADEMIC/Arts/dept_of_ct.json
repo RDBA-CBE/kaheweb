@@ -2,7 +2,7 @@
   "title": "Department of Computer Technology",
   "bannerCon": "Blending theory with hands-on computing skills, to prepare students for real-world technology challenges.",
   "applyLink": "#",
-  "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+  "bannerImg": "/images/Kahe/academics/arts-and-science/computertechnology/computertechnology-banner.webp",
   "tabs": [
     {
       "id": "overview",
@@ -49,7 +49,7 @@
           "type": "overview",
           "subTitle": "Overview",
           "contents": "A premier destination for learning, discovery, and technological innovation, our institution offers advanced programs in Cognitive Systems, Cyber Security, and Computer Technology. These programs blend strong foundational knowledge with emerging technologies, ensuring students develop the skills needed for a rapidly evolving digital world.With expert faculty, modern laboratories, and active industry partnerships, we foster an environment where learners can explore ideas, work on real-time projects, and gain practical exposure to professional practices. Our focus extends beyond technical skills, emphasizing analytical thinking, ethical responsibility, and innovation.We shape confident, industry-ready graduates equipped to lead with intelligence, integrity, and a forward-looking mindset.",
-          "image": "/images/others/video-07.jpg"
+          "image": "/images/Kahe/academics/arts-and-science/computertechnology/overview.webp"
         },
         {
           "type": "vision",
@@ -92,7 +92,7 @@
           {
             "key": "ug",
             "title": "B.Sc. Computer Technology",
-            "img": "/images/others/health-b-02.png",
+            "img": "/images/Kahe/academics/arts-and-science/computertechnology/studentprogrammes.webp",
             "multiItems": [
               {
                 "title": "Programme",
@@ -109,7 +109,7 @@
           {
             "key": "bsc-ct",
             "title": "B.Sc. Computer Technology",
-            "img": "/images/others/health-b-02.png",
+            "img": "/images/Kahe/academics/arts-and-science/computertechnology/studentprogrammes.webp",
             "type": "curriculum",
             "items": [
               {
@@ -141,7 +141,7 @@
           {
             "key": "bsc-cs-cognitive",
             "title": "B.Sc. Computer Science (Cognitive Systems)",
-            "img": "/images/others/health-b-02.png",
+             "img": "/images/Kahe/academics/arts-and-science/computertechnology/studentprogrammes.webp",
             "type": "curriculum",
             "items": [
               {
@@ -173,7 +173,7 @@
           {
             "key": "bsc-cs-cyber",
             "title": "B.Sc. Computer Science (Cyber Security)",
-            "img": "/images/others/health-b-02.png",
+             "img": "/images/Kahe/academics/arts-and-science/computertechnology/studentprogrammes.webp",
             "type": "curriculum",
             "items": [
               {
@@ -195,7 +195,7 @@
       "basic": {
         "title": "Faculty",
         "description": "The faculty of the Department of Computer Technology at Karpagam Academy of Higher Education (KAHE) comprises qualified academicians and industry-oriented professionals with expertise in computer science, software development, data analytics, artificial intelligence, and emerging digital technologies. They are committed to delivering quality education through a strong blend of theoretical knowledge, practical laboratory training, project-based learning, and research guidance, preparing students for successful careers in IT, software industries, research, and technological innovation.",
-        "src": "/images/Kahe/Innerpages/vission.jpg",
+        "src": "/images/Kahe/general/faculty.webp",
         "buttonText": "View All Faculty"
       },
       "breadcrumbItems": [

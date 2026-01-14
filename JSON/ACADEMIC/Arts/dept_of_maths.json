@@ -43,7 +43,7 @@
           "type": "overview",
           "subTitle": "Overview",
           "contents": "The Department of Mathematics, established in 2009, serves as a strong academic backbone for the institution by delivering rigorous training in mathematical sciences and statistics. The Department offers full-time postgraduate and research programmes, including M.Sc. in Mathematics and Ph.D. in Mathematics, with a focus on developing both theoretical understanding and practical problem-solving skills. The Department actively supports interdisciplinary learning by providing foundational and allied courses to various departments. Through a structured curriculum, continuous assessment and research-oriented learning, students are trained to think logically, analyze complex problems and apply mathematical principles to real-world challenges.The Department has built a strong academic reputation through consistent student performance, successful alumni and active research contributions. Research activities are carried out in specialized areas such as Fuzzy Mathematics, Differential Equations, Queueing Theory, Fluid Dynamics and Fuzzy Topology, leading to publications in reputed journals. With a commitment to academic integrity, innovation and excellence, the Department of Mathematics continues to evolve as a centre for learning, research and professional development.",
-          "image": "/images/others/video-07.jpg"
+          "image": "/images/Kahe/academics/arts-and-science/mathematics/overview.webp"
         },
 
         {
@@ -91,14 +91,14 @@
           {
             "key": "ug",
             "title": "Post Graduate Programme",
-            "img": "/images/others/health-b-02.png",
+            "img": "/images/Kahe/academics/arts-and-science/mathematics/studentprogrammes.webp",
             "items": ["M.Sc. Mathematics"],
             "type": "programme"
           },
           {
             "key": "pg",
             "title": "Research Programme",
-            "img": "/images/others/health-b-02.png",
+            "img": "/images/Kahe/academics/arts-and-science/mathematics/studentprogrammes.webp",
             "items": ["Ph.D. in Mathematics"],
             "type": "programme"
           }
@@ -110,7 +110,7 @@
           {
             "key": "bsc",
             "title": "M.Sc. Mathematics",
-            "img": "/images/others/health-b-02.png",
+            "img": "/images/Kahe/academics/arts-and-science/mathematics/studentprogrammes.webp",
             "type": "curriculum",
             "items": [
               {
@@ -138,7 +138,7 @@
           {
             "key": "msc",
             "title": "Ph.D. Mathematics",
-            "img": "/images/others/health-b-02.png",
+            "img": "/images/Kahe/academics/arts-and-science/mathematics/studentprogrammes.webp",
             "type": "curriculum",
             "items": [
               {

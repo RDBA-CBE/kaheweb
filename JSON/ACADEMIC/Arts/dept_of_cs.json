@@ -2,7 +2,7 @@
   "title": "Department of Computer Science",
   "bannerCon": "Integrating algorithms, programming, and emerging technologies, to create skilled and innovative computer scientists.",
   "applyLink": "#",
-  "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+  "bannerImg": "/images/Kahe/academics/arts-and-science/computersciences/computerscience-banner.webp",
   "tabs": [
     {
       "id": "overview",
@@ -53,7 +53,7 @@
           "type": "overview",
           "subTitle": "Overview",
           "contents": "The Department of Computer Science, established with B.Sc. Computer Science in 1995 and now it is offering a Postgraduate programme and Research Programme. The department provides a current and comprehensive learning environment for the students. The department fosters personal and professional growth for both students and faculty and is committed to impart quality education by providing strong fundamental knowledge complemented by extensive practical training. With academic autonomy, the department regularly updates its curriculum and syllabi enabling the students to apply the latest techniques, methods, and tools to solve problems in all domains.",
-          "image": "/images/others/video-07.jpg"
+          "image": "/images/Kahe/academics/arts-and-science/computersciences/overview.webp"
         },
         {
           "type": "highlights",
@@ -156,7 +156,7 @@
           {
             "key": "ug",
             "title": "Undergraduate Programmes",
-            "img": "/images/others/health-b-02.png",
+            "img": "/images/Kahe/academics/arts-and-science/computersciences/studentprogrammes.webp",
             "multiItems": [
               {
                 "title": "UG",
@@ -168,7 +168,7 @@
           {
             "key": "pg",
             "title": "Postgraduate Programmes",
-            "img": "/images/others/health-b-02.png",
+           "img": "/images/Kahe/academics/arts-and-science/computersciences/studentprogrammes.webp",
             "multiItems": [
               {
                 "title": "PG",
@@ -180,7 +180,7 @@
           {
             "key": "research",
             "title": "Research Programmes",
-            "img": "/images/others/health-b-02.png",
+            "img": "/images/Kahe/academics/arts-and-science/computersciences/studentprogrammes.webp",
             "multiItems": [
               {
                 "title": "Research",
@@ -198,7 +198,7 @@
           {
             "key": "bsc-cs",
             "title": "B.Sc. Computer Science",
-            "img": "/images/others/health-b-02.png",
+             "img": "/images/Kahe/academics/arts-and-science/computersciences/studentprogrammes.webp",
             "type": "curriculum",
             "items": [
               {
@@ -230,7 +230,7 @@
           {
             "key": "msc-cs",
             "title": "M.Sc. Computer Science",
-            "img": "/images/others/health-b-02.png",
+           "img": "/images/Kahe/academics/arts-and-science/computersciences/studentprogrammes.webp",
             "type": "curriculum",
             "items": [
               {
@@ -262,7 +262,7 @@
           {
             "key": "phd-cs",
             "title": "Ph.D. Computer Science",
-            "img": "/images/others/health-b-02.png",
+            "img": "/images/Kahe/academics/arts-and-science/computersciences/studentprogrammes.webp",
             "type": "curriculum",
             "items": [
               {
@@ -723,8 +723,8 @@
       "slug": "department-of-computer-science",
       "basic": {
         "title": "Faculty",
-        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Temporibus architecto magnam, eius, labore vel enim eveniet officiis veritatis reiciendis expedita ab odit nobis, itaque aspernatur suscipit odio inventore consectetur autem!",
-        "src": "/images/Kahe/Innerpages/vission.jpg",
+        "description": "The Department of Computer Science at Karpagam Academy of Higher Education (KAHE) is supported by a highly qualified, dedicated, and experienced team of faculty members committed to academic excellence and student success. The faculty comprises Professors, Associate Professors, and Assistant Professors with strong academic credentials, including Ph.D., NET, SET, M.Phil., and postgraduate qualifications from reputed institutions. ",
+        "src": "/images/Kahe/general/faculty.webp",
         "buttonText": "View All Faculty"
       },
       "breadcrumbItems": [

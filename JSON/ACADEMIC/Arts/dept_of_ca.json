@@ -2,7 +2,7 @@
   "title": "Department of Computer Application",
   "bannerCon": "Where coding meets creativity, shaping the next generation of IT professionals.",
   "applyLink": "#",
-  "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+  "bannerImg": "/images/Kahe/academics/arts-and-science/computer-applications/computerapplications-banner.webp",
   "tabs": [
     {
       "id": "overview",
@@ -49,7 +49,7 @@
           "type": "overview",
           "subTitle": "Overview",
           "contents": "The Department of Computer Applications was established in 2006 with the intent to provide quality education to the young aspirants. A team of 19 teaching and 05 technical staff members under the leadership of Dr. G.Devika unanimously harnesses its potential in all aspects to take the department to greater heights. The department had intake of 60 in 2006 and now the current intake for the undergraduate programme is 180. The Postgraduate (PG) programme in Computer Applications has a student intake of 120. Our curriculum is well structured and provides a strong foundation in every area of Computer Applications. The curriculum of the course syllabus comprises both classroom-based teachings as well as practical training along with internship programs. The curriculum can be persistently upgraded and revamped to prepare the students with all the necessary competencies in order to excel and become future-ready professionals as part of the workforce. Students are regularly placed in top MNCs with an average package of 13.5 LPA. Our students are pursuing higher education in top universities (Indian as well as Foreign). The department encourages students to participate in various National and International level competitions, project exhibitions, hackathons, sports events and extra-curricular activities. Students have won awards in various competitions including significant achievements in Smart India Hackathon. Department is also assisting students in getting internships at niche companies with pre-placement offer",
-          "image": "https://kahedu.edu.in/n/wp-content/uploads/2026/01/CA-1.jpg"
+          "image": "/images/Kahe/academics/arts-and-science/computer-applications/overview.webp"
         },
         {
           "type": "highlights",
@@ -119,14 +119,14 @@
           {
             "key": "ug",
             "title": "Under Graduate Programme",
-            "img": "/images/others/health-b-02.png",
+            "img": "/images/Kahe/academics/arts-and-science/computer-applications/studentprogrammes.webp",
             "items": ["BCA Computer Applications (Strength: 150)"],
             "type": "programme"
           },
           {
             "key": "pg",
             "title": "Post Graduate Programme",
-            "img": "/images/others/health-b-02.png",
+           "img": "/images/Kahe/academics/arts-and-science/computer-applications/studentprogrammes.webp",
             "items": ["MCA Computer Applications (Strength: 120)"],
             "type": "programme"
           }
@@ -138,7 +138,7 @@
           {
             "key": "bsc",
             "title": "BCA (Computer Applications)",
-            "img": "/images/others/health-b-02.png",
+            "img": "/images/Kahe/academics/arts-and-science/computer-applications/studentprogrammes.webp",
             "type": "curriculum",
             "items": [
               {
@@ -170,7 +170,7 @@
           {
             "key": "msc",
             "title": "MCA (Computer Applications)2018-2019",
-            "img": "/images/others/health-b-02.png",
+            "img": "/images/Kahe/academics/arts-and-science/computer-applications/studentprogrammes.webp",
             "type": "curriculum",
             "items": [
               {
@@ -216,7 +216,7 @@
       "basic": {
         "title": "Faculty",
         "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Temporibus architecto magnam, eius, labore vel enim eveniet officiis veritatis reiciendis expedita ab odit nobis, itaque aspernatur suscipit odio inventore consectetur autem",
-        "src": "/images/Kahe/Innerpages/vission.jpg",
+        "src": "/images/Kahe/general/faculty.webp",
         "buttonText": "View All Faculty"
       },
       "breadcrumbItems": [
