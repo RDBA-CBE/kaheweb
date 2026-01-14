@@ -114,23 +114,13 @@
               },
               {
                 "icon": "rs-icon-lab",
-                "value": "30",
-                "text": "NPTEL Completed"
-              },
-              {
-                "icon": "rs-icon-complete",
-                "value": "2",
-                "text": "Centre of Excellence"
-              },
-              {
-                "icon": "rs-icon-lab",
                 "value": "400",
                 "text": "Center For Energy "
               },
               {
                 "icon": "rs-icon-lab",
-                "value": "400",
-                "text": "Environment"
+                "value": "1",
+                "text": "Center For Environment"
               },
               {
                 "icon": "rs-icon-complete",

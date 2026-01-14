@@ -74,13 +74,18 @@
             "content": [
               {
                 "icon": "rs-icon-book",
-                "value": "254",
-                "label": "Publications"
+                "value": "2001",
+                "label": "Established"
               },
               {
                 "icon": "rs-icon-book",
                 "value": "9",
                 "label": "Patents"
+              },
+              {
+                "icon": "rs-icon-book",
+                "value": "554",
+                "label": "Publications"
               },
               {
                 "icon": "rs-icon-fund",
@@ -89,7 +94,7 @@
               },
               {
                 "icon": "rs-icon-lab",
-                "value": "8",
+                "value": "79",
                 "text": "Ph.D Awarded"
               },
               {
@@ -100,46 +105,30 @@
               {
                 "icon": "rs-icon-ongoing",
                 "value": "15",
-                "text": "Internship and Higher Studies <br /> – Abroad"
-              },
-              {
-                "icon": "rs-icon-ongoing",
-                "value": "10",
-                "text": "Total Number of NPTEL  <br /> Completed Faculty"
+                "text": "Foreign internship"
               },
               {
                 "icon": "rs-icon-ongoing",
                 "value": "30",
-                "text": "Total Number of NPTEL  <br /> Completed Students"
+                "text": "NPTEL Completed"
               },
               {
                 "icon": "rs-icon-ongoing",
-                "value": "1",
-                "text": "Centre for Natural products <br />  and functional foods"
+                "value": "2",
+                "text": "Centre of Excellence"
               },
-
-              {
-                "icon": "rs-icon-ongoing",
-                "value": "1",
-                "text": "Centre for Bioinformatics "
-              },
-
-              {
-                "icon": "rs-icon-ongoing",
-                "value": "1",
-                "text": "Centre for Bioinformatics "
-              },
-
               {
                 "icon": "rs-icon-ongoing",
                 "value": "201.86 Lks",
-                "text": "On going - 5 <br/> Funded project"
+                "text": "ongoing Projects"
               },
+
               {
                 "icon": "rs-icon-ongoing",
                 "value": "138 Lks",
-                "text": "Completed - 6 <br/> Funded project"
+                "text": "Completed Projects"
               }
+
             ]
           }
         },
