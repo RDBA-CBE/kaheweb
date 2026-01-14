@@ -1,0 +1,59 @@
+{
+  "bannerCon": {
+    "bannerImg": "/images/Kahe/research/centerofexcellence-banner.webp",
+    "title": "DBT Sponsored Instrument Facilities Under NER (Bpmc) Scheme",
+    "bannerCon": "Driving innovation, quality, and leadership through academic and industry excellence.",
+    "applyLink": "/"
+  },
+  "title": "DBT Sponsored Instrument Facilities Under NER (Bpmc) Scheme",
+
+  "ElectronicThreephase": {
+    "content": [
+      {
+        "title": "Electronic Three-phase Natural Composting Equipment",
+        "content": "Electronic three-phase natural composting equipment for processing organic waste into nutrient-rich compost efficiently and sustainably. It combines modern electronics and robust mechanical systems to accelerate the natural decomposition process, making it ideal for research and commercial applications. It has automated control system. Integrated with electronic controls for precise temperature, moisture, and aeration management. This ensures optimal conditions for microbial activity, accelerating the composting process. Equipped to handle large volumes of organic waste, including garden waste, and biodegradable materials, making it suitable for industrial settings. Natural Aeration Technology uses forced air circulation and mixing mechanisms to promote oxygen flow, enhancing the natural composting process. Built with corrosion-resistant materials and reinforced components to withstand continuous operation in harsh environments. Minimizes greenhouse gas emissions by ensuring complete aerobic decomposition and reduces landfill dependency. Features a digital display and easy-to-use controls for monitoring and adjusting parameters such as temperature, moisture, and cycle duration.",
+        "src": "/images/Kahe/team-13.png"
+      }
+    ]
+  },
+
+  "HighDefinitionDigital": {
+    "content": [
+      {
+        "title": "High Definition Digital",
+        "content": "It combines traditional microscopy with cutting-edge digital imaging technology to provide enhanced visualization and data capture. Equipped with a digital camera capable of capturing high-resolution images and videos. Produces crystal-clear visuals for detailed analysis. High-quality lenses with excellent magnification (ranging from 10x to 1000x). Precision focus systems for sharp and accurate imaging. Integrated digital display to external monitors, computers, for real-time viewing. Intuitive controls for zoom, focus, and lighting adjustments. LED illumination systems for brightfield techniques. Built-in storage or USB card slots for saving images and videos. A high-definition digital research microscope is an indispensable tool for professionals and researchers, providing unparalleled clarity, efficiency, and versatility.",
+        "src": "/images/Kahe/team-13.png"
+      }
+    ]
+  },
+  
+
+  "NanodropSpectrophotometer": {
+    "content": [
+      {
+        "title": "Nanodrop Spectrophotometer",
+        "content": "A NanoDrop spectrophotometer is a compact, UV-Vis spectrophotometer designed specifically for measuring the concentration and purity of nucleic acids (DNA, RNA), proteins, and other biomolecules. Highly reproducible results with minimal sample consumption. Requires only 1–2 µL of sample, making it ideal for precious or limited samples. Uses a unique sample retention system that eliminates the need for cuvettes or capillaries. The sample is pipetted directly onto a measurement pedestal. Capable of measuring very low to highly concentrated samples without the need for dilutions. Delivers precise measurements of absorbance and concentration using pathlength adjustment technology. Can measure nucleic acids (via absorbance at 260 nm), proteins (via 280 nm or colorimetric assays), and other analytes. Nucleic Acid Quantification: Assessing DNA and RNA concentration and purity (e.g., A260/A280 ratio). Protein Quantification: Measuring protein concentration using A280 or colorimetric methods. Microbial Growth Analysis: Monitoring cell culture density at A600. Chemical Analysis: Measuring absorbance for various compounds in UV-Vis spectra.",
+        "src": "/images/Kahe/team-13.png"
+      }
+    ]
+  },
+
+  "FlamePhotometer": {
+    "content": [
+      {
+        "title": "Flame Photometer",
+        "content": "A flame photometer is an analytical instrument used to measure the concentration of certain metal ions, primarily alkali and alkaline earth metals, in a sample. It operates on the principle of atomic emission spectroscopy, where ions are excited by a flame and emit light at specific wavelengths characteristic of the elements being analyzed. A mixture of gases like propane and air or acetylene and air/oxygen that produces a high-temperature flame to excite the atoms. Nebulizer Converts the liquid sample into a fine mist for introduction into the flame. Optical System includes filters or monochromators that isolate the specific wavelength of light emitted by the element of interest. Typically, a photodetector that measures the intensity of emitted light, which is proportional to the concentration of the metal ion in the sample. It determines the sodium (Na), potassium (K), calcium (Ca), and lithium (Li) concentrations in biological fluids. Environmental water and soil analysis for detecting metal contaminants.",
+        "src": "/images/Kahe/team-13.png"
+      }
+    ]
+  },
+  "Minispinner": {
+    "content": [
+      {
+        "title": "Minispinner With 5-head Portable",
+        "content": "It is a versatile and compact spinning device designed for various applications, offering efficiency and convenience. Equipped with five spinning heads for enhanced performance, ensuring balanced and efficient operations across a wide range of tasks. Compact and Portable Lightweight and ergonomically designed for easy transportation and use in diverse environments. Made from high-quality materials to withstand repeated use and ensure longevity. Ideal for mixing, spinning, or processing materials depending on the intended purpose. Lightweight machinery setups for portable operations.",
+        "src": "/images/Kahe/team-13.png"
+      }
+    ]
+  }
+}

@@ -7,7 +7,7 @@ import { Provider } from "react-redux";
 import Context from "@/context/Context";
 import Store from "@/redux/store";
 import Sidebar2 from "../common-components/Sidebar2";
-import { Research } from "@/JSON/ACADEMIC/Overview";
+import { Examinations } from "@/JSON/ACADEMIC/Overview";
 import ContentCard from "../Components/ContentCard";
 
 const ExaminationReforms = () => {
@@ -39,7 +39,7 @@ const ExaminationReforms = () => {
             <ContentCard data={research?.fundedResearch} />
           </section>
 
-          <Sidebar2 subMenu={Research} />
+          <Sidebar2 subMenu={Examinations} />
         </Context>
       </Provider>
     </>

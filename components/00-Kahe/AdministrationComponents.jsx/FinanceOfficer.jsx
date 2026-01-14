@@ -5,14 +5,26 @@ import data from "../../../JSON/Administration/BoardOfTrustees.json";
 import Sidebar from "../common-components/Sidebar";
 import { Administration } from "@/JSON/ACADEMIC/Overview";
 import ImageLink from "../Components/ImageLink";
+import Breadcrumb from "../common-components/BreadCrumb";
 
 const FinanceOfficer = () => {
   console.log("data", data);
 
   const BoardOfTrustees = data?.financeOfficer;
+  const breadcrumbItems = [
+    {
+      label: "Administration",
+      href: `/administration/`,
+    },
+
+   
+
+    { label: "Finance Officer" },
+  ];
   return (
     <>
       <InnerBanner data={BoardOfTrustees?.bannerCon} />
+      <Breadcrumb items={breadcrumbItems} />
 
       <main className="section-wid d-flex section-bg1 ">
         <div className="rbt-course-details-area w-100">

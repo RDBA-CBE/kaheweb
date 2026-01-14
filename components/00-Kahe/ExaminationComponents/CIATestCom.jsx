@@ -1,10 +1,11 @@
 "use client";
 
-import { Examinations, subMenu } from "@/JSON/ACADEMIC/Overview";
+import { Examinations } from "@/JSON/ACADEMIC/Overview";
 import data from "../../../JSON/Examination/CiaTest.json";
 import InnerBanner from "@/components/00-Kahe/common-components/InnerBanner";
-import Sidebar from "../common-components/Sidebar";
+
 import ContentCard from "../Components/ContentCard";
+import Sidebar from "../common-components/Sidebar";
 import nepOverview from "../../../JSON/ACADEMIC/nepOverview.json";
 
 export const metadata = {
@@ -53,7 +54,7 @@ const CIATestCom = (props) => {
               <div className="course-sidebar sticky-top">
                 <div className="inner">
                   <div className="content-item-content">
-                    <Sidebar subMenu={subMenu} />
+                    <Sidebar subMenu={Examinations} />
                   </div>
                 </div>
               </div>

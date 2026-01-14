@@ -1,9 +1,6 @@
-import { Administration } from "@/JSON/ACADEMIC/Overview";
-import data from "../../../JSON/Administration/BoardOfTrustees.json";
+import data from "../../../JSON/ACADEMIC/Arts/dean.json";
 import InnerBanner from "@/components/00-Kahe/common-components/InnerBanner";
-import Sidebar from "../common-components/Sidebar";
 import ImageLink from "../Components/ImageLink";
-import AccordianSidebar from "../common-components/AccordianSidebar";
 import Breadcrumb from "../common-components/BreadCrumb";
 
 export const metadata = {
@@ -11,22 +8,18 @@ export const metadata = {
   description:
     "Karpagam Academy of Higher Education (KAHE) offers a wide range of UG, PG &amp; research programs in Engineering, Arts &amp; Science, Management, Architecture, and Pharmacy.",
 };
+const breadcrumbItems = [
+ 
+  {
+    label: "Dean – Linguistics",
+    href: ``,
+  },
+];
 
-const President = () => {
-  const BoardOfTrustees = data?.president;
+const LinguisticsDean = () => {
+  const BoardOfTrustees = data?.LinguisticsDean;
 
   console.log("BoardOfTrustees", BoardOfTrustees);
-
-  const breadcrumbItems = [
-    {
-      label: "Administration",
-      href: `/administration/`,
-    },
-
-    { label: "Board Of Trustees", href: `/administration/board-of-trustees/` },
-
-    { label: "President" },
-  ];
 
   return (
     <>
@@ -37,18 +30,8 @@ const President = () => {
       <main className="section-wid d-flex section-bg1 ">
         <div className="rbt-course-details-area w-100">
           <div className="row g-5">
-            <div className="col-lg-9">
+            <div className="col-lg-12">
               <ImageLink data={BoardOfTrustees} />
-            </div>
-
-            <div className="col-lg-3 px-0 d-none d-lg-block sidebar-pg">
-              <div className="course-sidebar sticky-top">
-                <div className="inner">
-                  <div className="content-item-content">
-                    <Sidebar subMenu={Administration} />
-                  </div>
-                </div>
-              </div>
             </div>
           </div>
         </div>
@@ -57,4 +40,4 @@ const President = () => {
   );
 };
 
-export default President;
+export default LinguisticsDean;

@@ -43,7 +43,7 @@ const UserCard = ({ data }) => {
                     <p className=" text-green">{FirstLetterUp(item.caption)}</p>
 
                     {/* push CTA to bottom */}
-                    <span className="mt-auto">
+                    {item.url && <span className="mt-auto">
                       <a href={item.url}>
                         <p style={{ fontSize: "14px" }}>
                           View{" "}
@@ -52,7 +52,7 @@ const UserCard = ({ data }) => {
                           </span>
                         </p>
                       </a>
-                    </span>
+                    </span>}
                   </div>
                 </div>
               </div>

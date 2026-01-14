@@ -7,11 +7,19 @@ import Vision from "../Components/About/Vission";
 import Mission from "../Components/About/Mission";
 
 import { VissionMissiondata } from "@/JSON/About/VissionMission";
+import Breadcrumb from "../common-components/BreadCrumb";
 
 const VissionPage = () => {
+
+   const breadcrumbItems = [
+  
+
+    { label: 'Vission and Mission' },
+  ];
   return (
     <>
       <InnerBanner data={VissionMissiondata?.data} />
+       <Breadcrumb items={breadcrumbItems} />
 
       <section className="section-wid">
         <Vision vision={VissionMissiondata?.vision} />

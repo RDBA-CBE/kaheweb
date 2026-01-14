@@ -38,7 +38,7 @@ const YoutubeVideoSection = ({ data }) => {
               <div className="py-4">
                 <Link
                   className="kahe-btn-primary rbt-btn hover-icon-reverse"
-                  href={data?.btnLink}
+                  href={data?.btnLink} target={data?.target}
                 >
                  
                     <span className="icon-reverse-wrapper">

@@ -10,7 +10,9 @@ const AddContentCard = ({ data }) => {
 
   return (
     <div className=" ">
-     {data?.title && <div className="decor-ti">{FirstLetterUp(data?.title)} </div>}
+      {data?.title && (
+        <div className="decor-ti">{FirstLetterUp(data?.title)} </div>
+      )}
 
       <div className="row py-5 align-items-stretch gy-5">
         {data?.content?.map((item, index) => (
@@ -58,7 +60,8 @@ const AddContentCard = ({ data }) => {
                     <div className="py-4">
                       <Link
                         className="kahe-btn-primary rbt-btn hover-icon-reverse"
-                        href={item?.btnUrl} target={item?.target && item?.target}
+                        href={item?.btnUrl}
+                        target={item?.target && item?.target}
                       >
                         <span className="icon-reverse-wrapper">
                           <span className="btn-text">{item?.btnText}</span>
@@ -143,8 +146,16 @@ const AddContentCard = ({ data }) => {
                     <ul className="kahe-social-icons px-4">
                       {item?.socialLinks?.map((item, index) => (
                         <li key={index}>
-                          <a href={item?.url} aria-label={item?.name} target= {item?.target && item?.target}>
-                            <i className={item?.icon}></i>
+                          <a
+                            href={item?.url}
+                            aria-label={item?.name}
+                            target={item?.target && item?.target}
+                          >
+                            {item?.icon ? (
+                              <i className={item?.icon}></i>
+                            ) : (
+                              <span>{item?.icon1}</span>
+                            )}
                           </a>
                         </li>
                       ))}
