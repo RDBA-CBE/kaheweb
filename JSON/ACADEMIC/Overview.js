@@ -211,9 +211,7 @@ export const subMenu = {
         {
           name: "Overview",
           link: "/academics/nep/overview/",
-        }
-        
-         
+        },
       ],
     },
     {
@@ -459,8 +457,12 @@ export const Research = {
     },
     {
       category: "Center of Excellence",
-      link: "/research/center-of-excellence/",
+
       items: [
+        {
+          name: "Overview",
+          link: "/research/center-of-excellence/",
+        },
         {
           name: "DBT Sponsored Instrument Facilities Under NER (BPMC) Scheme",
           link: "/research/center-of-excellence/dbt-sponsored-instrument-facilities-under-ner-bpmc-scheme/",
@@ -525,10 +527,7 @@ export const Placement = {
 export const OfficeOfInternationalAffairsJson = {
   title: "Office of International Affairs",
   content: [
-    {
-      category: " Office of International Affairs",
-      link: "/office-of-international-affairs/",
-    },
+    
     {
       category: "Overview",
       link: "/office-of-international-affairs/office-of-international-affairs-overview/",

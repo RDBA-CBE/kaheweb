@@ -16,7 +16,7 @@ const VissionPage = () => {
   
   return (
     <>
-      <InnerBanner data={VissionMissiondata?.data} />
+      <InnerBanner data={aboutData?.bannerCon} />
       <section className=" section-bg1">
         <About data={aboutData?.about}/>
       </section>

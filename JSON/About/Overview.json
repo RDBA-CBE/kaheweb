@@ -1,4 +1,12 @@
 {
+
+    "bannerCon": {
+    "bannerImg": "/images/Kahe/about/vision-mission/visionandmission-banner.png",
+    "title": "About Us",
+    "bannerCon":
+      "To be a leading institution in the field of education, providing quality education and training to students and professionals.",
+    "applyLink": "/"
+  },
   "about": {
     "title": "Karpagam Academy of Higher Education (KAHE)",
     "content": "Karpagam Academy of Higher Education (KAHE) established under Section 3 of UGC Act 1956 is approved by Ministry of Human Resource Development, Government of India. Dr. R. Vasanthakumar, the president of Karpagam Charity trust (KCT), philanthropist, industrialist, entrepreneur and culture promoter."
