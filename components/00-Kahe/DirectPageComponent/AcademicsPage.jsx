@@ -8,7 +8,7 @@ const AcademicsPage = () => {
     title: "ACADEMICS",
     description:
       "Karpagam Academy of Higher Education was founded with the mission to impart value based and holistic education that enriches the knowledge and skills of students and empowering their lives by way of educating is what is truly believed at Karpagam.",
-    src: "/images/Kahe/Innerpages/vission.jpg",
+    src: "/images/Kahe/general/g-overview.webp",
     alt: "Vision Image",
   };
   const merits = {
