@@ -40,9 +40,9 @@
           "subTitle": "Overview",
           "contents": "The Department Biotechnology was established in 2001 at Karpagam Arts and Science College then the KASC promoted in 2009 as Karpagam Academy of Higher Education (KAHE) (Deemed University). The Department of Biotechnology offering 4 year B.Sc., Biotechnology programmes, 2 year M.Sc., Biotechnology programme, and Ph.D. in Biotechnology programme. The Department of Biotechnology at KAHE is a Centre for excellence in research with excellent faculty members. The department mainly concentrating research on Natural Products, Phytotherapeutics, Functional Foods, Nano Biotechnology, Plant Molecular Biology, Environmental Toxicology, Cancer Biology and Bioinformatics. Also the department established a Centre of excellence for Natural Products and Functional Foods and Bioinformatics. The progress of the department is consistent over the years and received a research grants Rs. 2.01 crores from DBT, DST, SERB and TNSCST. During the last 10 years, the department has made all round progress and is on par with the well-established departments of the KAHE. It is commendable to mention that the department is recognized by DST and recipient of Rs. 44.80 Lakhs from the DST-FIST, Govt. of India for the infrastructure improvement of the development. Through these research grants our faculties have published more than 254 research articles during last five years. At present the department holds 4 Indian patents. The Department holds two Centre of excellence Centre for Natural Products and Functional Foods and Centre for Bioinformatics with highly sophisticated instruments such as Ultra-High Performance Liquid Chromatography, Atomic Absorption Spectrophotometer, 2D Gel Electrophoresis, Particle Bombardment (Gene Gun), Florescence Microscope, Fourier transform infrared Spectroscopy, High Performance Liquid Chromatography and Gas Chromatography.",
           "image": [
-            { "src": "/images/others/video-07.jpg" },
-            { "src": "/images/others/video-07.jpg" },
-            { "src": "/images/others/video-07.jpg" }
+            { "src": "/images/Kahe/academics/arts-and-science/biotechnology/studentprogrammes.png" },
+            { "src": "/images/Kahe/academics/arts-and-science/biotechnology/biotechnology-overview.png" },
+            { "src": "/images/Kahe/academics/arts-and-science/biotechnology/studentprogrammes.png" }
           ]
         },
 
@@ -156,7 +156,7 @@
               }
             ]
           }
-        }
+        }  
       ]
     },
 
@@ -168,7 +168,7 @@
           {
             "key": "ug",
             "title": "Under Graduate Programme",
-            "img": "/images/others/health-b-02.png",
+            "img": "/images/Kahe/academics/arts-and-science/biotechnology/studentprogrammes.png",
             "items": ["B.Sc. Biotechnology (Strength: 60)"],
 
             "type": "programme"
@@ -176,7 +176,7 @@
           {
             "key": "pg",
             "title": "Post Graduate Programmes",
-            "img": "/images/others/health-b-02.png",
+            "img": "/images/Kahe/academics/arts-and-science/biotechnology/studentprogrammes.png",
             "items": ["M.Sc. Biotechnology (Strength: 60)"],
 
             "type": "programme"
@@ -184,7 +184,7 @@
           {
             "key": "res",
             "title": "Research Programmes",
-            "img": "/images/others/health-b-02.png",
+            "img": "/images/Kahe/academics/arts-and-science/biotechnology/studentprogrammes.png",
             "items": ["M.Phil Biotechnology", "Ph.D. Biotechnology"],
 
             "type": "programme"

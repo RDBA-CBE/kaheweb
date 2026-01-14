@@ -17,69 +17,67 @@
     "btn": "Campus Tour",
     "btnLink": "/kahe/campus-life"
   },
-
-  "merits": {
+"merits": {
     "title": "Merits of Karpagam",
     "caption": "Karpagam strives to offer a package of value added benefits that are tailored to nurture the educational experience of the students:",
     "content": [
       {
         "title": "Distinguished Faculty",
         "content": "Well experienced and trained faculty including 234 doctorates and Post Doctoral Fellows",
-        "src": "/images/Kahe/Innerpages/group.png"
+        "src": "/images/Kahe/icons/about/about/distinguished-faculty.svg"
       },
       {
         "title": "Elite Visiting Mentors",
         "content": "Visiting faculty from premier institutes like IIM , IISc , IIT, NIT etc..,",
-        "src": "/images/Kahe/Innerpages/group.png"
+        "src": "/images/Kahe/icons/about/about/elite-visiting-mentors.svg"
       },
       {
         "title": "Dedicated Placement Cell",
         "content": "A professional placement department enduring training for overall personality development of students.",
-        "src": "/images/Kahe/Innerpages/group.png"
+        "src": "/images/Kahe/icons/about/about/dedicated-placement-cell.svg"
       },
        {
         "title": "Excellent Placement Record",
         "content": "1182 above placement offers were made for 2021–2022 Batch",
-        "src": "/images/Kahe/Innerpages/group.png"
+        "src": "/images/Kahe/icons/about/about/excellent-placement-record.svg"
       },
       {
         "title": "Innovation & Research Hub",
         "content": "A vibrant Karpagam Research Centre marching towards fruition of innovations and patents.59 patents were filed and 16 patents are granted. 2 of the granted patents are being commercialized.",
-        "src": "/images/Kahe/Innerpages/group.png"
+        "src": "/images/Kahe/icons/about/about/innovation-research-hub.svg"
       },
       {
         "title": "Intellectual Property",
         "content": "No.of Copyrights 18 filed 16 registered",
-        "src": "/images/Kahe/Innerpages/group.png"
+        "src": "/images/Kahe/icons/about/about/intellectual-property.svg"
       },
       {
         "title": "Funded Project Opportunities",
         "content": "Scope to work on projects funded by government & other agencies",
-        "src": "/images/Kahe/Innerpages/group.png"
+        "src": "/images/Kahe/icons/about/about/funded-project-opportunities.svg"
       },
       {
         "title": "Industry Integration",
         "content": "Industrial MoUs and career oriented courses for enhancing employability",
-        "src": "/images/Kahe/Innerpages/group.png"
+        "src": "/images/Kahe/icons/about/about/industry-integration.svg"
       },
       {
         "title": "Global Academic Exposure",
         "content": "Exchange, Twinning programme and dual degree with global universities for International exposure",
-        "src": "/images/Kahe/Innerpages/group.png"
+        "src": "/images/Kahe/icons/about/about/global-academic-exposure.svg"
       },
       {
         "title": "Enriching Academic Ambience",
         "content": "Highly vibrant and encouraging academic ambience aiding an enriched education.",
-        "src": "/images/Kahe/Innerpages/group.png"
+        "src": "/images/Kahe/icons/about/about/enriching-academic-ambience.svg"
       },
       {
         "title": "World-Class Infrastructure",
         "content": "State of the art laboratories and Wi-fi enabled campus with 1Gbps internet connectivity.",
-        "src": "/images/Kahe/Innerpages/group.png"
+        "src": "/images/Kahe/icons/about/about/world-class-infrastructure.svg"
       }
     ]
   },
-
   "recognition" : {
     "title" : "Recognition",
     "subTitle" : "Accredictions and Approvals",

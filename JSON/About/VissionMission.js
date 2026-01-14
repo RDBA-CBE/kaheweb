@@ -23,27 +23,28 @@ export const VissionMissiondata = {
 
   missionData: [
     {
-      icon: <StudentsIcon />,
+      //icon: <StudentsIcon />,
+      src: "/images/Kahe/icons/about/vision-mission/1.svg",
       description:
         "Educating the learners to acquire latest knowledge and skills in their respective domain through e-platforms.",
     },
     {
-      icon: <StudentsIcon />,
+      src: "/images/Kahe/icons/about/vision-mission/2.svg",
       description:
         "Undertaking research in socially relevant, scientific and technology oriented projects.",
     },
     {
-      icon: <StudentsIcon />,
+     src: "/images/Kahe/icons/about/vision-mission/3.svg",
       description:
         "Empowering women, rural and marginalised sections of the society.",
     },
     {
-      icon: <StudentsIcon />,
+       src: "/images/Kahe/icons/about/vision-mission/4.svg",
       description:
         "Imbibing culture of creativity and innovation among learners.",
     },
     {
-      icon: <StudentsIcon />,
+     src: "/images/Kahe/icons/about/vision-mission/5.svg",
       description:
         "Making the learners to be self-reliant and moulding them as responsible citizens.",
     },

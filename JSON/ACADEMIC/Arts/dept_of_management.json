@@ -2,7 +2,7 @@
   "title": "Department of Management",
   "bannerCon": "Cultivating leadership, strategic thinking, and business acumen, to prepare students for dynamic managerial roles.",
   "applyLink": "#",
-  "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+  "bannerImg": "/images/Kahe/academics/arts-and-science/management/management-banner.webp",
   "tabs": [
     {
       "id": "overview",
@@ -49,7 +49,7 @@
           "type": "overview",
           "subTitle": "Overview",
           "contents": "The Department of Management was established in 1996 to develop young budding administrators; equip students to take up entrepreneurial ventures or opt for higher studies. The department offers a three-year undergraduate BBA programme and two-year postgraduate MBA programme. The postgraduate students are offered with numerous courses in different specialisations like Finance, Marketing, Human Resources, Management Information Systems and Operations Management. To facilitate research in the field of management the department also offers Ph.D. programmes.The Department utilises the holistic approach to impart knowledge, skill, attitude and behaviour. The experiential teaching learning process leads to an outcome-based learning system. To expose the knowledge about real-time industry practices, the department organises guest lectures, workshops and seminars inviting the industry experts. The department concentrates on industry interaction by signing MOUs for the corporate exposure and hone their skills in Management Professionals and benefitted with the guidance under the eminent industrialists and entrepreneurs. The postgraduate students gain industry expertise through internships and projects.The Department has an exclusive facility which is endowed with excellent infrastructure. The department facilitates a conducive environment to support the highly committed and knowledgeable faculty team to plan their career enhancement focusing on innovative teaching methods, interdisciplinary linkages, administration and research.",
-          "image": "/images/others/video-07.jpg"
+          "image": "/images/Kahe/academics/arts-and-science/management/overview.webp"
         }
       ]
     },
@@ -61,7 +61,7 @@
           {
             "key": "ug",
             "title": "Under Graduate Programme",
-            "img": "/images/others/health-b-02.png",
+            "img": "/images/Kahe/academics/arts-and-science/management/studentprogrammes.webp",
             "items": [
               "BBA (Strength: 120)"
             ],
@@ -70,7 +70,7 @@
           {
             "key": "pg",
             "title": "Post Graduate Programme",
-            "img": "/images/others/health-b-02.png",
+           "img": "/images/Kahe/academics/arts-and-science/management/studentprogrammes.webp",
             "items": [
               "MBA (Strength: 120)"
             ],
@@ -79,7 +79,7 @@
           {
             "key": "res",
             "title": "Research Programmes",
-            "img": "/images/others/health-b-02.png",
+          "img": "/images/Kahe/academics/arts-and-science/management/studentprogrammes.webp",
             "items": [
               "M.Phil in Management",
               "Ph.D. in Management"
@@ -94,7 +94,7 @@
           {
             "key": "bba",
             "title": "BBA",
-            "img": "/images/others/health-b-02.png",
+          "img": "/images/Kahe/academics/arts-and-science/management/studentprogrammes.webp",
             "type": "curriculum",
             "items": [
               {
@@ -126,7 +126,7 @@
           {
             "key": "mba",
             "title": "MBA",
-            "img": "/images/others/health-b-02.png",
+           "img": "/images/Kahe/academics/arts-and-science/management/studentprogrammes.webp",
             "type": "curriculum",
             "items": [
               {
@@ -162,7 +162,7 @@
           {
             "key": "phd",
             "title": "Ph.D. Management",
-            "img": "/images/others/health-b-02.png",
+           "img": "/images/Kahe/academics/arts-and-science/management/studentprogrammes.webp",
             "type": "curriculum",
             "items": [
               {

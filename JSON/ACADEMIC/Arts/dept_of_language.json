@@ -2,7 +2,7 @@
   "title": "Department of Languages",
   "bannerCon": "Where words shape understanding, and communication drives opportunities.",
   "applyLink": "#",
-  "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+  "bannerImg": "/images/Kahe/academics/arts-and-science/languages/languages-banner.webp",
   "tabs": [
     {
       "id": "overview",
@@ -37,7 +37,7 @@
           "type": "overview",
           "subTitle": "Overview",
           "contents": "The Department of Languages offers Tamil and English and helps the students to acquire proficiency in these languages. The department gives Part I Tamil and Part II English to all the programmes. The curriculum has been designed to give exposure on various cultures to live on solidarity and the components of integrated skills make the students to get good interpersonal skills which are needed to face the contemporary society.It offers Doctoral Programme to undertake research in the contemporary themes and language. The department is strengthened with well qualified and experienced faculty members to impart language and research skills in literary scholars. The well-equipped language lab helps the students to improve their LSRW skills.",
-          "image": "/images/others/video-07.jpg"
+          "image": "/images/Kahe/academics/arts-and-science/languages/overview.webp"
         }
       ]
     },
@@ -49,7 +49,7 @@
           {
             "key": "ug",
             "title": "Tamil",
-            "img": "/images/others/health-b-02.png",
+            "img": "/images/Kahe/academics/arts-and-science/languages/studentprogrammes.webp",
             "multiItems": [
               {
                 "title": "Curriculum and Syllabus for the Programmes",
@@ -70,7 +70,7 @@
           {
             "key": "pg",
             "title": "English",
-            "img": "/images/others/health-b-02.png",
+             "img": "/images/Kahe/academics/arts-and-science/languages/studentprogrammes.webp",
             "multiItems": [
               {
                 "title": "Post Graduate Programme",
@@ -101,7 +101,7 @@
       "basic": {
         "title": "Faculty",
         "description": " Lorem ipsum, dolor sit amet consectetur adipisicing elit. Temporibus architecto magnam, eius, labore vel enim eveniet officiis veritatis reiciendis expedita ab odit nobis, itaque aspernatur suscipit odio inventore consectetur autem!",
-        "src": "/images/Kahe/Innerpages/vission.jpg",
+        "src": "/images/Kahe/general/faculty.webp",
         "buttonText": "View All Faculty"
       },
       "breadcrumbItems": [

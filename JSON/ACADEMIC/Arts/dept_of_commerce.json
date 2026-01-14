@@ -2,7 +2,7 @@
   "title": "Department of Commerce",
   "bannerCon": "Building strong foundations in business, finance, and economics, to prepare students for dynamic commercial environments.",
   "applyLink": "#",
-  "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+  "bannerImg": "/images/Kahe/academics/arts-and-science/commerce/departmentofcommerce-banner.png",
   "tabs": [
     {
       "id": "overview",
@@ -37,7 +37,7 @@
           "type": "overview",
           "subTitle": "Overview",
           "contents": "The Department of Commerce stands as a dynamic centre of academic excellence, professional development, and value-based learning. With a strong focus on contemporary commerce education, the department integrates modern teaching methods, online learning platforms, and industry-relevant curriculum to equip students with up-to-date knowledge in accounting, finance, business, and related domains. Research is an integral part of the department’s culture. Both students and faculty are encouraged to engage in meaningful research initiatives that address real-world economic, business, and social challenges, fostering analytical thinking and problem-solving skills. Committed to inclusivity and equal opportunity, the department places special emphasis on empowering women, rural learners, and marginalized groups by providing supportive learning environments and access to academic resources. Beyond academics, the department nurtures creativity, self-reliance, and responsible citizenship through various skill-development programs, entrepreneurship activities, and value-based educational practices. Together, these initiatives ensure that learners grow into competent professionals and socially conscious individuals ready to contribute to society and the business world. The Department of Commerce was established during the year 1995. At present, Department of Commerce offers two under-graduate programmes, one PG and one Ph.D. Research Programme. The curriculum and syllabi are constantly updated in align with UGC regulations and to meet the global demands.",
-          "image": "/images/others/video-07.jpg"
+          "image": "/images/Kahe/academics/arts-and-science/commerce/commerce-overview.png"
         },
         {
           "type": "vision",
@@ -144,21 +144,21 @@
           {
             "key": "ug",
             "title": "Under Graduate Programme",
-            "img": "/images/others/health-b-02.png",
+            "img": "/images/Kahe/academics/arts-and-science/commerce/commerce-studentprogrammes.png",
             "items": ["B.Com", "B.Com PA"],
             "type": "programme"
           },
           {
             "key": "pg",
             "title": "Post Graduate Programmes",
-            "img": "/images/others/health-b-02.png",
+             "img": "/images/Kahe/academics/arts-and-science/commerce/commerce-studentprogrammes.png",
             "items": ["M.Com"],
             "type": "programme"
           },
           {
             "key": "res",
             "title": "Research Programmes",
-            "img": "/images/others/health-b-02.png",
+             "img": "/images/Kahe/academics/arts-and-science/commerce/commerce-studentprogrammes.png",
             "items": ["Ph.D"],
             "type": "programme"
           }
@@ -170,7 +170,7 @@
           {
             "key": "bsc",
             "title": "B.Com.",
-            "img": "/images/others/health-b-02.png",
+              "img": "/images/Kahe/academics/arts-and-science/commerce/commerce-studentprogrammes.png",
             "type": "curriculum",
             "items": [
               {
@@ -202,7 +202,7 @@
           {
             "key": "msc",
             "title": "B.Com. (Professional Accounting)",
-            "img": "/images/others/health-b-02.png",
+            "img": "/images/Kahe/academics/arts-and-science/commerce/commerce-studentprogrammes.png",
             "type": "curriculum",
             "items": [
               {
@@ -234,7 +234,7 @@
           {
             "key": "mphil",
             "title": "M.Com",
-            "img": "/images/others/health-b-02.png",
+            "img": "/images/Kahe/academics/arts-and-science/commerce/commerce-studentprogrammes.png",
             "type": "curriculum",
             "items": [
               {
@@ -266,7 +266,7 @@
           {
             "key": "phd",
             "title": "Ph.D",
-            "img": "/images/others/health-b-02.png",
+            "img": "/images/Kahe/academics/arts-and-science/commerce/commerce-studentprogrammes.png",
             "type": "curriculum",
             "items": [
               {
@@ -305,7 +305,7 @@
           "email": "",
           "profile": "",
           "profileText": "View profile",
-          "src": "/images/team/team-11.png",
+          "src": "/images/Kahe/general/faculty.webp",
           "iconSrc": "/images/Kahe/Innerpages/education.png",
           "target": "_blank"
         },

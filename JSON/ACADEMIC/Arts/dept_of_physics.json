@@ -2,7 +2,7 @@
   "title": "Department of Physics",
   "bannerCon": "Promoting academic excellence and research in biotechnology to address global health and environmental challenges.",
   "applyLink": "#",
-  "bannerImg": "/images/Kahe/academics/engineering/Biotechnology/biotechnology-banner.png",
+  "bannerImg": "/images/Kahe/academics/arts-and-science/physics/physics-banner.webp",
   "tabs": [
     {
       "id": "overview",
@@ -43,13 +43,13 @@
           "contents": "The Department of Physics was established in the year 2003. The Department is facilitated with different Research thrust areas such as Batteries, Crystal Growth, DSSC, Magnetic Materials, Nano Materials, Solar Energy, Supercapacitor, Water Splitting, Photocatalysis, Functional Energy Materials and Thin Film Physics which provide a wide range of opportunities to engage in world-class physics and multi-disciplinary research. The contribution of motivated and well qualified teaching faculty generated a number of successful students, who are now working in various public and private sectors. The department consistently produces students who are qualified in admission entrance of reputed institutions all over the country.Students are continuously clearing the national level examinations such as CSIR-NET, GATE, etc with good All India Ranking (AIR) and are pursuing higher education in reputed universities, and research institutes within the country and abroad.For Research, two Center of Excellence viz., Center for Energy and Environment and Center for Computational Physics which are equipped with high-end equipments of Fourier Transform Infrared Spectrometer (FTIR), UV-Visible Spectrophotometer, Photoluminescence spectrometer, Photocatalytic activity, Electrochemical Work Station, LCR meter, TGA, DSC and Vacuum Furnace. These facilities provide a practical approach to learning that allows students to explore concepts and theories in a tangible way which can help to cultivate a lifelong interest in science and learning.",
           "image": [
             {
-              "src": "/images/Kahe/academics/engineering/Biotechnology/biotechnology-overview.png"
+              "src": "/images/Kahe/academics/arts-and-science/physics/overview.webp"
             },
             {
-              "src": "/images/Kahe/academics/engineering/Biotechnology/biotechnology-overview.png"
+              "src": "/images/Kahe/academics/arts-and-science/physics/overview.webp"
             },
             {
-              "src": "/images/Kahe/academics/engineering/Biotechnology/biotechnology-overview.png"
+              "src": "/images/Kahe/academics/arts-and-science/physics/overview.webp"
             }
           ]
         },
@@ -164,7 +164,7 @@
           {
             "key": "ug",
             "title": "Under Graduate Programme",
-            "img": "/images/Kahe/academics/engineering/Biotechnology/biotechnology-studentprogrammes.png",
+            "img": "/images/Kahe/academics/arts-and-science/physics/studentprogrammes.webp",
             "items": [
               "B.Sc. Physics"
             ],
@@ -173,7 +173,7 @@
           {
             "key": "res",
             "title": "Post Programme",
-            "img": "/images/Kahe/academics/engineering/Biotechnology/biotechnology-studentprogrammes.png",
+             "img": "/images/Kahe/academics/arts-and-science/physics/studentprogrammes.webp",
             "items": [
               "M.Sc. Physics (Strength: 60)"
             ],
@@ -182,7 +182,7 @@
           {
             "key": "res",
             "title": "Research Programmes",
-            "img": "/images/Kahe/academics/engineering/Biotechnology/biotechnology-studentprogrammes.png",
+             "img": "/images/Kahe/academics/arts-and-science/physics/studentprogrammes.webp",
             "items": [
               "M.Phil in Physics",
               "Ph.D. in Physics"
@@ -197,7 +197,7 @@
           {
             "key": "bsc-physics",
             "title": "B.Sc. Physics",
-            "img": "/images/Kahe/academics/science/physics/bsc-physics.png",
+              "img": "/images/Kahe/academics/arts-and-science/physics/studentprogrammes.webp",
             "type": "curriculum",
             "items": [
               {
@@ -213,7 +213,7 @@
           {
             "key": "msc-physics",
             "title": "M.Sc. Physics",
-            "img": "/images/Kahe/academics/science/physics/msc-physics.png",
+            "img": "/images/Kahe/academics/arts-and-science/physics/studentprogrammes.webp",
             "type": "curriculum",
             "items": [
               {
@@ -245,7 +245,7 @@
           {
             "key": "phd-physics",
             "title": "Ph.D. Physics",
-            "img": "/images/Kahe/academics/science/physics/phd-physics.png",
+            "img": "/images/Kahe/academics/arts-and-science/physics/studentprogrammes.webp",
             "type": "curriculum",
             "items": [
               {

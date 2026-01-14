@@ -11,18 +11,22 @@
      "btnText" : "View",
     "content": [
       {
+        "src":"/images/Kahe/icons/about/committees/statutory-commitee/executive-council.svg",
         "title": "Executive Council",
         "url": "https://kahedu.edu.in/n/wp-content/uploads/2025/03/07-Executive-Council_KAHE_Feb-2025.pdf"
       },
       {
+        "src":"/images/Kahe/icons/about/committees/statutory-commitee/academic-council.svg",
         "title": "Academic Council",
         "url": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Academic-Council.pdf"
       },
       {
+         "src":"/images/Kahe/icons/about/committees/statutory-commitee/planning-and-monitoring-board.svg",
         "title": "Planning and Monitoring Board",
         "url": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/Planning-and-Monitoring-Board.pdf"
       },
       {
+        "src":"/images/Kahe/icons/about/committees/statutory-commitee/finance-committee.svg",
         "title": "Finance Committee",
         "url": "https://kahedu.edu.in/n/wp-content/uploads/2025/03/Finance-Committee_KAHE_Feb-2025.pdf"
       }
@@ -40,20 +44,24 @@
     "btnText" : "View",
     "content": [
       {
+        "src":"/images/Kahe/icons/about/committees/non-statutory-committees/ombudsperson.svg",
         "title": "Ombudsperson",
         "url": "/kahe/non-statutory-committees/ombudsperson/"
       },
       {
+         "src":"/images/Kahe/icons/about/committees/non-statutory-committees/bos.svg",
         "title": "BoS",
         "url": "https://kahedu.edu.in/n/wp-content/uploads/2024/03/BoS-Members-list-2022-2025.pdf"
       },
       {
+        "src":"/images/Kahe/icons/about/committees/non-statutory-committees/committee.svg",
         "title": "Committee",
         "url": "/kahe/non-statutory-committees/nsc-committees/"
       },
       {
+        "src":"/images/Kahe/icons/about/committees/non-statutory-committees/cells.svg",
         "title": "Cells",
-        "url": "/kahe/non-statutory-committees/nsc-cells/"
+        "url": "/kahe/non-statutory-committees/nsc-cells/cells"
       }
     ]
   },

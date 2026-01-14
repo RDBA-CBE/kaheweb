@@ -2,7 +2,7 @@
   "title": "Department of Architecure",
   "bannerCon": "Integrating aesthetics, functionality, and technology, to prepare students for impactful architectural practice.",
   "applyLink": "#",
-  "bannerImg": "/images/Kahe/breadcrumb/banner-inner1.jpg",
+  "bannerImg": "/images/Kahe/academics/architecure/architecure-banner.webp",
   "tabs": [
     {
       "id": "overview",
@@ -37,7 +37,7 @@
           "type": "overview",
           "subTitle": "Overview",
           "contents": "The young and dynamic KAHE that we are our need to increase the quality of Architectural education and also open up our perspective to global trends has continuously increased. Established in 2009 with an intake of 40 students for the B.Arch program, we have raised our own bar and introduced M.Arch, M.Plan, B.A. Hons with continual admissions proceeding successfully. 15 – YEAR VISION: The faculty of Architecture, Karpagam Academy of Higher Education aims its energies to make it a University that is renowned in its peer circle and sets a target to make each and every student capable of facing the global markets. We aim to send every student as a compulsory programme for an exchange to different affluent countries based on the student’s affordability. We will then bring out collaboration between all the mentioned (NABA – Milan, ISAD Communicazone – Milan, ARCHIP Czech Republic, University of New Castle, SUMAS Switzerland, NSAD – San Diego United States of America, Sci Arc – California USA) Universities and makes it a sharing of knowledge process. We also aim to have a tie up with Universities stretching from the far South East to the West spreading from Australian Universities to the University in United States. We also intend to strengthen our faculty with faculty exchange programs and to bring in faculties from other esteemed Universities for our guest lecture system. In the span of about 15 years the Faculty of Architecture, Karpagam Academy of Higher Education will be on par with RIBA certified Universities like AAA – London, Boston University and other such contemporaries. We aim to stand tall as one of the best universities in India and also secure a standing at all the International Universities. The need of such centre of excellence in Architecture exemplifies the need for a global outlook and we aim at achieving the same. We at Karpagam Academy of Higher Education are determined to lead and demonstrate excellence through creative understanding of Architecture. We realize that his requires dedicated hard work and team effort of all stake holders. We at Karpagam Academy of Higher Education are ready to strive to achieve this vision. 7 – YEAR STRATEGIC PLAN: Our medium term plan strategizes on strengthening learning techniques and quality through live research projects such as BInUCom. Such projects provides a platform to connect at the international levels with international faculties which encourages the students with a holistic broad spectrum about the challenges of the world. Research projects as such boost the theoretically bound education systems with practical analytics that form a part of a profound solution. Along with collaborative approaches in our research projects, we nurture student exchange facilities with the intent of encouraging a pragmatic outlook amongst native students as well as creating a well versed basis for foreign students in understanding the contextual nuances of our vibrant setting. 3 – YEAR ACTION PLAN: Stretching ourselves into the vision of 3 years action plan, we are inviting a set of students from the University of BATH and University of New Castle to our University to attend classes with our faculties. We will in turn be sending interested students to that University for the exchange purpose. Our research projects success can be gesticulated with the happenings of the BInUCom Research project under the ERASMUS funding. We intend to take many more such research projects which can put us on the altar of research options available for students. Our Vision to make a global presence exemplifies with our activities that are chalked out for the next three years. We have now established connections far and wide into the European countries and the United States of America. We have now arranged for an international workshop in Italy with the following Universities, Domus Academy, NABA in Milan have invited a set of 20 students to their esteemed university for an interaction with the faculty and students. They will also set a problem of design and help us find solution for the same. The ISAD communicazone is another University which has also offered to conduct a workshop with regards to the different types of Interior design studies of which an extremely new subject to the Indian subcontinent is the Yatch design subject. The very welcoming response has been an overwhelming experience for the Faculty of Architecture, Karpagam Academy of Higher Education. The American subcontinent has always been a lucrative global move out for most students in India. We have been on continuous talks to sign a MoU with New School of Architecture and design (NSAD) and Southern California University of Architecture (SCI – ARC). These Universities have been kind enough to accept our proposal for an exchange programme in the Universities for our Architectural students.",
-          "image": "/images/others/video-07.jpg"
+          "image": "/images/Kahe/academics/architecure/architecure-overview.png"
         }
       ]
     },
@@ -49,7 +49,7 @@
           {
             "key": "ug",
             "title": "Under Graduate Programmes",
-            "img": "/images/others/health-b-02.png",
+            "img": "/images/Kahe/academics/architecure/architecure-studentprogrammes.png",
             "items": [
               "B.Arch (Strength: 80)",
               "B. Des. ID – Interior Design (Strength: 30)",
@@ -60,7 +60,7 @@
           {
             "key": "pg",
             "title": "Post Graduate Programmes",
-            "img": "/images/others/health-b-02.png",
+             "img": "/images/Kahe/academics/architecure/architecure-studentprogrammes.png",
             "items": [
               "M.Arch – Advance Design (Strength: 20)",
               "M.Plan – Town and Country Planning (Strength: 20)"
@@ -75,7 +75,7 @@
           {
             "key": "barch",
             "title": "B.Arch",
-            "img": "/images/others/health-b-02.png",
+            "img": "/images/Kahe/academics/architecure/architecure-studentprogrammes.png",
             "type": "curriculum",
             "items": [
               {
@@ -119,7 +119,7 @@
           {
             "key": "ba-interior-design",
             "title": "B.A. (Hons.) Interior Design",
-            "img": "/images/others/health-b-02.png",
+             "img": "/images/Kahe/academics/architecure/architecure-studentprogrammes.png",
             "type": "curriculum",
             "items": [
               {
@@ -151,7 +151,7 @@
           {
             "key": "bdes-fashion",
             "title": "B.Des – Fashion Design",
-            "img": "/images/others/health-b-02.png",
+            "img": "/images/Kahe/academics/architecure/architecure-studentprogrammes.png",
             "type": "curriculum",
             "items": [
               {
@@ -163,7 +163,7 @@
           {
             "key": "march",
             "title": "M.Arch – Advance Design",
-            "img": "/images/others/health-b-02.png",
+             "img": "/images/Kahe/academics/architecure/architecure-studentprogrammes.png",
             "type": "curriculum",
             "items": [
               {
@@ -195,7 +195,7 @@
           {
             "key": "mplan",
             "title": "M.Plan – Town and Country Planning",
-            "img": "/images/others/health-b-02.png",
+             "img": "/images/Kahe/academics/architecure/architecure-studentprogrammes.png",
             "type": "curriculum",
             "items": [
               {

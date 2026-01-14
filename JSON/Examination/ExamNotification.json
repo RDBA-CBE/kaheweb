@@ -473,26 +473,32 @@
     "btnText": "View",
     "content": [
       {
+        "src":"/images/Kahe/icons/examination/overview/eaxm-notification.svg",
         "title": "Exam Notification",
         "url": "/kahe/examinations/exam-notification"
       },
       {
+        "src":"/images/Kahe/icons/examination/overview/forms.svg",
         "title": "Forms",
         "url": "/kahe/examinations/forms"
       },
       {
+         "src":"/images/Kahe/icons/examination/overview/eaxm-notification.svg",
         "title": "CIA",
         "url": "/kahe/examinations/cia-test"
       },
       {
+         "src":"/images/Kahe/icons/examination/overview/ese.svg",
         "title": "ESE",
         "url": "/kahe/examinations/ese-test"
       },
       {
+         "src":"/images/Kahe/icons/examination/overview/results.svg",
         "title": "Results",
         "url": "https://karpagam.edu.in/Automation/studentOnline.do?param=login&Id=1"
       },
       {
+         "src":"/images/Kahe/icons/examination/overview/esanad-notification.svg",
         "title": "eSanad Notification",
         "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/11/eSanad-notification.pdf"
       }

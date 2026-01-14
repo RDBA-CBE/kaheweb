@@ -2,7 +2,7 @@
   "title": "Science and Humanities",
   "bannerCon": "Strengthening foundational knowledge in science and humanities to support interdisciplinary learning and critical thinking.",
   "applyLink": "#",
-  "bannerImg": "/images/Kahe/academics/engineering/Biotechnology/biotechnology-banner.png",
+  "bannerImg": "/images/Kahe/academics/engineering/Science-and-Humanities/scienceandhumanities-banner.webp",
   "tabs": [
     {
       "id": "overview",
@@ -33,7 +33,7 @@
           "type": "overview",
           "subTitle": "Overview",
           "contents": "The Department of Science and Humanities provides Engineering students with a well-rounded educational experience and strives to integrate the students’ concentration in Science and Humanities with their core Engineering subjects and to insure prerequisites are met within their technical discipline. The study of Science and Humanities is a capstone experience bringing together the knowledge and insights that students need to acquire throughout their engineering curricula.",
-          "image": "/images/Kahe/academics/engineering/Biotechnology/biotechnology-overview.png"
+          "image": "/images/Kahe/academics/engineering/Science-and-Humanities/overview.webp"
         }
       ]
     },
