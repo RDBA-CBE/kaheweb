@@ -49,19 +49,15 @@
           {
             "key": "ug",
             "title": "Under Graduate Programme",
-           "img": "/images/Kahe/academics/engineering/Food-Technology/foodtechnology-studentprogrammes.png",
-            "items": [
-              "B.Tech. Food Technology (Strength: 60)"
-            ],
+            "img": "/images/Kahe/academics/engineering/Food-Technology/foodtechnology-studentprogrammes.png",
+            "items": ["B.Tech. Food Technology (Strength: 60)"],
             "type": "programme"
           },
           {
             "key": "res",
             "title": "Research Programme",
             "img": "/images/Kahe/academics/engineering/Food-Technology/foodtechnology-studentprogrammes.png",
-            "items": [
-              "Ph.D"
-            ],
+            "items": ["Ph.D"],
             "type": "programme"
           }
         ]
@@ -260,6 +256,23 @@
     {
       "tab": "Publications",
       "slug": "department-of-food-technology",
+      "breadcrumbItems": [
+        {
+          "label": "Academics",
+          "href": "/academics"
+        },
+        {
+          "label": "Engineering",
+          "href": "academics/engineering/"
+        },
+        {
+          "label": "Department of Food Technology",
+          "href": "/academics/engineering/department-of-food-technology"
+        },
+        {
+          "label": "Publications"
+        }
+      ],
       "title": "Best Five Papers Faculty wise:",
       "subtitle": "Paper publications by the Faculty Members",
       "content": [
@@ -322,6 +335,23 @@
     {
       "tab": "Events",
       "slug": "department-of-food-technology",
+      "breadcrumbItems": [
+        {
+          "label": "Academics",
+          "href": "/academics"
+        },
+        {
+          "label": "Engineering",
+          "href": "academics/engineering/"
+        },
+        {
+          "label": "Department of Food Technology",
+          "href": "/academics/engineering/department-of-food-technology"
+        },
+        {
+          "label": "Events"
+        }
+      ],
       "items": [
         {
           "title": "Career Counseling",
@@ -332,17 +362,18 @@
         {
           "title": "Guest Lectures",
           "content": [
-            "Dr. V. E. Ida Christi delivered a guest lecture on “Food as Nutrient and Medicine” on December 31, 2020.",
-            "Dr. Preethi Marimuthu delivered a guest lecture on “Probiotics- Gut health, Immunity, Safety, Industry and Economic Impact” on December 29, 2020.",
-            "Dr. R. Balakrishnaraja delivered a guest lecture on “Value Addition of Food Products” on December 28, 2020.",
-            "Dr. P. Karthik delivered a special lecture on “Recent Developments in Micro and Nanoencapsulation of Food Bioactive Ingredients by Spray Drying” on December 26, 2020.",
-            "Dr. C. Jusci Kumar delivered a guest lecture on “Food Processing Technology in Bakery” on December 12, 2020.",
-            "Dr. J. Prakash Maran delivered a guest lecture on “Microorganisms and Food Technology” on December 31, 2020.",
-            "Mr. Godwin Berlin Dass delivered a guest lecture on “Unit Operations in Dairy Processing” on February 14, 2020.",
-            "Ms. Kayalvizhi Balasubramanian delivered a guest lecture on “Opportunity in Food Technology” on July 12, 2019.",
-            "Dr. S. Gobikrishnan delivered a guest lecture on “Engineering Aspects in Food Technology” on August 28, 2019.",
-            "Dr. R. K. Sumathi delivered a guest lecture on “Food Borne Illness” on September 06, 2019.",
-            "Dr. T. V. Ranganathan delivered a guest lecture on “Application of Food Analysis in Assessing Food Quality” on January 22, 2020."
+            "Dr. V. E. Ida Christi, Professor, Faculty of Pharmacy, Karpagam Academy of Higher Education, Coimbatore, has delivered a guest lecture on “Food as Nutrient and Medicine” on December 31, 2020.",
+            "Dr. Preethi Marimuthu, PhD (University College London), R&D Director, Biofarm Group of Companies, Coimbatore, has delivered a guest lecture on “Probiotics- Gut health, Immunity, Safety, Industry and Economic Impact” on December 29, 2020.",
+            "Dr. R. Balakrishnaraja, Associate Professor and Head incharge, Department of Food technology, Bannari Amman Institute of Technology, Sathyamangalam, has delivered a guest lecture on “Value Addition of Food Products” on December 28, 2020.",
+            "Dr. P. Karthik, Associate Professor, Department of Food Technology, Karpagam Academy of Higher Education, Coimbatore, has delivered a special lecture on “Recent Developments in Micro and Nanoencapsulation of Food Bioactive Ingredients by Spray Drying” on December 26, 2020.",
+            "Dr. C. Jusci kumar, M.Tech., Ph.D., Technical Manager, Centre of Excellence, Bakery, Takasago International Corporation, Chennai, Tamil Nadu., has delivered a guest lecture on “Food Processing Technology in Bakery” on December 12, 2020.",
+            "Dr. J. Prakash Maran, Associate Professor, Department of Food Science and Nutrition, Periyar University, Salem, Tamil Nadu. has delivered a guest lecture on “Microorganisms and Food Technology” on December 31, 2020.",
+            "Mr. Godwin Berlin Dass, The Manager, Benny Foods, Coimbatore, has delivered a guest lecture on “Unit operations in Dairy Processing” on February 14, 2020.",
+            "Ms. Kayalvizhi Balasubramanian, Assistant Director, MSME, Coimbatore, has delivered a guest lecture on “Opportunity in Food Technology” on July 12, 2019.",
+            "Dr. S. Gobikrishnan, Assistant Professor, Department of Food Processing Technology, School of Agriculture and Biosciences, Karunya Institute of Technology and Sciences, Coimbatore, has delivered guest lecture on “Engineering Aspects in Food Technology” on August 28, 2019.",
+            "Dr. R.K. Sumathi, Assistant Professor, Department of Microbiology, Sri Ramakrishna Arts and Science College, Coimabtore, has delivered guest lecture on “Food Borne Illness” on September 06, 2019.",
+            "Dr.T.V. Ranganathan, Professor, Department of Food Processing Technology, School of Agriculture and Biosciences, Karunya Institute of Technology and Sciences, Coimbatore, has delivered guest lecture on “Application of Food Analysis in Assessing Food Quality” on January 22, 2020.",
+            "Mr. Godwin Berlin Dass, Manager, Benny Foods, Coimbatore, has delivered guest lecture on “Unit Operations in Dairy Processing” on February 14, 2020."
           ]
         },
         {
@@ -354,21 +385,21 @@
         {
           "title": "Industrial Visits",
           "content": [
-            "Two-day industrial visit to Hindustan Coca-Cola Beverages Pvt. Ltd., Garuda Polyflex Foods, and Indo-American Hybrid Seeds, Bengaluru."
+            "The Department organized the two days industrial visits to “Hindustan Coca-Cola Beverages Private Limited”, Bengaluru; “Garuda Polyflex Foods”, Bengaluru; and “Indo-American Hybrid Seeds”, Bengaluru."
           ]
         },
         {
           "title": "World Food Day Celebration",
           "content": [
-            "National Level World Food Day Celebration on October 16, 2020 with keynote address by Dr. C. Anandharamakrishnan on future prospects of Food Processing Technology.",
-            "World Food Day Celebration on October 16, 2019 with keynote address by Mr. Umakant Singh on plant design in food safety."
+            "The “National Level World Food Day celebration” has been organized on October 16, 2020 by the Department of Food Technology, Faculty of Engineering, KAHE. The chief guest Dr. C.  Anandharamakrishnan, Director, Indian Institute of Food Processing Technology (IIFPT), Ministry of Food Processing Industries, Govt. of India, Thanjavur, has delivered a keynote address on “Recent Trends and Future Prospects of Food Processing Technology.” He has shared knowledge on importance of Food Technology particularly in Food processing, Engineering aspects, novel techniques (i.e. Food nanotechnology, food colloids, bioactive encapsulation, etc.), food business and future prospects. Part of the program, we have arranged two events namely, photography competition titled “Immune boosting food for Covid-19” and poster presentation titled “Smart solutions of Future Food” to impart creativity among the young minds.",
+            "The Department celebrated a “World Food Day” on October 16, 2019, Mr. Umakant Singh, Plant Head, ABT Group of Industries (Sakthi Dairy Division) has delivered a keynote address on “The Role Plant Designing in Food Safety”."
           ]
         },
         {
           "title": "Extension Activity",
           "content": [
-            "Tribal Interaction Programme on Millets at Baralikadu on 13.12.2025 with 50 students and five faculty members.",
-            "Awareness Program on Food Adulterants at Malumichampatty on September 04, 2019."
+            "To conduct an extension activity on “Tribal Interaction Programme on Millets” at Baralikadu on 13.12.2025 along with 50 students and five faculty members.",
+            "Departmental extension activity was organized to create an “Awareness Program on Food Adulterants” at Malumichampatty on September 04, 2019."
           ]
         },
         {
@@ -382,23 +413,24 @@
         {
           "title": "Value Added Course",
           "content": [
-            "Value Added Course on “Food Product Development”."
+            "The Department has conducted Value Added Course on “Food Product Development”"
           ]
         },
         {
           "title": "Others",
           "content": [
-            "Tribal Interaction Programme on Millets at Baralikadu on 13.12.2025.",
-            "Inauguration of student chapter for Western Ghat Researcher Association on 08.12.2025.",
-            "Two-day workshop on Engineering principles applied to Food Processing and Baking Technology on 27–28.11.2025.",
-            "One-day Seminar on “Design Thinking for AI-Driven Innovations in Food and Nutrition” on 17.10.2025.",
-            "Invited Talk on “IPR (Intellectual Property Rights)” on 08.09.2025.",
-            "Technical Seminar cum Workshop on Food Adulteration and Nutritional Profiling on 28–29.08.2025.",
-            "One-day Technical Seminar on “BioFoodpreneurs: Shaping the Future of Sustainable Food” on 22.08.2025.",
-            "One-day workshop on “Millets: The Super Foods for the Next Generation” on 30.07.2025."
+            "Extension activity on “Tribal Interaction Programme on Millets” at Baralikadu on 13.12.2025 along with 50 students and five faculty members.",
+            "Inauguration ceremony for initiation of the student chapter for Western Ghat Researcher Association of Agricultural Sciences and Technology on 08.12.2025",
+            "Two-days workshop on “Engineering principles applied to Food Processing and Hands on training to Baking Technology” on 27.11.2025 to 28.11.2025.",
+            "One-day Seminar on “Design Thinking for AI-Driven Innovations in Food and Nutrition” on 17.10.2025",
+            "Invited Talk on “IPR (Intellectual Property Rights)” tentatively on 08.09.2025.",
+            "Technical Seminar cum Workshop on “Food Adulteration and Nutritional Profiling” on 28.08.2025 to 29.08.2025",
+            "One-day Technical Seminar on “BioFoodpreneurs: Shaping the Future of Sustainable Food” on 22.08.2025",
+            "One Day workshop on “Millets : The Super Foods for the Next Generation” on 30.07.2025"
           ]
         }
       ]
+      
     }
   ]
 }

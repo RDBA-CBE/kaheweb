@@ -30,11 +30,11 @@ const CampusEvents = () => {
         <div className="rbt-course-details-area w-100">
           <div className="row g-5">
             <div className="col-lg-9">
-             <CampusEveIn data={Campus?.convocation2024} />
+              {Campus?.galleryItmes?.map((item, i)=>(
+                 <CampusEveIn data={item} key={i}/>
+              ))}
 
-             <CampusEveIn data={Campus?.digitalPenne} />
-
-              <CampusEveIn data={Campus?.OrientationFASCM} />
+              
             </div>
 
             <div className="col-lg-3 px-0 d-none d-lg-block sidebar-pg">

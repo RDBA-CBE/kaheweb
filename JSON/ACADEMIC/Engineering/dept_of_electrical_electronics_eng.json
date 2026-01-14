@@ -76,19 +76,15 @@
           {
             "key": "pg",
             "title": "Post Graduate Programme",
-           "img": "/images/Kahe/academics/engineering/EEE/eee-studentprogrammes.png",
-            "items": [
-              "M.E. Power Systems Engineering (Strength: 6)"
-            ],
+            "img": "/images/Kahe/academics/engineering/EEE/eee-studentprogrammes.png",
+            "items": ["M.E. Power Systems Engineering (Strength: 6)"],
             "type": "programme"
           },
           {
             "key": "res",
             "title": "Research Programme",
-           "img": "/images/Kahe/academics/engineering/EEE/eee-studentprogrammes.png",
-            "items": [
-              "Ph.D. Electrical and Electronics Engineering"
-            ],
+            "img": "/images/Kahe/academics/engineering/EEE/eee-studentprogrammes.png",
+            "items": ["Ph.D. Electrical and Electronics Engineering"],
             "type": "programme"
           }
         ]
@@ -187,7 +183,7 @@
           {
             "key": "me-pt",
             "title": "ME Power Systems Engineering – PT",
-           "img": "/images/Kahe/academics/engineering/EEE/eee-studentprogrammes.png",
+            "img": "/images/Kahe/academics/engineering/EEE/eee-studentprogrammes.png",
             "type": "curriculum",
             "items": [
               {
@@ -211,7 +207,7 @@
           {
             "key": "phd",
             "title": "Ph.D. Electrical and Electronics Engineering",
-          "img": "/images/Kahe/academics/engineering/EEE/eee-studentprogrammes.png",
+            "img": "/images/Kahe/academics/engineering/EEE/eee-studentprogrammes.png",
             "type": "curriculum",
             "items": [
               {
@@ -249,7 +245,7 @@
       "basic": {
         "title": "Faculty",
         "description": "The faculty of the Department of Electrical and Electronics Engineering focuses on power systems, control technologies, and intelligent electrical applications. Through hands-on experimentation, system-level problem solving, and technology-driven instruction, the faculty prepares students for advancements in energy, automation, and smart electrical systems.",
-       "src": "/images/Kahe/academics/faculty.webp",
+        "src": "/images/Kahe/academics/faculty.webp",
         "buttonText": "View All Faculty"
       },
       "breadcrumbItems": [
@@ -487,60 +483,123 @@
         {
           "type": "laboratories",
           "title": "Laboratories",
+          "desc": "The department of EEE has a complete range of dedicated laboratories with newest equipment for teaching and research. Laboratories provide an environment for students to reinforce their understanding of the fundamental principles of Electrical and Electronics Engineering and apply their knowledge through hands-on learning using current technology. The following are the laboratories in this department.",
           "content": [
-            "Structural Engineering Laboratory",
-            "Surveying Laboratory",
-            "Soil Laboratory",
-            "Construction material Laboratory."
+            "Microprocessor and Microcontroller Laboratory",
+            "PLC Lab",
+            "Power Electronics Laboratory",
+            "Measurements and Instrumentation Laboratory",
+            "Engineering Practices Laboratory"
           ]
+        },
+
+        {
+          "type": "equipment",
+          "title": "Research Facility - Hardware",
+          "content": ["Power Quality Analyzer"]
+        },
+        {
+          "type": "LibrarySections",
+          "title": "Research Facility - Software",
+          "content": ["PSCAD (25 user)", "ETAP (10 user)"]
+        },
+
+        {
+          "type": "library",
+          "title": "Department Library",
+
+          "content": [
+            "The department library has a total of 150 books in various electrical and electronics streams.",
+            "Project reports done by final year students are stacked in the department library for student’s reference."
+          ]
+        },
+
+        {
+          "type": "connectivity",
+          "title": "Skill Development Center",
+
+          "content": ["LED Tube Light Assembly and Testing"]
         },
         {
           "type": "gallery",
           "slug": "department-of-electrical-electronics-engineering",
+          "breadcrumbItems": [
+            { "label": "Academics", "href": "academics" },
+            {
+              "label": "Engineering",
+              "href": "academics/engineering/"
+            },
+
+            {
+              "label": "Department of Electrical and Electronics Engineering",
+              "href": "/academics/engineering/department-of-electrical-electronics-engineering"
+            },
+            { "label": "Gallery" }
+          ],
           "images": [
             {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/ci1-348x460.png",
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/05/electrical-machinary-lab-1024x768.jpg",
               "alt": "",
+              "title": "Electrical Machines Laboratory"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/05/control-systems-lab-1024x768.jpg",
+              "alt": "",
+              "title": "Control Systems Laboratory"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/05/electronis-lab-1024x768.jpg",
+              "alt": "",
+              "title": "Electronics Laboratory"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/05/power-systems-1024x768.jpg",
+              "alt": "",
+              "title": "Power System Simulation Laboratory"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/05/power-and-hybrid-1024x768.jpg",
+              "alt": "",
+              "title": "Power and Hybrid Renewable Energy Sources Laboratory"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/05/power-quality-analyser-1024x768.jpg",
+              "alt": "",
+              "title": "Power Quality Analyzer"
+            },
+            {
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/EEE_lab10-628x419.jpg",
+              "alt": "Electrical and Electronics Engineering Lab - Best EEE College in India",
               "title": ""
             },
             {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/ci2-348x468.png",
-              "alt": "",
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/EEE_lab6-628x419.jpg",
+              "alt": "EEE Lab - Top Electrical and Electronics college in India",
               "title": ""
             },
             {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/ci3-330x434.png",
-              "alt": "",
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/EEE_lab5-628x419.jpg",
+              "alt": "EEE Course - Best EEE College in India",
               "title": ""
             },
             {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/ci5-415x469.png",
-              "alt": "",
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/EEE_lab4-628x419.jpg",
+              "alt": "Laboratory for EEE - Top EEE College in Coimbatore",
               "title": ""
             },
             {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/1-6-660x887.jpg",
-              "alt": "",
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/EEE_lab3-628x419.jpg",
+              "alt": "Lab facilities - Top Engineering college in Coimbatore",
               "title": ""
             },
             {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/2-5-530x678.jpg",
-              "alt": "",
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/EEE_lab2-628x419.jpg",
+              "alt": "EEE students - Best college for EEE in Tamilnadu",
               "title": ""
             },
             {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/3-4-614x697.jpg",
-              "alt": "",
-              "title": ""
-            },
-            {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/4-1-641x896.jpg",
-              "alt": "",
-              "title": ""
-            },
-            {
-              "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/5-1-1024x609.jpg",
-              "alt": "",
+              "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/EEE_lab1-628x419.jpg",
+              "alt": "Laboratory education - Top college in Coimbatore",
               "title": ""
             }
           ]
@@ -550,127 +609,193 @@
     {
       "tab": "Publications",
       "slug": "department-of-electrical-electronics-engineering",
+      "breadcrumbItems": [
+        { "label": "Academics", "href": "academics" },
+        {
+          "label": "Engineering",
+          "href": "academics/engineering/"
+        },
+
+        {
+          "label": "Department of Electrical and Electronics Engineering",
+          "href": "/academics/engineering/department-of-electrical-electronics-engineering"
+        },
+        { "label": "Publications" }
+      ],
       "title": "Best Five Papers Faculty wise:",
       "subtitle": "Paper publications by the Faculty Members",
+
       "content": [
         {
           "faculty_name": "Dr. Amudha A",
-          "content": [
-            "Y. Dhayaneswaran, A. Amudha, Analysis and Measurement of Supraharmonics in Real Textile Industries using hybrid technique, J. Electrical Systems, Vol. 20 (7s), pp. 1–26, 2024.",
-            "Uma Maheswari Yuvaraj, Amudha Alagarsamy, Ashok Kumar Loganathan Mohana Sundaram, Electromagnetic Interference Noise Mitigation Technique in High-speed Signal Circuits Using EBG Structure, AIP Conference Proceedings, 2023.",
-            "Dhayaneswaran Yuvaraj, Amudha Alagarsamy, Ashok Kumar, Loganathan Mohana Sundaram, Supraharmonics source and effects in textile industry, AIP Conference Proceedings, 2023.",
-            "V. J. Vijayalakshmi, A. Amudha, K. Dhayalini, A. Prakash, Hybrid WFS-CGO approach for EV charging spot allocation, Energy & Environment, 2022.",
-            "Uma Maheshwari Y., A. Amudha, Design and Analysis of a Novel EBG Structure, Journal of The Institution of Engineers (India), 2022."
+          "multiContent": [
+            {
+              "contentList": [
+                "Y. Dhayaneswaran, A. Amudha, Analysis and Measurement of Supraharmonics in Real TextileIndustries using hybrid technique, J. Electrical Systems, V. 20 (7s), pp. 1-26, DOI: https://doi.org/10.52783/jes.3293 2024",
+                "Uma Maheswari Yuvaraj, Amudha Alagarsamy, Ashok Kumar Loganathan Mohana Sundaram Electromagnetic Interference Noise Mitigation Technique in Highspeed Signal Circuits Using Electromagnetic Band Gap Structure, AIP Conference Proceedings https://doi.org/10.1063/5.0126899, 2023",
+                "Dhayaneswaran Yuvaraj, Amudha Alagarsamy., Ashok Kumar., Loganathan Mohana Sundaram, Supraharmonics source and effects in textile industry., AIP Conference Proceedings, https://doi.org/10.1063/5.0126671, 2023",
+                "A hybrid WFS-CGO based approach for optimal allocation of EV charging spots along with capacitors in smart distribution network for congestion management, VJ Vijayalakshmi, A Amudha, K Dhayalini, A Prakash., Energy & Environment , 1673-1702. https://doi.org/10.1177/0958305X221141398, 2022",
+                "Uma Maheshwari.Y., A. Amudha, Design, Simulation and Analysis of a Novel EBG Structure using Advanced Design System: Implementation and Related Issues. Journal of The Institution of Engineers (India): Series B., https://doi.org/10.1007/s40031-022-00758-y.2022."
+              ]
+            }
           ]
         },
         {
           "faculty_name": "Dr. J. Karpagam",
-          "content": [
-            "Chandrika, G.N. Karpagam et al., QCML methodology for infectious disease diagnosis in CT images, Journal of Electronics, Electromedical Engineering, 2024.",
-            "R. Uthirasamy et al., Advanced Power Converters for Electric Vehicles, Journal of Electrical Systems, 2024."
+          "multiContent": [
+            {
+              "contentList": [
+                "Chandrika, G.N. Karpagam, J. Richard, T. Shadrach, F. D. Triwiyanto, T., QCML: Qualified Contrastive Machine Learning methodology for infectious disease diagnosis in CT images Journal of Electronics, Electromedical Engineering, and Medical Informatics, 2024, 6(2), pp. 195–205.",
+                "R Uthirasamy, M. Dinesh, V. Kumar Chinnaiyan, J.Karpagam, Advanced Power Converters For Electric Vehicles, J. Electrical Systems 20-2 (2024): 129-141."
+              ]
+            }
           ]
         },
         {
           "faculty_name": "Dr. Balachander K",
-          "content": [
-            "S. Senthilkumar, K. Balachander et al., Impact of hybrid renewable energy systems on reliability, Energy, 2024.",
-            "T. Ramesh, K. Balachander, Optimizing hybrid renewable energy systems with EV integration, Journal of Energy Storage, 2024.",
-            "Jayanthi G., Balachander K., Energy management system using fish swarm optimization, CT Ciencia Tecnología y Futuro, 2023.",
-            "Balachander K., Amudha A., Modelling renewable energy systems at various altitudes, Current Science, 2023.",
-            "Balachander K., Amudha A., Techno-economic study of hybrid renewable systems, International Journal of Ambient Energy, 2020."
+          "multiContent": [
+            {
+              "contentList": [
+                "S. Senthilkumar, K Balachander, V.M. Mohamed Mansoor, A hybrid technique for impact of hybrid renewable energy systems on reliability of distribution power system, Energy, Volume 306, 2024, 132383, ISSN 0360-5442, https://doi.org/10.1016/j.energy.2024.132383",
+                "T. Ramesh, K. Balachander, optimizing hybrid renewable energy systems with integrated electric vehicle using a hybrid approach, Journal of Energy Storage, Volume 89, 2024, 111655, ISSN 2352-152X, https://doi.org/10.1016/j.est.2024.111655. [IF: 8.9]",
+                "Jayanthi, G., & Balachander, K. (2023). Energy management system using artificial fishswarm speed optimized fuzzy controller based on a deep recurrent neural learningclassifie. CT – Ciencia, Tecnología Y Futuro, 13(2), 29–37. https://doi.org/10.29047/01225383.677 [ IF: 0.5]",
+                "Balachander Kalappan, Amudha Alagarsamy, Modelling and analysis of a renewable energy system at various altitudes, CURRENT SCIENCE, 2023, 125 (10), pp. 1088-1092. [1.10]",
+                "Kalappan Balachander, Amudha, A., & Keerthivasan, K. (2020). Techno-economic study of hybrid renewable energy system of Metropolitan Cities in India. International Journal of Ambient Energy, 43(1), 1408–1412. https://doi.org/10.1080/01430750.2019.1708791 [IF:2.54]"
+              ]
+            }
           ]
         },
         {
           "faculty_name": "Dr. V. J. Vijayalakshmi",
-          "content": [
-            "V.V. Vineeth, V.J. Vijayalakshmi, Deep learning approach for voltage stability estimation, Electrical Engineering, Springer, 2024.",
-            "Saravanakumar V., Vijayalakshmi V.J., CoWO4 nanocomposites for supercapacitors, Ionics, 2024.",
-            "V.V. Vineeth, Vijayalakshmi V.J., ANN-based voltage stability sensing, Measurement: Sensors, 2024.",
-            "VJ Vijayalakshmi et al., EV charging allocation using WFS-CGO, Energy & Environment, 2022.",
-            "V.J. Vijayalakshmi, A. Amudha, Regulation of EV parking lot in grid, Energy Sources Part A, 2022."
+          "multiContent": [
+            {
+              "contentList": [
+                "V.V. Vineeth, V.J.Vijayalakshmi, “A novel deep learning approach for estimating and classifying short-term voltage stability events in modern power systems with composite load and distributed energy resources”, in Electrical Engineering, Springer, July 2024.",
+                "V. Saravanakumar, V. J. Vijayalakshmi, S. Seenivasan & Dhinesh Subramanian, “Novel synthesis of CoWO4 supported on 1D-MWCNT nanocomposites enhancing dielectric properties for supercapacitor electrodes”, in Ionics, Spinger, June 2024.",
+                "V.V. Vineeth, V.J. Vijayalakshmi, Gopi Krishna Pasam, P.K. Vivek, “ANN based smart sensing of short-term voltage stability assessment of modern power system”, in Measurement: Sensors, January 2024.",
+                "VJ Vijayalakshmi, A Amudha, K Dhayalini, A Prakash, “A hybrid WFS-CGO based approach for optimal allocation of EV charging spots along with capacitors in smart distribution network for congestion management”, in Energy & Environment, Sage Journal, December 2022.",
+                "V.J.Vijayalakshmi, A.Amudha, Prakash Arumugam “Regulation of Best Site for Electric Vehicles Parking Lot in Grid with Congestion Management: A BCMPO Technique”, in Energy Sources, Part A: Recovery, Utilization, and Environmental Effects, Taylor and Francis, April 2022."
+              ]
+            }
           ]
         },
         {
           "faculty_name": "Dr. S. Divyapriya",
-          "content": [
-            "R. Vijayakumar et al., IoT-enabled blockage detection using drones, ICESC 2024.",
-            "Divyapriya S. et al., Solar EV charging station using MPPT, IEEE ICDCTA 2023.",
-            "P. Dhanalakshmi et al., Machine learning in solar tracking, International Journal of Photoenergy, 2022.",
-            "Divyapriya S. et al., Smart EV home charger using IoT, ICECAA 2022.",
-            "R. Vijayakumar et al., Automated attendance using face recognition, ICOSEC 2022."
+          "multiContent": [
+            {
+              "contentList": [
+                "R. Vijayakumar; S. Divyapriya; R. Satheesh Kumar; C. Ramya; S. Sharmila “Internet of Things Enabled Blockage Detection in Micro-Irrigation System by Using Drones”, 2024 5th International Conference on Electronics and Sustainable Communication Systems (ICESC) 02 October 2024.",
+                "Divyapriya S;Amudha A;Balachander K.., M. Siva Ramkumar, Emayavaramban G Electric Vehicle Charging Station based on Solar Maximum Power Point Tracking System Kannan V., 2023 IEEE International Conference on Innovative Data Communication Technologies and Application,2023.",
+                "P. Dhanalakshmi,V. Venkatesh, P. S. Ranjit, N. Hemalatha, S. Divyapriya, R. Sandhiya, Sumit Kushwaha, Asmita Marathe, and Mekete Asmare Huluka Application of Machine Learning in Multi-Directional Model to Follow Solar Energy Using Photo Sensor Matrix International Journal of Photoenergy, 2022.",
+                "S. Divyapriya; J. Imran; A. Madhesan; N. Sakthivel; K. Sivakumar; G. Vadivelan Internet of Things Enabled Smart Electric Vehicles Home Charger with Mobile Application Integration 2022 International Conference on Edge Computing and Applications (ICECAA), October 2022.",
+                "R. Vijayakumar; M. Poornima; S. Divyapriya; T. Selvaganapathi, “Automated Student Attendance Tracker for End Semester Examination using Face Recognition System” 2022 3rd International Conference on Smart Electronics and Communication (ICOSEC),2022."
+              ]
+            }
           ]
         },
         {
-          "faculty_name": "Ms. Nagaveni P",
-          "content": [
-            "Nagaveni P. et al., Power quality audit in engineering industry, JARDCS, 2019.",
-            "Nagaveni P. et al., Electrical energy audit in textile mill, IJITEE, 2019.",
-            "Rajkumar S. et al., Optimizing EV charging in swapping stations, ICCES 2023.",
-            "Mansoor V.M. et al., Lightning analysis, Materials Today Proceedings, 2021.",
-            "Ramkumar M.S. et al., DC-DC converters with soft switching, Materials Today Proceedings, 2021."
+          "faculty_name": "Ms. Nagaveni, P",
+          "multiContent": [
+            {
+              "contentList": [
+                "Nagaveni, P., Saravanakumar, V., Amudha, A., Prasanna, N. and Sivaramkumar, M., 2019. Power quality audit-an experience in an leading engineering industry. J. Adv. Res. Dynamical Control Syst., 11(12), pp.1075-1085.",
+                "Nagaveni, P., RamKumar, M.S., Nivetha, M., Amudha, A. and Emayavaramban, G., 2019. Electrical energy audit–an experience in a small scale textile mill. International Journal of Innovative Technology and Exploring Engineering, 8(10), pp.4102-4107.",
+                "Rajkumar, S., Nagaveni, P., Amudha, A., Ramkumar, M.S., Emayavaramban, G. and Selvaganapathy, T., 2023, June. Optimizing EV Charging in Battery Swapping Stations with CSO-PSO Hybrid Algorithm. In 2023 8th International Conference on Communication and Electronics Systems (ICCES) (pp. 1566-1571). IEEE.",
+                "Mansoor, V.M., Nagaveni, P., Amudha, A., Divyapriya, S., Emayavaramban, G., Ramkumar, M.S. and SivaramKrishnan, M., 2021. Throwing light on lightning. Materials Today: Proceedings, 37, pp.2572-2577.",
+                "Ramkumar, M.S., Amudha, A., Nagaveni, P., Emayavaramban, G., Divyapriya, S., Mansoor, V.M., SivaramKrishnan, M. and Kavitha, D., 2021. Analysed results of DC-DC converters with softswitching techinques. Materials Today: Proceedings, 37, pp.2631-2635."
+              ]
+            }
           ]
         },
         {
           "faculty_name": "Mr. R. Sethuraman",
-          "content": [
-            "R. Sethuraman et al., Solar PV microgrid with battery energy storage, IEEE, 2024.",
-            "S.D. Lalitha et al., AI-driven control strategies for converters, IEEE, 2024.",
-            "Jagadesan A. et al., AI-enhanced frequency control in hybrid systems, IEEE, 2024."
+          "multiContent": [
+            {
+              "contentList": [
+                "R. Sethuraman, A. Amudha, G. Emayavaramban, T. Selvaganapathi, K. Elavarasi, R.V Arunmozhi, Solar PV Based Micro Grid Integrated with Battery Energy Storage System Converter, IEEE Explore, pp. 1-8, 2024.",
+                "S D Lalitha; Chaitanya Danamaraju M. Prabhu Raj Dinesh Kumar R. Sethuraman Mohanaprlya. V, AI-Driven Control Strategies for Power Electronics Converters, IEEE Xplore, pp. 1-6, 2024.",
+                "Jagadesan A Santhi Mary Antony Manimaran K P Maheswara Rao Satyendra Vishwakarma R. Sethuraman, AI-Enhanced Frequency Control in Integrated Wind and Solar Power Systems for Efficient Energy Generation, IEEE Xplore, PP 1-7, 2024."
+              ]
+            }
           ]
         },
         {
           "faculty_name": "Ms. S. Shobana",
-          "content": [
-            "Arunmozhi R.V. et al., Generation site selection using optimization, ICERCS 2023.",
-            "Shobana S. et al., Battery management system for EVs, AICERA 2023.",
-            "Vijayalakshmanan M. et al., Microgrid energy management using fuzzy logic, ICIRCA 2023.",
-            "Rishikesan C. et al., Enhanced gain DC-DC converter design, ICESC 2023.",
-            "Mohanty P. et al., Battery thermal management for EVs, ICIDCA 2023."
+          "multiContent": [
+            {
+              "contentList": [
+                "Arunmozhi, R.V., Subhamathi, A.S.F., Shobana, S., Elavarisi, K., Selvaganapathi, T. Streamlining the Identification and Selection of Generation Sites for Bilateral Transactions via Generation Expansion Planning Utilizing a Variety of Optimization Techniques. 1st International Conference on Emerging Research in Computational Science, ICERCS 2023 – Proceedings, 2023",
+                "Shobana, S., Amudha, A., Gowtham, S., Thirumalai Nambi Rajan, M., Arunmozhi, R.V. An Efficient Battery Management System for Electric Vehicles. 2023 Annual International Conference on Emerging Research Areas: International Conference on Intelligent Systems, AICERA/ICIS 2023, 2023",
+                "Vijayalakshmanan, M., Emayavaramban, G., Amudha, A., Shobana, S., Elavarasi, K., Sivaraju, S.S. Proceedings of the 5th International Conference on Inventive Research in Computing Applications, ICIRCA 2023, 2023, pp. 1727–1732",
+                "Rishikesan, C., Selvaganapathi, T., Amudha, A., Shobana, S., Nagaveni, P. 2023 4th International Conference on Electronics and Sustainable Communication Systems, ICESC 2023 – Proceedings, 2023, pp. 282–290",
+                "Mohanty, P., Shobana, S., Amudha, A., Selvaganapathi, T., Elavarasi, K. International Conference on Innovative Data Communication Technologies and Application, ICIDCA 2023 – Proceedings, 2023, pp. 912–915"
+              ]
+            }
+          ]
+        },
+        {
+          "faculty_name": "Ms. Arunmozhi RV",
+          "multiContent": [
+            {
+              "contentList": [
+                "Arunmozhi RV, Subhamathi AS, Shobana S, Sethuraman R, Elavarisi K, Selvaganapathi T. Streamlining the Identification and Selection of Generation Sites via Generation Expansion Planning Utilizing a Variety of Optimization Techniques. In2023 International Conference on Emerging Research in Computational Science (ICERCS) 2023 Dec 7 (pp. 1-7). IEEE.",
+                "Sethuraman R, Amudha A, Emayavaramban G, Selvaganapathi T, Elavarasi K, Arunmozhi RV. Solar Pv Based Micro Grid Integrated With Battery Energy Storage System Converter. In2023 International Conference on Emerging Research in Computational Science (ICERCS) 2023 Dec 7 (pp. 1-8). IEEE.",
+                "Shobana S, Amudha A, Gowtham S, Nagarajan N, Shanmugam R, Arunmozhi RV. An Efficient Battery Management System for Electric Vehicles. In2023 Annual International Conference on Emerging Research Areas: International Conference on Intelligent Systems (AICERA/ICIS) 2023 Nov 16 (pp. 1-7). IEEE"
+              ]
+            }
           ]
         },
         {
           "faculty_name": "Dr. Arun Kumar U",
-          "content": [
-            "Subash Kumar C.S. et al., Hybrid wind-solar-hydrogen generation, Energy & Environment, 2024.",
-            "Vennila C. et al., ALSO-DCGNN for DC microgrid regulation, Environment Development & Sustainability, 2024.",
-            "Senthil Kumar M. et al., EV charging with distributed energy resources, Environment Development & Sustainability, 2024.",
-            "Bhoopathi M. et al., Optimal energy flow using LSO-vCANNs, Environment Development & Sustainability, 2024.",
-            "Lakshmi Prabha et al., Wind turbine powered hybrid storage assessment, Clean Technologies & Environmental Policy, 2024."
+          "multiContent": [
+            {
+              "contentList": [
+                "Subash Kumar C S, Arun Kumar U and et al., “Electricity and Hydrogen Fuel Generation Based on Wind, Solar Energies and Alkaline Fuel Cell: A Hybrid IWGAN-AVOA Approach”, Energy and Environment, SAGE, ISSN: 2048-4070, August 2024. DOI: https://doi.org/10.1177/0958305X241270218 (SCIE) (IF: 4.0)",
+                "Vennila C, Venkata Prasad Papana, V K Reddy and Arun Kumar U., “ALSO-DCGNN: Enhancing Power Quality and Voltage Regulation of Energy Storage Systems in DC Microgrid”, Environment, Development and Sustainability, Springer, ISSN: 1573-2975, July 2024. DOI: https://doi.org/10.1007/s10668-024-05226-9 (SCIE) (IF: 4.7)",
+                "Senthil Kumar M, Sandeep Prabhu, Arun Kumar U and Krishnakumar R., “EV charging and fuel cell vehicle refuelling with distributed energy resources using hybrid approach”, Environment, Development and Sustainability, Springer, ISSN: 1573-2975, June 2024. DOI: https://doi.org/10.1007/s10668-024-05138-8 (SCIE) (IF: 4.7)",
+                "Bhoopathi M, Venkata Prasad Papana, V K Reddy and Arun Kumar U., “Unbalanced operation of integrated power distribution system for optimal energy flow using LSO-vCANNs approach”, Environment, Development and Sustainability, Springer, ISSN: 1573-2975, June 2024. DOI: https://doi.org/10.1007/s10668-024-05121-3 (SCIE) (IF: 4.7)",
+                "Lakshmi Prabha, Arun Kumar U and et al., “Efficiency and Economic Assessment of Wind Turbine Powered Pumped Hydro Compressed Air Storage Coupled with Alkaline Fuel Cell Using Hybrid Approach”, Clean Technologies and Environmental Policy, Springer, ISSN: 1618-9558, May 2024. DOI: https://doi.org/10.1007/s10098-024-02869-0 (SCIE) (IF: 4.2)"
+              ]
+            }
           ]
         },
         {
-          "faculty_name": "Ms. Arunmozhi R V",
-          "content": [
-            "Arunmozhi R.V. et al., Streamlining the Identification and Selection of Generation Sites using Optimization Techniques, ICERCS 2023, IEEE.",
-            "Sethuraman R. et al., Solar PV Based Micro Grid Integrated with Battery Energy Storage System Converter, ICERCS 2023, IEEE.",
-            "Shobana S. et al., An Efficient Battery Management System for Electric Vehicles, AICERA/ICIS 2023, IEEE."
+          "faculty_name": "Mr. R Bharanidharan",
+          "multiContent": [
+            {
+              "contentList": [
+                "Pallavi Singh, PK Sudhanshu, KG Revathi, M Maheswari, Shailejkumar D Bonde, R Bharanidharan., Molecular docking studies of different phytochemicals obtained from medicinal Plants of Uttarakhand region for identification of potential inhibitors against mucormycosis., Journal of Applied and Natural Science., Pages:162-177.2023",
+                "Krishnan, K Elavarasi, R Bharanidharan, P Rajasekar, A Amudha, RV Maheshwari, FEM Based Investigation of Electrical Characteristics in Three Phase Transformers., International Conference on Electronics, Communication and Aerospace Technology (ICECA). IEEE., 2023.",
+                "VL Raja, AM Senthil Kumar, K Shantha Kumari, R Bharanidharan, P Ezhilarasi, S Rajeshkannan, TM Nithya, S Venkatesh Kumar.,Analytical and Neural Network Analysis on Flux‐Coated Aluminium Alloy by Activated TIG Welding with Synthesized Nanocomposites, : Journal of Nanomaterials, Volume:2023 Issue:1 Pages:3657314 ., 2023.",
+                "Bhawani Sankar Panigrahi, S Artheeswari, Wasim Khan, G Pavithra, Sushil Kumar Pathak, R Bharanidharan., Artificial Intelligence in Astrophysics: Automated Detection of Celestial Objects and Anomaly Detection, International Conference in Computer Science and Technology (ICRTCST) :210-214., 2024",
+                "Tata Hari Krishna, Sagar Chandu Bandpatte, K Mamatha, R Bharanidharan, Deepak Asrani, Ratan Rajan Srivastava., Prediction and Optimization of Life Insurance Prediction Based on FEA and ANN Hybrid Approach., International Conference on Electronics, Computing, Communication and Control Technology (ICECCC)"
+              ]
+            }
           ]
         },
         {
-          "faculty_name": "Mr. R. Bharanidharan",
-          "content": [
-            "Pallavi Singh et al., Molecular docking studies of phytochemicals for mucormycosis inhibitors, Journal of Applied and Natural Science, 2023.",
-            "Krishnan K. et al., FEM Based Investigation of Electrical Characteristics in Three Phase Transformers, ICECA 2023, IEEE.",
-            "V.L. Raja et al., Neural network analysis on flux-coated aluminium alloy TIG welding, Journal of Nanomaterials, 2023.",
-            "Bhawani Sankar Panigrahi et al., Artificial Intelligence in Astrophysics: Automated Detection of Celestial Objects, ICRTCST 2024.",
-            "Tata Hari Krishna et al., Life insurance prediction using FEA and ANN hybrid approach, ICECCC."
-          ]
-        },
-        {
-          "faculty_name": "Ms. K. Elavarasi",
-          "content": [
-            "Krishnan K. et al., FEM Based Investigation of Electrical Characteristics in Three Phase Transformers, ICECA 2023.",
-            "Ramkumar et al., Review on EMG-based Pattern Identification for Hand Prostheses, ICIMIA 2023.",
-            "Arunmozhi R.V. et al., Generation Site Selection using Optimization Techniques, ICERCS 2023.",
-            "Sethuraman R. et al., Solar PV Based Micro Grid with Battery Energy Storage System, ICERCS 2023."
+          "faculty_name": "Ms. K.Elavarasi",
+          "multiContent": [
+            {
+              "contentList": [
+                "FEM Based Investigation of Electrical Charecteristics in Three Phase Transformers ,Krishnan, K., Elavarasi, K., Bharanidharan, R., Amudha, A., Maheshwari, R.V. 7th International Conference on Electronics, Communication and Aerospace Technology, ICECA 2023 – Proceedings, 2023, pp. 7–12",
+                "A Review on EMG-based Pattern Identification Methods for Effective Controlling of Hand Prostheses Ramkumar, Elavarasi K S., Rema, D., Devi, T.A.,Selvaganapathi, T., Gokila, S. 3rd International Conference on Innovative Mechanisms for Industry Applications, ICIMIA 2023 – Proceedings, 2023, pp. 517–523",
+                "Streamlining the Identification and Selection of Generation Sites for Bilateral Transactions via Generation Expansion Planning Utilizing a Variety of Optimization Techniques Arunmozhi, R.V., Subhamathi, A.S.F., Shobana, S.,Elavarasi, K., Selvaganapathi, T. 1st International Conference on Emerging Research in Computational Science, ICERCS 2023 – Proceedings, 2023.",
+                "Solar Pv Based Micro Grid Integrated With Battery Energy Storage System Converter ,Sethuraman, R., Amudha, A., Emayavaramban, G., ... Elavarasi, K., Arunmozhi, R.V. 1st International Conference on Emerging Research in Computational Science, ICERCS 2023 – Proceedings, 2023"
+              ]
+            }
           ]
         },
         {
           "faculty_name": "Ms. Subhamathi A S F",
-          "content": [
-            "Subhamathi A.S.F. et al., Traffic Sign Detection using Convolutional Neural Techniques, ISCS 2024.",
-            "Sangeetha R. et al., IoT Based Smart Trolley using RFID and Node MCU, IRJMS, 2024.",
-            "Subhamathi A.S.F. et al., Grid-connected microinverter using CUK converter integration, IDCIoT 2024."
+          "multiContent": [
+            {
+              "contentList": [
+                "Traffic Sign Detection Problems using Convolutional Neural Techniques in Image Processing, A. S. F. Subhamathi, C. Sathiyapriyan, Anuradha. T, A. Jose Anand, Abdul Rheem, M. R. Arun 2024 International Conference on Intelligent Systems for Cybersecurity (ISCS) 2024.",
+                "IoT based Smart Trolley for shopping using RFID and Node MCU, Sangeetha R, Josephine Pon Gloria Jeyaraj, Balaji Vignesh LK, Subhamathi ASF, Divya K – International Research Journal of Multidisciplinary Scope (IRJMS), 2024, volume-5 issue 1, Pp- 93-100.",
+                "Development of a Grid-Connected Microinverter Based on the Integration of the CUK Converter with a Switchgear Structure, A. S. F. Subhamathi, A. T, A. V. Suganya, K. Shanthi, P. Umamaheswari and J. A. A – 2nd International Conference on Intelligent Data Communication Technologies and Internet of Things (IDCIoT), Bengaluru, India, 2024, pp. 229-235."
+              ]
+            }
           ]
         }
       ]
@@ -678,250 +803,283 @@
     {
       "tab": "Events",
       "slug": "department-of-electrical-electronics-engineering",
+      "breadcrumbItems": [
+        { "label": "Academics", "href": "academics" },
+        {
+          "label": "Engineering",
+          "href": "academics/engineering/"
+        },
+
+        {
+          "label": "Department of Electrical and Electronics Engineering",
+          "href": "/academics/engineering/department-of-electrical-electronics-engineering"
+        },
+        { "label": "Events" }
+      ],
       "items": [
         {
-          "title": "Conference",
-          "content": [
-            "9th National Conference on “Clean and Green Energy” (NCCGE’26) on 27.02.2026 through hybrid mode (Offline and Online).",
-            "7th National Conference of Clean and Green Energy’2024 (NCCGE’2024) on February 10, 2024. Dr. Ravi Samikannu, Associate Professor, Faculty of Engineering and Technology, Botswana International University of Science and Technology, Botswana, delivered the keynote session on “Smart Grid Technologies and Challenges.”",
-            "6th National Conference of Clean and Green Energy 2022 on 21st December 2022. Dr. P. Anbalagan, Head, Department of EEE, Anna University, BIT Campus, Tiruchirappalli, delivered the keynote address.",
-            "5th National Conference on Clean and Green Energy 2022 on 18th February 2022. Dr. P. Vijayarajan, M.E., Ph.D., Associate Professor, EEE, Anna University, BIT Campus, Trichy, delivered the keynote address.",
-            "4th National Conference on Clean and Green Energy 2021 on 19th March 2021. Dr. A. Soundararajan, M.E., Ph.D., Professor, EEE, PSG College of Technology, Coimbatore, delivered the keynote address.",
-            "3rd National Conference on Clean and Green Energy 2020 on 29th February 2020. Dr. J. Devi Shree, M.E., Ph.D., Associate Professor, Department of Electrical and Electronics Engineering, Coimbatore Institute of Technology, delivered the keynote address.",
-            "Department of EEE organized the 3rd National Conference on Clean and Green Energy – 2020 on 29th February 2020. Dr. J. Devi Shree, Associate Professor, Department of EEE, Coimbatore Institute of Technology, Coimbatore, was the keynote speaker.",
-            "Organized National Conference titled “National Conference on Clean and Green Energy – 2019” on March 09, 2019. The Chief Guest was Prof. Dr. S. S. Sivaraju, Head – EEE, RVS College of Engineering and Technology, Coimbatore.",
-            "Organized National Conference titled “National Conference on Clean and Green Energy – 2016” on April 11, 2016. The Chief Guest was Er. P. Sivakumar, Manager – Electrical Maintenance, M/s. ElGI Equipment, Coimbatore."
+          "title": "Conferences",
+          "multiContent": [
+            {
+              "contentList": [
+                "9th National Conference on “Clean and Green Energy” (NCCGE’26) on 27.02.2026 through hybrid mode (Offline and Online)",
+                "7th National Conference of Clean and Green Energy’2024 (NCCGE’2024) on February 10, 2024. Dr. Ravi Samikannu, an esteemed Associate Professor from the Faculty of Engineering and Technology at the Botswana International University of Science and Technology, Botswana, delivered the keynote session on “Smart Grid Technologies and Challenges,” offering a thorough exploration of the field’s latest developments and potential obstacles.",
+                "6th National Conference of Clean and Green Energy 2022 on 21st December 2022. Dr.P.Anbalagan Head Department of EEE, Anna University, BIT Campus, Tiruchirappalli, delivered keynote address.",
+                "5th National Conference on Clean and Green Energy 2022 on 18th Feb 2022. Dr. P. Vijayarajan M.E., Ph.D.Associate Professor, EEE, Anna University, BIT Campus, Trichy, delivered keynote address.",
+                "4th National Conference on Clean and Green Energy 2021 on 19th March 2021. Dr.A.Soundararajan M.E., Ph.D.Professor, EEE, PSG College of Technology, Avinashi Road, Peelamedu, Coimbatore – 641 004, delivered keynote address.",
+                "3rd National Conference on Clean and Green Energy 2020 on 29th Feb 2020. Dr. J. Devi Shree M.E., Ph.D., Associate Professor, Department of Electrical Electronics Engineering, Coimbatore Institute of Technology, Avinashi Road, Coimbatore. delivered keynote address.",
+                "Department of EEE Organized 3rd National Conference on Clean and Green Energy- 2020” on 29th Feb 2020. Dr. J. Devi Shree, Associate Professor, Dept. of EEE, Coimbatore Institute of Technology, Coimbatore was a keynote speaker.",
+                "Organized National Conference titled “National Conference on Clean and Green Energy- 2019” on March 09, 2019 and the Chief Guest was Prof. Dr. S.S. Sivaraju, Head-EEE, RVS College of Engineering and Technology, Coimbatore.",
+                "Organized National Conference titled “National Conference on Clean and Green Energy - 2016” on April 11, 2016 and the Chief Guest was Er. P. Sivakumar, Manager – Electrical Maintenance, M/s. ElGI Equipment, Coimbatore."
+              ]
+            }
           ]
         },
         {
-          "title": "Symphosium",
-          "content": [
-            "The Department of Electrical and Electronics Engineering hosted the National Level Technical Fest “Electtricco 2k24” on 8th February, 2024. Er. M. Ranjith Kumar, M.E., (PhD), Training Officer and Superintending Engineer at PSG Institutions, served as the keynote speaker, delivering a speech on emerging technologies in electrical engineering. Additionally, Ms. P. Nagaveni conducted a workshop on Power Quality Measurement in Electrical Systems using Fluke Meter. A total of 127 students from over 20 colleges registered for both online and offline participation. Four technical events were coordinated.",
-            "The Department of EEE organized the National Level Technical Symposium “Electtricco 2k23” on 10th February 2023. Various technical and non-technical events such as Paper Presentation, Project Presentation, Technical Quiz, Photography, Circuit Debugging, Connections, and Best Manager were conducted. More than 500 participants from various colleges participated and won prizes. Er. S. Jawahar, Superintending Engineer, TANGEDCO, and Er. K. R. N. Manoj, Director – Operations, M/s. Pumo Technovation India Pvt. Ltd., Coimbatore, served as the Chief Guests and Resource Persons.",
-            "A one-day National Level Virtual Symposium (ELECTTRICO 2K22) was conducted on 24.03.2022 through Google Meet. The welcome address was delivered by Dr. A. Amudha, Professor & HOD, Department of EEE, KAHE, and the vote of thanks was delivered by Dr. G. Emayavaramban, Assistant Professor, Department of EEE, KAHE.",
-            "One Day National Level Technical Symposium and Workshop ELECTTRICO 2K20 was conducted on 30.01.2020.",
-            "The EEE Department organized the Students Technical Symposium “Electrrico 2k20” on January 30, 2020. The Chief Guest was Er. R. Balachandran, Technical Head, M/s. RYS Systems Private Ltd., Chennai.",
-            "The EEE Department organized the Students Technical Symposium “Electrrico 2k19” on February 20, 2019. The Chief Guest was Er. S. Jawahar, EE, TNEB.",
-            "The EEE Department organized the Students Technical Symposium “Electrrico 2k18” on February 5, 2018. The Chief Guest was Er. T. Sarathi, Technical Manager, M/s. E-Trainers, Thudiyalur, Coimbatore."
+          "title": "Symposium",
+          "multiContent": [
+            {
+              "contentList": [
+                "The Department of Electrical and Electronics Engineering hosted the National Level Technical Fest “Electtricco 2k24” on 8th February, 2024. Er. M. RanjithKumar, M.E., (PhD), Training Officer and Superintending Engineer at PSG Institutions, served as the keynote speaker, delivering a speech on emerging technologies in electrical engineering. Additionally, Ms. P. Nagaveni conducted a workshop on Power Quality Measurement in Electrical Systems using Fluke Meter. A total of 127 students from over 20 colleges registered for both online and offline participation. Four technical events were coordinated.",
+                "The Department of EEE has organized “National Level Technical Symposium – “Electtricco 2k23” on 10th Feb 2023. Conducted various technical and non technical events like Paper Presentation, Project Presentation, Technical Quiz, Photography, Circuit debugging, Connections and Best Manager. More than 500 participants were participated from various colleges and won the prizes. Er. S. Jawahar, Superintending Engineer, TANGEDCO and Er. KRN Manoj, Director - Operations, M/s. Pumo Technovation India Pvt Ltd, Coimbatore were the Chief Guest and Resource person of the event.",
+                "One day national level Virtual Symposium (ELECTTRICO 2K22 ) was conducted on 24.03.2022 through Google meet. Welcome address was given by Dr.A.Amudha, Professor & HOD, Department of EEE, KAHE and vote of thanks given by Dr.G.Emayavaramban, Assistant Professor, EEE Department, Organizing secretary, KAHE.",
+                "One Day National Level Technical Symposium and Workshop ELECTTRICO 2K20 on 30.01.2020.",
+                "EEE Department organized Students Technical Symposium “Electrrico2k20” on January 30, 2020 and the chief guest was Er. R. Balachandran, Technical – Head, M/s. RYS Systems Private Ltd., Chennai.",
+                "EEE Department organized Students Technical symposium “Electrrico2k19” on February 20, 2019 and the chief guest was Er. S.Jawahar, EE/TNEB.",
+                "EEE Department organized Students Technical Symposium Electrrico2k18 on February 5, 2018 and the chief guest was Er. T. Sarathi, Technical Manager, M/s. E-Trainers, Thudiyalur, Coimbatore."
+              ]
+            }
           ]
         },
         {
           "title": "Guest Lectures",
-          "content": [
-            "The KAHE-IIC organized a Guest Lecture on “Intellectual Property Rights for Academic & Research visibility” on 28th June 2023. The objective of the webinar was to create awareness about IPR, Patent, and Copyright. Mr. K. G. Balaji Venkatesan, M/s. B³ Law Associates, KVR Nagar Main Road, Tirupur, Advocate and IPR Consultant, was the Chief Guest.",
-            "The KAHE-IIC organized a Guest Lecture on “An Overview of Design Thinking” on 3rd July 2023. The objective was to create awareness about basics of patent methods and procedures. Daniel Das A, AP/Mech/KAHE Innovation Ambassador, handled the session.",
-            "The KAHE-IIC and Department of EEE organized a Guest Lecture on “Innovation by Design” on 19th July 2023. The objective was to create awareness about Design Thinking for electrical projects. The resource person was Dr. M. Sivaramkumar, AP/EEE/KAHE Innovation Ambassador.",
-            "The Department of Electrical and Electronics organized a Guest Lecture on “Love Your Engineering Profession” on 15th September 2022, 11:30 am to 12:30 pm. Dr. B. Ezhilavan, Founder and CEO, M/s. VEI Technologies, Chennai, was the speaker.",
-            "The Department of Electrical and Electronics organized a Guest Lecture on “An Overview of MANET: Applications, Attacks and Challenges” on 9th September 2022, 3:30 pm to 4:30 pm. Dr. S. G. Ramesh Kumar, Assistant Professor, Faculty of Engineering and Technology, Annamalai University, Chidambaram. Welcome address by Dr. A. Amudha, Dean, FoE, KAHE.",
-            "The Department of Electrical and Electronics organized a Guest Lecture on “Future Innovations in Electrical Energy” on 30th August 2022, 9:15 am to 10:15 am. Mr. V. Karthivel, Secretary.",
-            "The Department of Electrical and Electronics organized a Guest Lecture on “Scope and Content of IPR as a Legal Discipline” on 30th August 2022, 2:00 pm to 3:00 pm.",
-            "The Department of Electrical and Electronics organized a Guest Lecture on “Design Thinking for Product Development” on 29th August 2022, 11:00 am to 12:00 pm. Mr. Timothy Dhayakar Paul, Assistant Professor.",
-            "The Department of Electrical and Electronics organized a Guest Lecture on “Wireless Sensor and IoT Application in Industry” on 22nd August 2022, 10:00 am to 11:00 am. Mr. Prasath A, Project Manager.",
-            "The Department of Electrical and Electronics organized a Guest Lecture on “Opportunities and Challenges in Startups” on 10th August 2022, 10:00 am to 11:00 am. Mr. B. Bala Senthil Kumar, Founder and Managing Director.",
-            "The Department of EEE organized a special talk on “Innovation” by S. V. Anand, Sr. Technical Sales Manager, M/s. Effica Automation (A division of CPF Ltd) on 12th November 2021.",
-            "The Department of Electrical and Electronics organized a Guest Lecture on “PCB Design and Hardware Implementation Techniques” on 26th July 2022, 11:00 am to 12:00 pm. Mr. K. Kaliraj, Senior CADD Engineer.",
-            "The Department of Electrical and Electronics organized a Guest Lecture on “Reactive Power Compensation in AC Transmission Line” on 25th July 2022, 11:00 am to 12:00 pm. Mr. D. Babu, Assistant Executive Engineer.",
-            "The Department of Electrical and Electronics organized a Guest Lecture on “Introduction to Design Thinking” by M. Sivaramkumar on 21st February 2022, 12:00 pm to 1:00 pm.",
-            "The Department of EEE organized a special talk on “Entrepreneurship’s Opportunities in Electrical Engineering” by Mr. Nair Vishal Vijay, Master Trainer - EDII TN, Head Operations - Krossway Solutions on 12th November 2021. Dr. M. Sivaramkumar was the Coordinator.",
-            "The Department of EEE organized a special talk on “Introduction to Design Thinking” by Mr. R. Vijayakumar M.E., Assistant Professor, Department of Electrical and Electronics Engineering, SNS College of Technology, Coimbatore on 27th October 2021.",
-            "On the occasion of Engineers Day 2021, the Department of EEE organized an online special lecture titled “Industrial Safety” on 15th September 2021, 11:00 am to 12:30 pm. Er. K. S. Santhosh Kumar, M.E. (Ph.D.), Senior Vice President – Technical Inspection, M/s. Dr. Amin Controllers Pvt. Ltd., Mumbai, was the resource person.",
-            "The Department of EEE organized a special talk on “Invited Talk with Start-Up Founder” by Rtr. PP. P. Sathish Kumar, B.E., Founder of THIMIL Groups on 23rd August 2021.",
-            "The Department of EEE organized a webinar on “Recent Trends in Power System” on 14th August 2021. Dr. M. Siva Ramkumar was the Coordinator. Er. S. Vivekanadan, M.E. (Ph.D.), Assistant Engineer, TNEB, was the resource person.",
-            "The Department of EEE organized a webinar on “Solution for Employability in Construction Industry” by Er. Anand T, Founder and CEO, M/s. Swifterz Creative Services LLP, Coimbatore on 19th July 2021, 11:00 am.",
-            "The Department of EEE organized an online endowment lecture on “Emerging Trends in Solar Energy” on 9th December 2020. Er. M. M. Nambidass, Managing Director, M/s. Solar Business Solutions, Coimbatore, was the resource person.",
-            "The Department of EEE organized an online special lecture on “Awareness about Corruption” on 9th December 2020 for International Anti-Corruption Day. Er. Durai Kumaravelu, President, Anti-Corruption Movement, CBE Unit, Coimbatore, was the resource person.",
-            "The Department of Electrical and Electronics Engineering organized a session on “Industrial Automation using PLC” on 9th December 2020. Er. P. Gugankumar, B.E., MBA, Managing Director, M/s. Manfree Technologies, Tamil Nadu, was the resource person.",
-            "The Department of EEE organized a session on “Energy Efficient Lifestyle” on 18th December 2020. Er. S. Jawahar, Superintending Engineer, Distribution, TANGEDCO, was the resource person.",
-            "The EEE Department organized a workshop titled “Design Thinking, Critical Thinking and Innovation Design” on 26th November 2020. Mr. Vishal Nair, Co-Founder, M/s. LightNSalt Pvt. Ltd., Master Trainer, Entrepreneurship Development Innovation Institute, Tamil Nadu, was the resource person.",
-            "The Department of Electrical and Electronics Engineering organized a webinar on “Electricity and Safety Measures” on 19th November 2020. Er. R. Kanagasundaram, Assistant Engineer, TNEB, Tamil Nadu, was the resource person.",
-            "The Department of EEE organized a session on “Problem Solving and Ideation Workshop” on 12th November 2020. Mr. Vishal Nair, Co-Founder, M/s. LightNSalt Pvt. Ltd., Master Trainer, Entrepreneurship Development Innovation Institute, Tamil Nadu, was the resource person.",
-            "The EEE Department organized a session on “Energy Conservation and Electrical Safety” on 28th October 2020. Mr. S. Vivekanadan, AE, TNEB, was the resource person.",
-            "The Department of EEE organized an online special lecture on “9 Mantras to Save One Unit Per Day” on 22nd October 2020. Dr. G. Murugananth, M.E., Ph.D., Prof. & Head, Dept. of EEE, Ahalia School of Engineering and Technology, was the resource person.",
-            "The Department of EEE organized an alumni webinar on 9th October 2020. Mr. S. Johnson Felix S (Alumni, 2015 Batch), Software Development Engineer, M/s. AlfaTKG India Pvt. Ltd., Chennai, was the resource person.",
-            "The Department of EEE organized a one-day national webinar on “Energy Audit and its Management” in association with Indian Association of Energy Management Professionals (IAEMP) on 22nd August 2020.",
-            "The Department of EEE organized a national-level quiz on basics of Yoga on the occasion of International Day of Yoga, 21st June 2020.",
-            "The Department of EEE organized a national-level short course titled “Learn to Design Your Own Solar Home System” and conducted a quiz on “Become Energy Literate” in association with Energy Swaraj Foundation on 1st June 2020.",
-            "The EEE Department organized a Guest Lecture on “How to Start a Startup in Legal and Ethical Way” by Jinu Mathew, Chief Marketing Executive on 13th March 2020.",
-            "The EEE Department organized a Guest Lecture on “BMI” by Er. Shanker, Trainer, Swifterz, Coimbatore on 12th March 2020.",
-            "The EEE Department organized a Guest Lecture on “IES GATE Academy Coimbatore Center” by Trainer D. Siva Kumar on 11th March 2020.",
-            "The EEE Department organized a Guest Lecture on “Battery Design of PV System” by M/s. MAS Solar Private Limited, Coimbatore, conducted by Er. T. Sivakumar, Sr-Trainer on 4th February 2020.",
-            "The Department of EEE organized a special lecture on “IoT Market Trend and its Application” by Mr. Safiullah J, CEO, RYS Systems Private Ltd., Chennai on 12th February 2020.",
-            "The EEE Department organized a Guest Lecture on “Unit Commitment” by Dr. C. Christopher Asir Rajan, Professor, Pondicherry Engineering College, Pondicherry on 31st January 2020.",
-            "The Department of EEE organized a Guest Lecture titled “Battery Design of PV System” on 4th February 2020 by Er. T. Sivakumar, Sr-Trainer, M/s. MAS Solar Private Limited, Coimbatore.",
-            "International Anti-Corruption Day Guest Lecture – “Awareness of Corruption and Malpractices” by Mr. V. Ranganathan, Former Officer/Vigilance/CBE Unit, Coimbatore on 10th December 2019.",
-            "Special Lecture titled “Introduction to Food Processing Machines” by Mr. K. Prabhakaran, Project Manager, Saphira Industries, Coimbatore on 28th August 2019.",
-            "Guest Lecture on “Recent Trends in Electrical Engineering” by Er. Ilanchezhian K, Technical Manager, M/s. Prolific System Private Limited on 3rd July 2019.",
-            "Guest Lecture on “Business Potentials in Solar Sector” by Er. P. Nambidass, Engineer and Trainer, M/s. MAS Solar Private Limited, SIDCO, Coimbatore on 10th July 2019.",
-            "Guest Lecture on “Introduction about ANN” by Dr. N. Arulmoziyal, Prof. & Head, Dept. of EEE, Sona College of Engineering and Technology, Salem on 19th July 2019.",
-            "Guest Lecture on “E-CAD Software” by Mr. Manomoorthy, M/s. A.K Automation on 17th July 2019.",
-            "EEE Department organized a workshop on “Preparation of SAR Report for NBA” on 23rd March 2019 by Dr. V. J. Vijayalakshmi and Dr. R. Uthirasamy.",
-            "Guest Lecture – “Solar PV Erection” by Er. K. Sivakumar, Trainer, M/s. MAS Solar Private Limited, Coimbatore on 17th July 2019.",
-            "Guest Lecture on ‘Industry 4.0 and its Significance’ on 19th November 2018 by Mr. Rajasekaran, Application Engineer, M/s. Axis Global Automation, Coimbatore.",
-            "One Day National Level Research Seminar on “How to Formulate Problem in Power Electronics and Power System Engineering” on 24th September 2018.",
-            "Guest Lecture titled “Business Opportunities in Solar PV” by Er. P. Nambidass, Trainer, M/s. MAS Solar Private Limited, Coimbatore on 20th August 2018.",
-            "One day Hands-on Training on LED Tube Light Assembling and Testing by Er. U. Sarathi, M/s. E-Trainers, Coimbatore on 18th July 2018.",
-            "Guest Lecture on “E-Planning Software” by Er. P. Hariharan, Technical Engineer, E-Planning, Bangalore on 19th July 2018 by Dr. K. Ramash Kumar and Dr. C. R. Balamurugan from Karpagam College of Engineering.",
-            "Two-day Hands-on Training and Services on “Bio-Medical Instruments” by A. P. Thaniadurai, Research Assistant, M/s. The Scientific Engineering Company, Coimbatore on 5th and 6th February 2018.",
-            "Two-day National Level Workshop on “Internet of Things using Arduino” by Mr. S. Naveen, Project Engineer, PantechProEd Pvt. Ltd., Ramnagar, Coimbatore on 29th and 30th January 2018.",
-            "Guest Lecture titled “Recent Trends in Energy Conservation” by Er. Vivekandhan, AE/TANGEDCO/SIDCO, Coimbatore on 24th January 2018.",
-            "National Level Workshop on “Solar PRO-Design and Simulation Software” by Er. V. M. Ramkrishnan, Sales & Service Engineer – Solar Division, Coimbatore on 23rd September 2017.",
-            "Seminar on PLC and Its Application by Mr. Saivignesh, Asst. Manager – Sales, M/s. AxisGlobal Institute of Industrial Training, Coimbatore on 18th September 2017.",
-            "Guest Lecture – Solar Pro Simulation Software by V. M. Ramakrishnan, M/s. RogressTechno Pvt Ltd, Coimbatore on 24th July 2017.",
-            "Guest Lecture titled “PIC Microcontroller” by Er. Illanchelyan, Technical Manager, M/s. Prolific Systems and Technologies, Coimbatore on 5th July 2017.",
-            "Calibration of Meters – Guest Lecture by Er. N. Sivakumar, Manager, M/s. ELGI Equipments, Coimbatore on 5th January 2017.",
-            "One-day National Level Seminar on Research Issues in Wind Energy Conversion Systems on 28th January 2017.",
-            "Guest Lecture on “Transformer Maintenance and Safety Measures” by Er. T. Kalimuthu, AE, TNEB, Tirupur on 3rd October 2016.",
-            "One-day National Level Seminar on “Solar PV System and Power Quality Issues” on 21st September 2016.",
-            "Guest Lecture on “Role of Electrical Engineering in Marine” on 17th February 2016 by M. Srinivas, Team Leader, Good Ocean Maritime, Coimbatore.",
-            "One-day national level workshop on ‘System based SCADA Design’ on 29th January 2015."
+          "multiContent": [
+            {
+              "contentList": [
+                "The KAHE-IIC was organized Guest Lecture on “Intellectual Property Rights for Academic & Research visibility” on 28th June 2023. The objective of the webinar was to create awareness about IPR, Patent and Copyright. Mr. K. G. Balaji Venkatesan, M/s. B³ Law Associates, KVR Nagar Main Road, Tirupur Advocate and IPR Consultant were the chief guest.",
+                "The KAHE-IIC was organized Guest Lecture on “An overview of Design Thinking” on 3rd July 2023. The objective of the webinar was to create awareness about basics of patent methods and procedure to be followed in patent filling. Daniel das A, AP/Mech/KAHE Innovation Ambassador handled the session.",
+                "The KAHE-IIC and department of EEE organized Guest Lecture on “Innovation by Design” on 19.07.2023.The objective of the seminar was to create the resource person was to create awareness about Design Thinking for electrical projects. The resource person was Dr.M.Sivaramkumar, AP/EEE/KAHE Innovation Ambassador handled the session.",
+                "The Department of Electrical and Electronics was organized Guest Lecture on “Love your Engineering Profession” on 15.09.2022 by 11.30am to 12.30pm. Dr. B. Ezhilavan, Founder and CEO, M/s. VEI Technologies, Chennai.",
+                "The Department of Electrical and Electronics was organized Guest Lecture on “An Overview of MANET: Applications, Attacks and Challenges” on 09.09.2022 by 03.30am to 04.30pm. Dr. S. G. Ramesh Kumar, Assistant Professor, Faculty of Engineering and Technology, Annamalai University, Chidambaram.The welcome address was given by Dr. A.Amudha Dean, FoE, KAHE.",
+                "The Department of Electrical and Electronics has organized Guest Lecture on “Future Innovations in Electrical Energy” on 30.08.2022 by 9.15am to 10.15am. Mr. V. Karthivel, Secretary.",
+                "The Department of Electrical and Electronics was organized Guest Lecture on “Scope and content of IPR as a legal discipline” on 30.08.2022 by 2.00pm to 3.00pm.",
+                "The Department of Electrical and Electronics was organized Guest Lecture on “Design Thinking for Product Development” on 29.08.2022 by 11.00 am to 12.00pm. Mr. Timothy Dhayakar Paul, Assistant Professor.",
+                "The Department of Electrical and Electronics was organized Guest Lecture on “Wireless Sensor and IOT Application in Industry” on 22.08.2022 by 10.00 am to 11.00am. Mr. Prasath A, Project Manager.",
+                "The Department of Electrical and Electronics was organized Guest Lecture on “Opportunities and Challenges in Startups” on 10.08.2022 by 10.00 am to 11.00am. Mr. B. Bala Senthil Kumar, Founder and Managing Director.",
+                "The Department of EEE has organized a special talk on “Innovation” by S.V. Anand Sr. Technical Sales Manager, M/s. Effica Automation A division of CPF Ltd on 12th Nov 2021.",
+                "The Department of Electrical and Electronics was organized Guest Lecture on “PCB Design and Hardware Implementation Techniques” on 26.07.2022 by 11.00 am to 12.00pm. Mr. K. Kaliraj, Senior CADD Engineer.",
+                "The Department of Electrical and Electronics was organized Guest Lecture on “Reactive Power Compensation in AC Transmission Line” on 25.07.2022 by 11.00 am to 12.00pm. Mr. D. Babu, Assistant Executive Engineer.",
+                "The Department of Electrical and Electronics was organized Guest Lecture on “Introduction to Design Thinking” by M. Sivaramkumar on 21.02. 2022 by 12.00 pm to 1.00pm.",
+                "The Department of EEE has organized a special talk on “Entrepreneurship’s opportunities in Electrical Engineering” by Mr. Nair Vishal Vijay, Master Trainer -EDII- TN, Head Operations- Krossway Solutions on 12th Nov 2021. Dr. M.Siva Ramkumar was a Coordinator.",
+                "The Department of EEE has organized a special talk on “Introduction to Design Thinking” by Mr.R.Vijayakumar M.E, Assistant Professor, Department of Electrical and Electronics Engineering, SNS College of Technology, Coimbatore on 27th Oct 2021.",
+                "On the Occasion of Engineers Day 2021 Celebration Department of EEE has organized an Online Special Lecture titled “Industrial Safety” on 15th September 2021 (11-12.30PM). Er. K. S. Santhosh Kumar M.E. (Ph. D), Senior Vice President – Technical Inspection, M/s. Dr. Amin Controllers Private Limited, Khar, (West), Mumbai – 400 052 was the resource person.",
+                "The Department of EEE has organized a special talk on “Invited Talk with Start-Up Founder” by Rtr. PP. P. Sathish Kumar. B.E, Founder of THIMIL Groups on 23rd Aug 2021.",
+                "The Department of EEE has organized a webinar on “Recent Trends in Power System” on 14th August, 2021. Dr. M. Siva Ramkumar was assigned as Co-ordinator. Er. S. Vivekanadan M.E., (Ph. D), Assistant Engineer in TNEB, was the resource person for the session.",
+                "The Department of EEE has organized Webinar on “Solution for Employability in Construction Industry” by Er. Anand T, Founder and CEO, M/s. Swifterz Creative Services LLP, Coimbatore on 19th July 2021 by 11.00 am.",
+                "Department of EEE has organized an Online Endowment Lecture on “Emerging trends in Solar Energy” on 9th Dec 2020. The main objective of this session was to get a complete idea on Solar energy, recent developments in solar technology and applications. Er. M. M. Nambidass, Managing Director, M/s. Solar Business Solutions, Coimbatore was the resource person.",
+                "The Dept. of EEE has organized an Online Special Lecture on “Awareness about Corruption” in connection with International Anti-corruption Day on 9th Dec 2020 by Er. Durai Kumaravelu, President, Anti-corruption Movement, CBE Unit, Coimbatore. The main objective of this session was to get a complete awareness of Corruption and Malpractices.",
+                "The Department of Electrical and Electronics Engineering organized “Session on Industrial Automation using PLC” on 09th Dec 2020. Er. P. Gugankumar B.E, MBA, Managing Director, M/s. Manfree Technologies, Tamil Nadu was the resource person for the session.",
+                "The Dept. of EEE organized an “Energy Efficient Life Style” on 18th Dec 2020. Er. S. Jawahar, Superintending Engineer, Distribution, TANGEDCO was the resource person for the session.",
+                "The EEE Department organized a workshop titled “Design Thinking, Critical Thinking and Innovation Design” on 26th Nov 2020 and Mr. Vishal Nair, Co-Founder, M/s. LightNSalt Pvt. Ltd., Master Trainer, Entrepreneurship Development Innovation Institute, Tamil Nadu was the resource person for the session.",
+                "The Department of Electrical and Electronics Engineering has organized a webinar on “Electricity and Safety Measures” on 19th Nov 2020. Er. R. Kanagasundaram, Assistant engineer, TNEB, Tamil Nadu was the resource person for the session. He has vast experience in maintenance of electricity standards and safety measures.",
+                "The Department of EEE organized an “Session on Problem Solving and Ideation Workshop” on 12th Nov 2020. Mr. Vishal Nair, Co-Founder, M/s. LightNSalt Pvt. Ltd, Master Trainer – Entrepreneurship Development Innovation Institute, Tamil Nadu was the resource person for the session.",
+                "The EEE department has organized an “Energy Conservation and Electrical Safety” on 28th Oct 2020. Mr. S. Vivekanadan, AE, TNEB was the resource person for the session.",
+                "The Department of EEE organized an Online Special Lecture on “9 Mantras to Save One Unit Per Day” on 22 nd Oct 2020. Dr. G. Murugananth M.E., Ph. D, Prof. & Head, Dept. of EEE, Ahalia School of Engineering and Technology, was the resource person for the session.",
+                "The Department of EEE has organized an “Alumni Webinar” on 09 th Oct 2020. Mr. S. Johnson Felix S (Alumini, 2015 Batch), Software Development Engineer, M/s. AlfaTKG India Pvt Ltd, Chennai was the resource person for the session.",
+                "Department of EEE organized One day National Webinar on “Energy Audit and its Management” in association with Indian Association of Energy Management Professionals (IAEMP) on 22nd Aug 2020.",
+                "Department of EEE organized National Level Quiz on Basics of Yoga’ in the occasion of International Day of Yoga, 21st June 2020.",
+                "Department of EEE organized National Level short course titled “Learn to Design your own Solar Home System” and conducted a Quiz on “Become Energy Literate” in association with Energy Swaraj Foundation on 1st June 2020",
+                "EEE Department organized Guest Lecture on the topic of “How to Start a Stratup in Legal and in Ethical Way” Jinu Mathew, Chief Marketing Executive. On 13.03.2020.",
+                "EEE Department organized Guest Lecture on the topic of “BMI”,Er.Shanker Trainer Swifterz, Coimbatore. On 12.03.2020",
+                "EEE Department organized Guest Lecture on the topic of “IES GATE Academy Coimbatore Center” Trainer D.Siva Kumar, Coimbatore. On 11.03.2020",
+                "EEE Department organized Guest Lecture on the topic of “Battery design of PV system” M/s.MAS Solar Private Limited Coimbatore, by Er.T.Sivakumar Sr-Trainer on 04.02.2020",
+                "Department of EEE organized Special Lecture on “IoT Market trend and its Application” by Mr.Safiullah.J, CEO, RYS Systems Private Ltd.,, Chennai. on February 12,2020.",
+                "EEE Department organized Guest Lecture on the topic of “Unit Commitment” by Dr.C.Christopher Asir Rajan, Professor, Pondicherry Engineering College, Pondicherry on 31.01.2020.",
+                "Department of EEE organized a Guest Lecture titled “Battery Design of PV System” on February 4, 2020 by Er. T. Sivakumar, Sr-Trainner, M/s. MAS Solar Private Limited, Coimbatore.",
+                "International Anti-Corruption Day Guest Lecture organized – “Awareness of Corruption and Malpractices” by Mr. V. Ranganathan, Former Officer/Vigilance/CBE Unit, Coimbatore on December 10, 2019.",
+                "Conducted Special Lecture titled “Introduction to Food Processing Machines” by Mr. K.Prabhakaran, Project Manager, Saphira Industries, Coimbatore on August 28,2019.",
+                "Conducted Guest Lecture on “Recent trends in Electrical Engineering” by Er. Ilanchezhian. K, Technical Manager, M/S. Prolific System Private Limited on July 3, 2019.",
+                "Conducted Guest Lecture on “Business Potentials in Solar Sector” by Er. P. Nambidass, Engineer and Trainer, M/s. MAS Solar Private Limited, SIDCO, Coimbatore on July 10, 2019",
+                "Conducted Guest Lecture on “Introduction about ANN” by Dr. N. Arulmoziyal, Prof. & Head, Dept. of EEE, Sona College of Engineering and Technology, Salem on July 19, 2019.",
+                "Conducted Guest Lecture on “E-CAD Software” Mr. Manomoorthy, M/s. A.K, Automation on July 17, 2019.",
+                "EEE department organized workshop on “Preparation of SAR Report for NBA” on March 23, 2019 by Dr. V. J. Vijayalakshmi and Dr. R. Uthirasamy.",
+                "Guest Lecture organized – “Solar PV Erection” by Er. K. Sivakumar, Trainer, M/s. MAS Solar Private Limited, Coimbatore on July 17, 2019.",
+                "Organized Guest Lecture on ‘Industry 4.0 and its Significance’ on November 19, 2018 by Mr.Rajasekaran, Application Engineer, M/s. Axis Global Automation, Coimbatore.",
+                "Organized One Day National level Research Seminar on “How to formulate problem In Power Electronics and Power System Engineering” on September 24, 2018.",
+                "Guest Lecture organized titled “Business Opportunities in Solar PV” by Er. P. Nambidass, Trainer, M/s. MAS Solar Private Limited, Coimbatore on August 20, 2018.",
+                "Organized 1 day Hands on Training on LED Tube Light Assembling and Testing by Er. U.Sarathi, M/s. E-Trainers, Coimbatore on July 18, 2018.",
+                "Organized Guest Lecture on “E-Planning Software” by Er. P. Hariharan, Technical Engineer, E-Planning, Bangalore on July 19, 2018 by Dr.K.Ramash Kumar and Dr.C.R. Balamurugan from Karpagam College of Engineering.",
+                "Organized 2 days Hands on Training and Services on “Bio-Medical Instruments” by A.P.Thaniadurai, Research Assistant, M/S. The Scientific Engineering Company, Coimbatore on February 05, 2018and February 06,2018.",
+                "Organized 2 Days National Level Workshop on “Internet of Things using Ardiuno” byMr.S.Naveen, Project Engineer, PantechProEd Pvt Ltd, Ramnagar, Coimbatore on January 29, 2018 and January 30, 2018.",
+                "Organized Guest Lecture titled “Recent Trends Energy Conservation” by Er. Vivekandhan, AE/TANGEDCO/SIDCO, Cbe on January 24,2018.",
+                "Organized National Level Workshop on “Solar PRO-Design and Simulation Software” by Er. V. M.Ramkrishnan, Sales & Service Engineer-Solar Division, Coimbatore on September 23, 2017.",
+                "Seminar on PLC and Its Application by Mr.Saivignesh, Asst. Manager – Sales, M/s. AxisGlobal Institute of Industrial Training, Coimbatore on September 18, 2017.",
+                "Guest Lecture organized – Solar Pro Simulation Softwareby V. M. Ramakrishnan, M/s. RogressTechno Pvt Ltd, Coimbatore on July 24,2017.",
+                "Organized Guest Lecture titled “PIC Microcontroller” by Er. Illanchelyan , Technicalmanager, M/s. Prolific systems and technologies, Coimbatore on July 5, 2017.",
+                "Calibration of Meters – Guest Lecture by Er. N. Sivakumar, Manager, M/s. ELGI Equipments, Coimbatore on January 5, 2017.",
+                "Organized One day National Level Seminar on Research issues in Wind Energy Conversion Systems on January 28,2017.",
+                "Guest Lecture on “Transformer maintenance and Safety measures” by Er. T. Kalimuthu, AE, TNEB, Tirupur on Date October 3, 2016.",
+                "Organized one day National Level Seminar on “Solar PV System and Power Quality Issues” on September 21,2016.",
+                "Guest Lecture on “Role of Electrical Engineering in Marine” on February 17, 2016 by M. Srinivas, Team Leader, Good Ocean Maritime, 309, Rajkamal Towers, Avinashi Road, Peelamedu, Coimbatore-004",
+                "Organized 1 day national level workshop on ‘System based SCADA Design’ on January 29,2015."
+              ]
+            }
           ]
         },
         {
           "title": "Seminars",
-          "content": [
-            "Seminar on “Career Guidance & Awareness Program on SSC and IBPS” on 25.08.2025.",
-            "The Department of Electrical and Electronics Engineering at Karpagam Academy of Higher Education, Coimbatore, hosted a seminar titled ‘Recent Trends and Innovation in Power Converters’ on 2nd February 2024. Dr. S. Selvaperumal, Professor and Dean of Research at Mohamed Sathak Engineering College, delivered a lecture emphasizing the advantages of the program in terms of placement opportunities within the field of Power Converters.",
-            "The KAHE-IIC, in collaboration with the Department of EEE, organized a seminar titled “Start-up Planning and Ethical Practices in Electrical Engineering” on 24th January 2024. Dr. G. Emayavaramban, Assistant Professor in the Department of Electrical and Electronics Engineering at KAHE, Coimbatore, was the keynote speaker.",
-            "The KAHE-IIC and the Department of EEE hosted a seminar titled “Entrepreneurial Skills for New Ventures” on 8th January 2024. The primary goal of the seminar was to inspire students to pursue successful entrepreneurship endeavors. Dr. Padmaavathy P.A., a seasoned entrepreneur and motivational speaker, served as the keynote speaker.",
-            "Through a collaboration between the KAHE-IIC – Department of EEE and the E-Nexa Association, a seminar took place on 6th January 2024, centered around ”Design Thinking on a Roadmap to Problem Solving.” Dr. Rathi M.A., Assistant Professor, Head (i/c), and IIC Innovation Ambassador at the Department of Biochemistry, FASCM, Karpagam Academy of Higher Education, led the session.",
-            "The KAHE-IIC, in partnership with the Department of EEE, hosted a seminar titled “Recent Trends and Innovations in Electric Vehicles” on 5th January 2024. Dr. K. Ramash Kumar, Professor of Electrical and Electronics Engineering at Dr. N.G.P. Institute of Technology, Coimbatore, was the keynote speaker.",
-            "The KAHE-IIC organized a one-day seminar on “Entrepreneurship Opportunities for Electrical Engineers” on 5th October 2023. The objective was to create awareness about entrepreneurship options for electrical ideas and projects.",
-            "The Department of EEE organized a seminar titled “Entrepreneurship Development” on 22nd February 2023 by Mr. C. Ponmurugan, Managing Director, M/s. Maylil Mark Samba Ravai, Coimbatore. The seminar helped in understanding recent trends in entrepreneurship.",
-            "The Department of EEE organized a seminar titled “Fundamentals of IPR” on 13th February 2023 by Ms. T. Archana Devi, Assistant Professor, Department of Food Technology, Karpagam Academy of Higher Education, Coimbatore.",
-            "The Department of EEE organized a seminar on “Design Thinking” on 27th February 2023 by Dr. A. Soundarajan, Professor, EEE, PSG College of Technology, Coimbatore. The seminar aimed to create awareness about generating innovative ideas.",
-            "The Department of EEE organized a one-day seminar on “Patentability for Electrical Engineers” on 20th February 2023. Mr. Vignesh G., Registered Indian Patent Agent (INPA 4382) and Assistant Professor, Dept. of Mechanical Engineering, KAHE, Coimbatore, was the resource person. The seminar focused on patent options for electrical ideas and projects.",
-            "In collaboration between the KAHE-IIC – Department of EEE and the E-Nexa Association, a seminar took place on 7th January 2023 titled “Design Thinking on a Human Psychology.” Dr. Muthu Laxmi V, Assistant Professor from the Department of Microbiology-FASCM, Karpagam Academy of Higher Education, Coimbatore, served as the resource person.",
-            "The Department of Electrical and Electronics organized a seminar on “Recent Trends in Entrepreneurship” on 28th November 2022 by Mr. Balaguru Samuthirakani, SAS Engineer & Entrepreneur Trainer, Scope & Isosceles, Pune. The seminar focused on understanding recent trends in entrepreneurship."
+          "multiContent": [
+            {
+              "contentList": [
+                "Seminar on “Career Guidance & Awareness Program on SSC and IBPS” on 25.08.2025.",
+                "The Department of Electrical and Electronics Engineering at Karpagam Academy of Higher Education, Coimbatore, hosted a seminar titled ‘Recent Trends and Innovation in Power Converters’ on 2nd February, 2024. Dr. S. Selvaperumal, Professor and Dean of Research at Mohamed Sathak Engineering College, delivered a lecture during this seminar, emphasizing the advantages of the program in terms of placement opportunities within the field of Power Converters.",
+                "The KAHE-IIC, in collaboration with the Department of EEE, organized a seminar titled “Start-up Planning and Ethical Practices in Electrical Engineering” aimed at exploring and deliberating on the advancements shaping the future of the electrical domain. This event, which took place on 24th January, 2024, sought to offer insights into the ethical considerations crucial within this sphere. Dr.G.Emayavaramban, an Assistant Professor in the Department of Electrical and Electronics Engineering at KAHE, Coimbatore, was the keynote speaker.",
+                "The KAHE-IIC and the Department of EEE collaborated to host a seminar titled “Entrepreneurial Skills for New Ventures” on 08th January, 2024. The primary goal of the seminar was to inspire students to pursue successful entrepreneurship endeavours. Dr. Padmaavathy.PA., a seasoned entrepreneur and motivational speaker, served as the keynote speaker.",
+                "Through a collaborative effort between the KAHE-IIC - Department of EEE and the E-Nexa Association, an enlightening seminar took place on 6th January 2024, centered around ” Design Thinking on a Roadmap to Problem Solving.” Leading us through the intricate terrain of design thinking was Dr. Rathi M A, a respected academician serving as an Assistant Professor, as well as Head (i/c) and IIC Innovation Ambassador at the Department of Biochemistry, FASCM, Karpagam Academy of Higher Education.",
+                "The KAHE-IIC, in partnership with the Department of EEE, hosted a seminar titled “Recent Trends and Innovations in Electric Vehicles” to delve into and examine the advancements shaping the future of electric mobility. Held on January 5th January, 2024, the event aimed to shed light on the latest developments in the electric vehicle (EV) industry. Dr. K. Ramash Kumar, an esteemed Professor of Electrical and Electronics Engineering at Dr. N.G.P. Institute of Technology, Coimbatore, was the keynote speaker for the seminar.",
+                "The KAHE-IIC was organised one day seminar on” Entrepreneurships opportunities for electrical engineers”, on 05.10.2023. The objective of the seminar was to create awareness about the entrepreneurship options for electrical ideas and project.",
+                "The Department of EEE has organized Seminar titled “Entrepreneurship Development” on 22th Feb 2023 by Mr. C. Ponmurugan, Managing Director, M/s. Maylil Mark Samba Ravai, Coimbatore. This Seminar helps in understanding the concepts of Recent Trends in Entrepreneurship.",
+                "The Department of EEE has organized Seminar titled “Fundamentals of IPR” on 13th Feb 2023 by Ms. T. Archana Devi, Assistant Professor, Department of Food Technology, Karpagam Academy of Higher Education, Coimbatore-641 021.",
+                "The Department of EEE has organized a Seminar on “Design Thinking” on 27th Feb 2023 by Dr. A. Soundarajan, Professor, EEE, PSG College of Technology, Coimbatore. The objective of the seminar was to create awareness about creating innovative idea.",
+                "The Department of EEE has organized a One Day Seminar on “Patentability for Electrical Engineers” on 20th Feb 2023. The objective of the seminar was to create awareness about Patent options for Electrical Ideas & Projects. Mr. Vignesh. G, Registered Indian Patent Agent (INPA 4382) and Assistant Professor, Dept. of Mechanical Engineering, KAHE, Coimbatore was the resource person. He has vast experience in Patent filling and holding 30+granted patents.",
+                "In a collaborative endeavor between the KAHE-IIC - Department of EEE and the E-Nexa Association, a captivating seminar took place on 7th January, 2023, with a focus on “Design Thinking on a Human Pscycology”. This intellectually stimulating event aimed to uncover the strategic methodologies inherent in design thinking and their application in creative problem-solving. Dr. Muthu Laxmi V, a distinguished Assistant Professor from the Department of Microbiology-FASCM at Karpagam Academy of Higher Education, Coimbatore, served as the resource person for the seminar.",
+                "The Department of Electrical and Electronics was organized seminar on “Recent Trends in Entrepreneurship” on 28th Nov 2022 by Mr.Balaguru Samuthirakani, SAS Engineer& Entrepreneur trainer, Scope & isosceles, Pune.411035;This Seminar helps in understanding the concepts of Recent Trends in Entrepreneurship."
+              ]
+            }
           ]
         },
+
         {
           "title": "Webinars",
-          "content": [
-            "The Department of Electrical and Electronics organized IIC webinar “IPR for Electrical Engineers” on 25th Nov 2022 by Dr. M. Mahendra Kumar, Assistant Professor, Guru Nanak College, Chennai, Tamil Nadu. This webinar helped in understanding the concepts of IPR for Electrical Engineers.",
-            "The Department of Electrical and Electronics organized IIC webinar “Design Thinking for Start-ups and Innovators” on 21st Nov 2022 by Mr. T. Guhan, Technical Head, Nila Academy, Tamil Nadu. This webinar helped in understanding the concepts of Design Thinking for Start-ups and Innovators.",
-            "The Department of Electrical and Electronics organized IIC webinar “Energy Conservation and Safety” on 21st Oct 2022 by Er. K. Deivasikamani, Assistant Executive Engineer, TANGEDCO. The training helped in understanding methods of Energy Conservation and Safety measures.",
-            "The Department of Electrical and Electronics organized IIC webinar “Deregulation in Electric Power Generation” on 12th Oct 2022 by Dr. Vijalakshmi N., Assistant Professor, Department of Electrical Engineering, Annamalai University, Chidambaram. This webinar helped in understanding the concepts of Deregulation in Electric Power Generation.",
-            "The Department of Electrical and Electronics organized webinar “Outcome Based Education and its Attainment” on 8th Oct 2022 by Dr. A. Amudha, Dean FoE, KAHE and Dr. V.J. Vijayalakshmi, ASP/EEE. This webinar helped in understanding the concepts of Outcome Based Education and its Attainment.",
-            "The alumni motivational talk for II and III year EEE students was conducted on 30th April 2022 from 02:30 pm to 03:30 pm on Google Meet Platform.",
-            "The Department of Electrical and Electronics organized IIC webinar on Intellectual Property by Mr. K. Gokul (Batch 2019-2021), Executive Officer, SIPCOT, Chennai.",
-            "The KAHE-IIC organized an online webinar “My success story as an Entrepreneur” on 24th Feb 2022. Rtr. P. Sathish Kumar B.E, Director of Thimil Groups & Club Advisor-Rotract Siragukal, Pollachi, delivered the lecture.",
-            "The KAHE-IIC organized an online webinar on “Programmable Logic Controller and its Application” on 22nd Feb 2022. Mr. P. Gugankumar, Managing Director, Manfree Technologies, Coimbatore, delivered the lecture. The webinar focused on industrial automation for reliability, stability, and performance.",
-            "The KAHE-IIC organized an online webinar on “Recent Trends and Innovations in Design of AC Motors” on 22nd Feb 2022. The webinar focused on recent trends and innovations in AC motor design.",
-            "Mr. Sarathi U., Technical Skill Trainer, E-Trainers, Coimbatore, conducted a session on “Recent Trends and Innovations in Design of AC Motors.”",
-            "The Department of Electrical and Electronics organized IIC webinar on Intellectual Property Rights for Academic & Research visibility on 17th Feb 2022 by K.G. Balaji Venkatesan, ME MSc LL.B, Alumni 2009-2013 Batch EEE.",
-            "Karpagam Academy of Higher Education, Faculty of Engineering, Department of EEE organized an online special lecture on “Awareness about Anti-corruption” on 9th Dec 2021 to commemorate International Anti-corruption Day.",
-            "Webinar on “Entrepreneurship’s Opportunities in Electrical Engineering” on 12th Nov 2021 organized by EEE Department. Resource person: Mr. Nair Vishal Vijay, Master Trainer – EDII TN, Head Operations - Krossway Solutions.",
-            "The KAHE-IIC organized an online webinar on “Future of Robotics and Automation: An Innovation” on 12th Nov 2021. The webinar focused on recent trends and innovations in robotics and automation.",
-            "The IIC – KAHE organized an online special lecture on “Intellectual Property Rights (IPR) & Patent Process” on 20th Oct 2021 by Dr. L. Hariprasanth, Associate Professor, Dept. of Biochemistry and Head, Centre for IPR, KAHE. Dr. K. Balachander coordinated the session.",
-            "The Department of EEE organized a webinar on “Recent Trends in Power System” on 14th August 2021. Dr. M. Siva Ramkumar coordinated, and Er. S. Vivekanadan M.E., (Ph.D), Assistant Engineer, TNEB, was the resource person.",
-            "The Department of Electrical and Electronics organized a webinar on “Solution for Employability in Construction Industry” on 19th July 2021 by 11:00 am. The session included practical insights on building service management systems.",
-            "Faculty of Engineering, Centre for Production and Service Facility, and Department of Electrical and Electronics jointly organized webinar on “OBE- In Pursuit of Academic Excellence-III” on 24th June 2021 by Dr. C. Krishnaraj and Dr. K. Thirunavukkarasu.",
-            "Faculty of Engineering, Centre for Production and Service Facility, and Department of Electrical and Electronics jointly organized webinar on “OBE- In Pursuit of Academic Excellence-II” on 24th June 2021 by Prof. Nitin P. Mawale and Dr. K. Thirunavukkarasu.",
-            "The Department of Electrical and Electronics organized webinar for 12th standard students on “Industry Demands and Values in Core Engineering” on 24th June 2021 by Er. Anand T, CEO, Swifterz Creative Services LLP and Dr. A. Amudha, Prof. & Head/EEE, KAHE. About 50 students and parents attended.",
-            "The Department of Electrical and Electronics organized webinar on “Review of MEP – Building Management Services” on 23rd June 2021 by Er. Anand T, CEO, Swifterz Creative Services LLP.",
-            "Faculty of Engineering, Centre for Production and Service Facility, and Department of Electrical and Electronics jointly organized webinar on “OBE- In Pursuit of Academic Excellence-I” on 16th June 2021 by Dr. A. Amudha and Dr. K. Thirunavukkarasu.",
-            "The Department of EEE organized an online special lecture “Don’t just learn to code, Learn to create- IoT beyond Imagination” on 13th March 2021. Resource person: Mr. Sakthi Thamlimani, Robert Bosch Engineering and Business Solutions, Bengaluru.",
-            "The Department of EEE organized an online special lecture on “Factory Automation using Industrial Robotics for Manufacturing Division” on 10th March 2021. Resource person: Mr. Vignesh Ramadoss, Technical Coordinator, Axis Global Automation, Tamil Nadu.",
-            "The Department of EEE organized an online special lecture “Industrial Application using PLC and Embedded Systems” on 2nd March 2021. Resource person: Mr. P. Gugankumar, Managing Director, Manfree Technologies, Tamil Nadu.",
-            "The Department of EEE organized an online special lecture “Selection of Sensors” on 24th Feb 2021. Resource person: Er. C. Sivakumar, Senior Trainer, M/s. MAS Solar Private Limited, Coimbatore.",
-            "The Department of EEE organized an online special lecture on “PV – Battery Design” on 23rd Feb 2021. Resource person: Er. C. Sivakumar, Senior Trainer, M/s. MAS Solar Private Limited, Coimbatore.",
-            "The Dept. of EEE organized “Energy Efficient Life Style” on 18th Dec 2020. Resource person: Er. S. Jawahar, Superintending Engineer, TANGEDCO. Thirty students benefited from this webinar.",
-            "The Dept. of EEE organized an online special lecture on “Awareness about Corruption” on 9th Dec 2020 by Er. Durai Kumaravelu, President, Anti-corruption Movement, CBE Unit, Coimbatore.",
-            "The Department of Electrical and Electronics Engineering organized a webinar on “Electricity and Safety Measures” on 19th Nov 2020. Resource person: Er. R. Kanagasundaram, Assistant Engineer, TNEB. 45 students benefited.",
-            "The EEE department organized “Energy Conservation and Electrical Safety” on 28th Oct 2020. Resource person: Mr. S. Vivekanadan, AE, TNEB.",
-            "The Department of EEE organized an online special lecture on “9 Mantras to Save One Unit Per Day” on 22nd Oct 2020. Resource person: Dr. G. Murugananth M.E., Ph.D, Prof. & Head, Dept. of EEE, Ahalia School of Engineering and Technology.",
-            "Department of EEE in association with IAEMP organized a one-day national webinar on “Energy Audit and its Management” on 22nd Aug 2020."
+          "multiContent": [
+            {
+              "contentList": [
+                "The Department of Electrical and Electronics was organized IIC webinar “IPR for Electrical Engineers” on 25th Nov 2022 by Dr.M.Mahendra kumar, Assistant professor, Guru Nanak College, Chennai, Tamil Nadu. ;This webinar helps in understanding the concepts of IPR for Electrical Engineers..",
+                "The Department of Electrical and Electronics was organized IIC webinar “Design Thinking for Start-ups and Innovators” on 21st Nov 2022 by Mr. T. Guhan, Technical Head, Nila Academy,4/387, SH 86, Kandampalayam, Tamil Nadu 637203. This webinar helps in understanding the concepts of Design Thinking for Start-ups and Innovators.",
+                "The Department of Electrical and Electronics was organized IIC webinar “Energy Conservation and Safety” on 21st Oct 2022 by Er.K.Deivasikamani, Assistant Executive Engineer, TANGEDCO Was the resource person. The training helps in understanding the methods of Energy Conservation and Safety measures.",
+                "The Department of Electrical and Electronics was organized IIC webinar “Deregulation in Electric Power Generation” on 12th Oct 2022 by Dr.Vijalakshmi.N, Assistant professor, Department of Electrical Engineering, Faculty of Engineering and Technology, Annamalai University, Annamalai Nagar, Chidambaram. Was the resource person. This webinar helps in understanding the concepts of Deregulation in Electric Power Generation.",
+                "The Department of Electrical and Electronics was organized webinar “Outcome Based Education and its Attainment” on 08th Oct 2022 by Dr.A.Amudha, Dean FoE, KAHE. Dr.V.J.Vijayalakshmi, ASP/EEE. resource person. This webinar helps in understanding the concepts of Outcome Based Education and its Attainment.",
+                "The alumni motivational talk for II, III year EEE students was conducted on 30.04.2022 from 02:30 pm to 03:30 pm in Google Meet Platform.",
+                "The Department of Electrical and Electronics was organized IIC webinar on Intellectual property. Mr.K.Gokul (Batch 2019-2021), Executive officer, State Industries Promotion Corporation of Tamilnadu Ltd (SIPCOT), Head Office, Industrial department, Chennai.",
+                "The KAHE-IIC was organized an Online Webinar on “My success story as an Entrepreneur” on 24.02.2022. Rtr.P.Sathish Kumar B.E, Director of Thimil groups & Club Advisor-Rotract Siragukal,Pollachi, was invited as a delegate to deliver a lecture. The objective of the webinar was to create awareness among students regarding options and opportunities to start up their own venture.",
+                "The KAHE-IIC was organized an Online Webinar on “PROGRAMMABLE LOGIC CONTROLLER AND ITS APPLICATION” on 22.02.2022. Mr.P.GUGANKUMAR, Managing Director, Manfree Technologies, Coimbatore, was invited as a delegate to deliver a lecture. The objective of the webinar is to used in industrial automation to increase reliability, system stability and performance.",
+                "The KAHE-IIC was organized an Online Webinar on “Recent trends and innovations in design of AC motors” on 22.02.2022. The objective of the webinar was to create awareness about recent trend and innovation about design of AC motors.",
+                "Mr.Sarathi.U, Technical Skill Trainer, E-trainers, Coimbatore was the resource person and the session topic was “Recent trends and innovations in design of AC motors”.",
+                "The Department of Electrical and Electronics was organized IIC webinar on Intellectual property Rights for Academic & Research visibility on 17th Feb 2022 by K.G.Balaji Venkatesan ME MSc LL.B Alumini 2009-2013 Batch EEE.",
+                "Karpagam Academy of Higher Education, Faculty of Engineering, Department of EEE has organized online Special Lecture on “Awareness about Anti-corruption” to commemorate “International Anti-corruption Day” on 9th Dec 2021.",
+                "Webinar on “Entrepreneurship’s opportunities in Electrical Engineering” on 12th Nov 2021 organized by EEE Department, Faculty of Engineering, Karpagam Academy of Higher Education. The Resource person was Mr. Nair Vishal Vijay is Master Trainer - EDII -TN, Head Operations -Krossway Solutions.",
+                "The KAHE-IIC was organized an Online Webinar on “Future of Robotics and Automation: An Innovation” on 12.11.2021. The objective of the webinar was to create awareness about recent trend and innovation about robotics and automation field.",
+                "The IIC - KAHE has organized an Online Special Lecture on “Intellectual Property Rights (IPR) & Patent Process” on 20th Oct 2021 by Dr. L. Hariprasanth, Associate Professor, Dept of Biochemistry and Head, Centre for IPR, KAHE. Dr. K. Balachander was assigned as Co-ordinator.",
+                "The department of EEE has organized a webinar on “Recent Trends in Power System” on 14th August, 2021. Dr. M. Siva Ramkumar was assigned as Co-ordinator. Er. S. Vivekanadan M.E., (Ph. D), Assistant Engineer in TNEB, was the resource person for the session.",
+                "The Department of Electrical and Electronics was organized Webinar on “Solution for Employability in Construction Industry” by on 19th July 2021 by 11.00 am. He has vast experience in Building Service Management Systems and he also conducted various MEP training courses.",
+                "Faculty of Engineering, Centre For Production and Service Facility and Department of Electrical and Electronics Engineering jointly organized Webinar on “OBE- In Pursuit of Academic Excellence-III\" by Dr. C. Krishnaraj, Professor and Head, Dept. of Mechanical Engineering, Karpagam College of Engineering, Coimbatore and Dr. K. Thirunavukkarasu, Margdarshak – AICTE, Sr. Prof., Dept. of Mechanical Engineering, Faculty of Engineering, Karpagam Academy of Higher Education on 24th June 2021.",
+                "Faculty of Engineering, Centre For Production and Service Facility and Department of Electrical and Electronics Engineering jointly organized Webinar on “OBE- In Pursuit of Academic Excellence-II\" by Prof. Nitin P Mawale, E&TC Engineering, AISSMS College of Engineering, Pune and Dr. K. Thirunavukkarasu, Margdarshak – AICTE, Sr. Prof., Dept. of Mechanical Engineering, Faculty of Engineering, Karpagam Academy of Higher Education on 24th June 2021.",
+                "The Department of Electrical and Electronics organized Webinar for 12th standard Students on “Industry Demands and Values in Core Engineering” by Er. Anand T, Founder and CEO, M/s. Swifterz Creative Services LLP, Coimbatore and Dr. A. Amudha, Prof. & Head/EEE, KAHE on 24th June 2021. The session discussed about the Need of Core Engineering, Reason for Employability gap and Placement criteria. Nearly 50 school students and parents were attended.",
+                "The Department of Electrical and Electronics was organized Webinar on “Review of MEP – Building Management Services” by Er. Anand T, Founder and CEO, M/s. Swifterz Creative Services LLP, Coimbatore on 23rd June 2021. He has vast experience in Building Service Management Systems and he also conducted various MEP training courses.",
+                "Faculty of Engineering, Centre for Production and Service Facility and Department of Electrical and Electronics Engineering jointly organized Webinar on “OBE- In Pursuit of Academic Excellence-I\" by Dr. A. Amudha, Prof. & Head, Dept. of EEE, Faculty of Engineering, Karpagam Academy of Higher Education and Dr. K. Thirunavukkarasu, Margdarshak – AICTE, Sr. Prof., Dept. of Mechanical Engineering, Faculty of Engineering, Karpagam Academy of Higher Education on 16th June 2021.",
+                "The Department of EEE organized an Online Special Lecture an “Don’t just learn to code, Learn to create- IoT beyond Imagination” on 13.03.2021. Mr.Sakthi Thamlimani, Robert Bosch Engineering and Business Solutions, Bengaluru, was the resource person for the session.",
+                "The Department of EEE organized an Online Special Lecture on Factory Automation using Industrial robotics for Manufacturing Division on 10.03.2021. Mr.Vignesh Ramadoss, Technical Coordinator, Axis Global Automation, Tamil Nadu was the resource person for the session.",
+                "The Department of EEE organized an Online Special Lecture an “Industrial Application using PLC and Embedded Systems” on 02.03.2021. Mr.P.Gugankumar B.E,MBA, Managing Director, Manfree Technologies, Tamil Nadu was the resource person for the session.",
+                "The Department of EEE organized an Online Special Lecture an “Selection of Sensors” on 24.02.2021. Er. C. Sivakumar, Senior Trainer, M/s. MAS Solar Private Limited (MoU signed company), Coimbatore was the resource person for the session.",
+                "The Department of EEE organized an Online Special Lecture on “PV - Battery Design” on 23.02.2021. Er. C. Sivakumar, Senior Trainer, M/s. MAS Solar Private Limited (MoU signed company), Coimbatore was the resource person for the session.",
+                "The Dept. of EEE organized an “Energy Efficient Life Style” on 18th Dec 2020. Er. S. Jawahar, Superintending Engineer, Distribution, TANGEDCO was the resource person for the session. He has 28 years’ experience in Electricity Board. Thirty Students are benefited by this webinar.",
+                "The Dept. of EEE has organized an Online Special Lecture on “Awareness about Corruption” in connection with International Anti-corruption Day on 9th Dec 2020 by by Er. Durai Kumaravelu, President, Anti-corruption Movement, CBE Unit, Coimbatore. The main objective of this session was to get a complete awareness of Corruption and Malpractices.",
+                "The Department of Electrical and Electronics Engineering has organized a webinar on “Electricity and Safety Measures” on 19th Nov 2020. Er. R. Kanagasundaram, Assistant engineer, TNEB, Tamil Nadu was the resource person for the session. He has vast experience in maintenance of electricity standards and safety measures. 45 Students are benefited by this webinar.",
+                "The EEE department has organized an “Energy Conservation and Electrical Safety” on 28th Oct 2020. Mr. S. Vivekanadan, AE, TNEB was the resource person for the session. He has vast experience in HV transformer erection and installation.",
+                "The Department of EEE organized an Online Special Lecture on “9 Mantras to Save One Unit Per Day” on 22nd Oct 2020. Dr. G. Murugananth M.E., Ph. D, Prof. & Head, Dept. of EEE, Ahalia School of Engineering and Technology, was the resource person for the session.",
+                "Department of EEE in association with Indian Association of Energy Management Professionals (IAEMP) organized a One-day National Webinar on \"Energy Audit and its Management” on 22nd Aug 2020."
+              ]
+            }
           ]
         },
         {
-          "title": "Workshops",
-          "content": [
-            "The Department of Electrical and Electronics Engineering organized a seminar titled “Arduino and its IoT Applications” from 20th to 22nd March 2024. Er. T. Ramesh and Mr. A. Prasath from Triox Technology (MoU signed company) conducted the training program. The primary objective was to develop hardware models using IoT and Arduino technologies.",
-            "Department of EEE organized a one-day workshop on “PCB Designing, Fabrication and Troubleshooting” on 3rd Aug 2023. The expert was Mr. A. Prasath, Triox Technology (MoU signed company), Coimbatore.",
-            "The Department of Electrical and Electronics Engineering organized a one-day workshop on “Domestic Wiring Procedure” on 20th Oct 2022. Dr. A. Amudha, Professor & Head, Department of Electrical and Electronics Engineering welcomed participants and introduced the delegate. Mr. T. Selvaganapathi, AP/EEE/KAHE, conducted a practical session on Transformer winding design.",
-            "The Department of Electrical and Electronics Engineering organized a one-day workshop on “Domestic Wiring Procedure” on 20th Oct 2022. Dr. A. Amudha, Professor & Head, Department of Electrical and Electronics Engineering welcomed participants and introduced the delegate. Mr. T. Selvaganapathi, AP/EEE/KAHE, conducted a practical session on Transformer winding design.",
-            "The Department of EEE organized a session on “Problem Solving and Ideation Workshop” on 12th Nov 2020. Mr. Vishal Nair, Co-Founder, M/s. LightNSalt Pvt. Ltd, Master Trainer – Entrepreneurship Development Innovation Institute, Tamil Nadu, was the resource person.",
-            "The EEE Department organized a workshop titled “Design Thinking, Critical Thinking and Innovation Design” on 26th Nov 2020. Mr. Vishal Nair, Co-Founder, M/s. LightNSalt Pvt. Ltd, Master Trainer – Entrepreneurship Development Innovation Institute, Tamil Nadu, was the resource person."
+          "title": "Workshop",
+          "multiContent": [
+            {
+              "contentList": [
+                "The Department of Electrical and Electronics Engineering organized a seminar titled “Arduino and its IoT Applications” from 20th to 22nd March 2024. Er. T. Ramesh and Mr. A. Prasath from Triox Technology, a company with which an MOU has been signed, were invited as delegates to conduct the training program. The primary objective of this training program was to develop hardware models using IoT and Arduino technologies.",
+                "Department of EEE has organized One day Workshop on “PCB Designing, Fabrication and Troubleshooting” on 3rd Aug 2023. The experts was M/s. Mr. A. Prasath,Triox Technology (MoU Signed Company), Coimbatore.",
+                "The Department of Electrical and Electronics Engineering was organized a one day Workshop on “Domestic Wiring Procedure” on 20.10.2022. Dr.A.Amudha, Professor & Head, Department of Electrical and Electronics Engineering welcome the participants and introduced the delegate. Then Mr.T.Selvaganapathi/AP/EEE/KAHE. conduct a Practical Session about the design of Transformer winding.",
+                "The Department of EEE organized an “Session on Problem Solving and Ideation Workshop” on 12th Nov 2020. Mr. Vishal Nair, Co-Founder, M/s. LightNSalt Pvt. Ltd, Master Trainer - Entrepreneurship Development Innovation Institute, Tamil Nadu was the resource person for the session.",
+                "The EEE Department organized a workshop titled “Design Thinking, Critical Thinking and Innovation Design” on 26th Nov 2020 and Mr. Vishal Nair, Co-Founder, M/s. Light NSalt Pvt. Ltd., Master Trainer, Entrepreneurship Development Innovation Institute, Tamil Nadu was the resource person for the session."
+              ]
+            }
           ]
         },
         {
-          "title": "Skill Development & Training",
-          "content": [
-            "Four Days Skill Training Programme on “Industrial Based Embedded System and IoT” for 47 students from III-EEE from 16.12.2025 to 19.12.2025.",
-            "The Department of Electrical and Electronics Engineering, in collaboration with the Skill Development Centre at Karpagam Academy of Higher Education, Coimbatore, conducted a Skill Development Programme titled ‘SOLAR PV INSTALLATION’ on 31st January, 2024. Mr. M. Muthukumar, Director and Manager Trustee of HONEY BEES Skill and Social Explore Foundation, Coimbatore, provided guidance to students during the hands-on solar PV installation session in the field.",
-            "Department of EEE organised Skill Development on Transformer winding on 26.07.2023. The resource person was Mr. T. Selvaganapathy, AP/EEE. He conducted this skill training session on the design of transformer winding.",
-            "The Department of EEE and Skill Development Centre organized a one-day Skill Training on “Design of Transformer Winding” on 14th Mar 2023 by Mr. T. Selvaganapathi, Assistant Professor/EEE/KAHE.",
-            "The Department of EEE and Skill Development Centre organized a two-day Skill Development Workshop on “Selection of Components, Sensors, Circuit Design Parameters, Simple Circuit Board Layout” by Er. Prasath, Proprietor, and Er. Ramesh T, Sr. Engineer, M/s. Triox Technology (MoU Signed Company), 100 Feet Road.",
-            "Department of Electrical and Electronics Engineering organized a two-day Skill Development Workshop on “Design and Implementation of Automation Circuits” on 29th and 30th Aug 2022 in association with M/s. Triox Technology (MoU Signed Company), 100 Feet Road, Gandhipuram, Coimbatore."
+          "title": "Skill Development",
+          "multiContent": [
+            {
+              "contentList": [
+                "Four Days Skill Training Programme on “Industrial Based Embedded System and IoT” for 47 students from III-EEE from 16.12.2025 to 19.12.2025.",
+                "The Department of Electrical and Electronics Engineering, in collaboration with the Skill Development Centre at Karpagam Academy of Higher Education, Coimbatore, conducted a Skill Development Programme titled 'SOLAR PV INSTALLATION' on 31st January, 2024. Mr. M. Muthukumar, Director and Manager Trustee of HONEY BEES Skill and Social Explore Foundation, Coimbatore, provided guidance to students during the hands-on solar PV installation session in the field.",
+                "Department of EEE organised Skill Development on Transformer winding on 26.07.2023. The resource Person is Mr.T. Selvaganapathy, AP/EEE. He conducted this skill training session about the design of transformer winding.",
+                "The Department of EEE and Skill Development centre was organized an one day Skill Training on “Design of Transformer winding” on 14th Mar 2023 by Mr. T. Selvaganapathi, Assistant Professor/EEE/KAHE.",
+                "The Department of EEE and Skill Development centre was organized an 2 days Skill Development Workshop on “Selection of Components, Sensors, Circuit Design Parameters, Simple circuit board Layout” by Er. Prasath, Proprietor, Er. Ramesh T, Sr. Engineer M/s. Triox Technology (MoU Signed Company), 100 feet Road,",
+                "Department of Electrical and Electronics Engineering was organized 2 days Skill Development Workshop on “Design and Implementation of Automation Circuits” on 29th and 30th Aug 2022 in association with M/s. Triox Technology (MoU Signed Company), 100 feet Road, Gandhipuram, Coimbatore."
+              ]
+            }
           ]
         },
         {
-          "title": "Faculty & Professional Development Programs",
-          "content": [
-            "Online AICTE Recognized National Level Faculty Development Program (FDP) / Short Term Course (STC) on “Curriculum Implementation and Evaluation” from 18th Aug 2025 to 22nd Aug 2025 for teaching faculty and research scholars.",
-            "Department of EEE organized a six-day online Professional Development Program on “Emerging Trends in Electrical Engineering” from 20th Nov to 25th Nov 2023. The program covered advancements in battery technologies, supercapacitors, gravity-based energy storage, and renewable energy sources like solar and wind power. It aimed to provide understanding of technologies, latest trends, and innovations in electrical engineering and their impact on industry and society.",
-            "Department of EEE organized a six-day online Professional Development Program on “Emerging Trends in Electrical Engineering” from 28th Nov to 3rd Dec 2022.",
-            "Department of EEE, in association with M/s. VEI Technologies Private Limited, Chennai, organized a six-day online Professional Development Program on “Matlab/Simulink online training on Electric Vehicle - Battery Management System” from 28th March to 2nd April 2022.",
-            "Six-day Online Professional Development Programme on Introduction to Programme Logic Controllers from 4th Jan 2021 to 9th Jan 2021 at KAHE. Resource persons included Dr. A. Amudha, Dr. K. Balachander, Dr. M. Sivaramkumar, Dr. S. Divyapriya, Dr. G. Emayavaramban, Mrs. P. Nagaveni, and Ms. K. Sudhapriya.",
-            "Professional Development Program conducted from 9th Mar 2020 to 14th Mar 2020 on Frequency Domain Analysis Software – ETAP, PSCAD, PSIM SOFTWARE OVERVIEW, and Power System Studies by Simulation Tool - DigSILENT."
+          "title": "Professional Development Program",
+          "multiContent": [
+            {
+              "contentList": [
+                "Online AICTE Recognized National Level Faculty Development program (FDP) /Short Term Course (STC) on “Curriculum Implementation and Evaluation” from August 18.08.2025 to 22.08.2025 for teaching faculty and research scholars.",
+                "Department of EEE has organized Six days online Professional Development Program on “Emerging Trends in Electrical Engineering” from 20th Nov to 25th Nov 2023. Emerging technologies in electrical engineering involve advancements in battery technologies, supercapacitors, and even innovative solutions like gravity-based energy storage. The top electrical trends for 2023 are expected to be focused on sustainability and energy efficiency. With the increasing concern for climate change, there will be a greater emphasis on renewable energy sources such as solar and wind power. This PDP helps in understanding the technologies, latest trends and innovations in electrical engineering and their potential impact on the industry and society.",
+                "Department of EEE has organized Six days online Professional Development Program on “Emerging Trends in Electrical Engineering” from 28th Nov to 3rd December 2022.",
+                "Department of EEE in association with M/s. Vei Technologies Private Limited, Chennai has organized Six days online Professional Development Program on “Matlab/Simulink online training on Electric Vehicle- Battery Management System” from 28th march to 2nd April 2022.",
+                "Title of the Six days Online Professional Development Programme on Introduction to Programme Logic Controllers., Dr.A.Amudha, Dr.K.Balachander, Dr.M.Sivaramkumar, Dr.S.Divyapriya, Dr.G.Emayavaramban, Mrs.P.Nagaveni, Ms.K.Sudhapriya on Dated 04.01.2021 to 09.01.2021.at KAHE.",
+                "Professional Development Program was Conducted from 09.03.2020 to 14.03.2020 on Frequency Domain Analysis Software – ETAP, PSCAD, PSIM SOFTWARE OVERVIEW, Power System Studies by Simulation Tool-DigSILENT."
+              ]
+            }
           ]
         },
         {
-          "title": "Alumni Talks & Meetings",
-          "content": [
-            "Alumni meeting on 26th July 2025 from 2:30 PM to 3:30 PM.",
-            "The Department of Electrical and Electronics Engineering, in partnership with the Karpagam Academy of Higher Education Alumni Association (KAHEAA) and the Center for Career Counseling and Competitive Examinations, hosted an alumni discussion on “Exploring Career Paths for Electrical Engineers.” The session was led by Er. G. Balachander (Class of 2019), Product cum Testing Engineer at Piaggio Vehicles Pvt. Ltd., Chennai, on 10th January 2024 via Google Meet.",
-            "The Department of Electrical and Electronics Engineering, in partnership with KAHEAA and the Center for Career Counselling and Competitive Examinations, hosted an alumni lecture titled “Transferring Knowledge for Energy Conservation in Buildings,” presented by Er. G. Manivel, B.E., MBA., DLLAL. (Class of 2023), Technical Assistant at TANGEDCO, COVAI EDC NORTH, on 28th February 2024 from 12:00 pm to 1:00 pm via Google Meet.",
-            "The Department of Electrical and Electronics Engineering, in partnership with KAHEAA, conducted an alumni motivational talk on 28th March 2024 via Google Meet. The speech was delivered by Mr. Naveen J.P. (Class of 2016), Software Testing Engineer, Jasmin Infotech, Chennai.",
-            "Motivational talk on Career Opportunities for Electrical Engineers in UAE by Shane Tom Mathew, Course Administrator, Airtics, conducted on 26th August 2023 online. He discussed the importance of VAC and encouraged students to undergo certification courses.",
-            "Alumni Talk on “Opportunities in Wind Power Sector” on 5th July 2023 by Er. Sathishkumar L (EEE 2012 Batch), Managing Director, Ms. Renergy Ventures Private Limited & M/s. Renergy Green Power Services, Coimbatore, 9:00 AM to 1:00 PM.",
-            "The Department of Electrical and Electronics organized an IIC webinar on Intellectual Property Rights for Academic & Research Visibility on 17th Feb 2022 by K.G. Balaji Venkatesan, ME, MSc, LL.B, Alumni 2009-2013 Batch, EEE.",
-            "The Department of EEE organized an Alumni Webinar on 9th Oct 2020. Mr. S. Johnson Felix (Alumni, 2015 Batch), Software Development Engineer, M/s. AlfaTKG India Pvt Ltd, Chennai, was the resource person. 38 students benefited from this webinar."
+          "title": "Alumni Talk",
+          "multiContent": [
+            {
+              "contentList": [
+                "Alumni meeting on 26th July 2025 from 2.30 PM to 3.30 PM.",
+                "The Department of Electrical and Electronics Engineering, in partnership with the Karpagam Academy of Higher Education Alumni Association (KAHEAA) and the Center for Career Counseling and Competitive Examinations, hosted an alumni discussion on “Exploring Career Paths for Electrical Engineers.” The session was led by Er. G. Balachander (Class of 2019), a Product cum Testing Engineer at Piaggio Vehicles Pvt. Ltd. in Chennai. The event took place on 10th January, 2024, conducted via Google Meet.",
+                "The Department of Electrical and Electronics Engineering, in partnership with the Karpagam Academy of Higher Education Alumni Association (KAHEAA) and the Center for Career Counselling and Competitive Examinations, hosted an alumni lecture titled “Transferring Knowledge for Energy Conservation in Buildings,” presented by Er. G. Manivel, B.E., MBA., DLLAL., (Class of 2023), who serves as a Technical Assistant at TANGEDCO, COVAI EDC NORTH. The session, aimed at second-year EEE students, was held on 28th February, 2024, from 12:00 pm to 1:00 pm via Google Meet.",
+                "The Department of Electrical and Electronics Engineering, in partnership with the Karpagam Academy of Higher Education Alumni Association (KAHEAA) conducted an alumini motivational talk on 28th march 2024 through google meet. The speech was delivered by Mr.Naveen.JP (Class of 2016) software testing engineer, Jasmin Infotech, Chennai.",
+                "Motivational talk was organised on Career opportunities for Electrical Engineers in UAE. The resource person is Shane Tom Mathew Course Administrator, Airtics. He discussed the importance of VAC and encouraged the students to undergo various certification courses. The event was conducted on 26th August 2023 through online mode.",
+                "Alumni Talk on “Opportunities in Wind Power Sector” on 05.07.2023. Department of EEE was organized Alumni talk on “Opportunities in Wind Power Sector” by Er. Sathishkumar. L (EEE 2012 Batch), Managing Director, Ms. Renergy Ventures Private Limited & M/s. Renergy Green Power Services, Coimbatore on 05th July 2023, 9-1pm.",
+                "The Department of Electrical and Electronics was organized IIC webinar on Intellectual property Rights for Academic & Research visibility on 17th Feb 2022 by K.G.Balaji Venkatesan ME MSc LL.B Alumini 2009-2013 Batch EEE.",
+                "The Department of EEE has organized an “Alumni Webinar” on 09th Oct 2020. Mr. S. Johnson Felix (Alumini, 2015 Batch), Software Development Engineer, M/s. AlfaTKG India Pvt Ltd, Chennai was the resource person for the session. 38 Students are benefited by this webinar."
+              ]
+            }
           ]
         },
         {
-          "title": "Energy Conservation Day Celebrations",
-          "content": [
-            "27th National Energy Conservation Day celebrated, various competitions were conducted and guest lecture delivered by Er. P. Senram/CE/TNEB on December 14, 2017."
+          "title": "Endowment Lecture",
+          "multiContent": [
+            {
+              "contentList": [
+                "The Department of EEE has organized an Online Endowment Lecture on “Electric Vehicle” on 04th Sept 2021. Dr. B. Ezhilavan, Managing Director, M/s. Vei Technologies, Chennai was the resource person.",
+                "The Endowment Online Lecture “Emerging trends in Solar Energy” was organized on 9th Dec 2020 by Department of EEE. The session was carried out by M. M. Nambidass, Managing Director, M/s. Solar Business Solutions, Coimbatore.",
+                "EEE Department organized Endowment Guest Lecture titled \"Non-Conventional Energy\" by Er. D. Babu/AEE/TNEB on December 09, 2019.",
+                "Endowment Guest Lecture organized - “Electric/Automobile Vehicle” by Er. T. Balachander, Proprietor, M/s. Goodwill Systems, Coimbatore September 04,2019."
+              ]
+            }
           ]
         },
         {
-          "title": "Training",
-          "content": [
-            "27th National Energy Conservation Day celebrated, various competitions were conducted and guest lecture delivered by Er. P. Senram/CE/TNEB on December 14, 2017."
-          ]
-        },
-        {
-          "title": "Professional Development & Hands-on Training",
-          "content": [
-            "Department of EEE organized a six-day Online Professional Development Programme on “Introduction to Programmable Logic Controllers” from 4th to 9th January 2021. Mr. P. Gugankumar, Managing Director, M/s. Manfree Technologies, Coimbatore, was the resource person.",
-            "Organized a ten-day training course on “Solar PV Technician” in association with M/s. MAS Solar Systems Private Limited, Coimbatore, from 8th January 2018 to 13th January 2018.",
-            "Organized a one-day hands-on training on “AC Machine Windings” in July 2017 by Er. T. Sarathi, Technical Manager, M/s. E-Trainers, Thudiyalur, Coimbatore.",
-            "Organized a one-day hands-on training on “3D Printing and E-CAD” in July 2017 by Er. T. Sarathi, Technical Manager, M/s. E-Trainers, Thudiyalur, Coimbatore.",
-            "Organized a one-day hands-on training on “Variable Frequency Drive and SCADA” in September 2017.",
-            "Organized a one-day hands-on training on “Industrial Automation – SCADA” in association with M/s. Prolific Systems & Technologies Private Limited, Coimbatore, on 27th November 2017.",
-            "Organized an NSDC-sponsored ESSI Qualification Level–4 short-term course on “Solar Panel Installation Technician” in association with M/s. MAS Solar Systems Private Limited, Coimbatore, on 6th and 12th September 2016.",
-            "Organized an NSDC and Government of India certified six-day short-term training course on “Robotics and Automation” from 2nd January 2016 to 7th January 2016.",
-            "Organized a two-day hands-on training on “AC Machine Windings” in July 2016.",
-            "Organized a two-day hands-on training on “IoT using Arduino” in December 2016."
-          ]
-        },
-        {
-          "title": "Project Exhibition",
-          "content": [
-            "EEE Department organized a National Level Project Exhibition titled “Karpagam Innovation and Technology Exposition 2015 (KITE 2015)” on 16th and 17th February 2015."
-          ]
-        },
-        {
-          "title": "Programs, Events & Outreach Activities",
-          "content": [
-            "Career Counselling Program on “Overview of Career Prospects in Building Services” held on 12 December 2025.",
-            "World Energy Conservation Day celebration conducted on 15 December 2025.",
-            "Career Counselling Program on “Opportunities for Graduates Through TNPSC: A Career Development Perspective” held on 27 November 2025.",
-            "One Day National Level Technical Fest (SPARKFEST-2K26) organized on 11 February 2026.",
-            "Extension activity titled “Switch to Green, Switch to Life” conducted on 19 September 2025 at the Eachanari Temple area to create public awareness on energy conservation and renewable energy.",
-            "School Outreach Programme organized at Pethanackenur, Pollachi on 24 February 2016 through the Rotaract Club of KAHE and the Visual Arts Club.",
-            "School Outreach Programme organized at Pethanackenur, Pollachi on 06 January 2017 through the Rotaract Club of KAHE and the Visual Arts Club."
+          "title": "Extension Activities",
+          "multiContent": [
+            {
+              "contentList": [
+                "Career Counselling Program on “Overview of Career Prospects in Building Services” on 12.12.2025",
+                "Celebrations on World Energy Conservation Day on 15.12.2025.",
+                "Career Counselling Program on “Opportunities for Graduates Through TNPSC: A Career Development Perspective” on 27.11.2025.",
+                "One day National Level Technical Fest (SPARKFEST-2K26) on 11.02.2026.",
+                "An extension activity on “Switch to Green, Switch to Life” on 19.09.2025 for third Year Electrical and Electronics Engineering students to create awareness among the public regarding energy conservation and renewable energy at Eachanari Temple area.",
+                "Organized School Out Reach Programme at Pethanackenur, Pollachi on February 24, 2016 Through Rotaract club of KAHE and Visual Arts Club.",
+                "Organized School Out Reach Programme at Pethanackenur, Pollachi on January 06, 2017 Through Rotaract club of KAHE and Visual Arts Club."
+              ]
+            }
           ]
         }
       ]

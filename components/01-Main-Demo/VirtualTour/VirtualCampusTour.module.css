@@ -10,7 +10,7 @@
   height: 360px;
   border-radius: 28px;
   overflow: hidden;
-  background-image: url("/public//images//Kahe/home/video.png"); /* replace with your image */
+  background-image: url("/images/Kahe/home/video.png"); /* replace with your image */
   background-size: cover;
   background-position: center;
 }

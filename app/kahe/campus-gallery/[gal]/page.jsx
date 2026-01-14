@@ -1,5 +1,6 @@
 "use client";
 import CampusEventGallery from "@/components/00-Kahe/CampusComponenets/CampusEventGallery";
+import Breadcrumb from "@/components/00-Kahe/common-components/BreadCrumb";
 import ImageGrid from "@/components/00-Kahe/common-components/ImageGrid";
 import InnerSubBanner from "@/components/00-Kahe/common-components/InnerSubBanner";
 import { useEffect, useState } from "react";
@@ -39,6 +40,7 @@ const Page = () => {
 
     
       <InnerSubBanner data={bannerCon} />
+      <Breadcrumb items={content?.breadcrumbItems} />
       <CampusEventGallery data={content} />
      
       

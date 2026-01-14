@@ -74,19 +74,15 @@
           {
             "key": "pg",
             "title": "Post Graduate Programme",
-           "img": "/images/Kahe/academics/engineering/ECE/studentprogrammes.webp",
-            "items": [
-              "M.E. VLSI Design (Strength: 6)"
-            ],
+            "img": "/images/Kahe/academics/engineering/ECE/studentprogrammes.webp",
+            "items": ["M.E. VLSI Design (Strength: 6)"],
             "type": "programme"
           },
           {
             "key": "res",
             "title": "Research Programme",
-           "img": "/images/Kahe/academics/engineering/ECE/studentprogrammes.webp",
-            "items": [
-              "Ph.D. Electronics and Communication Engineering"
-            ],
+            "img": "/images/Kahe/academics/engineering/ECE/studentprogrammes.webp",
+            "items": ["Ph.D. Electronics and Communication Engineering"],
             "type": "programme"
           }
         ]
@@ -97,7 +93,7 @@
           {
             "key": "be-ece",
             "title": "BE Electronics and Communication Engineering",
-             "img": "/images/Kahe/academics/engineering/ECE/studentprogrammes.webp",
+            "img": "/images/Kahe/academics/engineering/ECE/studentprogrammes.webp",
             "type": "curriculum",
             "items": [
               {
@@ -141,7 +137,7 @@
           {
             "key": "phd-ece",
             "title": "Ph.D. Electronics and Communication Engineering",
-           "img": "/images/Kahe/academics/engineering/ECE/studentprogrammes.webp",
+            "img": "/images/Kahe/academics/engineering/ECE/studentprogrammes.webp",
             "type": "curriculum",
             "items": [
               {
@@ -175,7 +171,7 @@
       "basic": {
         "title": "Faculty",
         "description": "The faculty of the Department of Electronics and Communication Engineering brings expertise in communication systems, signal processing, and embedded technologies. With a focus on design-oriented learning and emerging communication platforms, the faculty equips students to innovate in areas such as wireless networks, VLSI, and smart communication solutions.",
-       "src": "/images/Kahe/academics/faculty.webp",
+        "src": "/images/Kahe/academics/faculty.webp",
         "buttonText": "View All Faculty"
       },
       "breadcrumbItems": [
@@ -492,31 +488,261 @@
     {
       "tab": "Events",
       "slug": "department-of-electronics-communication-engineering",
+      "breadcrumbItems": [
+        {
+          "label": "Academics",
+          "href": "/academics"
+        },
+        {
+          "label": "Engineering",
+          "href": "academics/engineering/"
+        },
+        {
+          "label": "Department of Electronics and Communication Engineering",
+          "href": "/academics/engineering/department-of-electronics-communication-engineering"
+        },
+        {
+          "label": "Events"
+        }
+      ],
       "items": [
         {
           "title": "Others",
-          "content": [
-            "National Level Conference on Advanced Technologies and Sustainable Materials in Electronics, Signal Processing and Circuit Design on 13.03.2026.",
-            "Five-Day Skill Training Programme on Solar Energy Technologies: Fundamentals to Device Fabrication from 15.12.2025 to 19.12.2025 at CSIR–CECRI, Karaikudi.",
-            "Four-Day Skill Training Programme on Fundamentals of Robotics System Design from 05.01.2026 to 08.01.2026.",
-            "Seminar on Advanced Controllers in Industrial Usage on 18.12.2025 for II Year ECE students.",
-            "Six-Day Online Faculty Development Programme on Harnessing Artificial Intelligence for the Future of Wireless Communication and Signal Processing from 08.12.2025 to 13.12.2025.",
-            "One-Day National Level Technical Fest TRONIX–2K26 on 06.02.2026.",
-            "Seminar on Opportunities and Aspects of Embedded System on 20.11.2025 for Final Year ECE students.",
-            "Seminar on Career Guidance and Awareness Program on Essential Software for Electrical Engineers on 07.10.2025.",
-            "Distinguished Lecture on Sensor Fusion Techniques for Autonomous Vehicles on 30.08.2025.",
-            "Seminar on Adhoc and Sensor Networks for Disaster Management on 19.09.2025.",
-            "Distinguished Lecture Series on Image Forgery Detection and Digital Watermarking on 27.09.2025.",
-            "Career Counselling Session on The Engineer’s Blueprint for Acing Bank Exams on 29.09.2025.",
-            "One-Day Seminar on Smart Antennas and Reconfigurable Systems using RF MEMS Technology on 25.09.2025.",
-            "Guest Lecture on Smart Automotive Systems: The Role of Modern Sensors and Embedded Systems for Third Year ECE students on 12.09.2025.",
-            "Seminar on Role of Sensors and Transducers in Modern Engineering Applications on 30.08.2025.",
-            "Seminar on Image Forgery Detection and Digital Water Marking on 27.09.2025.",
-            "Online AICTE Recognized National Level Faculty Development Programme / Short Term Course on Curriculum Implementation and Evaluation from 18.08.2025 to 22.08.2025.",
-            "Seminar on Opportunities in IoT and Embedded Systems and Alumni Interaction for First Year ECE students on 29.07.2025.",
-            "Seminar on Smart Ideas Start Here: IoT for Young Entrepreneurs on 29.07.2025.",
-            "Seminar on Transforming Students into Industry Ready Professionals on 29.07.2025.",
-            "Extension Programme on E-Waste to E-Wisdom: A Journey of Responsible Recycling at Othakalmandapam, Coimbatore on 23.07.2025."
+          "multiContent": [
+            {
+              "contentList": [
+                "Alumni interaction for the ECE students on 24.12.2025 by our Alumni (2012– 2016) batch, Mr. Nithin Verghese.L, Specialist-Software Engineer, LTI Mindtree, Bangalore.",
+                "National level Conference on “National conference on Advanced Technologies and Sustainable Materials in Electronics, Signal Processing and Circuit Design” on 13.03.2026.",
+                "Five -days Skill Training Programme on “Solar Energy technologies: Fundamentals to Device Fabrication” from 15.12.2025 to 19.12.2025 at CSIR – CECRI, Karaikudi.",
+                "Four Days Skill Training Programme on “Fundamentals of Robotics System Design” from 05.01.2026 to 08.01.2026.",
+                "Seminar on “Advanced Controllers in Industrial Usage” on 18.12.2025 for II Year ECE students",
+                "Six days online Faculty Development Program on “Harnessing Artificial Intelligence for the Future of Wireless Communication and Signal Processing” from 08.12.2025 to 13.12.2025.",
+                "One – day National Level Technical Fest (TRONIX-2K26) on 06.02.2026.",
+                "Seminar on “Opportunities and aspects of Embedded System” on 20.11.2025 for final year ECE students.",
+                "Conducted a Seminar on “Career Guidance & Awareness Program on Essential Software’s for Electrical Engineers” on 07.10.2025.",
+                "Distinguished Lecture on “Sensor Fusion Techniques for Autonomous Vehicles” on 30.08.2025.",
+                "Seminar on “Adhoc and Sensor Networks for Disaster Management” on 19.09.2025.",
+                "Distinguished Lecture Series on “Image Forgery Detection and Digital Watermarking” on 27.09.2025.",
+                "Career Counselling session on “The Engineer’s Blueprint for Acing Bank Exams” on 29.09.2025",
+                "One day seminar on “Smart Antennas and Reconfigurable Systems using RF MEMS Technology” on 25.09.2025.",
+                "Guest Lecture on “Smart Automotive Systems: The Role of Modern Sensors and Embedded Systems” for third year ECE students on 12.09.2025.",
+                "Seminar on “Role of Sensors and Transducers in Modern Engineering Applications” on 30.08.2025.",
+                "Seminar on “Image Forgery Detection and Digital Water Marking” on 27.09.2025.",
+                "Online AICTE Recognized National Level Faculty Development program (FDP) /Short Term Course (STC) on “Curriculum Implementation and Evaluation” from August 18.08.2025 to 22.08.2025",
+                "Seminar on “Opportunities in IOT and Embedded Systems” and Alumni Interaction for first year ECE students on 29.07.2025.",
+                "Seminar on “Smart Ideas Start Here: IoT for Young Entrepreneurs” on 29.07.2025",
+                "Seminar on “Transforming Students into Industry Ready Professionals” on 29.07.2025",
+                "Extension Program on “E Waste to E Wisdom: A Journey of responsible recycling” at Othakalmandapam, Coimbatore on 23.07.2025"
+              ]
+            }
+          ]
+        },
+
+        {
+          "title": "2019-20",
+          "multiContent": [
+            {
+              "title": "Hands on Training Arranged",
+              "contentList": [
+                "One Week hands on training On “Data Science and Big Data Analytics” was conducted on December 05, 2019 to December 13, 2019."
+              ]
+            },
+
+            {
+              "title": "FDP arranged",
+              "contentList": [
+                "5 days FDP On “Data Science and Big Data Analytics” was conducted on November 18, 2019 to November 22, 2019."
+              ]
+            },
+
+            {
+              "title": "Seminar/Webinar/Guest Lecture Organized",
+              "contentList": [
+                "One day webinar on Introduction to Nano Electronics was organized by Mr.G.Aravindh on 31.12.2020, Mr.K.Thangaraj, Senior Analyst, HCL Coimbatore was the resource person.",
+                "One day webinar on Application of Artificial Intelligence was organized by Dr.K.G.Dharani on 31.12.2020, M. NandhaKumar & Ms. D. Kanaga Durga, Career Vision Embedded Academy (3Q Technologies), Coimbatore were the resource persons",
+                "One day webinar on Introduction to Design Software in Electronics was organized by Mrs.P.Sasikala on 12.2020, Mr.Muthukumarasamy, Project Head, CAD Point, Coimbatore was the resource person",
+                "One day webinar on Design of Microstrip patch Antenna using CST Microwave studio was organized by Ms.Jayachitra on 17.12.2020 and Mr.S.Arulmurugan, Research Scholar, Vellore Institute of Technology, Vellore was the resource person",
+                "One day webinar on Challenges and Opportunities for Harnessing Renewable Energy in Developing Countries was organized by Neenu Jose on 15.12.2020 and Dr. Biju C. V, Professor, Jyothi Engineering college, Cheruthuruthy was the resource person",
+                "One day webinar on Robot Intelligent Technology & Applications was organized by Ms.Jayachitra on 15.12.2020 and Mr.R.Logarasu, Associate Professor, Selvam College of Technology, Namakkal was the resource person",
+                "One day webinar on Triz Methodology was organized by Mrs.P.Sasikala on 23.10.2020, Mr.Sivaram Balasubramanian, Senior Architect, Bosch, Coimbatore was the resource person",
+                "Two days webinar on Future Trends in VLSI was organized by Mr.G.R.Mahendrababu from 23.10.2020 & 24.10.2020 and H.S.Jatana, Mr.Khambete uday purushottam, Semiconductor Laboratory, Government of India were the resource persons",
+                "One day webinar on Higher Education and career opportunities in Germany was organized by Dr.A.Mohanarathinam on 07.10.2020 and Mr. Kumaresan Natarajan, B.E., M.S., (Germany) German Language trainer and Career Counsellor, Erode was the resource person",
+                "One day webinar on Thematic Funding Opportunities for Students Faculties and Researchers was organized by Mr.M.Arunkumar on 06.07.2020 and Dr.S.Baskar, Associate Professor Department of ECE, Karpagam Academy of Higher Education, Coimbatore was the resource person",
+                "One day seminar on Mobile Phone Troubleshooting was organized by Mr.M.Arunkumar on 12th June, 2020 and Mr.C.Aathithreyan, Service Engineer, New Technology Mobile service and training centre, Coimbatore. was the resource person.",
+                "One day seminar on Medical Equipment Troubleshooting was organized by S.Kamalraj on 11th June, 2020 and Mr.G.Nirsandh Founder & CEO of KEDS Groups, Coimbatore was the resource person.",
+                "One day seminar on Recent Trend’s in Electronics - Influence of Internet of Things & Industrial Internet of Things was organized by P.Sasikala on 04th March, 2020 and Mr.S.Venkataramanan, Director (It Operations), Upplipalayam, Coimbatore was the resource person.",
+                "One day seminar on How to File a Patent was organized by M. Arunkumar on 08th Feb, 2020 and Mr.M.Arunkumar, Assistant Professor / ECE was the resource person.",
+                "One day seminar on Linear Integrated Circuits was organized by P.Sasikala on 29th Jan, 2020 and Mr.T.Muthukumaraswamy, Project Manager, CAD Point, Coimbatore was the resource person.",
+                "One day seminar on Microprocessors and Microcontrollers was organized by M.Darani Kumar on 28th Jan, 2020 and K.Jeevananth, Pebble Electronics, Coimbatore was the resource person.",
+                "One day seminar on A Novel Methodology For Fracture Detection In Bone Images was organized by Ms.s. Jayachitra on 25th Jan, 2020 and Ms.s. Jayachitra , Assistant Professor / ECE was the resource person.",
+                "One day seminar on Recent Trends in Medical Electronics was organized by Dr.A.Mohanarathinam on 23rd Jan, 2020 and Dr.BRJ.Sathish Kumar, MBBS, MS (ortho), DNB (ortho) Chief Orthopedic Surgeon-Joint Replacement Specialist, BRJ Ortho Centre and MAK Hospital, Coimbatore was the resource person.",
+                "One day Guest Lecture on Tools Used for Digital System Design was organized by Dr.S.Bhavani on 25/07/2019, RANJEETH, Application Engineer, Thik technologies, Coimbatore was the resource person",
+                "One day Guest Lecture on Basic of Electronics was organized by Mrs.P.Sasikala on 19/07/2019, MR.ANAND, MD, Lams Voltaic Automation Pvt.Ltd., was the resource person",
+                "One day Guest Lecture on Introduction for Robotics & Artificial Intelligence was organized by P.Sasikala on 04/07/2019, ROHIT R MENON, Business Development Manager, Technoxian, New delhi was the resource person"
+              ]
+            },
+
+            {
+              "title": "National Conference Organized",
+              "contentList": [
+                "2nd National Level Under Graduate Research Conference was conducted on February 05, 2019."
+              ]
+            },
+            {
+              "title": "National level Technical Symposium",
+              "contentList": [
+                "One day National level Technical Symposium was conducted on February 19, 2019."
+              ]
+            },
+            {
+              "title": "Workshop",
+              "contentList": [
+                "One day workshop on Research Methodologies for Engineers was organized by Dr.S.Kamalraj on 11th March, 2020 and Dr.K.Ravichandran, Ph.D, FIRI.,Dean, Anna University Regional Campus Coimbatore,  V.R.Vijaya Kumar, Ph.D. Anna University Regional Campus Coimbatore &  Dr.M.Sabrigiriraj, Ph.D. SVS College of Engineering, Coimbatore were resource persons.",
+                "One day workshop on Embedded Training Programme was organized by Dr.K.G.Dharani  on 21st Jan, 2020 and   B.Gopalakrishnan, Embedded Developer, Career Vision Embedded Academy (3Q Technologies), Coimbatore was the resource person.",
+                "Seven days workshop on Data Science and Big Data Analytics       was organized by Mr.G.R Mahendra babu from 05.12.2019 to 13.12.2019 and Dr.K.G Dharani,ASP / ECE, Dr.A.Mohanarathinam,AP/ECE, Mr.G.R Mahendra babu, AP/ECE, Mrs.P.Sasikala, AP/ECE, Karpagam Academy of Higher Education, Coimbatore were the resource persons"
+              ]
+            }
+          ]
+        },
+
+        {
+          "title": "2018-19",
+          "multiContent": [
+            {
+              "title": "FDP arranged",
+              "contentList": [
+                "Three days National level FDP on “Sales Force Essentials for Business Specialists” was conducted on November 16, 2018 to November 28, 2018."
+              ]
+            },
+            {
+              "title": "Workshop arranged",
+              "contentList": [
+                "Five Days Workshop on “Optical Fiber Cable Technology” was conducted on October 31, 2018 and November 13, 2018 to November 16, 2018."
+              ]
+            },
+            {
+              "title": "National level Technical Symposium",
+              "contentList": [
+                "One day National level technical symposium ECTRIX-18 was conducted on March 09, 2018."
+              ]
+            },
+            {
+              "title": "National Conference Organized",
+              "contentList": [
+                "One day National level Under Graduate Research Conference was conducted on March 23, 2018."
+              ]
+            },
+            {
+              "title": "Guest Lectures and Seminar arranged",
+              "contentList": [
+                "One day Guest Lecture for “Sensors and transducers” was conducted on January 04, 2018.",
+                "One day National level Seminar on “How to Write Research Paper and Publish in Reputed Journals” was conducted on August 30, 2018.",
+                "One day National level workshop on “Analog VLSI Design using CADENCE EDA tools” was conducted on September 25, 2018.",
+                "One day Guest Lecture on “Electronic devices” was conducted on July 13, 2018.",
+                "One day Guest Lecture on “Digital Electronics” was conducted on July 25, 2018.",
+                "One day Seminar on Microprocessors and Controllers in IoT design was conducted on August 11, 2018.",
+                "Two days workshop on “Digital Electronics” was conducted on August 16, 2018 to August 20, 2018.",
+                "One day Seminar on “Electro Magnetic fields” was conducted on September 08, 2018.",
+                "Four days Workshop on “Wireless Communication” was conducted on September 26, 2018 to September 29, 2018."
+              ]
+            }
+          ]
+        },
+
+        {
+          "title": "2017-18",
+          "multiContent": [
+            {
+              "title": "National level Technical Symposium",
+              "contentList": [
+                "One day National Level Technical Symposium-ECTRIX-2k17 was conducted on February 21, 2017."
+              ]
+            },
+            {
+              "title": "Hands on training arranged",
+              "contentList": [
+                "One day National Hands on Workshop on Processing of “Bio signal using MATLAB” was conducted on March 01, 2017.",
+                "Hands on training on “Motion capturing VFx using Matlab” was conducted on September 07, 2017 and September 08, 2017."
+              ]
+            },
+            {
+              "title": "Guest Lectures arranged",
+              "contentList": [
+                "One day Seminar on “ARM processor” was conducted on January 04, 2017.",
+                "One day Guest Lecture on “Digital signal processing” was conducted on January 05, 2017.",
+                "One day Guest Lecture on “Transmission lines and waveguides” was conducted on January 10, 2017.",
+                "One day Guest Lecture on “ Embedded system” was conducted on January 18, 2017.",
+                "One day seminar on “Bio signal processing” was conducted on February 15, 2017.",
+                "One day Guest lecture on “Digital Communication” was conducted on February 14, 2017.",
+                "One day Guest Lecture on “Control Systems” was conducted on February 28, 2017.",
+                "One day Guest Lecture for “Digital Electronics” was conducted on July 18, 2017.",
+                "One day Seminar on “Digital Signal Processing ” was conducted on July 14, 2017",
+                "One day Seminar on “Human Anatomy and Physiology” was conducted on July 14, 2017.",
+                "ICMR Sponsored seminar on “Uterine Fibroids and Infertility in Adolescent Girls” was conducted on September 26, 2017 to September 27, 2017."
+              ]
+            },
+            {
+              "title": "Workshop Arranged",
+              "contentList": [
+                "One Day National Level Workshop on “Analog Design Using Cadence Tool” was conducted on September 14, 2017."
+              ]
+            }
+          ]
+        },
+
+        {
+          "title": "2016-17",
+          "multiContent": [
+            {
+              "title": "Faculty development Programme",
+              "contentList": [
+                "Two days FDP on Analog Design using Cadence EDA tools was conducted on November 29, 2017 and November 30, 2017.",
+                "One day FDP on Introduction to Cadence EDA tools for Non-teaching Faculty was conducted on April 16, 2016."
+              ]
+            },
+            {
+              "title": "Guest Lectures and seminars arranged",
+              "contentList": [
+                "One day Seminar on \"Analysis of Signals” was conducted on December 13, 2017",
+                "One day Seminar on \"NS3 Simulator for Wireless Networks\" was conducted on December 20, 2017",
+                "One day Guest Lecture for \"Application of Analog Circuits\" was conducted on December 19, 2017",
+                "One day Guest Lecture for \"Linear Integrated Circuits\" was conducted on December 14, 2017"
+              ]
+            },
+            {
+              "title": "Workshop Arranged",
+              "contentList": [
+                "One day National Level Workshop on “Digital Design Using Cadence Tool” was conducted on February 27, 2016."
+              ]
+            },
+            {
+              "title": "National level Technical Symposium",
+              "contentList": [
+                "One day National Level Technical Symposium-ECTRIX-2k16 was conducted on February 11, 2016"
+              ]
+            }
+          ]
+        },
+
+        {
+          "title": "2015-16",
+          "multiContent": [
+            {
+              "title": "International/ National Conferences, Seminars, etc.",
+              "contentList": [
+                "The department of Computer Science and Engineering organized a one day National level conference on Emerging Trends in Information Technology (NCETIT) on 26.02.2015.",
+                "The School of Architecture Organized A Series of National Level Programmes, One an Inaugural Function, the other Two being Conferences on Urban Design, and Principles of Architecture in Film Industry on July 13, 2015, July 23, 2015 and October 08, 2015 respectively.",
+                "The Department of Electronics and Communication Engineering organized a National level workshop on Hands on Training in Processing of Bio signals using MATLAB on September 11, 2015."
+              ]
+            },
+            {
+              "title": "Guest Lectures / Workshops, etc.",
+              "contentList": [
+                "The Department of Mechanical Engineering organized seminars on Product Design, Product Development in Automobile industry, Motivation to students on July 10, 2015, August 26, 2015 and September 18, 2015 respectively and a workshop on Refrigeration and Air Conditioning – A Futuristic Perspective on September 23, 2015.",
+                "Hands on Training in Designing PIC Microcontroller was conducted on October 03, 2016 to October 07, 2016.",
+                "Workshop on Arudino and Raspberry PI Using Embedded Controller was conducted on October 04, 2016 – October 08, 2016."
+              ]
+            }
           ]
         }
       ]

@@ -48,6 +48,26 @@ const AnnualResearchArchives = () => {
             <SliderContent data={research?.annualResearch14} />
           </section>
 
+          <section className="section-wid section-bg1">
+            <SliderContent
+              data={research?.annualResearch13}
+              order={"imageFirst"}
+            />
+          </section>
+          <section className="section-wid section-bg1">
+            <SliderContent data={research?.annualResearch12} />
+          </section>
+
+          <section className="section-wid section-bg1">
+            <SliderContent
+              data={research?.annualResearch11}
+              order={"imageFirst"}
+            />
+          </section>
+
+          <section className="section-wid section-bg1">
+            <SliderContent data={research?.annualResearch10} />
+          </section>
           <Sidebar2 subMenu={Research} />
         </Context>
       </Provider>

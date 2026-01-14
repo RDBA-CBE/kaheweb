@@ -37,7 +37,7 @@ const HeaderLogos = ({ gapSpaceBetween, sticky, navigationEnd, container }) => {
       >
         <div className={`${container}`}>
           <div className={`mainbar-row ${navigationEnd} align-items-center`}>
-            <div className="header-left">
+            <div className="header-left d-flex">
               <div className="logo">
                 <Link href="/">
                   {isLightTheme ? (
@@ -59,6 +59,13 @@ const HeaderLogos = ({ gapSpaceBetween, sticky, navigationEnd, container }) => {
                   )}
                 </Link>
               </div>
+              <Image
+                src="/images/Kahe/Innerpages/naac.png"
+                width={80}
+                height={50}
+                priority={true}
+                alt="Education Logo Images"
+              />
             </div>
             <div className=" d-none d-xl-block">
               <div className="d-flex ">
@@ -73,32 +80,50 @@ const HeaderLogos = ({ gapSpaceBetween, sticky, navigationEnd, container }) => {
                 <div className="header-info d-flex flex-column justify-content-center">
                   <ul className="social-share-transparent">
                     <li>
-                      <Link href="https://www.facebook.com/wekaheians/" target="_blank">
+                      <Link
+                        href="https://www.facebook.com/wekaheians/"
+                        target="_blank"
+                      >
                         <i className="fab fa-facebook-f"></i>
                       </Link>
                     </li>
                     <li>
-                      <Link href="https://twitter.com/wekaheians" target="_blank">
+                      <Link
+                        href="https://twitter.com/wekaheians"
+                        target="_blank"
+                      >
                         <i className="fab ">𝕏</i>
                       </Link>
                     </li>
                     <li>
-                      <Link href="https://www.linkedin.com/company/wekaheians/about/?viewAsMember=true" target="_blank">
+                      <Link
+                        href="https://www.linkedin.com/company/wekaheians/about/?viewAsMember=true"
+                        target="_blank"
+                      >
                         <i className="fab fa-linkedin-in"></i>
                       </Link>
                     </li>
                     <li>
-                      <Link href="https://instagram.com/wekaheians?igshid=NGExMmI2YTkyZg==" target="_blank">
+                      <Link
+                        href="https://instagram.com/wekaheians?igshid=NGExMmI2YTkyZg=="
+                        target="_blank"
+                      >
                         <i className="fab fa-instagram"></i>
                       </Link>
                     </li>
-                    {/* <li>
-                    <Link href="#">
-                      <i className="fab fa-skype"></i>
-                    </Link>
-                  </li> */}
+
                     <li>
-                      <Link href="https://www.youtube.com/@wekaheians" target="_blank">
+                      <Link href="https://in.pinterest.com/wekaheians/" 
+                      target="_blank">
+                        <i className="fab fa-pinterest"></i>
+                      </Link>
+                    </li>
+
+                    <li>
+                      <Link
+                        href="https://www.youtube.com/@wekaheians"
+                        target="_blank"
+                      >
                         <i className="fab fa-youtube"></i>
                       </Link>
                     </li>

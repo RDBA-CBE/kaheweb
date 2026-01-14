@@ -165,6 +165,10 @@ const Eventspage = ({ eventsContent }) => {
               ))}
             </div>
           </div>
+
+          <div className="section-bg1">
+            {eventsContent?.images && <ImageGrid data={eventsContent?.images} />}
+          </div>
         </div>
       </div>
     </>

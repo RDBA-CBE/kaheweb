@@ -21,11 +21,37 @@ const CampusEventGallery = ({ data }) => {
     };
   }, []);
 
+  const goBack = () => {
+    window.history.back();
+  };
+
   console.log("data", data);
 
   return (
     <section className="section-wid gal-pg section-bg1">
-      <h2 className="decor-ti">{data?.title}</h2>
+      <div className="section-title d-flex justify-content-between ">
+        <h2 className="decor-ti">{data?.title}</h2>
+
+        <div className=" d-flex ">
+          <div className="py-0">
+            <div
+              onClick={goBack}
+              className="kahe-btn-primary rbt-btn hover-icon-reverse"
+              style={{ cursor: "pointer" }}
+            >
+              <span className="icon-reverse-wrapper">
+                <span className="btn-text">Go Back</span>
+                <span className="btn-icon">
+                  <i className="feather-arrow-right"></i>
+                </span>
+                <span className="btn-icon">
+                  <i className="feather-arrow-right"></i>
+                </span>
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
 
       <div className="row g-4 rbt-course-grid">
         {data?.images?.map((item, index) => (
