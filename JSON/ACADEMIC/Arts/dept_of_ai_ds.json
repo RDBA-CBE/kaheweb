@@ -2,7 +2,7 @@
   "title": "Department of Artificial Intelligence & Data Science",
   "bannerCon": "Innovating at the intersection of Artificial Intelligence and Data Science, to drive smarter and impactful solutions.",
   "applyLink": "#",
-  "bannerImg": "/images/Kahe/academics/arts-and-science/computersciences/computerscience-banner.webp",
+  "bannerImg": "/images/Kahe/academics/arts-and-science/ai/ai-banner.webp",
   "tabs": [
     {
       "id": "overview",
@@ -49,7 +49,7 @@
           "type": "overview",
           "subTitle": "Overview",
           "contents": "Established in 2021, the Department of Artificial Intelligence and Data Science at the undergraduate level stands as a forward-thinking center for academic and technical excellence, dedicated to shaping skilled professionals in the rapidly evolving domains of AI and data science. The department offers a contemporary curriculum that integrates theoretical foundations with practical, project-based learning, ensuring students gain hands-on experience with the latest tools and methodologies. Students benefit from state-of-the-art laboratories, experienced faculty, and industry partnerships that foster exposure to real-world challenges, research opportunities, and career-oriented events. Emphasizing an interdisciplinary approach, the department encourages innovation in areas such as machine learning, big data analytics, and ethical AI, while nurturing qualities like leadership, critical thinking, and social responsibility. Since its inception in 2021, the department has aimed to produce graduates who are technically adept, ethically grounded, and adaptable to the future needs of industry and society.",
-          "image": "/images/others/video-07.jpg"
+          "image": "/images/Kahe/academics/arts-and-science/ai/overview.webp"
         },
         {
           "type": "vision",
@@ -137,7 +137,7 @@
           {
             "key": "ug",
             "title": "B.Sc. Artificial Intelligence and Data Science",
-            "img": "/images/others/health-b-02.png",
+            "img": "/images/Kahe/academics/arts-and-science/ai/studentprogrammes.webp",
             "multiItems": [
               {
                 "title": "Programme",
@@ -154,7 +154,7 @@
           {
             "key": "bsc-ai-ds",
             "title": "B.Sc. Artificial Intelligence and Data Science",
-            "img": "/images/others/health-b-02.png",
+            "img": "/images/Kahe/academics/arts-and-science/ai/studentprogrammes.webp",
             "type": "curriculum",
             "items": [
               {

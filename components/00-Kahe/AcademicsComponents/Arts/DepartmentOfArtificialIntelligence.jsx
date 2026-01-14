@@ -23,7 +23,7 @@ const DepartmentOfArtificialIntelligence = () => {
       href: `academics/arts-science-and-humanities/`,
     },
 
-    { label: "Department of Commerce" },
+    { label: "Department of Artificial Intelligence & Data Science" },
   ];
   return (
     <>
