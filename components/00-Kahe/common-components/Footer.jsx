@@ -481,11 +481,11 @@ const Footer = () => {
                     <i className="fab fa-instagram"></i>
                   </Link>
                 </li>
-                {/* <li>
-                    <Link href="#">
-                      <i className="fab fa-skype"></i>
+                <li>
+                    <Link href="https://in.pinterest.com/wekaheians/" target="_blank">
+                      <i className="fab fa-pinterest"></i>
                     </Link>
-                  </li> */}
+                  </li>
                 <li>
                   <Link href="https://www.youtube.com/@wekaheians" target="_blank">
                     <i className="fab fa-youtube"></i>

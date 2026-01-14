@@ -6,230 +6,2075 @@
     "applyLink": "/"
   },
 
-  "convocation2024": {
-    "title": "Convocation 2024",
-    "slug": "convocation2024",
-    "images": [
-      {
-        "id": 1,
-        "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/1-2-230x150.jpg"
-      },
-      {
-        "id": 2,
-        "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/2-2-230x150.jpg"
-      },
-      {
-        "id": 3,
-        "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/3-2-230x150.jpg"
-      },
-      {
-        "id": 4,
-        "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/4-2-230x150.jpg"
-      },
-      {
-        "id": 5,
-        "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/5-2-230x150.jpg"
-      },
-      {
-        "id": 6,
-        "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/6-2-230x150.jpg"
-      },
-      {
-        "id": 7,
-        "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/7-2-230x150.jpg"
-      },
-      {
-        "id": 8,
-        "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/8-2-230x150.jpg"
-      }
-    ]
-  },
+  "galleryItmes": [
+    {
+      "title": "Convocation 2024",
+      "slug": "convocation2024",
+      "breadcrumbItems": [
+        {
+          "label": "Campus Life",
+          "href": "campus-life"
+        },
+        {
+          "label": "Campus Events",
+          "href": "/campus-life/campus-events"
+        },
 
-  "digitalPenne": {
-    "title": "Digital Penne",
-    "slug": "digitalPenne",
-    "images": [
-      {
-        "id": 1,
-        "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/01/degital-penne-1-230x150.jpg",
-        "alt": "top 10 msc physics colleges in india",
-        "title": "degital-penne-1"
-      },
-      {
-        "id": 2,
-        "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/01/degital-penne-2-230x150.jpg",
-        "alt": "KAHE, Best Mba Colleges in Coimbatore",
-        "title": "degital-penne-2"
-      },
-      {
-        "id": 3,
-        "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/01/degital-penne-3-230x150.jpg",
-        "alt": "best electronics and telecommunications engineering colleges in coimbatore",
-        "title": "degital-penne-3"
-      },
-      {
-        "id": 4,
-        "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/01/degital-penne-4-230x150.jpg",
-        "alt": "top 10 pharmacy colleges in coimbatore",
-        "title": "degital-penne-4"
-      },
-      {
-        "id": 5,
-        "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/01/degital-penne-5-230x150.jpg",
-        "alt": "best placement engineering colleges in coimbatore",
-        "title": "degital-penne-5"
-      },
-      {
-        "id": 6,
-        "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/01/degital-penne-6-230x150.jpg",
-        "alt": "best mca colleges in coimbatore",
-        "title": "degital-penne-6"
-      },
-      {
-        "id": 7,
-        "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/01/degital-penne-7-230x150.jpg",
-        "alt": "coimbatore bca colleges",
-        "title": "degital-penne-7"
-      },
-      {
-        "id": 8,
-        "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/01/degital-penne-8-230x150.jpg",
-        "alt": "cyber security colleges in coimbatore",
-        "title": "degital-penne-8"
-      }
-    ]
-  },
+        {
+          "label": "Campus Gallery"
+        },
+        {
+          "label": "convocation2024"
+        }
+      ],
+      "images": [
+        {
+          "id": 1,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/1-2-230x150.jpg"
+        },
+        {
+          "id": 2,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/2-2-230x150.jpg"
+        },
+        {
+          "id": 3,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/3-2-230x150.jpg"
+        },
+        {
+          "id": 4,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/4-2-230x150.jpg"
+        },
+        {
+          "id": 5,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/5-2-230x150.jpg"
+        },
+        {
+          "id": 6,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/6-2-230x150.jpg"
+        },
+        {
+          "id": 7,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/7-2-230x150.jpg"
+        },
+        {
+          "id": 8,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/8-2-230x150.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Digital Penne",
+      "slug": "digitalPenne",
+      "breadcrumbItems": [
+        {
+          "label": "Campus Life",
+          "href": "campus-life"
+        },
+        {
+          "label": "Campus Events",
+          "href": "/campus-life/campus-events"
+        },
 
-  "OrientationFASCM": {
-    "title": "Orientation FASCM",
-    "slug": "OrientationFASCM",
-    "images": [
-      {
-        "id": 1,
-        "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/4-8-230x150.jpg",
-        "alt": "4",
-        "title": "4"
-      },
-      {
-        "id": 2,
-        "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/5-8-230x150.jpg",
-        "alt": "5",
-        "title": "5"
-      },
-      {
-        "id": 3,
-        "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/6-8-230x150.jpg",
-        "alt": "6",
-        "title": "6"
-      },
-      {
-        "id": 4,
-        "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/7-8-230x150.jpg",
-        "alt": "7",
-        "title": "7"
-      },
-      {
-        "id": 5,
-        "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/8-8-230x150.jpg",
-        "alt": "8",
-        "title": "8"
-      },
-      {
-        "id": 6,
-        "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/9-5-230x150.jpg",
-        "alt": "9",
-        "title": "9"
-      },
-      {
-        "id": 7,
-        "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/1-8-230x150.jpg",
-        "alt": "1",
-        "title": "1"
-      },
-      {
-        "id": 8,
-        "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/2-8-230x150.jpg",
-        "alt": "2",
-        "title": "2"
-      },
-      {
-        "id": 9,
-        "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/3-8-230x150.jpg",
-        "alt": "3",
-        "title": "3"
-      },
-      {
-        "id": 10,
-        "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/10-5-230x150.jpg",
-        "alt": "10",
-        "title": "10"
-      },
-      {
-        "id": 11,
-        "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/11-5-230x150.jpg",
-        "alt": "11",
-        "title": "11"
-      },
-      {
-        "id": 12,
-        "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/12-5-230x150.jpg",
-        "alt": "12",
-        "title": "12"
-      },
-      {
-        "id": 13,
-        "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/13-5-230x150.jpg",
-        "alt": "13",
-        "title": "13"
-      },
-      {
-        "id": 14,
-        "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/14-5-230x150.jpg",
-        "alt": "14",
-        "title": "14"
-      },
-      {
-        "id": 15,
-        "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/15-5-230x150.jpg",
-        "alt": "15",
-        "title": "15"
-      },
-      {
-        "id": 16,
-        "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/16-5-230x150.jpg",
-        "alt": "16",
-        "title": "16"
-      },
-      {
-        "id": 17,
-        "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/17-5-230x150.jpg",
-        "alt": "17",
-        "title": "17"
-      },
-      {
-        "id": 18,
-        "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/18-5-230x150.jpg",
-        "alt": "18",
-        "title": "18"
-      },
-      {
-        "id": 19,
-        "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/19-5-230x150.jpg",
-        "alt": "19",
-        "title": "19"
-      },
-      {
-        "id": 20,
-        "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/20-5-230x150.jpg",
-        "alt": "20",
-        "title": "20"
-      },
-      {
-        "id": 21,
-        "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/21-5-230x150.jpg",
-        "alt": "21",
-        "title": "21"
-      }
-    ]
-  }
+        {
+          "label": "Campus Gallery"
+        },
+        {
+          "label": "digitalPenne"
+        }
+      ],
+      "images": [
+        {
+          "id": 1,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/01/degital-penne-1-230x150.jpg",
+          "alt": "top 10 msc physics colleges in india",
+          "title": "degital-penne-1"
+        },
+        {
+          "id": 2,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/01/degital-penne-2-230x150.jpg",
+          "alt": "KAHE, Best Mba Colleges in Coimbatore",
+          "title": "degital-penne-2"
+        },
+        {
+          "id": 3,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/01/degital-penne-3-230x150.jpg",
+          "alt": "best electronics and telecommunications engineering colleges in coimbatore",
+          "title": "degital-penne-3"
+        },
+        {
+          "id": 4,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/01/degital-penne-4-230x150.jpg",
+          "alt": "top 10 pharmacy colleges in coimbatore",
+          "title": "degital-penne-4"
+        },
+        {
+          "id": 5,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/01/degital-penne-5-230x150.jpg",
+          "alt": "best placement engineering colleges in coimbatore",
+          "title": "degital-penne-5"
+        },
+        {
+          "id": 6,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/01/degital-penne-6-230x150.jpg",
+          "alt": "best mca colleges in coimbatore",
+          "title": "degital-penne-6"
+        },
+        {
+          "id": 7,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/01/degital-penne-7-230x150.jpg",
+          "alt": "coimbatore bca colleges",
+          "title": "degital-penne-7"
+        },
+        {
+          "id": 8,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/01/degital-penne-8-230x150.jpg",
+          "alt": "cyber security colleges in coimbatore",
+          "title": "degital-penne-8"
+        }
+      ]
+    },
+    {
+      "title": "Orientation FASCM",
+      "slug": "OrientationFASCM",
+      "breadcrumbItems": [
+        {
+          "label": "Campus Life",
+          "href": "campus-life"
+        },
+        {
+          "label": "Campus Events",
+          "href": "/campus-life/campus-events"
+        },
+
+        {
+          "label": "Campus Gallery"
+        },
+        {
+          "label": "OrientationFASCM"
+        }
+      ],
+      "images": [
+        {
+          "id": 1,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/4-8-230x150.jpg",
+          "alt": "4",
+          "title": "4"
+        },
+        {
+          "id": 2,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/5-8-230x150.jpg",
+          "alt": "5",
+          "title": "5"
+        },
+        {
+          "id": 3,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/6-8-230x150.jpg",
+          "alt": "6",
+          "title": "6"
+        },
+        {
+          "id": 4,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/7-8-230x150.jpg",
+          "alt": "7",
+          "title": "7"
+        },
+        {
+          "id": 5,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/8-8-230x150.jpg",
+          "alt": "8",
+          "title": "8"
+        },
+        {
+          "id": 6,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/9-5-230x150.jpg",
+          "alt": "9",
+          "title": "9"
+        },
+        {
+          "id": 7,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/1-8-230x150.jpg",
+          "alt": "1",
+          "title": "1"
+        },
+        {
+          "id": 8,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/2-8-230x150.jpg",
+          "alt": "2",
+          "title": "2"
+        },
+        {
+          "id": 9,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/3-8-230x150.jpg",
+          "alt": "3",
+          "title": "3"
+        },
+        {
+          "id": 10,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/10-5-230x150.jpg",
+          "alt": "10",
+          "title": "10"
+        },
+        {
+          "id": 11,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/11-5-230x150.jpg",
+          "alt": "11",
+          "title": "11"
+        },
+        {
+          "id": 12,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/12-5-230x150.jpg",
+          "alt": "12",
+          "title": "12"
+        },
+        {
+          "id": 13,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/13-5-230x150.jpg",
+          "alt": "13",
+          "title": "13"
+        },
+        {
+          "id": 14,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/14-5-230x150.jpg",
+          "alt": "14",
+          "title": "14"
+        },
+        {
+          "id": 15,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/15-5-230x150.jpg",
+          "alt": "15",
+          "title": "15"
+        },
+        {
+          "id": 16,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/16-5-230x150.jpg",
+          "alt": "16",
+          "title": "16"
+        },
+        {
+          "id": 17,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/17-5-230x150.jpg",
+          "alt": "17",
+          "title": "17"
+        },
+        {
+          "id": 18,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/18-5-230x150.jpg",
+          "alt": "18",
+          "title": "18"
+        },
+        {
+          "id": 19,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/19-5-230x150.jpg",
+          "alt": "19",
+          "title": "19"
+        },
+        {
+          "id": 20,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/20-5-230x150.jpg",
+          "alt": "20",
+          "title": "20"
+        },
+        {
+          "id": 21,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/21-5-230x150.jpg",
+          "alt": "21",
+          "title": "21"
+        }
+      ]
+    },
+
+    {
+      "title": "Orientation FOE",
+      "slug": "orientationFOE",
+      "breadcrumbItems": [
+        {
+          "label": "Campus Life",
+          "href": "campus-life"
+        },
+        {
+          "label": "Campus Events",
+          "href": "/campus-life/campus-events"
+        },
+
+        {
+          "label": "Campus Gallery"
+        },
+        {
+          "label": "Orientation FOE"
+        }
+      ],
+      "images": [
+        {
+          "id": 1,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/3-7-230x150.jpg"
+        },
+        {
+          "id": 2,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/4-7-230x150.jpg"
+        },
+        {
+          "id": 3,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/5-7-230x150.jpg"
+        },
+        {
+          "id": 4,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/6-7-230x150.jpg"
+        },
+        {
+          "id": 5,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/9-4-230x150.jpg"
+        },
+        {
+          "id": 6,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/1-7-230x150.jpg"
+        },
+        {
+          "id": 7,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/2-7-230x150.jpg"
+        },
+        {
+          "id": 8,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/11-4-230x150.jpg"
+        },
+        {
+          "id": 9,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/12-4-230x150.jpg"
+        },
+        {
+          "id": 10,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/13-4-230x150.jpg"
+        },
+        {
+          "id": 11,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/14-4-230x150.jpg"
+        },
+        {
+          "id": 12,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/15-4-230x150.jpg"
+        },
+        {
+          "id": 13,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/16-4-230x150.jpg"
+        },
+        {
+          "id": 14,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/17-4-230x150.jpg"
+        },
+        {
+          "id": 15,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/18-4-230x150.jpg"
+        },
+        {
+          "id": 16,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/19-4-230x150.jpg"
+        },
+        {
+          "id": 17,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/20-4-230x150.jpg"
+        },
+        {
+          "id": 18,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/21-4-230x150.jpg"
+        },
+        {
+          "id": 19,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/22-4-230x150.jpg"
+        }
+      ]
+    },
+
+    {
+      "title": "Independance Day",
+      "slug": "independance-day",
+      "breadcrumbItems": [
+        { "label": "Campus Life", "href": "campus-life" },
+        { "label": "Campus Events", "href": "/campus-life/campus-events" },
+        { "label": "Campus Gallery" },
+        { "label": "Independance Day" }
+      ],
+      "images": [
+        {
+          "id": 1,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/4-6-230x150.jpg"
+        },
+        {
+          "id": 2,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/5-6-230x150.jpg"
+        },
+        {
+          "id": 3,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/6-6-230x150.jpg"
+        },
+        {
+          "id": 4,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/7-6-230x150.jpg"
+        },
+        {
+          "id": 5,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/8-6-230x150.jpg"
+        },
+        {
+          "id": 6,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/9-3-230x150.jpg"
+        },
+        {
+          "id": 7,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/30-3-230x150.jpg"
+        },
+        {
+          "id": 8,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/2-6-230x150.jpg"
+        },
+        {
+          "id": 9,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/3-6-230x150.jpg"
+        },
+        {
+          "id": 10,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/12-3-230x150.jpg"
+        },
+        {
+          "id": 11,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/13-3-230x150.jpg"
+        },
+        {
+          "id": 12,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/14-3-230x150.jpg"
+        },
+        {
+          "id": 13,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/15-3-230x150.jpg"
+        },
+        {
+          "id": 14,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/16-3-230x150.jpg"
+        },
+        {
+          "id": 15,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/17-3-230x150.jpg"
+        },
+        {
+          "id": 16,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/18-3-230x150.jpg"
+        },
+        {
+          "id": 17,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/19-3-230x150.jpg"
+        },
+        {
+          "id": 18,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/20-3-230x150.jpg"
+        },
+        {
+          "id": 19,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/21-3-230x150.jpg"
+        },
+        {
+          "id": 20,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/22-3-230x150.jpg"
+        },
+        {
+          "id": 21,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/23-3-230x150.jpg"
+        },
+        {
+          "id": 22,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/24-3-230x150.jpg"
+        },
+        {
+          "id": 23,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/25-3-230x150.jpg"
+        },
+        {
+          "id": 24,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/26-3-230x150.jpg"
+        },
+        {
+          "id": 25,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/27-3-230x150.jpg"
+        },
+        {
+          "id": 26,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/28-3-230x150.jpg"
+        },
+        {
+          "id": 27,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/29-3-230x150.jpg"
+        },
+        {
+          "id": 28,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/1-6-230x150.jpg"
+        },
+        {
+          "id": 29,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/10-3-230x150.jpg"
+        },
+        {
+          "id": 30,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/11-3-230x150.jpg"
+        }
+      ]
+    },
+
+    {
+      "title": "Pongal Day",
+      "slug": "pongal-day",
+      "breadcrumbItems": [
+        { "label": "Campus Life", "href": "campus-life" },
+        { "label": "Campus Events", "href": "/campus-life/campus-events" },
+        { "label": "Campus Gallery" },
+        { "label": "Pongal Day" }
+      ],
+      "images": [
+        {
+          "id": 1,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/3-5-230x150.jpg"
+        },
+        {
+          "id": 2,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/4-5-230x150.jpg"
+        },
+        {
+          "id": 3,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/5-5-230x150.jpg"
+        },
+        {
+          "id": 4,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/6-5-230x150.jpg"
+        },
+        {
+          "id": 5,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/7-5-230x150.jpg"
+        },
+        {
+          "id": 6,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/8-5-230x150.jpg"
+        },
+        {
+          "id": 7,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/9-2-230x150.jpg"
+        },
+        {
+          "id": 8,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/21-2-230x150.jpg"
+        },
+        {
+          "id": 9,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/22-2-230x150.jpg"
+        },
+        {
+          "id": 10,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/23-2-230x150.jpg"
+        },
+        {
+          "id": 11,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/24-2-230x150.jpg"
+        },
+        {
+          "id": 12,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/25-2-230x150.jpg"
+        },
+        {
+          "id": 13,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/26-2-230x150.jpg"
+        },
+        {
+          "id": 14,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/27-2-230x150.jpg"
+        },
+        {
+          "id": 15,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/28-2-230x150.jpg"
+        },
+        {
+          "id": 16,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/29-2-230x150.jpg"
+        },
+        {
+          "id": 17,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/30-2-230x150.jpg"
+        },
+        {
+          "id": 18,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/1-5-230x150.jpg"
+        },
+        {
+          "id": 19,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/2-5-230x150.jpg"
+        },
+        {
+          "id": 20,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/10-2-230x150.jpg"
+        },
+        {
+          "id": 21,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/11-2-230x150.jpg"
+        },
+        {
+          "id": 22,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/12-2-230x150.jpg"
+        },
+        {
+          "id": 23,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/13-2-230x150.jpg"
+        },
+        {
+          "id": 24,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/14-2-230x150.jpg"
+        },
+        {
+          "id": 25,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/15-2-230x150.jpg"
+        },
+        {
+          "id": 26,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/16-2-230x150.jpg"
+        },
+        {
+          "id": 27,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/17-2-230x150.jpg"
+        },
+        {
+          "id": 28,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/18-2-230x150.jpg"
+        },
+        {
+          "id": 29,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/19-2-230x150.jpg"
+        },
+        {
+          "id": 30,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/20-2-230x150.jpg"
+        }
+      ]
+    },
+
+    {
+      "title": "Pranaya 2024",
+      "slug": "pranaya-2024",
+      "images": [
+        {
+          "id": 1,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/34-1-230x150.jpg"
+        },
+        {
+          "id": 2,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/27-1-230x150.jpg"
+        },
+        {
+          "id": 3,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/12-1-230x150.jpg"
+        },
+        {
+          "id": 4,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/25-1-230x150.jpg"
+        },
+        {
+          "id": 5,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/9-1-230x150.jpg"
+        },
+        {
+          "id": 6,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/21-1-230x150.jpg"
+        },
+        {
+          "id": 7,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/74-1-230x150.jpg"
+        },
+        {
+          "id": 8,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/75-1-230x150.jpg"
+        },
+        {
+          "id": 9,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/77-1-230x150.jpg"
+        },
+        {
+          "id": 10,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/80-1-230x150.jpg"
+        },
+        {
+          "id": 11,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/81-1-230x150.jpg"
+        },
+        {
+          "id": 12,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/7-4-230x150.jpg"
+        },
+        {
+          "id": 13,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/53-1-230x150.jpg"
+        },
+        {
+          "id": 14,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/55-1-230x150.jpg"
+        },
+        {
+          "id": 15,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/56-1-230x150.jpg"
+        },
+        {
+          "id": 16,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/57-1-230x150.jpg"
+        },
+        {
+          "id": 17,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/58-1-230x150.jpg"
+        },
+        {
+          "id": 18,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/59-1-230x150.jpg"
+        },
+        {
+          "id": 19,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/60-1-230x150.jpg"
+        },
+        {
+          "id": 20,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/61-1-230x150.jpg"
+        },
+        {
+          "id": 21,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/62-1-230x150.jpg"
+        },
+        {
+          "id": 22,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/63-1-230x150.jpg"
+        },
+        {
+          "id": 23,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/64-1-230x150.jpg"
+        },
+        {
+          "id": 24,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/65-1-230x150.jpg"
+        },
+        {
+          "id": 25,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/67-1-230x150.jpg"
+        },
+        {
+          "id": 26,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/68-1-230x150.jpg"
+        },
+        {
+          "id": 27,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/69-1-230x150.jpg"
+        },
+        {
+          "id": 28,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/70-1-230x150.jpg"
+        },
+        {
+          "id": 29,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/71-1-230x150.jpg"
+        },
+        {
+          "id": 30,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/72-1-230x150.jpg"
+        },
+        {
+          "id": 31,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/5-4-230x150.jpg"
+        },
+        {
+          "id": 32,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/31-1-230x150.jpg"
+        },
+        {
+          "id": 33,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/32-1-230x150.jpg"
+        },
+        {
+          "id": 34,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/35-1-230x150.jpg"
+        },
+        {
+          "id": 35,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/36-1-230x150.jpg"
+        },
+        {
+          "id": 36,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/39-1-230x150.jpg"
+        },
+        {
+          "id": 37,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/40-1-230x150.jpg"
+        },
+        {
+          "id": 38,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/41-1-230x150.jpg"
+        },
+        {
+          "id": 39,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/42-1-230x150.jpg"
+        },
+        {
+          "id": 40,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/43-1-230x150.jpg"
+        },
+        {
+          "id": 41,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/44-1-230x150.jpg"
+        },
+        {
+          "id": 42,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/45-1-230x150.jpg"
+        },
+        {
+          "id": 43,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/46-1-230x150.jpg"
+        },
+        {
+          "id": 44,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/47-1-230x150.jpg"
+        },
+        {
+          "id": 45,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/49-1-230x150.jpg"
+        },
+        {
+          "id": 46,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/50-1-230x150.jpg"
+        },
+        {
+          "id": 47,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/51-1-230x150.jpg"
+        },
+        {
+          "id": 48,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/3-4-230x150.jpg"
+        },
+        {
+          "id": 49,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/22-1-230x150.jpg"
+        },
+        {
+          "id": 50,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/11-1-230x150.jpg"
+        },
+        {
+          "id": 51,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/13-1-230x150.jpg"
+        },
+        {
+          "id": 52,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/2-4-230x150.jpg"
+        },
+        {
+          "id": 53,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/14-1-230x150.jpg"
+        },
+        {
+          "id": 54,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/19-1-230x150.jpg"
+        },
+        {
+          "id": 55,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/24-1-230x150.jpg"
+        },
+        {
+          "id": 56,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/28-1-230x150.jpg"
+        },
+        {
+          "id": 57,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/29-1-230x150.jpg"
+        },
+        {
+          "id": 58,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/30-1-230x150.jpg"
+        },
+        {
+          "id": 59,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/10-1-230x150.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Republic day",
+      "slug": "republic-day",
+      "breadcrumbItems": [
+        { "label": "Campus Life", "href": "campus-life" },
+        { "label": "Campus Events", "href": "/campus-life/campus-events" },
+        { "label": "Campus Gallery" },
+        { "label": "Republic day" }
+      ],
+      "images": [
+        {
+          "id": 1,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/7-3-230x150.jpg"
+        },
+        {
+          "id": 2,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/8-3-230x150.jpg"
+        },
+        {
+          "id": 3,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/9-230x150.jpg"
+        },
+        {
+          "id": 4,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/68-230x150.jpg"
+        },
+        {
+          "id": 5,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/69-230x150.jpg"
+        },
+        {
+          "id": 6,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/70-230x150.jpg"
+        },
+        {
+          "id": 7,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/71-230x150.jpg"
+        },
+        {
+          "id": 8,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/72-230x150.jpg"
+        },
+        {
+          "id": 9,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/73-230x150.jpg"
+        },
+        {
+          "id": 10,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/74-230x150.jpg"
+        },
+        {
+          "id": 11,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/75-230x150.jpg"
+        },
+        {
+          "id": 12,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/76-230x150.jpg"
+        },
+        {
+          "id": 13,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/77-230x150.jpg"
+        },
+        {
+          "id": 14,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/78-230x150.jpg"
+        },
+        {
+          "id": 15,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/79-230x150.jpg"
+        },
+        {
+          "id": 16,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/80-230x150.jpg"
+        },
+        {
+          "id": 17,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/81-230x150.jpg"
+        },
+        {
+          "id": 18,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/5-3-230x150.jpg"
+        },
+        {
+          "id": 19,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/6-3-230x150.jpg"
+        },
+        {
+          "id": 20,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/48-230x150.jpg"
+        },
+        {
+          "id": 21,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/49-230x150.jpg"
+        },
+        {
+          "id": 22,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/50-230x150.jpg"
+        },
+        {
+          "id": 23,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/51-230x150.jpg"
+        },
+        {
+          "id": 24,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/52-230x150.jpg"
+        },
+        {
+          "id": 25,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/53-230x150.jpg"
+        },
+        {
+          "id": 26,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/54-230x150.jpg"
+        },
+        {
+          "id": 27,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/55-230x150.jpg"
+        },
+        {
+          "id": 28,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/56-230x150.jpg"
+        },
+        {
+          "id": 29,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/57-230x150.jpg"
+        },
+        {
+          "id": 30,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/58-230x150.jpg"
+        },
+        {
+          "id": 31,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/59-230x150.jpg"
+        },
+        {
+          "id": 32,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/60-230x150.jpg"
+        },
+        {
+          "id": 33,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/61-230x150.jpg"
+        },
+        {
+          "id": 34,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/62-230x150.jpg"
+        },
+        {
+          "id": 35,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/63-230x150.jpg"
+        },
+        {
+          "id": 36,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/64-230x150.jpg"
+        },
+        {
+          "id": 37,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/65-230x150.jpg"
+        },
+        {
+          "id": 38,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/66-230x150.jpg"
+        },
+        {
+          "id": 39,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/67-230x150.jpg"
+        },
+        {
+          "id": 40,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/3-3-230x150.jpg"
+        },
+        {
+          "id": 41,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/4-3-230x150.jpg"
+        },
+        {
+          "id": 42,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/29-230x150.jpg"
+        },
+        {
+          "id": 43,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/30-230x150.jpg"
+        },
+        {
+          "id": 44,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/31-230x150.jpg"
+        },
+        {
+          "id": 45,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/32-230x150.jpg"
+        },
+        {
+          "id": 46,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/33-230x150.jpg"
+        },
+        {
+          "id": 47,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/34-230x150.jpg"
+        },
+        {
+          "id": 48,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/35-230x150.jpg"
+        },
+        {
+          "id": 49,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/36-230x150.jpg"
+        },
+        {
+          "id": 50,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/37-230x150.jpg"
+        },
+        {
+          "id": 51,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/38-230x150.jpg"
+        },
+        {
+          "id": 52,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/39-230x150.jpg"
+        },
+        {
+          "id": 53,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/40-230x150.jpg"
+        },
+        {
+          "id": 54,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/41-230x150.jpg"
+        },
+        {
+          "id": 55,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/42-230x150.jpg"
+        },
+        {
+          "id": 56,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/43-230x150.jpg"
+        },
+        {
+          "id": 57,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/44-230x150.jpg"
+        },
+        {
+          "id": 58,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/45-230x150.jpg"
+        },
+        {
+          "id": 59,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/46-230x150.jpg"
+        },
+        {
+          "id": 60,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/47-230x150.jpg"
+        },
+        {
+          "id": 61,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/1-3-230x150.jpg"
+        },
+        {
+          "id": 62,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/2-3-230x150.jpg"
+        },
+        {
+          "id": 63,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/10-230x150.jpg"
+        },
+        {
+          "id": 64,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/11-230x150.jpg"
+        },
+        {
+          "id": 65,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/12-230x150.jpg"
+        },
+        {
+          "id": 66,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/13-230x150.jpg"
+        },
+        {
+          "id": 67,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/14-230x150.jpg"
+        },
+        {
+          "id": 68,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/15-230x150.jpg"
+        },
+        {
+          "id": 69,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/16-230x150.jpg"
+        },
+        {
+          "id": 70,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/17-230x150.jpg"
+        },
+        {
+          "id": 71,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/18-230x150.jpg"
+        },
+        {
+          "id": 72,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/19-230x150.jpg"
+        },
+        {
+          "id": 73,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/20-230x150.jpg"
+        },
+        {
+          "id": 74,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/21-230x150.jpg"
+        },
+        {
+          "id": 75,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2024/11/22-230x150.jpg"
+        }
+      ]
+    },
+
+    {
+      "title": "Republic Day 2023",
+      "slug": "republic-day-2023",
+      "breadcrumbItems": [
+        { "label": "Campus Life", "href": "campus-life" },
+        { "label": "Campus Events", "href": "/campus-life/campus-events" },
+        { "label": "Campus Gallery" },
+        { "label": "Republic Day 2023" }
+      ],
+      "images": [
+        {
+          "id": 1,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2023/01/republic-day-2023-2-250x150.jpg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2023/01/republic-day-2023-2-1024x491.jpg",
+          "alt": "Karpagam Architecture Campus Events 2023 - 2",
+          "title": "republic day 2023-2"
+        },
+        {
+          "id": 2,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2023/01/republic-day-2023-1-250x150.jpg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2023/01/republic-day-2023-1-1024x622.jpg",
+          "alt": "Karpagam Architecture Campus Events 2023 - 1",
+          "title": "republic day 2023-1"
+        }
+      ]
+    },
+
+    {
+      "title": "13th Convocation 2023",
+      "slug": "13th-convocation-2023",
+      "breadcrumbItems": [
+        { "label": "Campus Life", "href": "campus-life" },
+        { "label": "Campus Events", "href": "/campus-life/campus-events" },
+        { "label": "Campus Gallery" },
+        { "label": "13th Convocation 2023" }
+      ],
+      "images": [
+        {
+          "id": 1,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2023/01/13-convocation-150x104.jpg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2023/01/13-convocation.jpg",
+          "alt": "Karpagam Architecture Campus Events 2023 - 13th Convocation",
+          "title": "13-convocation"
+        }
+      ]
+    },
+
+    {
+      "title": "Graduation Day - 09.04.2022",
+      "slug": "graduation-day-09-04-2022",
+      "breadcrumbItems": [
+        { "label": "Campus Life", "href": "campus-life" },
+        { "label": "Campus Events", "href": "/campus-life/campus-events" },
+        { "label": "Campus Gallery" },
+        { "label": "Graduation Day - 09.04.2022" }
+      ],
+      "images": [
+        {
+          "id": 1,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2022/04/g1-250x150.jpg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2022/04/g1-1024x576.jpg",
+          "alt": "msc software engineering colleges in coimbatore",
+          "title": "g1"
+        },
+        {
+          "id": 2,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2022/04/g2-250x150.jpg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2022/04/g2-1024x576.jpg",
+          "alt": "best m.e. vlsi design college in coimbatore",
+          "title": "g2"
+        },
+        {
+          "id": 3,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2022/04/g3-250x150.jpg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2022/04/g3-1024x576.jpg",
+          "alt": "top 10 msc physics colleges in india",
+          "title": "g3"
+        },
+        {
+          "id": 4,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2022/04/g4-250x150.jpg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2022/04/g4-1024x576.jpg",
+          "alt": "m.e. structural engineering colleges in coimbatore",
+          "title": "g4"
+        },
+        {
+          "id": 5,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2022/04/g5-250x150.jpg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2022/04/g5-1024x576.jpg",
+          "alt": "best electronics and telecommunications engineering colleges in coimbatore",
+          "title": "g5"
+        },
+        {
+          "id": 6,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2022/04/g6-250x150.jpg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2022/04/g6-1024x576.jpg",
+          "alt": "top 10 pharmacy colleges in coimbatore",
+          "title": "g6"
+        },
+        {
+          "id": 7,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2022/04/g7-250x150.jpg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2022/04/g7-1024x576.jpg",
+          "alt": "best placement engineering colleges in coimbatore",
+          "title": "g7"
+        },
+        {
+          "id": 8,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2022/04/g8-250x150.jpg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2022/04/g8-1024x576.jpg",
+          "alt": "best mca colleges in coimbatore",
+          "title": "g8"
+        },
+        {
+          "id": 9,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2022/04/g9-250x150.jpg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2022/04/g9-1024x576.jpg",
+          "alt": "coimbatore bca colleges",
+          "title": "g9"
+        }
+      ]
+    },
+
+    {
+      "title": "Convocation - 2022",
+      "slug": "convocation-2022",
+      "breadcrumbItems": [
+        { "label": "Campus Life", "href": "campus-life" },
+        { "label": "Campus Events", "href": "/campus-life/campus-events" },
+        { "label": "Campus Gallery" },
+        { "label": "Convocation - 2022" }
+      ],
+      "images": [
+        {
+          "id": 1,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2022/04/Convocation-1-250x150.jpg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2022/04/Convocation-1-1024x683.jpg",
+          "alt": "Campus Events, Convocation-1",
+          "title": "Convocation-1"
+        },
+        {
+          "id": 2,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2022/04/Convocation-2-250x150.jpg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2022/04/Convocation-2-1024x683.jpg",
+          "alt": "Campus Events, Convocation-2",
+          "title": "Convocation-2"
+        },
+        {
+          "id": 3,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2022/04/Convocation-3-250x150.jpg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2022/04/Convocation-3-1024x683.jpg",
+          "alt": "Campus Events, Convocation-3",
+          "title": "Convocation-3"
+        },
+        {
+          "id": 4,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2022/04/Convocation-4-250x150.jpg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2022/04/Convocation-4-1024x683.jpg",
+          "alt": "Campus Events, Convocation-4",
+          "title": "Convocation-4"
+        },
+        {
+          "id": 5,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2022/04/Convocation-5-2-250x150.jpg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2022/04/Convocation-5-2.jpg",
+          "alt": "cyber security colleges in coimbatore",
+          "title": "Convocation-5"
+        }
+      ]
+    },
+    {
+      "title": "Convocation - 12-02-2021",
+      "slug": "convocation-12-02-2021",
+      "breadcrumbItems": [
+        { "label": "Campus Life", "href": "campus-life" },
+        { "label": "Campus Events", "href": "/campus-life/campus-events" },
+        { "label": "Campus Gallery" },
+        { "label": "Convocation - 12-02-2021" }
+      ],
+      "images": [
+        {
+          "id": 1,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/c2-250x150.jpeg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/c2-1024x478.jpeg",
+          "alt": "best m.e. power systems engineering college in coimbatore",
+          "title": "c2"
+        },
+        {
+          "id": 2,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/c3-250x150.jpeg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/c3-1024x531.jpeg",
+          "alt": "top engineering college in coimbatore",
+          "title": "c3"
+        },
+        {
+          "id": 3,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/c13-250x150.jpeg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/c13-1024x683.jpeg",
+          "alt": "best m.sc physics colleges in coimbatore",
+          "title": "c13"
+        },
+        {
+          "id": 4,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/c4-250x150.jpeg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/c4-1024x769.jpeg",
+          "alt": "best arts and science college in coimbatore",
+          "title": "c4"
+        },
+        {
+          "id": 5,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/c12-250x150.jpeg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/c12-1024x526.jpeg",
+          "alt": "Top College In Coimbatore",
+          "title": "c12"
+        },
+        {
+          "id": 6,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/c10-250x150.jpeg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/c10-1024x606.jpeg",
+          "alt": "private universities in coimbatore",
+          "title": "c10"
+        },
+        {
+          "id": 7,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/c6-250x150.jpeg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/c6-1024x769.jpeg",
+          "alt": "best biomedical engineering colleges in coimbatore",
+          "title": "c6"
+        },
+        {
+          "id": 8,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/c7-250x150.jpeg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/c7-1024x620.jpeg",
+          "alt": "b tech food technology colleges in coimbatore",
+          "title": "c7"
+        },
+        {
+          "id": 9,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/c1-250x150.jpeg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/c1-1024x648.jpeg",
+          "alt": "Top Pharmacy Colleges in Coimbatore",
+          "title": "c1"
+        }
+      ]
+    },
+
+    {
+      "title": "Convocation - 12-02-2021",
+      "slug": "convocation-12-02-2021",
+      "breadcrumbItems": [
+        { "label": "Campus Life", "href": "campus-life" },
+        { "label": "Campus Events", "href": "/campus-life/campus-events" },
+        { "label": "Campus Gallery" },
+        { "label": "Convocation - 12-02-2021" }
+      ],
+      "images": [
+        {
+          "id": 1,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/c2-250x150.jpeg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/c2-1024x478.jpeg",
+          "alt": "best m.e. power systems engineering college in coimbatore",
+          "title": "c2"
+        },
+        {
+          "id": 2,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/c3-250x150.jpeg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/c3-1024x531.jpeg",
+          "alt": "top engineering college in coimbatore",
+          "title": "c3"
+        },
+        {
+          "id": 3,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/c13-250x150.jpeg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/c13-1024x683.jpeg",
+          "alt": "best m.sc physics colleges in coimbatore",
+          "title": "c13"
+        },
+        {
+          "id": 4,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/c4-250x150.jpeg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/c4-1024x769.jpeg",
+          "alt": "best arts and science college in coimbatore",
+          "title": "c4"
+        },
+        {
+          "id": 5,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/c12-250x150.jpeg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/c12-1024x526.jpeg",
+          "alt": "Top College In Coimbatore",
+          "title": "c12"
+        },
+        {
+          "id": 6,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/c10-250x150.jpeg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/c10-1024x606.jpeg",
+          "alt": "private universities in coimbatore",
+          "title": "c10"
+        },
+        {
+          "id": 7,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/c6-250x150.jpeg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/c6-1024x769.jpeg",
+          "alt": "best biomedical engineering colleges in coimbatore",
+          "title": "c6"
+        },
+        {
+          "id": 8,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/c7-250x150.jpeg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/c7-1024x620.jpeg",
+          "alt": "b tech food technology colleges in coimbatore",
+          "title": "c7"
+        },
+        {
+          "id": 9,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/c1-250x150.jpeg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/c1-1024x648.jpeg",
+          "alt": "Top Pharmacy Colleges in Coimbatore",
+          "title": "c1"
+        }
+      ]
+    },
+
+    {
+      "title": "Republic Day Celebrations - 26.01.2021",
+      "slug": "republic-day-celebrations-26-01-2021",
+      "breadcrumbItems": [
+        { "label": "Campus Life", "href": "campus-life" },
+        { "label": "Campus Events", "href": "/campus-life/campus-events" },
+        { "label": "Campus Gallery" },
+        { "label": "Republic Day Celebrations - 26.01.2021" }
+      ],
+      "images": [
+        {
+          "id": 1,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/rd14-250x150.jpeg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/rd14-769x1024.jpeg",
+          "alt": "best msc biochemistry colleges in tamilnadu",
+          "title": "rd14"
+        },
+        {
+          "id": 2,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/rd13-250x150.jpeg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/rd13-1024x769.jpeg",
+          "alt": "Top 10 Colleges in Coimbatore For Bsc Computer Science - Karpagam Academy",
+          "title": "rd13"
+        },
+        {
+          "id": 3,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/rd12-250x150.jpeg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/rd12-1024x769.jpeg",
+          "alt": "Top 10 Colleges in Coimbatore For Commerce - Karpagam Academy",
+          "title": "rd12"
+        },
+        {
+          "id": 4,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/rd11-250x150.jpeg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/rd11-1024x769.jpeg",
+          "alt": "Best Placement Mba Colleges in Coimbatore - Karpagam Academy",
+          "title": "rd11"
+        },
+        {
+          "id": 5,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/rd7-250x150.jpeg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/rd7-1024x769.jpeg",
+          "alt": "Bsc Computer Science Colleges in Coimbatore - Karpagam Academy",
+          "title": "rd7"
+        },
+        {
+          "id": 6,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/rd10-250x150.jpeg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/rd10-1024x529.jpeg",
+          "alt": "Best Arts And Science College in Coimbatore - Karpagam Academy",
+          "title": "rd10"
+        },
+        {
+          "id": 7,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/rd8-250x150.jpeg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/rd8-1024x617.jpeg",
+          "alt": "Top Engineering Colleges in Coimbatore,India - Karpagam Academy",
+          "title": "rd8"
+        },
+        {
+          "id": 8,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/rd15-250x150.jpeg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/rd15-1024x769.jpeg",
+          "alt": "msc biochemistry colleges in coimbatore",
+          "title": "rd15"
+        },
+        {
+          "id": 9,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/rd4-250x150.jpeg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/rd4-1024x769.jpeg",
+          "alt": "Pharm d Course in Coimbatore - Karpagam Academy",
+          "title": "rd4"
+        },
+        {
+          "id": 10,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/rd6-250x150.jpeg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/rd6-1024x769.jpeg",
+          "alt": "Top Engineering College in Coimbatore - Karpagam Academy",
+          "title": "rd6"
+        },
+        {
+          "id": 11,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/rd1-250x150.jpeg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/rd1-1024x769.jpeg",
+          "alt": "Best Mba Colleges in Coimbatore - Karpagam Academy",
+          "title": "rd1"
+        },
+        {
+          "id": 12,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/rd2-250x150.jpeg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/rd2-1024x769.jpeg",
+          "alt": "List Of Pharmacy Colleges in Coimbatore - Karpagam Academy",
+          "title": "rd2"
+        },
+        {
+          "id": 13,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/rd3-250x150.jpeg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/rd3-1024x769.jpeg",
+          "alt": "Top 10 Pharmacy Colleges in Coimbatore - Karpagam Academy",
+          "title": "rd3"
+        },
+        {
+          "id": 14,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/rd5-250x150.jpeg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/rd5-1024x769.jpeg",
+          "alt": "Top Bcom Professional Accounting Colleges in Coimbatore - Karpagam Academy",
+          "title": "rd5"
+        },
+        {
+          "id": 15,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/rd9-250x150.jpeg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/rd9-1024x769.jpeg",
+          "alt": "Best b Com Accounting And Finance Colleges in Coimbatore - Karpagam Academy",
+          "title": "rd9"
+        },
+        {
+          "id": 16,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/rd16-250x150.jpeg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/rd16-1024x769.jpeg",
+          "alt": "best mba colleges in coimbatore under tancet",
+          "title": "rd16"
+        }
+      ]
+    },
+
+    {
+      "title": "Pongal Celebrations - 12.01.2021",
+      "slug": "pongal-celebrations-12-01-2021",
+      "breadcrumbItems": [
+        { "label": "Campus Life", "href": "campus-life" },
+        { "label": "Campus Events", "href": "/campus-life/campus-events" },
+        { "label": "Campus Gallery" },
+        { "label": "Pongal Celebrations - 12.01.2021" }
+      ],
+      "images": [
+        {
+          "id": 1,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/1-10-scaled-250x150.jpg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/1-10-scaled-1024x769.jpg",
+          "alt": "Our Karpagam Academy of Higher Education Events",
+          "title": "1"
+        },
+        {
+          "id": 2,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/2-9-scaled-250x150.jpg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/2-9-scaled-1024x768.jpg",
+          "alt": "Our Karpagam Academy's Events",
+          "title": "2"
+        },
+        {
+          "id": 3,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/3-8-scaled-250x150.jpg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/3-8-scaled-1024x769.jpg",
+          "alt": "Campus Events at Karpagam Academy of Higher Education",
+          "title": "3"
+        },
+        {
+          "id": 4,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/4-4-scaled-250x150.jpg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/4-4-scaled-1024x769.jpg",
+          "alt": "Events at Karpagam Academy of Higher Education",
+          "title": "4"
+        },
+        {
+          "id": 5,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/5-4-scaled-250x150.jpg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/5-4-scaled-1024x769.jpg",
+          "alt": "Events at Karpagam Academy",
+          "title": "5"
+        },
+        {
+          "id": 6,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/6-3-scaled-250x150.jpg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/6-3-scaled-1024x769.jpg",
+          "alt": "Karpagam Academy's Event",
+          "title": "6"
+        },
+        {
+          "id": 7,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/7-2-scaled-250x150.jpg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/7-2-scaled-1024x769.jpg",
+          "alt": "Campus Events at Karpagam Academy",
+          "title": "7"
+        },
+        {
+          "id": 8,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/8-scaled-250x150.jpg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/8-scaled-1024x769.jpg",
+          "alt": "Campus Events - Karpagam Academy of Higher Education",
+          "title": "8"
+        },
+        {
+          "id": 9,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/9-scaled-250x150.jpg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/9-scaled-1024x541.jpg",
+          "alt": "Campus Events - Karpagam Academy",
+          "title": "9"
+        }
+      ]
+    },
+    {
+      "title": "Republic Day Celebrations - 26.01.2020",
+      "slug": "republic-day-celebrations-26-01-2020",
+      "breadcrumbItems": [
+        { "label": "Campus Life", "href": "campus-life" },
+        { "label": "Campus Events", "href": "/campus-life/campus-events" },
+        { "label": "Campus Gallery" },
+        { "label": "Republic Day Celebrations - 26.01.2020" }
+      ],
+      "images": [
+        {
+          "id": 1,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/DSC_0004-250x150.jpg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/DSC_0004-1024x683.jpg",
+          "alt": "best pharmacy colleges in coimbatore",
+          "title": "DSC_0004"
+        },
+        {
+          "id": 2,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/DSC_0007-250x150.jpg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/DSC_0007-683x1024.jpg",
+          "alt": "best colleges in coimbatore for computer science engineering",
+          "title": "DSC_0007"
+        },
+        {
+          "id": 3,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/DSC_0019-250x150.jpg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/DSC_0019-1024x683.jpg",
+          "alt": "b tech biotechnology colleges in coimbatore",
+          "title": "DSC_0019"
+        },
+        {
+          "id": 4,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/DSC_0024-250x150.jpg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/DSC_0024-1024x683.jpg",
+          "alt": "top m sc maths colleges in coimbatore",
+          "title": "DSC_0024"
+        }
+      ]
+    },
+
+    {
+      "title": "Republic Day Celebrations - 26.01.2020",
+      "slug": "republic-day-celebrations-26-01-2020",
+      "breadcrumbItems": [
+        { "label": "Campus Life", "href": "campus-life" },
+        { "label": "Campus Events", "href": "/campus-life/campus-events" },
+        { "label": "Campus Gallery" },
+        { "label": "Republic Day Celebrations - 26.01.2020" }
+      ],
+      "images": [
+        {
+          "id": 1,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/DSC_0004-250x150.jpg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/DSC_0004-1024x683.jpg",
+          "alt": "best pharmacy colleges in coimbatore",
+          "title": "DSC_0004"
+        },
+        {
+          "id": 2,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/DSC_0007-250x150.jpg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/DSC_0007-683x1024.jpg",
+          "alt": "best colleges in coimbatore for computer science engineering",
+          "title": "DSC_0007"
+        },
+        {
+          "id": 3,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/DSC_0019-250x150.jpg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/DSC_0019-1024x683.jpg",
+          "alt": "b tech biotechnology colleges in coimbatore",
+          "title": "DSC_0019"
+        },
+        {
+          "id": 4,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/DSC_0024-250x150.jpg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/DSC_0024-1024x683.jpg",
+          "alt": "top m sc maths colleges in coimbatore",
+          "title": "DSC_0024"
+        }
+      ]
+    },
+
+    {
+      "title": "Pongal Celebrations - 11.01.2020",
+      "slug": "pongal-celebrations-11-01-2020",
+      "breadcrumbItems": [
+        { "label": "Campus Life", "href": "campus-life" },
+        { "label": "Campus Events", "href": "/campus-life/campus-events" },
+        { "label": "Campus Gallery" },
+        { "label": "Pongal Celebrations - 11.01.2020" }
+      ],
+      "images": [
+        {
+          "id": 1,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/DSC_0052-250x150.jpg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/DSC_0052-1024x683.jpg",
+          "alt": "best mba colleges in coimbatore",
+          "title": "DSC_0052"
+        },
+        {
+          "id": 2,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/DSC_0050-250x150.jpg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/DSC_0050-1024x683.jpg",
+          "alt": "best pharmacy colleges in coimbatore,tamilnadu",
+          "title": "DSC_0050"
+        },
+        {
+          "id": 3,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/DSC_0041-250x150.jpg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/DSC_0041-1024x683.jpg",
+          "alt": "top m pharm pharmaceutical college in coimbatore",
+          "title": "DSC_0041"
+        },
+        {
+          "id": 4,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/DSC_0057-250x150.jpg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2019/11/DSC_0057-1024x683.jpg",
+          "alt": "Top Pharmacy Colleges in Coimbatore",
+          "title": "DSC_0057"
+        },
+        {
+          "id": 5,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/05/pongalvizha2-250x150.jpg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2020/05/pongalvizha2-608x287.jpg",
+          "alt": "b sc computer science colleges in coimbatore",
+          "title": "pongalvizha2"
+        },
+        {
+          "id": 6,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/05/pongalvizha3-250x150.jpg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2020/05/pongalvizha3-606x405.jpg",
+          "alt": "b sc computer science colleges in coimbatore",
+          "title": "pongalvizha3"
+        },
+        {
+          "id": 7,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/05/pongalvizha1-250x150.jpg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2020/05/pongalvizha1-604x455.jpg",
+          "alt": "top 10 colleges in coimbatore for bsc computer science",
+          "title": "pongalvizha1"
+        }
+      ]
+    },
+
+    {
+      "title": "Pranaya Celebration - 20.02.2020",
+      "slug": "pranaya-celebration-20-02-2020",
+      "breadcrumbItems": [
+        { "label": "Campus Life", "href": "campus-life" },
+        { "label": "Campus Events", "href": "/campus-life/campus-events" },
+        { "label": "Campus Gallery" },
+        { "label": "Pranaya Celebration - 20.02.2020" }
+      ],
+      "images": [
+        {
+          "id": 1,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/05/IMG-20200220-WA0006-250x150.jpg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2020/05/IMG-20200220-WA0006-1024x576.jpg",
+          "alt": "best colleges for civil engineering in coimbatore",
+          "title": "IMG-20200220-WA0006"
+        },
+        {
+          "id": 2,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/05/IMG-20200220-WA0007-250x150.jpg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2020/05/IMG-20200220-WA0007-1024x576.jpg",
+          "alt": "best colleges for civil engineering in coimbatore",
+          "title": "IMG-20200220-WA0007"
+        },
+        {
+          "id": 3,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/05/IMG-20200220-WA0008-250x150.jpg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2020/05/IMG-20200220-WA0008-1024x576.jpg",
+          "alt": "best Ph.D in Mechanical Engineering colleges in Coimbatore ",
+          "title": "IMG-20200220-WA0008"
+        },
+        {
+          "id": 4,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/05/IMG-20200220-WA0019-250x150.jpg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2020/05/IMG-20200220-WA0019-1024x576.jpg",
+          "alt": "top ph d civil engineering college in coimbatore",
+          "title": "IMG-20200220-WA0019"
+        },
+        {
+          "id": 5,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/05/IMG-20200507-WA0007-250x150.jpg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2020/05/IMG-20200507-WA0007-1024x576.jpg",
+          "alt": "best colleges for cse in coimbatore",
+          "title": "IMG-20200507-WA0007"
+        },
+        {
+          "id": 6,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/05/IMG-20200507-WA0008-250x150.jpg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2020/05/IMG-20200507-WA0008-1024x576.jpg",
+          "alt": "bsc microbiology colleges in coimbatore",
+          "title": "IMG-20200507-WA0008"
+        },
+        {
+          "id": 7,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/05/IMG-20200220-WA0002-250x150.jpg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2020/05/IMG-20200220-WA0002-1024x576.jpg",
+          "alt": "Best MSc Microbiology College in Coimbatore",
+          "title": "IMG-20200220-WA0002"
+        },
+        {
+          "id": 8,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/05/IMG-20200220-WA0003-250x150.jpg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2020/05/IMG-20200220-WA0003-1024x576.jpg",
+          "alt": "top civil engineering colleges in coimbatore,India",
+          "title": "IMG-20200220-WA0003"
+        },
+        {
+          "id": 9,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/05/IMG-20200220-WA0005-250x150.jpg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2020/05/IMG-20200220-WA0005-1024x576.jpg",
+          "alt": "best B.Sc. Computer Science with Cognitive Systems college in coimbatore",
+          "title": "IMG-20200220-WA0005"
+        }
+      ]
+    },
+
+    {
+      "title": "Convocation - 14-09-2019",
+      "slug": "convocation-14-09-2019",
+      "breadcrumbItems": [
+        { "label": "Campus Life", "href": "campus-life" },
+        { "label": "Campus Events", "href": "/campus-life/campus-events" },
+        { "label": "Campus Gallery" },
+        { "label": "Convocation - 14-09-2019" }
+      ],
+      "images": [
+        {
+          "id": 1,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/05/IMG-20190914-WA0011-250x150.jpg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2020/05/IMG-20190914-WA0011-1024x682.jpg",
+          "alt": "Best Microbiology College in Coimbatore",
+          "title": "IMG-20190914-WA0011"
+        },
+        {
+          "id": 2,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/05/IMG-20190914-WA0015-250x150.jpg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2020/05/IMG-20190914-WA0015-1024x682.jpg",
+          "alt": "Ph.D. in Electronics & Communication Engineering courses in Coimbatore",
+          "title": "IMG-20190914-WA0015"
+        },
+        {
+          "id": 3,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/05/IMG-20200508-WA0005-250x150.jpg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2020/05/IMG-20200508-WA0005-1024x682.jpg",
+          "alt": "top civil engineering colleges in coimbatore,tamilnadu",
+          "title": "IMG-20200508-WA0005"
+        },
+        {
+          "id": 4,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/05/IMG-20200508-WA0006-250x150.jpg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2020/05/IMG-20200508-WA0006-1024x682.jpg",
+          "alt": "mechanical engineering colleges in coimbatore,India",
+          "title": "IMG-20200508-WA0006"
+        },
+        {
+          "id": 5,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/05/IMG-20200508-WA0007-250x150.jpg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2020/05/IMG-20200508-WA0007-1024x682.jpg",
+          "alt": "KAHE, Bsc Computer Science Colleges in Coimbatore",
+          "title": "IMG-20200508-WA0007"
+        },
+        {
+          "id": 6,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/05/IMG-20200508-WA0010-250x150.jpg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2020/05/IMG-20200508-WA0010-1024x682.jpg",
+          "alt": "top msc biotechnology colleges in coimbatore",
+          "title": "IMG-20200508-WA0010"
+        },
+        {
+          "id": 7,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/05/IMG-20200508-WA0011-250x150.jpg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2020/05/IMG-20200508-WA0011-1024x682.jpg",
+          "alt": "Top B.Com in Computer Application Studies Colleges in Coimbatore",
+          "title": "IMG-20200508-WA0011"
+        },
+        {
+          "id": 8,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/05/70356362_3628897300469491_8934278153233235968_o-250x150.jpg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2020/05/70356362_3628897300469491_8934278153233235968_o-1024x683.jpg",
+          "alt": "top b tech food technology colleges in tamilnadu",
+          "title": "70356362_3628897300469491_8934278153233235968_o"
+        },
+        {
+          "id": 9,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/05/70829858_3628900007135887_8480519900702441472_o-250x150.jpg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2020/05/70829858_3628900007135887_8480519900702441472_o-1024x683.jpg",
+          "alt": "phd biotechnology colleges in coimbatore",
+          "title": "70829858_3628900007135887_8480519900702441472_o"
+        }
+      ]
+    },
+
+    {
+      "title": "First Year Orientation Programme - 24.06.2019",
+      "slug": "first-year-orientation-24-06-2019",
+      "breadcrumbItems": [
+        { "label": "Campus Life", "href": "campus-life" },
+        { "label": "Campus Events", "href": "/campus-life/campus-events" },
+        { "label": "Campus Gallery" },
+        { "label": "First Year Orientation Programme - 24.06.2019" }
+      ],
+      "images": [
+        {
+          "id": 1,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/05/IMG-20200507-WA0004-250x150.jpg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2020/05/IMG-20200507-WA0004-1024x682.jpg",
+          "alt": "Top College In India",
+          "title": "IMG-20200507-WA0004"
+        },
+        {
+          "id": 2,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/05/IMG-20200507-WA0005-250x150.jpg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2020/05/IMG-20200507-WA0005-1024x682.jpg",
+          "alt": "best m.sc physics colleges in coimbatore",
+          "title": "IMG-20200507-WA0005"
+        },
+        {
+          "id": 3,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/05/IMG-20200507-WA0006-250x150.jpg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2020/05/IMG-20200507-WA0006-1024x682.jpg",
+          "alt": "top 10 biotechnology colleges in coimbatore",
+          "title": "IMG-20200507-WA0006"
+        },
+        {
+          "id": 4,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/05/IMG-20190624-WA0005-250x150.jpg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2020/05/IMG-20190624-WA0005-1024x682.jpg",
+          "alt": "best ph.d electrical & electronics engineering in coimbatore",
+          "title": "IMG-20190624-WA0005"
+        },
+        {
+          "id": 5,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/05/IMG-20190624-WA0006-250x150.jpg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2020/05/IMG-20190624-WA0006-1024x682.jpg",
+          "alt": "b.sc computer science with cognitive systems colleges in tamilnadu",
+          "title": "IMG-20190624-WA0006"
+        },
+        {
+          "id": 6,
+          "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/05/IMG-20190624-WA0007-250x150.jpg",
+          "full": "https://kahedu.edu.in/n/wp-content/uploads/2020/05/IMG-20190624-WA0007-1024x682.jpg",
+          "alt": "Best Mathematics College in Coimbatore",
+          "title": "IMG-20190624-WA0007"
+        }
+      ]
+    }
+  ]
 }

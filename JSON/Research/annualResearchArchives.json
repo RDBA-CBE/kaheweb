@@ -109,5 +109,177 @@
         "alt": "Annual Research Congress - Karpagam Academy - 1"
       }
     ]
+  },
+
+  "annualResearch13": {
+    "title": "13th Annual Research Congress – 18-12-2021",
+
+    "content": [
+      {
+        "subtitle": "13th Annual Research Congress Brochure",
+        "id": 1,
+        "list": [
+          {
+            "src": "/images/Kahe/Innerpages/file.png",
+            "item": "Open Brochure",
+            "url": "https://kahedu.edu.in/n/wp-content/uploads/2023/07/13th-KAHEARC-Broucher.pdf"
+          }
+        ]
+      },
+      {
+        "subtitle": "13th Annual Research Congress Report",
+        "id": 2,
+        "list": [
+          {
+            "src": "/images/Kahe/Innerpages/file.png",
+            "item": "Open Report",
+            "url": "https://kahedu.edu.in/n/wp-content/uploads/2022/10/Report-of-the-13th-KAHEARC-2021.pdf"
+          }
+        ]
+      }
+    ],
+
+    "src": [{ "id": 1, "src": "/images/Kahe/Innerpages/image-1.jpg" }]
+  },
+  "annualResearch12": {
+    "title": "12th Annual Research Congress – 11-12-2020",
+    "content": [
+      {
+        "subtitle": "12th Annual Research Congress Brochure",
+        "id": 1,
+        "list": [
+          {
+            "src": "/images/Kahe/Innerpages/file.png",
+            "item": "Open Brochure",
+            "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/research.pdf"
+          }
+        ]
+      },
+      {
+        "subtitle": "12th Annual Research Congress Writeup",
+        "id": 2,
+        "list": [
+          {
+            "src": "/images/Kahe/Innerpages/file.png",
+            "item": "Open Report",
+            "url": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/report-1.pdf"
+          }
+        ]
+      }
+    ],
+
+    "src": [
+      {
+        "id": 1,
+        "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/IMG-20201211-WA0027-150x150.jpg",
+        "full": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/IMG-20201211-WA0027-1024x518.jpg",
+        "alt": "Contact KAHE for best mba colleges in coimbatore",
+        "title": "IMG-20201211-WA0027"
+      },
+      {
+        "id": 2,
+        "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/IMG-20201211-WA0033-150x150.jpg",
+        "full": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/IMG-20201211-WA0033-1024x447.jpg",
+        "alt": "Contact KAHE for Top BCom Professional Accounting Colleges in Coimbatore",
+        "title": "IMG-20201211-WA0033"
+      },
+      {
+        "id": 3,
+        "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/IMG-20201211-WA0041-150x150.jpg",
+        "full": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/IMG-20201211-WA0041-1024x512.jpg",
+        "alt": "Contact KAHE for top engineering college in coimbatore",
+        "title": "IMG-20201211-WA0041"
+      },
+      {
+        "id": 4,
+        "src": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/IMG-20201211-WA0044-150x150.jpg",
+        "full": "https://kahedu.edu.in/n/wp-content/uploads/2021/02/IMG-20201211-WA0044-1024x472.jpg",
+        "alt": "Contact KAHE for B.Sc computer science colleges in coimbatore",
+        "title": "IMG-20201211-WA0044"
+      }
+    ]
+  },
+
+  "annualResearch11": {
+    "title": "11th Annual Research Congress – 14-12-2019",
+
+    "content": [
+      {
+        "subtitle": "11th Annual Research Congress Brochure",
+        "id": 1,
+        "list": [
+          {
+            "src": "/images/Kahe/Innerpages/file.png",
+            "item": "Open Brochure",
+            "url": "https://kahedu.edu.in/n/wp-content/uploads/2020/05/11th-Annual-Research-Congress-Brochure.pdf"
+          }
+        ]
+      },
+      {
+        "subtitle": "11th Annual Research Congress Writeup",
+        "id": 2,
+        "list": [
+          {
+            "src": "/images/Kahe/Innerpages/file.png",
+            "item": "Open Writeup",
+            "url": "https://kahedu.edu.in/n/wp-content/uploads/2020/05/11th-Annual-Research-Congress-Writeup.pdf"
+          }
+        ]
+      }
+    ],
+
+    "src": [
+      {
+        "id": 1,
+        "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/05/IMG_20200508_124815-scaled-1024x576.jpg"
+      },
+      {
+        "id": 2,
+        "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/05/IMG_20200508_124858-scaled-1024x576.jpg"
+      },
+      {
+        "id": 3,
+        "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/05/IMG_20200508_124759-scaled-1024x576.jpg"
+      }
+    ]
+  },
+  "annualResearch10": {
+    "title": "10th Annual Research Congress – 08-12-2018",
+
+    "content": [
+      {
+        "subtitle": "10th Annual Research Congress Brochure",
+        "id": 1,
+        "list": [
+          {
+            "src": "/images/Kahe/Innerpages/file.png",
+            "item": "10th Annual Research Congress Brochure",
+            "url": "https://kahedu.edu.in/n/wp-content/uploads/2020/05/10th-Annual-Research-Congress-Brochure.pdf"
+          }
+        ]
+      },
+      {
+        "subtitle": "10th Annual Research Congress Writeup",
+        "id": 2,
+        "src": "/images/Kahe/Innerpages/file.png",
+        "item": "10th Annual Research Congress Writeup",
+        "url": "https://kahedu.edu.in/n/wp-content/uploads/2020/05/10th-Annual-Research-Congress-Writeup.pdf"
+      }
+    ],
+
+    "src": [
+      {
+        "id": 1,
+        "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/05/IMG_20200508_124009-scaled-1024x576.jpg"
+      },
+      {
+        "id": 2,
+        "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/05/IMG_20200508_124034-scaled-1024x576.jpg"
+      },
+      {
+        "id": 3,
+        "src": "https://kahedu.edu.in/n/wp-content/uploads/2020/05/IMG_20200508_124109-scaled-1024x576.jpg"
+      }
+    ]
   }
 }
