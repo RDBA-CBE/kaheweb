@@ -7,16 +7,24 @@ import  data  from "../../../JSON/About/Overview.json";
 import AboutOverview from "../Components/AboutOverview";
 import IconCard from "../Components/IconCard";
 import Recognition from "../Components/About/Recognition";
+import Breadcrumb from "../common-components/BreadCrumb";
 
 
 const VissionPage = () => {
 
   const aboutData = data
   console.log("aboutData", aboutData);
+
+  const breadcrumbItems = [
+    
+
+    { label: 'About Us' },
+  ];
   
   return (
     <>
       <InnerBanner data={aboutData?.bannerCon} />
+       <Breadcrumb items={breadcrumbItems} />
       <section className=" section-bg1">
         <About data={aboutData?.about}/>
       </section>

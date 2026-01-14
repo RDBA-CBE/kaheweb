@@ -7,14 +7,26 @@ import { Administration } from "@/JSON/ACADEMIC/Overview";
 import ListStyle from "../Components/ListStyle";
 import { FirstLetterUp } from "@/utils/functions.utils";
 import ContentCard from "../Components/ContentCard";
+import Breadcrumb from "../common-components/BreadCrumb";
 
 const Dean = () => {
   console.log("data", data);
 
   const commiteeData = data?.deans;
+   const breadcrumbItems = [
+    {
+      label: "Administration",
+      href: `/administration/`,
+    },
+
+   
+
+    { label: "Deans" },
+  ];
   return (
     <>
       <InnerBanner data={commiteeData?.bannerCon} />
+       <Breadcrumb items={breadcrumbItems} />
 
       <main className="section-wid d-flex gap-4 section-bg1 sta-commitee">
         <div className="rbt-course-details-area w-100">
