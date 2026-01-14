@@ -36,7 +36,9 @@ const ImageLink = ({ data, firstParaLimit, firstParaSplit, order }) => {
 
   return (
     <div className="commitee">
-      {data?.title && <div className="decor-ti">{FirstLetterUp(data?.title)}</div>}
+      {data?.title && (
+        <div className="decor-ti">{FirstLetterUp(data?.title)}</div>
+      )}
 
       <div className="row py-5">
         {data?.content?.map((item, index) => {
@@ -55,9 +57,27 @@ const ImageLink = ({ data, firstParaLimit, firstParaSplit, order }) => {
 
                 {item.title && <h2 className="main-sub-ti">{item.title}</h2>}
 
+                {item?.url1 && (
+                  <div className="mb-4">
+                     <a href={item.url1} className="read-more-btn">
+                    <span className="rbt-btn-link">
+                      {item?.urlText1 || "For More Information"}
+                      <i className="feather-arrow-up-right"></i>
+                    </span>
+                  </a>
+                  </div>
+                 
+                )}
+
                 {/* First part */}
                 {firstPart && (
-                  <p>{splitChar(firstPart, firstParaSplit ?? 700,item?.tagClasses)}</p>
+                  <p>
+                    {splitChar(
+                      firstPart,
+                      firstParaSplit ?? 700,
+                      item?.tagClasses
+                    )}
+                  </p>
                 )}
 
                 {item?.links && item?.links.length > 0 && (
@@ -77,9 +97,7 @@ const ImageLink = ({ data, firstParaLimit, firstParaSplit, order }) => {
                             <i className={`${linkItem.icon}`}></i>
                           )}
                           {linkItem?.title && (
-                            <p className="me-2 fw-semibold">
-                              {linkItem.title}
-                            </p>
+                            <p className="me-2 fw-semibold">{linkItem.title}</p>
                           )}
                         </span>
 
@@ -100,7 +118,7 @@ const ImageLink = ({ data, firstParaLimit, firstParaSplit, order }) => {
                 )}
 
                 {item?.url && (
-                  <a href={item.url} className="read-more-btn">
+                  <a href={item.url} className="read-more-btn" target={item?.target || "_blank"}>
                     <span className="rbt-btn-link">
                       {item?.urlText || "For More Information"}
                       <i className="feather-arrow-up-right"></i>
@@ -111,13 +129,18 @@ const ImageLink = ({ data, firstParaLimit, firstParaSplit, order }) => {
 
               {item?.src && (
                 <div className="imageLink-item2">
-                  <img src={item.src || "/images/Kahe/team-13.png"} alt={item.title || ""} />
+                  <img
+                    src={item.src || "/images/Kahe/team-13.png"}
+                    alt={item.title || ""}
+                  />
                 </div>
               )}
 
               {/* Remaining part */}
               {remaining && (
-                <p className="mt-4">{splitChar(remaining, splitLimit,item?.tagClasses)}</p>
+                <p className="mt-4">
+                  {splitChar(remaining, splitLimit, item?.tagClasses)}
+                </p>
               )}
             </div>
           );

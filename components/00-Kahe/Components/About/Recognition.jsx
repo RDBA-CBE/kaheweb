@@ -31,8 +31,8 @@ const Recognition = ({ data }) => {
                       <img src={item.src} alt={item?.title} width={50} />
                     </span>
                     <h4 className="main-sub-ti">{item?.title}</h4>
-                    {/* <p>{item?.caption}</p> */}
-                    <p> {item?.caption}</p>
+                    <p>{item?.content}</p>
+                    {/* <p> {item?.caption}</p> */}
                   </div>
                 </div>
               ))}

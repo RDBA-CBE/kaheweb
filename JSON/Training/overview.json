@@ -106,6 +106,7 @@
     "title": "Testimonials",
     "btnText": "View More",
     "btnLink": "https://www.youtube.com/c/KAHE-Official",
+    "target":"_blank",
     "content": [
       {
         "id": 1,

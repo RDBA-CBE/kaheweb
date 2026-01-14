@@ -50,7 +50,7 @@
               "src": "/images/Kahe/menu/about.svg"
             },
             {
-              "title": "KAHE Registrar",
+              "title": "Registrar",
               "link": "/kahe/administration/kahe-registrar",
               "desc": "Facilitating governance and seamless functioning across KAHE.",
               "src": "/images/Kahe/menu/about.svg"
@@ -64,6 +64,12 @@
             {
               "title": "Controller of Examinations",
               "link": "/kahe/administration/controller-of-examinations",
+              "desc": "Overseeing examinations with integrity, accuracy, and professionalism.",
+              "src": "/images/Kahe/menu/about.svg"
+            },
+            {
+              "title": "Finance Officer",
+              "link": "/kahe/administration/finance-officer",
               "desc": "Overseeing examinations with integrity, accuracy, and professionalism.",
               "src": "/images/Kahe/menu/about.svg"
             },

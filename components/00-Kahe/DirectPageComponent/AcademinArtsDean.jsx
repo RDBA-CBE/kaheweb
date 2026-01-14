@@ -120,18 +120,7 @@ const AcademinArtsDean = (props) => {
             />
           </div>
 
-          {/* <section className="section-wid">
-            <PaginationTable data={InterAdmin?.StudentsList} />
-          </section>
-
-          <section className="section-wid">
-            <PaginationTable data={InterAdmin?.StudentsList1} />
-          </section>
-
-          <section className="section-wid section-bg1">
-            <SliderContent data={InterAdmin?.annualResearch} />
-          </section> */}
-
+        
           <Sidebar2 subMenu={subMenu} />
         </Context>
       </Provider>
