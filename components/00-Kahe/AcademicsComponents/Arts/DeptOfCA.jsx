@@ -21,7 +21,7 @@ const DeptOfCA = () => {
       href: `academics/arts-science-and-humanities/`,
     },
 
-    { label: "Department of BioTechnology" },
+    { label: "Department of Computer Application" },
   ];
   return (
     <>

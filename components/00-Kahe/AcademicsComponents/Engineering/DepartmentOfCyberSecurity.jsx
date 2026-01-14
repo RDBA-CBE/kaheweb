@@ -25,7 +25,7 @@ const DepartmentOfCyberSecurity = () => {
       href: `academics/engineering/`,
     },
 
-    { label: 'Department of Biotechnology' },
+    { label: 'Department of Cyber Security' },
   ];
 
   return (
