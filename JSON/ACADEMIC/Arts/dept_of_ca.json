@@ -55,7 +55,7 @@
           "type": "highlights",
           "items": {
             "title": "Highlights",
-             "src": "/images/Kahe/general/research-highlights.webp",
+            "src": "/images/Kahe/general/research-highlights.webp",
             "content": [
               {
                 "icon": "rs-icon-book",
@@ -126,7 +126,7 @@
           {
             "key": "pg",
             "title": "Post Graduate Programme",
-           "img": "/images/Kahe/academics/arts-and-science/computer-applications/studentprogrammes.webp",
+            "img": "/images/Kahe/academics/arts-and-science/computer-applications/studentprogrammes.webp",
             "items": ["MCA Computer Applications (Strength: 120)"],
             "type": "programme"
           }
@@ -972,7 +972,7 @@
     },
     {
       "tab": "Publications",
-      "slug": "department-of-mathematics",
+      "slug": "department-of-computer-application",
       "title": "Best Five Papers Faculty wise:",
       "subtitle": "Paper Publications by the Faculty Members",
       "breadcrumbItems": [
@@ -985,8 +985,8 @@
           "href": "academics/arts-science-and-humanities/"
         },
         {
-          "label": "Department of Mathematics",
-          "href": "/academics/arts-science-and-humanities/department-of-mathematics"
+          "label": "Department of Computer Application",
+          "href": "/academics/arts-science-and-humanities/department-of-Computer Application"
         },
         {
           "label": "Gallery"
@@ -1262,21 +1262,34 @@
           "multiContent": [
             {
               "contentList": [
-                "One Day First National Conference on 29.01.2026.",
-                "State Level Symposium Infosium 2026 on 20.02.2026.",
-                "Five-day Faculty Development Programme on “Dynamic Artificial Intelligence & Hybrid Cloud” from 25th November 2025 to 29th November 2025.",
-                "Skill Development Programme on “ABAP on HANA” on 26th August 2025.",
-                "Department of Computer Applications Association BITBLAZE inauguration on 20th August 2025.",
-                "Field visit to Origin CADD Infotech on 6th August 2025.",
-                "Field visit to Southern Railway Workshop on 8th August 2025.",
-                "PG Induction Programme on 6th August 2025.",
-                "World Wide Web (WWW) Day celebration on 1st August 2025.",
-                "Hands-on training on “Simplified and Secure Connectivity with eSIM and IoT” on 29th July 2025.",
-                "Alumni Meet on 26th July 2025.",
-                "Alumni Talk on 8th July 2025.",
-                "Guest lecture on “Blockchain Technology: Real-World Use Cases” on 26th June 2025.",
-                "National Conference on “Emerging Technologies: Robotics and IoT” on 28th February 2020.",
-                "State-Level Technical Symposium “Infosium 2020” on 12th February 2020."
+                "One Day First National Conference on 29.01.2026",
+                "State Level Symposium Infosium 2026 on 20.02.2026",
+                "The Department of Computer Applications, Karpagam Academy of Higher Education, Coimbatore, organized a five-day Faculty Development Programme (FDP) on “Dynamic Artificial Intelligence & Hybrid Cloud” from 25th November 2025 to 29th November 2025.",
+                "The objective of the programme was to enhance the academic, research, and pedagogical skills of faculty members and to equip them with the latest developments in teaching–learning methodologies.",
+                "Conducted a Skill Development Programme titled",
+                "“ABAP (Advanced Business Application Programming) on HANA (High Performance Analytic Appliance)” on 26th August 2025.",
+                "Mr. G. Arunkumar, Head & Consultant at Mini University, Coimbatore, was the resource person.",
+                "The Department of Computer Applications Association BITBLAZE was inaugurated on 20th August 2025.",
+                "Mr. Nisar Mohamed, Software Engineer, CISCO, Bangalore, was the resource person for the occasion.",
+                "Field visit to Origin CADD Infotech, Peelamedu for KAHE BCA students on 6th August 2025.",
+                "Organized a field visit to Southern Railway, Signal and Telecommunication Workshop for BCA students on 8th August 2025.",
+                "PG Induction Programme was conducted on 6th August 2025.",
+                "The inauguration was graced by the esteemed presence of the Chief Guest",
+                "Mr. Surya Chinnaraj, Chief Technology Officer, Web Bytes Infotech Pvt. Ltd., Jodhpur, Rajasthan,",
+                "who shared insightful thoughts on the future of technology and research, emphasizing innovation and interdisciplinary learning.",
+                "World Wide Web (WWW) Day was celebrated on 1st August 2025.",
+                "The programme aimed to engage students in activities highlighting the significance of the internet and focused on educating participants about the history, impact, and evolution of the World Wide Web.",
+                "Hands-on training on “Simplified and Secure Connectivity with eSIM and IoT” was conducted on 29th July 2025.",
+                "Mrs. Hemalatha, Embedded Developer, Mayugam Info Tech, Coimbatore, served as the resource person.",
+                "Organized a memorable Alumni Meet on 26th July 2025 for MCA (2023–2025 batch), bringing together former students.",
+                "The meet featured inspiring talks from alumni sharing their professional achievements, challenges, and personal and academic experiences.",
+                "Organized an Alumni Talk with two resource persons on 8th July 2025.",
+                "Mr. U. Eswaramoorthi delivered an insightful session on career planning with a focus on the banking sector, followed by Mr. R. Kabilan, who shared experiences from the IT industry.",
+                "Organized a guest lecture titled “Blockchain Technology: Real-World Use Cases” on 26th June 2025.",
+                "Dr. L. Thara, Associate Professor, PSG College of Arts and Science, Coimbatore, was the resource person.",
+                "National Conference on “Emerging Technologies: Robotics and IoT” (NCET 2020) was conducted on 28th February 2020.",
+                "Mr. Sarathkumar Karunakaran, Software Developer, Cognis GmbH, Bonn, Germany, was the resource person.",
+                "State-Level Technical Symposium “Infosium 2020” was organized on 12th February 2020."
               ]
             }
           ]
@@ -1286,10 +1299,10 @@
           "multiContent": [
             {
               "contentList": [
-                "National Conference on “Emerging Technologies: Robotics and IOT” on February 28, 2020.",
-                "National Conference on “Recent Trends and Advances in the Field of Information Technology” on September 27, 2019.",
-                "National Conference on “Emerging Trends in Computing and Communication” (NCCC 17) on February 17, 2017.",
-                "4th National Conference on “Recent Trends and Advances in Information Technology” on September 23, 2016."
+                "National conference on “Emerging  Technologies: Robotics and IOT” (NCET ‘2020) conducted on February 28, 2020. Mr.Sarathkumar Karunakaran, Software Developer, Cognis gmbh, Bonn, Germany, was the resource person.",
+                "National conference on “Recent Trends and Advances in the Field of Information Technology” conducted on September 27, 2019. Dr.M.Sundaresan, Professor, Department of  IT, Bharathiar University, Coimbatore was the resource person.",
+                "National Conference on “Emerging Trends in Computing and Communication” (NCCC 17)  was conducted on February 17, 2017. Dr.M.Hanumanthappa Professor & Chairman, Department of Computer Science & Applications, Bangalore University, Bangalore was the resource person.",
+                "Karpagam Academy of Higher Education sponsored the 4th National Conference on “Recent Trends and Advances in Information Technology” on September 23, 2016.  Dr. Devi, Bharathiar University Coimbatore was the resource person. More than  250 participated in the grand event. ."
               ]
             }
           ]
@@ -1299,8 +1312,8 @@
           "multiContent": [
             {
               "contentList": [
-                "National Seminar on “Script Language – JOOMLA” on January 27, 2017.",
-                "National Seminar on “Tools And Techniques To Do A Research & To Improve Scholarly Writing Skills” on July 30, 2016."
+                "National Seminar on “Script Language – JOOMLA” on January 27, 2017. Mr. Sunil Jose, Director, Amulya Info Tech, Coimbatore was the resource person.",
+                "National Seminar on “Tools And Techniques To Do A Research & To Improve Scholarly Writing Skills” was conducted on July 30, 2016. Dr.B.Ramdoss, Former Head & Professor, Dept. of Computer Applications, National Institute of Technology, Tiruchirappalli was the resource person."
               ]
             }
           ]
@@ -1310,15 +1323,15 @@
           "multiContent": [
             {
               "contentList": [
-                "Two days workshop on “Developing Android Apps” from 05.03.2018 to 06.03.2018.",
-                "Two days state level workshop on “Computer Training for Mobile Applications and Tools” from May 29, 2017 to May 30, 2017.",
-                "State level workshop on “Internet of Things (IoT)” on April 15, 2017.",
-                "National Workshop on “Cyber Security” on March 03, 2017.",
-                "One Day National Level Workshop on “Software Testing Tool- Selenium” on 07.01.2017.",
-                "One day Hands on Training on Mobile Application Development using Android on September 02, 2016.",
-                "Workshop on “Network Security Championship” from 11-3-2016 to 12-3-2016.",
-                "Hands on Training on JQuery, Json, AJAX on 28-1-2016.",
-                "Workshop on “Android in Mobile Application” on February 21, 2015."
+                "Two days workshop on “Developing Android Apps” by Entrepreneurship Cell of IIT Roorkee from 05.03.2018 to 06.03.2018.",
+                "Two days state level workshop on “Computer Training for Mobile Applications and Tools” for School Headmasters and Teachers from May 29, 2017 to May 30, 2017.",
+                "State level workshop on “Internet of Things (IoT)” Programme for School Headmasters and Teachers on April 15, 2017.",
+                "National Workshop on “Cyber Security” was conducted on March 03, 2017. Mr. C. Balan, Joint director, CDAC, Thiruvananthapuram,was the resource person.",
+                "One Day National Level Workshop on “Software Testing Tool- Selenium” on 07.01.2017. Mr. A. Prakash, Software Tester, Accent Techno Soft, Coimbatore was the resource person.",
+                "Mr. Gowtham Shanmugam, Technical Head, Accent Techno Soft, Coimbatore, conducted an One day Hands on Training on September 02, 2016, Mobile Application Development using Android.",
+                "Mr. Mohammed Sarwar Sharif, IIT Kharagpur conducted  the  workshop on “Network Security Championship”  from 11-3-2016 to 12-3-2016.",
+                "Dr.R.Jayasudha. Assistant Professor, Sri Krishna College of Engineering and Technology, Coimbatore conducted one day Hands on Training on JQuery, Json,AJAX on 28-1-2016.",
+                "Mr.M.Easwaran, Software Engineer, Poras Technologies India Pvt ltd, Coimbatore, conducted a Workshop on “Android in Mobile Application” on February 21, 2015 for 150 students of Department of Computer Science."
               ]
             }
           ]
@@ -1328,10 +1341,10 @@
           "multiContent": [
             {
               "contentList": [
-                "State Level Technical Symposium “Infosium 2020” on February 12, 2020.",
-                "National Level Technical Symposium “Infosium 2K18” on February 09, 2018.",
-                "State Level Technical Symposium “Infosium 2017” on February 28, 2017.",
-                "State Level Technical Symposium “Infosium 2K16” on March 02, 2016."
+                "State Level Technical Symposium “Infosium 2020”organised on February 12, 2020.",
+                "National Level Technical Symposium “Infosium 2K18”organised on February 09, 2018.",
+                "State Level Technical Symposium “Infosium 2017” organised  on February 28, 2017.",
+                "Conducted state level technical Symposium “Infosium 2K16” on March 02, 2016, Jointly organized by Department of Computer Science, Computer Applications, Information Technology ."
               ]
             }
           ]
@@ -1341,23 +1354,23 @@
           "multiContent": [
             {
               "contentList": [
-                "Guest Lecture on “Introduction to Gaming” on 11th January 2021.",
-                "Guest Lecture on “Text Prediction using LSTM” on December 10, 2020.",
-                "Guest Lecture on “Sardar Vallabhbhai Patel Day” on October 31, 2020.",
-                "Guest Lecture on “International Internet Day” on October 29, 2020.",
-                "Guest Lecture on “Career Opportunities for IT & ITES Sector” on January 25, 2020.",
-                "Guest Lecture on “Struts Framework” on August 22, 2019.",
-                "Project Training on Citizen Centric Mobile App on July 29, 2017.",
-                "Guest Lecture on Advanced Java on July 13, 2017.",
-                "Guest Lecture on Advanced Trends in DOT NET on June 30, 2017.",
-                "Seminar on “Script Language – JOOMLA” on January 27, 2017.",
-                "Guest Lecture on Operations Research on January 06, 2017.",
-                "Guest Lecture on “Big Data” on March 10, 2016.",
-                "Guest Lecture on E-Learning on September 27, 2016.",
-                "Guest Lecture on “Internet of Things” on August 23, 2016.",
-                "Guest Lecture on “Big Data” on September 23, 2016.",
-                "Guest Lecture on Problem Solving Techniques on February 06, 2015.",
-                "Guest Lecture on “Internet of Things” on December 15, 2015."
+                "Conducted a Guest Lecture on the topic “Introduction to Gaming” on 11th January, 2021  by Mr. M. Tamilselvam, CEO,  Yellow Tree Academy, Coimbatore.",
+                "Conducted a Guest Lecture on the topic “Text Prediction using LSTM – Deep Neural Networks and NLP domain” on December 10, 2020. Dr.K.Ramalakshmi, Assistant professor, Department of Computer Science Engineering, Karunya Institute of Technology & Sciences, Coimbatore.",
+                "Conducted a Guest Lecture on the topic “Sardar Vallabhbhai Patel Day” by Dr.Radha, Assistant Professor Information Technology Government Arts and Science College, Coimbatore on October 31, 2020.",
+                "Conducted a Guest Lecture  on the topic “International Internet Day” by Dr.P.Shanmugavadivu, Professor and Head Computer Science and Applications, Gandhigram Rural Institute – Deemed to be University, Gandhigram, Dindugal, Tamilnadu on  October 29, 2020",
+                "Conducted a Guest Lecture on the topic “Career Opportunities for IT & ITES Sector” by Vaishneevi Balaji Founder ICT Academy on January 25, 2020.",
+                "Conducted a Guest Lecture on the topic “Struts Framework” by Mr.Nathan S.M, Technical Director, Accent Techno Soft, Coimbatore on August 22, 2019.",
+                "Conducted Project Training  on Citizen Centric Mobile App for   e-Governance service. Mr, V.Karthi, Senior Software Developer, NIC, Chennai, was the resource person on July 29, 2017.",
+                "Conducted a Guest Lecture on the topic Advanced Java, Servlets and JavaBeans. Mr.Senthil, Senior Trainer, Sri Krishna I-Tech, Coimbatore was the resource person on July 13, 2017.",
+                "Conducted a Guest Lecture on the topic Advanced Trends in DOT NET Technologies Mr.K.Jeeva, Senior Software Engineer, ASCENTZ Technologies, Coimbatore was the resource person on June 30, 2017.",
+                "One day Seminar on “Script Language – JOOMLA” on January 27, 2017. Mr.Sunil Jose, Director, Amulya Infotech India Pvt.Ltd, Coimbatore was the resource person.",
+                "Conducted a Guest Lecture on  Real Time Applications of Operations Research on January 06, 2017. Dr.T.Amudha, Assistant Professor, Department of Computer Science, Bharathiar University, Coimbatore was the resource person.",
+                "Conducted a Guest Lecture on “Big Data” on March 10, 2016. Mr.Ravi Venkatraman, Senior Consultant & Head of Deliver Excellence, HP Software University, Coimbatore acted as resource person.",
+                "Guest Lecture on E- Learning on September 27, 2016 by Mrs. V.Rachel, Assistant Professor,  Department of Computer Science,  Avinashilingam University for Women,  Coimbatore was the resource person.",
+                "Conducted a Guest Lecture on “Internet of Things” on August 23, 2016. Mr.P.S.Felix, Senior Project Manager of CG-VAK Software & Exports Ltd.,Coimbatore was the resource person.",
+                "Conducted a Guest Lecture on “Big Data on September 23, 2016. Ms.B.Ashwini, Project Leader, Accent TechnoSoft, Coimbatore was the resource person.",
+                "Conducted a Guest Lecture on Problem solving Techniques for Programming Languages on February 06, 2015. Ms.Shanthini, Associate Professor, Department of Computer Applications, Sri Ramakrishna Institute of Technology, Coimbatore was the resource person.",
+                "Conducted guest Lecture in  Internet of Things on December 15, 2015. Dr. R. Lawrance, Director, Department of MCA, Ayya Nadar Janaki Ammal College, Sivakasi  acted as resource person."
               ]
             }
           ]
